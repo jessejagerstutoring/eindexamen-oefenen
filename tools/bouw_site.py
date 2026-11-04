@@ -216,6 +216,38 @@ def scheikunde(niveau, c):
 VAKKEN['scheikunde-havo'] = scheikunde('havo', {'klas': 'C8', 'proces': 'C1', 'rekenen': 'C2', 'energie': 'C3', 'evenwicht': 'C4', 'technologie': 'C5', 'snelheid': 'C6'})
 VAKKEN['scheikunde-vwo'] = scheikunde('vwo', {'klas': 'C7', 'proces': 'C1', 'rekenen': 'C2', 'energie': 'C6', 'evenwicht': 'C5', 'technologie': 'C8', 'snelheid': 'C4'})
 
+def biologie(niveau):
+    """Onderwerpen biologie; havo en vwo hebben dezelfde domeinindeling."""
+    return {'niveau': niveau, 'naam': 'Biologie', 'opmerking': BINAS.replace('Binas of ScienceData', 'het informatieboek Binas of ScienceData'), 'domeinen': [
+        ('Vaardigheden', [
+            ('onderzoek', 'Onderzoek en experimenten', 'A5', 'Hypothese, variabelen, controlegroep, werkplan, betrouwbaarheid en conclusies.'),
+        ]),
+        ('Cel en erfelijkheid', [
+            ('cel', 'Cellen, organellen en transport', 'B2, D1', 'Organellen, celmembraan, osmose, diffusie en organisatieniveaus.'),
+            ('stofwisseling', 'Stofwisseling en enzymen', 'B2', 'Enzymen, dissimilatie, gisting, assimilatie en energie.'),
+            ('dna', 'DNA, eiwitsynthese en genexpressie', 'B1, E1', 'Transcriptie, translatie, codons, mutaties, genexpressie en biotechnologie.'),
+            ('voortplanting', 'Celdeling en voortplanting', 'E2–E3', 'Mitose, meiose, differentiatie, geslachtelijke en ongeslachtelijke voortplanting.'),
+            ('erfelijkheid', 'Erfelijkheid en stambomen', 'E4', 'Kruisingsschema\'s, dominant en recessief, X-chromosomaal en kansen.'),
+            ('evolutie', 'Evolutie en biodiversiteit', 'F', 'Natuurlijke selectie, soortvorming, resistentie, stambomen en naamgeving.'),
+        ]),
+        ('Het menselijk lichaam', [
+            ('vertering', 'Voeding en vertering', 'B3', 'Spijsverteringskanaal, enzymen, resorptie, lever en voedingsstoffen.'),
+            ('transport', 'Ademhaling, bloedsomloop en uitscheiding', 'B3', 'Longen, hart, bloedvaten, bloed en nieren.'),
+            ('regeling', 'Hormonen en homeostase', 'B4', 'Hormoonklieren, terugkoppeling, glucoseregulatie, ADH en de menstruatiecyclus.'),
+            ('zenuw', 'Zenuwstelsel, zintuigen en spieren', 'B6–B7', 'Zenuwcellen, synaps, reflexen, hersenen, oog en het autonome zenuwstelsel.'),
+            ('afweer', 'Afweer en bloedgroepen', 'B5', 'Aspecifieke en specifieke afweer, vaccinatie, immuniteit en bloedgroepen.'),
+        ]),
+        ('Planten en ecologie', [
+            ('plant', 'Planten', 'B3, B8', 'Fotosynthese, hout- en bastvaten, huidmondjes, wortels en beperkende factoren.'),
+            ('ecologie', 'Ecosystemen en kringlopen', 'B8, D4', 'Voedselwebben, energiestroom, relaties, stikstofkringloop, exoten en duurzaamheid.'),
+            ('gedrag', 'Gedrag', 'D2', 'Gedragsvormen, communicatie en de functie van gedrag.'),
+        ]),
+    ]}
+
+
+VAKKEN['biologie-havo'] = biologie('havo')
+VAKKEN['biologie-vwo'] = biologie('vwo')
+
 NIVEAUS = {'havo': 'Havo', 'vwo': 'Vwo'}
 
 

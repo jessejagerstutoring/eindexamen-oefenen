@@ -1,0 +1,2595 @@
+BIOLOGIE HAVO
+
+
+
+SYLLABUS CENTRAAL EXAMEN
+2026
+
+
+
+Versie 2, juli 2024
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+Samenstelling syllabuscommissie:
+Michiel Dam – voorzitter
+Herman Schalk – secretaris SLO
+Arjen Galema – adviseur Cito
+Hester Moens – docent (betrokken bij curriculum.nu)
+Linda Visser-Van Emmerik - docent (op voordracht van de NVON)
+Ingeborg van der Neut – docent (deelnemer verkenning)
+Jelly de Jong – docent (deelnemer verkenning)
+Marlies van Vlimmeren – docent (deelnemer verkenning)
+
+
+
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+
+                                                                                        Pagina 2 van 44
+      BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+      INHOUD
+
+
+VOORWOORD                                                                                        4
+
+1     INDELING SYLLABUS EN VERDELING EXAMENSTOF OVER CE EN SE                                    5
+1.1   Concepten, systeemconcepten en organisatieniveaus                                          5
+1.2   Anders door de matrix                                                                      6
+1.3   Nieuwe nummers van de subdomeinen                                                          7
+1.4   Verdeling over CE en SE                                                                    7
+
+2     TOELICHTING OP DE SPECIFICATIES                                                            9
+2.1   Opbouw van de specificaties                                                                9
+2.2   Contextgebieden                                                                            9
+2.3   Deelconcepten                                                                              9
+2.4   Beheersingsniveau                                                                          9
+
+3     DOMEIN A. VAARDIGHEDEN                                                                    11
+      Algemene vaardigheden (profieloverstijgend niveau)                                        11
+      Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)        11
+      Biologie-specifieke vaardigheden                                                          14
+
+M     MOLECUUL- EN CELNIVEAU                                                                    16
+M2    Stofwisseling van de cel (subdomein B2)                                                   16
+M3    Zelforganisatie van cellen (subdomein C1)                                                 18
+M7    Erfelijke eigenschap (subdomein E4)                                                       18
+M8    Selectie (subdomein F1)                                                                   19
+
+O     ORGAAN- EN ORGANISMENIVEAU                                                                20
+O1    Stofwisseling van het organisme (subdomein B3)                                            20
+O2    Zelfregulatie van het organisme (subdomein B4)                                            22
+O3    Afweer van het organisme (subdomein B5)                                                   24
+
+P     POPULATIE- EN ECOSYSTEEMNIVEAU                                                            24
+P1    Regulatie van ecosystemen (subdomein B8)                                                  24
+P3    Interactie in ecosystemen (subdomein D4)                                                  25
+P4    Soortvorming (subdomein F2)                                                               26
+
+BIJLAGE 1: EXAMENPROGRAMMA BIOLOGIE HAVO                                                        28
+
+BIJLAGE 2: CONCEPTENTABEL BIJ HET EXAMENPROGRAMMA                                               33
+
+BIJLAGE 3: OMZETTING VAN OUDE NAAR NIEUWE NUMMERING EN ANDERSOM                                 34
+
+BIJLAGE 4: VOORBEELDCONTEXTEN                                                                   35
+
+BIJLAGE 5: EXAMEN(WERK)WOORDEN                                                                  37
+
+BIJLAGE 6: KENNIS VAN NATUURKUNDE EN SCHEIKUNDE                                                 38
+
+BIJLAGE 7: INDEX VAN CONCEPTEN EN DEELCONCEPTEN                                                 39
+
+
+
+
+                                                                                           Pagina 3 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+(www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+In de syllabi 2026 zijn de wijzigingen ten opzichte van de vorige syllabus voor het examenjaar 2025
+duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn diverse vakken waarbij de syllabus
+2026 geen inhoudelijke veranderingen heeft ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H. (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 44
+      BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1     INDELING SYLLABUS EN VERDELING EXAMENSTOF OVER CE EN SE
+
+1.1   CONCEPTEN, SYSTEEMCONCEPTEN EN ORGANISATIENIVEAUS
+      De concepten die voorkomen in het examenprogramma biologie zijn gestructureerd volgens twee
+      indelingen. Enerzijds zijn ze ingedeeld in biologische organisatieniveaus. Op elk niveau zijn er systemen
+      met een eigen organisatie: de moleculen, de cel, het orgaan, het organisme, de populatie, het
+      ecosysteem. Anderzijds zijn de concepten verdeeld over systeemconcepten.
+
+      Systeemconcepten komen voort uit het benaderen van biologische processen en verschijnselen als
+      complexe systemen en het daaruit voortvloeiende systeemdenken. Systeemdenken in de biologie heeft
+      als doel het ontwikkelen van een samenhangend begrip van complexe biologische processen en
+      verschijnselen van het moleculaire niveau tot het niveau van ecosystemen. Systeemdenken is dus niet
+      gericht op het leren van geïsoleerde onderdelen en processen maar richt zich op de kenmerken van
+      complexe systemen (bijvoorbeeld een cel, een organisme, een ecosysteem) waarin vele onderdelen in
+      samenhangende processen leiden tot een bepaalde functie. Systeemconcepten zijn de concepten die de
+      structuur in systemen weergeven. We onderscheiden daarbij de volgende systeemconcepten:
+      – zelfregulatie (hoe houdt een biologisch systeem zichzelf in stand?);
+      – zelforganisatie (hoe ontwikkelt een biologisch systeem zich in de loop van de tijd zodat allerlei
+          emergente eigenschappen, nieuwe evenwichten en structuren ontstaan?);
+      – interactie (hoe wordt een biologisch systeem beïnvloed door biotische en abiotische factoren?);
+      – reproductie (hoe leiden processen in systemen tot vermenigvuldiging van individuele, gelijksoortige
+          biologische eenheden?); en
+      – evolutie (hoe leiden processen in systemen tot aanpassing?).
+
+      Hieronder worden de vijf systeemconcepten uit het examenprogramma (die de naam geven aan de
+      domeinen B t/m F) kort toegelicht.
+
+      Zelfregulatie
+      Ook wel: instandhouding. Biologische eenheden, op welk organisatieniveau dan ook, houden zichzelf in
+      stand door het opnemen van stoffen c.q. energie uit hun omgeving, door het herstellen van opgelopen
+      schade, door zich te verdedigen tegen belagers en tegen schadelijke stoffen en door het aanpassen aan
+      of het veranderen van de omgeving.
+
+      Zelforganisatie
+      Ook wel: groei en ontwikkeling. Biologische eenheden kunnen beschouwd worden als systemen met een
+      organisatie. Ze organiseren zichzelf. Door zelforganisatie kunnen nieuwe structuren in biologische
+      eenheden van een hoger organisatieniveau ontstaan. Op het hogere organisatieniveau zijn nieuwe
+      eigenschappen te zien, die de biologische eenheid van het lagere organisatieniveau niet heeft, de
+      zogenoemde emergente eigenschappen. Het geheel is daarbij meer dan de som van de delen.
+
+      Interactie
+      Biologische eenheden worden beïnvloed door hun omgeving, die zowel biotisch als abiotisch van aard kan
+      zijn. Op deze beïnvloeding kunnen de biologische eenheden reageren door zich aan te passen, te
+      verplaatsen of andere reacties te vertonen. Omgekeerd hebben biologische eenheden ook invloed op hun
+      biotische en abiotische omgeving.
+
+      Reproductie
+      Biologische eenheden, zoals enkele celorganellen, cellen en organismen, repliceren zich. Op het niveau
+      van het molecuul DNA heet dat replicatie, op het niveau van het organisme voortplanting. Die reproductie
+      is niet hetzelfde als kopiëren, want er kan mutatie en recombinatie optreden, wat uitmondt in variatie op
+      alle organisatieniveaus.
+
+      Evolutie
+      Evolutie laat zien hoe toeval, mutatie, recombinatie, variatie, adaptatie en selectiedruk in en tussen
+      systemen hebben geleid tot de nu aanwezige biodiversiteit.
+
+
+
+
+                                                                                                   Pagina 5 van 44
+      BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1.2   ANDERS DOOR DE MATRIX
+      De concepten die voorkomen in het examenprogramma (bijlage 1) zijn voor de biologie gestructureerd in
+      een systeemmatrix. De subdomeinen van het examenprogramma zijn gebaseerd op de cellen in de
+      matrix.
+
+      In het examenprogramma en de voorgaande versies van de syllabus wordt de matrix per kolom
+      doorlopen: eerst domein B, dan domein C en zo verder. In deze versie van de syllabus is dat veranderd.
+      Nu gaat dat per combinatie van rijen: eerst de organisatieniveaus Molecuul en Cel, daarna die van
+      Orgaan en Organisme en tot slot die van Populatie, Ecosysteem en Systeem Aarde, aangegeven met
+      letters: M = molecuul- en celniveau, O = Orgaan- en organismeniveau, P = Populatie- en
+      ecosysteemniveau. Dit is weergegeven in de figuur hieronder. De rode pijlen geven de oude leesrichting
+      aan, de paarse de nieuwe. Het concept Erfelijke eigenschap (subdomein E4) is daarbij naar het Molecuul-
+      en celniveau verplaatst, omdat de (deel)concepten die hierin aan de orde komen hoofdzakelijk op die
+      niveaus van toepassing zijn.
+
+
+
+
+      In bijlage 2 is de matrix opgenomen zonder pijlen en mét de nieuwe nummering van de subdomeinen.
+
+                                                                                               Pagina 6 van 44
+      BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1.3   NIEUWE NUMMERS VAN DE SUBDOMEINEN
+      Omdat het examenprogramma niet verandert, veranderen ook de officiële namen en nummers van de
+      subdomeinen niet. Om het opzoeken van specificaties en de bijbehorende deelconcepten niet vreselijk
+      ingewikkeld te maken is toch een nieuwe nummering gemaakt. In de tabel in paragraaf 1.4 is te zien hoe
+      de oude en de nieuwe nummering zich tot elkaar verhouden. In bijlage 3 is ook de omgekeerde conversie
+      (van oud naar nieuw) te vinden.
+
+1.4   VERDELING OVER CE EN SE
+      Het examenprogramma biologie bestaat uit een gedeelte dat getoetst wordt in het centraal examen (CE)
+      en een deel dat afgesloten wordt in het schoolexamen (SE). De syllabus geeft een specificatie van het
+      CE-deel van het examenprogramma.
+      Het SE-deel is nader gespecificeerd in een handreiking van SLO. In de handreiking zijn suggesties
+      opgenomen voor het SE-deel welke niet bindend zijn.
+
+      In de onderstaande tabel staat vermeld welke domeinen en subdomeinen op het CE geëxamineerd
+      kunnen worden en welke aan het SE zijn toegewezen.
+
+          Domein                 Subdomein                                          Concept                      CE1   SE
+                                 nieuw/oud
+
+          A    Vaardigheden      A1           Informatievaardigheden                                              X     X
+
+                                 A2           Communiceren                                                        X     X
+                                 A3           Reflecteren op leren                                                X     X
+                                 A4           Studie en beroep                                                    X     X
+                                 A5           Onderzoeken                                                         X     X
+                                 A6           Ontwerpen                                                           X     X
+                                 A7           Modelvorming                                                        X     X
+                                 A8           Natuurwetenschappelijk instrumenta-                                 X     X
+                                              rium
+
+
+                                 A9           Waarderen en oordelen                                               X     X
+                                 A10          Beleven                                                                   X
+                                 A11          Vorm-functie denken                                                 X     X
+                                 A12          Ecologisch denken                                                   X     X
+                                 A13          Evolutionair denken                                                 X     X
+                                 A14          Systeemdenken                                                       X     X
+                                 A15          Contexten                                                           X     X
+                                 A16          Kennisontwikkeling en                                               X     X
+                                              -toepassing
+
+
+          M    Molecuul- en      M1      B1   Eiwitsynthese                                                             X
+               celniveau
+                                 M2      B2   Stofwisseling van de cel              M2.1 Homeostase               X
+                                                                                    M2.2 Transport
+                                                                                    M2.3 Assimilatie en
+                                                                                    dissimilatie
+                                 M3      C1   Zelforganisatie van cellen            M3.1 Genexpressie             X
+                                                                                    M3.2 Celdifferentiatie
+                                 M4      D1   Moleculaire interactie                                                    X
+
+                                 M5      E1   DNA-replicatie                                                            X
+
+                                 M6      E2   Levenscyclus van de cel                                                   X
+
+                                 M7      E4   Erfelijke eigenschap                  M7.1 Erfelijke                X
+                                                                                    eigenschap
+
+
+      1
+          Het is toegestaan de subdomeinen voor het CE ook in het SE te toetsen.
+                                                                                                             Pagina 7 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    Domein                Subdomein                                          Concept                    CE1    SE
+                          nieuw/oud
+
+                          M8      F1   Selectie                              M8.1 DNA                    X
+                                                                             M8.2 Mutatie
+                                                                             M8.3 Recombinatie
+                                                                             M8.4 Variatie
+    O   Orgaan- en        O1      B3   Stofwisseling van het organisme       O1.1 Orgaan                 X
+        organisme-                                                           O1.2 Fotosynthese
+        niveau                                                               O1.3 Ademhaling
+                                                                             O1.4 Vertering
+                                                                             O1.5 Uitscheiding
+                                                                             O1.6 Transport
+                          O2      B4   Zelfregulatie van het organisme       O2.1 Homeostase             X
+                                                                             O2.2 Hormonale
+                                                                             regulatie
+                                                                             O2.3 Neurale regulatie
+                          O3      B5   Afweer van het organisme              O3.1 Afweer                 X
+
+                          O4      B6   Beweging van het organisme                                               X
+
+                          O5      B7   Waarneming door het organisme                                            X2
+
+                          O6      C2   Zelforganisatie van het organisme                                        X
+
+                          O7      D2   Gedrag en interactie                                                     X
+
+                          O8      D3   Seksualiteit                                                             X
+
+                          O9      E3   Voortplanting van het organisme                                          X
+
+    P   Populatie- en     P1      B8   Regulatie van ecosystemen             P1.1 Energiestroom          X
+        ecosysteem-                                                          P1.2 Kringloop
+        niveau                                                               P1.3 Dynamiek en
+                                                                             evenwicht
+                          P2      C3   Zelforganisatie van ecosystemen                                          X
+
+                          P3      D4   Interactie in ecosystemen             P3.1 Voedselrelatie         X
+                                                                             P3.2 Duurzame
+                                                                             ontwikkeling
+                          P4      F2   Soortvorming                          P4.1 Populatie              X
+                                                                             P4.2 Variatie
+                                                                             P4.3 Selectie
+                                                                             P4.4 Soortvorming
+                          P5      F3   Biodiversiteit                                                           X
+
+
+
+
+2
+  In verband met overladenheid van het programma is subdomein B7 overgeheveld naar het SE. Hierdoor heeft de
+docent meer vrijheid bij de exacte invulling van dit subdomein. Dit subdomein wordt dan ook niet meer gespecificeerd
+in deze syllabus.
+                                                                                                     Pagina 8 van 44
+      BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+2     TOELICHTING OP DE SPECIFICATIES
+
+2.1   OPBOUW VAN DE SPECIFICATIES
+      De specificaties in de syllabus kennen de volgende opbouw.
+
+      Per subdomein:
+      – De eindterm waarin de te hanteren biologische concepten en de contextgebieden waarin die
+         biologische concepten in de maatschappelijke werkelijkheid van belang zijn, worden genoemd.
+
+      Per concept:
+      – Een specificatie van de wijze waarop de kandidaat de concepten in de genoemde contextgebieden
+         moet kunnen hanteren. Hierin geeft een handelingswerkwoord de aanduiding van het
+         beheersingsniveau waarop de kandidaat de concepten moet kunnen hanteren. Zie voor een nadere
+         toelichting paragraaf 2.4. Bij elk onderdeel van de specificatie staat een opsomming van
+         deelconcepten waarop deze betrekking heeft.
+
+2.2   CONTEXTGEBIEDEN
+      In de Commissie Vernieuwing Biologie Onderwijs (2010) zijn keuzes gemaakt ten aanzien van de
+      concepten uit de biologie die in het onderwijs behandeld moeten worden en de contextgebieden waarin
+      die concepten worden gebruikt. De keuze voor de te behandelen concepten voor biologie is gemaakt op
+      basis van actuele en veel voorkomende biologische praktijken in Nederland. Dat vergroot de kans dat
+      leerlingen relevantie ervaren en het perspectief van vooropleiding voor vervolgstudie of beroep wordt
+      verbeterd. In de eindtermen worden de volgende contextgebieden gebruikt.
+          -    Energie
+          -    Gezondheid of gezondheidszorg
+          -    Duurzaamheid
+          -    Voeding
+          -    Voedselproductie
+          -    Sport
+          -    Wereldbeeld
+          -    veiligheid
+
+      In bijlage 4 is een aantal voorbeelden van contexten opgenomen, een selectie van de voorbeelden die in
+      voorgaande versies van de syllabus stonden.
+
+2.3   DEELCONCEPTEN
+      Bij ieder subdomein is per onderdeel of onderdelen van een specificatie een opsomming van
+      deelconcepten opgenomen waarop dit onderdeel van de specificatie betrekking heeft. Deze deelconcepten
+      geven aan tot op welk niveau en in welke mate van detail de kandidaat de stof moet beheersen. De
+      deelconcepten hebben geen ander doel dan een niveauaanduiding: ze moeten noch gezien worden als
+      een verplichte, noch als een volledige lijst van termen waarover vragen kunnen worden gesteld. In
+      contexten kunnen nieuwe termen worden geïntroduceerd die in de context zelf worden toegelicht. In
+      bijlage 7 is een index opgenomen van concepten en deelconcepten die in deze syllabus voorkomen.
+
+2.4   BEHEERSINGSNIVEAU
+      In het examenprogramma zijn drie beheersingsniveaus onderscheiden die gekarakteriseerd zijn met de
+      woorden benoemen, verklaren en beargumenteren. In de specificaties in deze syllabus zijn per niveau
+      verschillende handelingswerkwoorden gebruikt. Deze zijn weergegeven in de tabel op de volgende
+      pagina. Behalve de gebruikte handelingswerkwoorden geven ook de deelconcepten aan tot op welk
+      niveau en in welke mate van detail de kandidaten de stof moeten beheersen.
+
+      Deze handelingswerkwoorden moeten niet verward worden met de woorden in een examen, ook wel
+      examenwerkwoorden genoemd (zie bijlage 5). Deze hoeven qua niveau niet overeen te komen met de in
+      eindtermen en specificaties gebruikte handelingswerkwoorden. De moeilijkheidsgraad van een
+      examenvraag wordt onder andere bepaald door de complexiteit van de contexten. Zo kan een niveau 1-
+      werkwoord binnen een complexe context een moeilijke vraag opleveren en kan een niveau 3-werkwoord
+      in een recht toe recht aan vraag een makkelijke vraag opleveren.
+
+
+
+                                                                                               Pagina 9 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ Beheersingsniveau             Te gebruiken handelingswerkwoorden in de syllabus
+
+ Benoemen                      Benoemen
+
+                               Beschrijven
+
+                               Herkennen
+
+                               Identificeren
+
+                               Selecteren
+
+ Verklaren                     Bepalen
+
+                               Onderscheiden
+
+                               Specificeren
+
+                               Toelichten
+
+                               Toepassen
+
+                               Uitleggen
+
+                               Verklaren
+
+                               Verrichten
+
+                               Verwerken
+
+                               Voorstel doen
+
+ Beargumenteren                Analyseren
+
+                               (Be)argumenteren
+
+                               Beoordelen
+
+                               Beredeneren
+
+                               Conclusie trekken
+
+                               Hypothese opstellen
+
+                               Keuze maken
+
+                               Realiseren
+
+                               Redeneringen hanteren
+
+                               Relaties/verbanden leggen
+
+                               Vereenvoudigen
+
+                               Evalueren
+
+
+
+
+                                                                                   Pagina 10 van 44
+    BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+    Versie 2
+
+
+
+
+3   DOMEIN A. VAARDIGHEDEN
+    De vaardigheden zijn onderverdeeld in drie categorieën:
+
+    Subdomeinen A1 t/m A4:             Algemene vaardigheden (profieloverstijgend niveau)
+    Subdomeinen A5 t/m A9:             Natuurwetenschappelijke, wiskundige en technische vaardigheden
+                                       (bètaprofielniveau)
+    Subdomeinen A10 t/m A16:           Biologie-specifieke vaardigheden
+
+    De eerste categorie met algemene profieloverstijgende vaardigheden worden in deze syllabus niet verder
+    gespecificeerd. De specificaties van de subdomeinen A5 t/m A9 zijn afgestemd met de
+    syllabuscommissies scheikunde en natuurkunde.
+    Voor een aantal vaardigheden (A6 t/m A7) geldt dat de vaardigheid gedeeltelijk bestaat uit onderdelen
+    die niet op het centraal examen getoetst zullen worden. Omwille van de volledigheid van de specificatie
+    van de betreffende eindterm, zijn deze onderdelen wel in de specificatie opgenomen, maar cursief en
+    grijs afgedrukt. De betreffende specificaties gelden dus niet voor het centraal examen.
+
+    ALGEMENE VAARDIGHEDEN (PROFIELOVERSTIJGEND NIVEAU)
+
+    Subdomein A1. Informatievaardigheden gebruiken
+    Eindterm
+    De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.
+
+    Subdomein A2. Communiceren
+    Eindterm
+    De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over
+    onderwerpen uit het desbetreffende vakgebied.
+
+    Subdomein A3. Reflecteren op leren
+    Eindterm
+    De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen
+    belangstelling, motivatie en leerproces.
+
+    Subdomein A4. Studie en beroep
+    Eindterm
+    De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt
+    gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden
+    brengen.
+
+    NATUURWETENSCHAPPELIJKE, WISKUNDIGE EN TECHNISCHE VAARDIGHEDEN
+    (BÈTAPROFIELNIVEAU)
+
+    Subdomein A5. Onderzoeken
+    Eindterm
+    De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en
+    conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente
+    redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+    Specificatie
+    De kandidaat kan:
+    1 een natuurwetenschappelijk probleem herkennen/specificeren;
+    2 een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en);
+    3 verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis;
+    4 een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren;
+    5 een werkplan maken voor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoording
+       van een (of meerdere) onderzoeksvra(a)g(en);
+    6 voor de beantwoording van een onderzoeksvraag relevante waarnemingen verrichten en
+       (meet)gegevens verzamelen;
+
+
+                                                                                              Pagina 11 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+7 meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een
+   onderzoeksvraag;
+8 op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten
+   bij de onderzoeksvra(a)g(en) van het onderzoek;
+9 de uitvoering en de uitkomsten van een onderzoek evalueren;
+10 een natuurwetenschappelijk onderzoek op een geschikte manier presenteren;
+11 herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken zijn.
+
+Subdomein A6. Ontwerpen
+Eindterm
+De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden,
+uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en
+consistente redeneringen hanteren.
+
+Specificatie
+De kandidaat kan:
+1 een ontwerpprobleem specificeren;
+2 een ontwerpprobleem herleiden tot een aantal afzonderlijk uitwerkbare deelproblemen (taken,
+   eigenschappen);
+3 voor een ontwerp een programma van eisen opstellen: randvoorwaarden, eisen, prioriteiten en
+   wensen;
+4 verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een
+   ontwerp;
+5 meerdere uitwerkingen of oplossingen per deelprobleem geven;
+6 een beargumenteerd ontwerpvoorstel doen voor een ontwerp, rekening houdend met het programma
+   van eisen;
+7 een prototype van een ontwerp realiseren;
+8 een ontwerpproces en -product testen en evalueren, rekening houdend met het programma van
+   eisen;
+9 voorstellen doen voor verbetering van een ontwerp;
+10 een ontwerpproces en -product op een geschikte manier presenteren.
+
+Subdomein A7. Modelvorming
+Eindterm
+De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en
+modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente
+redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Specificatie
+De kandidaat kan:
+1 een natuurwetenschappelijk verschijnsel specificeren met als doel het te beschrijven, te verklaren of
+   te voorspellen;
+2 een natuurwetenschappelijk verschijnsel vereenvoudigen en de essentiële kenmerken ervan
+   identificeren;
+3 van een model de overeenkomsten en verschillen met de werkelijkheid benoemen met als doel de
+   geschiktheid en het geldigheidsgebied van het model te bepalen;
+4 van een model beoordelen in hoeverre het aansluit bij het doel waarvoor het ingezet wordt;
+5 voor een model een geschikte fysieke, schematische of wiskundige weergave selecteren;
+6 met een model eigenschappen van een natuurwetenschappelijk verschijnsel beschrijven, verklaren
+   en/of voorspellen;
+7 voorstellen doen voor de verbetering en/of uitbreiding van een model;
+8 de aanpassing, de opbouw of het gebruik van een model presenteren.
+
+Subdomein A8. Natuurwetenschappelijk instrumentarium
+Eindterm
+De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren,
+waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor
+                                                                                          Pagina 12 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige
+bewerkingen.
+
+Specificatie
+De kandidaat kan:
+1 informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen mede met
+   behulp van ICT:
+   •   gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;
+   •   grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.
+2 informatie, gegevens en meetresultaten analyseren, weergeven en structureren in grafieken,
+   tekeningen, schema’s, diagrammen en tabellen mede met behulp van ICT;
+3 de volgende grootheden en eenheden gebruiken, daarbij gebruik makend van de prefixen van nano
+   (n) tot en met giga (G):
+   •   lengte, oppervlakte, inhoud (m, m2, m3, L)
+   •   massa (kg);
+   •   dichtheid: massa per volume (kg.m-3);
+   •   concentratie: aantal per volume (mol.L-1), massa per volume (g.L-1); massapercentage,
+       volumepercentage, parts per million;
+   •   snelheid: afstand per tijdseenheid (m.s-1);
+   •   diffusiesnelheid: aantal per oppervlakte per tijdseenheid (mol.m-2.s-1) of massa per oppervlakte
+       per tijdseenheid (g.m-2.s-1)
+   •   temperatuur (⁰C);
+   •   energie (J, kcal);
+   •   spanning (V);
+   •   druk: kracht per oppervlakte (Pa, mmHg);
+4 aangeven met welke technieken en apparaten de belangrijkste grootheden uit de
+   natuurwetenschappen worden gemeten;
+5 verantwoord omgaan met materialen, instrumenten, organismen en milieu;
+6 een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om
+   natuurwetenschappelijke problemen op te lossen:
+   •   rekenen met getallen in breuken en machten;
+   •   rekenen met verhoudingen, percentages en gemiddelden;
+   •   rekenen met oppervlakte en volume;
+   •   rekenen met kansen;
+   •   grafieken opstellen en daarbij rekening houden met de plaats van de afhankelijke en de
+       onafhankelijke variabele;
+   •   lineaire en exponentiële verbanden herkennen in grafieken;
+   •   grafieken lezen (formuleloos), gericht op grafisch verloop en trends;
+7 verbanden leggen op basis van tabel- en grafiekgegevens.
+8 toelichten wat de invloed is van de verschillende variabelen in een gegeven formule op het daarmee
+   beschreven biologische proces.
+
+Subdomein A9. Waarderen en oordelen
+Eindterm
+De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een
+technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve
+maatschappelijke overwegingen en persoonlijke opvattingen.
+
+Specificatie
+De kandidaat kan:
+1 een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een
+   belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij
+   vraagstukken van natuurwetenschappelijke aard;
+2 een onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke
+   overwegingen en persoonlijke opvattingen;
+3 feiten met bronnen verantwoorden;
+4 de betrouwbaarheid beoordelen van informatie en de waarde daarvan vaststellen voor de
+   beantwoording van het betreffende vraagstuk.
+
+                                                                                          Pagina 13 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIOLOGIE-SPECIFIEKE VAARDIGHEDEN
+
+Subdomein A10. Beleven
+Eindterm
+De kandidaat kan in contexten gevoelens en betekenissen expliciteren die worden opgeroepen door het
+omgaan met de natuur of in de natuur voorkomende objecten en daarbij aandacht schenken aan de
+gevoelens en betekenissen van anderen.
+
+Subdomein A11. Vorm-functie-denken
+Eindterm
+De kandidaat kan in contexten redeneringen hanteren waarbij van biologische objecten op verschillende
+organisatieniveaus vanuit een gegeven vorm naar een bijbehorende functie wordt gezocht en andersom.
+
+Specificatie
+De kandidaat kan:
+1 herkennen hoe een gegeven vorm van onderdelen in een bepaald systeem (ruimtelijke vorm,
+  materiaal, constructie en/of proces) kan leiden naar een functie;
+2 herkennen hoe een gegeven biologische functie eisen stelt aan de vorm van de onderdelen binnen een
+  systeem
+  (waar dient het geheel voor? wat is daar aan vorm van onderdelen voor nodig?);
+3 herkennen wat de relatie is tussen bouw en werking van een systeem en de functie van dat systeem,
+  soms over meerdere organisatieniveaus
+  (zie bijvoorbeeld de relatie tussen bouw en werking van verschillende cellen en organen in de
+  subdomeinen O1, O2 en O3 [voorheen B3, B4 en B5] en subdomein A14).
+
+Subdomein A12. Ecologisch denken
+Eindterm
+De kandidaat kan in contexten op het gebied van duurzaamheid redeneringen hanteren waarbij
+uitgewerkt wordt wat de gevolgen van interne of externe veranderingen in een levensgemeenschap of
+ecosysteem zijn.
+
+Specificatie
+De kandidaat kan:
+1 benoemen dat een ecosysteem bestaat uit een complex samenhangend geheel van componenten en
+  interacties daartussen die samen de instandhouding en ontwikkeling van een ecosysteem reguleren
+  (zie subdomein P1.3 en P2 [voorheen B8.3, C3]);
+2 beschrijven dat een ecosysteem wordt gereguleerd vanuit kringlopen van elementen (koolstof en
+  stikstof), energiestromen en voedselwebben
+  (zie subdomeinen P1.1, P1.2, P3.1 [voorheen B8.1, B8.2, D4.1]);
+3 verklaren hoe menselijk handelen binnen een ecosysteem op een lager organisatieniveau kan leiden
+  tot grote veranderingen op hogere organisatieniveaus
+  (zie subdomein P3.2 [voorheen D4.2]).
+
+Subdomein A13. Evolutionair denken
+Eindterm
+De kandidaat kan in contexten redeneringen hanteren waarmee biologische verschijnselen op
+verschillende organisatieniveaus verklaard worden met behulp van theorie over evolutiemechanismen.
+
+Specificatie
+De kandidaat kan:
+1 beschrijven dat er genetische variatie in een populatie ontstaat
+   (zie subdomein P4.2 [voorheen F2.2]);
+2 beschrijven hoe door selectiedruk bepaalde adaptaties in populaties over meerdere generaties meer
+   gaan voorkomen
+   (zie subdomein P4.3 [voorheen F2.3]);
+3 beschrijven hoe reproductieve isolatie kan leiden tot soortvorming
+   (zie subdomein P4.4 [voorheen F2.4]).
+
+
+
+                                                                                       Pagina 14 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+Subdomein A14. Systeemdenken
+Eindterm
+De kandidaat kan in contexten een onderscheid maken tussen verschillende organisatieniveaus, relaties
+binnen en tussen organisatieniveaus uitwerken en uiteenzetten hoe biologische eenheden op
+verschillende organisatieniveaus zichzelf in stand houden en ontwikkelen.
+
+Specificatie
+De kandidaat kan:
+1 herkennen hoe binnen één organisatieniveau de onderdelen van een biologisch systeem en de relaties
+   daartussen (bouw en werking) samen de functie bepalen en zichzelf in stand houden;
+   (bijvoorbeeld herkennen wat de relatie is tussen de bouw van hart en bloedvaten en hun functie, zie
+   subdomein O1.6 [voorheen B3.6]);
+2 beschrijven hoe de werking van een biologisch systeem binnen een organisatieniveau wordt beïnvloed
+   door onderliggende of bovenliggende organisatieniveaus
+   (bijvoorbeeld energiestromen die starten bij de fotosynthese op lagere organisatieniveaus en verder
+   gaan via consumenten op hogere organisatieniveaus, zie subdomein P1 [voorheen B8]);
+3 beschrijven dat een biologisch systeem op een bepaald organisatieniveau eigenschappen kan hebben
+   die onderliggende organisatieniveaus niet hebben.
+
+Subdomein A15. Contexten
+Eindterm
+De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde
+concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.
+
+Specificatie
+De kandidaat kan:
+1 biologische vaardigheden en concepten gebruiken in verschillende leefwereldcontexten en
+   beroepscontexten;
+2 herkennen dat biologische concepten in verschillende contexten een verschillende betekenis kunnen
+   hebben
+   (bijvoorbeeld energie op niveau van molecuul en ecosysteem, zie subdomeinen M2.3 en P1.1
+   [voorheen B2.3 en B8.1]).;
+3 relaties leggen tussen biologische concepten en de context.
+
+Subdomein A16. Kennisontwikkeling en -toepassing
+Eindterm
+De kandidaat kan in contexten analyseren op welke wijze natuurwetenschappelijke en technologische
+kennis wordt ontwikkeld en toegepast.
+
+
+
+
+                                                                                        Pagina 15 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+M      MOLECUUL- EN CELNIVEAU
+
+       In de tabellen zijn sommige deelconcepten cursief gedrukt. Cursief gedrukte deelconcepten betreffen
+       begrippen uit scheikunde of natuurkunde die nodig zijn voor deze (en andere) specificaties. In bijlage 6
+       zijn alle cursief gedrukte deelconcepten opgenomen.
+
+M2     STOFWISSELING VAN DE CEL (SUBDOMEIN B2)
+       Eindterm
+       De kandidaat kan met behulp van de concepten homeostase, transport, assimilatie en dissimilatie ten
+       minste in contexten op het gebied van gezondheid en voeding verklaren op welke wijze de stofwisseling
+       van cellen van prokaryoten en eukaryoten verloopt.
+
+M2.1   Homeostase (B2.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                  Deelconcepten
+
+       1 benoemen wat de kenmerken van bacteriën          prokaryoot, bacterie, plasmide, celwand, cirkelvormig
+         zijn;                                            chromosoom
+
+       2 benoemen wat de kenmerken van virussen           virus, eiwitmantel, DNA-virus, RNA-virus
+         zijn;
+
+       3 benoemen wat de onderdelen zijn van              eukaryoot, celkern, chromosoom, celwand,
+         eukaryote cellen en de functies ervan            celmembraan, vacuole, cytoplasma, mitochondrie,
+         beschrijven;                                     (ruw) endoplasmatisch reticulum, golgi-systeem,
+                                                          plastiden, ribosoom, lysosoom, bladgroenkorrel,
+                                                          bladgroen, trilharen
+
+
+       4 herkennen dat cellen zichzelf reguleren          homeostase
+         waardoor homeostase in de cel gerealiseerd
+         wordt.
+
+
+M2.2   Transport (B2.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                  Deelconcepten
+
+       1 uitleggen dat bepaalde stoffen door passief      diffusie, osmose, semi-permeabel membraan,
+         transport en andere door actief transport        selectief permeabel, receptoreiwit, ionentransport,
+         membranen kunnen passeren;                       actief transport, passief transport, endocytose,
+                                                          exocytose, glucose, zuurstof, koolstofdioxide (CO2),
+                                                          natriumchloride (NaCl)
+
+       2 toelichten wat de relatie is tussen de           isotonisch, hypotonisch, hypertonisch, osmotische
+         osmotische waarde binnen een cel en die          waarde
+         daarbuiten;
+
+       3 uitleggen wat de invloed is van de               plasmolyse, turgor
+         osmotische waarde van een cel op de
+         stevigheid.
+
+
+
+
+                                                                                                  Pagina 16 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+M2.3   Assimilatie en dissimilatie (B2.3)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven dat cellen stoffen opnemen,         atoom, molecuul, ion, energie, autotroof, heterotroof,
+         transporteren, omzetten en afgeven met          assimilatie, dissimilatie
+         behulp van energie, gekatalyseerd door
+         enzymen;
+
+       2 benoemen dat er verschillende vormen van        chemische energie, lichtenergie, kinetische energie,
+         energie zijn;                                   warmte, ADP, ATP, fosfaat
+
+       3 beschrijven dat verschillende vormen van
+         energie in elkaar kunnen overgaan;
+
+       4 beschrijven hoe fotosynthese in cellen met      fotosynthese, bladgroenkorrel, glucose, zuurstof,
+         bladgroenkorrels verloopt;                      koolstofdioxide
+
+       5 beschrijven hoe assimilatieprocessen in         voortgezette assimilatie, bouwstof, brandstof,
+         planten en dieren leiden tot de aanmaak van     reservestof, koolhydraat, monosacharide,
+         bouwstoffen, brandstoffen, reservestoffen en    disacharide, polysacharide, zetmeel, glycogeen,
+         enzymen;                                        cellulose, vet, vetzuur, glycerol, eiwit, aminozuur,
+                                                         essentieel aminozuur, niet-essentieel aminozuur,
+                                                         DNA, enzym, fosfolipide, tussencelstof, katalysator,
+                                                         wateroplosbaar, vetoplosbaar
+
+       6 beschrijven hoe anaerobe en aerobe              energievoorziening, verbranding, aeroob, anaeroob,
+         dissimilatie bijdragen aan de                   gisting, alcohol, melkzuur, glucose, zuurstof,
+         energievoorziening;                             koolstofdioxide
+
+       7 assimilatieprocessen en dissimilatieprocessen   reactievergelijking, molecuulformule,
+         herkennen in de vorm van                        structuurformule, calcium (Ca), chloor (Cl), fosfor (P),
+         reactievergelijkingen;                          ijzer (Fe), kalium (K), koolstof (C), stikstof (N),
+                                                         natrium (Na), waterstof (H), zuurstof (O), ammoniak
+                                                         (NH3), koolstofdioxide (CO2), fosfaat (PO43-), glucose
+                                                         (C6H12O6), methaan (CH4), nitraat (NO3-), nitriet
+                                                         (NO2-), stikstofgas (N2), water (H2O), zuurstofgas
+                                                         (O2)
+
+       8 beschrijven waar en hoe enzymen reacties        enzymwerking, katalyseren, substraat, enzym-
+         katalyseren;                                    substraatcomplex
+
+       9 beschrijven hoe temperatuur en pH               pH, optimumkromme, indicator
+         enzymwerking beïnvloeden;
+
+       10 beschrijven hoe in de biotechnologie           biotechnologie, metabolisme, recombinant-DNA,
+          gebruikgemaakt wordt van het                   micro-organisme
+          metabolisme van micro-organismen.
+
+
+
+
+                                                                                                  Pagina 17 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+M3     ZELFORGANISATIE VAN CELLEN (SUBDOMEIN C1)
+       Eindterm
+       De kandidaat kan met behulp van de concepten genexpressie en celdifferentiatie ten minste in contexten
+       op het gebied van energie en gezondheid benoemen op welke wijze de ontwikkeling van cellen verloopt.
+
+M3.1   Genexpressie (C1.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                   Deelconcepten
+
+       1 benoemen wat de relatie is tussen DNA, RNA        DNA, RNA, eiwit, genetische code,
+         en eiwit;                                         nucleotidenvolgorde, gen, startcodon, stopcodon,
+                                                           niet-coderend DNA
+
+       2 beschrijven dat in verschillende typen cellen     genexpressie
+         verschillende eiwitten gemaakt worden;
+
+       3 beschrijven dat eiwitten verschillende            enzym, receptor, membraaneiwit, transporteiwit,
+         functies hebben;                                  eiwithormoon, structuureiwit, antistof
+
+       4 beschrijven dat door eiwitten het fenotype        fenotype
+         bepaald wordt.
+
+
+M3.2   Celdifferentiatie (C1.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                   Deelconcepten
+
+       1 benoemen dat vrijwel alle cellen van een          genoom
+         meercellig organisme hetzelfde genoom
+         hebben;
+
+       2 beschrijven dat differentiatie leidt tot cellen   celdifferentiatie
+         met verschillende vorm en functie;
+
+       3 beschrijven dat celdifferentiatie ontstaat door   genexpressie, celtype
+         expressie van specifieke genen;
+
+       4 eigenschappen van stamcellen beschrijven;         stamcel
+
+       5 benoemen voor welke doelen stamcellen             stamcelonderzoek, stamceltransplantatie
+         gebruikt kunnen worden.
+
+
+M7     ERFELIJKE EIGENSCHAP (SUBDOMEIN E4)
+       Eindterm
+       De kandidaat kan met behulp van het concept erfelijke eigenschap ten minste in contexten op het gebied
+       van veiligheid en voedselproductie verklaren op welke wijze eigenschappen worden overgedragen bij
+       eukaryoten en prokaryoten.
+
+M7.1   Erfelijke eigenschap (E4.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                   Deelconcepten
+
+       1 toelichten dat een fenotype ontstaat onder        gen, allel, genoom, genotype, fenotype, milieufactor
+         invloed van een combinatie van genotype en
+         milieufactoren;
+
+       2 benoemen dat de genen zijn verdeeld over          chromosoom, autosoom, geslachtschromosoom, X-
+         autosomen en geslachtschromosomen;                chromosoom, Y-chromosoom
+                                                                                                  Pagina 18 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       3 toelichten dat de geslachtschromosomen
+         (meestal) het geslacht bepalen;
+
+       4 bepalen aan de hand van stambomen of            monohybride kruising, dominant, onvolledig
+         kruisingsschema’s wat de kans is op een         dominant, recessief, intermediair, stamboom,
+         bepaald genotype of een bepaald fenotype        kruisingsschema, homozygoot, heterozygoot, X-
+         bij monohybride kruisingen;                     chromosomaal, multipele allelen, letale factor
+
+       5 benoemen wat ethische en biologische            ethisch argument, biologisch argument
+         argumenten zijn bij het ingrijpen van de
+         mens in de erfelijkheid.
+
+
+M8     SELECTIE (SUBDOMEIN F1)
+       Eindterm
+       De kandidaat kan met behulp van de concepten DNA, mutatie, recombinatie en variatie ten minste in
+       contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze variatie in
+       populaties tot stand komt.
+
+M8.1   DNA (F1.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven dat DNA functioneert als            DNA, genetische informatie, genetische code
+         universele drager van genetische informatie;
+
+       2 toelichten dat dezelfde genetische informatie
+         in verschillende organismen voor kan komen;
+
+       3 toelichten dat met gegevens verkregen door      DNA-analyse, verwantschap
+         DNA-analyse de graad van verwantschap van
+         soorten kan worden vastgesteld.
+
+
+M8.2   Mutatie (F1.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven welke typen mutatie er zijn;        chromosoom, gen, allel, mutagene stof, mutagene
+                                                         straling, puntmutatie, genoommutatie
+       2 beschrijven door welke factoren mutaties
+         veroorzaakt kunnen worden;
+
+       3 uitleggen dat mutatie het fenotype kan          genotype, fenotype
+         beïnvloeden;
+
+       4 toelichten dat mutaties per toeval              overlevingskans
+         plaatsvinden.
+
+
+
+
+                                                                                                 Pagina 19 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+M8.3   Recombinatie (F1.3)
+       Specificatie
+
+
+        De kandidaat kan in een context:                Deelconcepten
+
+       1 beschrijven dat bij geslachtelijke             geslachtelijke voortplanting, meiose, homologe
+         voortplanting voortplantingscellen met elk     chromosomen, autosoom, geslachtschromosoom,
+         een unieke combinatie van genen ontstaan       genoom, gekoppelde genen
+         door recombinatie van chromosomen.
+
+
+M8.4   Variatie (F1.4)
+       Specificatie
+
+
+        De kandidaat kan in een context:                Deelconcepten
+
+       1 beschrijven dat genetische variatie in een     genetische variatie, mutatie, recombinatie, fenotype,
+         populatie vergroot wordt door mutatie en       genotype, genenpool
+         recombinatie;
+
+       2 beschrijven hoe door de mens gewenste          genetische modificatie, transgeen
+         genencombinaties verkregen worden door
+         genetische modificatie.
+
+
+
+O      ORGAAN- EN ORGANISMENIVEAU
+
+O1     STOFWISSELING VAN HET ORGANISME (SUBDOMEIN B3)
+       Eindterm
+       De kandidaat kan met behulp van de concepten orgaan, fotosynthese, ademhaling, vertering,
+       uitscheiding en transport ten minste in contexten op het gebied van gezondheid en voedselproductie
+       benoemen op welke wijze de stofwisseling van organismen verloopt en benoemen op welke wijze
+       stoornissen daarin kunnen ontstaan en op welke wijze deze kunnen worden aangepakt.
+
+O1.1   Orgaan (B3.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                Deelconcepten
+
+       1 beschrijven dat groepen van cellen door hun    cel, weefsel, orgaan, orgaanstelsel
+         rangschikking in een weefsel, orgaan of
+         orgaanstelsel een gezamenlijke functie
+         uitoefenen;
+
+       2 herkennen wat verschillen en
+         overeenkomsten zijn tussen organen en
+         orgaanstelsels van de mens en verschillende
+         diersoorten;
+
+       3 beschrijven dat orgaanstelsels met elkaar
+         samenhangen;
+
+       4 benoemen hoe verstoring in het functioneren
+         van een orgaan de samenwerking tussen
+         organen beïnvloedt.
+
+
+
+
+                                                                                               Pagina 20 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+O1.2   Fotosynthese (B3.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 het belang van fotosynthese als basis voor      fotosynthese, koolstofassimilatie, voortgezette
+         de voortgezette assimilatie en dissimilatie     assimilatie, dissimilatie
+         van het organisme beschrijven.
+
+
+O1.3   Ademhaling (B3.3)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven wat de bouw, werking en functie     gaswisseling, longen, luchtpijp, bronchie, longblaasje
+         zijn van gaswisselingsorganen van de mens;
+
+       2 herkennen wat de relatie is tussen de bouw
+         en functie van de gaswisselingsorganen van
+         de mens;
+
+       3 beschrijven op welke wijze longventilatie tot   ademhalingsspieren, ventilatiebewegingen,
+         stand komt;                                     longcapaciteit, vitale capaciteit, restvolume, dode
+                                                         ruimte
+
+       4 beschrijven hoe opname, transport en afgifte    diffusie, zuurstofconcentratie/zuurstofdruk,
+         van zuurstof en koolstofdioxide plaatsvinden    zuurstoftransport, hemoglobine,
+         en wat de rol van hemoglobine daarbij is.       koolstofdioxideconcentratie/koolstofdioxidedruk,
+                                                         koolstofdioxidetransport
+
+
+O1.4   Vertering (B3.4)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven wat de bouw, werking en functie     (spijs)vertering, speekselklier, slokdarm, maag,
+         zijn van (spijs)verteringsorganen van de        twaalfvingerige darm, alvleesklier, lever, galblaas,
+         mens;                                           dunne darm, dikke darm, endeldarm, kringspier,
+                                                         lengtespier, darmperistaltiek
+       2 herkennen wat de relatie is tussen de bouw
+         en functie van de (spijs)verteringsorganen;
+
+       3 beschrijven waar en op welke wijze              voedingsstof, mechanische vertering, chemische
+         voedingsstoffen verteerd worden en welke        vertering, verteringssap, enzymen voor
+         factoren dit kunnen beïnvloeden;                koolhydraatvertering, enzymen voor eiwitvertering,
+                                                         enzymen voor vetvertering, emulgeren, gal,
+                                                         verteringsproduct
+
+       4 beschrijven waar en op welke wijze              resorptie, darmvlok, darmbacterie
+         voedingsstoffen opgenomen worden en welke
+         factoren dit kunnen beïnvloeden.
+
+
+
+
+                                                                                                  Pagina 21 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+O1.5   Uitscheiding (B3.5)
+       Specificatie
+
+
+        De kandidaat kan in een context:                Deelconcepten
+
+       1 beschrijven wat de bouw, werking en functie    uitscheiding, lever, leverlobje, nier, niereenheid,
+         zijn van uitscheidingsorganen van de mens;     niermerg, nierschors, kapsel van Bowman,
+                                                        glomerulus, nierbuisjes, urineblaas, long, huid,
+       2 herkennen wat de relatie is tussen de bouw     zweetklier
+         en functie van uitscheidingsorganen van de
+         mens;
+
+       3 benoemen wat de rol is van de lever, de        gal, ureum, waterhuishouding, ultrafiltratie,
+         nieren, de longen en de huid bij               reabsorptie/terugresorptie, urine, ADH, zweet
+         uitscheidingprocessen.
+
+
+O1.6   Transport (B3.6)
+       Specificatie
+
+
+        De kandidaat kan in een context:                Deelconcepten
+
+       1 beschrijven wat de bouw, werking en functie    grote bloedsomloop, kleine bloedsomloop, hart,
+         zijn van de bloedsomloop met hart en           hartklep, sinusknoop, hartslagfrequentie, slagvolume,
+         bloedvaten van de mens;                        slagader, ader, haarvat, bloeddruk, bovendruk,
+                                                        onderdruk
+       2 herkennen wat de relatie is tussen de bouw
+         en functie van de bloedsomloop met hart en
+         bloedvaten;
+
+       3 beschrijven wat de functie is van de           bloedsamenstelling, bloedplasma, voedingsstof,
+         bestanddelen van bloed, bloedplasma,           afvalstof, cholesterol, rode bloedcel, witte bloedcel,
+         weefselvloeistof en lymfe;                     bloedplaatje, beenmerg, zuurstoftransport,
+                                                        hemoglobine, koolstofdioxidetransport, bloedstolling,
+                                                        weefselvloeistof, lymfe
+
+       4 beschrijven hoe weefselvloeistof en lymfe      bloedvatenstelsel, lymfesysteem, lymfevat
+         worden gevormd.
+
+       5 herkennen wat het verband is tussen het
+         bloedvatenstelsel en het lymfevatenstelsel;
+
+
+O2     ZELFREGULATIE VAN HET ORGANISME (SUBDOMEIN B4)
+       Eindterm
+       De kandidaat kan met behulp van de concepten homeostase, hormonale regulatie en neurale regulatie
+       ten minste in contexten op het gebied van sport en voeding verklaren op welke wijze eukaryoten zichzelf
+       reguleren.
+
+O2.1   Homeostase (B4.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                Deelconcepten
+
+       1 beschrijven hoe longen, lever, nieren, huid,   zenuwstelsel, zintuigen, hormoonstelsel, receptor,
+         zenuwstelsel en hormoonstelsel bijdragen       inwendig milieu, uitwendig milieu, pH,
+         aan de homeostase bij de mens;                 temperatuurregulatie, koolstofdioxideconcentratie,
+                                                        zuurstofconcentratie, glucoseconcentratie
+       2 beschrijven wat de relatie is tussen de bouw
+         van de longen, lever, nieren en huid en de
+         homeostase;
+
+                                                                                                 Pagina 22 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       3 toelichten wat de principes van een             regelkring, positieve terugkoppeling, negatieve
+         regelkring zijn;                                terugkoppeling
+
+       4 benoemen waar regelkringen in het lichaam
+         plaatsvinden.
+
+
+O2.2   Hormonale regulatie (B4.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 uitleggen wat de principes van een regelkring   hormoon, hormoonklier, exocrien, endocrien,
+         in het hormoonstelsel zijn;                     hormoonstelsel, hormoonconcentratie, positieve
+                                                         terugkoppeling, negatieve terugkoppeling,
+       2 beschrijven dat de doelorganen op de            doelwitorgaan, hormoonreceptor
+         hormonen reageren.
+
+       3 beschrijven wat de werking van                  hypothalamus, hypofyse, schildklier, nier, bijnier,
+         hormoonklieren en hun specifieke hormonen       eierstok, teelbal, eilandje van Langerhans, insuline,
+         is;                                             glucagon, adrenaline, schildklierhormoon, EPO
+
+
+O2.3   Neurale regulatie (B4.3)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven wat de bouw en werking zijn van     centraal zenuwstelsel, perifeer zenuwstelsel, grote
+         het zenuwstelsel;                               hersenen, kleine hersenen, hersenschors, centra in
+                                                         de hersenschors, hersenstam, ruggenmerg,
+                                                         autonoom (vegetatief) zenuwstelsel, animaal
+                                                         zenuwstelsel, gevoelszenuwcel, schakelzenuwcel,
+                                                         bewegingszenuwcel, signaalverwerking, prikkel,
+                                                         impuls, cel van Schwann, myelineschede, synaps,
+       2 beschrijven hoe signaalverwerking tot stand
+                                                         impulsgeleiding, sprongsgewijze impulsgeleiding,
+         komt;
+                                                         neurotransmitter, temperatuurreceptor, lichtreceptor,
+                                                         tastreceptor, pijnreceptor
+
+       3 toelichten hoe een regelkring in het            regelkring, reflexboog
+         zenuwstelsel werkt;
+
+       4 beschrijven wat het verband is tussen de
+         werking van het zenuwstelsel en het
+         functioneren van een organisme.
+
+
+
+
+                                                                                                 Pagina 23 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+O3     AFWEER VAN HET ORGANISME (SUBDOMEIN B5)
+       Eindterm
+       De kandidaat kan met behulp van het concept afweer ten minste in contexten op het gebied van
+       gezondheidszorg en voedselproductie benoemen op welke wijze eukaryoten zich te weer stellen tegen
+       andere organismen, virussen en allergenen en welke problemen daarbij kunnen ontstaan.
+
+O3.1   Afweer (B5.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:               Deelconcepten
+
+       1 beschrijven wat de bouw, werking en functie   huid, slijmvliezen, bloed, lymfe, beenmerg,
+         zijn van organen en cellen betrokken bij de   lymfeknoop, macrofagen, T-helpercel, cytotoxische T-
+         afweer van de mens;                           cel, B-cel, plasmacel, geheugencel, mestcel
+
+       2 beschrijven wat de werking van de             aangeboren afweer, verworven afweer, natuurlijke
+         aangeboren (niet-specifieke) afweer is;       immuniteit, kunstmatige immuniteit, actieve
+                                                       immuniteit, passieve immuniteit, lichaamseigen,
+       3 beschrijven wat de werking van de             lichaamsvreemd, antigeen, antistof, receptor,
+         verworven (specifieke) afweer is;             vaccinatie, transplantatie, bloedtransfusie, AB0-
+                                                       systeem, resusfactor, donor, acceptor
+       4 beschrijven wat de reactie op lichaamseigen
+         en lichaamsvreemde stoffen en cellen is;
+
+       5 benoemen dat er verschillen zijn tussen       virus, bacterie, antibioticum, resistentie
+         verschillende typen ziekteverwekkers.
+
+
+
+P      POPULATIE- EN ECOSYSTEEMNIVEAU
+
+P1     REGULATIE VAN ECOSYSTEMEN (SUBDOMEIN B8)
+       Eindterm
+       De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten
+       minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf
+       reguleren en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het
+       systeem Aarde kan beïnvloeden.
+
+P1.1   Energiestroom (B8.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:               Deelconcepten
+
+       1 energiestromen in een ecosysteem              energiestroom, ecosysteem, producent, consument,
+         beschrijven;                                  reducent
+
+       2 beschrijven welke processen en organismen     autotroof, heterotroof, organische stof, anorganische
+         van invloed zijn op energiestromen in een     stof
+         ecosysteem;
+
+       3 uitleggen wat oorzaken en gevolgen zijn van
+         verstoring van energiestromen in een
+         ecosysteem;
+
+       4 uitleggen hoe maatregelen van de mens         fossiele brandstof, biobrandstof, biomassa,
+         energiestromen in ecosystemen beïnvloeden.    energiebesparing
+
+
+
+
+                                                                                                    Pagina 24 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+P1.2   Kringloop (B8.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven hoe kringlopen van elementen in     kringloop, fotosynthese, dissimilatie,
+         een ecosysteem verlopen;                        koolstofkringloop, stikstofkringloop, organische stof,
+                                                         anorganische stof, aeroob, anaeroob, koolstof,
+                                                         ammoniak, ammonium, nitraat, nitriet, methaan,
+                                                         stikstofgas
+
+       2 benoemen welke processen van invloed zijn       uitspoeling, eutrofiering
+         op kringlopen van elementen in een
+         ecosysteem;
+
+       3 beargumenteren hoe maatregelen van de           hergebruik, recyclen, broeikaseffect, gevolgen voor
+         mens kringlopen van elementen in een            de biodiversiteit
+         ecosysteem en daarmee het systeem Aarde
+         beïnvloeden.
+
+
+P1.3   Dynamiek en evenwicht (B8.3)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven wat onder een ecosysteem wordt      ecosysteem, habitat, levensgemeenschap,
+         verstaan en welke componenten daarvan           soortensamenstelling
+         deel uitmaken;
+
+       2 uitleggen welke rol biotische en abiotische     biotische factor, abiotische factor, dynamiek,
+         factoren spelen bij de dynamiek binnen een      geboorte, sterfte, migratie, beperkende factor,
+         ecosysteem;                                     tolerantie, optimum
+
+       3 uitleggen welke rol concurrentie binnen en      concurrentie, populatie
+         tussen populaties speelt bij de dynamiek
+         (instandhouding en ontwikkeling) van een
+         ecosysteem;
+
+       4 beargumenteren hoe de mens de                   exoot, natuurbeheer
+         zelfregulatie van ecosystemen beïnvloedt.
+
+
+P3     INTERACTIE IN ECOSYSTEMEN (SUBDOMEIN D4)
+       Eindterm
+       De kandidaat kan met behulp van de concepten voedselrelatie en interactie met (a)biotische factoren ten
+       minste in contexten op het gebied van duurzaamheid en voedselproductie benoemen welke relaties
+       tussen populaties in ecosystemen bestaan en beargumenteren op welke wijze vraagstukken die daar
+       betrekking op hebben, kunnen worden benaderd.
+
+P3.1   Voedselrelatie (D4.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven welke voedselrelaties tussen        voedselrelatie, trofisch niveau, predatie, vraat
+         organismen er zijn;
+
+       2 toelichten welke relaties in een voedselketen   voedselketen, producent, consument, reducent,
+         kunnen voorkomen;                               symbiose, parasitisme, mutualisme, commensalisme
+
+
+                                                                                                  Pagina 25 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       3 herkennen dat een voedselweb                    voedselweb
+         voedselketens bevat.
+
+
+P3.2   Duurzame ontwikkeling (D4.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 beschrijven wat onder duurzame                  duurzaamheid, duurzame ontwikkeling, biologisch
+         ontwikkeling wordt verstaan;                    afbreekbaar
+
+       2 uitleggen hoe bij energieproductie rekening     energieproductie, hernieuwbare energiebron,
+         gehouden kan worden met duurzame                energiebesparing
+         ontwikkeling;
+
+       3 uitleggen hoe bij voedselproductie rekening     voedselproductie, bestrijdingsmiddel, biologische
+         gehouden kan worden met duurzame                landbouw
+         ontwikkeling;
+
+       4 uitleggen dat schadelijke stoffen in de         accumulatie, persistent, resistent
+         voedselketen kunnen accumuleren.
+
+
+P4     SOORTVORMING (SUBDOMEIN F2)
+       Eindterm
+       De kandidaat kan met behulp van de concepten populatie, variatie, selectie en soortvorming ten minste
+       in contexten op het gebied van gezondheid en wereldbeeld verklaren op welke wijze nieuwe soorten
+       kunnen ontstaan.
+
+P4.1   Populatie (F2.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 omschrijven wat onder een soort en wat          soort, populatie
+         onder een populatie wordt verstaan;
+
+       2 uitleggen dat frequenties van genotypen en      genotype, fenotype
+         fenotypen in populaties in tijd en ruimte
+         veranderen.
+
+
+P4.2   Variatie (F2.2)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 uitleggen dat genetische variatie in een        genetische variatie, mutatie, allelfrequentie,
+         populatie ontstaat door willekeurige mutatie.   genenpool
+
+
+P4.3   Selectie (F2.3)
+       Specificatie
+
+
+        De kandidaat kan in een context:                 Deelconcepten
+
+       1 uitleggen dat adaptaties van populaties door    adaptatie, natuurlijke selectie, fitness, selectiedruk,
+         selectie van organismen tot stand komen;        homologie, analogie
+
+
+                                                                                                   Pagina 26 van 44
+       BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+        De kandidaat kan in een context:               Deelconcepten
+
+       2 beschrijven wat de overeenkomsten en          kunstmatige selectie, veredeling
+         verschillen zijn tussen natuurlijke en
+         kunstmatige selectie.
+
+
+P4.4   Soortvorming (F2.1)
+       Specificatie
+
+
+        De kandidaat kan in een context:               Deelconcepten
+
+       1 uitleggen dat soorten ontstaan door           soort, geslacht (genus), reproductieve isolatie
+         reproductieve isolatie;
+
+       2 uitleggen dat verwantschap en afstamming      verwantschap, afstamming, evolutionaire stamboom
+         van soorten weergegeven kan worden in de
+         vorm van een evolutionaire stamboom.
+
+
+
+
+                                                                                               Pagina 27 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIJLAGE 1: EXAMENPROGRAMMA BIOLOGIE HAVO
+Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+Domein A     Vaardigheden
+Domein B     Zelfregulatie
+Domein C     Zelforganisatie
+Domein D     Interactie
+Domein E     Reproductie
+Domein F     Evolutie
+
+Het centraal examen
+Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B8, C1, D4, E4, F1 en F2, in
+combinatie met de vaardigheden uit domein A.
+Het CvE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de
+subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin
+genoemde.
+Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.
+Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.
+
+Het schoolexamen
+Het schoolexamen heeft betrekking op domein A en:
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;
+– indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het
+   centraal examen betrekking heeft;
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.
+
+De examenstof
+
+Domein A: Vaardigheden
+
+Algemene vaardigheden (profieloverstijgend niveau)
+
+Subdomein A1: Informatievaardigheden gebruiken
+1 De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.
+
+Subdomein A2: Communiceren
+1 De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren
+  over onderwerpen uit het desbetreffende vakgebied.
+
+Subdomein A3: Reflecteren op leren
+2 De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen
+  belangstelling, motivatie en leerproces.
+
+Subdomein A4: Studie en beroep
+3 De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt
+  gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden
+  brengen.
+
+Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+Subdomein A5: Onderzoeken
+4 De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en
+  conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente
+  redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Subdomein A6: Ontwerpen
+
+                                                                                         Pagina 28 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+5 De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp
+  voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden
+  en valide en consistente redeneringen hanteren.
+
+Subdomein A7: Modelvorming
+6 De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en
+  modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente
+  redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Subdomein A8: Natuurwetenschappelijk instrumentarium
+7 De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren,
+  waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor
+  dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige
+  bewerkingen.
+
+Subdomein A9: Waarderen en oordelen
+8 De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of
+  een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten,
+  normatieve maatschappelijke overwegingen en persoonlijke opvattingen.
+
+Biologie-specifieke vaardigheden
+
+Subdomein A10: Beleven
+9 De kandidaat kan in contexten gevoelens en betekenissen expliciteren die worden opgeroepen door
+  het omgaan met de natuur of in de natuur voorkomende objecten en daarbij aandacht schenken aan
+  de gevoelens en betekenissen van anderen.
+
+Subdomein A11: Vorm-functie-denken
+10 De kandidaat kan in contexten redeneringen hanteren waarbij van biologische objecten op
+   verschillende organisatieniveaus vanuit een gegeven vorm naar een bijbehorende functie wordt
+   gezocht en andersom.
+
+Subdomein A12: Ecologisch denken
+11 De kandidaat kan in contexten op het gebied van duurzaamheid redeneringen hanteren waarbij
+   uitgewerkt wordt wat de gevolgen van interne of externe veranderingen in een levensgemeenschap of
+   ecosysteem zijn.
+
+Subdomein A13: Evolutionair denken
+12 De kandidaat kan in contexten redeneringen hanteren waarmee biologische verschijnselen op
+   verschillende organisatieniveaus verklaard worden met behulp van theorie over evolutiemechanismen.
+
+Subdomein A14: Systeemdenken
+13 De kandidaat kan in contexten een onderscheid maken tussen verschillende organisatieniveaus,
+   relaties binnen en tussen organisatieniveaus uitwerken en uiteenzetten hoe biologische eenheden op
+   verschillende organisatieniveaus zichzelf in stand houden en ontwikkelen.
+
+Subdomein A15: Contexten
+14 De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F
+   genoemde concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.
+
+Subdomein A16: Kennisontwikkeling en -toepassing
+15 De kandidaat kan in contexten analyseren op welke wijze natuurwetenschappelijke en technologische
+   kennis wordt ontwikkeld en toegepast.
+
+
+
+
+                                                                                        Pagina 29 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+Domein B: Zelfregulatie
+
+Subdomein B1: Eiwitsynthese
+16 De kandidaat kan met behulp van de concepten DNA en eiwitsynthese ten minste in contexten op het
+   gebied van gezondheid en voedselproductie verklaren op welke wijze bouwstoffen van de cel worden
+   gevormd.
+
+Subdomein B2: Stofwisseling van de cel
+17 De kandidaat kan met behulp van de concepten homeostase, transport, assimilatie en dissimilatie ten
+   minste in contexten op het gebied van gezondheid en voeding verklaren op welke wijze de
+   stofwisseling van cellen van prokaryoten en eukaryoten verloopt.
+
+Subdomein B3: Stofwisseling van het organisme
+18 De kandidaat kan met behulp van de concepten orgaan, fotosynthese, ademhaling, vertering,
+   uitscheiding en transport ten minste in contexten op het gebied van gezondheid en voedselproductie
+   benoemen op welke wijze de stofwisseling van organismen verloopt en benoemen op welke wijze
+   stoornissen daarin kunnen ontstaan en op welke wijze deze kunnen worden aangepakt.
+
+Subdomein B4: Zelfregulatie van het organisme
+19 De kandidaat kan met behulp van de concepten homeostase, hormonale regulatie en neurale regulatie
+   ten minste in contexten op het gebied van sport en voeding verklaren op welke wijze eukaryoten
+   zichzelf reguleren.
+
+Subdomein B5: Afweer van het organisme
+20 De kandidaat kan met behulp van het concept afweer ten minste in contexten op het gebied van
+   gezondheidszorg en voedselproductie benoemen op welke wijze eukaryoten zich te weer stellen tegen
+   andere organismen, virussen en allergenen en welke problemen daarbij kunnen ontstaan.
+
+Subdomein B6: Beweging van het organisme
+21 De kandidaat kan met behulp van de concepten beweging, neurale regulatie en waarneming ten
+   minste in contexten op het gebied van gezondheid en sport verklaren op welke wijze mens en dier
+   bewegen en op welke wijze dit kan worden geoptimaliseerd.
+
+Subdomein B7: Waarneming door het organisme
+22 De kandidaat kan met behulp van de concepten orgaan, waarneming en neurale regulatie ten minste
+   in contexten op het gebied van gezondheid en sport verklaren op welke wijze organismen waarnemen.
+
+Subdomein B8: Regulatie van ecosystemen
+23 De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten
+   minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf
+   reguleren en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en
+   het systeem Aarde kan beïnvloeden.
+
+Domein C: Zelforganisatie
+
+Subdomein C1: Zelforganisatie van cellen
+24 De kandidaat kan met behulp van de concepten genexpressie en celdifferentiatie ten minste in
+   contexten op het gebied van energie en gezondheid benoemen op welke wijze de ontwikkeling van
+   cellen verloopt.
+
+Subdomein C2: Zelforganisatie van het organisme
+25 De kandidaat kan met behulp van het concept levenscyclus ten minste in contexten op het gebied van
+   gezondheid en voedselproductie benoemen op welke wijze de ontwikkeling van organismen verloopt
+   en verklaren op welke wijze verstoringen van de ontwikkeling ontstaan, kunnen worden voorkomen en
+   worden aangepakt.
+
+Subdomein C3: Zelforganisatie van ecosystemen
+26 De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op
+   het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen
+
+                                                                                        Pagina 30 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen
+   beïnvloedt.
+
+Domein D: Interactie
+
+Subdomein D1: Moleculaire interactie
+27 De kandidaat kan met behulp van de concepten genregulatie en interactie met (a)biotische factoren
+   ten minste in contexten op het gebied van gezondheid en voedselproductie benoemen op welke wijze
+   de moleculaire regulatie plaatsvindt.
+
+Subdomein D2: Gedrag en interactie
+28 De kandidaat kan met behulp van de concepten gedrag en interactie met (a)biotische factoren ten
+   minste in contexten op het gebied van communicatie, gezondheid en veiligheid verklaren op welke
+   wijze gedrag van organismen en populaties ontstaat en benoemen wat de functie daarvan is.
+
+Subdomein D3: Seksualiteit
+29 De kandidaat kan met behulp van de concepten gedrag en interactie met (a)biotische factoren ten
+   minste in contexten op het gebied van gezondheid en communicatie beargumenteren op welke wijze
+   vraagstukken met betrekking tot seksualiteit van de mens kunnen worden benaderd.
+
+Subdomein D4: Interactie in ecosystemen
+30 De kandidaat kan met behulp van de concepten voedselrelatie en interactie met (a)biotische factoren
+   ten minste in contexten op het gebied van duurzaamheid en voedselproductie benoemen welke
+   relaties tussen populaties in ecosystemen bestaan en beargumenteren op welke wijze vraagstukken
+   die daar betrekking op hebben, kunnen worden benaderd.
+
+Domein E: Reproductie
+
+Subdomein E1: DNA-replicatie
+31 De kandidaat kan met behulp van het concept DNA-replicatie ten minste in contexten op het gebied
+   van veiligheid en gezondheid benoemen op welke wijze erfelijk materiaal wordt gereproduceerd.
+
+Subdomein E2: Levenscyclus van de cel
+32 De kandidaat kan met behulp van het concept celcyclus ten minste in contexten op het gebied van
+   energie, gezondheid en voedselproductie benoemen op welke wijze reproductie van cellen verloopt.
+
+Subdomein E3: Voortplanting van het organisme
+33 De kandidaat kan met behulp van het concept voortplanting ten minste in contexten op het gebied
+   van gezondheid en voedselproductie verklaren op welke wijze de reproductie van eukaryoten en
+   prokaryoten verloopt.
+
+Subdomein E4: Erfelijke eigenschap
+34 De kandidaat kan met behulp van het concept erfelijke eigenschap ten minste in contexten op het
+   gebied van veiligheid en voedselproductie verklaren op welke wijze eigenschappen worden
+   overgedragen bij eukaryoten en prokaryoten.
+
+Domein F: Evolutie
+
+Subdomein F1: Selectie
+35 De kandidaat kan met behulp van de concepten DNA, mutatie, recombinatie en variatie ten minste in
+   contexten op het gebied van gezondheid en voedselproductie verklaren op welke wijze variatie in
+   populaties tot stand komt.
+
+Subdomein F2: Soortvorming
+36 De kandidaat kan met behulp van de concepten populatie, variatie, selectie en soortvorming ten
+   minste in contexten op het gebied van gezondheid en wereldbeeld verklaren op welke wijze nieuwe
+   soorten kunnen ontstaan.
+
+
+
+                                                                                        Pagina 31 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+Subdomein F3: Biodiversiteit
+37 De kandidaat kan met behulp van het concept biodiversiteit ten minste in contexten op het gebied van
+   duurzaamheid benoemen op welke wijze de diversiteit van populaties en ecosystemen binnen het
+   systeem Aarde varieert.
+
+
+
+
+                                                                                        Pagina 32 van 44
+      BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+      BIJLAGE 2: CONCEPTENTABEL3 BIJ HET EXAMENPROGRAMMA
+Systeemconcept                  Zelfregulatie                                  Zelforganisatie             Interactie                          Reproductie                     Evolutie
+
+Organisatieniveau
+(biologische eenheid)
+
+I Molecuul- en celniveau
+Molecuul (DNA)           M1 Eiwitsynthese4                                     M3 Zelforganisatie          M4 Moleculaire interactie           M5 DNA-replicatie               M8 Selectie
+                                                                               van cellen                                                                                      M8.1 DNA
+                                                                               M3.1 Genexpressie                                                                               M8.2 Mutatie
+                                                                                                                                                                               M8.3 Recombinatie
+                                                                                                                                                                               M8.4 Variatie
+Cel (cel)                       M2 Stofwisseling van de cel                    M3.2 Celdifferentiatie                                          M6 Levenscyclus van de
+                                M2.1 Homeostase                                                                                                cel
+                                M2.2 Transport                                                                                                 M7 Erfelijke eigenschap
+                                M2.3 Assimilatie en dissimilatie                                                                               M7.1 Erfelijke eigenschap
+II Orgaan- en organismeniveau
+Orgaan                 O1 Stofwisseling van het organisme
+                       O1.1 Orgaan
+                       O1.2 Fotosynthese
+                       O1.3 Ademhaling
+                       O1.4 Vertering
+                       O1.5 Uitscheiding
+                       O1.6 Transport
+Organisme (prokaryoot, O2 Zelfregulatie van het organisme                      O6 Zelforganisatie          O7 Gedrag en interactie             O9 Voortplanting van
+eukaryoot, virus)      O2.1 Homeostase                                         van het organisme           O8 Seksualiteit                     het organisme
+                       O2.2 Hormonale regulatie
+                       O2.3 Neurale regulatie
+                       O3 Afweer van het organisme
+                       O4 Beweging van het organisme
+                       O5 Waarneming van het organisme
+III Populatie- en ecosysteemniveau
+Populatie                                                                                                                                                                      P4 Soortvorming
+                                                                                                                                                                               P4.1 Populatie
+                                                                                                                                                                               P4.2 Variatie
+                                                                                                                                                                               P4.3 Selectie
+                                                                                                                                                                               P4.4 Soortvorming
+Ecosysteem                      P1 Regulatie van ecosystemen                   P2 Zelforganisatie          P3 Interactie in
+                                P1.1 Energiestroom                             van ecosystemen             ecosystemen
+                                P1.2 Kringloop                                 P2.1 Dynamiek en            P3.1 Voedselrelatie
+                                P1.3 Dynamiek en evenwicht                     evenwicht                   P3.2 Duurzame ontwikkeling
+Systeem Aarde                   P1.2 Kringloop                                                                                                                                 P5 Biodiversiteit
+
+      3
+          Systeemmatrix van biologische concepten die in het examenprogramma havo zijn opgenomen met verwijzing naar de specificaties. (Gebaseerd op Tabel 1, pagina 26 en 27, eindrapportage CVBO 2010).
+      4
+          Grijs cursief: alleen in het schoolexamen
+                                                                                                                                                                                        Pagina 33 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIJLAGE 3: OMZETTING VAN OUDE NAAR NIEUWE NUMMERING EN
+ANDERSOM
+In onderstaande tabel is de omzetting opgenomen van de oude nummering van de subdomeinen naar de
+nieuwe. Ook is bij de nieuwe nummering de oude te vinden.
+
+
+ Oude                 Nieuwe                      Nieuwe           Oude
+ nummering            nummering                   nummering        nummering
+ B1                   M1                          M1               B1
+ B2                   M2                          M2               B2
+ B3                   O1                          M3               C1
+ B4                   O2                          M4               D1
+ B5                   O3                          M5               E1
+ B6                   O4                          M6               E2
+ B7                   O5                          M7               E4
+ B8                   P1                          M8               F1
+ C1                   M3                          O1               B3
+ C2                   O6                          O2               B4
+ C3                   P2                          O3               B5
+ D1                   M4                          O4               B6
+ D2                   O7                          O5               B7
+ D3                   O8                          O6               C2
+ D4                   P3                          O7               D2
+ E1                   M5                          O8               D3
+ E2                   M6                          O9               E3
+ E3                   O9                          P1               B8
+ E4                   M7                          P2               C3
+ F1                   M8                          P3               D4
+ F2                   P4                          P4               F2
+ F3                   P5                          P5               F3
+
+
+
+
+                                                                                  Pagina 34 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIJLAGE 4: VOORBEELDCONTEXTEN
+In de Commissie Vernieuwing Biologie Onderwijs zijn keuzes gemaakt ten aanzien van de concepten uit
+de biologie die in het onderwijs behandeld moeten worden en de contextgebieden waarin die concepten
+worden gebruikt. De keuze voor de te behandelen concepten voor biologie is gemaakt op basis van
+actuele en veel voorkomende biologische praktijken in Nederland. Dat vergroot de kans dat leerlingen
+relevantie ervaren en het perspectief van vooropleiding voor vervolgstudie of beroep wordt verbeterd. In
+de eindtermen worden de volgende contextgebieden gebruikt.
+    -   Energie (E)
+    -   Gezondheid en gezondheidszorg (G)
+    -   Duurzaamheid (D)
+    -   Voeding (V)
+    -   Voedselproductie (VP)
+    -   Sport (S)
+    -   Wereldbeeld (W)
+    -   Veiligheid (VH)
+
+Hieronder wordt een aantal voorbeelden beschreven op de verschillende organisatieniveaus.
+
+Molecuul- en celniveau
+
+V: Analisten in een algenkweekcentrum zoeken naar mogelijkheden om de algenkweek de
+voedingsstoffen omega 3 en 6 vetzuren en vitamines te laten leveren op een economisch haalbaar
+niveau.
+
+E: Procestechnologen en analisten werken in een laboratorium aan optimalisatie van fotosynthese in
+algen en planten met het doel om de energie-inhoud van de algen en gewassen te verhogen.
+
+VH: Politie, analisten en laboranten in de forensische laboratoriumpraktijk verzamelen en onderzoeken
+sporen van de plaats delict volgens sop’s (standard operating procedure) en doen daarvan verslag ten
+behoeve van de juridische praktijk.
+
+G: Hulpverleners van een NGO (non-gouvernementele organisatie) laten zich in het tropeninstituut
+voorlichten over de noodzakelijke profylaxe en inentingen tegen allerlei nieuwe typen ziekten, met het
+doel niet ziek te worden tijdens een verblijf in de rampregio waar ze hulp gaan verlenen.
+
+Orgaan- en organismeniveau
+
+G: Gespecialiseerde verpleegkundigen op de IC in het ziekenhuis verzorgen en monitoren patiënten in
+kritieke toestand met het doel om de toestand te stabiliseren en te verbeteren.
+
+S: De trainer en fysiotherapeut in een nationaal trainingscentrum maken trainings- en voedingsschema’s
+voor de sporters om een topprestatie mogelijk te maken en op gewicht te blijven.
+
+G (leefwereldcontext): Meisjes van 12 worden opgeroepen door de GGD om zich te laten inenten met het
+HPV-vaccin om hen te beschermen tegen baarmoederhalskanker. Zij discussiëren op school over de voor-
+en nadelen van de inenting met het doel om een weloverwogen besluit te kunnen nemen om wel of niet
+gevaccineerd te worden.
+
+VP: Analisten en procestechnologen werken bij een veredelingsbedrijf onder toezicht van biologen aan
+plantenveredeling gericht op plaagresistentie met het doel plagen te voorkomen en opbrengsten van
+teelten te verhogen.
+
+Populatie- en ecosysteemniveau
+
+D: Bosbeheerders op de Veluwe gebruiken de resultaten van een ecologisch onderzoek voor de
+regeneratie van een natuurgebied.
+
+
+
+
+                                                                                          Pagina 35 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+VP: Een viskweker gaat samen met een tomatenkweker een kassencomplex inrichten als gemengd
+bedrijf, waarin vissen, algen, tomaten en andere planten een zo gesloten mogelijk systeem vormen, met
+het doel de opbrengst te diversifiëren en daardoor het risico van monoteelt te verminderen.
+
+G: Analisten en laboranten in een laboratorium doen door middel van controle- en inventarisatiekweken
+onderzoek naar de aanwezigheid en verspreiding van MRSA-bacteriën met het doel de medische staf te
+informeren.
+
+W (leefwereldcontext): Leerlingen voeren in de klas een discussie over de relatie tussen de
+evolutietheorie en levensbeschouwing/religieuze opvattingen met het doel om een overzicht te krijgen
+van mogelijke argumenten en een eigen afweging te maken.
+
+
+
+
+                                                                                        Pagina 36 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIJLAGE 5: EXAMEN(WERK)WOORDEN
+Als in een examen een van de woorden uit onderstaande lijst wordt gebruikt, geldt de betekenis die
+hieraan in deze lijst is gegeven. Deze lijst met examen(werk)woorden is niet uitputtend.
+
+
+ Examen(werk)woord            Betekenis
+
+ (aan)geven,                  Het geven van een kort antwoord: een woord of zinsdeel.
+ aanvullen,                   Een toelichting is niet vereist, tenzij anders is aangegeven in de vraagstelling.
+ (be)noemen, noteren
+
+ beschrijven                  Het geven van een antwoord in hele zinnen, waarin de onderdelen van het
+                              gevraagde zijn gegeven.
+
+ beargumenteren,              Het geven van een antwoord waarin, op logische wijze, gegevens en
+ beredeneren                  biologische kennis zijn gebruikt om een bepaalde keuze of stelling te
+                              onderbouwen of ondersteunen.
+
+ toelichten                   Het geven van een onderbouwing in één of enkele zinnen voor een bepaalde
+                              keuze of stelling.
+
+ uitleggen, verklaren,        Het geven van een antwoord waaruit een oorzaak-gevolg relatie blijkt met het
+ aangeven waardoor            gestelde/gevraagde. Als het gaat om meerdere oorzaak-gevolgstappen wordt
+                              het werkwoord uitleggen gehanteerd, bij een enkelvoudige oorzaakgevolgstap
+                              verklaren of aangeven waardoor.
+
+ aangeven waarom              Het geven van een antwoord waaruit een reden of een doel blijkt van het
+                              gestelde/gevraagde.
+
+ bepalen                      Het gevraagde vaststellen en/of uitrekenen, uitgaande van gegevens in de
+                              vraagstelling en/of andere informatiebronnen.
+                              Uit de uitwerking moet blijken welke metingen zijn gedaan en/of welke
+                              waarden zijn gebruikt en welke stappen zijn doorlopen.
+                              De uitkomst moet met de juiste eenheid zijn gegeven, tenzij de eenheid
+                              expliciet in de vraagstelling is opgenomen. De uitkomst moet zijn afgerond
+                              zoals in de vraagstelling is aangegeven.
+
+ berekenen                    Het gevraagde uitrekenen, uitgaande van gegevens in de vraagstelling en/of
+                              andere informatiebronnen.
+                              Uit de uitwerking moet blijken welke waarden zijn gebruikt en welke stappen
+                              zijn doorlopen.
+                              De uitkomst moet met de juiste eenheid zijn gegeven, tenzij de eenheid
+                              expliciet in de vraagstelling is opgenomen. De uitkomst moet zijn afgerond
+                              zoals in de vraagstelling is aangegeven.
+
+ tekenen                      Het geven van een grafische voorstelling die de voor de probleemsituatie
+                              relevante karakteristieke eigenschappen bevat en voldoende nauwkeurig is.
+                              In het geval van een grafiek moet een assenstelsel met schaalverdeling zijn
+                              weergegeven waarbij de onafhankelijke variabele op de x-as staat. Het
+                              assenstelsel moet, indien mogelijk, voorzien zijn van grootheden en eenheden.
+                              In het geval van een voedselweb moeten organismen zoveel mogelijk apart
+                              zijn opgenomen. Pijlen zijn weergegeven in de richting van de energiestromen.
+
+
+
+
+                                                                                                   Pagina 37 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIJLAGE 6: KENNIS VAN NATUURKUNDE EN SCHEIKUNDE
+Bij de specificaties van de eindtermen zijn grootheden en eenheden opgenomen en (cursief)
+deelconcepten uit natuurkunde en scheikunde waarvan verondersteld wordt dat kandidaten deze kunnen
+gebruiken. Deze ‘nevenkennis’ kan leerstof uit de onderbouw of uit de bovenbouw betreffen.
+Het gaat om onderdelen die nodig kunnen zijn bij de bevraging van het CE-deel van het
+examenprogramma. In deze bijlage zijn die bij elkaar gezet.
+
+De kandidaat kan de volgende grootheden en eenheden gebruiken, daarbij gebruik makend van de
+prefixen van nano (n) tot en met giga (G):
+– lengte, oppervlakte, inhoud (m, m2, m3, L)
+– massa (kg);
+– dichtheid: massa per volume (kg·m-3);
+– concentratie: aantal per volume (mol·L-1), massa per volume (g·L-1); massapercentage,
+   volumepercentage, parts per million;
+– snelheid: afstand per tijdseenheid (m·s-1);
+– diffusiesnelheid: aantal per oppervlakte per tijdseenheid (mol·m-2·s-1) of massa per oppervlakte per
+   tijdseenheid (g·m-2·s-1)
+– temperatuur (⁰C);
+– energie (J, kcal);
+– spanning (V);
+– druk: kracht per oppervlakte (Pa, N·m-2, mmHg);
+
+De kandidaat kan de volgende deelconcepten uit natuurkunde en scheikunde gebruiken:
+– atoom, molecuul, ion
+– molecuulformule, structuurformule
+– reactievergelijking, katalysator
+– pH, indicator
+– wateroplosbaar, vetoplosbaar
+
+De kandidaat kan de namen en symbolen van de volgende elementen gebruiken:
+– calcium (Ca)
+– chloor (Cl)
+– fosfor (P)
+– ijzer (Fe)
+– kalium (K)
+– koolstof (C)
+– stikstof (N)
+– natrium (Na)
+– waterstof (H)
+– zuurstof (O)
+
+De kandidaat kan de namen en molecuulformules van de volgende stoffen gebruiken:
+– ammoniak (NH3)
+– koolstofdioxide (CO2)
+– fosfaat (PO43-)
+– glucose (C6H12O6)
+– methaan (CH4)
+– natriumchloride (NaCl)
+– nitraat (NO3-)
+– nitriet (NO2-)
+– stikstofgas (N2)
+– water (H2O)
+– zuurstofgas (O2)
+
+
+
+
+                                                                                         Pagina 38 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+BIJLAGE 7: INDEX VAN CONCEPTEN EN DEELCONCEPTEN
+Deze index is bedoeld als hulpmiddel. Het bevat alle deelconcepten die in de syllabus voorkomen. De
+index bevat echter niet alle begrippen die in de syllabus voorkomen. De index is dus niet uitputtend.
+
+
+
+                                                               biotechnologie ..................................... 17
+A
+                                                               biotische factor .................................... 25
+AB0-systeem ....................................... 24         bladgroen ...................................... 16, 17
+abiotische factor .................................. 25        bloed .................................................. 24
+acceptor.............................................. 24      bloedcel
+accumulatie ......................................... 26         rode ................................................. 22
+adaptatie ............................................ 26        witte ................................................ 22
+ademhalingsspieren .............................. 21           bloeddruk ............................................ 22
+ader ................................................... 22    bloedplaatje......................................... 22
+ADH ................................................... 22     bloedplasma ........................................ 22
+ADP .................................................... 17    bloedsomloop
+adrenaline ........................................... 23        grote ................................................ 22
+aeroob .......................................... 17, 25         kleine ............................................... 22
+afstamming ......................................... 27        bloedstolling ........................................ 22
+afvalstof.............................................. 22     bloedtransfusie .................................... 24
+afweer                                                         bloedvatenstelsel ................................. 22
+  aangeboren ...................................... 24         bouwstof ............................................. 17
+  verworven ........................................ 24        bovendruk ........................................... 22
+alcohol ................................................ 17    brandstof ...................................... 17, 24
+allel .............................................. 18, 19    broeikaseffect ...................................... 25
+allelfrequentie ...................................... 26      bronchie .............................................. 21
+alvleesklier .......................................... 21
+                                                               C
+aminozuur ........................................... 17
+  essentieel ......................................... 17      calcium (Ca) ........................................ 17
+  niet-essentieel................................... 17        cel ...................................................... 20
+ammoniak ..................................... 17, 25          celdifferentiatie .................................... 18
+ammonium .......................................... 25         celkern................................................ 16
+anaeroob ...................................... 17, 25         cellulose .............................................. 17
+analogie .............................................. 26     celmembraan ....................................... 16
+anorganische stof ........................... 24, 25           celtype ................................................ 18
+antibioticum ........................................ 24       celwand .............................................. 16
+antigeen ............................................. 24      chloor (Cl) ........................................... 17
+antistof ......................................... 18, 24      cholesterol .......................................... 22
+argument                                                       chromosomen
+  biologisch ......................................... 19        homologe ......................................... 20
+  ethisch ............................................. 19     chromosoom ............................. 16, 18, 19
+assimilatie ........................................... 17       cirkelvormig ...................................... 16
+atoom ................................................. 17       geslachts- ................................... 18, 20
+ATP .................................................... 17      X- .................................................... 18
+autosoom ...................................... 18, 20           Y- .................................................... 18
+autotroof ....................................... 17, 24       commensalisme ................................... 25
+                                                               concurrentie ........................................ 25
+B
+                                                               consument .................................... 24, 25
+bacterie ........................................ 16, 24       cytoplasma .......................................... 16
+B-cel .................................................. 24    cytotoxische T-cel ................................ 24
+beenmerg ..................................... 22, 24
+                                                               D
+beperkende factor ................................ 25
+bestrijdingsmiddel ................................ 26         darm
+bijnier ................................................. 23    dikke ................................................ 21
+biobrandstof ........................................ 24        dunne .............................................. 21
+biodiversiteit ....................................... 25       endel- .............................................. 21
+biologisch afbreekbaar .......................... 26            slok .................................................. 21
+biologische landbouw ............................ 26            twaalfvingerige .................................. 21
+biomassa ............................................ 24       darmbacterie ....................................... 21
+                                                                                                        Pagina 39 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+darmperistaltiek ................................... 21        G
+darmvlok ............................................ 21
+                                                               gal ............................................... 21, 22
+diffusie ......................................... 16, 21
+                                                               galblaas .............................................. 21
+disacharide .......................................... 17
+                                                               gaswisseling ........................................ 21
+dissimilatie ............................... 17, 21, 25
+                                                               geboorte ............................................. 25
+DNA ........................................ 17, 18, 19
+                                                               geheugencel ........................................ 24
+  niet-coderend .................................... 18
+                                                               gekoppeld gen ..................................... 20
+  recombinant- .................................... 17
+                                                               gen .............................................. 18, 19
+DNA-analyse ....................................... 19
+                                                               genenpool ..................................... 20, 26
+dode ruimte......................................... 21
+                                                               genetische code ............................. 18, 19
+doelwitorgaan ...................................... 23
+                                                               genetische modificatie .......................... 20
+dominant ............................................ 19
+                                                               genetische variatie ......................... 20, 26
+donor ................................................. 24
+                                                               genexpressie ....................................... 18
+duurzame ontwikkeling ......................... 26
+                                                               genoom ........................................ 18, 20
+dynamiek ............................................ 25
+                                                               genotype ............................ 18, 19, 20, 26
+E                                                              genus ................................................. 27
+                                                               geslacht .............................................. 27
+ecosysteem ................................... 24, 25
+                                                               geslachtelijke voortplanting ................... 20
+eierstok .............................................. 23
+                                                               gisting ................................................ 17
+eilandje van Langerhans ....................... 23
+                                                               glomerulus .......................................... 22
+eiwit ............................................. 17, 18
+                                                               glucagon ............................................. 23
+  membraan- ....................................... 18
+                                                               glucose ......................................... 16, 17
+  receptor- .......................................... 16
+                                                               glucoseconcentratie .............................. 22
+  structuur- ......................................... 18
+                                                               glycerol ............................................... 17
+eiwithormoon ...................................... 18
+                                                               glycogeen ............................................ 17
+eiwitmantel ......................................... 16
+                                                               golgi-systeem ...................................... 16
+emulgeren ........................................... 21
+endocrien ............................................ 23      H
+endocytose .......................................... 16
+                                                               haarvat ............................................... 22
+endoplasmatisch reticulum .................... 16
+                                                               habitat ................................................ 25
+energie ............................................... 17
+                                                               hart .................................................... 22
+  chemische ........................................ 17
+                                                               hartklep .............................................. 22
+  kinetische ......................................... 17
+                                                               hartslagfrequentie ................................ 22
+  licht ................................................. 17
+                                                               hemoglobine .................................. 21, 22
+  warmte ............................................ 17
+                                                               hergebruik........................................... 25
+energiebesparing ........................... 24, 26
+                                                               hernieuwbare energiebron ..................... 26
+energieproductie .................................. 26
+                                                               hersenen ............................................. 23
+energiestroom ..................................... 24
+                                                               hersenschors ....................................... 23
+energievoorziening ............................... 17
+                                                               hersenstam ......................................... 23
+enzym .......................................... 17, 18
+                                                               heterotroof .................................... 17, 24
+enzymsubstraatcomplex........................ 17
+                                                               heterozygoot ....................................... 19
+enzymwerking ..................................... 17
+                                                               homeostase ......................................... 16
+EPO .................................................... 23
+                                                               homologie ........................................... 26
+eukaryoot ........................................... 16
+                                                               homozygoot ........................................ 19
+eutrofiering ......................................... 25
+                                                               hormoon ............................................. 23
+evolutionaire stamboom ........................ 27
+                                                               hormoonklier ....................................... 23
+exocrien .............................................. 23
+                                                               hormoonreceptor.................................. 23
+exocytose ........................................... 16
+                                                               hormoonstelsel .............................. 22, 23
+exoot .................................................. 25
+                                                               huid.............................................. 22, 24
+F                                                              hypertonisch ........................................ 16
+                                                               hypofyse ............................................. 23
+fenotype ............................ 18, 19, 20, 26
+                                                               hypothalamus ...................................... 23
+fitness ................................................ 26
+                                                               hypotonisch ......................................... 16
+fosfaat ................................................ 17
+fosfolipide ........................................... 17     I
+fosfor (P) ............................................ 17
+                                                               ijzer (Fe) ............................................. 17
+fossiele brandstof ................................. 24
+                                                               immuniteit
+fotosynthese............................. 17, 21, 25
+                                                                  actieve ............................................. 24
+                                                                                                        Pagina 40 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+  kunstmatige ...................................... 24        micro-organisme .................................. 17
+  natuurlijke ........................................ 24      migratie .............................................. 25
+  passieve ........................................... 24      milieufactor ......................................... 18
+impuls ................................................ 23     mitochondrie ....................................... 16
+impulsgeleiding .................................... 23        molecuul ............................................. 17
+  sprongsgewijze ................................. 23          molecuulformule .................................. 17
+indicator ............................................. 17     monohybride kruising ........................... 19
+insuline ............................................... 23    monosacharide .................................... 17
+intermediair......................................... 19       multipele allelen ................................... 19
+inwendig milieu .................................... 22        mutagene stof ..................................... 19
+ion ..................................................... 17   mutagene straling ................................ 19
+ionentransport ..................................... 16        mutatie ......................................... 20, 26
+isotonisch ............................................ 16      genoom- ........................................... 19
+                                                                punt-................................................ 19
+K
+                                                               mutualisme ......................................... 25
+kalium (K) ........................................... 17      myelineschede ..................................... 23
+kapsel van Bowman.............................. 22
+                                                               N
+katalysator .......................................... 17
+katalyseren ......................................... 17       natrium (Na) ....................................... 17
+koolhydraat ......................................... 17       natriumchloride (NaCl) .......................... 16
+koolstof ........................................ 17, 25       natuurbeheer ....................................... 25
+koolstofassimilatie ................................ 21        natuurlijke selectie ............................... 26
+koolstofdioxide .............................. 16, 17          neurotransmitter .................................. 23
+koolstofdioxideconcentratie ............. 21, 22               nier .............................................. 22, 23
+koolstofdioxidedruk .............................. 21          nierbuisjes .......................................... 22
+koolstofdioxidetransport .................. 21, 22             niereenheid ......................................... 22
+koolstofkringloop.................................. 25         niermerg ............................................. 22
+kringloop............................................. 25      nierschors ........................................... 22
+kringspier ............................................ 21     nitraat .......................................... 17, 25
+kruisingsschema .................................. 19          nitriet ........................................... 17, 25
+kunstmatige selectie ............................. 27          nucleotidenvolgorde ............................. 18
+L                                                              O
+lengtespier .......................................... 21      onderdruk ........................................... 22
+letale factor ......................................... 19     onvolledig dominant ............................. 19
+levensgemeenschap ............................. 25             optimum ............................................. 25
+lever............................................. 21, 22      optimumkromme .................................. 17
+leverlobje ............................................ 22     orgaan ................................................ 20
+lichaams-                                                      orgaanstelsel ....................................... 20
+   eigen ............................................... 24    organische stof .............................. 24, 25
+   vreemd ............................................ 24      osmose ............................................... 16
+long.............................................. 21, 22      osmotische waarde ............................... 16
+longblaasje .......................................... 21      overlevingskans ................................... 19
+longcapaciteit ...................................... 21
+                                                               P
+luchtpijp ............................................. 21
+lymfe ............................................ 22, 24      parasitisme ......................................... 25
+lymfeknoop ......................................... 24        persistent ............................................ 26
+lymfesysteem ...................................... 22         pH ................................................ 17, 22
+lymfevat ............................................. 22      plasmacel ............................................ 24
+lysosoom ............................................ 16       plasmide ............................................. 16
+                                                               plasmolyse .......................................... 16
+M
+                                                               plastiden ............................................. 16
+maag .................................................. 21     polysacharide ...................................... 17
+macrofagen ......................................... 24        populatie ....................................... 25, 26
+meiose................................................ 20      predatie .............................................. 25
+melkzuur............................................. 17       prikkel ................................................ 23
+mestcel ............................................... 24     producent ...................................... 24, 25
+metabolisme ........................................ 17        prokaryoot .......................................... 16
+methaan ....................................... 17, 25
+                                                                                                       Pagina 41 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+R                                                                negatieve ......................................... 23
+                                                                 positieve ........................................... 23
+reabsorptie .......................................... 22
+                                                               terugresorptie ...................................... 22
+reactievergelijking ................................ 17
+                                                               T-helpercel .......................................... 24
+receptor ................................... 18, 22, 24
+                                                               tolerantie ............................................ 25
+  licht- ................................................ 23
+                                                               transgeen ............................................ 20
+  pijn- ................................................ 23
+                                                               transplantatie ...................................... 24
+  tast- ................................................ 23
+                                                               transport
+  temperatuur- .................................... 23
+                                                                 actief................................................ 16
+recessief ............................................. 19
+                                                                 passief ............................................. 16
+recombinatie ....................................... 20
+                                                               transporteiwit ...................................... 18
+recyclen .............................................. 25
+                                                               trilharen .............................................. 16
+reducent ....................................... 24, 25
+                                                               trofisch niveau ..................................... 25
+reflexboog ........................................... 23
+                                                               turgor ................................................. 16
+regelkring ........................................... 23
+                                                               tussencelstof ....................................... 17
+reproductieve isolatie ........................... 27
+reservestof .......................................... 17      U
+resistent ....................................... 24, 26
+                                                               uitscheiding ......................................... 22
+resorptie ............................................. 21
+                                                               uitspoeling .......................................... 25
+restvolume .......................................... 21
+                                                               uitwedig milieu .................................... 22
+resusfactor .......................................... 24
+                                                               ultrafiltratie ......................................... 22
+ribosoom ............................................. 16
+                                                               ureum................................................. 22
+RNA.................................................... 18
+                                                               urine .................................................. 22
+ruggenmerg ........................................ 23
+                                                               urineblaas ........................................... 22
+S
+                                                               V
+schildklier............................................ 23
+                                                               vaccinatie ............................................ 24
+schildklierhormoon ............................... 23
+                                                               vacuole ............................................... 16
+Schwann, cel van - ............................... 23
+                                                               ventilatiebewegingen ............................ 21
+selectiedruk ......................................... 26
+                                                               verbranding ......................................... 17
+selectief permeabel .............................. 16
+                                                               veredeling ........................................... 27
+semi-permeabel membraan ................... 16
+                                                               vertering
+signaalverwerking ................................ 23
+                                                                 (spijs)- ............................................. 21
+sinusknoop .......................................... 22
+                                                                 chemische ........................................ 21
+slagader .............................................. 22
+                                                                 enzymen voor eiwit-........................... 21
+slagvolume .......................................... 22
+                                                                 enzymen voor koolhydraat-................. 21
+slijmvliezen ......................................... 24
+                                                                 enzymen voor vet- ............................. 21
+soort ............................................ 26, 27
+                                                                 mechanische ..................................... 21
+soortensamenstelling ............................ 25
+                                                               verteringsproduct ................................. 21
+speekselklier ....................................... 21
+                                                               verteringssap ....................................... 21
+stamboom ........................................... 19
+                                                               verwantschap ................................ 19, 27
+stamcel ............................................... 18
+                                                               vet ..................................................... 17
+stamcelonderzoek ................................ 18
+                                                               vetoplosbaar ........................................ 17
+stamceltransplantatie ........................... 18
+                                                               vetzuur ............................................... 17
+startcodon ........................................... 18
+                                                               virus ............................................. 16, 24
+sterfte ................................................ 25
+                                                                 DNA- ................................................ 16
+stikstof (N) .......................................... 17
+                                                                 RNA- ................................................ 16
+stikstofgas .................................... 17, 25
+                                                               vitale capaciteit .................................... 21
+stikstofkringloop .................................. 25
+                                                               voedingsstof .................................. 21, 22
+stopcodon ........................................... 18
+                                                               voedselketen ....................................... 25
+structuurformule .................................. 17
+                                                               voedselproductie .................................. 26
+substraat ............................................ 17
+                                                               voedselrelatie ...................................... 25
+symbiose ............................................ 25
+                                                               voedselweb ......................................... 26
+synaps ................................................ 23
+                                                               voortgezette assimilatie .................. 17, 21
+T                                                              vraat .................................................. 25
+teelbal ................................................ 23    W
+temperatuurregulatie ............................ 22
+                                                               warmte ............................................... 17
+terugkoppeling
+                                                               water (H2O) ......................................... 17
+                                                                                                        Pagina 42 van 44
+BIOLOGIE HAVO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+waterhuishouding ................................. 22        zenuwstelsel ........................................ 22
+wateroplosbaar .................................... 17         animaal ............................................ 23
+waterstof (H) ....................................... 17       autonoom (vegetatief) ........................ 23
+weefsel ............................................... 20     centraal ............................................ 23
+weefselvloeistof ................................... 22        perifeer ............................................ 23
+                                                             zetmeel ............................................... 17
+X
+                                                             zintuigen ............................................. 22
+X-chromosomaal .................................. 19         zuurstof ........................................ 16, 17
+                                                             zuurstofconcentratie ....................... 21, 22
+Z
+                                                             zuurstofdruk ........................................ 21
+zenuwcel                                                     zuurstofgas (O2)................................... 17
+  bewegings- ....................................... 23      zuurstoftransport ........................... 21, 22
+  gevoels- ........................................... 23    zweet ................................................. 22
+  schakel ............................................. 23   zweetklier ........................................... 22
+
+
+
+
+                                                                                                    Pagina 43 van 44
+

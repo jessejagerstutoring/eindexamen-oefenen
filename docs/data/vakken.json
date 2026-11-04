@@ -1841,6 +1841,236 @@
      ]
     }
    ]
+  },
+  "biologie-havo": {
+   "niveau": "havo",
+   "naam": "Biologie",
+   "opmerking": "Bij dit examen gebruik je het informatieboek Binas of ScienceData. Die staan niet bij de originele stukken.",
+   "vragen": 723,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "ha-1018-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "ha-1018-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "ha-1018-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "ha-1018-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "ha-1018-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "ha-1018-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "ha-1018-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "ha-1018-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "ha-1018-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "ha-1018-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "ha-1018-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "ha-1018-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "ha-1018-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "ha-1018-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "ha-1018-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "ha-1018-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Vaardigheden",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoek en experimenten",
+       "code": "A5",
+       "omschrijving": "Hypothese, variabelen, controlegroep, werkplan, betrouwbaarheid en conclusies.",
+       "vragen": 80,
+       "punten": 131
+      }
+     ]
+    },
+    {
+     "naam": "Cel en erfelijkheid",
+     "onderwerpen": [
+      {
+       "id": "cel",
+       "naam": "Cellen, organellen en transport",
+       "code": "B2, D1",
+       "omschrijving": "Organellen, celmembraan, osmose, diffusie en organisatieniveaus.",
+       "vragen": 18,
+       "punten": 26
+      },
+      {
+       "id": "stofwisseling",
+       "naam": "Stofwisseling en enzymen",
+       "code": "B2",
+       "omschrijving": "Enzymen, dissimilatie, gisting, assimilatie en energie.",
+       "vragen": 41,
+       "punten": 58
+      },
+      {
+       "id": "dna",
+       "naam": "DNA, eiwitsynthese en genexpressie",
+       "code": "B1, E1",
+       "omschrijving": "Transcriptie, translatie, codons, mutaties, genexpressie en biotechnologie.",
+       "vragen": 48,
+       "punten": 72
+      },
+      {
+       "id": "voortplanting",
+       "naam": "Celdeling en voortplanting",
+       "code": "E2–E3",
+       "omschrijving": "Mitose, meiose, differentiatie, geslachtelijke en ongeslachtelijke voortplanting.",
+       "vragen": 14,
+       "punten": 19
+      },
+      {
+       "id": "erfelijkheid",
+       "naam": "Erfelijkheid en stambomen",
+       "code": "E4",
+       "omschrijving": "Kruisingsschema's, dominant en recessief, X-chromosomaal en kansen.",
+       "vragen": 33,
+       "punten": 58
+      },
+      {
+       "id": "evolutie",
+       "naam": "Evolutie en biodiversiteit",
+       "code": "F",
+       "omschrijving": "Natuurlijke selectie, soortvorming, resistentie, stambomen en naamgeving.",
+       "vragen": 66,
+       "punten": 114
+      }
+     ]
+    },
+    {
+     "naam": "Het menselijk lichaam",
+     "onderwerpen": [
+      {
+       "id": "vertering",
+       "naam": "Voeding en vertering",
+       "code": "B3",
+       "omschrijving": "Spijsverteringskanaal, enzymen, resorptie, lever en voedingsstoffen.",
+       "vragen": 35,
+       "punten": 56
+      },
+      {
+       "id": "transport",
+       "naam": "Ademhaling, bloedsomloop en uitscheiding",
+       "code": "B3",
+       "omschrijving": "Longen, hart, bloedvaten, bloed en nieren.",
+       "vragen": 90,
+       "punten": 150
+      },
+      {
+       "id": "regeling",
+       "naam": "Hormonen en homeostase",
+       "code": "B4",
+       "omschrijving": "Hormoonklieren, terugkoppeling, glucoseregulatie, ADH en de menstruatiecyclus.",
+       "vragen": 32,
+       "punten": 54
+      },
+      {
+       "id": "zenuw",
+       "naam": "Zenuwstelsel, zintuigen en spieren",
+       "code": "B6–B7",
+       "omschrijving": "Zenuwcellen, synaps, reflexen, hersenen, oog en het autonome zenuwstelsel.",
+       "vragen": 52,
+       "punten": 81
+      },
+      {
+       "id": "afweer",
+       "naam": "Afweer en bloedgroepen",
+       "code": "B5",
+       "omschrijving": "Aspecifieke en specifieke afweer, vaccinatie, immuniteit en bloedgroepen.",
+       "vragen": 51,
+       "punten": 89
+      }
+     ]
+    },
+    {
+     "naam": "Planten en ecologie",
+     "onderwerpen": [
+      {
+       "id": "plant",
+       "naam": "Planten",
+       "code": "B3, B8",
+       "omschrijving": "Fotosynthese, hout- en bastvaten, huidmondjes, wortels en beperkende factoren.",
+       "vragen": 31,
+       "punten": 50
+      },
+      {
+       "id": "ecologie",
+       "naam": "Ecosystemen en kringlopen",
+       "code": "B8, D4",
+       "omschrijving": "Voedselwebben, energiestroom, relaties, stikstofkringloop, exoten en duurzaamheid.",
+       "vragen": 128,
+       "punten": 198
+      },
+      {
+       "id": "gedrag",
+       "naam": "Gedrag",
+       "code": "D2",
+       "omschrijving": "Gedragsvormen, communicatie en de functie van gedrag.",
+       "vragen": 4,
+       "punten": 8
+      }
+     ]
+    }
+   ]
   }
  }
 }

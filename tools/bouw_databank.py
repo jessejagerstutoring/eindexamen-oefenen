@@ -96,7 +96,7 @@ def lees_correctie(pad):
     for i, r in enumerate(regels):
         if re.search(r'bronvermelding', r, re.I) and vragen:
             break
-        m = re.match(r'^\s{0,10}(\d{1,2})\s+maximumscore\s+(\d+)', r) or re.match(r'^\s{0,10}(\d{1,2})\s+([A-F])\s*$', r)
+        m = re.match(r'^\s{0,10}(\d{1,2})\s+maximumscore\s+(\d+)', r) or re.match(r'^\s{0,10}(\d{1,2})\s+([A-F])(?:\s+\d)?\s*$', r)
         if m:
             nr = int(m.group(1))
             if nr != verwacht or re.search(r'vakspecifieke regel', ' '.join(regels[i + 1:i + 3])):  # bijvoorbeeld een totaal onderaan, of een opsomming in de algemene regels
@@ -107,7 +107,7 @@ def lees_correctie(pad):
                 k -= 1
             kandidaat = regels[k]
             if kandidaat.strip() and len(kandidaat) - len(kandidaat.lstrip()) <= 8 and len(kandidaat.strip()) < 70 \
-                    and not regels[k - 1].strip() and not re.search(r'maximumscore|^\s*[•▪-]|^\s*\d{1,2}\s+[A-F]\s*$', kandidaat):
+                    and not regels[k - 1].strip() and not re.search(r'maximumscore|^\s*[•▪-]|^\s*\d{1,2}\s+[A-F](?:\s+\d)?\s*$', kandidaat):
                 titel = kandidaat.strip()
                 if huidige and huidige['model'] and huidige['model'][-1].strip() == titel:
                     huidige['model'].pop()
