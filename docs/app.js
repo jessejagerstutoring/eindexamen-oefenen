@@ -2,7 +2,7 @@
  * Eindexamen Oefenen: echte centrale examenvragen per onderwerp.
  * Routes (in de hash):
  *   #/                                begin: kies niveau en vak
- *   #/vak/<vak>                       onderwerpen van een vak (of ?per=examen)
+ *   #/vak/<vak>                       inhoudsopgave van een vak (of ?per=examen)
  *   #/vak/<vak>/onderwerp/<id>        alle vragen over één onderwerp
  *   #/vak/<vak>/examen/<code>         alle vragen van één examen
  *   #/vraag/<vak>/<id>/<lijst>        één vraag; <lijst> is o-<onderwerp> of e-<examen> voor vorige/volgende
@@ -10,10 +10,11 @@
 (() => {
   const app = document.getElementById('app');
   const kruimel = document.getElementById('kruimel');
+  const hoofdnav = document.getElementById('hoofdnav');
   const cache = {};
   let OVERZICHT = null;
 
-  // ---------- voortgang (alleen in deze browser) ----------
+  // ---------- scores (alleen in deze browser) ----------
   const SLEUTEL = 'eo-voortgang-v1';
   const lees = () => { try { return JSON.parse(localStorage.getItem(SLEUTEL)) || {}; } catch (e) { return {}; } };
   const bewaar = (id, score, max) => {
@@ -32,83 +33,114 @@
     return cache[pad];
   }
   const vakData = vak => json(`data/${vak}.json`);
-  const vakNaam = vak => { const v = OVERZICHT.vakken[vak]; return `${v.naam} ${OVERZICHT.niveaus[v.niveau].toLowerCase()}`; };
+  const niv = vak => OVERZICHT.niveaus[OVERZICHT.vakken[vak].niveau];
+  const vakNaam = vak => `${OVERZICHT.vakken[vak].naam} ${niv(vak).toLowerCase()}`;
   const onderwerp = (vak, id) => OVERZICHT.vakken[vak].domeinen.flatMap(d => d.onderwerpen).find(o => o.id === id);
+  // paragraafnummer zoals in een boek: hoofdstuk = domein, paragraaf = onderwerp
+  function nummer(vak, id) {
+    let uit = '';
+    OVERZICHT.vakken[vak].domeinen.forEach((d, i) => d.onderwerpen.forEach((o, j) => { if (o.id === id) uit = `${i + 1}.${j + 1}`; }));
+    return uit;
+  }
 
   function status(id) {
     const r = lees()[id];
-    if (!r) return '';
+    if (!r) return '<span class="st">–</span>';
     const k = r.s === r.m ? 'goed' : r.s === 0 ? 'fout' : 'half';
-    return `<span class="st ${k}">${r.s}/${r.m} p</span>`;
+    return `<span class="st ${k}">${r.s} van ${r.m}</span>`;
   }
   const gemaakt = ids => { const v = lees(); return ids.filter(i => v[i]).length; };
 
   function zetKruimel(delen) {
-    kruimel.innerHTML = delen.map(([t, h]) => (h ? `<a href="${h}">${esc(t)}</a>` : `<span>${esc(t)}</span>`)).join('<span class="sep">/</span>');
+    kruimel.innerHTML = delen.map(([t, h]) => (h ? `<a href="${h}">${esc(t)}</a>` : `<span>${esc(t)}</span>`)).join('<span class="sep">›</span>');
   }
-  function toon(html, titel) {
+  function zetNav(actief) {
+    const per = {};
+    Object.entries(OVERZICHT.vakken).forEach(([k, v]) => (per[v.niveau] = per[v.niveau] || []).push([k, v]));
+    hoofdnav.innerHTML = Object.entries(per).map(([n, l]) => `<b>${OVERZICHT.niveaus[n]}</b>${l.map(([k, v]) => `<a href="#/vak/${k}" class="${k === actief ? 'aan' : ''}">${esc(v.naam)}</a>`).join('')}`).join('');
+  }
+  function toon(html, titel, vak) {
+    zetNav(vak);
     app.innerHTML = html;
-    document.title = titel ? `${titel} · Eindexamen Oefenen` : 'Eindexamen Oefenen';
+    document.title = titel ? `${titel} – Eindexamen Oefenen` : 'Eindexamen Oefenen';
     window.scrollTo(0, 0);
+  }
+  // hele tabelrij klikbaar, de link in de rij blijft het echte doel
+  function klikbareRijen(tabel) {
+    tabel.addEventListener('click', e => {
+      const tr = e.target.closest('tr[data-href]');
+      if (tr && !e.target.closest('a')) location.hash = tr.dataset.href;
+    });
   }
 
   // ---------- begin ----------
   function begin() {
     zetKruimel([]);
-    const per = { havo: [], vwo: [] };
-    Object.entries(OVERZICHT.vakken).forEach(([k, v]) => per[v.niveau].push([k, v]));
-    const vakKaart = ([k, v]) => {
-      const n = v.domeinen.reduce((s, d) => s + d.onderwerpen.length, 0);
+    const per = {};
+    Object.entries(OVERZICHT.vakken).forEach(([k, v]) => (per[v.niveau] = per[v.niveau] || []).push([k, v]));
+    const rijen = Object.entries(per).map(([n, lijst]) => lijst.map(([k, v], i) => {
+      const nOw = v.domeinen.reduce((s, d) => s + d.onderwerpen.length, 0);
       const j = v.examens.map(e => e.jaar);
-      return `<a class="vak kaart" href="#/vak/${k}">
-        <span class="label">${OVERZICHT.niveaus[v.niveau]}</span>
-        <h3>${esc(v.naam)}</h3>
-        <span class="meta">${v.vragen} vragen · ${n} onderwerpen · ${v.examens.length} examens (${Math.min(...j)}–${Math.max(...j)})</span>
-      </a>`;
-    };
+      return `<tr data-href="#/vak/${k}"><td class="niv">${i === 0 ? OVERZICHT.niveaus[n] : ''}</td>
+        <td class="vaknaam"><a href="#/vak/${k}">${esc(v.naam)}</a></td>
+        <td class="r verberg">${nOw}</td><td class="r">${v.vragen}</td><td class="r verberg">${Math.min(...j)}–${Math.max(...j)}</td></tr>`;
+    }).join('')).join('');
     toon(`
-      <section class="held">
-        <h1>Oefen eindexamenvragen per onderwerp</h1>
-        <p>Alle vragen uit de centrale examens wiskunde sinds 2018, ingedeeld volgens de syllabus. Kies je vak, klik op een onderwerp en maak de vragen precies zoals ze op het examen stonden. Daarna kijk je ze na met het officiële antwoordmodel.</p>
-      </section>
-      <div class="niveaus">
-        ${Object.entries(per).map(([niv, lijst]) => `<section class="niveau"><h2>${OVERZICHT.niveaus[niv]}</h2><div class="vakken">${lijst.map(vakKaart).join('')}</div></section>`).join('')}
+      <div class="titelblok">
+        <div>
+          <p class="bovenkop">Centraal examen wiskunde · havo en vwo</p>
+          <h1>Examenvragen oefenen per onderwerp</h1>
+          <p class="inleiding">Alle vragen uit de centrale examens sinds 2018, geordend volgens de syllabus. Je maakt elke vraag zoals hij op het examen stond, met de inleiding, figuren en tabellen van de opgave, en kijkt hem na met het officiële correctievoorschrift.</p>
+        </div>
+        <aside class="werkwijze">
+          <h2>Zo werk je</h2>
+          <ol>
+            <li>Kies je vak en een onderwerp uit de inhoudsopgave.</li>
+            <li>Maak de vraag op papier.</li>
+            <li>Bekijk het antwoordmodel en geef jezelf punten.</li>
+          </ol>
+        </aside>
       </div>
-      <section class="uitleg">
-        <div class="kaart"><b>1. Kies een onderwerp</b><p>Elk vak is opgedeeld in de onderwerpen uit de syllabus van het centraal examen.</p></div>
-        <div class="kaart"><b>2. Maak de vraag</b><p>Je ziet de inleiding, figuren en tabellen van de opgave, precies zoals in het examen.</p></div>
-        <div class="kaart"><b>3. Kijk na</b><p>Klap het antwoordmodel uit het correctievoorschrift open en geef jezelf punten.</p></div>
-      </section>`);
+      <h2 class="sectiekop">Kies je vak</h2>
+      <table class="catalogus">
+        <thead><tr><th>Niveau</th><th>Vak</th><th class="r verberg">Onderwerpen</th><th class="r">Vragen</th><th class="r verberg">Examens</th></tr></thead>
+        <tbody>${rijen}</tbody>
+      </table>`);
+    klikbareRijen(app.querySelector('.catalogus'));
   }
 
-  // ---------- vak ----------
+  // ---------- vak: inhoudsopgave ----------
   async function vakPagina(vak, perExamen) {
     const v = OVERZICHT.vakken[vak];
     if (!v) return nietGevonden();
     const data = await vakData(vak);
-    const naam = vakNaam(vak);
-    zetKruimel([[OVERZICHT.niveaus[v.niveau], '#/'], [v.naam, null]]);
+    zetKruimel([['Start', '#/'], [vakNaam(vak), null]]);
     const ids = data.vragen.map(q => q.id);
-    const kop = `<div class="vak-kop">
-        <div><span class="label">${OVERZICHT.niveaus[v.niveau]} · centraal examen</span><h1>${esc(v.naam)}</h1>
-        <p>${v.vragen} vragen uit ${v.examens.length} examens · ${gemaakt(ids)} gemaakt</p></div>
-        <nav class="tabs" aria-label="Weergave"><a href="#/vak/${vak}" class="${perExamen ? '' : 'aan'}">Per onderwerp</a><a href="#/vak/${vak}?per=examen" class="${perExamen ? 'aan' : ''}">Per examen</a></nav>
-      </div>`;
+    const kop = `<header class="vakkop">
+        <div><p class="bovenkop">${niv(vak)} · centraal examen</p><h1>${esc(v.naam)}</h1>
+        <p>${v.vragen} vragen uit ${v.examens.length} examens (${v.examens[v.examens.length - 1].jaar}–${v.examens[0].jaar}) · ${gemaakt(ids)} door jou gemaakt</p></div>
+        <nav class="weergave" aria-label="Weergave"><a href="#/vak/${vak}" class="${perExamen ? '' : 'aan'}">Per onderwerp</a><a href="#/vak/${vak}?per=examen" class="${perExamen ? 'aan' : ''}">Per examen</a></nav>
+      </header>`;
     if (perExamen) {
-      return toon(kop + `<div class="examens">${v.examens.map(e => {
+      const rijen = v.examens.map(e => {
         const q = data.vragen.filter(x => x.examen === e.code);
-        return `<a class="examen kaart" href="#/vak/${vak}/examen/${e.code}"><b>${e.jaar} · ${tv(e.tijdvak)}</b><span>${q.length} vragen · ${gemaakt(q.map(x => x.id))} gemaakt</span></a>`;
-      }).join('')}</div>`, naam);
+        return `<tr data-href="#/vak/${vak}/examen/${e.code}"><td><a href="#/vak/${vak}/examen/${e.code}">${e.jaar}</a></td><td>${tv(e.tijdvak)}</td>
+          <td class="r">${q.length}</td><td class="r">${q.reduce((s, x) => s + x.punten, 0)}</td><td class="r">${gemaakt(q.map(x => x.id))} van ${q.length}</td></tr>`;
+      }).join('');
+      toon(kop + `<div class="tabelvak"><table class="tabel"><thead><tr><th>Jaar</th><th>Tijdvak</th><th class="r">Vragen</th><th class="r">Punten</th><th class="r">Gemaakt</th></tr></thead><tbody>${rijen}</tbody></table></div>`, vakNaam(vak), vak);
+      return klikbareRijen(app.querySelector('.tabel'));
     }
-    toon(kop + v.domeinen.map(d => `<section class="domein"><h2 class="label">${esc(d.naam)}</h2><div class="onderwerpen">${d.onderwerpen.map(o => {
+    toon(kop + `<div class="inhoud">${v.domeinen.map((d, i) => `<section class="hoofdstuk"><h2><span class="hnr">${i + 1}</span>${esc(d.naam)}</h2>${d.onderwerpen.map((o, j) => {
       const q = data.vragen.filter(x => x.onderwerp === o.id).map(x => x.id);
       const g = gemaakt(q);
-      return `<a class="ow kaart" href="#/vak/${vak}/onderwerp/${o.id}">
-          <h3>${esc(o.naam)} <span class="code">${esc(o.code)}</span></h3>
-          <p>${esc(o.omschrijving)}</p>
-          <span class="rechts"><span class="tal">${o.vragen} <small>vragen · ${o.punten} p</small></span><span class="balk" title="${g} van ${q.length} gemaakt"><i style="width:${q.length ? Math.round(100 * g / q.length) : 0}%"></i></span></span>
+      return `<a class="paragraaf" href="#/vak/${vak}/onderwerp/${o.id}">
+          <span class="pnr">${i + 1}.${j + 1}</span>
+          <span class="pmid"><span class="ptitel">${esc(o.naam)}</span><span class="syl" title="Syllabus">${esc(o.code)}</span><span class="stip"></span></span>
+          <span class="pcijfers"><b>${o.vragen}</b> vragen · ${o.punten} p</span>
+          <span class="pomschr">${esc(o.omschrijving)}</span>
+          <span class="pvoortgang ${g && g === q.length ? 'af' : ''}">${g ? `${g} van ${q.length} gemaakt` : ''}</span>
         </a>`;
-    }).join('')}</div></section>`).join(''), naam);
+    }).join('')}</section>`).join('')}</div>`, vakNaam(vak), vak);
   }
 
   // ---------- lijst van vragen ----------
@@ -119,40 +151,49 @@
     const v = OVERZICHT.vakken[vak];
     if (!v) return nietGevonden();
     const data = await vakData(vak);
-    let vragen, titel, sub, lijstId;
+    let vragen, titel, sub, lijstId, boven;
     if (soort === 'onderwerp') {
       const o = onderwerp(vak, sleutel);
       if (!o) return nietGevonden();
       vragen = data.vragen.filter(q => q.onderwerp === sleutel);
       titel = o.naam;
-      sub = `${o.omschrijving} Syllabus ${o.code}.`;
+      boven = `${vakNaam(vak)} · paragraaf ${nummer(vak, sleutel)} · syllabus ${o.code}`;
+      sub = o.omschrijving;
       lijstId = `o-${sleutel}`;
     } else {
       vragen = data.vragen.filter(q => q.examen === sleutel).sort((a, b) => a.vraag - b.vraag);
       if (!vragen.length) return nietGevonden();
       titel = `Examen ${vragen[0].jaar}, ${tv(vragen[0].tijdvak)}`;
-      sub = `${vragen.length} vragen · ${vragen.reduce((s, q) => s + q.punten, 0)} punten.`;
+      boven = vakNaam(vak);
+      sub = `${vragen.length} vragen, samen ${vragen.reduce((s, q) => s + q.punten, 0)} punten.`;
       lijstId = `e-${sleutel}`;
     }
-    zetKruimel([[OVERZICHT.niveaus[v.niveau], '#/'], [v.naam, `#/vak/${vak}${soort === 'examen' ? '?per=examen' : ''}`], [soort === 'onderwerp' ? titel : `${vragen[0].jaar}-${tvKort(vragen[0].tijdvak)}`, null]]);
+    zetKruimel([['Start', '#/'], [vakNaam(vak), `#/vak/${vak}${soort === 'examen' ? '?per=examen' : ''}`], [soort === 'onderwerp' ? titel : `${vragen[0].jaar}-${tvKort(vragen[0].tijdvak)}`, null]]);
+    const kolom = soort === 'onderwerp' ? '<th>Examen</th>' : '<th class="verberg">Onderwerp</th>';
     const teken = () => {
       const zicht = vragen.filter(FILTERS[filter]);
-      document.getElementById('vragen').innerHTML = zicht.length ? zicht.map(q => `
-        <a class="vr kaart" href="#/vraag/${vak}/${enc(q.id)}/${lijstId}">
-          <span class="nr">${q.vraag}</span>
-          <span class="wat"><b>${esc(q.opgave || 'Opgave')}</b><span>${soort === 'onderwerp' ? `${q.jaar} ${tv(q.tijdvak)} · ` : `${esc(onderwerp(vak, q.onderwerp).naam)} · `}${q.punten} punten</span></span>
-          ${status(q.id) || '<span class="st">nog niet gemaakt</span>'}
-        </a>`).join('') : '<p class="leeg kaart">Geen vragen met dit filter.</p>';
+      document.getElementById('rijen').innerHTML = zicht.length ? zicht.map(q => {
+        const h = `#/vraag/${vak}/${enc(q.id)}/${lijstId}`;
+        return `<tr data-href="${h}">
+          ${soort === 'onderwerp' ? `<td class="zacht">${q.jaar}-${tvKort(q.tijdvak)}</td>` : ''}
+          <td class="vnr">${q.vraag}</td>
+          <td><a href="${h}">${esc(q.opgave || 'Opgave')}</a></td>
+          ${soort === 'examen' ? `<td class="zacht verberg">${esc(onderwerp(vak, q.onderwerp).naam)}</td>` : ''}
+          <td class="r">${q.punten}</td><td class="r">${status(q.id)}</td></tr>`;
+      }).join('') : `<tr><td colspan="5" class="leeg">Geen vragen bij dit filter.</td></tr>`;
       document.querySelectorAll('.filters button').forEach(b => b.classList.toggle('aan', b.dataset.f === filter));
     };
-    toon(`<header class="lijst-kop"><span class="label">${esc(vakNaam(vak))}</span><h1>${esc(titel)}</h1><p>${esc(sub)}</p></header>
-      <div class="filters" role="group" aria-label="Filter">
-        <button data-f="alle">Alle (${vragen.length})</button>
+    toon(`<header class="lijstkop"><p class="bovenkop">${esc(boven)}</p><h1>${esc(titel)}</h1><p class="inleiding">${esc(sub)}</p></header>
+      <div class="filters" role="group" aria-label="Filter"><span>Toon:</span>
+        <button data-f="alle">alle ${vragen.length} vragen</button>
         ${soort === 'onderwerp' ? `<button data-f="recent">2022 en later</button><button data-f="ouder">2018–2021</button>` : ''}
-        <button data-f="open">Nog niet gemaakt</button>
+        <button data-f="open">nog niet gemaakt</button>
       </div>
-      <div class="vragen" id="vragen"></div>`, titel);
+      <div class="tabelvak"><table class="tabel">
+        <thead><tr>${soort === 'onderwerp' ? kolom : ''}<th>Vraag</th><th>Opgave</th>${soort === 'examen' ? kolom : ''}<th class="r">Punten</th><th class="r">Jouw score</th></tr></thead>
+        <tbody id="rijen"></tbody></table></div>`, titel, vak);
     app.querySelector('.filters').addEventListener('click', e => { const b = e.target.closest('button'); if (b) { filter = b.dataset.f; teken(); } });
+    klikbareRijen(app.querySelector('.tabel'));
     teken();
   }
 
@@ -164,64 +205,69 @@
     const q = data.vragen.find(x => x.id === id);
     if (!q) return nietGevonden();
     const o = onderwerp(vak, q.onderwerp);
-    // de lijst waar de leerling vandaan komt, voor vorige en volgende
-    let reeks = lijst && lijst.startsWith('e-') ? data.vragen.filter(x => x.examen === lijst.slice(2)).sort((a, b) => a.vraag - b.vraag) : data.vragen.filter(x => x.onderwerp === (lijst ? lijst.slice(2) : q.onderwerp));
     if (!lijst) lijst = `o-${q.onderwerp}`;
+    // de lijst waar de leerling vandaan komt, voor vorige en volgende
+    const reeks = lijst.startsWith('e-') ? data.vragen.filter(x => x.examen === lijst.slice(2)).sort((a, b) => a.vraag - b.vraag) : data.vragen.filter(x => x.onderwerp === lijst.slice(2));
     const i = reeks.findIndex(x => x.id === id);
     const vorige = reeks[i - 1], volgende = reeks[i + 1];
-    const terug = lijst.startsWith('e-') ? [`${q.jaar}-${tvKort(q.tijdvak)}`, `#/vak/${vak}/examen/${q.examen}`] : [o.naam, `#/vak/${vak}/onderwerp/${q.onderwerp}`];
-    zetKruimel([[OVERZICHT.niveaus[v.niveau], '#/'], [v.naam, `#/vak/${vak}`], terug, [`Vraag ${q.vraag}`, null]]);
+    const terug = lijst.startsWith('e-') ? [`Examen ${q.jaar}-${tvKort(q.tijdvak)}`, `#/vak/${vak}/examen/${q.examen}`] : [`${nummer(vak, q.onderwerp)} ${o.naam}`, `#/vak/${vak}/onderwerp/${q.onderwerp}`];
+    zetKruimel([['Start', '#/'], [vakNaam(vak), `#/vak/${vak}`], terug, [`Vraag ${q.vraag}`, null]]);
 
     const img = (s, alt) => `<img src="${s.src}" width="${s.w}" height="${s.h}" alt="${esc(alt)}" loading="lazy" decoding="async">`;
     const eerder = q.stukken.slice(0, -1), deze = q.stukken[q.stukken.length - 1];
-    const examenNaam = `Centraal examen ${OVERZICHT.niveaus[v.niveau].toLowerCase()} ${v.naam.toLowerCase()} ${q.jaar}, ${tv(q.tijdvak)}`;
     const pdf = q.pdf || {};
     const r = lees()[q.id];
+    const link = (u, t) => (u ? `<a href="${u}" target="_blank" rel="noopener">${t}</a>` : '');
     toon(`
-      <header class="vraag-kop">
-        <span class="label">${esc(examenNaam)}</span>
-        <h1>Vraag ${q.vraag} · ${esc(q.opgave || 'Opgave')}</h1>
-        <div class="chips"><span class="chip">${esc(o.naam)}</span><span class="chip grijs">${q.punten} punten</span><span class="chip grijs">Syllabus ${esc(o.code)}</span></div>
+      <header class="vraagkop">
+        <p class="bovenkop">${esc(vakNaam(vak))} · examen ${q.jaar}, ${tv(q.tijdvak)}</p>
+        <h1><span class="vn">Vraag ${q.vraag}</span> · ${esc(q.opgave || 'Opgave')}</h1>
       </header>
-      ${eerder.length ? `<details class="context" open><summary>Inleiding en eerdere vragen van deze opgave (${eerder.length === 1 ? 'vraag ' + eerder[0].vraag : 'vragen ' + eerder[0].vraag + '–' + eerder[eerder.length - 1].vraag})</summary>
-        <div class="papier">${eerder.map(s => img(s, `Opgave ${q.opgave}, tekst tot en met vraag ${s.vraag}`)).join('')}</div></details>` : ''}
-      <div class="papier deze"><span class="deze-l">VRAAG ${q.vraag}</span>${img(deze, `Vraag ${q.vraag}: ${q.tekst}`)}</div>
-      ${q.uitwerkbijlage && pdf.uitwerkbijlage ? `<p class="melding">Bij deze vraag hoort een uitwerkbijlage. <a href="${pdf.uitwerkbijlage}" target="_blank" rel="noopener">Open de uitwerkbijlage (pdf)</a> om erin te tekenen of af te lezen.</p>` : ''}
-      ${q.uitwerkbijlage && !pdf.uitwerkbijlage ? `<p class="melding">Bij deze vraag hoort een uitwerkbijlage; die staat achterin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.</p>` : ''}
-      <div class="acties">
-        <button class="knop hoofd" id="toon" aria-expanded="false">Toon het antwoordmodel</button>
-        ${volgende ? `<a class="knop" href="#/vraag/${vak}/${enc(volgende.id)}/${lijst}">Sla over</a>` : ''}
-      </div>
-      <section id="antwoord" hidden>
-        <h2 class="label antwoord-l">Antwoordmodel uit het correctievoorschrift</h2>
-        ${q.antwoord ? `<div class="papier">${img(q.antwoord, `Antwoordmodel vraag ${q.vraag}`)}</div>` : `<p class="melding">Het antwoordmodel staat in het <a href="${pdf.correctievoorschrift}" target="_blank" rel="noopener">correctievoorschrift (pdf)</a>.</p>`}
-        ${pdf['correctievoorschrift-aanvulling'] ? `<p class="melding">Bij dit examen is een <a href="${pdf['correctievoorschrift-aanvulling']}" target="_blank" rel="noopener">aanvulling op het correctievoorschrift</a> verschenen. Kijk daar ook even.</p>` : ''}
-        <div class="score kaart"><b>Hoeveel punten had jij?</b><div class="punten">${Array.from({ length: q.punten + 1 }, (_, p) => `<button data-p="${p}" class="${r && r.s === p ? 'aan' : ''}">${p}</button>`).join('')}</div>
-        <span class="label" id="bewaard">${r ? `Bewaard: ${r.s} van ${r.m} punten` : 'Je score wordt in deze browser bewaard'}</span></div>
-      </section>
-      <nav class="nav-vraag">
-        ${vorige ? `<a class="knop" href="#/vraag/${vak}/${enc(vorige.id)}/${lijst}">← Vorige vraag</a>` : '<span></span>'}
-        <span class="chip grijs">${i + 1} van ${reeks.length}</span>
-        ${volgende ? `<a class="knop hoofd" href="#/vraag/${vak}/${enc(volgende.id)}/${lijst}">Volgende vraag →</a>` : `<a class="knop" href="${terug[1]}">Terug naar de lijst</a>`}
-      </nav>
-      <section class="bron kaart">
-        <b>Bron</b>
-        <span>${esc(examenNaam)}, vraag ${q.vraag}. College voor Toetsen en Examens, examenblad.nl. © Staat der Nederlanden.</span>
-        <span class="links">
-          ${pdf.opgaven ? `<a href="${pdf.opgaven}" target="_blank" rel="noopener">Opgaven (pdf)</a>` : ''}
-          ${pdf.correctievoorschrift ? `<a href="${pdf.correctievoorschrift}" target="_blank" rel="noopener">Correctievoorschrift (pdf)</a>` : ''}
-          ${pdf.uitwerkbijlage ? `<a href="${pdf.uitwerkbijlage}" target="_blank" rel="noopener">Uitwerkbijlage (pdf)</a>` : ''}
-          ${pdf['correctievoorschrift-aanvulling'] ? `<a href="${pdf['correctievoorschrift-aanvulling']}" target="_blank" rel="noopener">Aanvulling correctievoorschrift</a>` : ''}
-          <a href="#/vak/${vak}/examen/${q.examen}">Alle vragen van dit examen</a>
-        </span>
-        ${vak === 'wiskunde-a-havo' || vak.endsWith('-vwo') ? `<span>Het formuleblad staat voorin de originele opgaven.</span>` : ''}
-      </section>`, `Vraag ${q.vraag} ${q.jaar}-${tvKort(q.tijdvak)}`);
+      <div class="vraagopzet">
+        <aside class="kantlijn">
+          <dl>
+            <div><dt>Examen</dt><dd>${esc(v.naam)} ${OVERZICHT.niveaus[v.niveau].toLowerCase()}<br>${q.jaar}, ${tv(q.tijdvak)}</dd></div>
+            <div><dt>Opgave</dt><dd>${esc(q.opgave || '–')}</dd></div>
+            <div><dt>Punten</dt><dd>${q.punten}</dd></div>
+            <div><dt>Onderwerp</dt><dd><a href="#/vak/${vak}/onderwerp/${q.onderwerp}">${nummer(vak, q.onderwerp)} ${esc(o.naam)}</a><br><span class="st">syllabus ${esc(o.code)}</span></dd></div>
+            ${r ? `<div><dt>Jouw score</dt><dd>${status(q.id)}</dd></div>` : ''}
+          </dl>
+          <div class="bronnen"><b>Originele stukken</b>
+            ${link(pdf.opgaven, 'Opgaven (pdf)')}
+            ${link(pdf.uitwerkbijlage, 'Uitwerkbijlage (pdf)')}
+            ${link(pdf.correctievoorschrift, 'Correctievoorschrift (pdf)')}
+            ${link(pdf['correctievoorschrift-aanvulling'], 'Aanvulling correctievoorschrift')}
+            <a href="#/vak/${vak}/examen/${q.examen}">Alle vragen van dit examen</a>
+          </div>
+        </aside>
+        <div>
+          ${eerder.length ? `<details class="context" open><summary>Inleiding en eerdere vragen van deze opgave (${eerder.length === 1 ? 'vraag ' + eerder[0].vraag : 'vragen ' + eerder[0].vraag + ' t/m ' + eerder[eerder.length - 1].vraag})</summary>
+            <div class="blad">${eerder.map(s => img(s, `Opgave ${q.opgave}, tekst tot en met vraag ${s.vraag}`)).join('')}</div></details>` : ''}
+          <div class="blad deze">${img(deze, `Vraag ${q.vraag}: ${q.tekst}`)}</div>
+          ${q.uitwerkbijlage ? `<p class="opmerking">Bij deze vraag hoort een uitwerkbijlage. ${pdf.uitwerkbijlage ? `<a href="${pdf.uitwerkbijlage}" target="_blank" rel="noopener">Open de uitwerkbijlage (pdf)</a>.` : `Die staat achterin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.`}</p>` : ''}
+          ${vak === 'wiskunde-a-havo' ? `<p class="opmerking">Het formuleblad staat voorin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.</p>` : ''}
+          <div class="acties"><button class="knop vol" id="toon" aria-expanded="false">Bekijk het antwoordmodel</button></div>
+          <section class="antwoordblok" id="antwoord" hidden>
+            <h2>Antwoordmodel</h2>
+            ${q.antwoord ? `<div class="blad">${img(q.antwoord, `Antwoordmodel vraag ${q.vraag}`)}</div>` : `<p class="opmerking">Het antwoordmodel staat in het <a href="${pdf.correctievoorschrift}" target="_blank" rel="noopener">correctievoorschrift (pdf)</a>.</p>`}
+            ${pdf['correctievoorschrift-aanvulling'] ? `<p class="opmerking">Voor dit examen is een <a href="${pdf['correctievoorschrift-aanvulling']}" target="_blank" rel="noopener">aanvulling op het correctievoorschrift</a> verschenen.</p>` : ''}
+            <div class="zelfscore"><b>Hoeveel punten heb je gehaald?</b>
+              <div class="punten" role="group" aria-label="Punten">${Array.from({ length: q.punten + 1 }, (_, p) => `<button data-p="${p}" class="${r && r.s === p ? 'aan' : ''}">${p}</button>`).join('')}</div>
+              <span class="klein" id="bewaard">${r ? `Bewaard: ${r.s} van ${r.m} punten.` : 'Elk bolletje (•) in het antwoordmodel is meestal 1 punt.'}</span></div>
+          </section>
+          <nav class="bladnav">
+            ${vorige ? `<a class="knop stil" href="#/vraag/${vak}/${enc(vorige.id)}/${lijst}">‹ Vorige vraag</a>` : '<span></span>'}
+            <span class="teller">${i + 1} van ${reeks.length}</span>
+            ${volgende ? `<a class="knop" href="#/vraag/${vak}/${enc(volgende.id)}/${lijst}">Volgende vraag ›</a>` : `<a class="knop stil" href="${terug[1]}">Terug naar het overzicht</a>`}
+          </nav>
+        </div>
+      </div>`, `Vraag ${q.vraag}, ${vakNaam(vak)} ${q.jaar}-${tvKort(q.tijdvak)}`, vak);
 
     const knop = document.getElementById('toon'), ant = document.getElementById('antwoord');
     knop.addEventListener('click', () => {
       ant.hidden = !ant.hidden;
       knop.setAttribute('aria-expanded', String(!ant.hidden));
-      knop.textContent = ant.hidden ? 'Toon het antwoordmodel' : 'Verberg het antwoordmodel';
+      knop.textContent = ant.hidden ? 'Bekijk het antwoordmodel' : 'Verberg het antwoordmodel';
       if (!ant.hidden) ant.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
     ant.querySelector('.punten').addEventListener('click', e => {
@@ -230,13 +276,13 @@
       const p = +b.dataset.p;
       bewaar(q.id, p, q.punten);
       ant.querySelectorAll('.punten button').forEach(x => x.classList.toggle('aan', x === b));
-      document.getElementById('bewaard').textContent = `Bewaard: ${p} van ${q.punten} punten`;
+      document.getElementById('bewaard').textContent = `Bewaard: ${p} van ${q.punten} punten.`;
     });
   }
 
   function nietGevonden() {
-    zetKruimel([]);
-    toon('<div class="kaart leeg"><p>Deze pagina bestaat niet (meer).</p><a class="knop" href="#/">Naar het begin</a></div>', 'Niet gevonden');
+    zetKruimel([['Start', '#/']]);
+    toon('<p class="leeg">Deze pagina bestaat niet (meer).</p><a class="knop" href="#/">Naar de start</a>', 'Niet gevonden');
   }
 
   // ---------- router ----------
@@ -253,7 +299,7 @@
       nietGevonden();
     } catch (e) {
       console.error(e);
-      toon('<div class="kaart leeg"><p>Er ging iets mis bij het laden. Probeer het opnieuw.</p></div>');
+      app.innerHTML = '<p class="leeg">Er ging iets mis bij het laden. Probeer het opnieuw.</p>';
     }
   }
   window.addEventListener('hashchange', () => { filter = 'alle'; route(); });
