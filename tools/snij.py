@@ -63,11 +63,16 @@ def vragen_opgaven(pags):
         for r in lijst:
             if re.fullmatch(r'\d{1,2}p', r[4]) and r[0] < 90:
                 nr = [s for s in lijst if re.fullmatch(r'\d{1,2}', s[4]) and r[2] < s[0] + 20 and s[0] > r[0] and s[0] < 110 and abs(s[1] - r[1]) < 6]
-                if not nr:
-                    continue
-                n = int(nr[0][4])
+                if nr:
+                    n = int(nr[0][4])
+                else:
+                    # soms staat het vraagnummer op dezelfde tekstregel als de vraag ('12 Maak het …')
+                    mee = [s for s in lijst if s[0] < 110 and s[0] > r[0] and abs(s[1] - r[1]) < 6 and re.match(r'\d{1,2}\s', s[4])]
+                    if not mee:
+                        continue
+                    n = int(mee[0][4].split()[0])
                 # de vraagtekst: regels rechts van het nummer die zonder witregel op elkaar volgen
-                tekst = [s for s in lijst if s[0] >= 95 and s[1] < r[3] + 2 and s[3] > r[1] - 2]
+                tekst = [s for s in lijst if s[0] >= (75 if not nr else 95) and s[0] > r[2] and s[1] < r[3] + 2 and s[3] > r[1] - 2]
                 if not tekst:
                     continue
                 onder, x = max(s[3] for s in tekst), min(s[0] for s in tekst)

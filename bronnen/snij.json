@@ -41684,7 +41684,7 @@
    "stuk": "img/vw-1028-a-22-2/s11.webp",
    "maat": [
     1050,
-    303
+    295
    ],
    "nieuweOpgave": false,
    "antwoord": "img/vw-1028-a-22-2/a11.webp",
@@ -41863,15 +41863,19 @@
    ]
   },
   "12": {
+   "stuk": "img/vw-1028-a-22-2/s12.webp",
+   "maat": [
+    1050,
+    98
+   ],
+   "nieuweOpgave": false,
    "antwoord": "img/vw-1028-a-22-2/a12.webp",
    "antwoordMaat": [
     1050,
     1276
    ]
   },
-  "_meldingen": [
-   "vraag 12 niet gevonden in de opgaven"
-  ]
+  "_meldingen": []
  },
  "vw-1028-a-23-1": {
   "1": {
