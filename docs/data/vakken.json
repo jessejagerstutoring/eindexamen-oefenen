@@ -1207,6 +1207,230 @@
      ]
     }
    ]
+  },
+  "natuurkunde-vwo": {
+   "niveau": "vwo",
+   "naam": "Natuurkunde",
+   "opmerking": "Bij dit examen gebruik je Binas of ScienceData. Die staan niet bij de originele stukken.",
+   "vragen": 405,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "vw-1023-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "vw-1023-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "vw-1023-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "vw-1023-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "vw-1023-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "vw-1023-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "vw-1023-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "vw-1023-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "vw-1023-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "vw-1023-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "vw-1023-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "vw-1023-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "vw-1023-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "vw-1023-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "vw-1023-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "vw-1023-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Vaardigheden",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoek, eenheden en modellen",
+       "code": "A",
+       "omschrijving": "Eenheden afleiden, meetonzekerheid, grafieken en computermodellen.",
+       "vragen": 32,
+       "punten": 84
+      }
+     ]
+    },
+    {
+     "naam": "Golven",
+     "onderwerpen": [
+      {
+       "id": "trillingen",
+       "naam": "Trillingen",
+       "code": "B1",
+       "omschrijving": "Periode, frequentie, massa-veersysteem en resonantie.",
+       "vragen": 16,
+       "punten": 50
+      },
+      {
+       "id": "golven",
+       "naam": "Golven, geluid en interferentie",
+       "code": "B1",
+       "omschrijving": "Staande golven, golfsnelheid, interferentie en tralies.",
+       "vragen": 33,
+       "punten": 104
+      }
+     ]
+    },
+    {
+     "naam": "Straling en beeldvorming",
+     "onderwerpen": [
+      {
+       "id": "straling",
+       "naam": "Ioniserende straling",
+       "code": "B2",
+       "omschrijving": "Vervalreacties, activiteit, dosis, halveringstijd en halveringsdikte.",
+       "vragen": 41,
+       "punten": 119
+      },
+      {
+       "id": "beeldvorming",
+       "naam": "Fotonen en medische beeldvorming",
+       "code": "B2",
+       "omschrijving": "Fotonenergie, röntgen, CT, MRI, PET en echografie.",
+       "vragen": 22,
+       "punten": 62
+      }
+     ]
+    },
+    {
+     "naam": "Beweging en wisselwerking",
+     "onderwerpen": [
+      {
+       "id": "beweging",
+       "naam": "Bewegingen en diagrammen",
+       "code": "C1",
+       "omschrijving": "(x,t)- en (v,t)-diagrammen, raaklijnen en oppervlakte onder de grafiek.",
+       "vragen": 22,
+       "punten": 63
+      },
+      {
+       "id": "krachten",
+       "naam": "Krachten en de wetten van Newton",
+       "code": "C1",
+       "omschrijving": "Krachten construeren en ontbinden, Fres = m·a, luchtweerstand.",
+       "vragen": 16,
+       "punten": 53
+      },
+      {
+       "id": "energie",
+       "naam": "Arbeid, energie en vermogen",
+       "code": "C2",
+       "omschrijving": "Arbeid, energiebehoud, rendement en vermogen.",
+       "vragen": 30,
+       "punten": 94
+      },
+      {
+       "id": "gravitatie",
+       "naam": "Cirkelbewegingen en gravitatie",
+       "code": "C3",
+       "omschrijving": "Middelpuntzoekende kracht, gravitatie-energie, satellieten en ontsnappingssnelheid.",
+       "vragen": 24,
+       "punten": 77
+      }
+     ]
+    },
+    {
+     "naam": "Elektriciteit en magnetisme",
+     "onderwerpen": [
+      {
+       "id": "elektriciteit",
+       "naam": "Elektrische schakelingen",
+       "code": "D1",
+       "omschrijving": "Spanning, stroom, weerstand, Kirchhoff, vermogen en energie.",
+       "vragen": 42,
+       "punten": 131
+      },
+      {
+       "id": "velden",
+       "naam": "Elektrische en magnetische velden",
+       "code": "D2",
+       "omschrijving": "Elektrisch veld, lorentzkracht, geladen deeltjes in velden en inductie.",
+       "vragen": 43,
+       "punten": 117
+      }
+     ]
+    },
+    {
+     "naam": "Sterren en quantumwereld",
+     "onderwerpen": [
+      {
+       "id": "sterren",
+       "naam": "Straling van sterren en spectra",
+       "code": "E2",
+       "omschrijving": "Wien, Stefan-Boltzmann, energieniveaus, spectraallijnen en dopplereffect.",
+       "vragen": 46,
+       "punten": 140
+      },
+      {
+       "id": "quantum",
+       "naam": "Quantumwereld",
+       "code": "F1",
+       "omschrijving": "Debroglie-golflengte, energieput, tunneling en fotonen als deeltjes.",
+       "vragen": 38,
+       "punten": 109
+      }
+     ]
+    }
+   ]
   }
  }
 }

@@ -158,6 +158,35 @@ VAKKEN['natuurkunde-havo'] = {
         ]),
     ]}
 
+VAKKEN['natuurkunde-vwo'] = {
+    'niveau': 'vwo', 'naam': 'Natuurkunde', 'opmerking': BINAS, 'domeinen': [
+        ('Vaardigheden', [
+            ('onderzoek', 'Onderzoek, eenheden en modellen', 'A', 'Eenheden afleiden, meetonzekerheid, grafieken en computermodellen.'),
+        ]),
+        ('Golven', [
+            ('trillingen', 'Trillingen', 'B1', 'Periode, frequentie, massa-veersysteem en resonantie.'),
+            ('golven', 'Golven, geluid en interferentie', 'B1', 'Staande golven, golfsnelheid, interferentie en tralies.'),
+        ]),
+        ('Straling en beeldvorming', [
+            ('straling', 'Ioniserende straling', 'B2', 'Vervalreacties, activiteit, dosis, halveringstijd en halveringsdikte.'),
+            ('beeldvorming', 'Fotonen en medische beeldvorming', 'B2', 'Fotonenergie, röntgen, CT, MRI, PET en echografie.'),
+        ]),
+        ('Beweging en wisselwerking', [
+            ('beweging', 'Bewegingen en diagrammen', 'C1', '(x,t)- en (v,t)-diagrammen, raaklijnen en oppervlakte onder de grafiek.'),
+            ('krachten', 'Krachten en de wetten van Newton', 'C1', 'Krachten construeren en ontbinden, Fres = m·a, luchtweerstand.'),
+            ('energie', 'Arbeid, energie en vermogen', 'C2', 'Arbeid, energiebehoud, rendement en vermogen.'),
+            ('gravitatie', 'Cirkelbewegingen en gravitatie', 'C3', 'Middelpuntzoekende kracht, gravitatie-energie, satellieten en ontsnappingssnelheid.'),
+        ]),
+        ('Elektriciteit en magnetisme', [
+            ('elektriciteit', 'Elektrische schakelingen', 'D1', 'Spanning, stroom, weerstand, Kirchhoff, vermogen en energie.'),
+            ('velden', 'Elektrische en magnetische velden', 'D2', 'Elektrisch veld, lorentzkracht, geladen deeltjes in velden en inductie.'),
+        ]),
+        ('Sterren en quantumwereld', [
+            ('sterren', 'Straling van sterren en spectra', 'E2', 'Wien, Stefan-Boltzmann, energieniveaus, spectraallijnen en dopplereffect.'),
+            ('quantum', 'Quantumwereld', 'F1', 'Debroglie-golflengte, energieput, tunneling en fotonen als deeltjes.'),
+        ]),
+    ]}
+
 NIVEAUS = {'havo': 'Havo', 'vwo': 'Vwo'}
 
 

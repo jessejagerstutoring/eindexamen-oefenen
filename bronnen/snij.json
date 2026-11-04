@@ -33861,5 +33861,10627 @@
    ]
   },
   "_meldingen": []
+ },
+ "vw-1023-a-18-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-18-1/s1.webp",
+   "maat": [
+    1050,
+    792
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    856
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-18-1/s2.webp",
+   "maat": [
+    1050,
+    577
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    442
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-18-1/s3.webp",
+   "maat": [
+    1050,
+    981
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    1095
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-18-1/s4.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    507
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-18-1/s5.webp",
+   "maat": [
+    1050,
+    927
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    1369
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-18-1/s6.webp",
+   "maat": [
+    1050,
+    849
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    870
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-18-1/s7.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    310
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-18-1/s8.webp",
+   "maat": [
+    1050,
+    1640
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    497
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-18-1/s9.webp",
+   "maat": [
+    1050,
+    607
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    502
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-18-1/s10.webp",
+   "maat": [
+    1050,
+    361
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    239
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-18-1/s11.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-18-1/s12.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    325
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-18-1/s13.webp",
+   "maat": [
+    1050,
+    1678
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    612
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-18-1/s14.webp",
+   "maat": [
+    1050,
+    722
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-18-1/s15.webp",
+   "maat": [
+    1050,
+    106
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    950
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-18-1/s16.webp",
+   "maat": [
+    1050,
+    330
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    274
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-18-1/s17.webp",
+   "maat": [
+    1050,
+    750
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    274
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-18-1/s18.webp",
+   "maat": [
+    1050,
+    1199
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-18-1/s19.webp",
+   "maat": [
+    1050,
+    856
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    500
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-18-1/s20.webp",
+   "maat": [
+    1050,
+    867
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-18-1/s21.webp",
+   "maat": [
+    1050,
+    577
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    326
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-18-1/s22.webp",
+   "maat": [
+    1050,
+    449
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    1496
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-18-1/s23.webp",
+   "maat": [
+    1050,
+    679
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    518
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-18-1/s24.webp",
+   "maat": [
+    1050,
+    78
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    557
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-18-1/s25.webp",
+   "maat": [
+    1050,
+    859
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    557
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1023-a-18-1/s26.webp",
+   "maat": [
+    1050,
+    233
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-1/a26.webp",
+   "antwoordMaat": [
+    1050,
+    541
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-18-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-18-2/s1.webp",
+   "maat": [
+    1050,
+    938
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    654
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-18-2/s2.webp",
+   "maat": [
+    1050,
+    463
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    457
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-18-2/s3.webp",
+   "maat": [
+    1050,
+    1001
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    824
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-18-2/s4.webp",
+   "maat": [
+    1050,
+    249
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    70
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-18-2/s5.webp",
+   "maat": [
+    1050,
+    948
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    1058
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-18-2/s6.webp",
+   "maat": [
+    1050,
+    73
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-18-2/s7.webp",
+   "maat": [
+    1050,
+    1250
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    639
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-18-2/s8.webp",
+   "maat": [
+    1050,
+    456
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    1322
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-18-2/s9.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-18-2/s10.webp",
+   "maat": [
+    1050,
+    709
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    538
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-18-2/s11.webp",
+   "maat": [
+    1050,
+    1004
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    506
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-18-2/s12.webp",
+   "maat": [
+    1050,
+    1009
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    306
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-18-2/s13.webp",
+   "maat": [
+    1050,
+    571
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    704
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-18-2/s14.webp",
+   "maat": [
+    1050,
+    219
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    528
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-18-2/s15.webp",
+   "maat": [
+    1050,
+    1138
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    252
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-18-2/s16.webp",
+   "maat": [
+    1050,
+    352
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    369
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-18-2/s17.webp",
+   "maat": [
+    1050,
+    801
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    613
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-18-2/s18.webp",
+   "maat": [
+    1050,
+    1431
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    484
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-18-2/s19.webp",
+   "maat": [
+    1050,
+    739
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-18-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    429
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-18-2/s20.webp",
+   "maat": [
+    1050,
+    643
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    603
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-18-2/s21.webp",
+   "maat": [
+    1050,
+    367
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    325
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-18-2/s22.webp",
+   "maat": [
+    1050,
+    44
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    546
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-18-2/s23.webp",
+   "maat": [
+    1050,
+    848
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    724
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-18-2/s24.webp",
+   "maat": [
+    1050,
+    109
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-18-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    133
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-19-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-19-1/s1.webp",
+   "maat": [
+    1050,
+    1168
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    445
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-19-1/s2.webp",
+   "maat": [
+    1050,
+    987
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    410
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-19-1/s3.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    593
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-19-1/s4.webp",
+   "maat": [
+    1050,
+    859
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-19-1/s5.webp",
+   "maat": [
+    1050,
+    168
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    313
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-19-1/s6.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    515
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-19-1/s7.webp",
+   "maat": [
+    1050,
+    1098
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    198
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-19-1/s8.webp",
+   "maat": [
+    1050,
+    706
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    129
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-19-1/s9.webp",
+   "maat": [
+    1050,
+    523
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    448
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-19-1/s10.webp",
+   "maat": [
+    1050,
+    958
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    745
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-19-1/s11.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    534
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-19-1/s12.webp",
+   "maat": [
+    1050,
+    1022
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    370
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-19-1/s13.webp",
+   "maat": [
+    1050,
+    272
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    427
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-19-1/s14.webp",
+   "maat": [
+    1050,
+    789
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    711
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-19-1/s15.webp",
+   "maat": [
+    1050,
+    1359
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-19-1/s16.webp",
+   "maat": [
+    1050,
+    195
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    638
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-19-1/s17.webp",
+   "maat": [
+    1050,
+    783
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-19-1/s18.webp",
+   "maat": [
+    1050,
+    609
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    888
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-19-1/s19.webp",
+   "maat": [
+    1050,
+    1205
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    361
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-19-1/s20.webp",
+   "maat": [
+    1050,
+    842
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-19-1/s21.webp",
+   "maat": [
+    1050,
+    914
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    514
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-19-1/s22.webp",
+   "maat": [
+    1050,
+    525
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    360
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-19-1/s23.webp",
+   "maat": [
+    1050,
+    247
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    1643
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-19-1/s24.webp",
+   "maat": [
+    1050,
+    385
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    157
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-19-1/s25.webp",
+   "maat": [
+    1050,
+    879
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    595
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1023-a-19-1/s26.webp",
+   "maat": [
+    1050,
+    459
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a26.webp",
+   "antwoordMaat": [
+    1050,
+    367
+   ]
+  },
+  "27": {
+   "stuk": "img/vw-1023-a-19-1/s27.webp",
+   "maat": [
+    1050,
+    553
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a27.webp",
+   "antwoordMaat": [
+    1050,
+    1170
+   ]
+  },
+  "28": {
+   "stuk": "img/vw-1023-a-19-1/s28.webp",
+   "maat": [
+    1050,
+    868
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-1/a28.webp",
+   "antwoordMaat": [
+    1050,
+    481
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-19-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-19-2/s1.webp",
+   "maat": [
+    1050,
+    1270
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-19-2/s2.webp",
+   "maat": [
+    1050,
+    129
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    798
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-19-2/s3.webp",
+   "maat": [
+    1050,
+    104
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    728
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-19-2/s4.webp",
+   "maat": [
+    1050,
+    1327
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    543
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-19-2/s5.webp",
+   "maat": [
+    1050,
+    654
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    332
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-19-2/s6.webp",
+   "maat": [
+    1050,
+    1066
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    477
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-19-2/s7.webp",
+   "maat": [
+    1050,
+    309
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    509
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-19-2/s8.webp",
+   "maat": [
+    1050,
+    1322
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    498
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-19-2/s9.webp",
+   "maat": [
+    1050,
+    719
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    274
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-19-2/s10.webp",
+   "maat": [
+    1050,
+    638
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    912
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-19-2/s11.webp",
+   "maat": [
+    1050,
+    860
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    372
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-19-2/s12.webp",
+   "maat": [
+    1050,
+    531
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    364
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-19-2/s13.webp",
+   "maat": [
+    1050,
+    567
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    360
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-19-2/s14.webp",
+   "maat": [
+    1050,
+    854
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    513
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-19-2/s15.webp",
+   "maat": [
+    1050,
+    1329
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    480
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-19-2/s16.webp",
+   "maat": [
+    1050,
+    73
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    370
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-19-2/s17.webp",
+   "maat": [
+    1050,
+    1197
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    812
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-19-2/s18.webp",
+   "maat": [
+    1050,
+    853
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    247
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-19-2/s19.webp",
+   "maat": [
+    1050,
+    219
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    478
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-19-2/s20.webp",
+   "maat": [
+    1050,
+    1186
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    1303
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-19-2/s21.webp",
+   "maat": [
+    1050,
+    1019
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-19-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    256
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-19-2/s22.webp",
+   "maat": [
+    1050,
+    47
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    439
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-19-2/s23.webp",
+   "maat": [
+    1050,
+    647
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    655
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-19-2/s24.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    1034
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-19-2/s25.webp",
+   "maat": [
+    1050,
+    159
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-19-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-21-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-21-1/s1.webp",
+   "maat": [
+    1050,
+    589
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    159
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-21-1/s2.webp",
+   "maat": [
+    1050,
+    2119
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    374
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-21-1/s3.webp",
+   "maat": [
+    1050,
+    248
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    424
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-21-1/s4.webp",
+   "maat": [
+    1050,
+    1276
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    563
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-21-1/s5.webp",
+   "maat": [
+    1050,
+    633
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    350
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-21-1/s6.webp",
+   "maat": [
+    1050,
+    924
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    1053
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-21-1/s7.webp",
+   "maat": [
+    1050,
+    700
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    445
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-21-1/s8.webp",
+   "maat": [
+    1050,
+    1229
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    255
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-21-1/s9.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    457
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-21-1/s10.webp",
+   "maat": [
+    1050,
+    913
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    593
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-21-1/s11.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    477
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-21-1/s12.webp",
+   "maat": [
+    1050,
+    1223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    637
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-21-1/s13.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-21-1/s14.webp",
+   "maat": [
+    1050,
+    1055
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    236
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-21-1/s15.webp",
+   "maat": [
+    1050,
+    881
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    326
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-21-1/s16.webp",
+   "maat": [
+    1050,
+    164
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-21-1/s17.webp",
+   "maat": [
+    1050,
+    696
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-21-1/s18.webp",
+   "maat": [
+    1050,
+    499
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    595
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-21-1/s19.webp",
+   "maat": [
+    1050,
+    798
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    604
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-21-1/s20.webp",
+   "maat": [
+    1050,
+    936
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    515
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-21-1/s21.webp",
+   "maat": [
+    1050,
+    1388
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    313
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-21-1/s22.webp",
+   "maat": [
+    1050,
+    339
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    1413
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-21-1/s23.webp",
+   "maat": [
+    1050,
+    963
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-21-1/s24.webp",
+   "maat": [
+    1050,
+    593
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    510
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-21-1/s25.webp",
+   "maat": [
+    1050,
+    433
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    823
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-21-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-21-2/s1.webp",
+   "maat": [
+    1050,
+    581
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    968
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-21-2/s2.webp",
+   "maat": [
+    1050,
+    222
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    414
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-21-2/s3.webp",
+   "maat": [
+    1050,
+    847
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    692
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-21-2/s4.webp",
+   "maat": [
+    1050,
+    282
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    1002
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-21-2/s5.webp",
+   "maat": [
+    1050,
+    164
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    447
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-21-2/s6.webp",
+   "maat": [
+    1050,
+    997
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    649
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-21-2/s7.webp",
+   "maat": [
+    1050,
+    2100
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    447
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-21-2/s8.webp",
+   "maat": [
+    1050,
+    1289
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    756
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-21-2/s9.webp",
+   "maat": [
+    1050,
+    604
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    715
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-21-2/s10.webp",
+   "maat": [
+    1050,
+    140
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    603
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-21-2/s11.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    792
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-21-2/s12.webp",
+   "maat": [
+    1050,
+    661
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    372
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-21-2/s13.webp",
+   "maat": [
+    1050,
+    159
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    567
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-21-2/s14.webp",
+   "maat": [
+    1050,
+    105
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    462
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-21-2/s15.webp",
+   "maat": [
+    1050,
+    1106
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    426
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-21-2/s16.webp",
+   "maat": [
+    1050,
+    74
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    543
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-21-2/s17.webp",
+   "maat": [
+    1050,
+    609
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-21-2/s18.webp",
+   "maat": [
+    1050,
+    1011
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-21-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    507
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-21-2/s19.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    281
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-21-2/s20.webp",
+   "maat": [
+    1050,
+    1494
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    517
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-21-2/s21.webp",
+   "maat": [
+    1050,
+    604
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    327
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-21-2/s22.webp",
+   "maat": [
+    1050,
+    1391
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    515
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-21-2/s23.webp",
+   "maat": [
+    1050,
+    219
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-21-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    356
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-22-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-22-1/s1.webp",
+   "maat": [
+    1050,
+    1503
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    942
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-22-1/s2.webp",
+   "maat": [
+    1050,
+    560
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    1321
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-22-1/s3.webp",
+   "maat": [
+    1050,
+    1765
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    467
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-22-1/s4.webp",
+   "maat": [
+    1050,
+    74
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-22-1/s5.webp",
+   "maat": [
+    1050,
+    246
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    795
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-22-1/s6.webp",
+   "maat": [
+    1050,
+    934
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-22-1/s7.webp",
+   "maat": [
+    1050,
+    1193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    583
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-22-1/s8.webp",
+   "maat": [
+    1050,
+    691
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    726
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-22-1/s9.webp",
+   "maat": [
+    1050,
+    1526
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    1039
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-22-1/s10.webp",
+   "maat": [
+    1050,
+    770
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    782
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-22-1/s11.webp",
+   "maat": [
+    1050,
+    1067
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    744
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-22-1/s12.webp",
+   "maat": [
+    1050,
+    708
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    553
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-22-1/s13.webp",
+   "maat": [
+    1050,
+    1160
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    1286
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-22-1/s14.webp",
+   "maat": [
+    1050,
+    346
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    427
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-22-1/s15.webp",
+   "maat": [
+    1050,
+    575
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    724
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-22-1/s16.webp",
+   "maat": [
+    1050,
+    341
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    226
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-22-1/s17.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    211
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-22-1/s18.webp",
+   "maat": [
+    1050,
+    1880
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    390
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-22-1/s19.webp",
+   "maat": [
+    1050,
+    496
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    366
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-22-1/s20.webp",
+   "maat": [
+    1050,
+    323
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    439
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-22-1/s21.webp",
+   "maat": [
+    1050,
+    568
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    99
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-22-1/s22.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    239
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-22-1/s23.webp",
+   "maat": [
+    1050,
+    2158
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    751
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-22-1/s24.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    528
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-22-1/s25.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    283
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-22-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-22-2/s1.webp",
+   "maat": [
+    1050,
+    451
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    216
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-22-2/s2.webp",
+   "maat": [
+    1050,
+    1182
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    1376
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-22-2/s3.webp",
+   "maat": [
+    1050,
+    888
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    460
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-22-2/s4.webp",
+   "maat": [
+    1050,
+    1027
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    2576
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-22-2/s5.webp",
+   "maat": [
+    1050,
+    348
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    37
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-22-2/s6.webp",
+   "maat": [
+    1050,
+    965
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    157
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-22-2/s7.webp",
+   "maat": [
+    1050,
+    406
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    294
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-22-2/s8.webp",
+   "maat": [
+    1050,
+    793
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    445
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-22-2/s9.webp",
+   "maat": [
+    1050,
+    881
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    383
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-22-2/s10.webp",
+   "maat": [
+    1050,
+    343
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    157
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-22-2/s11.webp",
+   "maat": [
+    1050,
+    1429
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    1231
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-22-2/s12.webp",
+   "maat": [
+    1050,
+    1079
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    572
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-22-2/s13.webp",
+   "maat": [
+    1050,
+    1016
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    1046
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-22-2/s14.webp",
+   "maat": [
+    1050,
+    222
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-22-2/s15.webp",
+   "maat": [
+    1050,
+    975
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    240
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-22-2/s16.webp",
+   "maat": [
+    1050,
+    74
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    348
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-22-2/s17.webp",
+   "maat": [
+    1050,
+    452
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    793
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-22-2/s18.webp",
+   "maat": [
+    1050,
+    458
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    560
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-22-2/s19.webp",
+   "maat": [
+    1050,
+    112
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    486
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-22-2/s20.webp",
+   "maat": [
+    1050,
+    1140
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-22-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    672
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-22-2/s21.webp",
+   "maat": [
+    1050,
+    76
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    514
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-22-2/s22.webp",
+   "maat": [
+    1050,
+    1203
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    547
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-22-2/s23.webp",
+   "maat": [
+    1050,
+    185
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    445
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-22-2/s24.webp",
+   "maat": [
+    1050,
+    1201
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    894
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-22-2/s25.webp",
+   "maat": [
+    1050,
+    173
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-22-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    257
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-23-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-23-1/s1.webp",
+   "maat": [
+    1050,
+    1834
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    493
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-23-1/s2.webp",
+   "maat": [
+    1050,
+    1354
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    563
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-23-1/s3.webp",
+   "maat": [
+    1050,
+    1827
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    624
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-23-1/s4.webp",
+   "maat": [
+    1050,
+    1100
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    574
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-23-1/s5.webp",
+   "maat": [
+    1050,
+    2075
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    914
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-23-1/s6.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    829
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-23-1/s7.webp",
+   "maat": [
+    1050,
+    149
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    516
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-23-1/s8.webp",
+   "maat": [
+    1050,
+    285
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    696
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-23-1/s9.webp",
+   "maat": [
+    1050,
+    911
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    791
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-23-1/s10.webp",
+   "maat": [
+    1050,
+    77
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    333
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-23-1/s11.webp",
+   "maat": [
+    1050,
+    516
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    400
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-23-1/s12.webp",
+   "maat": [
+    1050,
+    673
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    762
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-23-1/s13.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-23-1/s14.webp",
+   "maat": [
+    1050,
+    505
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    408
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-23-1/s15.webp",
+   "maat": [
+    1050,
+    855
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    376
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-23-1/s16.webp",
+   "maat": [
+    1050,
+    1841
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    464
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-23-1/s17.webp",
+   "maat": [
+    1050,
+    446
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-23-1/s18.webp",
+   "maat": [
+    1050,
+    343
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    1231
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-23-1/s19.webp",
+   "maat": [
+    1050,
+    1016
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-23-1/s20.webp",
+   "maat": [
+    1050,
+    880
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    1337
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-23-1/s21.webp",
+   "maat": [
+    1050,
+    859
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    268
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-23-1/s22.webp",
+   "maat": [
+    1050,
+    1117
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    642
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-23-1/s23.webp",
+   "maat": [
+    1050,
+    1488
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    525
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-23-1/s24.webp",
+   "maat": [
+    1050,
+    1647
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    636
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-23-1/s25.webp",
+   "maat": [
+    1050,
+    304
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    720
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-23-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-23-2/s1.webp",
+   "maat": [
+    1050,
+    1314
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    449
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-23-2/s2.webp",
+   "maat": [
+    1050,
+    222
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    474
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-23-2/s3.webp",
+   "maat": [
+    1050,
+    743
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-23-2/s4.webp",
+   "maat": [
+    1050,
+    1347
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-23-2/s5.webp",
+   "maat": [
+    1050,
+    1635
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    400
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-23-2/s6.webp",
+   "maat": [
+    1050,
+    73
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    209
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-23-2/s7.webp",
+   "maat": [
+    1050,
+    724
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-23-2/s8.webp",
+   "maat": [
+    1050,
+    343
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    225
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-23-2/s9.webp",
+   "maat": [
+    1050,
+    837
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    462
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-23-2/s10.webp",
+   "maat": [
+    1050,
+    579
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    531
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-23-2/s11.webp",
+   "maat": [
+    1050,
+    917
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    638
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-23-2/s12.webp",
+   "maat": [
+    1050,
+    463
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    604
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-23-2/s13.webp",
+   "maat": [
+    1050,
+    1342
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-23-2/s14.webp",
+   "maat": [
+    1050,
+    395
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    304
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-23-2/s15.webp",
+   "maat": [
+    1050,
+    162
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    470
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-23-2/s16.webp",
+   "maat": [
+    1050,
+    655
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    713
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-23-2/s17.webp",
+   "maat": [
+    1050,
+    504
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    610
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-23-2/s18.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    645
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-23-2/s19.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    361
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-23-2/s20.webp",
+   "maat": [
+    1050,
+    687
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    705
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-23-2/s21.webp",
+   "maat": [
+    1050,
+    286
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    559
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-23-2/s22.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    565
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-23-2/s23.webp",
+   "maat": [
+    1050,
+    998
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-23-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    456
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-23-2/s24.webp",
+   "maat": [
+    1050,
+    442
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    444
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-23-2/s25.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    345
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1023-a-23-2/s26.webp",
+   "maat": [
+    1050,
+    563
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    341
+   ]
+  },
+  "27": {
+   "stuk": "img/vw-1023-a-23-2/s27.webp",
+   "maat": [
+    1050,
+    289
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a27.webp",
+   "antwoordMaat": [
+    1050,
+    408
+   ]
+  },
+  "28": {
+   "stuk": "img/vw-1023-a-23-2/s28.webp",
+   "maat": [
+    1050,
+    767
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-23-2/a28.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-24-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-24-1/s1.webp",
+   "maat": [
+    1050,
+    362
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    290
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-24-1/s2.webp",
+   "maat": [
+    1050,
+    914
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    700
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-24-1/s3.webp",
+   "maat": [
+    1050,
+    159
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    316
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-24-1/s4.webp",
+   "maat": [
+    1050,
+    714
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    409
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-24-1/s5.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    1172
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-24-1/s6.webp",
+   "maat": [
+    1050,
+    1339
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    495
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-24-1/s7.webp",
+   "maat": [
+    1050,
+    794
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    515
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-24-1/s8.webp",
+   "maat": [
+    1050,
+    1819
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    631
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-24-1/s9.webp",
+   "maat": [
+    1050,
+    740
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    789
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-24-1/s10.webp",
+   "maat": [
+    1050,
+    2431
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    806
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-24-1/s11.webp",
+   "maat": [
+    1050,
+    541
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    245
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-24-1/s12.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    465
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-24-1/s13.webp",
+   "maat": [
+    1050,
+    1058
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    863
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-24-1/s14.webp",
+   "maat": [
+    1050,
+    593
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    829
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-24-1/s15.webp",
+   "maat": [
+    1050,
+    242
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    225
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-24-1/s16.webp",
+   "maat": [
+    1050,
+    1002
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    398
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-24-1/s17.webp",
+   "maat": [
+    1050,
+    1086
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    652
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-24-1/s18.webp",
+   "maat": [
+    1050,
+    1256
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    581
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-24-1/s19.webp",
+   "maat": [
+    1050,
+    1338
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    532
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-24-1/s20.webp",
+   "maat": [
+    1050,
+    1541
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    318
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-24-1/s21.webp",
+   "maat": [
+    1050,
+    189
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    618
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-24-1/s22.webp",
+   "maat": [
+    1050,
+    874
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    766
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-24-1/s23.webp",
+   "maat": [
+    1050,
+    234
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    493
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-24-1/s24.webp",
+   "maat": [
+    1050,
+    734
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    517
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-24-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-24-2/s1.webp",
+   "maat": [
+    1050,
+    661
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    390
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-24-2/s2.webp",
+   "maat": [
+    1050,
+    854
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    449
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-24-2/s3.webp",
+   "maat": [
+    1050,
+    82
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    492
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-24-2/s4.webp",
+   "maat": [
+    1050,
+    848
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    291
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-24-2/s5.webp",
+   "maat": [
+    1050,
+    365
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    269
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-24-2/s6.webp",
+   "maat": [
+    1050,
+    159
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    508
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-24-2/s7.webp",
+   "maat": [
+    1050,
+    220
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    364
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-24-2/s8.webp",
+   "maat": [
+    1050,
+    263
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    455
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-24-2/s9.webp",
+   "maat": [
+    1050,
+    1392
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    364
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-24-2/s10.webp",
+   "maat": [
+    1050,
+    974
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-24-2/s11.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-24-2/s12.webp",
+   "maat": [
+    1050,
+    1258
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    582
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-24-2/s13.webp",
+   "maat": [
+    1050,
+    1067
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    940
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-24-2/s14.webp",
+   "maat": [
+    1050,
+    917
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    673
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-24-2/s15.webp",
+   "maat": [
+    1050,
+    433
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    361
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-24-2/s16.webp",
+   "maat": [
+    1050,
+    764
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    128
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-24-2/s17.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-24-2/s18.webp",
+   "maat": [
+    1050,
+    757
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    686
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-24-2/s19.webp",
+   "maat": [
+    1050,
+    936
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    283
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-24-2/s20.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    356
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-24-2/s21.webp",
+   "maat": [
+    1050,
+    231
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-24-2/s22.webp",
+   "maat": [
+    1050,
+    1145
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-24-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-24-2/s23.webp",
+   "maat": [
+    1050,
+    161
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    529
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-24-2/s24.webp",
+   "maat": [
+    1050,
+    476
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    353
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-24-2/s25.webp",
+   "maat": [
+    1050,
+    410
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    518
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1023-a-24-2/s26.webp",
+   "maat": [
+    1050,
+    768
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    697
+   ]
+  },
+  "27": {
+   "stuk": "img/vw-1023-a-24-2/s27.webp",
+   "maat": [
+    1050,
+    323
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-24-2/a27.webp",
+   "antwoordMaat": [
+    1050,
+    1141
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-25-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-25-1/s1.webp",
+   "maat": [
+    1050,
+    482
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    414
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-25-1/s2.webp",
+   "maat": [
+    1050,
+    928
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    1016
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-25-1/s3.webp",
+   "maat": [
+    1050,
+    570
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    516
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-25-1/s4.webp",
+   "maat": [
+    1050,
+    492
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    641
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-25-1/s5.webp",
+   "maat": [
+    1050,
+    613
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    1330
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-25-1/s6.webp",
+   "maat": [
+    1050,
+    846
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    369
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-25-1/s7.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    381
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-25-1/s8.webp",
+   "maat": [
+    1050,
+    1231
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    496
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-25-1/s9.webp",
+   "maat": [
+    1050,
+    1001
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    438
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-25-1/s10.webp",
+   "maat": [
+    1050,
+    1077
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-25-1/s11.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    676
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-25-1/s12.webp",
+   "maat": [
+    1050,
+    1030
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    1533
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-25-1/s13.webp",
+   "maat": [
+    1050,
+    1400
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    492
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-25-1/s14.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    422
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-25-1/s15.webp",
+   "maat": [
+    1050,
+    855
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    37
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-25-1/s16.webp",
+   "maat": [
+    1050,
+    696
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    360
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-25-1/s17.webp",
+   "maat": [
+    1050,
+    1229
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    1065
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-25-1/s18.webp",
+   "maat": [
+    1050,
+    159
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-25-1/s19.webp",
+   "maat": [
+    1050,
+    272
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    225
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-25-1/s20.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    473
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-25-1/s21.webp",
+   "maat": [
+    1050,
+    950
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    385
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-25-1/s22.webp",
+   "maat": [
+    1050,
+    368
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    454
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-25-1/s23.webp",
+   "maat": [
+    1050,
+    1048
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    37
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-25-1/s24.webp",
+   "maat": [
+    1050,
+    1129
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    307
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-25-1/s25.webp",
+   "maat": [
+    1050,
+    1207
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    555
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-25-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-25-2/s1.webp",
+   "maat": [
+    1050,
+    1090
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    366
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-25-2/s2.webp",
+   "maat": [
+    1050,
+    379
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    518
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-25-2/s3.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    646
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-25-2/s4.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    552
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-25-2/s5.webp",
+   "maat": [
+    1050,
+    1577
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    385
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-25-2/s6.webp",
+   "maat": [
+    1050,
+    523
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    655
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-25-2/s7.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    475
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-25-2/s8.webp",
+   "maat": [
+    1050,
+    1577
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    318
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-25-2/s9.webp",
+   "maat": [
+    1050,
+    1233
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    297
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-25-2/s10.webp",
+   "maat": [
+    1050,
+    164
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    495
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-25-2/s11.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-25-2/s12.webp",
+   "maat": [
+    1050,
+    1369
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    516
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-25-2/s13.webp",
+   "maat": [
+    1050,
+    456
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    476
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-25-2/s14.webp",
+   "maat": [
+    1050,
+    475
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    466
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-25-2/s15.webp",
+   "maat": [
+    1050,
+    814
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    469
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-25-2/s16.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    1314
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-25-2/s17.webp",
+   "maat": [
+    1050,
+    538
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    450
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-25-2/s18.webp",
+   "maat": [
+    1050,
+    541
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    547
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-25-2/s19.webp",
+   "maat": [
+    1050,
+    748
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    1243
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-25-2/s20.webp",
+   "maat": [
+    1050,
+    1154
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-25-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    1065
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-25-2/s21.webp",
+   "maat": [
+    1050,
+    864
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    390
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-25-2/s22.webp",
+   "maat": [
+    1050,
+    175
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    620
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-25-2/s23.webp",
+   "maat": [
+    1050,
+    538
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    70
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-25-2/s24.webp",
+   "maat": [
+    1050,
+    1619
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-25-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    476
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-26-1": {
+  "1": {
+   "stuk": "img/vw-1023-a-26-1/s1.webp",
+   "maat": [
+    1050,
+    1010
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    407
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-26-1/s2.webp",
+   "maat": [
+    1050,
+    937
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    362
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-26-1/s3.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    306
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-26-1/s4.webp",
+   "maat": [
+    1050,
+    1251
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-26-1/s5.webp",
+   "maat": [
+    1050,
+    723
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    888
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-26-1/s6.webp",
+   "maat": [
+    1050,
+    449
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    1144
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-26-1/s7.webp",
+   "maat": [
+    1050,
+    768
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    523
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-26-1/s8.webp",
+   "maat": [
+    1050,
+    422
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    591
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-26-1/s9.webp",
+   "maat": [
+    1050,
+    383
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    820
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-26-1/s10.webp",
+   "maat": [
+    1050,
+    475
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    369
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-26-1/s11.webp",
+   "maat": [
+    1050,
+    733
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    584
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-26-1/s12.webp",
+   "maat": [
+    1050,
+    1284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    581
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-26-1/s13.webp",
+   "maat": [
+    1050,
+    1764
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    1265
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-26-1/s14.webp",
+   "maat": [
+    1050,
+    377
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    708
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-26-1/s15.webp",
+   "maat": [
+    1050,
+    597
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    767
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-26-1/s16.webp",
+   "maat": [
+    1050,
+    571
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    591
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-26-1/s17.webp",
+   "maat": [
+    1050,
+    1199
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    758
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-26-1/s18.webp",
+   "maat": [
+    1050,
+    794
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    567
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-26-1/s19.webp",
+   "maat": [
+    1050,
+    391
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-26-1/s20.webp",
+   "maat": [
+    1050,
+    1673
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    336
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-26-1/s21.webp",
+   "maat": [
+    1050,
+    313
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    551
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-26-1/s22.webp",
+   "maat": [
+    1050,
+    696
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    450
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-26-1/s23.webp",
+   "maat": [
+    1050,
+    578
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    506
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-26-1/s24.webp",
+   "maat": [
+    1050,
+    1364
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    503
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-26-1/s25.webp",
+   "maat": [
+    1050,
+    1096
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    1300
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1023-a-26-2": {
+  "1": {
+   "stuk": "img/vw-1023-a-26-2/s1.webp",
+   "maat": [
+    1050,
+    676
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    293
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1023-a-26-2/s2.webp",
+   "maat": [
+    1050,
+    103
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    599
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1023-a-26-2/s3.webp",
+   "maat": [
+    1050,
+    845
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    570
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1023-a-26-2/s4.webp",
+   "maat": [
+    1050,
+    582
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    686
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1023-a-26-2/s5.webp",
+   "maat": [
+    1050,
+    405
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    1766
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1023-a-26-2/s6.webp",
+   "maat": [
+    1050,
+    1294
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    1070
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1023-a-26-2/s7.webp",
+   "maat": [
+    1050,
+    132
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    609
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1023-a-26-2/s8.webp",
+   "maat": [
+    1050,
+    2010
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    365
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1023-a-26-2/s9.webp",
+   "maat": [
+    1050,
+    658
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    176
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1023-a-26-2/s10.webp",
+   "maat": [
+    1050,
+    329
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    1253
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1023-a-26-2/s11.webp",
+   "maat": [
+    1050,
+    713
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    488
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1023-a-26-2/s12.webp",
+   "maat": [
+    1050,
+    1661
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    36
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1023-a-26-2/s13.webp",
+   "maat": [
+    1050,
+    605
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    459
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1023-a-26-2/s14.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    187
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1023-a-26-2/s15.webp",
+   "maat": [
+    1050,
+    543
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    291
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1023-a-26-2/s16.webp",
+   "maat": [
+    1050,
+    885
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    353
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1023-a-26-2/s17.webp",
+   "maat": [
+    1050,
+    510
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    418
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1023-a-26-2/s18.webp",
+   "maat": [
+    1050,
+    1131
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    683
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1023-a-26-2/s19.webp",
+   "maat": [
+    1050,
+    769
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    65
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1023-a-26-2/s20.webp",
+   "maat": [
+    1050,
+    953
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    517
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1023-a-26-2/s21.webp",
+   "maat": [
+    1050,
+    945
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    326
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1023-a-26-2/s22.webp",
+   "maat": [
+    1050,
+    545
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    408
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1023-a-26-2/s23.webp",
+   "maat": [
+    1050,
+    791
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    972
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1023-a-26-2/s24.webp",
+   "maat": [
+    1050,
+    1100
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1023-a-26-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    379
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1023-a-26-2/s25.webp",
+   "maat": [
+    1050,
+    400
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    536
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1023-a-26-2/s26.webp",
+   "maat": [
+    1050,
+    621
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1023-a-26-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    298
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-18-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-18-1/s1.webp",
+   "maat": [
+    1050,
+    987
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-18-1/s2.webp",
+   "maat": [
+    1050,
+    333
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    566
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-18-1/s3.webp",
+   "maat": [
+    1050,
+    189
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    1024
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-18-1/s4.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    157
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-18-1/s5.webp",
+   "maat": [
+    1050,
+    360
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    816
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-18-1/s6.webp",
+   "maat": [
+    1050,
+    548
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    1085
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-18-1/s7.webp",
+   "maat": [
+    1050,
+    503
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    505
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-18-1/s8.webp",
+   "maat": [
+    1050,
+    276
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    403
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-18-1/s9.webp",
+   "maat": [
+    1050,
+    1383
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    1214
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-18-1/s10.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    275
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-18-1/s11.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    651
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-18-1/s12.webp",
+   "maat": [
+    1050,
+    432
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    585
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-18-1/s13.webp",
+   "maat": [
+    1050,
+    1308
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    500
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-18-1/s14.webp",
+   "maat": [
+    1050,
+    303
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-18-1/s15.webp",
+   "maat": [
+    1050,
+    360
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    767
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-18-1/s16.webp",
+   "maat": [
+    1050,
+    693
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    391
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-18-1/s17.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    506
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-18-1/s18.webp",
+   "maat": [
+    1050,
+    271
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    474
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-18-1/s19.webp",
+   "maat": [
+    1050,
+    451
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    1032
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-18-1/s20.webp",
+   "maat": [
+    1050,
+    212
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    447
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-18-1/s21.webp",
+   "maat": [
+    1050,
+    451
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    946
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-18-1/s22.webp",
+   "maat": [
+    1050,
+    949
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    602
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-18-1/s23.webp",
+   "maat": [
+    1050,
+    89
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    622
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-18-1/s24.webp",
+   "maat": [
+    1050,
+    563
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    631
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-18-1/s25.webp",
+   "maat": [
+    1050,
+    197
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    263
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1028-a-18-1/s26.webp",
+   "maat": [
+    1050,
+    357
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a26.webp",
+   "antwoordMaat": [
+    1050,
+    330
+   ]
+  },
+  "27": {
+   "stuk": "img/vw-1028-a-18-1/s27.webp",
+   "maat": [
+    1050,
+    143
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-1/a27.webp",
+   "antwoordMaat": [
+    1050,
+    944
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-18-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-18-2/s1.webp",
+   "maat": [
+    1050,
+    874
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    476
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-18-2/s2.webp",
+   "maat": [
+    1050,
+    457
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    733
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-18-2/s3.webp",
+   "maat": [
+    1050,
+    458
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    540
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-18-2/s4.webp",
+   "maat": [
+    1050,
+    307
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    1655
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-18-2/s5.webp",
+   "maat": [
+    1050,
+    507
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    527
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-18-2/s6.webp",
+   "maat": [
+    1050,
+    52
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    418
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-18-2/s7.webp",
+   "maat": [
+    1050,
+    417
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    671
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-18-2/s8.webp",
+   "maat": [
+    1050,
+    428
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    250
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-18-2/s9.webp",
+   "maat": [
+    1050,
+    523
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    724
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-18-2/s10.webp",
+   "maat": [
+    1050,
+    363
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    496
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-18-2/s11.webp",
+   "maat": [
+    1050,
+    656
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    291
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-18-2/s12.webp",
+   "maat": [
+    1050,
+    315
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    688
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-18-2/s13.webp",
+   "maat": [
+    1050,
+    806
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    489
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-18-2/s14.webp",
+   "maat": [
+    1050,
+    252
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-18-2/s15.webp",
+   "maat": [
+    1050,
+    328
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    1099
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-18-2/s16.webp",
+   "maat": [
+    1050,
+    172
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    534
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-18-2/s17.webp",
+   "maat": [
+    1050,
+    767
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    395
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-18-2/s18.webp",
+   "maat": [
+    1050,
+    164
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    494
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-18-2/s19.webp",
+   "maat": [
+    1050,
+    462
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    268
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-18-2/s20.webp",
+   "maat": [
+    1050,
+    486
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-18-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    429
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-18-2/s21.webp",
+   "maat": [
+    1050,
+    422
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    607
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-18-2/s22.webp",
+   "maat": [
+    1050,
+    1236
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-18-2/s23.webp",
+   "maat": [
+    1050,
+    224
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    534
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-18-2/s24.webp",
+   "maat": [
+    1050,
+    314
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    418
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-18-2/s25.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    70
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1028-a-18-2/s26.webp",
+   "maat": [
+    1050,
+    171
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-18-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    585
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-19-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-19-1/s1.webp",
+   "maat": [
+    1050,
+    805
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    484
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-19-1/s2.webp",
+   "maat": [
+    1050,
+    489
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    213
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-19-1/s3.webp",
+   "maat": [
+    1050,
+    507
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    559
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-19-1/s4.webp",
+   "maat": [
+    1050,
+    113
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    923
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-19-1/s5.webp",
+   "maat": [
+    1050,
+    978
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-19-1/s6.webp",
+   "maat": [
+    1050,
+    148
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    365
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-19-1/s7.webp",
+   "maat": [
+    1050,
+    83
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    580
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-19-1/s8.webp",
+   "maat": [
+    1050,
+    279
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    335
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-19-1/s9.webp",
+   "maat": [
+    1050,
+    1019
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    1063
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-19-1/s10.webp",
+   "maat": [
+    1050,
+    275
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    457
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-19-1/s11.webp",
+   "maat": [
+    1050,
+    486
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    666
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-19-1/s12.webp",
+   "maat": [
+    1050,
+    432
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    999
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-19-1/s13.webp",
+   "maat": [
+    1050,
+    497
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    647
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-19-1/s14.webp",
+   "maat": [
+    1050,
+    674
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    305
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-19-1/s15.webp",
+   "maat": [
+    1050,
+    334
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    557
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-19-1/s16.webp",
+   "maat": [
+    1050,
+    391
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    856
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-19-1/s17.webp",
+   "maat": [
+    1050,
+    463
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    432
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-19-1/s18.webp",
+   "maat": [
+    1050,
+    921
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    501
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-19-1/s19.webp",
+   "maat": [
+    1050,
+    373
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-19-1/s20.webp",
+   "maat": [
+    1050,
+    1029
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    1097
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-19-1/s21.webp",
+   "maat": [
+    1050,
+    376
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    248
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-19-1/s22.webp",
+   "maat": [
+    1050,
+    79
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    763
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-19-1/s23.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    245
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-19-1/s24.webp",
+   "maat": [
+    1050,
+    1065
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    305
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-19-1/s25.webp",
+   "maat": [
+    1050,
+    372
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1028-a-19-1/s26.webp",
+   "maat": [
+    1050,
+    317
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a26.webp",
+   "antwoordMaat": [
+    1050,
+    71
+   ]
+  },
+  "27": {
+   "stuk": "img/vw-1028-a-19-1/s27.webp",
+   "maat": [
+    1050,
+    224
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a27.webp",
+   "antwoordMaat": [
+    1050,
+    703
+   ]
+  },
+  "28": {
+   "stuk": "img/vw-1028-a-19-1/s28.webp",
+   "maat": [
+    1050,
+    657
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-1/a28.webp",
+   "antwoordMaat": [
+    1050,
+    699
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-19-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-19-2/s1.webp",
+   "maat": [
+    1050,
+    749
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    503
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-19-2/s2.webp",
+   "maat": [
+    1050,
+    153
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    157
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-19-2/s3.webp",
+   "maat": [
+    1050,
+    299
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    551
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-19-2/s4.webp",
+   "maat": [
+    1050,
+    179
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    247
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-19-2/s5.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    521
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-19-2/s6.webp",
+   "maat": [
+    1050,
+    1153
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    1089
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-19-2/s7.webp",
+   "maat": [
+    1050,
+    740
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    715
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-19-2/s8.webp",
+   "maat": [
+    1050,
+    278
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    161
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-19-2/s9.webp",
+   "maat": [
+    1050,
+    109
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    665
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-19-2/s10.webp",
+   "maat": [
+    1050,
+    776
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    275
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-19-2/s11.webp",
+   "maat": [
+    1050,
+    83
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    465
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-19-2/s12.webp",
+   "maat": [
+    1050,
+    496
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    687
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-19-2/s13.webp",
+   "maat": [
+    1050,
+    229
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    466
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-19-2/s14.webp",
+   "maat": [
+    1050,
+    597
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    649
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-19-2/s15.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    666
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-19-2/s16.webp",
+   "maat": [
+    1050,
+    254
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    651
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-19-2/s17.webp",
+   "maat": [
+    1050,
+    1089
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    385
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-19-2/s18.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    617
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-19-2/s19.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    1062
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-19-2/s20.webp",
+   "maat": [
+    1050,
+    59
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    213
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-19-2/s21.webp",
+   "maat": [
+    1050,
+    53
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    580
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-19-2/s22.webp",
+   "maat": [
+    1050,
+    936
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-19-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    447
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-19-2/s23.webp",
+   "maat": [
+    1050,
+    132
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    239
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-19-2/s24.webp",
+   "maat": [
+    1050,
+    1010
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-19-2/s25.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    416
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1028-a-19-2/s26.webp",
+   "maat": [
+    1050,
+    1155
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    621
+   ]
+  },
+  "27": {
+   "stuk": "img/vw-1028-a-19-2/s27.webp",
+   "maat": [
+    1050,
+    1131
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-19-2/a27.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-21-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-21-1/s1.webp",
+   "maat": [
+    1050,
+    601
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    471
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-21-1/s2.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    246
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-21-1/s3.webp",
+   "maat": [
+    1050,
+    218
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    384
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-21-1/s4.webp",
+   "maat": [
+    1050,
+    464
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    708
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-21-1/s5.webp",
+   "maat": [
+    1050,
+    224
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    297
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-21-1/s6.webp",
+   "maat": [
+    1050,
+    1214
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    403
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-21-1/s7.webp",
+   "maat": [
+    1050,
+    677
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    588
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-21-1/s8.webp",
+   "maat": [
+    1050,
+    548
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    534
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-21-1/s9.webp",
+   "maat": [
+    1050,
+    279
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    316
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-21-1/s10.webp",
+   "maat": [
+    1050,
+    1059
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    1005
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-21-1/s11.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    628
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-21-1/s12.webp",
+   "maat": [
+    1050,
+    809
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    394
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-21-1/s13.webp",
+   "maat": [
+    1050,
+    553
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-21-1/s14.webp",
+   "maat": [
+    1050,
+    538
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    698
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-21-1/s15.webp",
+   "maat": [
+    1050,
+    314
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    659
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-21-1/s16.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    567
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-21-1/s17.webp",
+   "maat": [
+    1050,
+    571
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    788
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-21-1/s18.webp",
+   "maat": [
+    1050,
+    1198
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    360
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-21-1/s19.webp",
+   "maat": [
+    1050,
+    162
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    214
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-21-1/s20.webp",
+   "maat": [
+    1050,
+    777
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    1355
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-21-1/s21.webp",
+   "maat": [
+    1050,
+    634
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    936
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-21-1/s22.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    274
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-21-1/s23.webp",
+   "maat": [
+    1050,
+    506
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    805
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-21-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-21-2/s1.webp",
+   "maat": [
+    1050,
+    362
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    487
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-21-2/s2.webp",
+   "maat": [
+    1050,
+    222
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    690
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-21-2/s3.webp",
+   "maat": [
+    1050,
+    404
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    788
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-21-2/s4.webp",
+   "maat": [
+    1050,
+    222
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    185
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-21-2/s5.webp",
+   "maat": [
+    1050,
+    657
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    301
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-21-2/s6.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    354
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-21-2/s7.webp",
+   "maat": [
+    1050,
+    190
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    272
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-21-2/s8.webp",
+   "maat": [
+    1050,
+    877
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    71
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-21-2/s9.webp",
+   "maat": [
+    1050,
+    495
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-21-2/s10.webp",
+   "maat": [
+    1050,
+    1055
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    559
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-21-2/s11.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    404
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-21-2/s12.webp",
+   "maat": [
+    1050,
+    1410
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    99
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-21-2/s13.webp",
+   "maat": [
+    1050,
+    766
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    99
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-21-2/s14.webp",
+   "maat": [
+    1050,
+    336
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    581
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-21-2/s15.webp",
+   "maat": [
+    1050,
+    494
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-21-2/s16.webp",
+   "maat": [
+    1050,
+    433
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    754
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-21-2/s17.webp",
+   "maat": [
+    1050,
+    339
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    598
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-21-2/s18.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    332
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-21-2/s19.webp",
+   "maat": [
+    1050,
+    433
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    711
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-21-2/s20.webp",
+   "maat": [
+    1050,
+    574
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-21-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    223
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-21-2/s21.webp",
+   "maat": [
+    1050,
+    1086
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    430
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-21-2/s22.webp",
+   "maat": [
+    1050,
+    970
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-21-2/s23.webp",
+   "maat": [
+    1050,
+    826
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-21-2/s24.webp",
+   "maat": [
+    1050,
+    165
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    360
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-21-2/s25.webp",
+   "maat": [
+    1050,
+    842
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    434
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1028-a-21-2/s26.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-21-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    571
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-22-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-22-1/s1.webp",
+   "maat": [
+    1050,
+    1259
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    601
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-22-1/s2.webp",
+   "maat": [
+    1050,
+    525
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    554
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-22-1/s3.webp",
+   "maat": [
+    1050,
+    404
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    1153
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-22-1/s4.webp",
+   "maat": [
+    1050,
+    73
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    379
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-22-1/s5.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    245
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-22-1/s6.webp",
+   "maat": [
+    1050,
+    551
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    651
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-22-1/s7.webp",
+   "maat": [
+    1050,
+    519
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    838
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-22-1/s8.webp",
+   "maat": [
+    1050,
+    1138
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-22-1/s9.webp",
+   "maat": [
+    1050,
+    910
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    526
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-22-1/s10.webp",
+   "maat": [
+    1050,
+    431
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    534
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-22-1/s11.webp",
+   "maat": [
+    1050,
+    279
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-22-1/s12.webp",
+   "maat": [
+    1050,
+    194
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    591
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-22-1/s13.webp",
+   "maat": [
+    1050,
+    839
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    333
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-22-1/s14.webp",
+   "maat": [
+    1050,
+    744
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    680
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-22-1/s15.webp",
+   "maat": [
+    1050,
+    1300
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    364
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-22-1/s16.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    993
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-22-1/s17.webp",
+   "maat": [
+    1050,
+    550
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    429
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-22-1/s18.webp",
+   "maat": [
+    1050,
+    69
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    459
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-22-1/s19.webp",
+   "maat": [
+    1050,
+    366
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    364
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-22-1/s20.webp",
+   "maat": [
+    1050,
+    108
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    645
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-22-1/s21.webp",
+   "maat": [
+    1050,
+    914
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    626
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-22-1/s22.webp",
+   "maat": [
+    1050,
+    667
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    344
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-22-1/s23.webp",
+   "maat": [
+    1050,
+    790
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    275
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-22-1/s24.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    716
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-22-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-22-2/s1.webp",
+   "maat": [
+    1050,
+    318
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    332
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-22-2/s2.webp",
+   "maat": [
+    1050,
+    116
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    700
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-22-2/s3.webp",
+   "maat": [
+    1050,
+    235
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-22-2/s4.webp",
+   "maat": [
+    1050,
+    536
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    366
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-22-2/s5.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    218
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-22-2/s6.webp",
+   "maat": [
+    1050,
+    833
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    648
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-22-2/s7.webp",
+   "maat": [
+    1050,
+    962
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    65
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-22-2/s8.webp",
+   "maat": [
+    1050,
+    85
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-22-2/s9.webp",
+   "maat": [
+    1050,
+    386
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    217
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-22-2/s10.webp",
+   "maat": [
+    1050,
+    840
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    1545
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-22-2/s11.webp",
+   "maat": [
+    1050,
+    303
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    332
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-22-2/s13.webp",
+   "maat": [
+    1050,
+    517
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    591
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-22-2/s14.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    448
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-22-2/s15.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-22-2/s16.webp",
+   "maat": [
+    1050,
+    657
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    536
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-22-2/s17.webp",
+   "maat": [
+    1050,
+    175
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    939
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-22-2/s18.webp",
+   "maat": [
+    1050,
+    416
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    635
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-22-2/s19.webp",
+   "maat": [
+    1050,
+    173
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    672
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-22-2/s20.webp",
+   "maat": [
+    1050,
+    307
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-22-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-22-2/s21.webp",
+   "maat": [
+    1050,
+    343
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    69
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-22-2/s22.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    340
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-22-2/s23.webp",
+   "maat": [
+    1050,
+    255
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    845
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-22-2/s24.webp",
+   "maat": [
+    1050,
+    265
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    266
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-22-2/s25.webp",
+   "maat": [
+    1050,
+    368
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-22-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    435
+   ]
+  },
+  "12": {
+   "antwoord": "img/vw-1028-a-22-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    1276
+   ]
+  },
+  "_meldingen": [
+   "vraag 12 niet gevonden in de opgaven"
+  ]
+ },
+ "vw-1028-a-23-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-23-1/s1.webp",
+   "maat": [
+    1050,
+    588
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    192
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-23-1/s2.webp",
+   "maat": [
+    1050,
+    117
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    710
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-23-1/s3.webp",
+   "maat": [
+    1050,
+    489
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    492
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-23-1/s4.webp",
+   "maat": [
+    1050,
+    492
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    1634
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-23-1/s5.webp",
+   "maat": [
+    1050,
+    624
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    677
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-23-1/s6.webp",
+   "maat": [
+    1050,
+    988
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    307
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-23-1/s7.webp",
+   "maat": [
+    1050,
+    355
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    94
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-23-1/s8.webp",
+   "maat": [
+    1050,
+    246
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    71
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-23-1/s9.webp",
+   "maat": [
+    1050,
+    415
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    541
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-23-1/s10.webp",
+   "maat": [
+    1050,
+    338
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    361
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-23-1/s11.webp",
+   "maat": [
+    1050,
+    817
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    601
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-23-1/s12.webp",
+   "maat": [
+    1050,
+    308
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    498
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-23-1/s13.webp",
+   "maat": [
+    1050,
+    511
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    160
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-23-1/s14.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    540
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-23-1/s15.webp",
+   "maat": [
+    1050,
+    339
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    386
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-23-1/s16.webp",
+   "maat": [
+    1050,
+    559
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    361
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-23-1/s17.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    979
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-23-1/s18.webp",
+   "maat": [
+    1050,
+    397
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    476
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-23-1/s19.webp",
+   "maat": [
+    1050,
+    459
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-23-1/s20.webp",
+   "maat": [
+    1050,
+    292
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    431
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-23-1/s21.webp",
+   "maat": [
+    1050,
+    732
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    738
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-23-1/s22.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-23-1/s23.webp",
+   "maat": [
+    1050,
+    219
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    548
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-23-1/s24.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-23-1/s25.webp",
+   "maat": [
+    1050,
+    499
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    587
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-23-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-23-2/s1.webp",
+   "maat": [
+    1050,
+    353
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    253
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-23-2/s2.webp",
+   "maat": [
+    1050,
+    218
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    327
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-23-2/s3.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    395
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-23-2/s4.webp",
+   "maat": [
+    1050,
+    398
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-23-2/s5.webp",
+   "maat": [
+    1050,
+    444
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    421
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-23-2/s6.webp",
+   "maat": [
+    1050,
+    763
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-23-2/s7.webp",
+   "maat": [
+    1050,
+    1117
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-23-2/s8.webp",
+   "maat": [
+    1050,
+    421
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    68
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-23-2/s9.webp",
+   "maat": [
+    1050,
+    462
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    1146
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-23-2/s10.webp",
+   "maat": [
+    1050,
+    872
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    477
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-23-2/s11.webp",
+   "maat": [
+    1050,
+    703
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    647
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-23-2/s12.webp",
+   "maat": [
+    1050,
+    627
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    216
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-23-2/s13.webp",
+   "maat": [
+    1050,
+    311
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    600
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-23-2/s14.webp",
+   "maat": [
+    1050,
+    241
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    400
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-23-2/s15.webp",
+   "maat": [
+    1050,
+    758
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    447
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-23-2/s16.webp",
+   "maat": [
+    1050,
+    459
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-23-2/s17.webp",
+   "maat": [
+    1050,
+    143
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    666
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-23-2/s18.webp",
+   "maat": [
+    1050,
+    201
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    651
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-23-2/s19.webp",
+   "maat": [
+    1050,
+    913
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    341
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-23-2/s20.webp",
+   "maat": [
+    1050,
+    482
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-23-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    476
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-23-2/s21.webp",
+   "maat": [
+    1050,
+    589
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    630
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-23-2/s22.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    594
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-23-2/s23.webp",
+   "maat": [
+    1050,
+    344
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    422
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-23-2/s24.webp",
+   "maat": [
+    1050,
+    747
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    245
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-23-2/s25.webp",
+   "maat": [
+    1050,
+    697
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-23-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    357
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-24-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-24-1/s1.webp",
+   "maat": [
+    1050,
+    589
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    736
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-24-1/s2.webp",
+   "maat": [
+    1050,
+    524
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    712
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-24-1/s3.webp",
+   "maat": [
+    1050,
+    222
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-24-1/s4.webp",
+   "maat": [
+    1050,
+    219
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    655
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-24-1/s5.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    533
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-24-1/s6.webp",
+   "maat": [
+    1050,
+    955
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    525
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-24-1/s7.webp",
+   "maat": [
+    1050,
+    82
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    414
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-24-1/s8.webp",
+   "maat": [
+    1050,
+    344
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    802
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-24-1/s9.webp",
+   "maat": [
+    1050,
+    727
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-24-1/s10.webp",
+   "maat": [
+    1050,
+    585
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    491
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-24-1/s11.webp",
+   "maat": [
+    1050,
+    1186
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    423
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-24-1/s12.webp",
+   "maat": [
+    1050,
+    901
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    99
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-24-1/s13.webp",
+   "maat": [
+    1050,
+    313
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    244
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-24-1/s14.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    621
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-24-1/s15.webp",
+   "maat": [
+    1050,
+    970
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    376
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-24-1/s16.webp",
+   "maat": [
+    1050,
+    329
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    297
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-24-1/s17.webp",
+   "maat": [
+    1050,
+    641
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    452
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-24-1/s18.webp",
+   "maat": [
+    1050,
+    740
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    588
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-24-1/s19.webp",
+   "maat": [
+    1050,
+    343
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    1167
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-24-1/s20.webp",
+   "maat": [
+    1050,
+    371
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    1001
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-24-1/s21.webp",
+   "maat": [
+    1050,
+    465
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    445
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-24-1/s22.webp",
+   "maat": [
+    1050,
+    1171
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    389
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-24-1/s23.webp",
+   "maat": [
+    1050,
+    419
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-24-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-24-2/s1.webp",
+   "maat": [
+    1050,
+    802
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    246
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-24-2/s2.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    332
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-24-2/s3.webp",
+   "maat": [
+    1050,
+    966
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    555
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-24-2/s4.webp",
+   "maat": [
+    1050,
+    613
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-24-2/s5.webp",
+   "maat": [
+    1050,
+    75
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    508
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-24-2/s6.webp",
+   "maat": [
+    1050,
+    597
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    566
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-24-2/s7.webp",
+   "maat": [
+    1050,
+    774
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    536
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-24-2/s8.webp",
+   "maat": [
+    1050,
+    552
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    420
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-24-2/s9.webp",
+   "maat": [
+    1050,
+    885
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    323
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-24-2/s10.webp",
+   "maat": [
+    1050,
+    552
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    559
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-24-2/s11.webp",
+   "maat": [
+    1050,
+    299
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    302
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-24-2/s12.webp",
+   "maat": [
+    1050,
+    224
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    1272
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-24-2/s13.webp",
+   "maat": [
+    1050,
+    747
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    376
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-24-2/s14.webp",
+   "maat": [
+    1050,
+    831
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    421
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-24-2/s15.webp",
+   "maat": [
+    1050,
+    622
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    273
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-24-2/s16.webp",
+   "maat": [
+    1050,
+    955
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    526
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-24-2/s17.webp",
+   "maat": [
+    1050,
+    656
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    795
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-24-2/s18.webp",
+   "maat": [
+    1050,
+    477
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-24-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    687
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-24-2/s19.webp",
+   "maat": [
+    1050,
+    489
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    269
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-24-2/s20.webp",
+   "maat": [
+    1050,
+    344
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    577
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-24-2/s21.webp",
+   "maat": [
+    1050,
+    479
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    216
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-24-2/s22.webp",
+   "maat": [
+    1050,
+    254
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    553
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-24-2/s23.webp",
+   "maat": [
+    1050,
+    249
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    418
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-24-2/s24.webp",
+   "maat": [
+    1050,
+    501
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    442
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-24-2/s25.webp",
+   "maat": [
+    1050,
+    474
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-24-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    446
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-25-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-25-1/s1.webp",
+   "maat": [
+    1050,
+    628
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    672
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-25-1/s2.webp",
+   "maat": [
+    1050,
+    622
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    276
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-25-1/s3.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    535
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-25-1/s4.webp",
+   "maat": [
+    1050,
+    1002
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    881
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-25-1/s5.webp",
+   "maat": [
+    1050,
+    82
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    859
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-25-1/s6.webp",
+   "maat": [
+    1050,
+    810
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    436
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-25-1/s7.webp",
+   "maat": [
+    1050,
+    194
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    544
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-25-1/s8.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    655
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-25-1/s9.webp",
+   "maat": [
+    1050,
+    910
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    793
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-25-1/s10.webp",
+   "maat": [
+    1050,
+    198
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    157
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-25-1/s11.webp",
+   "maat": [
+    1050,
+    509
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    727
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-25-1/s12.webp",
+   "maat": [
+    1050,
+    973
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    549
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-25-1/s13.webp",
+   "maat": [
+    1050,
+    83
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-25-1/s14.webp",
+   "maat": [
+    1050,
+    486
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    921
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-25-1/s15.webp",
+   "maat": [
+    1050,
+    358
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    441
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-25-1/s16.webp",
+   "maat": [
+    1050,
+    583
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    94
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-25-1/s17.webp",
+   "maat": [
+    1050,
+    73
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    280
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-25-1/s18.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    531
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-25-1/s19.webp",
+   "maat": [
+    1050,
+    333
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    477
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-25-1/s20.webp",
+   "maat": [
+    1050,
+    944
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    680
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-25-1/s21.webp",
+   "maat": [
+    1050,
+    105
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    448
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-25-1/s22.webp",
+   "maat": [
+    1050,
+    592
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    395
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-25-1/s23.webp",
+   "maat": [
+    1050,
+    777
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-25-1/s24.webp",
+   "maat": [
+    1050,
+    283
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    457
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-25-1/s25.webp",
+   "maat": [
+    1050,
+    741
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    540
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-25-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-25-2/s1.webp",
+   "maat": [
+    1050,
+    956
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    371
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-25-2/s2.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    651
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-25-2/s3.webp",
+   "maat": [
+    1050,
+    196
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    1038
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-25-2/s4.webp",
+   "maat": [
+    1050,
+    500
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    658
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-25-2/s5.webp",
+   "maat": [
+    1050,
+    819
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    577
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-25-2/s6.webp",
+   "maat": [
+    1050,
+    565
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    335
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-25-2/s7.webp",
+   "maat": [
+    1050,
+    388
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    279
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-25-2/s8.webp",
+   "maat": [
+    1050,
+    667
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    447
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-25-2/s9.webp",
+   "maat": [
+    1050,
+    537
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    737
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-25-2/s10.webp",
+   "maat": [
+    1050,
+    740
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    1516
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-25-2/s11.webp",
+   "maat": [
+    1050,
+    482
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    705
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-25-2/s12.webp",
+   "maat": [
+    1050,
+    193
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    188
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-25-2/s13.webp",
+   "maat": [
+    1050,
+    361
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    152
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-25-2/s14.webp",
+   "maat": [
+    1050,
+    43
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    220
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-25-2/s15.webp",
+   "maat": [
+    1050,
+    220
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    274
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-25-2/s16.webp",
+   "maat": [
+    1050,
+    897
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    494
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-25-2/s17.webp",
+   "maat": [
+    1050,
+    253
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    402
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-25-2/s18.webp",
+   "maat": [
+    1050,
+    343
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    883
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-25-2/s19.webp",
+   "maat": [
+    1050,
+    351
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    1011
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-25-2/s20.webp",
+   "maat": [
+    1050,
+    586
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-25-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    782
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-25-2/s21.webp",
+   "maat": [
+    1050,
+    687
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    663
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-25-2/s22.webp",
+   "maat": [
+    1050,
+    113
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    709
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-25-2/s23.webp",
+   "maat": [
+    1050,
+    711
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    782
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-25-2/s24.webp",
+   "maat": [
+    1050,
+    1016
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    331
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-25-2/s25.webp",
+   "maat": [
+    1050,
+    1362
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    622
+   ]
+  },
+  "26": {
+   "stuk": "img/vw-1028-a-25-2/s26.webp",
+   "maat": [
+    1050,
+    294
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-25-2/a26.webp",
+   "antwoordMaat": [
+    1050,
+    772
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-26-1": {
+  "1": {
+   "stuk": "img/vw-1028-a-26-1/s1.webp",
+   "maat": [
+    1050,
+    420
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-1/a1.webp",
+   "antwoordMaat": [
+    1050,
+    314
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-26-1/s2.webp",
+   "maat": [
+    1050,
+    615
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a2.webp",
+   "antwoordMaat": [
+    1050,
+    449
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-26-1/s3.webp",
+   "maat": [
+    1050,
+    667
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a3.webp",
+   "antwoordMaat": [
+    1050,
+    381
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-26-1/s4.webp",
+   "maat": [
+    1050,
+    163
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a4.webp",
+   "antwoordMaat": [
+    1050,
+    309
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-26-1/s5.webp",
+   "maat": [
+    1050,
+    499
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a5.webp",
+   "antwoordMaat": [
+    1050,
+    466
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-26-1/s6.webp",
+   "maat": [
+    1050,
+    832
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a6.webp",
+   "antwoordMaat": [
+    1050,
+    584
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-26-1/s7.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a7.webp",
+   "antwoordMaat": [
+    1050,
+    471
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-26-1/s8.webp",
+   "maat": [
+    1050,
+    657
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-1/a8.webp",
+   "antwoordMaat": [
+    1050,
+    731
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-26-1/s9.webp",
+   "maat": [
+    1050,
+    313
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a9.webp",
+   "antwoordMaat": [
+    1050,
+    558
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-26-1/s10.webp",
+   "maat": [
+    1050,
+    314
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a10.webp",
+   "antwoordMaat": [
+    1050,
+    439
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-26-1/s11.webp",
+   "maat": [
+    1050,
+    550
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a11.webp",
+   "antwoordMaat": [
+    1050,
+    327
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-26-1/s12.webp",
+   "maat": [
+    1050,
+    255
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a12.webp",
+   "antwoordMaat": [
+    1050,
+    1327
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-26-1/s13.webp",
+   "maat": [
+    1050,
+    369
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a13.webp",
+   "antwoordMaat": [
+    1050,
+    825
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-26-1/s14.webp",
+   "maat": [
+    1050,
+    391
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-1/a14.webp",
+   "antwoordMaat": [
+    1050,
+    473
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-26-1/s15.webp",
+   "maat": [
+    1050,
+    766
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a15.webp",
+   "antwoordMaat": [
+    1050,
+    587
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-26-1/s16.webp",
+   "maat": [
+    1050,
+    284
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a16.webp",
+   "antwoordMaat": [
+    1050,
+    422
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-26-1/s17.webp",
+   "maat": [
+    1050,
+    599
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a17.webp",
+   "antwoordMaat": [
+    1050,
+    454
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-26-1/s18.webp",
+   "maat": [
+    1050,
+    113
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a18.webp",
+   "antwoordMaat": [
+    1050,
+    433
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-26-1/s19.webp",
+   "maat": [
+    1050,
+    855
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-1/a19.webp",
+   "antwoordMaat": [
+    1050,
+    282
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-26-1/s20.webp",
+   "maat": [
+    1050,
+    373
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a20.webp",
+   "antwoordMaat": [
+    1050,
+    245
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-26-1/s21.webp",
+   "maat": [
+    1050,
+    223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a21.webp",
+   "antwoordMaat": [
+    1050,
+    506
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-26-1/s22.webp",
+   "maat": [
+    1050,
+    563
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a22.webp",
+   "antwoordMaat": [
+    1050,
+    592
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-26-1/s23.webp",
+   "maat": [
+    1050,
+    331
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a23.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-26-1/s24.webp",
+   "maat": [
+    1050,
+    210
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a24.webp",
+   "antwoordMaat": [
+    1050,
+    751
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-26-1/s25.webp",
+   "maat": [
+    1050,
+    709
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-1/a25.webp",
+   "antwoordMaat": [
+    1050,
+    531
+   ]
+  },
+  "_meldingen": []
+ },
+ "vw-1028-a-26-2": {
+  "1": {
+   "stuk": "img/vw-1028-a-26-2/s1.webp",
+   "maat": [
+    1050,
+    356
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-2/a1.webp",
+   "antwoordMaat": [
+    1050,
+    191
+   ]
+  },
+  "2": {
+   "stuk": "img/vw-1028-a-26-2/s2.webp",
+   "maat": [
+    1050,
+    517
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a2.webp",
+   "antwoordMaat": [
+    1050,
+    452
+   ]
+  },
+  "3": {
+   "stuk": "img/vw-1028-a-26-2/s3.webp",
+   "maat": [
+    1050,
+    1452
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a3.webp",
+   "antwoordMaat": [
+    1050,
+    564
+   ]
+  },
+  "4": {
+   "stuk": "img/vw-1028-a-26-2/s4.webp",
+   "maat": [
+    1050,
+    603
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a4.webp",
+   "antwoordMaat": [
+    1050,
+    558
+   ]
+  },
+  "5": {
+   "stuk": "img/vw-1028-a-26-2/s5.webp",
+   "maat": [
+    1050,
+    534
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a5.webp",
+   "antwoordMaat": [
+    1050,
+    1115
+   ]
+  },
+  "6": {
+   "stuk": "img/vw-1028-a-26-2/s6.webp",
+   "maat": [
+    1050,
+    372
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a6.webp",
+   "antwoordMaat": [
+    1050,
+    1134
+   ]
+  },
+  "7": {
+   "stuk": "img/vw-1028-a-26-2/s7.webp",
+   "maat": [
+    1050,
+    326
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-2/a7.webp",
+   "antwoordMaat": [
+    1050,
+    215
+   ]
+  },
+  "8": {
+   "stuk": "img/vw-1028-a-26-2/s8.webp",
+   "maat": [
+    1050,
+    1223
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a8.webp",
+   "antwoordMaat": [
+    1050,
+    477
+   ]
+  },
+  "9": {
+   "stuk": "img/vw-1028-a-26-2/s9.webp",
+   "maat": [
+    1050,
+    577
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a9.webp",
+   "antwoordMaat": [
+    1050,
+    586
+   ]
+  },
+  "10": {
+   "stuk": "img/vw-1028-a-26-2/s10.webp",
+   "maat": [
+    1050,
+    313
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a10.webp",
+   "antwoordMaat": [
+    1050,
+    825
+   ]
+  },
+  "11": {
+   "stuk": "img/vw-1028-a-26-2/s11.webp",
+   "maat": [
+    1050,
+    649
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a11.webp",
+   "antwoordMaat": [
+    1050,
+    506
+   ]
+  },
+  "12": {
+   "stuk": "img/vw-1028-a-26-2/s12.webp",
+   "maat": [
+    1050,
+    624
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a12.webp",
+   "antwoordMaat": [
+    1050,
+    450
+   ]
+  },
+  "13": {
+   "stuk": "img/vw-1028-a-26-2/s13.webp",
+   "maat": [
+    1050,
+    776
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-2/a13.webp",
+   "antwoordMaat": [
+    1050,
+    94
+   ]
+  },
+  "14": {
+   "stuk": "img/vw-1028-a-26-2/s14.webp",
+   "maat": [
+    1050,
+    249
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a14.webp",
+   "antwoordMaat": [
+    1050,
+    702
+   ]
+  },
+  "15": {
+   "stuk": "img/vw-1028-a-26-2/s15.webp",
+   "maat": [
+    1050,
+    563
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a15.webp",
+   "antwoordMaat": [
+    1050,
+    432
+   ]
+  },
+  "16": {
+   "stuk": "img/vw-1028-a-26-2/s16.webp",
+   "maat": [
+    1050,
+    194
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a16.webp",
+   "antwoordMaat": [
+    1050,
+    1097
+   ]
+  },
+  "17": {
+   "stuk": "img/vw-1028-a-26-2/s17.webp",
+   "maat": [
+    1050,
+    376
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a17.webp",
+   "antwoordMaat": [
+    1050,
+    1252
+   ]
+  },
+  "18": {
+   "stuk": "img/vw-1028-a-26-2/s18.webp",
+   "maat": [
+    1050,
+    975
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a18.webp",
+   "antwoordMaat": [
+    1050,
+    484
+   ]
+  },
+  "19": {
+   "stuk": "img/vw-1028-a-26-2/s19.webp",
+   "maat": [
+    1050,
+    403
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a19.webp",
+   "antwoordMaat": [
+    1050,
+    493
+   ]
+  },
+  "20": {
+   "stuk": "img/vw-1028-a-26-2/s20.webp",
+   "maat": [
+    1050,
+    133
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a20.webp",
+   "antwoordMaat": [
+    1050,
+    303
+   ]
+  },
+  "21": {
+   "stuk": "img/vw-1028-a-26-2/s21.webp",
+   "maat": [
+    1050,
+    541
+   ],
+   "nieuweOpgave": true,
+   "antwoord": "img/vw-1028-a-26-2/a21.webp",
+   "antwoordMaat": [
+    1050,
+    1035
+   ]
+  },
+  "22": {
+   "stuk": "img/vw-1028-a-26-2/s22.webp",
+   "maat": [
+    1050,
+    309
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a22.webp",
+   "antwoordMaat": [
+    1050,
+    477
+   ]
+  },
+  "23": {
+   "stuk": "img/vw-1028-a-26-2/s23.webp",
+   "maat": [
+    1050,
+    346
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a23.webp",
+   "antwoordMaat": [
+    1050,
+    749
+   ]
+  },
+  "24": {
+   "stuk": "img/vw-1028-a-26-2/s24.webp",
+   "maat": [
+    1050,
+    747
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a24.webp",
+   "antwoordMaat": [
+    1050,
+    419
+   ]
+  },
+  "25": {
+   "stuk": "img/vw-1028-a-26-2/s25.webp",
+   "maat": [
+    1050,
+    203
+   ],
+   "nieuweOpgave": false,
+   "antwoord": "img/vw-1028-a-26-2/a25.webp",
+   "antwoordMaat": [
+    1050,
+    474
+   ]
+  },
+  "_meldingen": []
  }
 }
