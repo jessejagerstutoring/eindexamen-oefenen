@@ -1,0 +1,292 @@
+                                                                 Examen VWO
+
+                                                                     2024
+                                                                            tijdvak 2
+                                                                   maandag 24 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+ Dit examen bestaat uit 17 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-24-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t )cos(t )
+             cos(2t )  cos2 (t )  sin 2 (t )  2cos2 (t )  1  1  2sin2 (t )
+
+
+
+
+VW-1025-a-24-2-o                                      2 / 10                       lees verder ►►►
+      Twee functies
+
+            De functies f en g worden gegeven door f ( x )  72  x 3 en g ( x)  x x .
+            Het snijpunt van de grafieken van f en g is het punt S. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    1     Bereken exact de coördinaten van S.
+
+            De lijn k heeft vergelijking y   12 x  88 .
+            Lijn k raakt aan de grafiek van f in het punt P rechts van de y-as.
+            Het vlakdeel V wordt ingesloten door de grafiek van f , lijn k en de y-as.
+            In figuur 2 is dit vlakdeel grijs weergegeven.
+
+            figuur 2
+
+
+
+
+5p    2     Bereken exact de oppervlakte van V.
+
+
+
+
+VW-1025-a-24-2-o                              3 / 10                             lees verder ►►►
+      Cobb-Douglas-productiefunctie
+
+            De Cobb-Douglas-productiefunctie is een wiskundig model dat economen
+            gebruiken om de productie Y te voorspellen. In dit model hangt de
+            productie af van twee factoren: arbeid en kapitaal.
+            Met arbeid L wordt het aantal voltijdbanen van werknemers bedoeld.
+            Met kapitaal K wordt in deze opgave het aantal machines bedoeld dat
+            beschikbaar is voor de productie.
+
+            De formule bij dit model luidt:
+                   Y  A  L  K 
+            Hierbij zijn A,  en  constanten die afhangen van het soort bedrijf.
+
+            Iemand wil € 1 000 000 per jaar investeren in een nieuw bedrijf.
+            Voor een bedrijf in deze sector geldt A  40 ,   0, 7 en   0,3 .
+            De kosten per voltijdbaan per jaar bedragen € 50 000 en de kosten per
+            machine per jaar bedragen € 20 000.
+            Er geldt dus: 50 000 L  20 000 K  1 000 000
+            Uit deze gegevens is af te leiden dat: Y  40  L0,7  (50  2,5L)0,3
+
+2p    3     Toon aan dat Y  40  L0,7  (50  2,5L)0,3 .
+
+            De investeerder wil het volledige bedrag van € 1 000 000 investeren in
+            arbeid en kapitaal, en wel in zo’n verhouding dat de productie Y maximaal
+            is.
+
+5p    4     Bereken algebraïsch hoeveel voltijdbanen de investeerder moet inzetten
+            om de productie Y maximaal te krijgen.
+
+            Als   1   dan spreken economen van een constant schaalvoordeel.
+            Dat wil zeggen dat de inzet van arbeid en kapitaal evenredig is met de
+            productie. Ofwel: als zowel L als K met dezelfde factor g groeit, dan groeit
+            ook de productie Y  A  L  K  met diezelfde factor g.
+
+4p    5     Bewijs dat bij   1   geldt: als zowel L als K met dezelfde factor g
+            groeit, dan groeit ook de productie Y met diezelfde factor g.
+
+
+
+
+VW-1025-a-24-2-o                                4 / 10                         lees verder ►►►
+      Loodrecht op de snelheidsvector
+
+            De beweging van een punt P wordt gegeven door de volgende
+            bewegingsvergelijkingen:
+                    x(t )  sin(t )
+                                       1              met 0  t  2π
+                     y (t )  cos(t  4 )
+            In figuur 1 is de baan van P weergegeven.                   figuur 1
+
+            Punt A (0, 12 2) is het snijpunt van de baan
+            van P met de positieve y-as. Er is een positie
+            van punt P waarvoor de afstand tussen de
+            punten A en P maximaal is.
+3p    6     Bereken deze maximale afstand. Geef je
+            eindantwoord in twee decimalen.
+
+
+
+
+            In figuur 2 is een situatie weergegeven                     figuur 2
+            waarbij de vector          loodrecht staat op de
+            snelheidsvector in punt P.
+                                               
+            Hieruit volgt: sin  2t   sin 2t  12 π    
+                                                             
+4p    7     Bewijs dat uit het feit dat de vector OP
+            loodrecht staat op de snelheidsvector in punt P
+                                                   
+            inderdaad volgt: sin  2t   sin 2t  12 π         
+            Er zijn vier posities van P waarbij een situatie
+            zoals in figuur 2 voorkomt.
+3p    8     Bereken exact de vier waarden van t die horen bij deze posities.
+
+
+
+
+VW-1025-a-24-2-o                                       5 / 10                      lees verder ►►►
+      Passende parabool
+
+            De kwadratische functie f             figuur
+            wordt gegeven door
+             f ( x)  ax 2  bx  c .
+            De grafiek van f snijdt de
+            y-as in het punt S (0, 2) .
+
+            De raaklijn aan de grafiek van
+            f in punt S snijdt de x-as in het
+            punt      2
+                       3       
+                           3, 0 .
+
+            Verder is gegeven dat de grafiek
+            van f een dalparabool is die de
+            positieve x-as raakt.
+            Zie de figuur.
+
+6p    9     Bereken exact de waarden van a, b en c.
+
+
+
+
+VW-1025-a-24-2-o                                6 / 10     lees verder ►►►
+      Lijnenparen
+
+            De lijn k heeft vergelijking y  ax met a  0 .
+            De lijn m heeft richtingscoëfficiënt –a en gaat door het punt P (10, 4) .
+            Het punt S is het snijpunt van de lijnen k en m. Punt S ligt op de grafiek
+                                                               2x
+            van de functie f die wordt gegeven door y            waarbij geldt: x  5
+                                                              x5
+            In figuur 1 is voor drie waarden van a de situatie weergegeven. De grafiek
+            van f is gestippeld weergegeven.
+
+            figuur 1
+
+
+
+
+                       a  3,7                    a  1,55                     a  0, 2
+
+4p   10     Bewijs dat voor elke positieve waarde van a punt S op de grafiek van f ligt.
+
+3p   11     Bewijs dat de grafiek van f voor elke waarde van x  5 daalt.
+
+                                                             figuur 2
+            Het is voor iedere waarde van a mogelijk
+            om een cirkel c door de punten O, S en P
+            te tekenen. Hierbij wordt de situatie dat S
+            en P samenvallen buiten beschouwing
+            gelaten.
+                                             2x 
+            De coördinaten van S zijn  x,       .
+                                            x 5
+            Er is één waarde van a waarvoor deze
+            cirkel raakt aan de y-as. Het middelpunt
+            M (r , 0) van deze cirkel ligt op de x-as.
+            Deze situatie is in figuur 2 weergegeven.
+6p   12     Bereken de waarde van a waarvoor de
+            cirkel raakt aan de y-as. Rond je
+            eindantwoord af op twee decimalen.
+
+
+
+VW-1025-a-24-2-o                              7 / 10                             lees verder ►►►
+      Absolute logaritme
+
+                                                            2
+            De functie f18 wordt gegeven door f18 ( x)         log( x2  18x  69) .
+
+            De grafiek van f18 snijdt de lijn met vergelijking y  2 in vier punten.
+4p   13     Bereken exact de x-coördinaten van deze vier punten.
+
+            De functie f a wordt gegeven door f a ( x )  2 log( x 2  ax  69) met a  0 .
+            Voor een bepaalde waarde van a heeft de grafiek van f a twee verticale
+            asymptoten met een onderlinge afstand van 20.
+4p   14     Bereken exact deze waarde van a.
+
+
+
+
+VW-1025-a-24-2-o                               8 / 10                                   lees verder ►►►
+      Lijnstukken bij een exponentiële functie
+
+            De functie f a wordt gegeven door             figuur 1
+             f a ( x)  eax met a  0 .
+            De lijn k met vergelijking y  e snijdt de
+            grafiek van f a in S.
+            In figuur 1 zijn voor een waarde van a de
+            grafiek van f a en lijn k weergegeven.
+            Ook is de raaklijn aan de grafiek van f a
+            door S weergegeven.
+5p   15     Bewijs dat deze raaklijn voor elke waarde
+            van a door de oorsprong gaat.
+
+
+
+
+            In figuur 2 is opnieuw voor een waarde        figuur 2
+            van a de grafiek van f a weergegeven.
+            Op deze grafiek liggen de punten A (0, 1) ,
+            B (1, ea ) en C (2, e 2 a ) .
+            Ook is de grafiek van de inverse van f a
+            (gestippeld) weergegeven.
+            De punten D, E en F zijn de beeldpunten
+            van respectievelijk A, B en C bij
+            spiegeling in de lijn y  x .
+
+            Er is een waarde van a waarvoor geldt:
+                     AD  BE  CF
+7p   16     Bereken exact deze waarde van a.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1025-a-24-2-o                             9 / 10                     lees verder ►►►
+      Een hoek van 45 graden
+
+            Gegeven zijn het punt P met coördinaten (9, 27) en de vector                                   .
+                                                            
+            Ook zijn gegeven het punt Q (a, b) en de vector OQ .
+            Voor          geldt:                   .
+
+            Er zijn twee mogelijke posities van Q, zodat geldt:                                                .
+
+6p   17     Bereken algebraïsch de mogelijke coördinaten van beide posities.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-24-2-o                                         10 / 10                                          lees verdereinde
+                                                                                                                       ►►► 
+

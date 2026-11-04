@@ -1,0 +1,541 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                   woensdag 20 juni
+                                                                   13.30 - 16.30 uur
+
+
+ oud programma                                                      wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 15 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-h-18-2-o
+       Formules
+
+             Vlakke meetkunde
+
+             Verwijzingen naar definities en stellingen die bij een bewijs mogen worden
+             gebruikt zonder nadere toelichting.
+
+             Hoeken, lijnen en afstanden:
+             gestrekte hoek, rechte hoek, overstaande hoeken, F-hoeken, Z-hoeken,
+             afstand punt tot lijn, driehoeksongelijkheid.
+
+             Meetkundige plaatsen:
+             middelloodlijn, bissectrice, bissectricepaar, middenparallel, cirkel,
+             parabool.
+
+             Driehoeken:
+             hoekensom driehoek, buitenhoek driehoek, congruentie: HZH, ZHH, ZHZ,
+             ZZZ, ZZR; gelijkvormigheid: hh, zhz, zzz, zzr; middelloodlijnen driehoek,
+             bissectrices driehoek, hoogtelijn driehoek, hoogtelijnen driehoek,
+             zwaartelijn driehoek, zwaartelijnen driehoek, gelijkbenige driehoek,
+             gelijkzijdige driehoek, rechthoekige driehoek, Pythagoras, gelijkbenige
+             rechthoekige driehoek, halve gelijkzijdige driehoek.
+
+             Vierhoeken:
+             hoekensom vierhoek, parallellogram, ruit, rechthoek, vierkant.
+
+             Cirkel, koorden, bogen, hoeken, raaklijn, vierhoeken:
+             koorde, boog en koorde, loodlijn op koorde, middellijn, Thales,
+             middelpuntshoek, omtrekshoek, constante hoek, raaklijn, hoek tussen
+             koorde en raaklijn, koordenvierhoek.
+
+             Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )   sin(t )  sin(u )  2sin  t 2u  cos  t 2u 
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )   sin(t )  sin(u )  2sin  t 2u  cos  t 2u 
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )   cos(t )  cos(u )  2cos  t 2u  cos  t 2u 
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )   cos(t )  cos(u )  2sin  t 2u  sin  t 2u 
+
+
+
+
+VW-1025-h-18-2 -o                                    2 / 12                                         lees verder ►►►
+       Twee functies
+
+             De functies f en g zijn gegeven door:                       figuur 1
+                                                       1
+                        f ( x)  e  x en g ( x)         , met x  1
+                                                     x 1
+             In figuur 1 zijn de grafieken van f en g
+             getekend.
+             Beide grafieken gaan door het punt (0, 1) en
+                                                                         1
+             de twee grafieken hebben in (0, 1) dezelfde
+             helling.
+                                                                                        g
+             Behalve x  0 is er nog een tweede waarde                              f
+             van x waarvoor de grafieken van f en g
+             dezelfde helling hebben.                                    O                            x
+4p     1     Bereken deze waarde van x in twee decimalen
+             nauwkeurig.
+
+             Het vlakdeel ingesloten door de grafiek van g, de y-as, de x-as en de lijn
+             x  a , met a  0 , noemen we W. Zie figuur 2.
+
+             figuur 2
+
+                    y
+
+
+
+                                           x=a
+                1
+
+
+                                  g
+
+                              W
+
+                O                                    x
+
+
+             Als de waarde van a onbegrensd toeneemt, neemt de oppervlakte van W
+             ook onbegrensd toe.
+             Er is bijvoorbeeld een waarde van a waarvoor geldt: de oppervlakte van W
+             is 2011.
+4p     2     Bereken exact deze waarde van a.
+
+
+
+
+VW-1025-h-18-2 -o                                           3 / 12                          lees verder ►►►
+       Temperatuur in de aardbodem
+
+             Per 24 uur schommelt de temperatuur aan het aardoppervlak en daardoor
+             ook de temperatuur in de aarde. Naarmate je op een bepaalde plek dieper
+             de aardbodem ingaat, zijn de temperatuurschommelingen minder groot.
+             Bovendien lopen ze achter in de tijd ten opzichte van de
+             temperatuurschommeling aan het aardoppervlak.
+
+             In figuur 1 zie je voor een bepaalde plaats in Nederland het dagelijkse
+             temperatuurverloop op verschillende dieptes als functie van de tijd t, met t
+             in uren. Hierbij geldt t  0 om middernacht in het begin van een week met
+             zacht zomerweer. Voor elk van deze geringe dieptes is de
+             evenwichtsstand van het temperatuurverloop (bij benadering) 20,0 C. Bij
+             elke grafiek is met een dubbele pijl de amplitude aangegeven.
+
+             figuur 1
+                      35
+             T in C
+                      30
+
+                      25
+
+                      20
+
+                      15
+
+                      10
+
+                       5
+
+                       0
+                           0        6          12      18            24   30      36     42         48
+                                                                                              t in uren
+                           Legenda:
+                                 aardoppervlak (0 cm diepte)
+                                 5 cm diepte
+                                 15 cm diepte
+
+             De amplitude van het temperatuurverloop blijkt exponentieel af te hangen
+             van de diepte in de aardbodem.
+                                                                               1
+             De diepte waarop de amplitude is afgenomen tot                      -de deel van de
+                                                                               e
+             amplitude aan het aardoppervlak wordt de dempingsdiepte genoemd. Er
+             geldt:
+                                           z
+                                 1 D
+                 A( z )  A(0)   
+                                 e
+             Hierin is z de diepte in de aardbodem in centimeter, A( z ) de amplitude
+             van het temperatuurverloop in graden Celsius op diepte z cm en D de
+             dempingsdiepte in centimeter.
+
+
+VW-1025-h-18-2 -o                                           4 / 12                              lees verder ►►►
+             In figuur 1 zijn onder andere de amplitudes A(0)  10,0 en A(15)  2,9
+             aangegeven.
+3p     3     Bereken uitgaande van de genoemde amplitudes de waarde van D in één
+             decimaal nauwkeurig.
+
+             Gebruikmakend van de waarden van A(0) en D kan de formule voor de
+             amplitude worden herschreven tot A( z )  10,0  0,92 z . Met deze formule
+             werken we in het vervolg van deze opgave.
+             De grafieken in figuur 1 zijn sinusoïden met een evenwichtsstand van
+             20,0 C en een periode van 24 uur. De grafiek die hoort bij z  0 gaat bij
+             t  7,9 stijgend door de evenwichtsstand. Bij elke centimeter dieper in de
+             aardbodem gaat de bijbehorende grafiek ongeveer 0,28 uur later door de
+             evenwichtsstand.
+             Voor de situatie van figuur 1 komen we uit op de volgende formule voor
+             de temperatuur in de aardbodem:
+                                                π                      
+                T  20,0  10,0  0,92 z  sin  (t  7,9  0, 28  z ) 
+                                                12                     
+             Hierin is z de diepte in de aardbodem in centimeter, T de temperatuur op
+             deze diepte in graden Celsius en t de tijd in uren met t  0 om
+             middernacht. Deze formule geldt voor 0  z  30 en 0  t  48 .
+
+             De temperatuur op 15 cm diepte in de aardbodem bereikt op een bepaald
+             tijdstip van de dag zijn maximale waarde.
+6p     4     Bereken dit tijdstip op algebraïsche wijze.
+
+
+
+
+VW-1025-h-18-2 -o                            5 / 12                            lees verder ►►►
+       Koorde evenwijdig aan raaklijn
+
+             Gegeven is een cirkel c met middelpunt M en een punt P op c. Op het
+             verlengde van de straal MP ligt het punt A zo dat MP  PA . Een raaklijn
+             door A aan c raakt de cirkel in het punt B. Het punt Q ligt op c zo dat de
+             koorde PQ evenwijdig is aan de raaklijn AB. Zie figuur 1. In deze figuur is
+             ook de straal MQ getekend. Deze figuur staat ook op de uitwerkbijlage.
+
+             figuur 1
+
+
+
+                    Q             B
+
+
+              c
+
+
+
+                          M                            A
+                                         P
+
+
+
+
+             Er geldt: MQP  BAM
+
+3p     5     Bewijs dit. Je kunt hierbij gebruik maken van de figuur op de
+             uitwerkbijlage.
+
+             Het verlengde van QM snijdt de cirkel c in het punt S. Zie figuur 2. In deze
+             figuur zijn ook de straal MB en de koorde PS getekend. Deze figuur staat
+             ook op de uitwerkbijlage.
+
+             figuur 2
+
+
+
+                    Q             B
+
+
+              c
+
+
+
+                        M                              A
+                                         P
+
+
+
+
+                                 S
+
+5p     6     Bewijs dat PS  MB . Je kunt hierbij gebruik maken van de figuur op de
+             uitwerkbijlage.
+
+
+VW-1025-h-18-2 -o                            6 / 12                             lees verder ►►►
+       Wortelfunctie met cosinus
+
+             In figuur 1 is een sinusoïde getekend die de grafiek is van een functie f
+             met domein [0, 2π] .
+
+             figuur 1
+
+              y
+
+
+                        f
+
+
+
+              O                                                             2       x
+
+
+             Het bijbehorende functievoorschrift kan op dit domein geschreven worden
+             als f ( x)  1  cos x .
+
+5p     7     Bereken exact de richtingscoëfficiënt van de raaklijn aan de grafiek van f
+             in het punt op de grafiek waarvan de y-coördinaat 12 6 is en de
+             x-coördinaat groter dan π is.
+
+             In figuur 2 zijn de grafiek van f en de lijnen y  12 2  x en y  2
+             getekend. Deze lijnen raken de grafiek van f in respectievelijk (0, 0) en
+             (π, 2) .
+             Het vlakdeel V wordt begrensd door de grafiek van f en de twee
+             genoemde lijnen. Dit vlakdeel is in figuur 2 grijs gemaakt.
+
+             figuur 2
+                                             y = 2 2. x
+                                                 1
+              y
+
+                    y= 2
+
+
+
+                                                                   f
+
+
+
+             O                                                              2       x
+
+
+             Het omwentelingslichaam L ontstaat bij wenteling van V om de x-as.
+8p     8     Bereken exact de inhoud van L. Schrijf je antwoord zo eenvoudig
+             mogelijk.
+
+
+
+
+VW-1025-h-18-2 -o                                7 / 12                             lees verder ►►►
+       Twee lijnen die raken aan parabolen
+
+             De functie f is gegeven door f ( x)  3 x 2  12
+                                                            1 . De lijn met vergelijking y  x
+
+             raakt aan de grafiek van f. Vanwege symmetrie in de y-as raakt ook de lijn
+              y   x aan de grafiek van f.
+             Het vlakdeel V wordt begrensd door de grafiek van f en de twee
+             raaklijnen.
+             Zie figuur 1.
+
+             figuur 1
+                                       y
+                                                             f
+
+             y= x                                                y=x
+
+
+
+
+                                           V
+
+                                                                      x
+                                      O
+
+
+6p     9     Bereken exact de oppervlakte van het vlakdeel V.
+
+             Voor elk tweetal positieve waarden van a en b is de functie g a ,b gegeven
+             door g a ,b ( x)  ax 2  b . We bekijken de functies g a ,b die de lijn y  12 x (en
+             dus ook de lijn y   12 x ) als raaklijn aan hun grafiek hebben. In figuur 2
+             zijn de grafieken van drie van zulke functies en de lijnen y  12 x en
+              y   12 x getekend.
+
+             figuur 2
+                                      y
+
+
+
+             y = 12 x                                      y = 12 x
+
+
+
+                                     O                                x
+
+
+
+             Voor alle functies g a ,b die de lijn y  12 x (en dus ook de lijn y   12 x ) als
+             raaklijn aan hun grafiek hebben, kunnen we b uitdrukken in a.
+6p    10     Druk voor deze functies b uit in a. Schrijf je antwoord zo eenvoudig
+             mogelijk.
+
+
+VW-1025-h-18-2 -o                                 8 / 12                                 lees verder ►►►
+       Koordenvierhoek en gelijke hoeken
+
+             Gegeven is koordenvierhoek ABCD           figuur 1
+             met de twee diagonalen AC en BD,                                C
+             die elkaar in punt S snijden.                  D
+             Op lijnstuk CS ligt punt F en op lijnstuk
+                                                              E          F
+             DS ligt punt E zó dat de lijnstukken AB
+             en EF evenwijdig zijn.                                  S
+             Zie figuur 1. De cirkel door de
+             hoekpunten van de koordenvierhoek is in
+             deze figuur gestippeld. Deze figuur staat
+             ook op de uitwerkbijlage.                    A                          B
+
+             Vierhoek CDEF is een koordenvierhoek.
+
+5p    11     Bewijs dit. Je kunt hierbij gebruik maken
+             van de figuur op de uitwerkbijlage.
+
+             In figuur 2 is, behalve de situatie van figuur 2
+             figuur 1, ook de cirkel door de punten
+             C, D, E en F getekend. Ook deze figuur
+             staat op de uitwerkbijlage.
+
+3p    12     Bewijs dat ADF  BCE . Je kunt
+                                                                             C
+             hierbij gebruik maken van de figuur op de
+             uitwerkbijlage.                                 D
+                                                                 E       F
+
+                                                                     S
+
+
+
+
+                                                         A                           B
+
+
+
+
+VW-1025-h-18-2 -o                            9 / 12                          lees verder ►►►
+       Fontein
+
+             Op de foto is de Crown Fountain in Chicago te        foto
+             zien.
+
+             In figuur 1 is een cilindervormige vijverfontein
+             getekend die volgens hetzelfde principe werkt.
+             In de verticale, holle cilinderbuis wordt water tot een
+             hoogte van 2,50 meter opgepompt. In de buis is op
+             een hoogte h meter boven de grond een klein gat
+             aangebracht. Uit dit gat spuit in horizontale richting
+             water. Omdat de pomp er ondertussen voor zorgt
+             dat het water in de buis 2,50 meter hoog blijft,
+             krijgen we een waterstraal te zien die bij benadering
+             de vorm heeft van een halve parabool.
+             De waterstraal komt op afstand d meter van de cilinderbuis op het
+             wateroppervlak in de vijver. Zie figuur 1 en figuur 2.
+
+             figuur 1                                                  figuur 2
+
+                                                                   y
+
+                                                                   h
+
+
+
+
+                        2,50
+                                 h
+
+
+
+
+                                                                   O                    d   x
+                                          d
+
+
+
+
+VW-1025-h-18-2 -o                             10 / 12                             lees verder ►►►
+             De horizontale uitstroomsnelheid v van het water bij het gat hangt af van
+             de hoeveelheid water die zich boven het gat bevindt en dus van de hoogte
+             h van het gat. Er geldt bij benadering:
+
+                    v  19,6  (2,50  h) , met v in meter per seconde en h in meter.
+
+             In een geschikt assenstelsel beweegt een waterdruppel (uit de
+             waterstraal) met coördinaten (x, y) bij benadering volgens de
+             vergelijkingen:
+
+                    x  v t
+                    y  h  4,9  t 2
+
+             Hierin is t de tijd in seconden en t  0 op het moment dat de waterdruppel
+             het gat passeert (zodat dan geldt x  0 en y  h ).
+
+             Voor de waarde van t die hoort bij het tijdstip waarop de waterdruppel in
+             de vijver valt, geldt x  d en y  0 . Zie figuur 1 en figuur 2.
+             Er geldt: d  2  h  (2,50  h)
+
+5p    13     Leid langs algebraïsche weg deze laatste formule af uit de gegeven
+             formules voor v, x en y.
+
+             Door de hoogte h van het gat te veranderen, verandert ook de plaats waar
+             de waterstraal in de vijver terechtkomt. Er is een hoogte van het gat
+             waarvoor de afstand van deze plaats tot de buis maximaal is.
+4p    14     Bereken langs algebraïsche weg deze maximale afstand. Rond je
+             eindantwoord af op hele centimeters.
+
+
+
+
+             Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1025-h-18-2 -o                               11 / 12                            lees verder ►►►
+       Vierkant tussen buigpunten
+
+             De functie f p is voor elke waarde van p gegeven door:
+
+                       f p ( x)  ( x  3 p )( x 2  3 p )
+
+             Voor elke waarde van p hebben de grafieken van f p en f  p beide een
+             buigpunt. In de onderstaande figuur zijn voor een waarde van p met p  0
+             de grafieken van f p en f  p met hun buigpunten A en B getekend. Verder
+             is de rechthoek met hoekpunten A en B getekend waarvan twee zijden
+             evenwijdig zijn met de x-as en de andere twee zijden evenwijdig zijn met
+             de y-as.
+
+             figuur
+
+                                                    y
+
+
+
+
+                                         B
+
+
+                                                                       fp
+                                                              A
+
+
+
+
+                f_ p
+
+
+                                                   O                   x
+
+
+
+             De coördinaten van de buigpunten zijn afhankelijk van p.
+             Er is een positieve waarde van p waarvoor de rechthoek een vierkant is.
+9p    15     Bereken deze waarde van p. Geef je antwoord in twee decimalen
+             nauwkeurig.
+
+
+
+
+VW-1025-h-18-2 -o                                            12 / 12          lees verdereinde
+                                                                                           ►►► 
+

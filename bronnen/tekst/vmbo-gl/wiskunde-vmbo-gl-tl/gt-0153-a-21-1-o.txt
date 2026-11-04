@@ -1,0 +1,265 @@
+                                               Examen VMBO-GL en TL
+
+                                                                  2021
+                                                                         tijdvak 1
+                                                                  dinsdag 18 mei
+                                                                13.30 - 15.30 uur
+
+
+                                                  wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 23 vragen.
+Voor dit examen zijn maximaal 70 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+ GT-0153-a-21-1-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-21-1-o                             2/8                    lees verder ►►►
+      Zeppelin
+
+            Een zeppelin is een luchtschip dat gevuld is met gas, waardoor de
+            zeppelin zweeft. Bij de eerste zeppelins kon het gas langzaam door de
+            wand ontsnappen.
+
+
+
+
+            De zeppelin werd aan het begin van een reis gevuld met 120 000 m3 gas.
+            De formule die hoort bij de hoeveelheid gas in de zeppelin is
+
+                   h = 120 000  0,98t
+
+            Hierin is h de hoeveelheid gas in m3 en t de tijd in dagen.
+
+1p    1     Met hoeveel procent neemt het aantal m3 gas per dag af?
+
+5p    2     Teken in het assenstelsel op de uitwerkbijlage de grafiek die bij de
+            formule hoort. Vul eerst de tabel in, rond af op hele duizendtallen en maak
+            zelf een juiste verdeling bij de verticale as.
+
+3p    3     Bereken bij welke waarde van t in hele dagen de hoeveelheid gas in de
+            zeppelin voor het eerst minder dan 95 000 m3 is. Schrijf je berekening op.
+
+
+
+
+3p    4     Een zeppelin vertrok op vrijdag 14 februari 1936 om 12.00 uur voor een
+            reis van Hamburg naar New York. De aankomst in New York was op
+            zondag 16 februari 1936 om 19.30 uur. In New York is het 6 uur vroeger
+            dan in Hamburg. De afstand die de zeppelin aflegde is 6278 km.
+             Bereken de gemiddelde snelheid in km per uur van de zeppelin tijdens
+                deze reis. Schrijf je berekening op.
+
+
+
+GT-0153-a-21-1-o                             3/8                              lees verder ►►►
+      Droogrek
+
+            Je ziet een foto en een schematische tekening van een droogrek.
+
+
+
+
+            Punt S ligt recht onder punt A en BS = CS = 34 cm.
+            Beantwoord de volgende vragen zonder te meten.
+
+3p    5     Laat met een berekening zien dat AS afgerond 84 cm is.
+
+3p    6     Bereken hoeveel cm AB is. Schrijf je berekening op en rond je antwoord
+            af op hele cm.
+
+            Hoek A1 = 124°. Hoek A2 = hoek A4.
+
+2p    7     Bereken hoeveel graden hoek A2 is. Schrijf je berekening op.
+
+5p    8     AD = AE = 110 cm. In onderstaande tekening is te zien dat de hoogte van
+            punt E gelijk is aan de lengte van FS.
+
+
+
+
+             Bereken de hoogte van punt E. Schrijf je berekening op.
+
+
+GT-0153-a-21-1-o                            4/8                               lees verder ►►►
+      Gasfles
+
+
+
+
+            Een lege gasfles weegt 10,6 kg. Als er 22 liter gas in de gasfles zit, is het
+            totale gewicht van de gasfles 21,8 kg.
+
+2p    9     Bereken hoeveel kg het gewicht van 1 liter gas is. Schrijf je berekening op
+            en rond je antwoord af op één decimaal.
+
+            De inhoud van de gasfles is 27,5 liter. Voor de veiligheid wordt de gasfles
+            met maximaal 22 liter gas gevuld.
+
+2p    10    Bereken voor hoeveel procent de gasfles gevuld is als er 22 liter gas in de
+            gasfles zit. Schrijf je berekening op.
+
+            Het gas wordt gebruikt voor de verwarming van een caravan. Op de
+            uitwerkbijlage staat de lineaire grafiek die hoort bij het verband tussen het
+            aantal branduren van de verwarming en de hoeveelheid gas die is
+            verbruikt. Hierin kun je zien dat als de verwarming 11 uur brandt, er
+            20 liter gas verbruikt is.
+
+3p    11    Bereken na hoeveel branduren er 22 liter gas verbruikt is. Schrijf je
+            berekening op en schrijf je antwoord zo op: … uur en … minuten.
+
+3p    12    Stel de formule op die bij de grafiek hoort.
+
+2p    13    Je kunt ook een grafiek tekenen van het verband tussen de hoeveelheid
+            gas die nog in een gasfles zit en de branduren van de verwarming. De
+            gasfles is met maximaal 22 liter gas gevuld.
+             Teken deze grafiek in het assenstelsel op de uitwerkbijlage.
+
+
+
+
+GT-0153-a-21-1-o                              5/8                               lees verder ►►►
+      Fiets
+
+            Een van de eerste fietsen had een klein achterwiel en een groot voorwiel.
+
+
+
+
+3p    14    De eerste tocht met deze fiets was over een afstand van 40 meter.
+             Hoeveel keer draaide het grote wiel tijdens deze tocht rond? Schrijf je
+               berekening op.
+
+            Tegenwoordig is een moderne variant van deze fiets te koop.
+
+
+
+
+            Het grote voorwiel van deze fiets heeft een diameter van 90 cm. Op het
+            grote voorwiel is het punt P aangegeven. Op de uitwerkbijlage zie je de
+            grafiek van de afgelegde afstand en de hoogte van punt P tijdens één
+            omwenteling van het grote wiel.
+
+3p    15    Geef de coördinaten van de top van de grafiek die op de uitwerkbijlage
+            staat. Schrijf je berekening op.
+
+3p    16    Het kleine achterwiel heeft een diameter van 30 cm. Op het kleine
+            achterwiel is het punt K aangegeven.
+             Teken in het assenstelsel op de uitwerkbijlage de grafiek van de
+               afgelegde afstand en de hoogte van punt K tijdens één omwenteling
+               van het grote voorwiel.
+
+
+
+GT-0153-a-21-1-o                            6/8                              lees verder ►►►
+      Kubuskunstwerk
+
+            Je ziet een kubuskunstwerk en rechts een schets van het kunstwerk.
+            In de schets zie je een kleine kubus in een grote kubus.
+
+
+
+
+            De ribben van de grote kubus zijn 20 cm en de ribben van de kleine kubus
+            zijn 10 cm. De kleine kubus zit precies in het midden van de grote kubus.
+            De lijnstukken AB en ST zijn evenwijdig.
+
+3p    17    Teken het vooraanzicht van het kunstwerk op schaal 1 : 5.
+
+                                  1
+5p    18    De lengte van AS is     deel van de lengte van lichaamsdiagonaal AG.
+                                  4
+             Bereken hoeveel cm de lengte van AS is. Schrijf je berekening op.
+
+            Je ziet hieronder links het vlak ABTS. De afstand tussen de lijnstukken AB
+            en ST is 7,1 cm.
+                                                               V            U
+
+                                                      D                             C
+                                                          S     10 cm   T
+
+
+
+                                               A              20 cm         B
+
+
+4p    19    Bereken hoeveel graden hoek B in het vlak ABTS is. Schrijf je berekening
+            op.
+
+3p    20    Je ziet hierboven rechts de ruimtelijke figuur ABCD STUV. De grote kubus
+            kan volledig worden gevuld met de kleine kubus samen met 6 van deze
+            ruimtelijke figuren.
+             Bereken hoeveel cm3 de inhoud van de ruimtelijke figuur ABCD STUV
+                is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-21-1-o                            7/8                                 lees verder ►►►
+      Loterij
+
+
+
+
+            Mees doet mee aan een loterij. Er is een hoofdprijs van 4,2 miljoen euro
+            te winnen en een jackpotprijs waarbij je 30 jaar lang elke maand
+            10 000 euro krijgt.
+
+2p    21    Bereken bij welke prijs je het meeste geld wint. Schrijf je berekening op.
+
+            Mees heeft de hoofdprijs van 4,2 miljoen euro gewonnen.
+
+3p    22    Mees zet 2 500 000 euro op een beleggingsrekening. Na een jaar staat er
+            nog 2 460 000 euro op deze rekening.
+             Bereken met hoeveel procent dit bedrag is gedaald. Schrijf je
+               berekening op en geef je antwoord in één decimaal.
+
+4p    23    Mees besluit om op 1 januari 2018 de 2 460 000 euro op een
+            spaarrekening te zetten. Hij krijgt 0,12% rente per jaar.
+             Bereken op 1 januari van welk jaar er voor het eerst meer dan
+               2 500 000 euro op deze rekening staat. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-21-1-o                             8/8                               lees verdereinde
+                                                                                            ►►► 
+

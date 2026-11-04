@@ -1,0 +1,590 @@
+                                                                Examen HAVO
+
+                                                                     2022
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-22-2-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                         ad  bc
+              22 kruistabel       , met phi                                   ,
+                              c d              ( a  b)( a  c)(b  d )(c  d )
+              waarin a , b , c en d absolute aantallen zijn.
+
+                  als phi  0,4 of phi  0, 4 , dan zeggen we “het verschil is groot”,
+                  als 0,4  phi  0,2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”,
+                  als 0,2  phi  0,2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1             , met X 1 en X 2 de steekproefgemiddelden
+                                   ( S  S2 )
+                                  2 1
+              ( X 1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+    noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-22-2-o                                  2 / 18                                   lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p (1  p )
+               p  2              , met p de steekproefproportie en n de steekproefomvang.
+                            n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-22-2-o                               3 / 18                           lees verder ►►►
+      Parachutespringen
+
+            Bij parachutespringen spring je uit een vliegtuig. Eerst maak je enige tijd
+            een vrije val. Tijdens die vrije val is de parachute nog niet geopend.
+            Daarna open je de parachute en land je met een veilige snelheid op de
+            grond.
+
+            Bart springt op een hoogte van 4000 meter uit het vliegtuig en maakt dan
+            een vrije val. Na 50 seconden is hij op 1500 meter hoogte en stopt de
+            vrije val, omdat hij dan zijn parachute opent.
+3p    1     Bereken de gemiddelde snelheid in km/uur van Bart tijdens zijn vrije val.
+
+            Tijdens de vrije val die Bart maakt, wordt hij afgeremd door de lucht.
+            Daarom duurt de vrije val van Bart langer dan een theoretische vrije val
+            over dezelfde afstand. Een theoretische vrije val is een val ten gevolge
+            van de zwaartekracht zonder dat de val door de lucht wordt afgeremd.
+            Voor de hoogte van een voorwerp tijdens een theoretische vrije val die
+            begint op een hoogte van 4000 meter geldt de formule:
+                   h  4000  4,9  t 2     (formule 1)
+
+            Hierin is h de hoogte van het voorwerp tijdens de theoretische vrije val
+            (in meters) en t de tijd (in seconden) vanaf het moment dat de
+            theoretische vrije val begint.
+
+            Er kan berekend worden hoeveel seconden de vrije val van Bart van 4000
+            meter naar 1500 meter langer duurt dan een theoretische vrije val over
+            dezelfde afstand.
+4p    2     Voer deze berekening uit. Geef je antwoord in een geheel aantal
+            seconden.
+
+            Figuur 1 is een schets van het globale verloop van een parachutesprong.
+            Nadat de parachutist uit het vliegtuig gesprongen is, maakt hij een vrije
+            val. Zodra de parachute geopend is, neemt de snelheid in korte tijd flink
+            af. Daarna wordt een constante valsnelheid bereikt. Dat wil zeggen: tot
+            aan de landing heeft de parachutist dezelfde valsnelheid.
+
+
+
+
+HA-1024-a-22-2-o                             4 / 18                            lees verder ►►►
+            figuur 1
+
+
+
+
+            De constante valsnelheid op het laatste deel noemen we v (in meters per
+            seconde). Deze snelheid is afhankelijk van de massa m (in kg) van de
+            parachutist (in deze opgave is dat altijd inclusief kleding en parachute) en
+            van de wrijvingscoëfficiënt W van de parachute. Deze wrijvingscoëfficiënt
+            is een getal dat afhangt van onder andere de grootte, de vorm en het
+            materiaal van de parachute. Zo geldt bijvoorbeeld: hoe groter de
+            parachute, hoe groter de wrijvingscoëfficiënt.
+            Bij een grotere wrijvingscoëfficiënt heb je meer wrijving met de lucht,
+            waardoor je minder snel valt.
+            In figuur 2 is voor een aantal waarden van de wrijvingscoëfficiënt W te
+            zien hoe v afhangt van m. Deze figuur staat ook op de uitwerkbijlage.
+
+
+
+
+HA-1024-a-22-2-o                             5 / 18                            lees verder ►►►
+            figuur 2
+
+
+
+
+            We kijken nu naar parachutisten met een massa van 90 kg die sprongen
+            maken met parachutes met verschillende wrijvingscoëfficiënten W.
+3p    3     Onderzoek met behulp van de figuur op de uitwerkbijlage of de constante
+            valsnelheid v van deze personen omgekeerd evenredig is met de
+            wrijvingscoëfficiënt W van de parachutes.
+
+            Bij figuur 2 hoort de volgende formule voor de constante valsnelheid:
+                                m
+                   v  3,13               (formule 2)
+                                W
+            Hierin is v de constante valsnelheid in meters per seconde, m de massa
+            van de parachutist in kg en W de wrijvingscoëfficiënt van de parachute.
+
+            Tina is een parachutist met een massa van 79 kg. De wrijvingscoëfficiënt
+            van haar parachute is 45. Met deze parachute maakt zij een sprong.
+            Precies 34 seconden na de afsprong is zij op 1300 meter hoogte en
+            bereikt zij haar constante valsnelheid. Op dat moment start het laatste
+            gedeelte van haar parachutesprong.
+3p    4     Bereken met behulp van formule 2 hoelang haar totale sprong duurt. Geef
+            je antwoord in een geheel aantal seconden.
+
+
+
+
+HA-1024-a-22-2-o                            6 / 18                           lees verder ►►►
+            We kijken nu naar één bepaalde parachute met een wrijvingscoëfficiënt
+            van 40. Personen met verschillende massa’s kunnen met deze parachute
+            gaan springen. Formule 2 kan dan worden herleid tot de volgende vorm:
+
+                   v  ...  m             (formule 3)
+3p    5     Geef deze herleiding. Geef daarbij het getal op de puntjes in twee
+            decimalen.
+
+
+
+
+HA-1024-a-22-2-o                            7 / 18                           lees verder ►►►
+      Spoedeisende ritten van ambulances
+
+            De ambulancezorg is in Nederland per
+            regio georganiseerd. Er zijn 25 regio’s.
+            Elke regio heeft zijn eigen Regionale
+            Ambulancevoorziening (RAV). Elke RAV
+            beschikt over een aantal ambulances en
+            een meldkamer.
+
+            Wanneer er een melding bij de
+            meldkamer binnenkomt, moet men de
+            mate van urgentie van de melding vaststellen en zorgen voor de inzet van
+            een ambulance: een ambulancerit. De mate van urgentie kan zijn:
+             Hoge urgentie: de benodigde zorg is spoedeisend en er is sprake van
+               direct levensgevaar voor de patiënt. We noemen dit een A1-rit.
+             Lage urgentie: de benodigde zorg is spoedeisend, maar er is geen
+               direct levensgevaar voor de patiënt. We noemen dit een A2-rit.
+             Geen urgentie: de benodigde zorg is niet spoedeisend. We noemen dit
+               een B-rit.
+
+            De responstijd is de tijd tussen het aannemen van de telefoon in de
+            meldkamer en de aankomst van de ambulance bij de patiënt.
+
+            In een rapport over de ambulancezorg in Nederland spelen de volgende
+            vier statistische variabelen een rol:
+             regio
+             mate van urgentie (van een melding bij de meldkamer)
+             aantal ambulanceritten (per jaar per regio)
+             responstijd (van een ambulancerit)
+
+            Op de uitwerkbijlage staan deze vier variabelen in een tabel.
+4p    6     Geef voor elk van de vier variabelen in de tabel op de uitwerkbijlage aan
+            welke soort variabele het betreft. Zet per variabele precies één kruisje.
+
+
+
+
+HA-1024-a-22-2-o                            8 / 18                           lees verder ►►►
+            In de rest van de opgave kijken we alleen naar A1-ritten en A2-ritten.
+            Omdat er bij A1-ritten sprake is van direct levensgevaar voor de patiënt,
+            zijn de responstijden van deze ritten over het algemeen korter dan de
+            responstijden van de A2-ritten.
+
+            In de figuur staan de relatieve cumulatieve frequentiepolygonen van de
+            responstijden van de A1-ritten en die van de responstijden van de
+            A2-ritten in 2014. De figuur staat twee keer op de uitwerkbijlage vergroot
+            afgedrukt. In de figuur is niet aangegeven welke polygoon bij de A1-ritten
+            hoort en welke bij de A2-ritten.
+
+            figuur
+
+
+
+
+3p    7     Bepaal met behulp van de figuur op de uitwerkbijlage de
+            interkwartielafstand van de responstijd van de A1-ritten. Geef hierbij aan
+            welke polygoon je gebruikt hebt en licht je keuze toe.
+
+            Het gedeelte van de rechter polygoon waarbij de responstijden tussen
+            18 en 30 minuten liggen, kan benaderd worden met de grafiek van een
+            formule van de volgende vorm:
+                           100
+                   P
+                        1  27  a t
+            Hierin is P het cumulatieve percentage, t de responstijd in minuten en
+            a een getal.
+4p    8     Bepaal de waarde van a. Geef je antwoord in één decimaal. Je kunt
+            hierbij gebruikmaken van de figuur op de uitwerkbijlage.
+
+
+
+
+HA-1024-a-22-2-o                            9 / 18                            lees verder ►►►
+      B-papier in een enveloppe
+
+            Papier is er in verschillende soorten en maten. Een internationaal gebruikt
+            formaat is het B-formaat. Bij dit formaat is een vel papier met een breedte
+            van 1000 mm en een hoogte van 1414 mm als basisformaat gekozen. Dit
+            is het zogenaamde B0-formaat. Als een vel papier met B0-formaat
+            gehalveerd wordt, ontstaat een vel papier in B1-formaat, waarvan de
+            afmetingen 707 mm bij 1000 mm zijn. Opnieuw halveren geeft een vel
+            papier in B2-formaat, dat gehalveerd een vel papier in B3-formaat
+            oplevert, enzovoorts. Zie de figuur.
+
+            figuur
+
+
+
+
+            Het kleinste B-formaat dat gebruikt wordt, is het B10-formaat.
+3p    9     Bereken de afmetingen van een vel papier in B10-formaat. Geef je
+            antwoord in een geheel aantal mm.
+
+
+
+
+HA-1024-a-22-2-o                           10 / 18                            lees verder ►►►
+            In de rest van deze opgave kijken we naar de oppervlakte van papier en
+            enveloppen. Het gaat dan telkens om de oppervlakte van de voorkant. Er
+            geldt: oppervlakte = breedte  hoogte.
+
+            De oppervlakte van een vel papier in B4-formaat is 88 375 mm2. Om zo’n
+            vel papier ongevouwen te versturen is een speciaal formaat enveloppe
+            ontwikkeld, de zogenaamde EB4-enveloppe.
+
+            Een enveloppe in EB4-formaat heeft een breedte b van 262 mm en een
+            hoogte h van 371 mm.
+            De oppervlakte van deze enveloppe is groter dan de oppervlakte van een
+            vel papier in B4-formaat.
+3p    10    Bereken hoeveel procent groter. Geef je antwoord in gehele procenten.
+
+            Voor enveloppen EBn, waarin n het formaatnummer is, bestaan er
+            formules voor de breedte en de hoogte. Voor de hoogte h in mm geldt de
+            volgende formule:
+
+                   h  1484  2  2 n
+                                   1
+
+
+
+
+3p    11    Beredeneer met deze formule, zonder getallenvoorbeelden te gebruiken
+            of een schets/tekening van de grafiek van h te maken, of de hoogte van
+            de enveloppe kleiner of groter wordt als het formaatnummer groter wordt.
+
+            Voor de breedte b in mm van enveloppen EBn, waarin n het
+            formaatnummer is, geldt de volgende formule:
+
+                   b  1048  2  2 n
+                                  1
+
+
+
+
+            Hoe groter het formaatnummer, des te kleiner is de breedte van de
+            enveloppe.
+3p    12    Bereken vanaf welk formaatnummer de breedte van de enveloppe kleiner
+            is dan 100 mm.
+
+
+
+
+HA-1024-a-22-2-o                          11 / 12                           lees verder ►►►
+      Recordtijden van schaatssters
+
+            In deze opgave vergelijken we de prestaties van schaatssters, ook al
+            hebben die schaatssters nooit in hetzelfde toernooi geschaatst. Hiervoor
+            maken we gebruik van de persoonlijke recordtijden van schaatssters op
+            zes verschillende afstanden, namelijk de 500, 1000, 1500, 3000, 5000 en
+            10 000 meter. In deze opgave beperken we ons tot 86 topschaatssters en
+            hun persoonlijke recordtijden zoals die begin 2016 bekend waren.
+
+            De persoonlijke recordtijden van deze 86 schaatssters op de 500 meter
+            en op de 1000 meter zijn weergegeven in een spreidingsdiagram. Zie
+            figuur 1. Elke stip geeft één schaatsster weer. Deze figuur staat ook twee
+            keer op de uitwerkbijlage.
+
+            figuur 1
+
+
+
+
+            Bij het spreidingsdiagram worden de volgende uitspraken gedaan over de
+            resultaten van deze 86 schaatssters:
+            a Meer dan 90% van de schaatssters heeft de 500 meter afgelegd in
+                minder dan 45,0 seconden.
+            b De mediaan van de tijd op de 1000 meter is ongeveer 81,5 seconden.
+            c De drie snelste schaatssters op de 500 meter zijn ook de drie snelste
+                schaatssters op de 1000 meter.
+6p    13    Onderzoek van elke uitspraak of deze juist is of onjuist. Je kunt
+            gebruikmaken van de figuren op de uitwerkbijlage.
+
+
+
+HA-1024-a-22-2-o                           12 / 18                           lees verder ►►►
+            Om de tijden op verschillende afstanden met elkaar te kunnen vergelijken,
+            wordt elke tijd omgerekend naar de gemiddelde tijd per 500 meter.
+            Stel bijvoorbeeld dat een schaatsster 15 minuten en 20,4 seconden over
+            de 10 000 meter doet. Gemiddeld doet zij dan over 500 meter
+             15  60  20, 4
+                              500  46, 02 seconden.
+                 10 000
+            Voor de vier langste afstanden worden de persoonlijke recordtijden van
+            alle 86 schaatssters omgerekend naar de gemiddelde tijd per 500 meter.
+            Deze omgerekende tijden zijn weergegeven in boxplots. Zie figuur 2.
+            Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 2    omgerekende tijd (gemiddelde tijd per 500 meter)
+
+
+
+
+            Als je de boxplots onderling vergelijkt, dan kun je met behulp van het
+            formuleblad concluderen dat er een groot verschil is tussen de
+            omgerekende tijden op de 1500 meter en die op de 10 000 meter. Er zijn
+            meer afstanden waarbij er sprake is van een groot verschil.
+3p    14    Noem elk tweetal afstanden waarbij er sprake is van een groot verschil
+            tussen de omgerekende tijden. Je kunt hierbij gebruikmaken van de figuur
+            op de uitwerkbijlage. Licht je antwoord toe.
+
+
+
+
+HA-1024-a-22-2-o                               13 / 18                      lees verder ►►►
+            In de tabel staan de persoonlijke recordtijden van twee van de
+            86 schaatssters. Zo zie je dat de persoonlijke recordtijd op de 1000 meter
+            van Martina Sáblíková 1:15,86 is. Zij deed er dus 1 minuut, 15 seconden
+            en 86 honderdsten van een seconde over.
+
+            tabel
+                                                          Martina      Caroline
+                                                         Sáblíková    Farestveit
+              recordtijd op de 500 meter in min:sec       0:39,23       0:44,83
+              recordtijd op de 1000 meter in min:sec      1:15,86       1:30,03
+              recordtijd op de 1500 meter in min:sec      1:53,44       2:17,08
+              recordtijd op de 3000 meter in min:sec      3:55,10       4:42,34
+              recordtijd op de 5000 meter in min:sec      6:42,66       8:06,64
+              recordtijd op de 10 000 meter in min:sec    13:48,33     16:54,71
+
+            Sáblíková wordt gezien als een van de beste schaatssters ooit. Begin
+            2016 was zowel haar persoonlijke recordtijd op de 5000 meter als haar
+            persoonlijke recordtijd op de 10 000 meter de beste van de 86
+            schaatssters.
+            Met behulp van de tabel, figuur 1 en figuur 2 kun je ook voor andere
+            afstanden onderzoeken of Sáblíková’s persoonlijke recordtijden de beste
+            waren van deze 86 schaatssters.
+3p    15    Onderzoek dit zowel voor de 500 meter als voor de 1500 meter. Je kunt
+            hierbij gebruikmaken van de figuren op de uitwerkbijlage.
+
+            In de tabel staan ook de persoonlijke recordtijden van Caroline Farestveit.
+            Een fan van Farestveit doet de volgende uitspraak: “Als je Farestveit
+            vergelijkt met de 85 andere schaatssters, dan presteert Farestveit beter
+            op de 10 000 meter dan op de 5000 meter.”
+3p    16    Leg uit dat de uitspraak van de fan juist is.
+
+
+
+
+HA-1024-a-22-2-o                            14 / 18                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-22-2-o                       15 / 18   lees verder ►►►
+      Slanke vleugels
+
+            In figuur 1 zie je twee vliegtuigen, de Schleicher ASH 31 Glider en de
+            Piper Cherokee. De slankheid van een vliegtuig wordt vaak uitgedrukt in
+            een getal S. In figuur 1 zie je van beide vliegtuigen de bijbehorende
+            waarde van S. De Schleicher heeft een hogere waarde van S, wat wil
+            zeggen dat die slanker is dan de Piper.
+
+            figuur 1
+
+
+
+
+           S wordt berekend met de                   figuur 2
+           volgende formule:
+                        w
+                   S        (formule 1)
+                        b
+           Hierin is w de spanwijdte in
+           meters en b de gemiddelde
+           vleugelbreedte in meters. Zie
+           figuur 2.
+
+            In deze opgave berekenen we de vleugeloppervlakte van een vliegtuig
+            met de volgende formule:
+                   A  wb                 (formule 2)
+            Hierin is A de vleugeloppervlakte in m2, w de spanwijdte in meters en b de
+            gemiddelde vleugelbreedte in meters.
+
+
+            De Schleicher ASH 31 Glider heeft een spanwijdte van 21 meter.
+3p    17    Bereken de vleugeloppervlakte van dit vliegtuig. Geef je antwoord in een
+            geheel aantal m2.
+
+
+
+
+HA-1024-a-22-2-o                           16 / 18                           lees verder ►►►
+            Uit formule 2 volgt:
+                        A
+                   b                        (formule 3)
+                        w
+            De Piper Cherokee met slankheid 5,6 heeft een vleugeloppervlakte van
+            15,1 m2. Door gebruik te maken van formule 1 en formule 3 kun je de
+            spanwijdte van dit vliegtuig berekenen.
+4p    18    Bereken de spanwijdte van de Piper Cherokee in meters. Geef je
+            antwoord in één decimaal.
+
+            De getallen in figuur 3 geven     figuur 3
+            het brandstofverbruik V (in
+            kg) weer voor een vlucht van
+            11 000 km afhankelijk van de
+            vleugeloppervlakte A en de
+            slankheid S. Figuur 3 staat
+            vergroot weergegeven op de
+            uitwerkbijlage.
+
+
+
+
+            De lijnen die alle punten met gelijk brandstofverbruik met elkaar
+            verbinden, worden isolijnen genoemd. Tussen twee opeenvolgende
+            isolijnen zit steeds een verschil van 2500 kg.
+
+            In figuur 3 kun je bijvoorbeeld aflezen dat een vliegtuig met een
+            vleugeloppervlakte van 795 m2 en een slankheid van 8 op een vlucht van
+            11 000 km 212 500 kg brandstof verbruikt. Mark zegt:
+            “Als dit vliegtuig 25 m2 minder vleugeloppervlakte zou hebben en de
+            slankheid zou toenemen tot 9, dan zou dat flink wat brandstof besparen.”
+3p    19    Bereken hoeveel kg brandstof dit vliegtuig zo aan brandstof zou kunnen
+            besparen op een vlucht van 11 000 km. Je kunt bij het beantwoorden van
+            deze vraag gebruikmaken van de figuur op de uitwerkbijlage.
+
+            Het vergroten van de slankheid van een vliegtuig is de moeite waard:
+            een ontwerper van vliegtuigen kan bij een gegeven vleugeloppervlakte
+            veel toekomstig brandstofverbruik besparen door de slankheid van het
+            vliegtuig groter te maken.
+
+            Bekijk in figuur 3 het gebied tussen S  6 en S  7 . Op de verticale lijn met
+            A  760 liggen de isolijnen ongeveer even ver van elkaar.
+            Voor A  760 en S tussen 6 en 7 geldt daarom dat het verband tussen V
+            en S lineair is.
+4p    20    Stel een formule op die V uitdrukt in S voor A  760 en S tussen 6 en 7. Je
+            kunt hierbij gebruikmaken van de figuur op de uitwerkbijlage.
+
+
+
+
+HA-1024-a-22-2-o                             17 / 18                            lees verder ►►►
+      Woningtekort
+
+            In het rapport ‘Cijfers over wonen en bouwen 2016’ van het Ministerie van
+            Binnenlandse Zaken staan voorspellingen van de woningbehoefte en de
+            woningvoorraad in Nederland.
+
+            Volgens deze voorspellingen zal in 2025 de woningbehoefte gelijk zijn
+            aan 8 334 000 woningen.
+            De woningvoorraad is in 2025 gelijk aan 8 148 000 woningen.
+
+            Er is in 2025 dus een woningtekort van 186 000 woningen. Als je berekent
+            hoe groot dit tekort is als percentage van de woningvoorraad, dan krijg je
+            het relatieve woningtekort. In 2025 is dit gelijk aan 2,3%, want:
+                   8334000  8148000
+                                     100%  2,3%
+                       8 148 000
+            In de tabel zie je ook voorspellingen voor het jaar 2030.
+
+            tabel
+                                                           2025                    2030
+            woningbehoefte                             8 334 000             8 511 000
+            woningvoorraad                             8 148 000             8 335 000
+            woningtekort                                 186 000              176 000
+            relatieve woningtekort                         2,3%                    2,1%
+
+            Veronderstel dat men het woningtekort wil terugdringen, zodat in het jaar
+            2040 het relatieve woningtekort 1% is.
+
+            Neem het volgende aan:
+             De woningbehoefte groeit van 2025 tot 2030 jaarlijks met een vast
+                percentage. Na 2030 blijft dit met hetzelfde percentage doorgroeien.
+             De woningvoorraad neemt vanaf 2030 toe met een constant aantal
+                woningen per jaar.
+8p    21    Bereken met welk constant aantal woningen per jaar de woningvoorraad
+            vanaf 2030 moet toenemen zodat het relatieve woningtekort in 2040 gelijk
+            is aan 1%. Geef je antwoord in gehele duizendtallen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1024-a-22-2-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

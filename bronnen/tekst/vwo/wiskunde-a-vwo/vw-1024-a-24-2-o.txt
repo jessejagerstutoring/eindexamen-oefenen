@@ -1,0 +1,490 @@
+                                                                 Examen VWO
+
+                                                                     2024
+                                                                            tijdvak 2
+                                                                  donderdag 20 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 21 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-24-2-o
+OVERZICHT FORMULES
+
+
+Differentiëren
+naam van de regel                  functie                         afgeleide
+
+somregel                           s ( x)  f ( x)  g ( x)        s' ( x)  f ' ( x)  g' ( x)
+
+verschilregel                      v( x )  f ( x )  g ( x )      v' ( x)  f ' ( x)  g' ( x)
+
+productregel                       p( x)  f ( x)  g ( x)          p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                             f ( x)                             f ' ( x)  g ( x)  f ( x )  g' ( x )
+quotiëntregel                      q( x)                          q' ( x ) 
+                                             g ( x)                                          ( g ( x)) 2
+                                                                   k' ( x)  f ' ( g ( x))  g' ( x) of
+kettingregel                       k ( x)  f ( g ( x))            dk df dg
+                                                                             
+                                                                   dx dg dx
+
+
+Logaritmen
+regel                                                     voorwaarde
+g
+    log  a   g log  b   g log  ab                 g > 0, g  1, a > 0, b > 0
+
+                                    a
+g
+    log  a   g log  b   g log                     g > 0, g  1, a > 0, b > 0
+                                    b
+g
+         
+    log a p  p  g log  a                              g > 0, g  1, a > 0
+                   p
+                       log  a 
+g
+    log  a   p                                         g > 0, g  1, a > 0, p > 0, p  1
+                       log  g 
+
+
+
+
+VW-1024-a-24-2-o                                                2 / 14                                               lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-24-2-o                        3 / 14   lees verder ►►►
+      Duurzamer douchen
+
+            De laatste tientallen jaren wordt er door de overheid aandacht besteed
+            aan duurzamer leven.
+
+            Op de website milieucentraal.nl zijn onder andere de volgende tips over
+            duurzamer douchen te vinden:
+             Gebruik een waterbesparende douchekop, die laat 7,2 liter water per
+               minuut door in plaats van 10 liter water per minuut bij een gewone
+               douchekop.
+             Douch korter, 5 minuten in plaats van 7,4 minuten.
+             Douch minder vaak, niet dagelijks, maar vijf keer per week en was je
+               de andere twee keer bij de wastafel. Bij wassen bij de wastafel wordt
+               gemiddeld maar 3 liter water per keer verbruikt.
+
+            We bekijken een Nederlander die dagelijks 7,4 minuten met een gewone
+            douchekop doucht. Deze persoon besluit alle hierboven genoemde tips op
+            te volgen. Hierdoor neemt het waterverbruik per week flink af.
+3p    1     Bereken met hoeveel procent het waterverbruik afneemt. Geef je
+            antwoord in een geheel aantal procenten.
+
+            Het water dat uit een douchekop komt, noemen we douchewater. In het
+            vervolg van deze opgave nemen we het volgende aan:
+             De temperatuur van douchewater is gelijk aan 38 °C.
+             Tijdens een douchebeurt wordt 7,2 liter douchewater per minuut
+               gebruikt.
+
+            In de meeste huishoudens wordt voor douchewater koud water met warm
+            water vermengd. De verhouding tussen de hoeveelheid koud en warm
+            water bepaalt de temperatuur van het douchewater.
+
+            Als er 3,2 liter koud water van 10 °C met 4 liter warm water van 60 °C
+            vermengd wordt, ontstaat er 7,2 liter douchewater van afgerond 38 °C.
+3p    2     Bereken in één decimaal nauwkeurig de temperatuur in °C van dit
+            douchewater.
+
+
+
+
+VW-1024-a-24-2-o                           4 / 14                           lees verder ►►►
+            Water verwarmen kost energie. Door gebruik te maken van douche
+            warmteterugwinning kan er duurzamer worden gedoucht. Bij deze
+            techniek wordt er uit het water dat het riool instroomt warmte gehaald,
+            waardoor er minder energie nodig is om douchewater (van 38 °C) te
+            verkrijgen. Het apparaat waarmee dit gebeurt, wordt een douche-wtw
+            genoemd.
+
+            Als er geen douche-wtw geïnstalleerd is, zijn de energiekosten tijdens een
+            douchebeurt gemiddeld 5,8 cent per minuut.
+
+            Als er wel een douche-wtw geïnstalleerd is, zijn de energiekosten voor
+            een douchebeurt te berekenen met de formule
+                   K  5, 75  2,92t
+            Hierin is K de energiekosten per douchebeurt in centen en t de tijd in
+            minuten die een douchebeurt duurt, met t groter dan 0.
+
+            Een vierpersoonshuishouden laat bij de verbouwing van de badkamer
+            voor 650 euro een douche-wtw installeren. De energiekosten om
+            douchewater te verkrijgen gaan hierdoor omlaag in vergelijking met de
+            situatie zonder douche-wtw. We nemen aan dat alle vier de personen vijf
+            dagen per week douchen en dat elke douchebeurt vijf minuten duurt.
+            Op een bepaald moment zal dit huishouden met de douche-wtw in totaal
+            net zoveel aan energiekosten voor het douchen bespaard hebben als dat
+            de installatie van de douche-wtw gekost heeft.
+4p    3     Bereken na hoeveel jaar dit het geval is. Geef je antwoord in één
+            decimaal.
+
+
+
+
+VW-1024-a-24-2-o                            5 / 14                            lees verder ►►►
+      Wonen in New York
+
+            Wonen in het centrum van een grote stad is in het algemeen duurder dan
+            wonen buiten het centrum. In figuur 1 staan de huurprijzen per maand in
+            2016 van 1- en 3-kamerappartementen in New York, uitgezet tegen de
+            reistijd met het openbaar vervoer tot 42nd Street, een van de
+            belangrijkste straten in het commerciële centrum. Figuur 1 staat ook
+            vergroot op de uitwerkbijlage.
+
+            figuur 1
+
+
+
+
+            Een punt in figuur 1 stelt niet de huurprijs van één appartement voor,
+            maar de gemiddelde huurprijs van alle appartementen met dezelfde
+            reistijd.
+
+            Verhuurders van appartementen gebruiken soms de volgende vuistregel:
+
+            Voor elke kamer meer in een appartement stijgt de huurprijs met
+            ongeveer 25%.
+
+            We bekijken appartementen met een reistijd van 25 minuten.
+3p    4     Onderzoek met behulp van figuur 1 op de uitwerkbijlage of de gemiddelde
+            huurprijs van deze appartementen aan bovenstaande vuistregel voldoet.
+
+
+
+
+VW-1024-a-24-2-o                            6 / 14                            lees verder ►►►
+            In figuur 2 op de uitwerkbijlage zijn aan figuur 1 twee trendlijnen
+            toegevoegd. In het vervolg van deze opgave gaan we uit van deze
+            trendlijnen en niet meer van de individuele datapunten.
+
+            We bekijken een 1-kamerappartement met een reistijd van 15 minuten tot
+            42nd Street. Voor de huurprijs van dit appartement kun je ook een
+            3-kamerappartement huren. De reistijd tot 42nd Street vanaf dat
+            3-kamerappartement is wel langer dan de reistijd vanaf het
+            1-kamerappartement.
+3p    5     Bepaal met behulp van figuur 2 op de uitwerkbijlage hoeveel langer de
+            reistijd vanaf dat 3-kamerappartement is. Licht je antwoord toe en geef je
+            antwoord in hele minuten.
+
+            De formule die past bij de trendlijn van de 3-kamerappartementen is:
+                    H  20 367  r 0,571
+            Hierin is H de huurprijs per maand van een 3-kamerappartement in dollars
+            en r de reistijd tot 42nd Street in minuten.
+
+3p    6     Beredeneer aan de hand van de formule, zonder getallen in te vullen of
+            een schets/tekening te maken, dat de huurprijs H hoger wordt als de
+            reistijd r korter wordt.
+
+            Voor 1-kamerappartementen is de formule van de trendlijn:
+                    P  5800  2572  log(r )
+            Hierin is P de huurprijs per maand van een 1-kamerappartement in dollars
+            en r de reistijd tot 42nd Street in minuten.
+
+            Er zijn in New York bewoners van een 1-kamerappartement met een
+            bepaalde reistijd tot 42nd Street die theoretisch minstens $ 75 huur
+            zouden kunnen besparen door één minuut verder weg van 42nd Street in
+            een ander 1-kamerappartement te gaan wonen.
+            Ofwel, voor deze bewoners geldt: als de reistijd tot 42nd Street met één
+            minuut toeneemt, dan daalt de huurprijs met minstens $ 75.
+3p    7     Onderzoek met behulp van de formule voor P hoelang de reistijd van deze
+            bewoners maximaal is. Geef je antwoord in hele minuten.
+
+
+
+
+VW-1024-a-24-2-o                                7 / 14                       lees verder ►►►
+      Daglengte
+
+            Gedurende het hele jaar veranderen het tijdstip van zonsopkomst en het
+            tijdstip van zonsondergang van dag tot dag. In de figuur zie je periodieke
+            grafieken van de tijdstippen van de zonsopkomst en de zonsondergang in
+            De Bilt voor een jaar met 365 dagen. In de figuur is geen rekening
+            gehouden met de zomertijd.
+
+            figuur
+
+
+
+
+            Het meest vroege tijdstip waarop de zon onder gaat is op 12 december
+            om 16:30 uur. Het meest late tijdstip dat de zon onder gaat is in de zomer
+            om 21:00 uur. Met behulp van deze gegevens kan voor het tijdstip van de
+            zonsondergang een model opgesteld worden van de vorm
+                     Tonder  a  b  sin(c (t  d ))
+            Hierin is Tonder het tijdstip van de zonsondergang in uren en t de tijd in
+            gehele dagen met t  0 op 1 januari. Bijvoorbeeld bij 12 december hoort
+            t  345 . Dit geeft Tonder  16,5 dus de zon gaat dan onder om 16:30 uur.
+
+            Na afronding van c en d geldt: Tonder  18, 75  2, 25sin(0, 0172(t  71)) .
+
+3p    8     Laat zien hoe de waarden van a, b, c en d uit de gegevens volgen.
+
+
+
+
+VW-1024-a-24-2-o                                        8 / 14                     lees verder ►►►
+            Het model voor het tijdstip van de zonsopkomst is:
+                   Top  6,58  2, 25sin(0,0172(t  272))
+
+            Hierin is Top het tijdstip van de zonsopkomst in uren en t de tijd in gehele
+            dagen met t  0 op 1 januari.
+
+3p    9     Bereken hoeveel dagen van het jaar de zonsopkomst in De Bilt vóór
+            06:30 uur plaatsvindt.
+
+            Het meest vroege tijdstip van zonsopkomst valt later in het jaar dan het
+            meest late tijdstip van de zonsondergang.
+3p   10     Bereken hoeveel dagen later.
+
+            Doordat het tijdstip van zonsopkomst en het tijdstip van zonsondergang
+            gedurende het hele jaar veranderen, verandert gedurende het jaar ook de
+            daglengte, dat is de tijd tussen zonsopkomst en zonsondergang.
+
+            Op 21 maart begint op het noordelijk halfrond de lente. De daglengte
+            neemt dan het meest toe.
+4p   11     Bereken met hoeveel minuten per dag de daglengte in De Bilt toeneemt
+            als de lente begint. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1024-a-24-2-o                              9 / 14                           lees verder ►►►
+      Minder werken
+
+            In 2020 publiceerde de onderzoeker Charlie Giattino de resultaten van
+            een onderzoek naar de welvaart in een land. Welvaart is een maat voor
+            hoe goed mensen het financieel hebben en wordt (vaak) uitgedrukt in
+            dollars.
+
+            Volgens zijn onderzoek was de verdubbelingstijd van de welvaart in
+            Duitsland in de periode 1850-1940 gelijk aan 47 jaar.
+
+            Verder volgde uit het onderzoek dat de welvaart in Duitsland vanaf 1950
+            bij benadering toeneemt volgens de formule:
+                   WD  6742e0,0315t                      (formule 1)
+
+            Hierin is WD de welvaart in Duitsland in dollars en t de tijd in gehele jaren
+            met t  0 het jaar 1950.
+
+            De welvaart nam in de periode 1850-1940 langzamer toe dan dat hij sinds
+            1950 toeneemt.
+4p   12     Bereken het verschil tussen de verdubbelingstijd van de welvaart in
+            Duitsland in de periode 1850-1940 en de verdubbelingstijd sinds 1950.
+            Geef je antwoord in gehele jaren.
+
+            Giattino deed ook onderzoek naar het verband tussen de welvaart in een
+            land en het aantal uren dat een werknemer in dat land gemiddeld per jaar
+            werkt. Voor Duitsland wordt dit verband gegeven door de formule:
+                   U D  529, 4ln(WD )  6983            (formule 2)
+
+            Hierin is U D het aantal uren dat een werknemer in Duitsland gemiddeld
+            per jaar werkt en WD de welvaart in Duitsland in dollars. Op basis van
+            formule 2 concludeerde Giattino dat naarmate de welvaart toeneemt, het
+            aantal gewerkte uren afneemt.
+
+            Als de welvaart in Duitsland met 50% toeneemt, dan neemt het gemiddeld
+            aantal gewerkte uren per werknemer per jaar met een vast aantal af.
+3p   13     Bereken hoeveel uur dit volgens de formule voor U D is. Geef je antwoord
+            in gehele uren.
+
+
+
+
+VW-1024-a-24-2-o                            10 / 14                             lees verder ►►►
+            Iemand doet de volgende bewering:
+
+            Als in Duitsland de welvaart toeneemt dan neemt het gemiddeld aantal
+            gewerkte uren per werknemer per jaar sneller af bij een hogere welvaart
+            dan bij een lagere welvaart.
+
+4p   14     Beredeneer aan de hand van een formule van de afgeleide van U D ,
+            zonder getallen in te vullen of een schets/tekening te maken, of deze
+            bewering juist is.
+
+            Door formule 1 en formule 2 te combineren, kan een formule opgesteld
+            worden die het verband benadert tussen het gemiddeld aantal gewerkte
+            uren per werknemer per jaar in Duitsland en het jaar. Deze formule is van
+            de vorm U D  pt  q .
+5p   15     Stel deze formule op. Geef p in drie decimalen en q als een geheel getal.
+
+            In Nederland groeit de welvaart bij benadering ook exponentieel sinds
+            1950. In 1960 was de welvaart in Nederland $ 11 529 en in 2000 was dat
+            $ 34 497. Uit de gegevens volgt dat de welvaart in Nederland kan worden
+            beschreven met de formule:
+                   WN  8766  1,028t                      (formule 3)
+
+            Hierin is WN de welvaart in Nederland in dollars en t de tijd in gehele
+            jaren met t  0 het jaar 1950.
+
+            In formule 3 is de beginhoeveelheid afgerond op helen tot 8766 en de
+            jaarlijkse groeifactor is afgerond op drie decimalen tot 1,028.
+4p   16     Bereken de beginhoeveelheid in één decimaal en de jaarlijkse groeifactor
+            in vier decimalen.
+
+            In 1950 was de welvaart in Nederland groter dan in Duitsland. Bovendien
+            nam de welvaart in Nederland toen sneller toe dan die in Duitsland.
+            Decennia later haalde de welvaart in Duitsland die in Nederland in. Hieruit
+            volgt dat vanaf een bepaald moment de welvaart in Duitsland sneller
+            toenam dan die in Nederland.
+                                                       dWD    dWN
+4p   17     Bereken met behulp van de afgeleiden           en     vanaf welk jaar dit
+                                                        dt     dt
+            het geval was.
+
+
+
+
+VW-1024-a-24-2-o                             11 / 14                           lees verder ►►►
+      Krattenbrug
+
+            Studenten van de Technische Universiteit Eindhoven hebben in 2016 een
+            brug van kratten gebouwd. Zie de foto. Naast de foto zie je ook een
+            afbeelding van een computeranimatie uit de ontwerpfase van de
+            krattenbrug.
+
+      foto                                            afbeelding
+
+
+
+
+            De krattenbrug bestaat uit twee even grote torens met daartussen een
+            overspanning.
+
+            Elke toren bestaat uit 29 lagen gestapelde kratten. De bovenste laag
+            geven we nummer 1, de laag direct daaronder nummer 2, enzovoorts.
+
+            Voor de bovenste 11 lagen geldt voor het aantal kratten per laag:
+                   A(n)  3,5n  3,5   voor lagen met een oneven nummer
+                   A(n)  3,5n  3     voor lagen met een even nummer
+            Hierin is A(n) het aantal kratten en n het nummer van de laag.
+
+            Elke laag (behalve de bovenste laag natuurlijk) met een oneven nummer
+            heeft eenzelfde aantal kratten meer dan de direct daarboven gelegen laag
+            met een even nummer.
+3p   18     Toon dit, zonder gebruik te maken van een getallenvoorbeeld, aan.
+
+            Neem aan dat voor de overspanning in totaal 4950 kratten zijn gebruikt.
+            Voor beide torens geldt dat laag 12 tot en met laag 29 elk evenveel
+            kratten bevatte als laag 11.
+4p   19     Bereken het totaal aantal kratten in de hele krattenbrug.
+
+
+
+
+VW-1024-a-24-2-o                            12 / 14                             lees verder ►►►
+            Op de foto is te zien dat de krattenbrug over een rivier is gebouwd. Deze
+            rivier, de Dommel, stroomt midden onder de brug door. In de figuur is de
+            situatie schematisch weergegeven in een assenstelsel. In deze figuur zijn
+            van de brug alleen de torens en de onderkant van de overspanning
+            weergegeven. Deze onderkant noemen we de boog.
+
+            figuur
+
+
+
+
+            In de figuur is de grond als x-as genomen en gaat de y-as door het
+            hoogste punt van de boog.
+
+            Verder zijn de volgende gegevens bekend, zie de figuur:
+             De boog is 26,7 meter breed.
+             De maximale hoogte van de boog is 5,3 meter ten opzichte van de
+               grond.
+             De Dommel is 9,0 meter breed.
+
+            Voor de boog kan een formule worden opgesteld van de vorm
+            y  a  x2  b .
+            Een persoon met een lengte van 1,90 meter loopt op een afstand van
+            6 meter van de waterkant onder de brug door.
+5p   20     Onderzoek of deze persoon rechtop onder de brug door kan lopen.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-24-2-o                           13 / 14                          lees verder ►►►
+      Quoridor
+
+            In deze opgave bekijken we de        foto 1
+            tweepersoonsvariant van het spel
+            Quoridor dat gespeeld wordt met een
+            witte en een zwarte pion en meerdere
+            muurtjes op een speelbord van negen
+            bij negen velden. Zie foto 1.
+
+
+
+
+            Het doel van het spel is om met je pion zo snel mogelijk de overkant van
+            het speelbord te bereiken. Om beurten doen de spelers een zet. Een zet
+            bestaat uit het verplaatsen van de eigen pion of het neerzetten van een
+            nieuw muurtje. In deze opgave kijken we alleen naar het neerzetten van
+            de eerste twee muurtjes waarbij de pionnen niet verplaatst worden.
+
+            De velden zijn vierkantjes en de muurtjes worden in                                 foto 2
+            gleuven tussen de velden neergezet. De muurtjes zijn
+            identiek en even lang als twee velden en één gleuf.
+            De muurtjes worden zo neergezet dat zich aan elke zijde
+            van het muurtje precies twee velden en een gleuf
+            bevinden. Zie foto 2. De letters in foto 2 staan niet echt
+            op het speelbord, maar die zijn toegevoegd om
+            de velden een naam te geven.
+
+            Muurtjes kunnen niet geheel of gedeeltelijk over elkaar
+            heen neergezet worden, daarom zijn er met elk
+            neergezet muurtje minder mogelijkheden om een
+            volgend muurtje neer te zetten.
+            Het muurtje op foto 2 staat ergens midden op het speelbord. Het volgende
+            muurtje kan niet op een van de volgende vier plaatsen neergezet worden:
+            rechts van A en B, rechts van B en C, rechts van C en D, onder B en F.
+
+            Als het eerste muurtje ergens midden op het bord neergezet is, dan zijn er
+            dus vier plaatsen minder om het tweede muurtje neer te zetten. Grenst
+            het eerste muurtje met een uiteinde aan de rand van het speelbord, dan
+            zijn er drie plaatsen minder om het tweede muurtje neer te zetten.
+
+            Op foto 1 zie je een mogelijke situatie waarin beide spelers een muurtje
+            hebben neergezet en de witte en zwarte pion nog op hun startpositie
+            staan.
+6p   21     Bereken op hoeveel manieren de eerste twee muurtjes neergezet hadden
+            kunnen worden.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-24-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

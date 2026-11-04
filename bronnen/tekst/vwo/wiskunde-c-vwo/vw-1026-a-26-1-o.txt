@@ -1,0 +1,521 @@
+                                                                 Examen VWO
+
+                                                                     2026
+                                                                            tijdvak 1
+                                                                   woensdag 13 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 23 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-26-1-o
+      Medailles in Tokio
+
+            In de zomer van 2021 werden in Tokio de Olympische Spelen gehouden.
+            Voor een Nederlandse olympiër leverde elke medaille een bonus op. De
+            basis-bonusbedragen hiervoor staan in tabel 1.
+
+            tabel 1
+            medaillekleur        basis-bonusbedrag
+                   goud               € 30 000
+                   zilver             € 22 500
+                   brons              € 15 000
+
+            In totaal behaalde TeamNL (alle Nederlandse olympiërs) 10 gouden, 12
+            zilveren en 14 bronzen medailles. Op basis van tabel 1 zou hiervoor
+            € 780 000 aan bonusbedragen aan TeamNL uitgereikt moeten zijn.
+            Voor het begin van de Olympische Spelen van 2021 voorspelden Fabian
+            ten Kate en Elmer Sterken van de Rijksuniversiteit Groningen in totaal
+            geen 36, maar 34 medailles voor TeamNL. Stel dat TeamNL evenveel
+            gouden als zilveren medailles zou hebben behaald, dan zou het ook met
+            een totaal van 34 (gouden, zilveren en bronzen) medailles mogelijk zijn
+            geweest om op een totaal van € 780 000 aan bonusbedragen uit te
+            komen.
+3p    1     Bereken hoeveel gouden medailles TeamNL dan behaald zou hebben.
+
+            Naast de basis-bonusbedragen in tabel 1 werden er twee regels voor het
+            toekennen van bonusbedragen gehanteerd.
+
+            Bij teamsporten (zoals volleybal) moet het bonusbedrag dat bij een
+            medaille hoort, verdeeld worden over het team. Daar is Regel 1 voor.
+
+            Regel 1
+            Voor olympiërs die een medaille met een team gewonnen hebben, geldt
+            dat het totaalbedrag voor het team gelijk is aan het basis-bonusbedrag
+            voor de medaille vermenigvuldigd met de wortel van het aantal
+            teamleden. Dat totaalbedrag moet weer gedeeld worden door het aantal
+            teamleden om het bonusbedrag per teamlid te bepalen.
+
+            Het bonusbedrag P (in euro’s) per teamlid zoals beschreven in Regel 1
+            kan berekend worden met de formule:
+
+                     P  B  n0,5
+            Hierin is B (in euro’s) het basis-bonusbedrag voor de medaille en n het
+            aantal teamleden.
+
+
+
+
+VW-1026-a-26-1-o                                 2 / 15                      lees verder ►►►
+                                                             0,5
+            Uit Regel 1 en de bijbehorende formule P  B  n  volgt: hoe groter het
+            aantal teamleden, hoe lager het bonusbedrag per teamlid. Dus bij een
+            heel groot team zou het bonusbedrag per teamlid heel laag kunnen
+            worden. Daarom is het minimale bonusbedrag per teamlid voor een
+            gouden medaille vastgesteld op € 11 000.
+3p    2     Bereken uit hoeveel teamleden een gouden team hoogstens mag bestaan
+            om per teamlid meer dan € 11 000 te ontvangen.
+
+            De tweede regel die werd gehanteerd, gaat over het behalen van
+            meerdere medailles door dezelfde olympiër.
+
+            Regel 2
+            De bonusbedragen die horen bij de medailles van een olympiër die
+            meerdere medailles heeft gewonnen, worden eerst van hoog naar laag
+            gerangschikt. Vervolgens krijgt de olympiër voor de medaille met het
+            hoogste bonusbedrag het volledige bonusbedrag. Voor de tweede
+            medaille en de derde medaille krijgt de olympiër respectievelijk 23 en 13
+            van het bonusbedrag.
+
+            De Nederlandse hardloopster Sifan Hassan won op de Olympische
+            Spelen in Tokio twee gouden en één bronzen medaille. Daarmee
+            verdiende ze het hoogste totale bonusbedrag. De Nederlandse
+            baanwielrenner Harrie Lavreysen behaalde op de Olympische Spelen in
+            Tokio ook twee gouden en één bronzen medaille.
+
+            In tabel 2 staan voor Hassan en Lavreysen de behaalde prestaties
+            opgesomd.
+
+            tabel 2
+            naam         medaille    onderdeel                      aantal teamleden
+            Hassan       goud        atletiek-5000 meter                    n.v.t.
+            Hassan       goud        atletiek-10 000 meter                  n.v.t.
+            Hassan       brons       atletiek-1500 meter                    n.v.t.
+            Lavreysen    goud        baanwielrennen-sprint                  n.v.t.
+            Lavreysen    goud        baanwielrennen-teamsprint                4
+            Lavreysen    brons       baanwielrennen-keirin                  n.v.t.
+
+            Zoals in tabel 2 te zien is, won Lavreysen één van zijn gouden medailles
+            in een team. Door Regel 1 en Regel 2 was zijn totale bonusbedrag lager
+            dan dat van Hassan.
+3p    3     Bereken hoeveel bonusgeld Hassan meer verdiende dan Lavreysen.
+
+
+
+
+VW-1026-a-26-1-o                             3 / 15                            lees verder ►►►
+            De medaillespiegel is een klassement waarin de deelnemende landen
+            gerangschikt worden naar het aantal behaalde (gouden) medailles.
+
+            Aan de Olympische Spelen in Tokio deden 206 landen mee. Vooraf
+            werden er een aantal voorspellingen gedaan welke landen waar in de
+            top 10 zouden belanden. Zie tabel 3.
+
+            tabel 3
+              zullen zeker in   zullen zeker in de
+              de top vijf komen top tien komen
+              Verenigde Staten     Groot-Brittannië
+              China                Duitsland
+              Japan                Frankrijk
+
+            Verder werden er nog veertien landen genoemd die naast de zes
+            hierboven genoemde landen mogelijk ook in de top 10 zouden kunnen
+            komen. Zie tabel 4.
+
+            tabel 4
+             Nederland           Spanje        Rusland     Cuba        Finland
+             Zuid-Korea          Canada        Australië   Italië      Brazilië
+             Nieuw-Zeeland       Zweden        Hongarije   Noorwegen
+
+            De meest voorspelde top 10 was deze:
+
+            1 Verenigde Staten
+            2 China
+            3 Japan
+            4 Groot-Brittannië
+            5 Rusland
+            6 Australië
+            7 Nederland
+            8 Frankrijk
+            9 Duitsland
+            10 Italië
+
+4p    4     Bereken hoeveel verschillende top 10-klassementen mogelijk zijn op basis
+            van de informatie in tabel 3 en tabel 4.
+
+
+
+
+VW-1026-a-26-1-o                               4 / 15                        lees verder ►►►
+      Otters in Nederland
+
+            Vanaf 2002 groeit de populatie otters in Nederland.
+            Dit wordt onderzocht door Nederland op te delen in
+            zogeheten kilometerhokken (km-hokken). Dat zijn
+            vierkante gebieden van 1 bij 1 km.
+
+            In de winter van 2013/2014 vond men in 290 km-
+            hokken sporen van otters. Een jaar later waren dat
+            er minder, maar de jaren daarna nam het aantal
+            km-hokken waarin sporen van otters werden
+            waargenomen flink toe. Zie de tabel.
+
+            tabel
+             aantal km-hokken waarin sporen van otters
+             worden waargenomen
+             winter van     procentuele verandering ten
+                            opzichte van de winter ervoor
+             2013/2014
+             2014/2015                     –7%
+             2015/2016                     20%
+             2016/2017                     23%
+             2017/2018                      4%
+             2018/2019                     12%
+
+            In de tabel staat hoe het aantal km-hokken waarin sporen van otters zijn
+            waargenomen zich heeft ontwikkeld vanaf de winter van 2013/2014 tot en
+            met de winter van 2018/2019.
+3p    5     Bereken met hoeveel procent het aantal km-hokken waarin sporen van
+            otters zijn waargenomen is toegenomen in deze periode. Geef je
+            antwoord als een geheel getal.
+
+
+
+
+VW-1026-a-26-1-o                           5 / 15                          lees verder ►►►
+            Otters kwamen dus in steeds meer km-hokken voor en uit onderzoek blijkt
+            dat de populatieomvang ook daadwerkelijk toenam. Het bepalen van de
+            populatieomvang was lange tijd omslachtig. Op een gegeven moment
+            ontdekte men echter een verband tussen het aantal aangereden otters en
+            de populatieomvang. De stippen in figuur 1 geven dit verband voor de
+            jaren 2003 tot en met 2017 weer.
+
+            figuur 1
+
+
+
+
+            In de jaren 2003-2017 blijkt de populatieomvang bij benadering recht
+            evenredig te zijn met het aantal aangereden otters. Dit wordt
+            weergegeven door de trendlijn in figuur 1. Deze trendlijn kan gebruikt
+            worden om in de jaren na 2017 de populatieomvang te schatten.
+
+            In 2018 zijn er 97 otters aangereden.
+3p    6     Gebruik de trendlijn om de geschatte populatieomvang in 2018 te
+            berekenen.
+
+
+
+
+VW-1026-a-26-1-o                            6 / 15                            lees verder ►►►
+            De schatting van de populatieomvang in 2018 op basis van de genoemde
+            evenredigheid bleek te hoog. In figuur 2 is de werkelijke ontwikkeling van de
+            populatieomvang van de otters in de periode 2003 tot en met 2019
+            weergegeven. Hierbij zijn de aantallen altijd aan het eind van het jaar bepaald.
+
+            figuur 2
+
+
+
+
+            Op basis van de getekende trendlijn in figuur 2 gaan onderzoekers er vanuit
+            dat de populatie otters elk jaar met hetzelfde percentage toeneemt. De
+            populatieomvang is in de periode 2009 tot en met 2019 toegenomen van 44
+            tot 360 otters. Dit betekent een jaarlijkse groei van (afgerond) 23%.
+
+3p    7     Bereken in één decimaal het jaarlijkse groeipercentage dat uit de
+            gegevens volgt.
+
+            We nemen aan dat de populatie otters na 2019 met 23% per jaar bleef
+            groeien.
+5p    8     Bereken in welk jaar de jaarlijkse toename voor het eerst meer is dan
+            360 otters.
+
+
+
+
+VW-1026-a-26-1-o                              7 / 15                              lees verder ►►►
+      Gerard Walraeven
+
+            Gerard Walraeven (1942-2010) heeft de kunstwerken op foto 1 en foto 2
+            gemaakt. Beide kunstwerken hebben een glanzende, roestvrijstalen
+            binnenkant met daaromheen een laag zogeheten cortenstaal dat zich als
+            het ware openvouwt.
+
+            foto 1                                      foto 2
+
+
+
+
+            De roestvrijstalen binnenkant van het kunstwerk op foto 1 is een piramide.
+            Deze piramide heeft een vierkant grondvlak met zijden van 100 cm en een
+            top op 72 cm hoogte boven het midden van het grondvlak.
+            De roestvrijstalen binnenkant van het kunstwerk op foto 2 is een kubus
+            met zijden van 100 cm.
+
+            De inhoud van de kubus is ongeveer vier keer zo groot als de inhoud van
+            de piramide.
+3p    9     Toon dit aan.
+
+            Stel dat de laag cortenstaal bij beide kunstwerken dichtgevouwen zou
+            kunnen worden, dan zou deze laag de piramide respectievelijk de kubus
+            precies bedekken. We verwaarlozen de dikte van het cortenstaal en gaan
+            er vanuit dat er geen cortenstaal op de bodem van de kunstwerken is
+            aangebracht.
+4p   10     Onderzoek of de oppervlakte van het cortenstaal bij de kubus ongeveer
+            vier keer zo groot is als de oppervlakte van het cortenstaal bij de
+            piramide.
+
+            Op de uitwerkbijlage is het grondvlak van de piramide in perspectief
+            getekend. Hierbij zijn de voor- en achterzijde evenwijdig aan de horizon
+            en is de voorzijde op schaal 1:10 getekend.
+5p   11     Maak op de uitwerkbijlage de perspectieftekening van de piramide af.
+
+
+
+
+VW-1026-a-26-1-o                            8 / 15                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1026-a-26-1-o                        9 / 15   lees verder ►►►
+      De vergeetcurve
+
+            De Duitse psycholoog Hermann Ebbinghaus deed eind 19e eeuw veel
+            onderzoek naar het geheugen. Hij ontdekte dat mensen nieuwe informatie
+            goed kunnen onthouden, maar dat ze informatie ook weer snel vergeten
+            als ze er verder niets meer mee doen.
+
+            Zijn onderzoek resulteerde in de zogeheten vergeetcurve van
+            Ebbinghaus. In de figuur is de vergeetcurve weergegeven.
+
+            figuur
+
+
+
+
+            In de figuur is bijvoorbeeld af te lezen dat 1 uur na het leren van nieuwe
+            informatie nog maar 44% van die nieuw geleerde informatie onthouden is.
+
+            De horizontale as heeft een bijzondere schaalverdeling: een ‘hokje’ stelt
+            niet steeds evenveel tijd voor. Hierdoor suggereert de grafiek in de figuur
+            dat er bij benadering sprake zou zijn van exponentiële afname van het
+            percentage informatie dat onthouden is. Op internet circuleren dan ook
+            artikelen die beweren dat de vergeetcurve volgens een exponentiële
+            afname verloopt. Dit is echter niet waar.
+
+2p   12     Toon met behulp van een berekening aan dat er volgens de gegevens in
+            de figuur geen sprake kan zijn van exponentiële afname.
+
+
+
+
+VW-1026-a-26-1-o                            10 / 15                            lees verder ►►►
+            Tegenwoordig wordt ook wel gebruikgemaakt van de formule:
+                       31,7
+                   P  0,127 , met t  0
+                      t
+            Hierin is P het percentage informatie dat onthouden is en t het aantal
+            dagen dat verstreken is sinds het leren van de informatie.
+
+4p   13     Bereken met behulp van de formule voor P na hoeveel gehele minuten
+            iemand de helft van de nieuw geleerde informatie weer is vergeten.
+
+            Met de formule V  100  P bereken je het percentage informatie dat je
+            vergeet.
+
+2p   14     Beredeneer aan de hand van de formules voor P en V dat je alle
+            informatie die je leert na lange tijd weer vergeten bent.
+
+            Volgens de formule voor P is het percentage informatie dat je in het
+            allereerste uur vergeet, kleiner dan het percentage dat je in het allereerste
+            uur (dus op t  24
+                             1
+                               ) volgens de vergeetcurve (zie de figuur) vergeet.
+3p   15     Bereken het verschil tussen deze percentages. Geef je antwoord in één
+            decimaal.
+
+
+
+
+VW-1026-a-26-1-o                            11 / 15                            lees verder ►►►
+      Radiogolven
+
+            Radiogolven zijn golven waarmee informatie draadloos over een grote
+            afstand verstuurd kan worden. Radiogolven worden onder andere gebruikt
+            door mobiele telefoons, navigatieapparatuur, radio’s en televisie.
+
+            Een radiogolf is een periodiek verschijnsel. Zie de figuur.
+
+            figuur
+
+
+
+
+            In de figuur is op de horizontale as de tijd weergegeven in miljoenste
+            delen van een seconde.
+
+            De frequentie van een radiogolf is het aantal perioden van die radiogolf
+            dat in een seconde past. Zo heeft een radiogolf met een frequentie van 20
+            een periode van 0,05 seconden.
+
+3p   16     Bepaal de frequentie van de radiogolf uit de figuur. Geef je antwoord in
+            duizendtallen.
+
+            Radiogolven verplaatsen zich met de lichtsnelheid. De lichtsnelheid is
+            (afgerond) 300 000 kilometer per seconde. De afstand die een radiogolf in
+            één periode aflegt, wordt de golflengte genoemd. Radiogolven met
+            verschillende perioden hebben dus ook verschillende golflengtes.
+
+            Een bepaald type radiogolven heeft een frequentie van 14 miljoen.
+            De golflengte van zo’n radiogolf is ongeveer 20 meter.
+3p   17     Bereken de werkelijke golflengte van zo’n radiogolf. Geef je antwoord in
+            gehele cm.
+
+
+
+
+VW-1026-a-26-1-o                            12 / 15                           lees verder ►►►
+             Radiogolven worden (onder andere) gebruikt om radio-uitzendingen te
+             maken. Dit gebeurt niet alleen door professionele omroeporganisaties,
+             maar ook door zogeheten zendamateurs. Voor de onderlinge
+             communicatie gebruiken deze zendamateurs codes, waarbij elke
+             zendamateur een unieke code heeft. Voor Nederlandse zendamateurs
+             bestaat de unieke code uit twee delen.
+
+             Het eerste deel van deze code bestaat uit drie tekens, waarvoor geldt:
+              Het eerste teken is altijd de letter P.
+              Het tweede teken is een van de letters: A, B, C, D, E, F, G of H.
+              Het derde teken is een van de cijfers: 0, 1, 2, 3, 4, 5, 7, 8, 9 (het cijfer
+                6 mag dus niet).
+
+             Het tweede deel van deze code bestaat uit één, twee of drie letters uit het
+             alfabet. Verder geldt:
+              Als het tweede deel uit drie letters bestaat en begint met een Q, dan
+                 mag de tweede letter geen O, P, Q, R, S, T of U zijn.
+              Het tweede deel mag niet SOS zijn (dit is om verwarring met het
+                 internationale noodsein SOS te voorkomen).
+
+             Enkele voorbeelden van toegestane codes zijn PE7QBB, PF5QVT,
+             PH2RS en PA9T.
+
+2p    18     Geef een voorbeeld van een niet-toegestane code van in totaal zes
+             tekens.
+
+5p    19     Bereken hoeveel verschillende codes er voor Nederlandse zendamateurs
+             in totaal mogelijk zijn.
+
+
+
+
+VA 263 opgaven - 7-11-2025                    13 / 15                             lees verder ►►►
+     Bruggen bouwen
+
+          Hiernaast staat een voorbeeld van de logische    figuur 1
+          puzzel bruggen bouwen. Zo’n puzzel bestaat
+          uit een aantal eilanden die worden
+          weergegeven door een cirkel met daarin een
+          getal. Dit kunnen de getallen 1 tot en met 8
+          zijn.
+
+          Het doel van de puzzel is om bruggen te
+          bouwen tussen de eilanden. Een brug wordt
+          aangegeven met een lijn tussen twee eilanden.
+          Hierbij moet aan de volgende voorwaarden
+          worden voldaan:
+           Elke brug verbindt twee eilanden horizontaal of verticaal met elkaar,
+             dus niet diagonaal.
+           Bruggen mogen elkaar niet snijden.
+           Het aantal bruggen dat vanuit een eiland gebouwd wordt, moet gelijk
+             zijn aan het getal van het eiland.
+           Tussen twee eilanden mogen niet meer dan twee bruggen worden
+             gebouwd.
+           Ieder eiland moet via de bruggen vanuit ieder ander eiland bereikbaar
+             zijn, dat wil zeggen dat alle eilanden één groep vormen.
+
+          Op de uitwerkbijlage staat de puzzel van figuur 1 nog vier keer afgebeeld.
+          De letters die zijn toegevoegd horen niet bij de puzzel, maar zijn alleen
+          om aan te geven welke eilanden in deze opgave worden bedoeld.
+
+          Vanuit eiland A in figuur 2 op de uitwerkbijlage moet in ieder geval een
+          brug naar eiland B en een brug naar eiland C worden gebouwd.
+2p   20   Beredeneer waarom deze twee bruggen zeker vanuit eiland A gebouwd
+          moeten worden.
+
+          Tussen de eilanden D en E in figuur 3 op de uitwerkbijlage zijn twee
+          bruggen gebouwd.
+2p   21   Leg uit waarom dit niet juist kan zijn.
+
+
+
+
+                                         14 / 15
+            Voor het oplossen van de puzzel is het handig om te weten in hoeveel
+            richtingen bruggen vanuit een eiland kunnen worden gebouwd.
+
+            Vanuit eiland F in figuur 4 op de uitwerkbijlage moeten zes bruggen
+            gebouwd worden. Doordat Eiland F aan de zijkant van de puzzel staat,
+            kunnen vanuit dit eiland in drie richtingen bruggen worden gebouwd. Om
+            aan zes bruggen te komen is eiland F met elk van de eilanden G, H en I
+            verbonden met twee bruggen.
+            Vanuit een eiland met het getal 6 dat niet aan de rand van een puzzel
+            staat, kunnen in vier richtingen bruggen worden gebouwd. In de tabel is
+            met een       aangegeven dat vanuit een eiland met het getal 6 in drie of
+            vier richtingen bruggen kunnen worden gebouwd. Deze tabel staat ook op
+            de uitwerkbijlage.
+
+            tabel
+                                                                        getal van het eiland
+                                                           1       2     3       4      5      6      7       8
+
+                                                 een
+            het aantal richtingen
+            waarin bruggen kunnen               twee
+            worden gebouwd                       drie
+            vanuit het eiland
+                                                 vier
+
+
+            In de tabel kan voor elk eilandgetal op deze manier worden aangegeven
+            in hoeveel richtingen vanuit het betreffende eiland bruggen kunnen
+            worden gebouwd.
+4p   22     Vul de tabel op de uitwerkbijlage verder in.
+
+            In figuur 5 op de uitwerkbijlage is de puzzel gedeeltelijk opgelost. De
+            eilanden van waaruit al het maximale aantal bruggen is gebouwd, zijn
+            grijs gekleurd.
+3p   23     Los de puzzel in deze figuur helemaal op.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+                                                         15 / 15                                                    einde 
+

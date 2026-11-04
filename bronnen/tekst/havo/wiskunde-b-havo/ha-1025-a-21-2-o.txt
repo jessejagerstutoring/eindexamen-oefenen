@@ -1,0 +1,383 @@
+                                                                 Examen HAVO
+
+                                                                       2021
+                                                                              tijdvak 2
+                                                                       dinsdag 22 juni
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde B
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+ Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+ Dit examen bestaat uit 20 vragen.
+ Voor dit examen zijn maximaal 78 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-21-2-o
+Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-21-2-o                   2 / 13   lees verder ►►►
+      Rakende grafieken
+
+                                                        1
+            De functie f is gegeven door f ( x)               2 . De grafiek van f snijdt de
+                                                       3x  1
+            x-as in punt A en de y-as in punt B. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    1     Bereken exact de afstand tussen A en B.
+
+            De functie g is gegeven door g ( x )  2 x 2  3 x  p . De grafieken van f en
+            g raken elkaar in het punt C. Zie figuur 2.
+                                                             figuur 2
+            De x-coördinaat van C noemen we xC
+            en er geldt: xC  0,81.
+
+3p    2     Bereken p. Geef je eindantwoord in één
+            decimaal.
+
+            Dat de grafieken van f en g elkaar
+            raken in punt C betekent dat de helling
+            van beide grafieken in dat punt gelijk is.
+            De x-coördinaat van C is hierboven in
+            twee decimalen benaderd.
+6p    3     Bereken met behulp van differentiëren
+            de waarde van xC nauwkeuriger. Geef
+            je eindantwoord in drie decimalen.
+
+
+
+
+HA-1025-a-21-2-o                              3 / 13                                     lees verder
+      Stedelijke gebieden
+
+            De Amerikaan Bettencourt heeft onderzoek gedaan naar een mogelijk
+            verband tussen het aantal inwoners N en de lengte van het wegennet W
+            in mijlen in een stedelijk gebied. Om van een aantal stedelijke gebieden
+            de gegevens in één figuur duidelijk te kunnen weergeven is van elk
+            gebied log W  uitgezet tegen log  N  . Het resultaat is de puntenwolk in
+            de figuur.
+
+            figuur
+
+
+
+
+            Bettencourt heeft een verband tussen log W  en log  N  opgesteld. In de
+            figuur is de lijn l getekend die dit verband weergeeft. Deze figuur staat
+            ook op de uitwerkbijlage.
+
+3p    4     Bepaal met behulp van lijn l op de uitwerkbijlage de lengte van het
+            wegennet in een gebied met 1 miljoen inwoners. Geef je eindantwoord in
+            honderden mijlen.
+
+
+
+
+HA-1025-a-21-2-o                             4 / 13                                  lees verder
+            Een formule voor l is van de vorm
+                       log W   a  log  N   b    (1)
+
+            Uit de figuur volgt dat een gebied met 100 000 inwoners een wegennet
+            heeft van ongeveer 650 mijl en een gebied met 10 000 000 inwoners een
+            wegennet heeft van ongeveer 31 000 mijl.
+4p    5     Bereken a en b met behulp van deze gegevens. Geef de getallen in je
+            eindantwoord in twee decimalen.
+
+            In zijn onderzoek komt Bettencourt tot de formule:
+                                       5
+                       W  0,043  N 6                 (2)
+            Voor de volgende vraag vergelijken we twee stedelijke gebieden met
+            elkaar: gebied A en gebied B. Voor gebied B geldt dat het twee keer
+            zoveel inwoners heeft als gebied A.
+3p    6     Bereken met behulp van formule (2) hoeveel procent de lengte van het
+            wegennet van gebied B groter is dan de lengte van het wegennet van
+            gebied A. Geef je eindantwoord in hele procenten.
+
+            De verhouding tussen N en W wordt verkeersdruk D genoemd.
+
+            Dus:
+                            N
+                       D                              (3)
+                            W
+            Hierin is D het aantal inwoners per mijl.
+
+            In de praktijk geldt: als in een stedelijk gebied het aantal inwoners
+            toeneemt, neemt de verkeersdruk ook toe (ondanks de toename van de
+            lengte van het wegennet).
+
+            Voor D moet dus gelden dat de grafiek van D als functie van N stijgend is.
+            In drie stappen kan dit worden onderzocht:
+            a Druk D met behulp van de formules (2) en (3) uit in N.
+                                      dD
+            b      Bepaal de afgeleide     van de bij stap a gevonden formule.
+                                      dN
+            c      Onderzoek of deze afgeleide voor alle waarden van N groter is dan 0.
+
+4p    7     Onderzoek met dit stappenschema of de grafiek van D als functie van N
+            inderdaad stijgend is.
+
+
+
+
+HA-1025-a-21-2-o                                      5 / 13                       lees verder
+      Rechthoek om cirkels
+
+            Cirkel c1 met middelpunt M 1 wordt gegeven door x 2   y  3  9 .
+                                                                          2
+
+            Cirkel c2 met straal 2 en middelpunt M 2 raakt c1 .
+
+            De twee cirkels worden omsloten door een rechthoek ABCD zodanig dat:
+             de hoekpunten A en B op de x-as liggen;
+             de lengte van zijde AD gelijk is aan de diameter van c1 ;
+                  c1 de zijden AB, CD en AD raakt;
+                  c2 de zijden BC en CD raakt.
+            Zie figuur 1. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 1
+
+
+
+
+5p    8     Bereken exact de coördinaten van M 2 . Je kunt hierbij gebruik maken van
+            de figuur op de uitwerkbijlage.
+
+
+
+
+HA-1025-a-21-2-o                              6 / 13                               lees verder
+            Verder is gegeven cirkel c3 met middelpunt M 3 . Deze cirkel raakt c2 en
+            de zijden AB en BC. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            In figuur 2 is ook de driehoek M 2 M 3 N aangegeven, waarbij punt N
+            dezelfde x-coördinaat heeft als M 3 en dezelfde y-coördinaat als M 2 .
+            In driehoek M 2 M 3 N is   M 2 M 3 N en is hoek N een rechte hoek.
+            Er geldt:
+                                  2r
+                    sin    
+                                  r2
+            Hierin is r de straal van c3 . Zie figuur 2.
+3p    9     Bewijs de juistheid van deze formule.
+
+
+
+
+HA-1025-a-21-2-o                               7 / 13                                lees verder
+      Exoten en rodelijstsoorten
+
+            De bruine rat, de Japanse oester en de Amerikaanse vogelkers zijn
+            voorbeelden van dier- en plantensoorten die oorspronkelijk niet in
+            Nederland voorkwamen, maar die bewust of onbewust door de mens in
+            Nederland zijn ingevoerd. Zulke soorten worden exoten genoemd.
+
+            In figuur 1 is voor de periode 1910 – 2000 eens per tien jaar, telkens op
+            1 januari van het aangegeven jaar, het aantal exoten in Nederland
+            weergegeven. In deze figuur is ook een grafiek weergegeven die de
+            ontwikkeling van deze aantallen benadert.
+
+            figuur 1
+
+
+
+
+            Uit figuur 1 valt af te lezen dat het aantal exoten in Nederland in de
+            periode van 1 januari 1910 tot 1 januari 1950 van 22 tot 46 is
+            toegenomen.
+
+            Neem aan dat het aantal exoten sinds 1 januari 1910 exponentieel is
+            gegroeid. Dan volgt uit de gegevens voor de periode 1910 – 1950 dat dit
+            aantal elke tien jaar met ongeveer 20% is toegenomen.
+
+4p    10    Bereken met behulp van de gegevens van 1910 en 1950 dit percentage
+            nauwkeuriger. Geef je eindantwoord in één decimaal.
+
+            We gaan bij de volgende vraag uit van een toename van 20% per tien
+            jaar.
+4p    11    Bereken na hoeveel jaar het aantal exoten volgens de bovenstaande
+            exponentiële groei voor het eerst verdubbeld is. Geef je eindantwoord in
+            hele jaren.
+
+
+
+HA-1025-a-21-2-o                             8 / 13                                  lees verder
+            Er bestaat een zogenaamde rode lijst van diersoorten in Nederland die
+            met uitsterven bedreigd worden. Daarom worden deze diersoorten ook
+            wel rodelijstsoorten genoemd.
+
+            In figuur 2 is de ontwikkeling van de rodelijstsoorten in de periode
+            1997 – 2012 te zien. Hierbij zijn de aantallen aangegeven als percentage
+            ten opzichte van het aantal in 1997.
+
+            In figuur 2 is ook een rechte lijn getekend die de ontwikkeling van het
+            aantal rodelijstsoorten benadert. Volgens deze benadering neemt het
+            aantal rodelijstsoorten vanaf 1997 lineair af.
+            Figuur 2 staat ook vergroot op de uitwerkbijlage.
+
+            figuur 2
+
+
+
+
+            In 2004 was het werkelijke aantal rodelijstsoorten 694.
+
+            Met behulp van de lineaire afname volgens de getekende rechte lijn werd
+            in 2013 een voorspelling gedaan voor het aantal rodelijstsoorten in 2020.
+            Het daadwerkelijke aantal rodelijstsoorten in 2020 bleek 551 te zijn. Dit
+            aantal is duidelijk hoger dan het aantal volgens de voorspelling.
+5p    12    Bereken hoeveel het daadwerkelijke aantal rodelijstsoorten in 2020
+            verschilt met de voorspelling volgens de rechte lijn. Gebruik hiervoor de
+            figuur op de uitwerkbijlage.
+
+
+
+
+HA-1025-a-21-2-o                            9 / 13                                    lees verder
+      Drie snijpunten
+
+            Op het domein  0, 3 is de functie f gegeven door
+                     f ( x )  1  2sin  x  23  
+            Op het gegeven domein is het punt P de eerste top rechts van de y-as
+            van de grafiek van f. Zie de figuur.
+
+            figuur
+
+
+
+
+4p    13    Bereken exact de coördinaten van P.
+
+            De punten A, B en C zijn de drie snijpunten van de grafiek van f met de
+            x-as. Lijnstuk BC is a keer zo lang als lijnstuk AB.
+5p    14    Bereken exact de waarde van a.
+
+
+
+
+HA-1025-a-21-2-o                                        10 / 13                  lees verder
+      Functie met log
+
+                                                                      2   
+            De functie f is gegeven door f ( x )  4 log            2      . De grafiek van f
+                                                                 2 x  3x 
+            snijdt de x-as in de punten A en B. De asymptoten van de grafiek
+            van f snijden de x-as in S en O. Zie de figuur.
+
+            figuur
+
+
+
+
+3p    15    Bereken exact de x-coördinaat van S.
+
+5p    16    Bereken exact de coördinaten van A en B.
+
+            Op het domein 0,  is functie f ook te schrijven als:
+                     f ( x)  12  4 log( x)  4 log(2 x  3)
+3p    17    Toon dit aan.
+
+
+
+
+HA-1025-a-21-2-o                                     11 / 13                                      lees verder
+      In de schijnwerper
+
+            foto
+
+
+
+
+            Een lichtspot geeft een bundel licht. Zie de foto.
+            Voor de lichtbundel van een bepaalde lichtspot geldt dat in      figuur 1
+            een zijaanzicht de buitenste lichtstralen een hoek van 50° met
+            elkaar maken. Zie figuur 1.
+
+            Deze lichtspot hangt 300 cm boven een vloer. Als de
+            lichtbundel recht naar beneden wordt gericht, ontstaat op de
+            vloer een cirkelvormige lichtvlek. In figuur 2 is een zijaanzicht
+            van deze situatie schematisch weergegeven. Hierin is S de lichtspot.
+
+            figuur 2
+
+
+
+
+3p    18    Bereken de oppervlakte van de cirkelvormige lichtvlek. Geef je
+            eindantwoord in gehele cm2.
+
+
+
+HA-1025-a-21-2-o                           12 / 13                                 lees verder
+            De lichtspot kan gedraaid worden, zodat de lichtbundel ook op andere
+            delen van de vloer gericht kan worden. Hierbij blijft in een zijaanzicht de
+            hoek tussen de buitenste lichtstralen 50°. Het is mogelijk om de lichtspot
+            zo ver naar rechts te draaien dat er een 500 centimeter lange lichtvlek op
+            de vloer ontstaat. Een zijaanzicht van deze situatie is in figuur 3
+            schematisch weergegeven.
+
+            figuur 3
+
+
+
+
+            In figuur 3 is PQ de lengte van de lichtvlek. V is het punt op de vloer recht
+            onder S en    VSP . Er geldt dus: PSQ  50 .
+
+            SQV is uit te drukken in  . Met behulp van de sinusregel in
+            driehoek PSQ kan SP ook uitgedrukt worden in  .
+            Er geldt:
+                       SP  653  sin  40             (1)
+
+3p    19    Toon dit aan.
+
+            In driehoek VSP geldt:
+                               300
+                       SP                                 (2)
+                              cos   
+
+            Met behulp van formule (1) en formule (2) is hoek  te berekenen.
+4p    20    Bereken hoeveel graden de lichtspot vanuit de situatie in figuur 2 naar
+            rechts gedraaid moet worden om de situatie van figuur 3 te krijgen. Geef
+            je eindantwoord in gehele graden.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1025-a-21-2-o                                         13 / 13                                                leeseinde 
+                                                                                                                     verder
+

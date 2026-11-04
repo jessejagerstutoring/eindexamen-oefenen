@@ -1,0 +1,382 @@
+                                                                Examen HAVO
+
+                                                                     2024
+                                                                            tijdvak 2
+                                                                   maandag 24 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-24-2-o
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-24-2-o                        2 / 15   lees verder ►►►
+      Wortelgrafiek en parabool
+
+            De functies f en g worden gegeven door f ( x)  2 x  6 en
+             g ( x)  x 2  6 x  9 .
+
+            De grafiek van f heeft een randpunt en de grafiek van g heeft een top.
+4p    1     Onderzoek op exacte wijze of deze top hetzelfde punt is als dat randpunt.
+
+            De lijn k met vergelijking y  4 snijdt de grafiek van g in de punten A en B,
+            waarbij B rechts ligt van A. De lijn k snijdt de grafiek van f in het punt C.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+5p    2     Bereken exact de afstand BC.
+
+            De lijn l raakt de grafiek van f in het punt met x-coördinaat 15.
+            De lijn m met vergelijking 6 x  y  27 raakt de grafiek van g.
+5p    3     Bewijs dat l en m loodrecht op elkaar staan.
+
+
+
+
+HA-1025-a-24-2-o                             3 / 15                             lees verder ►►►
+      Zonsopkomst en zonsondergang
+
+            Voor elke dag van het jaar is te bepalen hoe laat de zon opkomt en hoe
+            laat de zon ondergaat.
+
+            Op elke dag van het jaar 2015 is volgens de lokale zomertijd bepaald hoe
+            laat de zon in de Australische stad Sidney opkomt1). De 365 meetpunten
+            zijn in een assenstelsel getekend. Ze liggen bij benadering op een
+            sinusoïde. In figuur 1 is deze sinusoïde getekend; een deel daarvan is
+            gestippeld.
+            Onder het gestippelde deel is de grafiek getekend volgens de tijdstippen
+            van zonsopkomst volgens de wintertijd. De zonsopkomst volgens de
+            wintertijd is 1 uur eerder dan volgens de zomertijd.
+
+            figuur 1 Zonsopkomst in Sydney
+
+
+
+
+            Het laagste punt van de grafiek van de zomertijd is (341; 5,62).
+            Dit betekent dus dat de zon op dagnummer 341 volgens de zomertijd het
+            vroegst opkomt. Dat is op tijdstip 5,62 (dus 5 uur en 37 min).
+            Het hoogste punt van het gestippelde deel van de grafiek van de
+            zomertijd bevindt zich op hoogte 8,00.
+
+
+
+
+    noot 1 In Sidney is het zomer als het in Nederland winter is. De periode waarin de zomertijd
+           wordt gebruikt, is daarom in Sidney anders dan in Nederland.
+
+
+
+
+HA-1025-a-24-2-o                                4 / 15                                  lees verder ►►►
+            De grafiek van de wintertijd is te benaderen met een formule van de
+            vorm:
+                                   2  (t  r )) , met 95  t  277
+               S (t )  p  q sin( 365
+            Hierin is S het tijdstip van zonsopkomst en t het dagnummer met t  1 op
+            1 januari.
+
+            Door gebruik te maken van de grafiek van de zomertijd kunnen mogelijke
+            waarden voor p, q en r worden berekend.
+4p    4     Bereken mogelijke waarden voor p, q en r van S (t ) . Geef je
+            eindantwoorden in twee decimalen.
+
+            Voor een plaats in Nederland zijn op dezelfde manier als voor Sydney
+            volgens de lokale zomertijd de tijdstippen van zonsopkomst bepaald.
+            Ook zijn de tijdstippen van zonsondergang volgens de zomertijd bepaald.
+            De grafieken waarop de meetpunten liggen, zijn in figuur 2 weergegeven.
+
+            figuur 2 Zonsopkomst en zonsondergang in Nederland
+
+
+
+
+            Bij de grafiek van de zonsopkomst hoort de formule:
+                                           2  (t  270,9)) , met 1  t  365
+                 P (t )  7,57  2, 27sin( 365
+            en bij de grafiek van de zonsondergang hoort de formule:
+                                          2  (t  74,07)) , met 1  t  365
+                N (t )  19,78  2,33sin( 365
+            Hierin is P het tijdstip van zonsopkomst en N het tijdstip van
+            zonsondergang. Opnieuw is t het dagnummer met t  1 op 1 januari. Voor
+            t kunnen dus alleen gehele waarden worden ingevuld.
+
+            Voor elke dag kan de tijd tussen zonsopkomst en zonsondergang worden
+            bepaald. De langste dag is de dag waarop deze tijd zo groot mogelijk is.
+4p    5     Bereken de tijd tussen zonsopkomst en zonsondergang op de langste
+            dag. Geef je eindantwoord in een geheel aantal uren en minuten.
+
+
+
+
+HA-1025-a-24-2-o                                  5 / 15                        lees verder ►►►
+      Door het snijpunt
+
+            De functie f wordt gegeven door f ( x)  14 x  x  2  x  6  .
+            De grafiek van f snijdt de x-as in de punten A(6, 0) , O(0, 0) en B(2, 0) .
+            Het punt C is het midden van lijnstuk AO. Het punt P ligt recht boven C op
+            de grafiek van f. Zie de figuur.
+
+            figuur
+
+
+
+
+            De raaklijn aan de grafiek van f in P gaat door B.
+7p    6     Bewijs dit.
+
+
+
+
+HA-1025-a-24-2-o                                 6 / 15                          lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-24-2-o                        7 / 15   lees verder ►►►
+      Borstcrawl
+
+            Bij het zwemmen van de borstcrawl is er een          foto
+            verband tussen de handkracht waarmee de handen
+            van de zwemmer tegen het water duwen en de
+            zwemsnelheid. Zie foto en figuur 1.
+
+            Het verband tussen de handkracht F en de
+            zwemsnelheid v kan worden benaderd door de
+            formule:
+                   F  500  A  C  v 2                         figuur 1
+            Hierin geldt:
+             F is de handkracht in newton (N);
+             v is de zwemsnelheid in meters per seconde
+               (m/s);
+             A is de oppervlakte van het vooraanzicht van de
+               zwemmer in m2 gedurende een zwemslag;
+               A wordt frontaal oppervlak genoemd;
+             C is een positieve constante die afhankelijk is
+               van de zwemtechniek van de zwemmer.
+
+            Tijdens een zwemwedstrijd over 100 m zwemt Ian
+            een persoonlijk record. Tijdens elke zwemslag is zijn
+            handkracht 105 N en zijn frontaal oppervlak is 0,2 m2.
+            Zijn waarde van C is 0,35.
+            Samy wil bij een toekomstige zwemwedstrijd over
+            100 m 0,5 seconden sneller zwemmen dan de
+            snelste tijd van Ian. Om dit te bereiken, gaat hij extra
+            op handkracht trainen. Het frontaal oppervlak van Samy is 0,21 m2. Zijn
+            waarde van C is 0,33. In dit model nemen we aan dat Samy’s waarden
+            voor A en C gelijk blijven. Verder nemen we aan dat beide zwemmers met
+            constante snelheid zwemmen.
+6p    7     Bereken de handkracht die Samy nodig heeft om 0,5 seconden sneller te
+            zwemmen dan de snelste tijd van Ian. Geef je eindantwoord als geheel
+            getal.
+
+
+
+
+HA-1025-a-24-2-o                           8 / 15                           lees verder ►►►
+            Van twee zwemmers is 10 keer de handkracht gemeten bij verschillende
+            snelheden. De techniek van de ene zwemmer is beter dan die van de
+            andere zwemmer. Het frontaal oppervlak tijdens een zwemslag is voor
+            beide zwemmers 0,2 m2.
+            In figuur 2 zijn de meetresultaten weergegeven in een assenstelsel,
+            waarbij v 2 is uitgezet tegen F. Voor beide zwemmers is een lijn getekend
+            die de meetresultaten benadert. Bij elke lijn hoort een andere constante
+            waarde van C, passend bij de zwemtechniek van de zwemmer. Figuur 2
+            staat ook op de uitwerkbijlage.
+
+            figuur 2
+
+
+
+
+3p    8     Bereken met behulp van figuur 2 op de uitwerkbijlage de waarde van C
+            van de zwemmer met de betere techniek. Geef hierbij aan welke lijn je
+            hebt gebruikt en licht deze keuze toe. Geef je eindantwoord in twee
+            decimalen.
+
+
+
+
+HA-1025-a-24-2-o                           9 / 15                            lees verder ►►►
+      Twee logaritmische functies
+
+            Voor x  0 wordt de functie f gegeven door f ( x)  log( x) .
+            Voor x  10 wordt de functie g gegeven door g ( x)  2  log( x  10) .
+            De grafieken van f en g snijden elkaar in het punt A. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+6p    9     Bereken exact de oplossing van de ongelijkheid f ( x)  g ( x) .
+
+            De grafiek van g ontstaat uit de grafiek van f door een serie
+            transformaties. Hiervoor zijn verschillende mogelijkheden.
+4p    10    Geef één zo’n serie transformaties en geef daarbij aan in welke volgorde
+            ze worden toegepast.
+
+            De grafiek van g snijdt de y-as in het punt B en snijdt de x-as in het punt
+            C. De lijn l gaat door B en C. Lijn l snijdt de grafiek van f in het punt D.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+6p    11    Bereken de coördinaten van D. Geef de coördinaten in je eindantwoord in
+            twee decimalen.
+
+
+
+HA-1025-a-24-2-o                             10 / 15                            lees verder ►►►
+            Op de grafiek van f wordt een willekeurig punt S gekozen. Punt T, met
+            een x-coördinaat die 7 keer zo groot is als de x-coördinaat van S, ligt ook
+            op de grafiek van f. In figuur 3 is de grafiek van f weergegeven met een
+            mogelijke positie van S en van T.
+
+            figuur 3
+
+
+
+
+            In S en T kan met behulp van de grafische rekenmachine de helling
+            worden bepaald.
+                                                                 helling in T
+            Voor elke keuze van S is de uitkomst van de breuk                 hetzelfde.
+                                                                 helling in S
+3p    12    Bereken deze uitkomst. Geef je eindantwoord in twee decimalen.
+
+
+
+
+HA-1025-a-24-2-o                            11 / 15                            lees verder ►►►
+      Rondom exponentiële grafieken
+
+            De functie f wordt gegeven door f ( x)  2 x .
+
+                                                        2
+                                                              x2  x
+            De functie g wordt gegeven door g ( x)                    .
+            De grafieken van f en g snijden elkaar in de punten A(0,1) en B (3, 8) .
+            In figuur 1 zijn de grafieken van f en g en de punten A en B weergegeven.
+
+            figuur 1
+
+
+
+
+            De punten A en B zijn de enige snijpunten van de grafieken van f en g.
+3p    13    Bewijs dit.
+
+
+
+
+HA-1025-a-24-2-o                             12 / 15                          lees verder ►►►
+            In figuur 2 zijn opnieuw de grafieken van f en g met hun snijpunten A en B
+            weergegeven. Ook zijn twee cirkels c1 en c2 weergegeven.
+            Het lijnstuk AB is een middellijn van c1 . Cirkel c2 heeft hetzelfde
+            middelpunt als c1 . De oppervlakte van c2 is drie keer zo groot als de
+            oppervlakte van c1 .
+
+            figuur 2
+
+
+
+
+5p    14    Stel op exacte wijze een vergelijking op van cirkel c2 .
+
+
+
+
+HA-1025-a-24-2-o                             13 / 15                               lees verder ►►►
+      Vuurtorens
+
+            In figuur 1 is een rechte kustlijn weergegeven die van west naar oost
+            loopt. Op deze kustlijn staat in punt O een vuurtoren. In punt S bevindt
+            zich een schip op 9 km van de kustlijn. Het schip vaart evenwijdig aan de
+            kustlijn. De horizontale afstand tussen O en S is 20 km. Het licht van de
+            vuurtoren is zichtbaar binnen een straal van 11 km rondom de vuurtoren.
+            Figuur 1 staat ook op de uitwerkbijlage.
+
+            figuur 1
+
+
+
+
+            In positie S is het licht van de vuurtoren nog niet zichtbaar voor de
+            kapitein van het schip.
+5p    15    Bereken na hoeveel kilometer varen het licht van de vuurtoren zichtbaar
+            wordt. Geef je eindantwoord als geheel getal.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1025-a-24-2-o                           14 / 15                           lees verder ►►►
+            In een andere situatie staan twee vuurtorens A en B met een onderlinge
+            afstand van 14 km op een rechte kustlijn. De kustlijn loopt van west naar
+            oost.
+            De afstand van een schip tot de kustlijn wordt tegenwoordig met moderne
+            navigatieapparatuur bepaald. Er is ook een methode zonder deze
+            apparatuur, die in het verleden werd gehanteerd. Hierbij wordt het licht
+            van de twee vuurtorens gebruikt. Vanaf het schip worden de hoeken
+            gemeten waaronder het licht van de vuurtorens ten opzichte van de
+            noordrichting N wordt gezien.
+
+            Vanaf een schip op positie T is deze hoek voor vuurtoren A 52 en voor
+            vuurtoren B 65 . Zie figuur 2. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 2
+
+
+
+
+            Op basis van de twee gemeten hoeken en de onderlinge afstand van de
+            vuurtorens, kan de afstand van het schip tot de kustlijn worden berekend.
+4p    16    Bereken deze afstand in km. Geef je eindantwoord in één decimaal.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-24-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

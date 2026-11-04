@@ -1,0 +1,449 @@
+                                                                   Examen VWO
+
+                                                                       2019
+                                                                              tijdvak 1
+                                                                     maandag 20 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde B
+
+
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 15 vragen.
+Voor dit examen zijn maximaal 80 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-19-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t ) cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-19-1-o                                        2 / 11                        lees verder ►►►
+      Lijnen door de oorsprong en een cirkel
+
+            Gegeven is cirkel c met middelpunt (1, 7) en straal 5 .
+              x        1
+              y   t   2  is een vectorvoorstelling van een lijn k door de oorsprong.
+                        
+
+            Lijn k snijdt cirkel c in twee punten.
+5p    1     Bereken exact de coördinaten van deze snijpunten.
+
+
+
+
+      Rechts van het snijpunt
+
+            De functies f en g zijn gegeven door:            figuur
+                   f ( x)  3cos(2 x)  2 x en                 y
+
+                   g ( x)  3  2 x
+            De grafiek van g snijdt de x-as in punt A.                g
+            De grafiek van f heeft diverse toppen, alle
+                                                                                A
+            met een positieve x-coördinaat.                    O                             x
+            Punt B is de derde van deze toppen.
+            Zie de figuur.
+                                                                          f
+            Er geldt: punt B ligt rechts van punt A.
+
+5p    2     Toon dit aan met behulp van de afgeleide
+            van f.                                                              B
+
+
+
+
+VW-1025-a-19-1-o                                 3 / 11                             lees verder ►►►
+      Altijd raak
+
+            Voor p  1 is de functie f p gegeven door:
+
+                       f p ( x)  p  x  p
+
+            In figuur 1 is voor enkele waarden van p de grafiek van f p weergegeven
+            en ook lijn k met vergelijking y  x  14 .
+
+            figuur 1
+                   y
+                                                   k
+                                                             f7
+
+
+
+                                                        f4
+
+
+                                                   f3
+
+
+                                              f1
+
+
+
+
+                       O                                          x
+
+
+
+            Lijn k raakt de grafiek van f p voor elke waarde van p  1 .
+
+5p    3     Bewijs dit.
+
+            Voor p  1 heeft de grafiek van f p een randpunt, ook wel beginpunt
+            genoemd. De randpunten van de grafieken in figuur 1 zijn met een stip
+            aangegeven.
+
+            Er geldt voor elke p  1 : het randpunt van de grafiek van f p ligt op de
+            grafiek van f p 1 .
+
+3p    4     Bewijs dat inderdaad voor p  1 geldt: het randpunt van de grafiek van f p
+            ligt op de grafiek van f p 1 .
+
+
+
+
+VW-1025-a-19-1-o                               4 / 11                           lees verder ►►►
+            Punt A (1, 1) is het randpunt van de grafiek van f1 . Punt B (2, 2) is het
+            randpunt van de grafiek van f 2 . B ligt dus op de grafiek van f1 .
+            Door de punten A en B gaat een lijn l.
+            V is het vlakdeel dat wordt ingesloten door lijn l en de grafiek van f1 .
+            Zie figuur 2.
+
+            figuur 2
+
+                                            f2
+
+
+
+                                            B
+
+
+
+
+                       f1
+
+                            V
+                                l
+
+
+
+
+                   A
+
+
+
+
+5p    5     Bereken exact de oppervlakte van V.
+
+
+
+
+VW-1025-a-19-1-o                                 5 / 11                           lees verder ►►►
+      Slingshot
+
+            De Slingshot is een kermisattractie.                   foto
+            Tussen de toppen van twee palen hangt aan
+            twee identieke elastische koorden een capsule
+            die plaats biedt aan twee personen. Zie de foto.
+            De capsule wordt allereerst omlaag getrokken
+            tot aan de grond. Op dat moment gaan er twee
+            personen in de capsule zitten. Vervolgens wordt
+            de capsule losgelaten. De capsule schiet dan
+            recht omhoog. Daarna valt hij recht omlaag,
+            gaat weer omhoog, enzovoorts. Na enige tijd
+            komt de capsule stil te hangen.
+
+            Gegeven is:
+             De palen staan 14 m uit elkaar.
+             De palen staan verticaal.
+             De palen zijn 20 m hoog.
+             Zonder uitrekking heeft elk koord een lengte van 8 m.
+             Elk koord trekt aan de capsule met een kracht die afhangt van de
+              lengte van het uitgerekte koord. De grootte van deze kracht kan
+              berekend worden met de formule:
+                       Fk  0,6  ( L  8)
+                   Hierbij is Fk de grootte van de kracht in kN (kilonewton) en L de
+                   lengte van het uitgerekte koord in m (met L  8 ).
+
+
+                                                              figuur 1
+                                                                             14 m
+                                                             A                                B
+            In figuur 1 is de beginsituatie
+            weergegeven. De capsule is aangegeven
+            met het punt C en de toppen van de palen
+            met A en B.
+            De capsule bevindt zich op de grond,
+            midden tussen de palen.
+            Beide koorden, CA en CB, zijn dan flink                                               20 m
+            uitgerekt en staan strak.
+
+3p    6     Bereken de grootte van de kracht in kN
+                                                                        Fk          Fk
+            waarmee een koord in de beginsituatie
+            aan de capsule trekt. Geef je
+            eindantwoord in één decimaal.
+                                                                              C
+
+
+
+
+VW-1025-a-19-1-o                                6 / 11                                   lees verder ►►►
+            De twee krachten kun je weergeven met twee vectoren.
+            De som van deze twee vectoren is een vector die een verticale kracht
+            weergeeft met grootte Fkv . De grootte van deze kracht kan berekend
+            worden met de volgende formule:
+                   Fkv  2  Fk  cos(
+            Hierin is  de hoek tussen een koord en de verticale vector. Zie figuur 2.
+
+            figuur 2                                        figuur 3
+                             14 m                                           14 m
+            A                              B                       A                         B
+
+
+
+                                                                                                 x
+
+                               Fkv             x                       Fk            Fk
+                                                                                 C
+     20 m               Fk           Fk                     20 m
+                             αα
+                                                                            Fz
+                              C
+
+
+
+
+            Op de capsule, inclusief de twee personen, werkt niet alleen de kracht
+            van beide koorden, maar ook de zwaartekracht Fz , die recht naar
+            beneden is gericht. Zie figuur 3. Deze zwaartekracht bedraagt 1,8 kN.
+            In figuur 2 en figuur 3 is ook het hoogteverschil tussen C en de toppen
+            van de palen met x aangegeven.
+
+            Na een aantal keren op en neer te zijn geslingerd, is de capsule tot
+            stilstand gekomen. Op dat moment heft de zwaartekracht de twee
+            krachten op die door de koorden samen worden uitgeoefend.
+            Er geldt dan dus: Fkv  Fz
+
+            De hoogte waarop de capsule tot stilstand komt, is te berekenen door
+            eerst Fkv in x uit te drukken.
+6p    7     Druk Fkv uit in x en bereken daarmee hoe hoog de capsule boven de
+            grond hangt als hij tot stilstand is gekomen. Geef je eindantwoord in
+            gehele meters.
+
+
+
+
+VW-1025-a-19-1-o                                   7 / 11                                 lees verder ►►►
+      Een logaritmische functie en haar afgeleide
+
+            De functies f en g worden gegeven door:
+                        f ( x)  x ln( x)  x  1
+                        g ( x)  f ' ( x)
+5p    8     Bereken exact de x-coördinaten van de snijpunten van de grafieken
+            van f en g.
+
+            Er is één waarde van p waarvoor geldt:
+                   2p
+
+                    g ( x) dx  0
+                   p
+
+            Voor deze waarde van p is de situatie in de figuur geschetst.
+
+            figuur
+            y
+
+                                                         g
+
+
+
+                                 p
+                                                    2p       x
+
+
+
+
+7p    9     Bereken exact deze waarde van p. Schrijf je eindantwoord in de vorm
+            p  ae , waarbij a een getal is.
+
+
+
+
+VW-1025-a-19-1-o                                             8 / 11         lees verder ►►►
+      Gebroken goniometrische functie
+
+            De functie f is gegeven door:                          figuur 1
+                               cos( x)                              y
+                   f ( x) 
+                               sin 2 ( x)
+                                                                                  f
+            Lijn k is de lijn met vergelijking
+            y 2.
+                                                                              A       B                k
+
+            Lijn k en de grafiek van f hebben
+            oneindig veel snijpunten. De punten
+            A en B zijn de twee snijpunten met     O                                                   x
+            de kleinste positieve x-coördinaten.
+            Deze zijn in figuur 1 aangegeven.
+6p   10     Bereken exact de x-coördinaten van A en B.
+
+            Voor elke waarde van p is de functie f p gegeven door:
+                                  cos( x)
+                   f p ( x) 
+                                p  sin 2 ( x)
+
+6p   11     Onderzoek of er waarden van p zijn waarvoor de grafiek van f p
+            perforaties heeft.
+
+            In de rest van de opgave beperken we ons tot waarden van p waarvoor
+            geldt: p  0
+            De punten op de grafiek van f p met x-coördinaten 0,  en 2 noemen
+            we respectievelijk P, Q en R.
+            In figuur 2 is voor een waarde van p de grafiek van f p weergegeven.
+            Ook zijn de lijnstukken PQ en QR weergegeven.
+
+            figuur 2
+              y
+
+                                                 fp
+
+              P                                          R
+
+
+              O                                                x
+
+
+                                        Q
+
+
+
+            Er zijn waarden van p waarvoor PQ en QR loodrecht op elkaar staan.
+4p   12     Bereken exact deze waarden van p.
+
+
+
+VW-1025-a-19-1-o                                      9 / 11                              lees verder ►►►
+      Driehoek met bewegend hoekpunt
+
+            Lijn k gaat door de punten A (0, 10) en B (40, 0) .
+            De baan van een punt P is gegeven door de volgende
+            bewegingsvergelijkingen:
+                     x  18  5t
+                    
+                     y  30  3t
+            De baan van punt P is de lijn m. Zie de figuur.
+
+            figuur
+                    y
+
+                   40
+
+                                    P
+                   30
+
+
+
+                   20                                  m
+
+
+
+                   10 A
+                                        k
+
+                                                            B
+                   O         10             20   30        40   50   60   70   x
+
+
+
+            Bij bijna elke positie van punt P vormen de punten A, B en P een
+            driehoek ABP. Er is één uitzondering.
+5p   13     Bereken de coördinaten van P zodat A, B en P niet de hoekpunten van
+            een driehoek vormen.
+
+8p   14     Onderzoek op algebraïsche wijze of er een positie van P is, zó dat
+            driehoek ABP een rechte hoek heeft bij P én driehoek ABP een
+            gelijkbenige driehoek is.
+
+
+
+
+VW-1025-a-19-1-o                                      10 / 11                      lees verder ►►►
+      Afgeknotte paraboloïde
+
+            De functie f is gegeven door f ( x)  x . De grafiek van f is getekend in
+            figuur 1, samen met de lijnen met vergelijkingen x  a en x  b , waarbij
+            0  a  b . Midden tussen de punten (a, 0) en (b, 0) ligt het punt (m, 0) .
+
+            De grafiek van f, de x-as en de twee verticale lijnen sluiten een gebied in.
+            Dit gebied, in figuur 1 met grijs aangegeven, wordt gewenteld om de x-as.
+            Het omwentelingslichaam is een zogenaamde afgeknotte paraboloïde.
+            Deze is afgebeeld in figuur 2.
+
+            figuur 1                                  figuur 2
+              y
+
+                                               f
+
+
+
+
+             O         a      m   b            x      a     m       b
+
+
+
+
+            Bij de omwenteling beschrijft elk punt van de grafiek een cirkel.
+            De oppervlakte van de cirkel die beschreven wordt door het punt (m, m )
+            noemen we A. De cirkelschijf met deze oppervlakte is met donkergrijs
+            aangegeven in figuur 2.
+                                                         figuur 3
+            In figuur 3 staat de afgeknotte paraboloïde               b
+            een kwartslag gedraaid. In die figuur is ook
+            de hoogte h van de afgeknotte paraboloïde
+                                                                      m                    h
+            aangegeven.
+
+                                                                           a
+
+
+
+            Voor de inhoud V van de afgeknotte paraboloïde geldt de formule:
+                   V  h A
+7p   15     Bewijs dit.
+
+
+
+
+VW-1025-a-19-1-o                            11 / 11                             lees verdereinde
+                                                                                             ►►► 
+

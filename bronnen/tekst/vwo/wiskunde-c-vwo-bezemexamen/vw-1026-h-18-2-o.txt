@@ -1,0 +1,549 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                     dinsdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+ oud programma                                                      wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 20 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-h-18-2-o
+            OVERZICHT FORMULES
+
+            Kansrekening
+            Voor toevalsvariabelen X en Y geldt: E ( X  Y )  E ( X )  E (Y )
+            Voor onafhankelijke toevalsvariabelen X en Y geldt:
+             σ( X  Y )  σ 2 ( X )  σ 2 (Y )
+              n -wet: bij een serie van n onafhankelijk van elkaar herhaalde
+            experimenten geldt voor de som S en het gemiddelde X van de
+            uitkomsten X:
+            E (S )  n  E ( X ) σ( S )  n  σ( X )
+                                          σ( X )
+            E( X )  E( X )      σ( X ) 
+                                             n
+
+            Binomiale verdeling
+            Voor de binomiaal verdeelde toevalsvariabele X, waarbij n het aantal
+            experimenten is en p de kans op succes per keer, geldt:
+                         n
+            P( X  k )     p k  (1  p) n k met k = 0, 1, 2, 3, …, n
+                         k 
+            Verwachting: E ( X )  n  p         Standaardafwijking: σ( X )  n  p  (1  p )
+
+            Normale verdeling
+            Voor een toevalsvariabele X die normaal verdeeld is met gemiddelde μ
+            en standaardafwijking σ geldt:
+                X μ                                                       g μ
+            Z        is standaard-normaal verdeeld en P( X  g )  P( Z       )
+                  σ                                                          σ
+
+            Logaritmen
+             regel                                         voorwaarde
+              g
+                log a  g log b  g log ab                 g > 0, g  1, a > 0, b > 0
+                                        a
+              g
+                log a  g log b  g log                    g > 0, g  1, a > 0, b > 0
+                                        b
+              g
+                log a p  p  g log a                      g > 0, g  1, a > 0
+                           p
+                               log a
+              g
+                   log a  p                               g > 0, g  1, a > 0, p > 0, p  1
+                               log g
+
+
+
+
+VW-1026-h-18-2-o                                       2                                       lees verder ►►►
+VW-1026-h-18-2-o   3   lees verder ►►►
+      Wasdrogers
+
+            Een wasdroger droogt wasgoed door middel van warme lucht. De meeste
+            wasdrogers gebruiken elektriciteit als energiebron. Voor elektrische
+            apparaten zijn zogenoemde energielabels ingevoerd: deze geven aan hoe
+            zuinig een apparaat is met energie. De energielabels hebben de letters A
+            tot en met G: A betekent zeer zuinig, G zeer onzuinig.
+            Op de website van een milieuorganisatie worden verschillende
+            wasdrogers met elkaar vergeleken. In tabel 1 staan gegevens van drie
+            wasdrogers: een energiezuinige wasdroger met een A-label en twee veel
+            verkochte “gewone” wasdrogers met een C-label. De jaarkosten van een
+            wasdroger zijn de kosten voor het energieverbruik plus de afschrijving. De
+            afschrijving is de waardevermindering van de wasdroger. Bij de
+            berekening van de jaarkosten is men in tabel 1 uitgegaan van de
+            volgende veronderstellingen:
+             Een kilowattuur (kWh) elektriciteit kost € 0,22.
+             Per jaar wordt elke wasdroger voor 210 droogbeurten gebruikt.
+             Alle wasdrogers hebben een levensduur van 10 jaar.
+             De afschrijving is elk jaar 10
+                                           1 van de aanschafprijs.
+
+
+
+            tabel 1
+                      wasdroger          prijs        energieverbruik in    jaarkosten
+                                                     kWh per droogbeurt      (inclusief
+                                                       (5 kg wasgoed)      afschrijving)
+            wasdroger 1 -               € 960                1,70               € 175
+            warmtepompdroger
+            met A-label
+            wasdroger 2 -               € 400               3,25               € 190
+            luchtafvoerdroger
+            met C-label
+            wasdroger 3 -               € 500               3,65                 ...
+            condensdroger
+            met C-label
+
+            Wasdroger 1 (met het A-label) is duurder in aanschaf, maar zuiniger in
+            energieverbruik en gerekend over de hele periode van 10 jaar voordeliger.
+            Dit is te zien aan de jaarkosten, die voor deze wasdroger lager zijn.
+            In tabel 1 zijn de jaarkosten voor wasdroger 3 niet ingevuld.
+3p    1     Bereken deze jaarkosten.
+
+            In tabel 1 is gerekend met 210 droogbeurten per jaar. Om de jaarkosten
+            te berekenen voor een willekeurig aantal droogbeurten per jaar, kan men
+            voor de eerste wasdroger de volgende formule opstellen:
+                   K  96  0,374d
+            Hierin is K de jaarkosten en d het aantal droogbeurten per jaar.
+
+
+
+VW-1026-h-18-2-o                                 4                             lees verder ►►►
+            Bij deze formule is men weer uitgegaan van een elektriciteitsprijs van €
+            0,22 per kilowattuur en een levensduur van de wasdroger van 10 jaar. Bij
+            deze formule gaat men dus uit van een jaarlijkse afschrijving van 101 van
+
+            de aanschafprijs.
+
+            We gaan nu uit van een levensduur van 12 jaar, een jaarlijkse afschrijving
+                 1 van de aanschafprijs en een elektriciteitsprijs van € 0,26 per
+            van 12
+            kilowattuur. Hierdoor verandert de formule voor K.
+3p    2     Geef de nieuwe formule voor K in deze situatie. Licht je antwoord toe.
+
+            Op de lange duur is een energiezuinige wasdroger voordeliger, maar de
+            aanschafprijs is hoger. In dit verband wordt het begrip “terugverdientijd”
+            gebruikt. Hiervoor vergelijkt men een energiezuinige wasdroger met een
+            “gewone” wasdroger: een bepaald type veel verkochte wasdroger met
+            C-label. De terugverdientijd is de periode die het duurt voordat de hogere
+            aanschafprijs van deze energiezuinige wasdroger ten opzichte van de
+            “gewone” wasdroger is terugverdiend via besparing op de energiekosten.
+
+            In tabel 2 wordt een bepaalde wasdroger met een A-label vergeleken met
+            een “gewone” wasdroger met C-label.
+
+      tabel 2
+     type             prijs     energieverbruik       aantal     elektriciteits-   terugverdientijd
+     wasdroger                  in kWh per            droog-     prijs (euro       ten opzichte
+                                droogbeurt            beurten    per kWh)          van wasdroger
+                                                      per jaar                     met C-label
+     energiezuinige    € 950         1,75               210           0,22              8 jaar
+     wasdroger
+     (A-label)
+     “gewone”          € 375         3,35               210           0,22                --
+     wasdroger
+     (C-label)
+
+            De terugverdientijd van de energiezuinige wasdroger is in deze situatie
+            bijna 8 jaar.
+4p    3     Toon dit aan.
+
+            De meeste mensen vinden een terugverdientijd van 8 jaar te lang en
+            zullen daarom deze energiezuinige wasdroger niet kopen. Een
+            terugverdientijd van 4 jaar wordt wel acceptabel gevonden.
+            Een terugverdientijd van 4 jaar kan bereikt worden als de aanschafprijs
+            van de energiezuinige wasdroger in tabel 2 niet € 950 zou zijn, maar
+            lager.
+4p    4     Bereken wat deze aanschafprijs dan zou moeten zijn.
+
+
+
+
+VW-1026-h-18-2-o                                  5                                   lees verder ►►►
+      Asperges
+
+            Vooral in Zuid-Nederland worden asperges als
+            groente geteeld. Uit aspergezaad groeien
+            aspergeplanten en als deze voldoende gegroeid
+            zijn, worden de asperges geoogst.
+
+            De prijs van het zaad is € 4500 per kg. Per hectare
+            groeien ongeveer 20 000 aspergeplanten. Hiervoor
+            is ongeveer 750 gram zaad nodig. Een
+            aspergeplant levert in een oogstseizoen gemiddeld
+            twintig asperges. In één kilo gaan gemiddeld tien asperges.
+            De gemiddelde opbrengst van één kilo asperges is € 4.
+4p    5     Bereken het verschil van de gemiddelde opbrengst per hectare en de
+            kosten voor het benodigde zaad.
+
+            De geoogste asperges worden op basis van kleur en dwarsdoorsnede
+            gesorteerd. In deze opgave bekijken we witte asperges met een
+            dwarsdoorsnede van 10 tot 38 mm. Een aspergeteler heeft in een week in
+            mei 20 000 asperges geoogst en daarna gesorteerd. In tabel 1 staan de
+            aantallen per klasse weergegeven.
+
+            tabel 1
+             klasse   dwarsdoorsnede       frequentie
+                          (in mm)
+               C1          10-<12             1600
+               B1          12-<16             4000
+               A1          16-<20             4500
+              AA1          20-<28             8800
+              AAA1         28-<38             1100
+
+5p    6     Zet de gegevens uit tabel 1 uit op het normaal waarschijnlijkheidspapier
+            op de uitwerkbijlage en toon daarmee aan dat de dwarsdoorsneden van
+            de geoogste asperges van deze aspergeteler bij benadering normaal
+            verdeeld zijn.
+
+            We nemen vanaf nu aan dat we de dwarsdoorsneden van asperges
+            mogen benaderen met de normale verdeling met µ = 20,1 mm en
+            σ = 5,6 mm. Zoals in tabel 1 te zien is, verdelen we de asperges in vijf
+            klassen.
+            We kunnen nu het percentage asperges in klasse AA1 berekenen met
+            behulp van de normale benadering, maar ook met behulp van de
+            gegevens uit tabel 1.
+
+4p    7     Bereken deze beide percentages. Rond je antwoord af op hele
+            percentages.
+
+
+VW-1026-h-18-2-o                              6                                lees verder ►►►
+            Op een ochtend oogst een andere aspergeteler 200 asperges. Neem weer
+            aan dat de dwarsdoorsneden van asperges benaderd mogen worden met
+            de normale verdeling met µ = 20,1 mm en σ = 5,6 mm.
+5p    8     Bereken hoe groot de kans is dat er van de 200 geoogste asperges
+            minstens 50 in klasse A1 zitten.
+
+
+
+
+VW-1026-h-18-2-o                           7                           lees verder ►►►
+      Topinkomens
+
+            Op 17 mei 2008 stond in de Volkskrant een artikel waarin gesteld werd
+            dat de salariskloof tussen topbestuurders en gewone werknemers in
+            Nederland steeds groter wordt. Bij het artikel was een figuur afgedrukt
+            waarin het gemiddelde van de 100 topinkomens en het modale inkomen in
+            de periode 1983-2007 te zien waren. Zie figuur 1. Alle bedragen in deze
+            figuur zijn jaarinkomens in euro’s.
+
+            figuur 1
+                          1 600 000
+             jaarinkomen
+              (in euro s) 1 400 000
+                         1 200 000
+                         1 000 000
+                           800 000
+                           600 000
+                           400 000
+                           200 000
+                                 0
+                                      19    19    19      19         91     93     95     97     99   20   20   20     20
+                                       83    85      87   89       19     19     19     19     19     01   03    05      07
+                                      Legenda:                                                                       jaartal
+                                           modaal
+                                           top 100
+
+
+            De Volkskrant stelt dat in de periode 1983-2007 de inkomens van
+            topbestuurders elk jaar met gemiddeld 7,2% zijn gestegen. In figuur 1
+            staan geen gegevens over topinkomens in 1983 en 1984 omdat die toen
+            nog niet openbaar waren.
+            In 1985 was het gemiddelde van de 100 topinkomens € 295 000.
+
+            Uitgaande van het bedrag voor 1985 levert een gemiddelde groei van
+            7,2% per jaar inderdaad ongeveer het gemiddelde jaarsalaris van de 100
+            topinkomens op zoals dit in figuur 1 bij 2007 af te lezen is.
+4p    9     Bereken dit gemiddelde jaarsalaris en vergelijk je antwoord met het
+            gemiddelde jaarsalaris dat in figuur 1 af te lezen is.
+
+
+
+
+VW-1026-h-18-2-o                                               8                                            lees verder ►►►
+            figuur 2
+                modaal 35 000
+             jaarinkomen 30 000
+              (in euro s) 25 000
+                         20 000
+                         15 000
+                         10 000
+                          5 000
+                              0
+                                   19   19   19   19     91     93
+                                                                     20
+                                                                     20 07
+                                                                        05
+                                                                        03
+                                                       19     19
+                                                                     20
+                                                                     20 01
+                                   83   85   87   89                 19
+                                                                     19
+                                                                     1999
+                                                                       97
+                                                                       95
+                                                                          jaartal
+
+
+            De kleine staafjes van het modale jaarinkomen uit figuur 1 zijn in figuur 2
+            nogmaals weergegeven. Het modale jaarinkomen is een maat voor het
+            salaris van de “gewone werknemer”: veel mensen verdienen een salaris
+            dat rond dit bedrag ligt. In 1983 verdiende een topbestuurder uit de top-
+            100 gemiddeld 16 keer zoveel als het modale inkomen en in 2007
+            gemiddeld 44 keer zoveel.
+4p   10     Toon aan dat het gemiddelde jaarsalaris van de 100 topinkomens in 2007
+            ongeveer 5 keer zo hoog was als in 1983.
+
+            Ook binnen de 100 topinkomens zijn nog grote verschillen. In 2004 was
+            het gemiddelde jaarsalaris van de 100 topinkomens € 910 000. Het
+            gemiddelde jaarsalaris van de 25 hoogste inkomens uit deze groep was
+            € 1 720 000.
+4p   11     Onderzoek of de 25 topbestuurders met de hoogste inkomens gemiddeld
+            meer dan drie keer zoveel verdienen als het gemiddelde van de rest van
+            de bestuurders uit deze top-100.
+
+            Op de website van de Volkskrant kan iemand laten berekenen hoeveel hij
+            zou verdienen als zijn salaris de afgelopen 25 jaar evenveel gestegen
+            was als dat van topbestuurders. Op de website staat de onderstaande
+            tekst:
+
+            tekst 1
+
+            Hoe hoog zou jouw topsalaris moeten zijn?
+            Kruip in de huid van een topbestuurder en doe net alsof je salaris in de
+            afgelopen 25 jaar even hard opliep als het inkomen van de hoogste baas.
+            Vul je huidige salaris in en zie wat je eigenlijk had moeten verdienen.
+            Voor het gemak is ervan uitgegaan dat je er de afgelopen 25 jaar net als
+            Jan Modaal maar 2,3 procent per jaar aan salarisverhoging bij hebt
+            gekregen, terwijl Jan Top er jaarlijks 7 procent op vooruitging.
+
+            Iemand vult voor zijn huidige salaris € 2000 in.
+4p   12     Bereken het salaris dat de website als uitkomst geeft.
+
+
+
+
+VW-1026-h-18-2-o                                          9                     lees verder ►►►
+      Zuivere dobbelsteen?
+
+            Op de foto zie je twee ronde dobbelstenen.             foto
+            Op deze dobbelstenen staan aantallen ogen van
+            1 tot en met 6, net als op gewone dobbelstenen.
+            Een ronde dobbelsteen is hol met binnenin een
+            stalen kogeltje. Bij elk getal zit in de holle
+            binnenkant een soort kuiltje waar het kogeltje in
+            past. Aan het einde van een worp komt het
+            kogeltje in zo’n kuiltje terecht. Hierdoor blijft de
+            dobbelsteen liggen, bijvoorbeeld met de vier
+            onder en de drie boven: er is dan drie gegooid.
+
+            Iemand vraagt zich af of een ronde dobbelstenen wel zuiver is, dat wil
+            zeggen of voor elk aantal ogen de kans om dat aantal te gooien precies
+            gelijk is aan 16 . Om dit te onderzoeken gooit hij 200 keer met een ronde
+            dobbelsteen. De resultaten staan in tabel 1.
+
+            tabel 1
+            aantal ogen          1  2  3  4  5  6  totaal
+            aantal keren gegooid 43 31 25 26 35 40 200
+
+            Er is slechts 25 keer drie gegooid. Dit is minder dan het aantal keren drie
+            dat verwacht mag worden als de kans op drie precies 16 is.
+3p   13     Bereken hoeveel procent minder dit is.
+
+            Er is 25 keer drie gegooid. Als we aannemen dat de ronde dobbelsteen
+            zuiver is, dus dat de kans op drie precies 16 is, kunnen we berekenen hoe
+            uitzonderlijk dit resultaat is.
+3p   14     Bereken de kans om bij 200 worpen met een zuivere dobbelsteen 25 of
+            minder keer drie te gooien.
+
+
+
+
+VW-1026-h-18-2-o                               10                              lees verder ►►►
+            Om te onderzoeken of een dobbelsteen zuiver is of niet, is het beter om
+            meer dan 200 keer te gooien. Dit wordt geïllustreerd door figuur 1. In
+            figuur 1 is het resultaat te zien van een aantal simulaties van het gooien
+            met een zuivere dobbelsteen. Er werd hierbij alleen gekeken naar het
+            aantal drieën.
+
+            figuur 1
+
+                         0,25
+             relatieve
+            frequentie
+                         0,20
+
+                         0,15
+
+                         0,10
+
+                         0,05
+
+                           0
+                           101   102   103      104     105        106
+                                                       aantal worpen
+
+
+            Elk cirkeltje stelt het resultaat van een simulatie voor. Langs de
+            horizontale as is het aantal worpen bij een simulatie uitgezet op een
+            logaritmische schaalverdeling. Langs de verticale as staat de relatieve
+            frequentie van het aantal drieën dat hierbij gegooid is. In figuur 1 is
+            bijvoorbeeld te zien dat bij de simulatie van 10 worpen de relatieve
+            frequentie 0,1 is: er is precies één keer een drie gegooid.
+
+            Figuur 1 staat ook op de uitwerkbijlage. Bij een simulatie van 60 worpen is
+            4 keer een drie gegooid.
+3p   15     Teken het punt dat bij deze simulatie hoort in de figuur op de
+            uitwerkbijlage.
+            Licht je werkwijze toe.
+
+            In figuur 1 is de verwachte relatieve frequentie aangegeven met een
+            horizontale lijn op een hoogte van ongeveer 0,167. Dit komt overeen met
+            kans 16 . Het punt dat hoort bij de simulatie van 200 worpen ligt dichter bij
+            deze horizontale lijn dan het punt dat hoort bij de simulatie van 30
+            worpen. Bij de simulatie van 200 worpen is het verschil tussen de
+            verwachte en de werkelijke relatieve frequentie dus kleiner.
+            We kunnen ook kijken naar de verschillen bij het aantal geworpen drieën.
+            Uit figuur 1 volgt dat er bij een simulatie van 30 worpen 3 keer een drie
+            gegooid is. Het verschil met het verwachte aantal geworpen drieën is 2.
+            Rik beweert dat het verschil tussen het werkelijke en het verwachte aantal
+            geworpen drieën bij de simulatie van 200 worpen kleiner dan 2 is.
+4p   16     Onderzoek of Rik gelijk heeft.
+
+
+
+
+VW-1026-h-18-2-o                               11                                lees verder ►►►
+      Diskos van Phaistos
+
+            In 1908 werd bij opgravingen op het Griekse eiland Kreta een bijzondere
+            ontdekking gedaan. De Italiaanse archeoloog Luigi Pernier groef uit een
+            paleis in de stad Phaistos een schijf van aardewerk op, aan weerszijden
+            bedrukt met mysterieuze tekens. Deze schijf, de zogenaamde ‘Diskos van
+            Phaistos’, is omgeven met raadsels. Waar komt hij vandaan, hoe oud is
+            hij en wat betekenen de mysterieuze tekens die erop staan?
+
+            foto
+
+
+
+
+            Hierboven zie je een foto van de Diskos. Op deze foto is de diameter van
+            de Diskos (zie de zwarte pijl) ongeveer 5,5 cm. In werkelijkheid is de
+            diameter ongeveer 2,9 keer zo groot.
+            We nemen aan dat de Diskos cirkelvormig is. Voor de oppervlakte van de
+            Diskos geldt dan de volgende formule:
+
+                   oppervlakte  0, 785  d 2
+
+            Hierin is d de diameter. De werkelijke oppervlakte van de Diskos is meer
+            dan acht keer zo groot als de oppervlakte van de schijf op de foto.
+3p   17     Laat dit zien met behulp van een berekening.
+
+            In de wiskunde wordt voor de oppervlakte van een cirkel meestal niet de
+            formule oppervlakte  0, 785  d 2 gebruikt, maar de formule oppervlakte  π  r 2 .
+            Hierbij is r de straal van de cirkel.
+            De formule oppervlakte  π  r 2 kun je herleiden tot oppervlakte  0, 785  d 2
+            door gebruik te maken van het volgende:
+             π  3,14
+             De straal van een cirkel is de helft van de diameter.
+3p   18     Laat zien hoe je de formule oppervlakte  π  r 2 kunt herleiden tot de formule
+            oppervlakte  0, 785  d 2 .
+
+
+
+
+VW-1026-h-18-2-o                                 12                                   lees verder ►►►
+            Datering
+            Regelmatig hebben critici zich afgevraagd of de Diskos wel echt is. Met
+            name aan de leeftijd wordt getwijfeld. Een bekende methode om de
+            ouderdom van voorwerpen van aardewerk te bepalen is
+            thermoluminescentie (TL). Bij TL moeten (liefst op een onzichtbare
+            plaats) een aantal kleine cilindertjes uit het aardewerk geboord worden.
+            Dit uitgeboorde materiaal wordt langzaam verhit tot 500 graden Celcius.
+            Hierbij zendt het materiaal een lichtsignaaltje uit dat gemeten wordt: het
+            TL-signaal. Hoe ouder het aardewerk, hoe sterker het TL-signaal.
+            Er geldt de volgende formule voor de ouderdom in jaren:
+                   ouderdom  c  TL
+            Hierbij is TL het gemeten TL-signaal en c een getal dat onder andere
+            afhangt van de plaats waar het aardewerk is gevonden.
+
+            Stel dat voor de Diskos TL  2660 gemeten wordt. Voor een potscherf, die
+            in hetzelfde paleis als de Diskos is gevonden, is gemeten TL  1580 . Voor
+            deze potscherf geldt dezelfde waarde van c in de formule als voor de
+            Diskos. Op grond van andere informatie weet men dat deze potscherf
+            ongeveer 2200 jaar oud is.
+4p   19     Bereken met behulp van bovenstaande gegevens hoe oud de Diskos dan
+            is.
+
+
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1026-h-18-2-o                              13                               lees verder ►►►
+            Betekenis
+            Volgens de archeoloog Peter Aleff vormen de tekens op de Diskos een
+            bordspel. Volgens hem speelde men er een spel mee door pionnen in een
+            vaste richting over de schijf te laten lopen. Het aantal tekens dat je verder
+            mocht, werd bepaald door het gooien met een gewone, zeszijdige
+            dobbelsteen. Gooide je 1, dan mocht je één teken verder, gooide je 2 dan
+            twee tekens enzovoort.
+            De tekens op de Diskos zijn verdeeld in vakken. Deze vakken vormen een
+            spiraal die van buiten naar binnen gaat. In vak 1 staan vijf tekens, in vak 2
+            drie tekens, in vak 3 drie. Zie figuur 1.
+            In figuur 1 zie je het eerste gedeelte van de baan aan één kant van de
+            Diskos. Het spel wordt gespeeld van rechts naar links. Het is bij dit spel
+            niet mogelijk dat je terug wordt gezet.
+
+            figuur 1
+                   vak 4   vak 3           vak 2                    vak 1
+
+
+
+
+                                             speelrichting                      start
+
+            We spelen een spel op de Diskos volgens de regels die Peter Aleff
+            beschrijft. Er staat een pion op het eerste teken en er wordt met de
+            dobbelsteen ‘drie’ gegooid. De pion komt dus op het teken ‘lopend
+            mannetje’ in vak 1 terecht.
+5p   20     Bereken de kans dat de pion gedurende de rest van het spel niet in vak 2
+            terecht komt.
+
+
+
+
+VW-1026-h-18-2-o                              14                               lees verder
+                                                                                         einde
+                                                                                           ►►► 
+

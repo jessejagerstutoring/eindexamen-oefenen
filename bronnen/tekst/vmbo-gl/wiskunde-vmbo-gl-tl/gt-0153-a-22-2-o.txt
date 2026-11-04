@@ -1,0 +1,312 @@
+                                                    Examen VMBO-GL en TL
+
+                                                                         2022
+                                                                                tijdvak 2
+                                                                         tijdsduur: 2 uur
+
+
+
+                                                       wiskunde CSE GL en TL
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+ Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+ opgenomen.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 69 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+GT-0153-a-22-2-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-22-2-o                             2 / 10                 lees verder ►►►
+      Fruitvliegjes
+
+            Fruitvliegjes kunnen zich in de zomer snel vermenigvuldigen.
+
+
+
+
+            Een vrouwtjesfruitvlieg legt iedere 12 uur eitjes. Ze legt 5 eitjes per keer.
+
+2p    1     Bereken hoeveel eitjes het vrouwtje na één week gelegd heeft. Schrijf je
+            berekening op.
+
+            Bij een onderzoek wordt elke dag geteld hoeveel fruitvliegjes er in een
+            gft-container (groente-, fruit- en tuinafval) zitten. Uit dat onderzoek blijkt
+            dat je dat aantal kan berekenen met de volgende formule:
+
+                   A = 10  1,7t
+
+            Hierin is A het aantal fruitvliegjes en t de tijd in dagen vanaf het begin van
+            het onderzoek.
+
+1p    2     Hoeveel fruitvliegjes zaten aan het begin van het onderzoek in de gft-
+            container?
+
+5p    3     Teken op de uitwerkbijlage de grafiek die hoort bij de formule. Vul eerst
+            de tabel in en maak een juiste schaalverdeling bij de verticale as.
+
+3p    4     Na twee weken zijn er al bijna 17 000 fruitvliegjes in de gft-container.
+             Bereken voor welke gehele waarde van t er voor het eerst meer dan
+               50 000 fruitvliegjes zijn. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-22-2-o                              3 / 10                               lees verder ►►►
+      Huis
+
+
+
+
+1p    5     Het huis op de foto heeft de vorm van een wiskundige ruimtefiguur.
+             Wat is de naam van deze wiskundige ruimtefiguur?
+
+            Het huis is 12 meter lang, 8 meter breed en 7,5 meter hoog.
+
+
+
+
+            Je ziet een schematische tekening van het huis in een assenstelsel. Van
+            enkele hoekpunten zijn de coördinaten gegeven. De lengte van O naar A
+            is 8 meter. De hoogte van punt E is 3,75 meter.
+
+1p    6     Schrijf de coördinaten van punt E op.
+
+
+
+
+GT-0153-a-22-2-o                           4 / 10                           lees verder ►►►
+            De voorgevel BCFJE is van glas gemaakt.
+
+
+
+
+4p    7     Bereken hoeveel m2 de oppervlakte van de voorgevel BCFJE is. Schrijf je
+            berekening op.
+
+4p    8     Bereken hoeveel graden hoek J in de voorgevel BCFJE is. Schrijf je
+            berekening op.
+
+3p    9     Bereken, zonder te meten, hoeveel meter de lengte van EJ is. Schrijf je
+            berekening op en rond je antwoord af op één decimaal.
+
+5p    10    Tijdens de bouw van het huis werden voor de stevigheid de punten B en
+            H en de punten A en J met kabels aan elkaar verbonden.
+
+
+
+
+             Bereken hoeveel meter de lengte van B naar H is. Schrijf je
+              berekening op.
+
+
+
+
+GT-0153-a-22-2-o                           5 / 10                            lees verder ►►►
+      Gateway Arch
+
+            De Gateway Arch is een boogvormig monument in een Amerikaanse stad.
+
+
+
+
+1p    11    Je ziet een foto van de Gateway Arch met punt M midden onder de boog.
+            De hoogte van de boog kan je berekenen met de formule:
+
+                          1 2
+                   H=–      a + 192
+                         48
+
+            Hierin is H de hoogte van de boog in meters en a de horizontale afstand
+            vanaf punt M (0,0) midden onder de boog in meters.
+
+             Laat met een berekening zien dat de Gateway Arch 192 meter hoog is.
+
+3p    12    Als toerist kan je een souvenir van de Gateway Arch kopen. De hoogte
+            van de boog van het souvenir is 8 cm.
+
+
+
+
+             Bereken de schaal van dit souvenir. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-22-2-o                           6 / 10                             lees verder ►►►
+4p    13    Een toerist maakte de foto hieronder, waarop het Old Courthouse onder
+            de boog past. Het Old Courthouse is 59 meter hoog en staat 390 meter
+            van de Gateway Arch. Naast de foto staat een schematische weergave
+            van deze situatie.
+
+
+
+
+             Bereken, zonder te meten, hoeveel meter de afstand tussen de toerist
+              die de foto maakte en het Old Courthouse is. Schrijf je berekening op
+              en rond je antwoord af op hele meters.
+
+2p    14    Hieronder zie je een kaart van de omgeving van de Gateway Arch.
+
+
+
+                     Old Courthouse
+
+                                          The Gateway Arch
+
+
+
+
+            Voor een toeristenfilm vliegt een drone vanaf de Gateway Arch naar het
+            Old Courthouse.
+             Hoeveel graden is de koershoek van deze dronevlucht?
+
+
+
+
+GT-0153-a-22-2-o                           7 / 10                          lees verder ►►►
+      Bubbelbad
+
+            Vincent heeft een bubbelbad in zijn badkamer. Zie de foto hieronder.
+            Naast de foto zie je een schematische tekening van het bubbelbad.
+
+
+
+
+            Het onderste deel van het bubbelbad heeft de vorm van een cilinder.
+
+
+
+
+3p    15    Vincent laat dit deel helemaal vollopen met water.
+             Laat met een berekening zien dat er dan afgerond 69 liter water in het
+               onderste deel zit.
+
+            Het bovenste deel van het bubbelbad is 50 cm hoog. Zie de tekening
+            hieronder.
+
+
+
+
+            De hoeveelheid water die in het bovenste deel van het bubbelbad zit, kan
+            je berekenen met de formule:
+
+                   W = 0,38  h3 + 11,3  h2 + 113  h
+
+            Hierin is W de hoeveelheid water in liters in het bovenste deel en
+            h de waterhoogte van het bovenste deel in dm.
+
+3p    16    Laat met een berekening zien dat als de waterhoogte in het bovenste deel
+            30 cm is, de totale hoeveelheid water in het bubbelbad afgerond 520 liter
+            is.
+
+
+
+
+GT-0153-a-22-2-o                               8 / 10                            lees verder ►►►
+4p    17    Vincent zet de kraan open. Op zeker moment zit er in het onderste en
+            bovenste deel samen 640 liter water.
+
+
+
+
+             Bereken hoeveel cm het water dan onder de badrand staat. Schrijf je
+              berekening op.
+
+            Op de uitwerkbijlage zie je een grafiek van het aantal liters water L in het
+            bubbelbad bij een bepaalde vulhoogte v van het water in dm.
+
+            Het eerste stuk van de grafiek van (0; 0) tot (3,5; 69) gaat over het
+            onderste deel van het bubbelbad.
+
+3p    18    Maak een formule bij het eerste stuk van de grafiek.
+
+3p    19    De gestippelde grafiek is slechts gedeeltelijk getekend.
+             Teken de grafiek op de uitwerkbijlage verder tot het punt waar het
+               bubbelbad gevuld is tot aan de badrand. Bereken daarvoor eerst de
+               coördinaten van het eindpunt van de grafiek.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-22-2-o                             9 / 10                             lees verder ►►►
+      Zeewier
+
+            Zeewier is een zee-groente die bijvoorbeeld wordt gebruikt voor sushi. De
+            Europese bevolking gebruikt nu 300 miljoen kilogram zeewier per jaar.
+            Het gebruik van zeewier groeit in Europa met 10% per jaar.
+
+3p    20    Bereken hoeveel miljoen kilogram zeewier de Europese bevolking over
+            vijf jaar gebruikt. Schrijf je berekening op.
+
+3p    21    Nu wordt 99,7% van de 300 miljoen kilogram zeewier uit de natuur
+            gehaald, de rest wordt gekweekt.
+             Hoeveel kilogram zeewier wordt er nu gekweekt? Schrijf je berekening
+               op.
+
+
+
+
+            Gekweekt zeewier groeit aan een lijn. Bij een proef wordt van 32 deel van
+            de lijn alle zeewier geoogst. Bij 31 deel van de lijn wordt 70% geoogst.
+
+2p    22    Bereken hoeveel procent van het zeewier van deze lijn bij de proef
+            geoogst wordt. Schrijf je berekening op.
+
+3p    23    Van een lijn van 80 meter kan je 120 kilogram zeewier oogsten.
+             Bereken hoeveel kilometer lijn er nodig is om 300 miljoen kilogram
+               zeewier te kunnen oogsten. Schrijf je berekening op.
+
+3p    24    In 2050 is 360 000 km2 zeeoppervlak nodig om zeewier te kweken voor de
+            geschatte wereldbevolking van 9,7 miljard mensen.
+             Bereken hoeveel vierkante meter dit per persoon is. Schrijf je
+                berekening op.
+
+
+
+
+GT-0153-a-22-2-o                            10 / 10                            lees verdereinde
+                                                                                            ►►► 
+

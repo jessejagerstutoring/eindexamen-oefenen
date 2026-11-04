@@ -1,0 +1,350 @@
+                                                      Examen VMBO-KB
+
+                                                                 2023
+                                                                        tijdvak 1
+                                                               woensdag 17 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                        wiskunde CSE KB
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 23 vragen.
+ Voor dit examen zijn maximaal 69 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+KB-0153-a-23-1-o
+             OVERZICHT FORMULES:
+
+
+
+             omtrek cirkel =   diameter
+
+
+             oppervlakte cirkel =   straal 2
+
+
+             inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+             inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+             inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud bol = 34    straal 3
+
+
+
+
+KB-0153-a-23-1-o                              2 / 11                 lees verder ►►►
+      Zonnepanelen
+
+             Zonnepanelen zetten zonlicht om in
+             elektriciteit.
+             Hoe ouder de zonnepanelen worden, hoe
+             minder goed het zonlicht omgezet kan
+             worden in elektriciteit. De maximale
+             opbrengst aan elektriciteit wordt dus elk
+             jaar iets lager.
+
+             De nieuwe zonnepanelen hebben een
+             maximale opbrengst van 3000 kWh.
+
+2p    1      Na een aantal jaren is de maximale opbrengst 8% gedaald.
+              Bereken hoeveel kWh de maximale opbrengst na dat aantal jaren is.
+                Schrijf je berekening op.
+
+2p    2      Volgens de fabrikant van de zonnepanelen wordt de maximale opbrengst
+             van zijn zonnepanelen 0,6% per jaar lager.
+              Laat met een berekening zien dat de groeifactor per jaar 0,994 is.
+
+             De formule voor het berekenen van de maximale opbrengst per jaar van
+             de zonnepanelen is:
+
+                   E = 3000  0,994t
+
+             Hierin is E de maximale opbrengst in kWh en t de tijd in jaren.
+
+5p    3      Teken op de uitwerkbijlage de grafiek van de maximale opbrengst E. Vul
+             eerst de tabel in en maak een juiste verdeling op de verticale as.
+
+4p    4      De zonnepanelen zijn in de zomer van 2008 op het dak gelegd. Toen was
+             de maximale opbrengst 3000 kWh.
+              In welk jaar is volgens de formule de maximale opbrengst voor het
+                eerst minder dan 2600 kWh? Laat met een berekening zien hoe je aan
+                je antwoord komt.
+
+
+
+
+KB-0153-a-23-1-o                             3 / 11                            lees verder ►►►
+      Reis naar de Noordkaap
+
+
+
+
+             Marja en Arie reizen met hun camper van Zwolle naar de Noordkaap, het
+             noordelijkste puntje van het Europese vasteland.
+
+2p    5      Hemelsbreed (in een rechte lijn) is de afstand tussen Zwolle en de
+             Noordkaap 2283 km. Marja zegt dat de afstand over de weg
+             1 langer is dan de afstand hemelsbreed.
+             3
+              Hoeveel kilometer is volgens Marja de afstand van Zwolle naar de
+               Noordkaap over de weg? Schrijf je berekening op.
+
+             Marja en Arie rijden de eerste dag tot het noorden van Denemarken en
+             nemen daar de veerboot naar Kristiansand in Noorwegen. De prijs voor
+             de overtocht met de veerboot is te berekenen met de formule:
+
+                   P = 35  m + 65
+
+             Hierin is P de prijs in euro’s en m de lengte van de camper in meters.
+
+2p    6      De prijs voor de overtocht met de veerboot is 310 euro.
+              Hoeveel meter is de lengte van de camper? Schrijf je berekening op.
+
+             Vanaf Kristiansand is het nog 2255 km naar de Noordkaap. Tijdens deze
+             reis rijden Marja en Arie gemiddeld 6,5 uur per dag met een gemiddelde
+             snelheid van 39 km per uur.
+
+3p    7      Bereken hoeveel dagen de reis van Kristiansand naar de Noordkaap
+             duurt. Schrijf je berekening op.
+
+4p    8      De camper verbruikt gemiddeld 1 liter diesel voor 7,8 km. De diesel kost
+             in Noorwegen 14,8 Noorse kronen (NOK) per liter.
+             1 euro = 9,26 NOK.
+              Bereken hoeveel euro de diesel kost die nodig is voor de 2255 km van
+                 Kristiansand naar de Noordkaap. Schrijf je berekening op.
+
+
+KB-0153-a-23-1-o                             4 / 11                            lees verder ►►►
+      Uitkijktoren
+
+             In de bossen bij Doorn staat een uitkijktoren
+             van 25,6 meter hoog.
+             Bij helder weer kun je vanaf deze uitkijktoren
+             Kasteel Duurstede in het zuiden zien.
+
+
+
+
+3p    9      Op de uitwerkbijlage zie je een kaart met de uitkijktoren en het kasteel.
+              Bereken hoeveel kilometer de afstand van de uitkijktoren tot Kasteel
+                Duurstede in werkelijkheid is. Schrijf je berekening op.
+
+
+             Op 200 meter van de uitkijktoren ligt de Doornse kei.
+
+             Er komt een kabel vanaf de top van de uitkijktoren (C)
+             naar de Doornse kei (A). Zie de tekening hieronder.
+
+
+
+
+             Deze tekening is een schets. In werkelijkheid is hoek A veel kleiner.
+
+3p    10     Bereken hoeveel graden hoek A in werkelijkheid is. Schrijf je berekening
+             op.
+
+3p    11     Bereken hoeveel meter de lengte van AC is. Schrijf je berekening op en
+             rond je antwoord af op één decimaal.
+
+4p    12     Rond de uitkijktoren zijn diverse wandelroutes uitgezet. Een wandelaar
+             doet over een route van 12 kilometer precies 2,5 uur.
+              Bereken hoeveel uren en minuten de wandelaar doet over een route
+                van 8 kilometer als hij die in hetzelfde tempo loopt. Schrijf je
+                berekening op.
+
+
+
+
+KB-0153-a-23-1-o                             5 / 11                            lees verder ►►►
+      Pannaveld
+
+             Een pannaveld is een voetbalveldje met twee goals en een hek
+             eromheen. Pannavelden zijn er in allerlei groottes.
+
+
+
+
+             De meeste pannavelden hebben
+             de vorm van een rechthoek. Zie
+             de tekening hiernaast.
+             De lengte is altijd tweemaal zo
+             groot als de breedte.
+
+
+             Hieronder staat een formule waarmee je de oppervlakte van zo’n
+             pannaveld kan berekenen:
+
+                   oppervlakte = 2  b2
+
+             Hierin is oppervlakte in m2 en b de breedte van het pannaveld in meters.
+
+2p    13     Bereken hoeveel m2 de oppervlakte is als de breedte 9 meter is. Schrijf je
+             berekening op.
+
+3p    14     Er wordt een pannaveld aangelegd met een oppervlakte van 242 m2.
+              Bereken hoeveel meter de lengte van dit pannaveld is. Schrijf je
+                berekening op.
+
+
+
+
+KB-0153-a-23-1-o                             6 / 11                           lees verder ►►►
+5p    15     In een andere wijk wordt een pannaveld aangelegd met een lengte van
+             24 meter en een breedte van 12 meter. Langs twee zijden van dit
+             pannaveld komt een tegelpad van 2 meter breed. Zie de tekening
+             hieronder.
+
+
+
+
+             De tegels zijn 40 cm  40 cm.
+              Bereken hoeveel tegels er voor dit tegelpad nodig zijn. Schrijf je
+                berekening op.
+
+
+
+
+3p    16     Een ander type pannaveld is een cirkelvormig veldje van kunstgras met
+             een hek eromheen.
+             De diameter van dit veldje is 6 meter.
+             Rondom dit pannaveld ligt ook nog een strook kunstgras van 1 meter
+             breed. Zie de foto hierboven.
+              Bereken hoeveel m2 de oppervlakte van het kunstgras is. Schrijf je
+                berekening op.
+
+
+
+
+KB-0153-a-23-1-o                             7 / 11                           lees verder ►►►
+      Kunstige vierkanten
+
+             Op de foto zie je een kunstobject dat in Enschede staat.
+
+
+
+
+3p    17     De persoon op de foto die naast het kunstobject staat is 1,80 meter lang.
+              Bereken de hoogte van dit kunstobject in meters. Schrijf je berekening
+                op.
+
+             Het kunstobject bestaat uit drie vierkanten die door de wind om elkaar
+             heen draaien.
+
+             Hiernaast zie je een model van het kleinste
+             vierkant met een zijde van 1,9 meter met
+             daaromheen het middelste vierkant met een zijde
+             van 2,4 meter.
+
+             Dit model staat vergroot op de uitwerkbijlage.
+
+             Het grootste vierkant heeft een zijde van
+             2,9 meter.
+
+3p    18     Teken op de uitwerkbijlage het grootste vierkant erbij zo dat de afstand
+             tussen de zijden van de drie vierkanten overal gelijk is.
+
+
+KB-0153-a-23-1-o                             8 / 11                            lees verder ►►►
+3p    19     De drie vierkanten van het kunstobject zijn de eerste drie vierkanten van
+             een langere reeks.
+             In de tabel hieronder vind je het nummer van het vierkant in de reeks met
+             de bijbehorende lengte van de zijde van dat vierkant.
+
+              nummer vierkant        1         2         3         4         5
+              lengte zijde          1,9       2,4       2,9       3,4        3,9
+
+             Er is een lineair verband tussen het nummer van een vierkant en de
+             lengte van de bijbehorende zijde van dat vierkant.
+              Geef een formule die bij dit lineaire verband hoort.
+
+
+
+
+KB-0153-a-23-1-o                            9 / 11                           lees verder ►►►
+      Energieverbruik
+
+
+
+
+             Het energieverbruik van een volwassen persoon is afhankelijk van de
+             soort activiteit en het lichaamsgewicht.
+             Het energieverbruik kan worden berekend met de volgende formule:
+
+                                       3,5  M  gewicht
+                   energieverbruik =
+                                              200
+
+             Hierin is energieverbruik in kcal per minuut, gewicht in kilogram en M een
+             vast getal dat hoort bij een activiteit.
+
+             Hieronder staat een tabel met daarin verschillende activiteiten met de
+             bijbehorende waarde voor M.
+
+             activiteit                            M
+             slapen                               0,9
+             wandelen                             2,9
+             fietsen                               4
+             hardlopen                             7
+             krachttraining                        8
+             touwtjespringen                      10
+
+             Cem weegt 80 kilogram.
+
+2p    20     Laat met een berekening zien dat Cem na 20 minuten fietsen 112 kcal
+             heeft verbruikt.
+
+3p    21     Na die 20 minuten fietsen gaat Cem ook nog 40 minuten hardlopen.
+              Bereken hoeveel kcal Cem na het fietsen en hardlopen in totaal heeft
+                verbruikt. Schrijf je berekening op.
+
+
+
+KB-0153-a-23-1-o                                 10 / 11                      lees verder ►►►
+3p    22     Deniz doet aan krachttraining. Volgens de formule is zijn energieverbruik
+             tijdens de krachttraining 11,76 kcal per minuut.
+              Bereken hoeveel kilogram het gewicht van Deniz is. Schrijf je
+                 berekening op.
+
+             De trainer heeft een formule gemaakt voor het totale energieverbruik
+             tijdens een duurtraining. Die training bestaat uit 60 minuten fietsen,
+             45 minuten hardlopen en 15 minuten touwtje springen.
+
+                                               3,5  4  gewicht        3,5  7  gewicht
+             totale energieverbruik =                             60 +                    45 + …
+                                                      200                      200
+
+             Hierin is totale energieverbruik in kcal en gewicht in kilogram.
+2p    23     In de formule ontbreekt aan het eind een gedeelte.
+              Maak de formule compleet. Schrijf alleen het ontbrekende gedeelte
+                 op.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+KB-0153-a-23-1-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

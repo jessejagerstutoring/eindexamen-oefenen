@@ -1,0 +1,335 @@
+                                                                Examen HAVO
+
+                                                                     2022
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde B
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 18 vragen.
+ Voor dit examen zijn maximaal 76 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-22-2-o
+      Logaritme en parabool
+
+            De functie f wordt gegeven door f ( x)  3  2 log( x  4) .
+            De grafiek van f snijdt de x-as in het punt A.
+3p    1     Bereken exact de x-coördinaat van A.
+
+            Het functievoorschrift f ( x)  3  2 log( x  4) is te herschrijven in de vorm
+              f ( x)  2 log(ax  b) .
+2p    2     Bereken exact de waarden van a en b.
+
+            De grafiek van f snijdt de y-as in het punt S.
+            De grafiek van f heeft een verticale asymptoot. Deze asymptoot snijdt de
+            x-as in het punt T.
+
+            De functie g is een kwadratische functie. De grafiek is dus een parabool.
+            Punt T is de top van de parabool. De parabool gaat bovendien door S.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+5p    3     Stel op exacte wijze een functievoorschrift van g op.
+
+
+
+
+HA-1025-a-22-2-o                               2 / 11                              lees verder ►►►
+      Gooilandkaart
+
+            In 1723 heeft landmeter M. Walraven onderstaande kaart van het Gooi
+            gemaakt. De hoekpunten van de driehoeken op de kaart zijn vaak de
+            kerktorens van de dorpen. Met behulp van een hoekmeetinstrument heeft
+            Walraven enkele hoeken zeer nauwkeurig opgemeten. Verder zijn twee
+            hemelsbrede afstanden bepaald. Met het netwerk van driehoeken op de
+            kaart kunnen zo de afstanden tussen de kerktorens berekend worden.
+
+            In 1723 zijn de volgende metingen gedaan:
+             De afstand tussen (de kerktorens van) Laren en Hilversum is
+                5060 meter.
+             De afstand tussen (de kerktorens van) Naarden en Huizen is
+                4810 meter.
+             De hoek tussen Laren-Hilversum en Laren-Naarden is 90,9°.
+             De hoek tussen Hilversum-Laren en Hilversum-Naarden is 49,3°.
+             De hoek tussen Naarden-Huizen en Naarden-Laren is 47,7°.
+            Zie de figuur. Deze figuur staat vergroot op de uitwerkbijlage.
+
+            figuur
+
+
+
+
+6p    4     Bereken de afstand tussen (de kerktorens van) Huizen en Hilversum.
+            Geef je eindantwoord in tientallen meters nauwkeurig. Je kunt bij het
+            beantwoorden van deze vraag de figuur op de uitwerkbijlage gebruiken.
+
+
+
+
+HA-1025-a-22-2-o                          3 / 11                          lees verder ►►►
+      Wortel en cirkel
+
+            De functie f wordt gegeven door f ( x)  3x  4 . In figuur 1 is de grafiek
+            van f weergegeven.
+
+            figuur 1
+
+
+
+
+            De grafiek van f ontstaat uit de grafiek van y  x door een horizontale
+            translatie en een vermenigvuldiging ten opzichte van de y-as.
+3p    5     Geef aan welke translatie en vermenigvuldiging dit zijn en in welke
+            volgorde ze moeten worden toegepast.
+
+            De grafiek van f snijdt de y-as in het punt A(0, 2) . De lijn k is de raaklijn
+            aan de grafiek van f in A. De lijn l snijdt lijn k loodrecht in A. Het punt M is
+            het snijpunt van l met de x-as.
+            De cirkel c heeft punt M als middelpunt en raakt de grafiek van f in
+            punt A. Lijn k is dus ook de raaklijn in A aan c.
+            De punten P en Q zijn de snijpunten van cirkel c met de x-as. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+7p    6     Bereken exact de x-coördinaten van P en Q.
+
+
+
+
+HA-1025-a-22-2-o                              4 / 11                              lees verder ►►►
+      Sinusoïden en somfunctie
+
+            De functies f en g worden                         figuur 1
+            gegeven door:
+                   f ( x)  1  3sin(2 x)
+                   g ( x)  1  3cos(2 x)
+            Het punt P is de eerste top van
+            de grafiek van f rechts van de
+            y-as en het punt R is de eerste
+            top van de grafiek van g rechts
+            van de y-as.
+            Zie figuur 1, waarin ook het
+            lijnstuk PR getekend is.
+
+
+
+4p    7     Bereken algebraïsch de lengte van lijnstuk PR. Geef je eindantwoord in
+            twee decimalen.
+
+            De grafiek van de somfunctie                      figuur 2
+            h( x)  f ( x)  g ( x) blijkt ook een
+            sinusoïde te zijn. Zie figuur 2.
+
+
+
+
+            Het functievoorschrift van h is te schrijven als:
+                   h( x)  p  q  cos(r ( x  s))
+7p    8     Bereken mogelijke waarden van p, q, r en s. Geef je eindantwoorden,
+            indien nodig, in twee decimalen.
+
+
+
+
+HA-1025-a-22-2-o                                     5 / 11                 lees verder ►►►
+      Luchtvervuiling
+
+            De Air Quality Index (AQI) is een waarde die overheden gebruiken om
+            aan te geven hoe vervuild de lucht is: hoe hoger de AQI, des te sterker is
+            de luchtvervuiling. De AQI wordt berekend uit de ozonconcentratie C
+            in ppm. De ppm is een veelgebruikte eenheid voor concentratie.
+
+            Men heeft de mogelijke waarden van de AQI in categorieën opgedeeld.
+            In de tabel is voor elke categorie luchtkwaliteit te zien welke waarden
+            van C en de AQI daarbij horen. Zo is de laagste waarde van de AQI in
+            de categorie ‘gemiddeld’ gelijk aan 50 en dat is het geval als C  0,065 .
+
+            tabel
+                        categorie luchtkwaliteit          C (ppm)             AQI
+                                 goed                     0 – 0,065          0 – 50
+                               gemiddeld                0,065 – 0,085       50 – 100
+                   ongezond voor kinderen en ouderen    0,085 – 0,105      100 – 150
+                               ongezond                 0,105 – 0,125      150 – 200
+                             erg ongezond               0,125 – 0,375      200 – 300
+
+            Binnen elke afzonderlijke categorie is er een stijgend lineair verband
+            tussen de AQI en C.
+
+            Op een bepaalde plek wordt een ozonconcentratie gemeten van
+            0,20 ppm.
+4p    9     Bereken de bijbehorende AQI. Geef je eindantwoord als geheel getal.
+
+
+
+
+HA-1025-a-22-2-o                               6 / 11                          lees verder ►►►
+            In plaats van de concentratie in ppm te geven, kan deze ook in milligram
+            per kubieke meter (mg/m3) gegeven worden. Als de temperatuur bekend
+            is, kan de concentratie van ppm naar mg/m3 omgerekend worden.
+            Daarvoor geldt de volgende formule:
+                              584,976  Cppm
+                   Cmg/m3                     met T de temperatuur in graden Celsius
+                                273,15  T
+            Op zeker moment in 2015 werd in Amsterdam een ozonconcentratie van
+            0,0612 mg/m3 gemeten. De temperatuur was op dat moment
+            20 graden Celsius.
+4p    10    Bepaal de categorie luchtkwaliteit op dat moment.
+
+            Als de temperatuur constant 25 graden blijft, dan is het verband tussen
+            Cppm en C mg/m 3 recht evenredig.
+3p    11    Bereken de evenredigheidsconstante als Cppm wordt uitgedrukt in C mg/m 3
+            bij een temperatuur van 25 graden Celsius. Geef je eindantwoord in twee
+            decimalen.
+
+
+
+
+HA-1025-a-22-2-o                                  7 / 11                          lees verder ►►►
+      Minimale omtrek
+
+                                                      3
+            De functie f wordt gegeven door f ( x)      met x  0 .
+                                                     x3
+            Punt P is een willekeurig punt op de grafiek van f. Bij zo’n punt P kun je
+            een rechthoek tekenen met horizontale en verticale zijden en hoekpunten
+            P en O. In figuur 1 is de rechthoek getekend als P het punt (1, 3) is en in
+                                                                  
+            figuur 2 is de rechthoek getekend als P het punt 2, 83 is.
+
+figuur 1                                         figuur 2
+
+
+
+
+            De omtrek van de rechthoek in figuur 1 is groter dan de omtrek van de
+            rechthoek in figuur 2. De omtrek is dus afhankelijk van de keuze van P.
+
+            Je kunt P zó op de grafiek van f kiezen, dat de omtrek van de
+            bijbehorende rechthoek minimaal is.
+6p    12    Geef een formule voor de omtrek en bereken daarmee exact de
+            coördinaten van het punt P, zó dat de omtrek van de bijbehorende
+            rechthoek minimaal is.
+
+
+
+
+HA-1025-a-22-2-o                             8 / 11                            lees verder ►►►
+      Een raaklijn en een evenwijdige lijn door O
+
+            De functie f wordt gegeven door f ( x)  2  8  x . Het punt A is het
+            snijpunt van de grafiek van f met de x-as. De lijn k raakt de grafiek
+            van f in het punt A. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Een vergelijking van k is y  14 x  1 .
+5p    13    Bewijs dit.
+
+            Het punt B is het randpunt van de grafiek van f. Lijn l is de lijn door B en
+            de oorsprong O. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Lijnen k en l zijn evenwijdig.
+
+3p    14    Bewijs dit.
+
+4p    15    Bereken exact de afstand tussen k en l.
+
+
+
+
+HA-1025-a-22-2-o                                9 / 11                          lees verder ►►►
+      Daglengte
+
+            De daglengte is het aantal uren tussen zonsopgang en zonsondergang.
+            De daglengte verandert in de loop van het jaar en varieert ook per plaats
+            op aarde.
+            Gedurende een jaar is voor elke dag in Luxemburg de daglengte bepaald.
+            Bij deze waarnemingen is een zo goed mogelijk passend model opgesteld
+            en vervolgens is daarbij de grafiek getekend. Zie de figuur. Hierbij is de
+            daglengte L in Luxemburg in uren gegeven als functie van de tijd t in
+            dagen met t  0 op 1 januari.
+            Het functievoorschrift dat bij dit model hoort, ziet er als volgt uit:
+                   L(t )  12  4,1 sin(a(t  b))
+            figuur
+
+
+
+
+            De periode van het model is 365 dagen en de langste dag is op t  168 .
+2p    16    Bepaal de waarden van a en b. Geef de waarde van a in drie decimalen
+            en de waarde van b als geheel getal.
+
+            De toename van de daglengte volgens het model is het grootst als de
+            helling van de grafiek van L maximaal is. Met behulp van de figuur op de
+            uitwerkbijlage kun je de maximale helling bepalen.
+3p    17    Bepaal met behulp van de figuur op de uitwerkbijlage de maximale helling
+            van de grafiek van L. Geef je eindantwoord in hele minuten per dag.
+
+
+
+HA-1025-a-22-2-o                                     10 / 11                 lees verder ►►►
+      Vierkant en halve cirkel
+
+            Het punt A(3, 3) ligt op lijn l met vergelijking y   x en het
+            punt B(3, 3) ligt op lijn k met vergelijking y  x .
+            Door de punten A en B gaat een halve cirkel met diameter AB en
+            middelpunt M.
+            Voor vierkant OPQR geldt:
+             R ligt op l en P ligt op k.
+             Zijde PQ raakt de halve cirkel in het punt K.
+            Zie de figuur. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur
+
+
+
+
+5p    18    Bereken exact de coördinaten van K. Je kunt hierbij de figuur op de
+            uitwerkbijlage gebruiken.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1025-a-22-2-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

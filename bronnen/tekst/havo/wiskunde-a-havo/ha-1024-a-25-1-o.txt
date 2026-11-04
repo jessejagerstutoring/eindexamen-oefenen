@@ -1,0 +1,562 @@
+                                                                Examen HAVO
+
+                                                                     2025
+                                                                            tijdvak 1
+                                                                     dinsdag 20 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 82 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-25-1-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                         ad  bc
+              22-kruistabel        , met phi                                  ,
+                              c d                (a  b)(a  c)(b  d )(c  d )
+              waarin a, b, c en d absolute aantallen zijn
+
+                  als phi  0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1             , met X1 en X 2 de steekproefgemiddelden
+                                   ( S  S2 )
+                                  2 1
+              ( X1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”
+                  als E  0, 4 , dan zeggen we “het verschil is gering”
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”
+                  in alle andere gevallen zeggen we “het verschil is gering”
+
+  noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-25-1-o                                  2 / 19                                     lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p (1  p)
+               p  2             , met p de steekproefproportie en n de steekproefomvang.
+                            n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-25-1-o                              3 / 19                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-25-1-o                        4 / 19   lees verder ►►►
+      CO2 en andere broeikasgassen
+
+            In discussies over het klimaat gaat het vaak over de uitstoot van
+            broeikasgassen. In het Nederlandse klimaatakkoord is als doel gesteld dat
+            de gemiddelde uitstoot van broeikasgassen per inwoner per jaar in 2030
+            gehalveerd is ten opzichte van 1990.
+
+            In 1990 was in Nederland de gemiddelde uitstoot van broeikasgassen per
+            inwoner per jaar 15,1 ton en in 2017 was die 11,6 ton.
+            Neem aan dat er in de periode 1990-2017 sprake was van een lineaire
+            daling en dat deze daling zich op dezelfde wijze voortzet na 2017.
+4p    1     Onderzoek met bovenstaande gegevens en aannames of de genoemde
+            doelstelling gehaald wordt.
+
+            CO2 heeft het grootste aandeel in de broeikasgassen die worden
+            uitgestoten. In figuur 1 staat de wereldwijde uitstoot van CO2 per jaar.
+
+            figuur 1   wereldwijde CO2-uitstoot
+
+
+
+
+            Neem aan dat de wereldwijde uitstoot van CO2 in de periode van 1900 tot
+            1980 exponentieel is gegroeid.
+5p    2     Bereken met de gegevens van 1900 en 1980 in figuur 1 het jaarlijkse
+            groeipercentage in deze periode. Geef je antwoord in één decimaal.
+
+
+
+
+HA-1024-a-25-1-o                             5 / 19                            lees verder ►►►
+            In figuur 2 staat de top zes van landen met de grootste CO2-uitstoot in 2017.
+            In deze opgave beschouwen we de Europese Unie als één land.
+
+            figuur 2   CO2-uitstoot in 2017
+
+
+
+
+            In figuur 3 staat van dezelfde landen de uitstoot van overige broeikasgassen
+            in 2017 weergegeven.
+
+            figuur 3   uitstoot overige broeikasgassen in 2017
+
+
+
+
+            Om de totale uitstoot van broeikasgassen in 2017 van deze landen eerlijk te
+            kunnen vergelijken, wordt er rekening gehouden met het aantal inwoners
+            van elk land. Zo kun je van deze landen een ranglijst maken op basis van de
+            gemiddelde uitstoot van alle broeikasgassen per inwoner per land.
+
+
+
+
+HA-1024-a-25-1-o                            6 / 19                           lees verder ►►►
+            Om de ranglijst te kunnen maken, zijn de getallen in de onderstaande tabel
+            nodig, maar voor China ontbreekt nog de gemiddelde uitstoot van alle
+            broeikasgassen per inwoner in 2017.
+
+            tabel
+              land                        aantal inwoners   gemiddelde uitstoot van
+                                            in 2017 (in     alle broeikasgassen per
+                                            miljarden)      inwoner in 2017 (in ton)
+              Japan                            0,127                 11,8
+              Rusland                          0,145                 16,6
+              Verenigde Staten                 0,326                 20,2
+              Europese Unie                    0,511                  9,2
+              India                            1,339                  2,7
+              China                            1,386                   …
+
+4p    3     Bereken voor China de gemiddelde uitstoot van alle broeikasgassen per
+            inwoner in 2017 en geef de ranglijst op basis van de gemiddelde uitstoot.
+
+            India brengt de uitstoot van broeikasgassen ook in verband met de omvang
+            van het bruto nationaal product van het land.
+            Neem aan dat voor India de volgende formules gelden:
+                   U  3,6 1,02t
+                   B  1,34  0, 01  t
+                   BNP  2597 1,06t
+            Hierin is:
+             U de uitstoot van alle broeikasgassen (in miljard ton)
+             B het aantal inwoners (in miljarden)
+             BNP het bruto nationaal product (in miljard US-dollar)
+             t het geheel aantal jaren na 2017
+
+            De uitkomsten van de formules gelden telkens op het einde van het jaar.
+            Volgens deze formules zal in India de gemiddelde uitstoot van alle
+                                      U
+            broeikasgassen per inwoner () in de jaren na 2017 steeds stijgen.
+                                      B
+                                           U
+            Er komt dan een moment waarop     voor het eerst verdubbeld zal zijn ten
+                                           B
+            opzichte van de waarde in 2017.
+5p    4     Bereken in welk jaar dat voor het eerst zal zijn.
+
+
+
+
+HA-1024-a-25-1-o                                   7 / 19                       lees verder ►►►
+            De gemiddelde uitstoot van alle broeikasgassen per US-dollar bruto
+                                   U
+            nationaal product (       ) laat een dalende trend zien na 2017.
+                                  BNP
+3p    5     Beredeneer dit aan de hand van de gegeven formules, zonder hierbij
+            gebruik te maken van getallenvoorbeelden of van een schets of tekening
+                                   U
+            van de grafiek van        .
+                                  BNP
+
+
+
+
+HA-1024-a-25-1-o                              8 / 19                           lees verder ►►►
+      Grut van grutto’s
+
+            De grutto is een weidevogel. Het vrouwtje maakt
+            een nestkuil in het gras en legt daarin haar
+            eieren. Daarna broeden het mannetje en het
+            vrouwtje om beurten. De eieren komen na
+            ongeveer 24 dagen uit.
+
+            Als de grutto’s tijdens het broeden lastiggevallen
+            worden door andere dieren, bijvoorbeeld een vos
+            of een roofvogel, dan verlaat het broedpaar het
+            nest. Dagelijks gaat hierdoor ongeveer 2% van
+            de nesten verloren.
+3p    6     Bereken hoeveel procent van de nesten in 24 dagen verloren gaat. Geef
+            je antwoord in hele procenten.
+
+            24 dagen na het uitkomen van het ei is een kuiken vliegvlug. Dit betekent
+            dat de donsveren hebben plaatsgemaakt voor echte veren en dat het kuiken
+            kan vliegen.
+
+            Voor het gewicht van kuikens die opgroeien, geldt in de periode vanaf het
+            uitkomen van het ei tot het moment dat het kuiken vliegvlug is, bij
+            benadering:
+                               273
+                   G                                    (formule 1)
+                        1,08  12,5  0,8d
+            Hierin is d het aantal hele dagen na de dag dat het ei uitkwam en G het
+            gewicht van het kuiken in grammen.
+
+3p    7     Bereken hoeveel keer zo zwaar een kuiken is op de dag dat het vliegvlug
+            is, ten opzichte van de dag dat het ei uitkwam. Geef je antwoord als
+            geheel getal.
+
+            We kijken nu naar de gewichtstoename per dag van de kuikens. Er geldt bij
+            benadering:
+                   T  3000  0,6G 2  152,9G            (formule 2)
+            Hierin is G het gewicht van het kuiken in grammen en T de gewichtstoename
+            per dag in milligrammen.
+5p    8     Bereken hoeveel dagen na de dag dat het ei uitkwam ( d ) de
+            gewichtstoename per dag ( T ) van het kuiken maximaal is. Geef je
+            antwoord in gehele dagen.
+
+
+
+
+HA-1024-a-25-1-o                                9 / 19                       lees verder ►►►
+            In grasland vinden de grutto’s veel prooien, zoals insecten.
+            Naarmate de grutto’s ouder worden, kunnen ze steeds grotere prooien
+            vangen. De grootte van een prooi wordt gegeven in milligram droge stof.
+            Voor de maximale grootte van een prooi die grutto’s kunnen eten, geldt de
+            formule:
+                                       2,15
+                   P  1,309                                 (formule 3)
+                                 1  0,74d 14,69
+            Hierin is P de maximale grootte van de prooi in milligram droge stof en d het
+            aantal hele dagen na de dag dat het ei uitkwam.
+
+            De maximale grootte van de prooi die een grutto kan eten, nadert op den
+            duur naar een bepaalde waarde.
+3p    9     Beredeneer met behulp van formule 3 welke waarde dit is.
+
+            In vochtig grasland leven meer insecten en andere prooien voor grutto’s dan
+            in droog grasland. Er is onderzoek gedaan naar de grondwaterstand in
+            graslanden met een afnemend aantal grutto’s en naar de grondwaterstand in
+            graslanden met een stabiel aantal grutto’s. De grondwaterstand is de hoogte
+            van het grondwater ten opzichte van het grasoppervlak. De resultaten zijn in
+            onderstaande boxplots verwerkt.
+
+            figuur        grondwaterstand in graslanden met een
+                          afnemend en met een stabiel aantal grutto’s
+
+
+
+
+HA-1024-a-25-1-o                                    10 / 19                   lees verder ►►►
+            Iemand trekt op basis van dit onderzoek twee conclusies:
+            I Er is volgens de vuistregels op het formuleblad een groot verschil
+               tussen de grondwaterstand in graslanden met een afnemend aantal
+               grutto’s en de grondwaterstand in graslanden met een stabiel aantal
+               grutto’s.
+            II De grondwaterstand in graslanden met een afnemend aantal grutto’s
+               is normaal verdeeld.
+4p    10    Leg voor elk van deze twee conclusies uit of je die wel of niet kunt trekken
+            op basis van de figuur.
+
+            Het gaat niet zo goed met de grutto. Sinds 1990 daalt het aantal grutto’s
+            exponentieel. Twee instanties deden een uitspraak over deze daling:
+             Een onderzoeksinstituut gaf aan dat in de periode 1990-2019 het
+                aantal grutto’s elke 13 jaar halveerde.
+             Vogelbescherming Nederland gaf aan dat het aantal grutto’s met
+                twee derde was afgenomen in de periode 1990-2019.
+5p    11    Onderzoek welke uitspraak leidt tot het hoogste aantal grutto’s in 2019:
+            die van het onderzoeksinstituut of die van Vogelbescherming Nederland.
+
+
+
+
+HA-1024-a-25-1-o                            11 / 19                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-25-1-o                       12 / 19   lees verder ►►►
+      Mantelzorgers
+
+            Steeds meer ouderen in Nederland blijven langer thuis wonen. Veel ouderen
+            hebben daarbij wel vaak meer zorg nodig. Behalve professionele hulp
+            hebben de meeste ouderen ook mantelzorgers die hen helpen.
+            Mantelzorgers zijn mensen, meestal familieleden, die onbetaald zorg
+            verlenen.
+
+            We bekijken de leeftijden van de mantelzorgers. In figuur 1 staan de
+            resultaten uit een representatieve steekproef onder 2749 mantelzorgers van
+            18 jaar en ouder die zorg verlenen aan ouderen van 85 jaar en ouder.
+
+            figuur 1   mantelzorgers in vier leeftijdsgroepen (in procenten)
+
+
+
+
+            Op basis van bovenstaande gegevens kun je voor het percentage
+            50-74-jarigen in de populatie mantelzorgers van 18 jaar en ouder een
+            95%-betrouwbaarheidsinterval opstellen.
+3p    12    Stel met behulp van het formuleblad dit 95%-betrouwbaarheidsinterval op
+            voor de populatieproportie. Geef de grenzen van het interval als
+            percentages in één decimaal.
+
+            We bekijken twee categorieën ouderen:
+             jongere ouderen: 50 tot en met 74 jaar oud
+             oudere ouderen: 85 jaar en ouder
+
+            Elke jongere oudere is een potentiële mantelzorger. Om het aantal
+            potentiële mantelzorgers per oudere oudere in beeld te brengen, gebruikt
+            men de maatstaf Oldest Old Support Ratio (OOSR); in formulevorm:
+                            aantal jongere ouderen
+                   OOSR 
+                            aantal oudere ouderen
+            Sinds 1975 neemt de OOSR op landelijk niveau af.
+            Ten opzichte van 1975 is het aantal jongere ouderen in 2015 met 25%
+            toegenomen. In diezelfde periode is het aantal oudere ouderen tweeënhalf
+            keer zo groot geworden.
+3p    13    Bereken met hoeveel procent de OOSR in 2015 ten opzichte van 1975 is
+            afgenomen.
+
+
+HA-1024-a-25-1-o                             13 / 19                        lees verder ►►►
+            Omdat mantelzorgers meestal in de buurt van oudere ouderen wonen, wordt
+            de OOSR ook per gemeente berekend.
+            We vergelijken de OOSR van twee gemeenten met behulp van
+            bevolkingsdiagrammen. Een bevolkingsdiagram is een diagram waarin aan
+            twee kanten de leeftijdsopbouw van de bevolking is weergegeven, links die
+            van de mannen en rechts die van de vrouwen.
+            In figuur 2 zie je twee bevolkingsdiagrammen (I en II) waarvan er één bij
+            gemeente A hoort en de ander bij gemeente B. Daarbij geldt dat de OOSR
+            van gemeente A groter is dan die van gemeente B.
+
+            figuur 2   bevolkingsdiagram I          bevolkingsdiagram II
+
+
+
+
+4p    14    Beredeneer welk bevolkingsdiagram bij gemeente A hoort.
+
+            In figuur 3 zijn van alle gemeenten de OOSR’s verwerkt in boxplots voor de
+            jaren 2015 en 2020.
+
+            figuur 3
+
+
+
+
+HA-1024-a-25-1-o                          14 / 19                           lees verder ►►►
+            We kijken in figuur 3 naar de gemeenten die een OOSR van minder dan 16
+            hebben. Iemand beweert dat het aantal gemeenten met deze eigenschap in
+            de periode 2015-2020 met een kwart van het totaal aantal gemeenten is
+            toegenomen.
+3p    15    Beredeneer met behulp van figuur 3 of deze bewering juist is.
+
+            Als thuis wonen zelfs met hulp van professionals en mantelzorgers niet meer
+            mogelijk is, kunnen mensen in een zorginstelling gaan wonen.
+            Mantelzorgers krijgen dan minder zorgtaken, maar blijven noodzakelijk om
+            bijvoorbeeld de financiën te regelen.
+            Een zorginstelling wil weten wat de bewoners en hun mantelzorgers vinden
+            van de zorg die de zorginstelling biedt. Daarom wordt er een representatieve
+            steekproef genomen uit de bewoners en hun mantelzorgers.
+            De deelnemers aan de steekproef gaven antwoord op de vraag:
+
+                   In hoeverre bent u tevreden over de geboden zorg?
+
+            De uitkomsten van de steekproef staan in figuur 4.
+
+            figuur 4     tevredenheid van de deelnemers aan de steekproef
+
+
+
+
+3p    16    Geef aan van welke twee variabelen er sprake is in dit onderzoek en geef
+            bij elk van deze twee variabelen aan of het een nominale of ordinale
+            variabele is. Licht je antwoord toe.
+
+4p    17    Onderzoek met behulp van het formuleblad of het verschil in de mate van
+            tevredenheid tussen bewoners en mantelzorgers groot, middelmatig of
+            gering is.
+
+
+
+
+HA-1024-a-25-1-o                             15 / 19                        lees verder ►►►
+      Hoe zwaar is een bergbeklimming met de fiets?
+
+            Elke zomer zijn er heel wat Nederlandse
+            wielrenners te vinden op bergwegen in
+            Frankrijk. Deze hele opgave gaat over
+            bergbeklimmingen met de fiets.
+
+            Er bestaat een model waarmee de
+            zwaarte van een bergbeklimming met de
+            fiets, berekend kan worden. Volgens dit
+            model geldt:
+                          h2
+                   I                                   (formule 1)
+                      10 000  w
+            Hierin is:
+             I de zwaarte-index
+             h het hoogteverschil tussen begin- en eindpunt van de beklimming
+               (in meter)
+             w de weglengte die tijdens de beklimming wordt afgelegd
+               (in kilometer)
+
+            Hoe groter de zwaarte-index, hoe zwaarder de bergbeklimming.
+
+            Voor de beklimming van de Franse berg Mont Ventoux geldt een
+            zwaarte-index van 12,1.
+            In Nederland bevindt zich de Vaalserberg. Bij de beklimming van deze berg
+            vanuit het dorp Vaals leg je 2830 meter af om de top te bereiken.
+            Het hoogteverschil bij deze beklimming is 143 meter.
+3p    18    Bereken hoeveel keer zo groot de zwaarte-index van de beklimming van
+            de Mont Ventoux is als die van de beklimming van de Vaalserberg. Geef
+            je antwoord als geheel getal.
+
+            De beklimming van de Franse berg Alpe d’Huez start vanuit het dorpje
+            Bourg d’Oisans op een hoogte van 799 meter. Het eindpunt ligt op een
+            hoogte van 1860 meter. De zwaarte-index van deze beklimming is 9,2.
+4p    19    Bereken de weglengte van deze beklimming. Geef je antwoord in gehele
+            kilometers.
+
+            Formule 1 kan worden herleid tot de vorm:
+                   h  100  w  I                      (formule 2)
+2p    20    Geef deze herleiding.
+
+
+
+
+HA-1024-a-25-1-o                          16 / 19                          lees verder ►►►
+            Iemand zoekt een bergbeklimming met een maximale weglengte van 4 km.
+            De zwaarte-index moet tussen die van de Alpe d’Huez (9,2) en die van de
+            Mont Ventoux (12,1) in liggen.
+            Om zo’n bergbeklimming te vinden, geeft hij met behulp van formule 2 in een
+            assenstelsel het gebied aan met de combinaties van w en h die leiden tot
+            een dergelijke I. Op de uitwerkbijlage is het assenstelsel al getekend.
+3p    21    Teken in het assenstelsel op de uitwerkbijlage het juiste gebied.
+
+
+
+
+HA-1024-a-25-1-o                          17 / 19                          lees verder ►►►
+      Zorg om zorguitgaven
+
+            In Nederland regelt de Zorgverzekeringswet (Zvw) een verplichte
+            basisverzekering voor alle inwoners. Deze basisverzekering dekt de
+            zorguitgaven aan huisartsen en de zorguitgaven aan specialisten; de som
+            hiervan noemen we de totale zorguitgaven. In 2018 bedroegen de totale
+            zorguitgaven 19,637 miljard euro.
+
+            Uit onderzoek blijkt dat er een samenhang bestaat tussen de zorguitgaven
+            aan huisartsen en de zorguitgaven aan specialisten. Als huisartsen meer
+            mogelijkheden krijgen om hun patiënten te helpen, worden de zorguitgaven
+            aan huisartsen hoger en de zorguitgaven aan specialisten lager. In deze
+            opgave onderzoeken we of extra uitgaven aan huisartsenzorg leiden tot
+            lagere totale zorguitgaven als we uitgaan van bepaalde gegevens en
+            aannames.
+
+            We bekijken het jaar 2018 en gebruiken de volgende gegevens:
+             Er waren 17 miljoen verzekerden die onder de Zvw vielen.
+             Alle 17 miljoen verzekerden stonden ingeschreven bij een huisarts.
+             30% van alle verzekerden kreeg van de huisarts een verwijzing naar
+              een specialist.
+             In de tabel staan de gemiddelde zorguitgaven per verzekerde zonder
+              of met verwijzing naar een specialist.
+
+            tabel
+                           gemiddelde zorguitgaven per verzekerde
+                     zonder of met verwijzing naar een specialist (in euro’s)
+                                      gemiddelde          gemiddelde        gemiddelde
+                                     zorguitgaven        zorguitgaven         totale
+                                    aan huisartsen      aan specialisten   zorguitgaven
+
+              verzekerde
+              zonder verwijzing
+                                         43                    0               43
+              naar een specialist
+              (70%)
+              verzekerde
+              met verwijzing
+                                         250                 3500             3750
+              naar een specialist
+              (30%)
+
+
+
+
+HA-1024-a-25-1-o                              18 / 19                           lees verder ►►►
+            We nemen aan dat in 2018 voor de verzekerden met een verwijzing naar
+            een specialist, elke stijging van 10 euro op de gemiddelde zorguitgaven aan
+            huisartsen leidt tot een daling van 0,5% van hun gemiddelde zorguitgaven
+            aan specialisten. Dus als bijvoorbeeld de 250 euro in de tabel zou stijgen
+            naar 260 euro, dan zou de 3500 euro in de tabel met 0,5% dalen naar
+            3482,50 euro.
+
+            Stel nu dat in 2018 de zorguitgaven aan huisartsen van verzekerden met
+            een verwijzing naar een specialist in totaal 510 miljoen euro hoger zouden
+            zijn.
+6p    22    Onderzoek aan de hand van bovenstaande gegevens en aannames of de
+            totale zorguitgaven in 2018 dan lager zouden zijn dan 19,637 miljard euro.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1024-a-25-1-o                                         19 / 19                                          lees verdereinde
+                                                                                                                       ►►► 
+

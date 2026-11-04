@@ -1,0 +1,676 @@
+                                                    Correctievoorschrift VWO
+
+                                                                           2022
+                                                                                   tijdvak 1
+
+
+
+
+                                                                         wiskunde C
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+VW-1026-a-22-1-c                              1                               lees verder ►►►
+      3       De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+              beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+              gegeven door het College voor Toetsen en Examens.
+              De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+              verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+              gezag van de gecommitteerde.
+      4       De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+              aantal scorepunten voor het centraal examen vast.
+      5       Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+              komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+              gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+              gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+              hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+              onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+              in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+VW-1026-a-c                                      2                                lees verder ►►►
+              3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                   gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                   formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+              3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                   staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+              3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                   zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                   vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                   toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                   onjuistheid gemoeid zijn.
+      4       Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+              juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+              onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+              worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+              beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+              antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+              gegeven is, worden eveneens geen scorepunten toegekend.
+      5       Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+              tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+              beoordelingsmodel anders is vermeld.
+      6       Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+              worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7       Indien de examinator of de gecommitteerde meent dat in een examen of in het
+              beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+              werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+              fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+              Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+              eventuele fout wordt bij de definitieve normering van het examen rekening
+              gehouden.
+      8       Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+              antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9       Het cijfer voor het centraal examen wordt als volgt verkregen.
+              Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+              wordt meegedeeld aan de directeur.
+              De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+              voor omzetting van score naar cijfer.
+
+  NB1         T.a.v. de status van het correctievoorschrift:
+              Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+              vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+              voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+              De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+VW-1026-a-c                                        3                                  lees verder ►►►
+  NB2         T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+              Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+              behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+              standaardformulier voorgeschreven voor de vermelding van de scores van de
+              kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+              verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+              of in gezamenlijk overleg keuzes maken.
+
+   NB3        T.a.v. aanvullingen op het correctievoorschrift:
+              Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+              en een fout.
+              Verduidelijking
+              Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+              antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+              Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+              voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden. Een
+              aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+              Een fout
+              Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+              fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+              Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+              Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+              spoedig mogelijk verstuurd aan de examensecretarissen.
+              Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+              gevallen vermeldt de aanvulling:
+
+              –   Als het werk al naar de tweede corrector is gezonden, past de tweede
+                  corrector deze aanvulling op het correctievoorschrift toe.
+                  en/of
+              –   Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                  Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+              Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+              moeten worden toegekend.
+
+              Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+              aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+              houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+              rekening met de onvolkomenheid.
+
+
+
+
+VW-1026-a-c                                         4                                  lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet-
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+VW-1026-a-c                                   5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag       Antwoord                                                                       Scores
+
+
+
+
+      Sjinkie
+
+      1       maximumscore 2
+              •   De vijfde plaats krijgt (13 – 8 =) 5 punten                                   1
+              •   De zesde plaats krijgt (8 – 5 =) 3 punten                                     1
+
+      2       maximumscore 3
+              •   Hij moet zorgen dat hij niet meer dan 6 punten voorsprong verliest            1
+              •   Dat lukt alleen als de andere rijder geen eerste of tweede wordt              1
+              •   De tactiek is dus niet veilig                                                 1
+
+              Opmerking
+              Als een kandidaat een antwoord geeft op basis van een correct
+              uitgewerkt/toegelicht tegenvoorbeeld, alle scorepunten voor deze vraag
+              toekennen.
+
+      3       maximumscore 3
+              •                                                                                 2
+                    plaats     punten
+                      10          3
+                      9           5
+                      8           8
+                      7           13
+                      6           21
+                      5           34
+                      4           55
+                      3           89
+                      2          144
+              •   De eerste plaats levert (144 + 89 =) 233 punten                               1
+
+              Opmerking
+              Voor elke fout bij het eerste antwoordelement 1 scorepunt in mindering
+              brengen, met een maximum van 2 scorepunten.
+
+
+
+
+VW-1026-a-c                                         6                                  lees verder ►►►
+  Vraag       Antwoord                                                                             Scores
+
+
+      4       maximumscore 4
+              •    Zijn tijd tijdens het EK was 134,065 (s) en tijdens het WR 127,943 (s)            1
+                                                                       1500
+              •    Zijn gemiddelde snelheid tijdens het EK was                 11,18... (m/s)       1
+                                                                     134, 065
+                                                                        1500
+              •    Zijn gemiddelde snelheid tijdens het WR was                  11, 72... (m/s)     1
+                                                                      127,943
+                   11, 72...  11,18...
+              •                          0, 0478... dus (zijn gemiddelde snelheid was) 4,8(%)
+                        11,18...
+                   (groter)                                                                          1
+              of
+              •    Zijn tijd tijdens het EK was 134,065 (s) en tijdens het WR 127,943 (s)            1
+                                                 127,943
+              •    Zijn tijd tijdens het WR was            0,95... maal zo groot als tijdens
+                                                 134, 065
+                   het EK                                                                            1
+                                                                      1
+              •    Zijn gemiddelde snelheid tijdens het WR was               1, 0478... maal
+                                                                    0,95...
+                   zo groot als tijdens het EK                                                       1
+              •    Het antwoord: (zijn gemiddelde snelheid was) 4,8(%) (groter)                      1
+
+
+
+
+VW-1026-a-c                                            7                                    lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      Vacuümgaren
+
+      5       maximumscore 3
+              •   In de sous-vide mag in totaal maximaal 27,5 19,5 10 ( 5362,5) (cm3)         1
+              •   Het volume van de entrecote is 120  3,5 ( 420) (cm3)                         1
+              •   Het antwoord: ( 5362,5  420  4942,5 cm3, dus maximaal) 4,9 (liter)           1
+
+      6       maximumscore 3
+              Een aanpak als:
+              •   31
+                  23
+                      1, 3... en 60
+                                  31
+                                      1,9...                                                    1
+
+                   2331   1,8...
+                       2
+              •                                                                                  1
+              •   De groeifactoren (per halve inch die uit de tabel volgen) zijn niet gelijk
+                  (dus er kan geen sprake zijn van een exponentieel verband)                     1
+
+              Opmerking
+              Als een kandidaat alleen op basis van het eerste antwoordelement
+              concludeert dat de groeifactoren niet gelijk zijn, voor deze vraag ten
+              hoogste 1 scorepunt toekennen.
+
+      7       maximumscore 3
+              •   Volgens de vuistregel is de gaartijd 1,3  60 ( 78) (minuten)                 1
+              •   De gaartijd volgens de formule is
+                  (0,5916 1,32  0, 0689 1,3  0,3329 )1, 4... (uur)                          1
+              •   Het antwoord: (1,4… uur is 85,3… minuten, dus) 7 (minuten)                     1
+
+      8       maximumscore 4
+              •   Een formule voor het verschil (in uren) is
+                  0,5916d 2  0, 0689d  0,3329  d                                              1
+              •   De vergelijking 0,5916d 2  0, 0689d  0,3329  d  0, 25                      1
+              •   Beschrijven hoe deze vergelijking kan worden opgelost                          1
+              •   Het antwoord: 1,5 (inch)                                                       1
+
+
+
+
+VW-1026-a-c                                         8                                   lees verder ►►►
+  Vraag       Antwoord                                                                       Scores
+
+
+      Support
+
+      9       maximumscore 4
+              •   De maandelijkse groeifactor van de werktijd voor nieuwe software is
+                  0,98                                                                          1
+              •   De driejaarlijkse groeifactor van de werktijd voor nieuwe software is
+                  0,9836   0, 483...                                                         1
+              •   Het percentage werktijd voor nieuwe software is dan 0, 483... 100            1
+              •   Het antwoord: 48(%)                                                           1
+
+     10       maximumscore 3
+              •   Op t = 2 is het percentage 51,8… en op t = 5 is het percentage 83,9…          1
+                                               83,9...  51,8...
+              •   De procentuele toename is                      100  %  (=61,8…(%))         1
+                                                   51,8...
+              •   Het antwoord: 62(%)                                                           1
+
+     11       maximumscore 4
+              •   0, 694t wordt kleiner als t groter wordt                                      1
+              •   0, 694t wordt afnemend kleiner als t groter wordt (want 0, 694t kan niet
+                  kleiner dan 0 worden)                                                         1
+              •   1  0, 694t wordt dan afnemend groter als t groter wordt                      1
+                                                 t
+              •   Dus ook ( P )100  (1  0, 694 ) is afnemend stijgend                        1
+
+     12       maximumscore 3
+              •   1  0, 694t  0, 01P                                                          1
+                         t
+              •   0, 694  1  0, 01P                                                           1
+              •   t  0,694 log(1  0, 01P) (dus a  0, 694 , b  1 en c  0, 01 )             1
+
+
+
+
+VW-1026-a-c                                            9                               lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      Wereldrecord kratten stapelen
+
+     13       maximumscore 5
+              Een aanpak als:
+              • Het tekenen van het verdwijnpunt                                                 1
+              • Met behulp van diagonalen in bovenvlak de middens bepalen                        1
+              • Met behulp van diagonalen in zijvlak de hoogte van de krat bepalen               2
+              • De tekening afmaken                                                              1
+
+              Voorbeeld van een tekening:
+
+
+
+
+              of
+              •    Het tekenen van het verdwijnpunt                                              1
+              •    Met behulp van diagonalen in bovenvlak de middens bepalen                     1
+              •    Met behulp van de middens in het voorvlak van de ‘eerste laag’ de
+                   verbindingslijnen met het verdwijnpunt op de juiste hoogte tekenen            2
+              •    De tekening afmaken                                                           1
+
+              Voorbeeld van een tekening:
+
+
+
+
+              Opmerking
+              Bij elk van beide bovenstaande oplossingsstrategieën bij het derde
+              antwoordelement uitsluitend 0 of 2 scorepunten toekennen.
+
+
+
+
+VW-1026-a-c                                        10                                   lees verder ►►►
+  Vraag       Antwoord                                                                             Scores
+
+
+     14       maximumscore 5
+                                                       n(n  1)(2n  1)
+              •    Beschrijven hoe de vergelijking                       63 365 opgelost kan
+                                                              6
+                   worden                                                                             1
+              •    Dit geeft n  57                                                                   1
+              •    0, 2  63 365  12 673 (kratten)                                                   1
+              •    57 2  562  552  542  12 326 en 57 2  562  552  542  532  15135            1
+              •    Men was dus bezig met de 5e laag vanaf de onderkant                                1
+              of
+                                                       n(n  1)(2n  1)
+              •    Beschrijven hoe de vergelijking                       63 365 opgelost kan
+                                                              6
+                   worden                                                                             1
+              •    Dit geeft n  57                                                                   1
+              •    0,8  63 365  50 692 (kratten vanaf de bovenkant van de piramide)                 1
+              •    T52  48 230 en T53  51 039                                                       1
+              •    Men was dus bezig met de 5e laag vanaf de onderkant                                1
+
+     15       maximumscore 3
+              •    n(n  1)(2n  1) herleiden tot 2n3  3n 2  n                                      2
+                      3     2
+                   2n  3n  n 2 3 3 2 1
+              •                6 n  6 n  6 n (of 13 n3  12 n 2  16 n )                           1
+                        6
+
+              Opmerking
+              Voor het eerste antwoordelement mag voor een niet volledig juist antwoord
+              1 scorepunt worden toegekend.
+
+     16       maximumscore 4
+              •    T67  102 510                                                                      1
+              •    T68  107 134                                                                      1
+              •    105 995 zit hier tussenin                                                          1
+              •    Elin heeft dus gelijk                                                              1
+              of
+                                                       n(n  1)(2n  1)
+              •    Beschrijven hoe de vergelijking                       105 995 opgelost kan
+                                                              6
+                   worden                                                                             1
+              •    Dit geeft n  67, 7...                                                             1
+              •    Dit is geen geheel getal                                                           1
+              •    Elin heeft dus gelijk                                                              1
+
+
+
+
+VW-1026-a-c                                            11                                    lees verder ►►►
+  Vraag       Antwoord                                                                      Scores
+
+
+      Safari Hide & Seek
+
+     17       maximumscore 3
+              •    Voor het eerste dier zijn er 9 mogelijkheden, voor het tweede nog 8,
+                   enzovoort                                                                   1
+              •    Het aantal manieren is 9  8  7  6  5                                    1
+              •    Het antwoord: 15 120                                                        1
+              of
+              •    Er moeten 5 vakjes gekozen worden waarop een dier geplaatst wordt (of
+                                                                           9    9
+                   4 vakjes waarop geen dier geplaatst wordt): dat kan op   (of   )
+                                                                           5     4
+                   manieren                                                                    1
+              •    Er zijn 5! mogelijke volgordes voor een serie van 5 dieren                  1
+                                   9
+              •    Het antwoord: (    5! ) 15120                                           1
+                                   5
+
+     18       maximumscore 4
+              •    De speelstukken kunnen op 4! (=24) manieren over de velden verdeeld
+                   worden                                                                      1
+              •    De speelstukken 1, 2 en 4 kunnen elk op 4 manieren neergelegd worden        1
+              •    Dus de speelstukken kunnen op 4!  2  43 manieren geplaatst worden         1
+              •    Het antwoord: op 3072 manieren                                              1
+              of
+              •    Speelstuk 1 kan op 4 plaatsen met 4 draaiingen geplaatst worden, dus
+                   op 16 manieren                                                              1
+              •    Speelstuk 2 kan dan nog op 3 plaatsen met 4 draaiingen geplaatst
+                   worden, dus op 12 manieren                                                  1
+              •    Speelstuk 3 kan dan nog op 2 plaatsen met 2 draaiingen geplaatst
+                   worden, dus op 4 manieren en speelstuk 4 op 1 plaats met 4 draaiingen,
+                   dus 4 manieren                                                              1
+              •    Het totaal aantal manieren is 16 12  4  4  3072 manieren                1
+
+
+
+
+VW-1026-a-c                                        12                                 lees verder ►►►
+  Vraag       Antwoord                                                                      Scores
+
+
+     19       maximumscore 3
+              Een aanpak als:
+              • Als er 5 zebra’s zichtbaar moeten zijn, dan moeten alle zebra’s
+                 zichtbaar zijn                                                               1
+              • De speelstukken 1, 2 en 4 bedekken, hoe je ze ook neerlegt, altijd één
+                 van de zebra’s op veld A                                                     1
+              • Speelstuk 3 is daarmee het enige speelstuk dat op veld A geplaatst kan
+                 worden                                                                       1
+              of
+              •    Als er 5 zebra’s zichtbaar moeten zijn, dan moeten alle zebra’s
+                   zichtbaar zijn                                                             1
+              •    Speelstuk 3 bedekt de vier hoekvakjes en het middenvakje                   1
+              •    Het enige veld waarbij speelstuk 3 neergelegd kan worden zonder een
+                   zebra te bedekken, is veld A                                               1
+
+     20       maximumscore 4
+              Een aanpak als:
+              • Stap 1 luidt: als speelstuk 3 op veld A wordt geplaatst en speelstuk 4
+                 niet op veld C, dan moet op veld C speelstuk 1 of speelstuk 2 worden
+                 geplaatst                                                                    1
+              • Stap 2 luidt: als speelstuk 1 niet op veld C wordt geplaatst, dan moet op
+                 veld C speelstuk 2 worden geplaatst                                          1
+              • Uit spelopdracht 19 blijkt dat er behalve olifanten en zebra’s geen
+                 andere dieren zichtbaar mogen zijn                                           1
+              • Als speelstuk 1 op veld C zou worden geplaatst, zó dat de zebra
+                 zichtbaar blijft, dan zouden er ook een leeuw en een antilope zichtbaar
+                 zijn (en dat mag niet volgens spelopdracht 19)                               1
+
+
+
+
+VW-1026-a-c                                       13                                 lees verder ►►►
+  Vraag       Antwoord                                                                    Scores
+
+
+     21       maximumscore 6
+              Een aanpak als:
+              • Speelstuk 2 moet zodanig op veld C geplaatst worden dat alleen de
+                 zebra zichtbaar is                                                          1
+              • Speelstuk 1 kan alleen op veld D geplaatst worden omdat speelstuk 1 op
+                 veld B de zebra bedekt                                                      1
+              • Speelstuk 1 moet zodanig op veld D geplaatst worden dat alleen de
+                 zebra en de olifant zichtbaar zijn                                          1
+              • Speelstuk 4 kan nu alleen op veld B geplaatst worden (omdat er geen
+                 ander veld meer over is)                                                    1
+              • Speelstuk 4 moet zodanig op veld B geplaatst worden dat alleen de
+                 zebra en de olifant zichtbaar zijn                                          1
+              • De oplossing met behulp van arceringen                                       1
+
+
+
+
+              Opmerkingen
+               Als de redenering opgeschreven is met behulp van de notatie zoals
+                 beschreven in de opgave, hiervoor geen scorepunten in mindering
+                 brengen.
+               Als alleen de arceringen in de foto als antwoord zijn gegeven zonder
+                 redenering, ten hoogste 3 scorepunten voor deze vraag toekennen.
+               Als de redenering begint of na het eerste antwoordelement verdergaat
+                 met het plaatsen van speelstuk 4 op veld B en daarna via een correcte
+                 redenering met de juiste oplossing geëindigd wordt, hiervoor geen
+                 scorepunten in mindering brengen.
+
+
+
+
+VW-1026-a-c                                      14                                 lees verder ►►►
+      Compensatiescore
+
+22    maximumscore 19
+      Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals bedoeld onder 4a
+      en/of fouten bij het afronden van het eindantwoord voor het hele examen maximaal
+      2 scorepunten.
+      Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+      2 scorepunten in mindering heeft gebracht, kent u hier een compensatiescore toe.
+       Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+          aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+          Voorbeeld:
+          U heeft voor deze fouten in het hele examen 5 scorepunten in mindering gebracht.
+          Ken dan bij deze component een compensatiescore van 3 toe.
+       Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+          compensatiescore van 0 toe.
+
+
+
+      5 Aanleveren scores
+
+      Verwerk de scores van de alfabetisch eerste vijf kandidaten per examinator in de
+      applicatie Wolf. Cito gebruikt deze gegevens voor de analyse van de examens.
+      Om de gegevens voor dit doel met Cito uit te wisselen dient u ze uiterlijk op 31 mei te
+      accorderen.
+
+      Ook na 31 mei kunt u nog tot en met 8 juni gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+
+
+      6 Bronvermeldingen
+
+      Sjinkie
+      bron: nu.nl van 23 januari 2015
+
+
+      Wereldrecord kratten stapelen
+      bron: ANP - ANP Historisch Archief - 18 juli 1995
+
+
+
+
+VW-1026-a-c                                               15                      lees verdereinde
+                                                                                               ►►► 
+ aanvulling op het correctievoorschrift                                        2022-1
+
+wiskunde C vwo
+
+Centraal examen vwo
+
+Tijdvak 1
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen wiskunde C vwo:
+
+Op pagina 10 van het correctievoorschrift, bij vraag 13 moeten altijd alle scorepunten
+worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het
+gegeven antwoord.
+
+Toelichting:
+De figuur op de uitwerkbijlage is niet juist in perspectief getekend.
+
+en
+
+Op pagina 13 van het correctievoorschrift, bij vraag 20 moeten voor
+antwoordelementen 3 en 4 altijd alle scorepunten worden toegekend, ongeacht of er wel
+of geen antwoord gegeven is, en ongeacht het gegeven antwoord.
+
+Toelichting:
+Doordat de tweede stap in de redenering uit de tekst boven vraag 20 onjuist
+geformuleerd is, is het tweede deel van vraag 20 niet juist te beantwoorden.
+
+Een juiste redenering in de tekst zou zijn geweest:
+      ((( A3   C4 )  (C1  C2 ))   C1 )  C2
+
+
+Het tweede deel van vraag 20 zou moeten zijn:
+… leg uit hoe  C1 uit spelopdracht 19 volgt.
+
+
+Ik verzoek u dit bericht door te geven aan de correctoren wiskunde C vwo.
+
+Namens het College voor Toetsen en Examens,
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+VW-1026-a-22-1-c-A
+

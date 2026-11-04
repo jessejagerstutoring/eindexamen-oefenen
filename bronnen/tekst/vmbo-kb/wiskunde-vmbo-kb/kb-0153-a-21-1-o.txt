@@ -1,0 +1,319 @@
+                                                      Examen VMBO-KB
+
+                                                                 2021
+                                                                        tijdvak 1
+                                                                 dinsdag 18 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                        wiskunde CSE KB
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 26 vragen.
+Voor dit examen zijn maximaal 69 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+KB-0153-a-21-1-o
+             Ga verder op de volgende pagina.
+
+
+
+
+KB-0153-a-21-1-o                         2 / 11   lees verder ►►►
+             OVERZICHT FORMULES:
+
+
+
+             omtrek cirkel =   diameter
+
+
+             oppervlakte cirkel =   straal 2
+
+
+             inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+             inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+             inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud bol = 34    straal 3
+
+
+
+
+KB-0153-a-21-1-o                              3 / 11                 lees verder ►►►
+      Bioscoop
+
+             Nadine gaat samen met haar man en twee kinderen van 6 jaar en 9 jaar
+             naar de bioscoop.
+
+
+
+
+             In de tabel zie je de kosten van een kaartje per persoon voor een
+             bioscoopbezoek.
+
+             volwassene       10,50 euro
+             11 t/m 17 jaar    9,00 euro
+             tot 11 jaar       8,00 euro
+
+             Nadine kan ook kiezen voor een familieticket voor 2 volwassenen en
+             2 kinderen tot 11 jaar. Dit familieticket kost 29 euro.
+
+4p    1      Bereken hoeveel procent een familieticket voor Nadine goedkoper is dan
+             vier losse kaartjes. Schrijf je berekening op.
+
+3p    2      De bioscoop verkoopt ook strippenkaarten. Voor elk bioscoopbezoek gaat
+             er één strip per persoon af. Een 5-strippenkaart kost 38 euro en een
+             10-strippenkaart kost 70 euro.
+              Bereken hoeveel euro een bioscoopbezoek per persoon minder kost
+                 met de 10-strippenkaart in vergelijking met de 5-strippenkaart. Schrijf
+                 je berekening op.
+
+
+
+
+KB-0153-a-21-1-o                             4 / 11                              lees verder ►►►
+2p    3      In de bioscoop kun je snoep scheppen. Per 100 gram betaal je 1,60 euro.
+             Nadine heeft 265 gram snoep geschept.
+              Bereken hoeveel euro Nadine moet betalen voor het snoep. Schrijf je
+                 berekening op.
+
+3p    4      Nadine heeft een half uur voordat de film begon haar auto geparkeerd in
+             een parkeergarage. De film duurde 96 minuten en er was een pauze van
+             12 minuten. Na de film duurde het nog 6 minuten voordat Nadine bij de
+             betaalautomaat van de parkeergarage was.
+             Het tarief van deze parkeergarage is 1,25 euro per 24 minuten.
+              Bereken hoeveel euro Nadine moet betalen voor het parkeren. Schrijf
+                je berekening op.
+
+
+
+
+KB-0153-a-21-1-o                            5 / 11                          lees verder ►►►
+      Ei
+
+             Marnix kookt een ei en zet het in een eierdopje in de
+             keuken. De temperatuur van het gekookte ei neemt
+             langzaam af volgens de woordformule
+
+                   temperatuur = 21 + 79  0,85tijd
+
+             Hierin is temperatuur de temperatuur van het
+             gekookte ei in °C en tijd de tijd in minuten na het
+             koken.
+
+1p    5      Laat met een berekening zien dat het gekookte ei 5 minuten na het koken
+             ongeveer 56 °C is.
+
+             Als het gekookte ei lange tijd afkoelt, wordt de temperatuur van het
+             gekookte ei gelijk aan de temperatuur in de keuken.
+
+1p    6      Hoeveel °C is de temperatuur in deze keuken?
+
+4p    7      Teken in het assenstelsel op de uitwerkbijlage de grafiek die bij de
+             woordformule hoort. Vul eerst de tabel in.
+
+3p    8      Marnix wil het gekookte ei pellen als de temperatuur van het gekookte ei
+             net onder de 30 °C is.
+              Na hoeveel hele minuten is de temperatuur van het gekookte ei voor
+                 het eerst onder de 30 °C? Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-1-o                               6 / 11                          lees verder ►►►
+      Falkirk Wheel
+
+             In Schotland staat het Falkirk Wheel. Dat is een scheepslift met
+             twee waterbakken die schepen naar een hoger of lager gelegen kanaal
+             brengt. Als de ene waterbak boven bij het hoge kanaal is, dan is de
+             andere waterbak beneden bij het lage kanaal.
+             Je ziet een tekening en het vooraanzicht van de scheepslift.
+
+
+
+
+             De twee waterbakken hebben elk de vorm van een balk. De binnenmaten
+             van elke waterbak zijn 20 m lang, 6,5 m breed en 2,5 m hoog.
+
+1p    9      Bereken de inhoud van een waterbak in m3. Schrijf je berekening op.
+
+3p    10     De waterbakken zijn niet tot de rand gevuld met water. Er zit 250 000 liter
+             water in een waterbak.
+              Bereken hoeveel meter de waterhoogte in een waterbak is, voordat er
+                een boot invaart. Schrijf je berekening op.
+
+             De scheepslift staat stil, zodat de schepen de waterbak in en uit kunnen
+             varen. Nadat schepen de waterbakken in zijn gevaren, draait de
+             scheepslift zo dat de hoge waterbak naar beneden gaat en de lage
+             waterbak naar boven. Op de uitwerkbijlage is een deel van de periodieke
+             grafiek van de hoogte van waterbak A weergegeven.
+
+1p    11     Hoeveel minuten staat de scheepslift per keer stil om de schepen in en uit
+             te laten varen?
+
+3p    12     Teken op de uitwerkbijlage de hoogte van waterbak B van 9.00 uur tot
+             9.20 uur.
+
+3p    13     De scheepslift is elke dag van 8.00 uur tot 18.00 uur in gebruik.
+              Hoeveel keer is waterbak A op een dag beneden? Schrijf je
+                berekening op.
+
+
+
+KB-0153-a-21-1-o                             7 / 11                              lees verder ►►►
+      Dartbord
+
+             Je ziet een dartbord en ernaast het middelste gedeelte van het dartbord.
+             Dit middelste deel heet de bull’s eye en bestaat uit een cirkel met
+             daaromheen een ring.
+
+
+
+
+4p    14     De buitenste ring van de bull’s eye heeft een buitendiameter van 31,8 mm
+             en een binnendiameter van 12,7 mm.
+              Bereken hoeveel mm2 de oppervlakte van de buitenste ring van de
+                bull’s eye is. Schrijf je berekening op.
+
+2p    15     De omtrek van het hele dartbord is 142 cm.
+              Bereken hoeveel cm de diameter van het dartbord is. Schrijf je
+                berekening op.
+
+             Het dartbord bestaat uit meerdere sectoren. Alle sectoren zijn even groot.
+             Je ziet een tekening van de sector van het getal 6 van dit dartbord.
+
+
+
+
+             MC = 170 mm, MA = 107 mm en AC = 63 mm. De lengte van de
+             boog CD = 53 mm.
+
+3p    16     Bereken hoeveel mm de lengte van de boog AB is. Schrijf je berekening
+             op.
+
+
+
+
+KB-0153-a-21-1-o                             8 / 11                           lees verder ►►►
+             Yusef gaat darten en gooit de dartpijl in een rechte lijn in de bull’s eye. Hij
+             laat precies boven punt B zijn dartpijl los.
+
+
+
+
+3p    17     Bereken, zonder te meten, hoeveel cm de dartpijl aflegt. Schrijf je
+             berekening op.
+
+3p    18     Bereken hoeveel graden hoek Y is. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-1-o                               9 / 11                              lees verder ►►►
+      Kangoeroes
+
+             Er zijn verschillende soorten kangoeroes in Australië. Een ervan is de
+             wallaby.
+
+
+
+
+3p    19     De wallaby kan sprongen maken van 5 meter ver. De baan die deze
+             sprong van een wallaby benadert, wordt gegeven door de formule
+
+                   h = -0,3a2 + 1,5a
+
+             Hierin is h de hoogte van de wallaby boven de grond in meters en a de
+             horizontale afstand vanaf het begin van de sprong in meters.
+
+              Bereken of de wallaby over een hek van 2 meter hoog kan springen.
+               Schrijf je berekening op.
+
+             Het groeiende aantal kangoeroes is een groot probleem in Australië. Op
+             1 januari 2010 waren er 27 miljoen kangoeroes. En op 1 januari 2017
+             waren dat er al 45 miljoen.
+
+3p    20     Bereken met hoeveel procent het aantal kangoeroes tussen 2010 en 2017
+             is gestegen. Schrijf je berekening op.
+
+4p    21     Vanaf 1 januari 2017 steeg het aantal kangoeroes met 3,5% per jaar.
+             Neem aan dat deze stijging de jaren erna zo bleef.
+              Bereken hoeveel miljoen kangoeroes Australië op 1 januari 2020 had.
+                Schrijf je berekening op en rond je antwoord af op één decimaal.
+
+
+
+
+KB-0153-a-21-1-o                            10 / 11                           lees verder ►►►
+      Appeltaart
+
+             Nikki gaat twee appeltaarten bakken voor de klas. Ze gebruikt hiervoor
+             een rond bakblik en een vierkant bakblik. Ze heeft een recept voor beslag
+             voor het ronde bakblik.
+
+
+                  Recept voor beslag voor
+                         appeltaart
+              Voor een bakblik met een diameter
+                         van 24 cm
+             300 gram       zelfrijzend bakmeel
+             175 gram       boter
+             150 gram       witte basterdsuiker
+             1              ei
+             1 kg           appels
+
+
+2p    22     Het ronde bakblik heeft een diameter van 24 cm en is 5 cm hoog.
+              Laat met een berekening zien dat de inhoud van dit bakblik afgerond
+                2262 cm3 is.
+
+             Je ziet op de foto hiernaast een vierkant
+             bakblik. Ga ervan uit dat de hoeken van
+             dit bakblik recht zijn.
+             De inhoud van het vierkante bakblik is
+             1,3 keer zo groot als die van het ronde
+             bakblik. Het vierkante bakblik is ook
+             5 cm hoog.
+
+4p    23     Bereken een zijde van het vierkante bakblik. Schrijf je berekening op en
+             rond af op hele centimeters.
+
+2p    24     Nikki wil beide bakblikken met beslag vullen. Ze heeft voor het vierkante
+             bakblik 1,3 keer zoveel beslag nodig als voor het ronde bakblik. Ze heeft
+             alle ingrediënten in huis, behalve het zelfrijzend bakmeel. In de winkel
+             verkopen ze dit in pakken van 500 gram.
+              Bereken hoeveel pakken zelfrijzend bakmeel ze moet kopen om deze
+                 twee taarten te bakken. Schrijf je berekening op.
+
+2p    25     Nikki wil de vierkante taart verdelen in 12 even grote stukken.
+              Teken in het bovenaanzicht op de uitwerkbijlage hoe ze de vierkante
+                taart kan snijden.
+
+2p    26     De ronde appeltaart verdeelt ze in 12 gelijke punten.
+              Bereken hoeveel graden de hoek van elke taartpunt is. Schrijf je
+                berekening op.
+
+
+
+KB-0153-a-21-1-o                             11 / 11                          lees verdereinde
+                                                                                           ►►► 
+

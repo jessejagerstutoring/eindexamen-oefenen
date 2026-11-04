@@ -1,0 +1,5 @@
+# de originele pdf's zijn groot en staan op examenblad.nl; haal ze opnieuw op met tools/haal_op.py
+bronnen/pdf/
+bronnen/syllabus/*.pdf
+__pycache__/
+.DS_Store

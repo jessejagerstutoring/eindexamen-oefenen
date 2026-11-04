@@ -1,0 +1,374 @@
+                                                       Examen VMBO-GL en TL
+
+                                                                             2018
+                                                                                   tijdvak 1
+                                                                            dinsdag 15 mei
+                                                                          13.30 - 15.30 uur
+
+
+                                                          wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-18-1-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-18-1-o                             2/9                    lees verder ►►►
+      Druivenoogst
+
+            Druiven hebben vaak last van schimmels. Om de
+            schimmels te bestrijden, moeten de planten regelmatig
+            met een biologisch bestrijdingsmiddel behandeld
+            worden.
+
+2p    1     Wijnboer Frans krijgt korting. Hij betaalt voor het
+            biologisch bestrijdingsmiddel € 68,- in plaats van € 80,-
+            per liter.
+             Hoeveel procent korting krijgt Frans? Schrijf je berekening op.
+
+            Frans kan de kosten van het aantal liter bestrijdingsmiddel berekenen met
+            de formule
+
+                   K = 68  b
+
+            Hierin is K de kosten in euro’s en b het aantal liter bestrijdingsmiddel.
+
+            Door het gebruik van het bestrijdingsmiddel kan Frans een hogere
+            opbrengst krijgen. De opbrengst per hectare hangt samen met het aantal
+            liter bestrijdingsmiddel dat hij per hectare op de druiven spuit.
+
+            De opbrengst per hectare kan worden berekend met de formule
+
+                   O = 2000 + 250b − 25b2
+
+            Hierin is O de opbrengst in euro’s en b het aantal liter bestrijdingsmiddel
+            per hectare.
+
+4p    2     Op de uitwerkbijlage staat de grafiek van de kosten van het
+            bestrijdingsmiddel getekend.
+             Teken in hetzelfde assenstelsel op de uitwerkbijlage de grafiek van de
+               opbrengst per hectare. Vul eerst de tabel in.
+
+            De winst die Frans maakt, kan hij berekenen door de kosten van het
+            bestrijdingsmiddel van de opbrengst af te halen.
+
+3p    3     Laat met een berekening zien dat Frans € 2321,- winst maakt als hij
+            3 liter bestrijdingsmiddel per hectare gebruikt.
+
+3p    4     Bereken bij hoeveel liter bestrijdingsmiddel Frans de meeste winst maakt.
+            Schrijf je berekening op en geef je antwoord in hele liters.
+
+
+
+
+GT-0153-a-18-1-o                              3/9                               lees verder ►►►
+      Mona Lisa
+
+            De Mona Lisa is één van de bekendste schilderijen ter
+            wereld.
+
+
+
+
+2p    5     De geschatte waarde van dit schilderij is 700 miljoen
+            dollar. 1 dollar is omgerekend 0,89 euro.
+             Bereken hoeveel miljoen euro de waarde van de
+                Mona Lisa is. Schrijf je berekening op.
+
+            De Mona Lisa hangt in het Louvre in Parijs. Dit museum is 6 dagen per
+            week geopend. Sinds januari 1975 komen er gemiddeld 18 000 bezoekers
+            per dag naar het schilderij kijken.
+
+3p    6     In 1964 was het schilderij 15 weken uitgeleend aan een museum in
+            Amerika, dat ook 6 dagen per week geopend was. Er kwamen toen in
+            totaal 1,7 miljoen bezoekers naar de Mona Lisa in Amerika kijken.
+             Bereken of dit gemiddeld meer of minder dan het gemiddelde aantal
+                bezoekers in Parijs was. Schrijf je berekening op.
+
+4p    7     Bereken hoeveel bezoekers de Mona Lisa bekeken hebben van
+            1 januari 1975 tot 1 januari 2015. Schrijf je berekening op en rond je
+            antwoord af op hele miljoenen.
+
+3p    8     Iris heeft een poster van de Mona Lisa aan haar muur hangen. De
+            afmetingen van de poster zijn 100 cm bij 80 cm. De echte Mona Lisa is
+            77 cm bij 53 cm.
+             Bereken of de poster een vergroting is van de echte Mona Lisa. Schrijf
+                 je berekening op.
+
+
+
+
+GT-0153-a-18-1-o                             4/9                               lees verder ►►►
+      Frietzakstandaard
+
+            Je ziet een foto en een schets van een standaard voor een frietzak.
+
+
+
+
+                                                                 9 cm
+                                                             C             B
+
+
+
+
+                                              21 cm
+
+                                                             D
+
+                                                      7 cm
+
+                                                             A   9 cm
+
+
+
+
+            De standaard bestaat uit drie cirkelvormige, evenwijdige ringen. De twee
+            grote ringen hebben een diameter van 9 cm en zijn met elkaar verbonden
+            door een schuine staaf AB. De punten A, D en C liggen op één lijn. De
+            hoogte van de standaard is 21 cm.
+
+5p    9     Een fabrikant maakt de twee grote ringen en de staaf uit één stuk draad.
+             Bereken, zonder te meten, hoeveel cm de totale lengte van dat stuk
+               draad is. Schrijf je berekening op.
+
+            Op 7 cm boven de onderste grote ring zit de kleine ring, waarin de punt
+            van de frietzak komt.
+
+3p    10    Bereken, zonder te meten, de diameter van de kleine ring. Schrijf je
+            berekening op.
+
+4p    11    Teken het bovenaanzicht van de standaard op ware grootte.
+            Als je bij de vorige vraag geen antwoord gevonden hebt, gebruik dan bij
+            deze vraag voor de diameter van de kleine ring 4 cm.
+
+
+
+
+GT-0153-a-18-1-o                            5/9                                lees verder ►►►
+      Omgekeerd evenredig verband
+
+            Hieronder en op de uitwerkbijlage zie je de grafiek getekend die hoort bij
+                           2
+            de formule y  .
+                           x
+
+                                                y
+                                                    5
+
+
+                                                    4
+
+
+                                                    3
+
+
+                                                    2
+
+
+                                                    1
+
+
+
+                       −5   −4   −3   −2   −1       O   1   2   3     4    5x
+
+                                                −1
+
+
+                                                −2
+
+
+                                                −3
+
+
+                                                −4
+
+
+                                                −5
+
+
+1p    12    Bij welke waarde van x heeft deze formule geen uitkomst?
+
+3p    13    Een punt van de grafiek heeft als y-waarde 7.
+             Bereken de waarde van x voor dit punt. Schrijf je berekening op en rond
+               je antwoord af op twee decimalen.
+
+                                   2                                       2
+4p    14    De gegeven formule y     verandert in de nieuwe formule y       1.
+                                   x                                       x
+             Teken op de uitwerkbijlage in hetzelfde assenstelsel de grafiek die bij
+              de nieuwe formule hoort. Vul eerst de tabel in.
+
+
+
+
+GT-0153-a-18-1-o                             6/9                                lees verder ►►►
+      Tokkelbaan
+
+            Timmerman Hamer heeft een tokkelbaan gemaakt in een speeltuin.
+
+
+
+
+            Hieronder staat een schematische weergave van het zijaanzicht van het
+            bouwwerk waaraan de kabel van de tokkelbaan bevestigd is.
+
+
+
+                                         S
+
+
+
+
+                           2,93 m                           2,93 m
+                                     F
+
+                                                        G
+                                 D
+
+                                                            E
+
+
+
+                             A                                  B      C
+                                         1,77 m
+
+            Driehoek ABS is een gelijkbenige driehoek. Punt F is het midden van AS.
+            CD en FG staan loodrecht op AS.
+
+5p    15    Laat met een berekening zien dat hoek S in driehoek ABS afgerond 35° is.
+
+5p    16    Bereken, zonder te meten, de lengte van FG. Schrijf je berekening op en
+            geef je antwoord in hele centimeters.
+
+3p    17    Volgens de voorschriften mag de hellingshoek bij C niet groter zijn
+            dan 20°.
+             Laat met een berekening zien dat deze hellingshoek aan de
+               voorschriften voldoet.
+
+
+GT-0153-a-18-1-o                                  7/9                         lees verder ►►►
+      Kubussen en bollen
+
+
+
+
+            Hierboven staan de eerste figuren uit een reeks met kubussen en bollen.
+            Het nummer van een figuur is aangegeven met de letter n.
+
+2p    18    Hoeveel bollen heeft de figuur met n = 7? Laat zien hoe je aan je
+            antwoord komt.
+
+3p    19    Om het aantal kubussen bij een figuurnummer te berekenen kun je een
+            formule maken.
+             Schrijf deze formule op. Neem k voor het aantal kubussen en n voor
+               het nummer van een figuur.
+
+4p    20    Je hebt 50 kubussen en 110 bollen.
+             Wat is het nummer van de grootste figuur uit deze reeks die je met
+               deze kubussen en bollen kunt maken? Laat zien hoe je aan je
+               antwoord komt.
+
+
+
+
+GT-0153-a-18-1-o                            8/9                                 lees verder ►►►
+      Fontein
+
+            In een park in Marokko ligt
+            een stervormige fontein.
+
+
+
+
+2p    21    Op de uitwerkbijlage staat een bovenaanzicht van de fontein.
+             Teken alle symmetrieassen in dit bovenaanzicht.
+
+            De bodem van de waterbak van de fontein wordt gevormd door
+            twee vierkanten van 205 cm bij 205 cm. Zie de tekening hieronder.
+            De lengte van de zijde AJ, JB, BK, enzovoort is 60 cm.
+                                    205 cm
+                                      F
+
+
+                                O            N
+                            G                          E
+
+
+
+                            P                          M
+
+
+                   H                                       D
+
+
+                            I                          L
+
+
+
+                            A   J            K     C
+                   205 cm
+
+                                      B
+
+
+
+
+3p    22    Bereken, zonder te meten, hoeveel cm de lengte van HD is. Schrijf je
+            berekening op.
+
+4p    23    Bereken hoeveel m2 de oppervlakte van de bodem van de waterbak is.
+            Schrijf je berekening op.
+
+3p    24    Als de waterbak helemaal gevuld is, zit er 1500 liter water in.
+             Bereken hoeveel cm de hoogte van het water dan is. Schrijf je
+                berekening op en rond je antwoord af op hele centimeters.
+            Als je bij de vorige vraag geen antwoord gevonden hebt, gebruik dan bij
+            deze vraag voor de oppervlakte van de bodem van de waterbak 4,8 m2.
+
+
+GT-0153-a-18-1-o                                 9/9                        lees verdereinde
+                                                                                         ►►► 
+

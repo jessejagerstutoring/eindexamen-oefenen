@@ -1,0 +1,387 @@
+                                                                Examen HAVO
+
+                                                                     2023
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 19 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-23-2-o
+      Zwangerschap
+
+            Een zwangerschapsecho                foto 1
+            is een afbeelding van een
+            ongeboren baby. Zie
+            foto 1. Een echo wordt
+            onder andere gebruikt om
+            vast te stellen hoe lang
+            een vrouw al zwanger is.
+
+            Op de echo kan de
+            afstand a van de
+            bovenkant van het hoofdje
+            tot de onderkant van de
+            billen worden gemeten.
+            Met behulp van de
+            volgende formule kan dan de zwangerschapsduur d worden geschat:
+
+                   d  8,052  1,037a  23,73
+            De zwangerschapsduur d is in dagen en de gemeten afstand a in mm.
+            Deze formule is alleen bruikbaar bij een zwangerschapsduur van
+            ongeveer 8,5 tot ongeveer 13 weken.
+
+            Bij een vrouw wordt een echo gemaakt. Daarbij wordt a  55 mm
+            gemeten.
+2p    1     Bereken de geschatte zwangerschapsduur van deze vrouw. Geef je
+            antwoord in hele weken.
+
+            Als bekend is hoelang een vrouw zwanger is, kan omgekeerd berekend
+            worden wat de afstand a bij de ongeboren baby is. Hiervoor kan de
+            formule worden herschreven door a in d uit te drukken. Dit geeft een
+            formule van de vorm:
+                   a  p  (q  d  r ) 2
+
+            Mogelijke waarden van p, q en r, afgerond op twee decimalen, zijn:
+             p  0,96 , q  0,12 en r  2,95 .
+3p    2     Bereken deze waarden van p, q en r in drie decimalen.
+
+            Bij een zwangerschapsduur van 8,5 tot 13 weken is de afstand bij de
+                                                                                  2
+            ongeboren baby te bepalen volgens de formule a  0,96  (0,12d  2,95) .
+3p    3     Toon met behulp van de afgeleide aan dat de afstand toenemend stijgend
+            is.
+
+
+
+
+HA-1025-a-23-2-o                                  2 / 13                    lees verder ►►►
+            Vanaf 13 weken zwangerschap kan gebruik worden gemaakt van een
+            andere formule voor een schatting van de zwangerschapsduur. Hierbij
+            wordt de hoofdomtrek gebruikt. Op foto 2 is een dwarsdoorsnede te zien
+            van het hoofd.
+
+            foto 2
+
+
+
+
+            De formule voor de zwangerschapsduur vanaf 13 weken wordt gegeven
+            door:
+                   w  3,12958 1,00244h  h0,2794
+            Hierin is w de zwangerschapsduur in weken en h de hoofdomtrek in mm.
+3p    4     Bereken de hoofdomtrek in mm die hoort bij een zwangerschap van
+            14 weken. Geef je eindantwoord als een geheel getal.
+
+
+
+
+HA-1025-a-23-2-o                                3 / 13                     lees verder ►►►
+      Cirkel tussen lijnen
+
+            De lijn l is gegeven door de vergelijking y  12 x en de lijn m door de
+            vergelijking y   12 x .
+            Verder is gegeven de cirkel c met middelpunt M ( 5,0) en straal 1.
+            Lijn l raakt cirkel c. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+5p    5     Bewijs dat lijn l cirkel c raakt.
+
+            De verticale lijn n raakt cirkel c aan de rechterkant. Lijn n snijdt lijn m in
+            punt A en lijn l in punt B. Samen met de oorsprong O vormen de punten A
+            en B de driehoek OAB. Cirkel c past precies in deze driehoek.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+5p    6     Onderzoek op algebraïsche wijze of de oppervlakte van driehoek OAB
+            meer dan twee keer zo groot is als de oppervlakte van cirkel c.
+
+
+
+HA-1025-a-23-2-o                                4 / 13                          lees verder ►►►
+      Raaklijn en driehoeken
+
+                                                            2
+            De functie f wordt gegeven door f ( x)  16  x . Het punt P ligt op de
+            grafiek van f . De raaklijn aan de grafiek van f in P snijdt de positieve x-as
+            in het punt A en de y-as in het punt B. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Punt P is zo gekozen dat geldt: OB  3  OA .
+3p    7     Bereken exact de x-coördinaat van P.
+
+            De grafiek van f snijdt de positieve x-as in het punt C en de y-as in het
+            punt D. Het punt Q ligt op de grafiek van f tussen de punten C en D en
+            heeft x-coördinaat q.
+                                                              figuur 2
+            In figuur 2 zijn de grafiek van f en de
+            grijze driehoeken OCQ en OQD weergegeven.
+
+            De oppervlakte van de beide driehoeken kan
+            worden uitgedrukt in q. De oppervlakte van
+                                      2
+            driehoek OCQ is 2(16  q ) .
+
+                                                      2
+2p    8     Toon aan dat die oppervlakte 2(16  q ) is.
+
+            De oppervlakte van driehoek OQD uitgedrukt
+            in q is gelijk aan 8q .
+            Punt Q is zo gekozen dat geldt: de twee
+            driehoeken hebben gelijke oppervlaktes.
+4p    9     Bereken exact de oppervlakte van één zo’n driehoek.
+
+
+
+HA-1025-a-23-2-o                             5 / 13                              lees verder ►►►
+      Een translatie en snijpunten met de x-as
+
+                                                       3     2
+            De functie f wordt gegeven door f ( x)  x  6 x  36 x  88 .
+            De punten P en Q zijn de toppen van de grafiek van f . Het middelste
+            snijpunt van de grafiek van f met de x-as is het punt M (2,0) .
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Punt M ligt midden tussen P en Q.
+5p    10    Bewijs dit.
+
+            Door de grafiek van f twee naar rechts te verschuiven ontstaat de grafiek
+                                                                 3
+            van de functie g. Een formule voor g is g ( x)  x  48 x .
+
+4p    11    Bewijs dat dit een formule is voor g.
+
+
+
+
+HA-1025-a-23-2-o                              6 / 13                         lees verder ►►►
+            In figuur 2 zijn de grafieken van f en g weergegeven.
+
+            figuur 2
+
+
+
+
+            Het middelste snijpunt van de grafiek van g met de x-as ligt in de
+            oorsprong.
+            De grafiek van f heeft behalve punt M nog twee snijpunten met de x-as:
+            het punt A en het punt B. De coördinaten van die snijpunten zijn met de
+            functie f moeilijk te berekenen. Met behulp van de functie g zijn de
+            coördinaten van deze snijpunten wel te berekenen.
+4p    12    Bereken exact de x-coördinaten van A en B.
+
+
+
+
+HA-1025-a-23-2-o                            7 / 13                          lees verder ►►►
+      Shovel
+
+            Een shovel is een machine om zand mee te verplaatsen. In de bak van
+            een shovel zit zand. Om het zand te storten, wordt de bak gekanteld.
+
+            In figuur 1 staat de beginsituatie. In deze beginsituatie zijn de bovenrand
+            van de bak en de armen AB en ED horizontaal. Punt B ligt loodrecht
+            boven punt D.
+
+            Verder geldt in de beginsituatie:
+             AB  1,50 m, ED  1,80 m en BD  0,25 m;
+             A bevindt zich 0,30 m rechts van E en 0,25 m boven E;
+             AED  39,8 .
+
+            figuur 1 beginsituatie
+
+
+
+
+            In figuur 2 staat de situatie als de bak enigszins gekanteld is. Bij het
+            kantelen blijven de punten B, D en E op hun plek. Door de buis bij A uit te
+            schuiven, wordt AB 10 centimeter langer gemaakt. De afstand AE
+            verandert niet. Hierdoor draait punt A om punt E heen. Arm AB loopt dan
+            niet meer horizontaal en  AED wordt groter.
+
+            figuur 2 enigszins gekanteld
+
+
+
+
+            Op de uitwerkbijlage is figuur 2 met de vierhoek AEDB weergegeven.
+7p    13    Bereken hoeveel graden de bak in figuur 2 gekanteld is ten opzichte van
+            de beginsituatie. Geef je eindantwoord in hele graden.
+
+
+
+HA-1025-a-23-2-o                             8 / 13                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-23-2-o                        9 / 13   lees verder ►►►
+      Sinusoïde en parabool
+
+            De functie f wordt gegeven door f ( x)  3  3sin( 12 x) . In de figuur is een
+            deel van de grafiek van f weergegeven. De grafiek van deze functie gaan
+            we in twee delen benaderen, namelijk met een deel van een parabool en
+            met een lijnstuk.
+            Het punt A met x-coördinaat 13 ligt op de grafiek van f . Het punt B met
+            dezelfde y-coördinaat als A ligt ook op de grafiek van f . Het punt T is de
+            top van de grafiek van f . Zie de figuur.
+
+            figuur
+
+
+
+
+            Het deel van de sinusoïde tussen de punten A en B is te benaderen door
+            de parabool die door de punten A, T en B gaat.
+                                                                 2
+            Een vergelijking van deze parabool is y  3 83 x  6 43 x  2 85 .
+
+7p    14    Bewijs dit.
+
+            De grafiek van f snijdt de y-as in het punt S. Het deel van de sinusoïde
+            tussen de punten S en A is te benaderen door een lijnstuk met vergelijking
+             y  4 12 x  3 . Dit lijnstuk gaat door de punten S en A.
+
+            De benadering van de sinusoïde tussen de punten S en B bestaat nu uit
+            twee delen: het lijnstuk SA en het deel van de parabool door A, T en B.
+            Als er in punt A geen knik is, noemen we dit een goede benadering.
+            Dat houdt in dat in A de helling van het lijnstuk SA gelijk is aan de helling
+            van de parabool.
+4p    15    Onderzoek op exacte wijze of er wel of geen knik is in het punt A.
+
+
+HA-1025-a-23-2-o                               10 / 13                            lees verder ►►►
+      Afstand tussen lijnen en punt
+
+            De lijn l wordt gegeven door de vergelijking y  12 x . De lijn k ontstaat door
+            l één recht omhoog te schuiven. Het punt P bevindt zich onder l.
+
+            De afstand tussen l en P is 3. Zie de figuur.
+
+            figuur
+
+
+
+
+6p    16    Bereken algebraïsch de afstand tussen k en P. Geef je eindantwoord in
+            twee decimalen.
+
+
+
+
+HA-1025-a-23-2-o                             11 / 13                             lees verder ►►►
+      Dalen, stijgen en stijgen
+
+                                                              x
+            De functie f wordt gegeven door f ( x)  3 1,12  5sin(2( x  14 )) .
+            De functie f is de som van de exponentiële functie g, gegeven door
+             g ( x)  3 1,12 x , en de periodieke functie h, gegeven door
+             h( x)  5sin(2( x  14 )) .
+
+            In figuur 1 zijn voor x  0 de grafieken van f en h weergegeven met
+            daarop de punten A en B.
+
+            figuur 1
+
+
+
+
+            De functie h heeft maxima en minima. Hierdoor heeft de functie f ook
+            maxima en minima.
+
+            Geteld vanaf de y-as wordt in punt A het 14e minimum van f bereikt en in
+            punt B het 14e minimum van h.
+            De x-coördinaat van A is afgerond op drie decimalen 13,492.
+
+            Het lijkt alsof de x-coördinaten van A en B gelijk zijn.
+5p    17    Onderzoek op algebraïsche wijze of dit zo is.
+
+
+
+
+HA-1025-a-23-2-o                              12 / 13                                 lees verder ►►►
+            Het snijpunt van de grafiek van f met de y-as is (0, f (0)) en dus is de
+            vergelijking van de horizontale lijn door dit punt y  f (0) . Voor x  0 zal
+            de grafiek van f de lijn met vergelijking y  f (0) op meerdere plaatsen
+            snijden. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Vanaf een bepaalde waarde van x snijden de grafiek van f en de lijn
+            elkaar niet meer. Het snijpunt met de grootste x-coördinaat bevindt zich
+            links van punt A.
+3p    18    Bereken de x-coördinaat van dit snijpunt. Geef je antwoord in
+            twee decimalen.
+                                                         figuur 3
+            In eerste instantie is de grafiek van f
+            afwisselend dalend en stijgend. Vanaf
+            een bepaalde waarde van x is de grafiek
+            van f alleen nog maar stijgend. De
+            laatste twee dalingen vinden in het
+            interval [38, 40] plaats.
+
+            Tijdens elke daling van hoogste naar
+            laagste punt is er een punt op de grafiek
+            van f waar de grafiek het sterkst daalt.
+            In zo’n punt is de helling op dat dalende
+            stuk dus minimaal.
+            Op het laatste dalende stuk is dat in het
+            punt P. Zie figuur 3.
+3p    19    Bereken de x-coördinaat van P. Licht je
+            werkwijze toe. Geef je antwoord in één
+            decimaal.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-23-2-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,360 @@
+                                                                Examen HAVO
+
+                                                                     2023
+                                                                            tijdvak 1
+                                                                     dinsdag 23 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 18 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-23-1-o
+      Parabool en grafiek van een wortelfunctie
+
+            De functie f wordt gegeven door f ( x) = 2 3x − 5 .
+
+3p    1     Bereken op exacte wijze het domein van f.
+
+            De functie g wordt gegeven door:
+
+                   g ( x) = a ( x − p) 2 + q
+            Hierin zijn a, p en q constanten.
+            De grafiek van g is een parabool.
+
+            Het punt A ligt op de grafiek van f en in dit punt A geldt f ' ( x) = 34 .
+            Daarnaast is punt A ook de top van de grafiek van g.
+            Het punt B ligt op beide grafieken en heeft x-coördinaat 10.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+8p    2     Bereken exact de waarden van a, p en q.
+
+
+
+
+HA-1025-a-23-1-o                               2 / 12                          lees verder ►►►
+      Twee cirkels en twee lijnen
+
+            De cirkel c met middelpunt M is gegeven door ( x + 6) 2 + ( y − 1) 2 = 49 .
+            Ook is gegeven de lijn l met vergelijking y = 2 x .
+            De cirkel en de lijn snijden elkaar in de punten A en B. Punt A ligt onder
+            de x-as, punt B ligt boven de x-as. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    3     Bereken algebraïsch de x-coördinaat van B. Geef je eindantwoord in twee
+            decimalen.
+
+            De lijn m is de horizontale raaklijn aan de onderkant van c.
+            Het punt C is het snijpunt van m en l.
+            Het punt N ligt op m op een afstand 8 rechts van C.
+            De cirkel d heeft N als middelpunt en straal 3.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+6p    4     Bereken exact de afstand tussen de twee cirkels.
+
+
+HA-1025-a-23-1-o                             3 / 12                             lees verder ►►►
+      Ademhaling
+
+            In deze opgave bekijken we het longvolume. Dit is de hoeveelheid lucht
+            in de longen van de mens. In figuur 1 is voor een bepaalde persoon in
+            rust weergegeven hoe dit longvolume V afhangt van de tijd. Hierbij is
+            V in mL en t de tijd in seconden.
+
+            figuur 1
+
+
+
+
+            Deze grafiek is te beschrijven met een formule van de volgende vorm:
+                   V = p + q ⋅ cos(rt )
+4p    5     Bereken de waarden van p, q en r. Geef niet-gehele waarden in je
+            eindantwoord in twee decimalen.
+
+
+
+
+HA-1025-a-23-1-o                           4 / 12                          lees verder ►►►
+            Als een persoon zich inspant, zal hij sneller gaan ademen. Ook ademt hij
+            elke keer méér lucht in dan wanneer hij in rust is.
+
+            Voor iemand die zich inspant, geldt:
+                   V = 2500 + 1200 ⋅ sin(4,19(t − 0,37))
+            Hierin is V het longvolume in mL en t de tijd in seconden.
+            In figuur 2 is een schets van de bijbehorende grafiek te zien.
+
+            figuur 2
+
+
+
+
+            De hoeveelheid lucht die deze persoon elke keer inademt, is gelijk aan
+            het verschil tussen het maximum en het minimum van V.
+            Gedurende één minuut ademt deze persoon meerdere keren in. In totaal
+            ademt hij dan bijna 100 liter lucht in.
+4p    6     Bereken hoeveel liter lucht deze persoon per minuut inademt. Geef je
+            eindantwoord als geheel getal.
+
+            Een test om na te gaan hoe goed            foto
+            iemands longen werken is de zogeheten
+            spirometrietest. De persoon moet tijdens
+            deze test krachtig in een apparaat blazen.
+            Zie de foto.
+
+            Benny moet zo’n test ondergaan. Het
+            resultaat is te zien in de grafiek op de
+            uitwerkbijlage. Op de verticale as staat
+            het volume uitgeademde lucht in liters en
+            op de horizontale as de tijd in seconden.
+
+            Er is een moment waarop de snelheid waarmee de persoon uitblaast,
+            maximaal is. Deze maximale snelheid, in liters per minuut, wordt de PEF
+            (peak expiratory flow) genoemd.
+4p    7     Bepaal met behulp van de figuur op de uitwerkbijlage de PEF van Benny
+            in liters per minuut. Geef je eindantwoord als geheel getal.
+
+
+
+
+HA-1025-a-23-1-o                              5 / 12                         lees verder ►►►
+      Transition
+
+            Transition is een kunstwerk dat langs de autoweg N34 bij Eext in Drenthe
+            staat. Het is een gekromde buis die gedeeltelijk ingegraven is in de grond.
+            Zie de foto.
+
+            foto
+
+
+
+
+            In de figuur is een model weergegeven van een van de uiteindes van de
+            buis: een cirkel met middelpunt M en straal r. Punt D is het hoogste punt
+            van de buis. De doorgang van de buis is het deel van de cirkel boven
+            lijnstuk AB. De basis van de doorgang is lijnstuk AB. De lengte van de
+            basis is b. Punt C is het midden van AB. De afstand tussen C en D is de
+            hoogte h van de doorgang. Lijnstuk CD staat loodrecht op AB. Er geldt
+            dus CM = h − r . De figuur staat ook op de uitwerkbijlage.
+
+            figuur
+
+
+
+
+HA-1025-a-23-1-o                            6 / 12                            lees verder ►►►
+            Er is een formule waarmee je de straal r kunt berekenen bij de gegeven
+            basis en hoogte, namelijk:
+                        1 b2 + h2
+                   r=   4
+                                             (formule 1)
+                           2h
+            Hierin is r de straal, b de lengte van de basis AB en h de hoogte CD.
+            Er geldt h ≥ r .
+
+            Met behulp van driehoek ACM kun je bewijzen dat formule 1 juist is.
+4p    8     Bewijs dat formule 1 juist is. Je kunt hierbij de figuur op de uitwerkbijlage
+            gebruiken.
+
+            In het kunstwerk Transition is de straal r gelijk aan 1,63 m.
+            Voor het ingraven van de buis was het handig om te weten hoe lang de
+            basis b moest zijn. Deze lengte hangt af van de gewenste hoogte h.
+
+            Je kunt formule 1 herleiden tot een formule waarin b wordt uitgedrukt in h.
+            Voor r = 1,63 is formule 1 te schrijven in de volgende vorm:
+
+                   b = p ⋅ q ⋅ h − h2        (formule 2)
+
+            Hierin zijn p en q constanten.
+3p    9     Herleid formule 1 tot de vorm van formule 2.
+
+
+
+
+HA-1025-a-23-1-o                             7 / 12                              lees verder ►►►
+      Halve hoek
+
+            Gegeven zijn de driehoeken ABC en BCQ met AB = 10 , BC = 12 ,
+            BQ = CQ = 7 en ∠BAC = α . Bovendien is gegeven ∠BQC = 2α .
+            Zie de figuur.
+
+            figuur
+
+
+
+
+6p    10    Bereken AC. Geef je eindantwoord in twee decimalen.
+
+
+
+
+HA-1025-a-23-1-o                          8 / 12                            lees verder ►►►
+      Twee functies
+
+            De functie f wordt gegeven door f ( x) = 2 ⋅ 2 x−3 − 4 .
+
+            Het is mogelijk de grafiek van f door middel van transformaties te laten
+            ontstaan uit de grafiek die hoort bij de formule y = 2 x . Dit kan op
+            verschillende manieren. Er is een manier die alleen gebruikmaakt van
+            translaties, dus zonder vermenigvuldigingen ten opzichte van x-as of
+            y-as.
+3p    11    Bewijs dat er zo’n manier is. In je antwoord moeten de translaties worden
+            genoemd.
+
+            Op de grafiek van f ligt een punt met y-coördinaat 10.
+4p    12    Bereken exact de x-coördinaat van dit punt.
+
+            De functie g wordt gegeven door g ( x) = −2 x−3 + 2 .
+            Het punt S is het snijpunt van de grafieken van f en g.
+4p    13    Bereken exact de coördinaten van S.
+
+
+
+
+HA-1025-a-23-1-o                               9 / 12                         lees verder ►►►
+      Tienkamp
+
+            De tienkamp is een sportwedstrijd waarbij
+            atleten gedurende twee dagen tien
+            atletiekonderdelen moeten afleggen.
+            Twee onderdelen van de tienkamp zijn
+            hoogspringen en 1500 m hardlopen.
+
+
+
+
+            Met formules worden de resultaten van de onderdelen omgezet in punten.
+            Vervolgens worden alle punten die de atleet op de onderdelen heeft
+            behaald, opgeteld. De atleet met de meeste punten wint de tienkamp.
+
+            Per onderdeel is ooit bepaald wat de ondergrens is om punten te scoren.
+            Bij het hoogspringen was die ondergrens een hoogte van 75 cm. Daarom
+            krijgt de atleet 0 punten als hij 75 cm of lager springt. Bij sprongen met
+            een hoogte boven 75 cm behaalt de atleet wél punten. Bij een sprong met
+            een hoogte van 220 cm krijgt hij 1000 punten.
+
+            Bij het hoogspringen gebruikte men tot het jaar 1920 voor sprongen vanaf
+            75 cm een lineaire formule van de volgende vorm:
+                   P = a ⋅ ( H − b)
+            Hierin is P het aantal punten en H de gesprongen hoogte in centimeters
+            ( H ≥ 75 ) en zijn a en b constanten.
+4p    14    Bereken de waarden van a en b. Geef niet-gehele waarden in je
+            eindantwoord in één decimaal.
+
+
+
+
+HA-1025-a-23-1-o                           10 / 12                           lees verder ►►►
+            Een lineaire formule werd niet eerlijk gevonden, omdat bijvoorbeeld een
+            verbetering van 75 cm naar 76 cm makkelijker te behalen is dan een
+            verbetering van 160 cm naar 161 cm, terwijl dat toch evenveel extra
+            punten oplevert. Daarom wilde men een andere formule, waarbij een
+            verbetering van bijvoorbeeld 1 cm, méér extra punten oplevert naarmate
+            er hoger wordt gesprongen.
+
+            De formule die tegenwoordig voor het hoogspringen gehanteerd wordt, is
+                   P = 0,8465 ⋅ ( H − 75)1,42
+            Hierin is P weer het aantal punten en H de gesprongen hoogte in
+            centimeters ( H ≥ 75 ).
+
+            Het aantal punten dat je extra verdient door 1 cm hoger te springen, wordt
+            steeds groter.
+2p    15    Leg dit uit met behulp van de formule, zonder getallen in te vullen of een
+            schets/tekening te maken.
+
+            De punten die bij de tienkamp-onderdelen worden behaald, worden eerst
+            met de bijbehorende formule berekend en daarna naar beneden afgerond
+            op een geheel getal. Dus als de uitkomst van de formule bijvoorbeeld
+            982,73 is, dan krijgt de atleet 982 punten.
+
+            Bij het onderdeel 1500 m hardlopen wordt de volgende formule gebruikt:
+                   Q = 0,03768 ⋅ (480 − t )1,85
+            Hierin is Q het aantal punten en t de gelopen tijd in seconden. Deze tijd
+            wordt altijd gemeten in honderdsten van seconden nauwkeurig.
+
+            Op 1 juli 2019 was tot dan toe de beste prestatie bij het onderdeel
+            hoogspringen een sprong met hoogte 228 cm.
+            Er worden verschillende tijden gelopen op de 1500 m hardlopen waarmee
+            je méér punten behaalt dan met een sprong van 228 cm hoog.
+5p    16    Bereken de langzaamste tijd waarmee je méér punten behaalt dan met
+            een sprong van 228 cm hoog. Geef je eindantwoord in minuten en
+            seconden, met het aantal seconden in twee decimalen.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1025-a-23-1-o                                  11 / 12                     lees verder ►►►
+      Cosinusbreuk
+
+
+            Voor 0 ≤ x ≤ π wordt de functie f gegeven door:
+                                        1
+                   f ( x) =
+                                    (
+                              4cos 2 ( x − 13 π )   )
+            In figuur 1 is de grafiek van f weergegeven.
+            figuur 1
+
+
+
+
+            De grafiek van f heeft twee verticale asymptoten.
+4p    17    Stel op exacte wijze voor beide asymptoten een vergelijking op.
+
+            Op de grafiek van f liggen twee punten met y-coördinaat 23 . Het rechter
+            punt is P. Lijn l is de raaklijn aan de grafiek van f in P. Zie figuur 2.
+            De richtingscoëfficiënt van l kan met de grafische rekenmachine worden
+            benaderd.
+            figuur 2
+
+
+
+
+3p    18    Bereken de richtingscoëfficiënt van l. Geef je eindantwoord in één
+            decimaal.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-23-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

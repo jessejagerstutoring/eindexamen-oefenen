@@ -1,0 +1,381 @@
+                                                                 Examen VWO
+
+                                                                     2023
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 17 vragen.
+Voor dit examen zijn maximaal 79 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-23-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t ) cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-23-2-o                                         2 / 14                       lees verder ►►►
+      Gebroken functie
+
+            De functie f wordt gegeven door:
+                            x2  2x
+                   f ( x) 
+                             x3
+            De lijn l is de raaklijn aan de grafiek van f in O.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+3p    1     Bereken exact de richtingscoëfficiënt van l.
+
+            De grafiek van f heeft een scheve asymptoot en een verticale asymptoot.
+            Deze twee asymptoten snijden elkaar in het punt S.
+            De grafiek van f ondergaat een translatie van 2 naar rechts en b omhoog.
+            De grafiek die zo ontstaat, hoort bij de functie g. De waarde van b is zó
+            gekozen dat S op de grafiek van g ligt.
+6p    2     Bereken exact de waarde van b.
+
+
+
+
+VW-1025-a-23-2-o                               3 / 14                       lees verder ►►►
+      Sinus en cosinus getransformeerd
+
+            De functie f wordt gegeven door f ( x)  2sin( x  13 ) .
+            Het lijnstuk AB verbindt de punten A(12, 1) en B (16, 1) .
+            De grafiek van f snijdt dit lijnstuk in meerdere punten.
+4p    3     Bereken exact de x-coördinaten van deze snijpunten.
+
+            De functie g wordt gegeven door g ( x)  2cos( x  34 )  2 .
+            Voor elke waarde van a snijdt de verticale lijn met vergelijking x  a de
+            grafieken van f en g elk in één punt. Het midden van deze twee punten
+            ligt voor sommige waarden van a op de x-as. Op het domein [0, 2] is dat
+            voor twee waarden van a het geval. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+3p    4     Bereken voor welke twee waarden van a dit het geval is. Geef je
+            eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-23-2-o                               4 / 14                         lees verder ►►►
+            De functie h wordt gegeven door h( x)  f ( x)  3  g ( x) . In figuur 2 zijn de
+            grafieken van f en h weergegeven.
+
+            figuur 2
+
+
+
+
+            Je kunt de grafiek van h laten ontstaan uit de grafiek van f door middel
+            van meerdere translaties en één vermenigvuldiging ten opzichte van de
+            x-as. Neem aan dat dit een vermenigvuldiging is met factor p. Daarbij
+            geldt dat p  0 .
+4p    5     Bereken deze waarde van p. Geef je eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-23-2-o                                5 / 14                               lees verder ►►►
+      Projectie op een lijn
+
+            Gegeven zijn de punten A (2,  2) , B (2, 2) en C (1 53 ,8 54 ) .
+            Lijn l is de lijn met de vectorvoorstelling:
+                    x  1      3
+                         t  
+                    y  9       1
+            Het punt C is de loodrechte projectie van A op lijn l en het punt D is de
+            loodrechte projectie van B op lijn l.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+            Lijnstuk AB is k keer zo lang als lijnstuk CD. Hierin is k een geheel
+            getal.
+7p    6     Bereken exact de waarde van k.
+
+
+
+
+VW-1025-a-23-2-o                                 6 / 14                          lees verder ►►►
+      Twee e-machten
+
+
+                                                                                            
+            De functies f en g worden gegeven door f ( x )  e x  1 en g ( x )  3 1  e  x .
+            In de figuur zijn de grafieken van f en g weergegeven.
+
+            figuur
+
+
+
+
+            De x-coördinaten van de enige twee snijpunten van de grafieken van
+            f en g zijn x  0 en x  ln(3) .
+
+4p    7     Bewijs dat dit juist is door de vergelijking f ( x )  g ( x) exact op te lossen.
+
+            De grafieken van deze functies sluiten een vlakdeel in. In de figuur is dit
+            vlakdeel grijs gemaakt.
+4p    8     Bereken exact de oppervlakte van dit vlakdeel.
+
+            De functie h wordt gegeven door:
+                              f  x
+                   h  x 
+                              g  x
+            De grafiek van h heeft één perforatie.
+3p    9     Bereken exact de coördinaten van deze perforatie.
+
+
+
+
+VW-1025-a-23-2-o                                7 / 14                               lees verder ►►►
+      Basketbal
+
+            In deze opgave kijken we naar de baan van
+            een basketbal, wanneer een speler deze mikt
+            op de basket, het cirkelvormige doel. We
+            gebruiken hiervoor een wiskundig model,
+            waarbij we de bal als een punt beschouwen.
+            We nemen aan dat de bal vanaf 2,55 meter
+            hoogte wordt losgelaten.
+
+            Voor de baan van de bal geldt:
+                    x(t )  v  cos()  t
+                                                    2
+                     y (t )  v  sin()  t  4,9t  2,55
+            Hierbij geldt:
+             t is de tijd in seconden vanaf het moment van loslaten;
+             x is de horizontale afstand van de bal tot de speler in meters;
+             y is de hoogte van de bal in meters;
+             v is de snelheid in meters per seconde van de bal op het moment van
+               loslaten;
+              is de grootte van de hoek in graden tussen de werprichting en een
+               horizontale lijn op het moment van loslaten.
+            De vorm van de baan is afhankelijk van de parameters v en .
+
+            Zie figuur 1, waarin een deel van de baan is getekend.
+
+            figuur 1
+
+
+
+
+            Een basketballer staat op een horizontale afstand van 6 meter van het
+            midden van de basket. De basket hangt op een hoogte van 3,05 meter.
+
+
+
+VW-1025-a-23-2-o                                         8 / 14            lees verder ►►►
+            De basketballer gooit de bal met een bepaalde snelheid onder een hoek 
+            van 60 . In deze situatie geldt:
+                    x(t )  v  cos(60)  t
+                                                      2
+                     y (t )  v  sin(60)  t  4,9t  2,55
+            Als de bal op een horizontale afstand van 6 meter vanaf de speler een
+            hoogte van 3,05 meter heeft, scoort hij.
+5p   10     Bereken in deze situatie algebraïsch de snelheid v van de bal op het
+            moment van loslaten. Geef je eindantwoord in meters per seconde in één
+            decimaal.
+
+            Op een ander moment staat de basketballer opnieuw op een horizontale
+            afstand van 6 meter van het midden van de basket. Hij gooit de bal onder
+            een hoek  van 50 , nu met een snelheid van 8 meters per seconde.
+            In deze situatie geldt:
+                    x(t )  8cos(50)  t
+                                                   2
+                     y (t )  8sin(50)  t  4,9t  2,55
+            De bal gaat dan onder een bepaalde hoek  door de basket. Deze hoek is
+            in figuur 2 aangegeven.
+
+            figuur 2
+
+
+
+
+5p   11     Bereken algebraïsch de grootte van hoek  in graden. Geef je
+            eindantwoord als geheel getal.
+
+
+
+
+VW-1025-a-23-2-o                                        9 / 14              lees verder ►►►
+      Absolute waarde en wortelfunctie
+
+            De functie f wordt gegeven door f ( x)  3  x  x  3 met x  3 .
+            De grafiek van f heeft links van de y-as een top T. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+5p   12     Bereken exact de x-coördinaat van punt T.
+
+            Lijn k is de lijn door het randpunt P (3,  3) van de grafiek van f en de
+            oorsprong O.
+            Lijn k snijdt de grafiek van f rechts van de y-as in het punt S. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+5p   13     Bereken exact de x-coördinaat van punt S.
+
+
+
+
+VW-1025-a-23-2-o                             10 / 14                             lees verder ►►►
+            De horizontale lijn l heeft vergelijking y  3 . Deze lijn heeft twee punten
+            gemeenschappelijk met de grafiek van f , namelijk P (3,  3) en (0,  3) .
+            Het gebied V wordt ingesloten door de grafiek van f en lijn l. In figuur 3 is
+            dit gebied grijs gemaakt.
+
+            figuur 3
+
+
+
+
+            Gebied V wordt gewenteld om lijn l.
+5p   14     Bereken exact de inhoud van het omwentelingslichaam dat zo ontstaat.
+
+
+
+
+VW-1025-a-23-2-o                             11 / 14                            lees verder ►►►
+      Boogbrug
+
+            In Amsterdam komen boogbruggen voor. Zie de foto.
+
+            foto
+
+
+
+
+            In een andere stad moet een soortgelijke brug worden gemaakt.
+            Het aanzicht van het wegdek, gezien vanaf het water, wordt door het
+            volgende model beschreven:
+                   f ( x )  0,00004 x 4  0,012 x 2  2,3 met 10  x  10
+            Hierin is x in meters en f ( x) de hoogte van het wegdek in meters ten
+            opzichte van het water. In figuur 1 is de grafiek van f weergegeven.
+
+            figuur 1
+
+
+
+
+            De ontwerper heeft als eis gesteld dat het hellingspercentage van het
+            wegdek maximaal 12% mag zijn. Dit wil zeggen dat de absolute waarde
+            van de helling van f overal kleiner dan of gelijk aan 0,12 moet zijn. Dit kun
+            je controleren door te bepalen hoe groot het maximum van de absolute
+            waarde van de helling is.
+5p   15     Onderzoek op algebraïsche wijze of het model aan deze eis voldoet.
+
+
+
+
+VW-1025-a-23-2-o                                 12 / 14                       lees verder ►►►
+            Onder het wegdek wil de ontwerper drie doorgangen maken. In het
+            midden komt een brede doorgang. Daarnaast komt aan beide kanten een
+            doorgang in de vorm van een halve cirkel. We bekijken in de rest van
+            deze opgave alleen de rechter doorgang.
+
+            Het middelpunt M van de doorgang ligt 5 meter rechts van de oorsprong.
+            Het punt P ( p, f ( p )) is een punt op het wegdek. Om de straal van de
+            doorgang te berekenen houdt de ontwerper rekening met de eis dat het
+            punt op het wegdek met de kleinste afstand tot de doorgang zich op
+            0,30 meter van de doorgang moet bevinden.
+
+            In figuur 2 is de doorgang weergegeven die aan deze eis voldoet. In deze
+            situatie geldt:
+             de lengte van lijnstuk PM is minimaal én
+             de lengte van lijnstuk PR is 0,30 meter, waarbij R het snijpunt is van
+                 PM en de halve cirkel.
+
+            figuur 2
+
+
+
+
+6p   16     Bereken de straal MR van de cirkelvormige doorgang in meters. Geef je
+            eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-23-2-o                          13 / 14                          lees verder ►►►
+      Rechthoek met drie cirkels
+
+            In de figuur is een rechthoek ABCD getekend met daarin drie cirkels. Ook
+            is de diagonaal BD getekend. Hierdoor ontstaan de driehoeken ABD en
+            BCD. Gegeven is verder:
+
+                  de drie cirkels hebben dezelfde straal r;
+                  de onderste cirkel heeft middelpunt M en raakt aan elke zijde van
+                   driehoek ABD. Deze cirkel raakt zijde BD in het punt F. Er geldt dus
+                   dat MF loodrecht op zijde BD staat;
+                  de bovenste cirkel heeft middelpunt N en raakt aan elke zijde van
+                   driehoek BCD. Deze cirkel raakt zijde BD in het punt G. Er geldt dus
+                   dat NG loodrecht op zijde BD staat;
+                  het middelpunt S van de middelste cirkel is het snijpunt van FG en
+                   MN;
+                  de middelste cirkel raakt aan de bovenste en aan de onderste cirkel.
+
+            In de figuur is vierhoek MFNG                             figuur
+            aangegeven. Deze vierhoek is te
+            verdelen in twee rechthoekige
+            driehoeken MFG en FNG.
+
+
+
+
+5p   17     Onderzoek of de oppervlakte van vierhoek MFNG groter dan, kleiner dan
+            of gelijk aan de oppervlakte van een van de cirkels is.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-23-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

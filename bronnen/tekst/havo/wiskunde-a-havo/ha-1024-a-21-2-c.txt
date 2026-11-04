@@ -1,0 +1,602 @@
+                                                   Correctievoorschrift HAVO
+
+                                                                           2021
+                                                                                   tijdvak 2
+
+
+
+
+                                                                          wiskunde A
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+HA-1024-a-21-2-c                              1                               lees verder ►►►
+      3     De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+            beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+            gegeven door het College voor Toetsen en Examens.
+            De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+            verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+            gezag van de gecommitteerde.
+      4     De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+            aantal scorepunten voor het centraal examen vast.
+      5     Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+            komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+            gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+            gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+            hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+            onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+            in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+HA-1024-a-21-2-c                               2                                lees verder ►►►
+            3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                 gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                 formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+            3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                 staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+            3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                 zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                 vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                 toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                 onjuistheid gemoeid zijn.
+      4     Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+            juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+            onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+            worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+            beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+            antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+            gegeven is, worden eveneens geen scorepunten toegekend.
+      5     Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+            tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+            beoordelingsmodel anders is vermeld.
+      6     Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+            worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7     Indien de examinator of de gecommitteerde meent dat in een examen of in het
+            beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+            werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+            fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+            Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+            eventuele fout wordt bij de definitieve normering van het examen rekening
+            gehouden.
+      8     Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+            antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9     Het cijfer voor het centraal examen wordt als volgt verkregen.
+            Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+            wordt meegedeeld aan de directeur.
+            De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+            voor omzetting van score naar cijfer.
+
+   NB1      T.a.v. de status van het correctievoorschrift:
+            Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+            vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+            voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+            De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+HA-1024-a-21-2-c                                 3                                  lees verder ►►►
+   NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+            Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+            behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+            standaardformulier voorgeschreven voor de vermelding van de scores van de
+            kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+            verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+            of in gezamenlijk overleg keuzes maken.
+
+   NB3      T.a.v. aanvullingen op het correctievoorschrift:
+            Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+            en een fout.
+            Verduidelijking
+            Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+            antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+            Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+            voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+            Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+            Een fout
+            Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+            fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+            Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+            Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+            spoedig mogelijk verstuurd aan de examensecretarissen.
+            Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+            gevallen vermeldt de aanvulling:
+
+            –      Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+            –      Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+            Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+            moeten worden toegekend.
+
+            Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+            aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+            houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+            rekening met de onvolkomenheid.
+
+
+
+
+HA-1024-a-21-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij de vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet-
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+HA-1024-a-21-2-c                              5                                lees verder ►►►
+      4      Beoordelingsmodel
+
+  Vraag       Antwoord                                                                       Scores
+
+
+      Lichaamslengte
+
+      1      maximumscore 4
+             •     De grafiek gaat door bijvoorbeeld (3, 98) en (10, 143)                      1
+                                                  143  98
+             •     De richtingscoëfficiënt is               (  6, 42...)                      1
+                                                   10  3
+             •     Het startgetal is 98  3  6, 42... (  78, 71...)                          1
+             •     L  6, 4t  78, 7                                                           1
+
+             Opmerking
+             Het scorepunt van het eerste antwoordelement alleen toekennen als de
+             afgelezen lichaamslengten hoogstens 2 cm afwijken van de lichaamslengte
+             in de figuur én de bijbehorende richtingscoëfficiënt in het interval
+             [5,1 ; 7, 7] ligt.
+
+      2      maximumscore 4
+             •     t  19 invullen geeft een lengte van 183, 4... (centimeter)                 1
+             •     Het invullen van een voldoende grote waarde van t geeft (afgerond) een
+                   waarde van 184,9 (centimeter)                                               2
+             •     Een jongen groeit dus nog 1,5 (centimeter)                                  1
+             of
+             •     t  19 invullen geeft een lengte van 183, 4... (centimeter)                 1
+             •     Voor grote waarden van t nadert 0,57t tot 0                                 1
+             •     Voor de rest van de redenering waaruit volgt dat Lj tot 184,9
+                   (centimeter) nadert                                                         1
+             •     Een jongen groeit dus nog 1,5 (centimeter)                                  1
+
+             Opmerking
+             Voor het eerste antwoordalternatief geldt: als een waarde van t wordt
+             ingevuld die een lengte geeft van (afgerond) 184,8 (centimeter), hiervoor
+             geen scorepunten in mindering brengen; als een waarde van t wordt
+             ingevuld die een lengte geeft in het interval van (afgerond) 184,1 tot en met
+             184,7 (centimeter) voor deze vraag maximaal 3 scorepunten toekennen.
+
+
+
+
+HA-1024-a-21-2-c                                     6                                lees verder ►►►
+  Vraag       Antwoord                                                                               Scores
+
+
+      3      maximumscore 3
+             •     Het verschil in lengte is Lm  Lj                                                    1
+             •     Beschrijven hoe het maximum van Lm  Lj kan worden berekend                          1
+             •     Het maximale lengteverschil is 2,5 (centimeter)                                      1
+
+
+
+      Veiligheidsmonitor
+
+      4      maximumscore 3
+             •     (Het steekproefpercentage is 26% dus) de steekproefproportie is 0,26                 1
+             •     Invullen in de formule voor het 95%-betrouwbaarheidsinterval:
+                               0, 26  (1  0, 26)
+                   0, 26  2                                                                           1
+                                   111 000
+             •     Het antwoord: [0, 257 ; 0, 263]                                                      1
+
+      5      maximumscore 5
+             •     De marge moet kleiner zijn dan 0,05                                                  1
+             •     n  55 500                                                                           1
+                                                             S
+             •     Beschrijven hoe de vergelijking 2              0, 05 kan worden opgelost           1
+                                                           55 500
+             •     De oplossing is S  5,88...                                                          1
+             •     De standaardafwijking is dus hoogstens 5,8                                           1
+
+      6      maximumscore 2
+             Een voorbeeld van een juist antwoord:
+             Dit wordt veroorzaakt doordat de drie groepen niet even groot zijn.
+
+             Opmerking
+             Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.
+
+      7      maximumscore 3
+             •     Een kruistabel                                                                       1
+
+                                            wel sociale overlast     geen sociale overlast
+                 zeer sterk stedelijk               4590                     20 632
+                 niet stedelijk                     1052                     18 430
+
+                            4590 18 430  20 632 1052
+             •      phi                                                                                1
+                            25 222  5642  39 062 19 482
+             •      phi  0,19... ; (dit ligt tussen –0,2 en 0,2) dus het verschil is gering            1
+
+
+
+
+HA-1024-a-21-2-c                                       7                                       lees verder ►►►
+  Vraag       Antwoord                                                                            Scores
+
+
+      Verdubbelingstijd van geld
+
+      8      maximumscore 3
+             •     De vergelijking 1, 015t  2 moet worden opgelost                                  1
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                             1
+             •     Het antwoord: 46,56 (jaar)                                                        1
+
+             Opmerking
+             Er mag ook gewerkt worden met een concreet beginbedrag.
+
+      9      maximumscore 4
+             •     Bij een toename van het rendement van 2,5% naar 3,0% hoort een
+                   afname van de verdubbelingstijd van 28, 07  23, 45 (  4, 62 ) (jaar)            1
+                           4,62
+             •     Dat is        (  0,924 ) (jaar) per 0,1% verhoging van het rendement             1
+                             5
+             •     Bij een toename van 2,5% naar 2,9% hoort dus een afname van de
+                   verdubbelingstijd van 4  0, 924 (  3, 696 ) (jaar)                              1
+             •     28, 07  3, 696  24,374 , dus de gevraagde verdubbelingstijd is
+                   24, 37 (jaar)                                                                     1
+
+      10     maximumscore 3
+             •     Een schets van een afnemend dalende grafiek passend bij de tabel                  1
+             •     Een schets van de lijn tussen twee opeenvolgende punten van die
+                   grafiek                                                                           1
+             •     Dus: een lineaire benadering van de verdubbelingstijd is hoger dan de
+                   precieze verdubbelingstijd                                                        1
+
+      11     maximumscore 2
+             •     Uit de tabel blijkt bijvoorbeeld 2  35  70 en 5 14, 21  71, 05                1
+             •     P V is niet constant (dus is er niet precies sprake van een omgekeerd
+                   evenredig verband)                                                                1
+             of
+             Verdubbeling van P  2 geeft P  4 , maar halvering van 35 geeft niet
+             17,67 (dus is er niet precies sprake van een omgekeerd evenredig verband).
+
+             Opmerking
+             Voor het tweede antwoordalternatief mag voor een niet volledig juist
+             antwoord 1 scorepunt worden toegekend.
+
+
+
+
+HA-1024-a-21-2-c                                     8                                      lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      12     maximumscore 3
+                                                                     69
+             •     De verdubbelingstijd is volgens de vuistregel         (  23 jaar)             1
+                                                                    3, 0
+             •     Het verschil met de verdubbelingstijd V uit de tabel is 23, 45  23
+                   (  0, 45 ) (jaar)                                                             1
+             •     Het antwoord: 12  0, 45  5, 4 , dus 5 (maanden)                              1
+
+      13     maximumscore 2
+             De gevraagde vuistregel is: Deel (het getal) 69 door de verdubbelingstijd
+             (in jaren). (De uitkomst is het rendement dat nodig is om in de gegeven
+             verdubbelingstijd het vermogen te verdubbelen.)
+
+             Opmerking
+             Voor deze vraag mogen uitsluitend 0 of 2 scorepunten worden toegekend.
+
+
+      Online dating met wiskunde
+
+      14     maximumscore 3
+                                                                         2
+             •     Bij een mogelijke partner van 32 jaar: A  1010,023 (  6,60...)             1
+                                                                         2
+             •     Bij een mogelijke partner van 37 jaar: A  1010,022 (  8,31...)             1
+             •     Het verschil in aantrekkingskracht is ( 8, 31...  6, 60...  ) 1,7            1
+
+             Opmerking
+             Als de kandidaat L  3 of L  2 invult, leidend tot het antwoord 1,7,
+             hiervoor geen scorepunten in mindering brengen.
+
+      15     maximumscore 3
+             •     Als L groter wordt, dan wordt L2 ook groter                                    1
+             •     1  0, 03  L2 wordt dus kleiner                                               1
+                                        2
+             •     Dus wordt 1010,03L (en dus de aantrekkingskracht op het onderwerp
+                   ‘leeftijd’) ook kleiner                                                        1
+
+      16     maximumscore 3
+             •     Bijvoorbeeld: voor L  0 , L  1 , L  2 geldt respectievelijk A  10 ,
+                    A  9, 33... , A  7, 58...                                                   1
+             •     De eerste groeifactor is 0, 93... en de tweede groeifactor is 0,81...          1
+             •     Deze zijn niet gelijk aan elkaar, dus er is geen exponentieel verband
+                   tussen L en A                                                                  1
+
+
+
+
+HA-1024-a-21-2-c                                      9                                  lees verder ►►►
+  Vraag       Antwoord                                                                                      Scores
+
+
+      17     maximumscore 3
+             •     Neem bijvoorbeeld A3  0                                                                    1
+                                                                                       1     1
+             •     Bij formule 4 is E  ( A1  A2  0  A4  A5  A6  A7  A8  A9  A10 )  0  0
+                                                                                      10    10
+
+
+                   (dus is Bianca geen geschikte partner)                                                      1
+             •     Het antwoord: formule 4                                                                     1
+
+             Opmerking
+             Het is niet nodig te controleren dat formule 3 een waarde van E oplevert
+             die groter is dan 0.
+
+      18     maximumscore 3
+             •     Voor Lizette is E  3                                                                       1
+             •     Voor Sarah is E  5                                                                         1
+             •     De standaardafwijking van de aantrekkingskrachten van Sarah is 0 en
+                   dit is kleiner dan 4 (of: de spreiding van de aantrekkingskrachten van
+                   Sarah is kleiner dan die van Lizette) (dus is degene met de kleinste
+                   standaardafwijking in het geheel de aantrekkelijkste voor Harry)                            1
+
+
+
+      Bevolkingsgroei
+
+      19     maximumscore 4
+                                                                         2, 4
+             •     De groeifactor over de periode 1965-2018 is                (  0, 48 )                      1
+                                                                         5,0
+                                                         1
+                                               2, 4  53
+             •     De groeifactor per jaar is        (  0, 9862... )                                        1
+                                               5, 0 
+             •     Het gemiddelde aantal kinderen in 2035 is 2, 4  0,9862...17 (  1,89... )                  1
+             •     Het antwoord: 1,9 (kinderen)                                                                1
+
+             Opmerkingen
+                                                       1
+                  Als gerekend wordt met (2, 4  5, 0) , voor deze vraag maximaal
+                                                       53
+
+                   2 scorepunten toekennen.
+                                          2, 4
+                  Als gerekend wordt met      : 53 , voor deze vraag maximaal
+                                          5, 0
+                   2 scorepunten toekennen.
+
+
+
+
+HA-1024-a-21-2-c                                          10                                          lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      20     maximumscore 3
+             •     Uit figuur 1: 7,8 (miljard mensen) en uit figuur 2: 140 (miljoen
+                   geboorten)                                                                      1
+                                                 140 000 000
+             •     Berekend moet worden                       (  0, 0179... )                     1
+                                                7 800 000 000
+             •     0, 0179... 1000  17, 9... , dus het antwoord is 18                            1
+
+             Opmerking
+             De wereldbevolking mag worden afgelezen met een marge van 0,1 miljard
+             mensen, het aantal geboorten met een marge van 1 miljoen.
+
+      21     maximumscore 5
+             • Het opstellen van een lineair verband voor het geboortecijfer:
+                   G  0, 06t  14 (met t het aantal jaren na 2060)                               1
+             •     Het opstellen van een lineair verband voor het sterftecijfer:
+                   S  0, 04t  9,8 (met t het aantal jaren na 2060)                               1
+             •     Beschrijven hoe de vergelijking  0, 06t  14  0, 04t  9,8 kan worden
+                   opgelost                                                                        1
+             •     Dit geeft t  42                                                                1
+             •     Het antwoord: (in het jaar) 2102                                                1
+             of
+             •     De bevolkingsgroei stopt als het verschil tussen het geboortecijfer en
+                   het sterftecijfer gelijk is aan 0                                               1
+             •     Het verschil is in de laatste 20 jaar gedaald van 14, 0  9,8  4, 2 tot
+                   12,8  10, 6  2, 2                                                             1
+                                                               4, 2  2, 2
+             •     Dus per jaar is het verschil gedaald met                 0,1                   1
+                                                                   20
+                                        2, 2
+             •     Het duurt dus nog          22 jaar (vanaf 2080)                                1
+                                        0,1
+             •     Het antwoord: (in het jaar) 2102                                                1
+
+
+
+
+HA-1024-a-21-2-c                                     11                                   lees verder ►►►
+  Vraag       Antwoord                                                                             Scores
+
+
+      Regenpijpen: dunne of dikke?
+
+      22     maximumscore 9
+             •     Links is de hoeveelheid af te voeren regen 1,8  4  25  0, 6  108 (l/min);
+                   rechts is dat 1,8 11, 5  25 1  517, 5 (l/min)                                  1
+
+             De berekeningen voor een van de twee typen pijpen, bijvoorbeeld de dunne:
+             • C ( 0, 02  702 )  98 (l/min)                                                        1
+             • Op grond van de capaciteit per pijp zijn 2 pijpen voor links en 6 pijpen
+                voor rechts nodig                                                                     1
+             • Op grond van de lengte van de dakgoot zijn 3 pijpen voor links en
+                3 pijpen voor rechts nodig                                                            1
+             • Er moeten dus 3 pijpen voor links en 6 pijpen voor rechts worden
+                gekocht                                                                               1
+             • De benodigde lengte is 3  5  6  3  33 (m), dus de kosten zijn
+                 33  9  297 (euro)                                                                  1
+
+             •     De berekeningen voor het andere type pijp, in dit geval de dikke                   2
+                    C ( 0, 02 1002 )  200 (l/min)
+                    Op grond van de capaciteit per pijp zijn 1 pijp voor links en 3 pijpen
+                     voor rechts nodig.
+                    Op grond van de lengte van de dakgoot zijn 2 pijpen voor links en
+                     2 pijpen voor rechts nodig.
+                    Er moeten dus 2 pijpen voor links en 3 pijpen voor rechts worden
+                     gekocht.
+                    De benodigde lengte is 2  5  3  3  19 (m).
+                    De kosten zijn 19 13  247 (euro).
+
+             •     Pietersma moet dus het dikke type kiezen                                           1
+
+             Opmerkingen
+              De berekening van het type pijp waarbij de minste fouten zijn gemaakt,
+                moet worden beoordeeld volgens de antwoordelementen 2 tot en met 6.
+              Bij het zevende antwoordelement voor elke fout 1 scorepunt in
+                mindering brengen, tot een maximum van 2 scorepunten.
+
+
+
+
+HA-1024-a-21-2-c                                      12                                     lees verder ►►►
+      Compensatiescore
+
+      23   maximumscore 20
+           Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals bedoeld
+           onder 4a en/of fouten bij het afronden van het eindantwoord voor het hele
+           examen maximaal 2 scorepunten.
+           Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+           2 scorepunten in mindering heeft gebracht, kent u hier een compensatiescore toe.
+            Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het aantal
+              in mindering gebrachte scorepunten dat meer is dan 2 toe.
+              Voorbeeld:
+              U heeft voor deze fouten in het hele examen 5 scorepunten in mindering
+              gebracht. Ken dan bij deze component een compensatiescore van 3 toe.
+            Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+              compensatiescore van 0 toe.
+
+
+
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 28 juni te accorderen.
+
+      Ook na 28 juni kunt u nog tot en met 1 juli gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+      6 Bronvermeldingen
+
+      Regenpijpen: dunne of dikke?
+      figuur 1       bron bewerkt naar: Shutterstock stockillustratie-id: 300575285, fotograaf Anton Mezinov
+
+
+
+
+HA-1024-a-21-2-c                                     13                                       lees verdereinde
+                                                                                                           ►►► 
+

@@ -1,0 +1,315 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2024
+                                                                        tijdvak 2
+                                                              donderdag 20 juni
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 68 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-24-2-o
+            Ga verder op de volgende pagina.
+
+
+
+
+GT-0153-a-24-2-o                        2 / 10   lees verder ►►►
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-24-2-o                             3 / 10                 lees verder ►►►
+      Kruidnoten
+
+            Recept kruidnoten, 70 stuks
+             250 gram zelfrijzend bakmeel
+             125 gram bruine suiker
+             100 gram boter
+             100 ml melk
+             40 gram speculaaskruiden
+
+            Kneed het geheel tot een soepel
+            deeg…
+
+
+            Laura gaat kruidnoten bakken volgens bovenstaand recept. Ga ervan uit
+            dat 100 ml melk 100 gram weegt.
+
+3p    1     Hoeveel procent van het kruidnotendeeg bestaat uit bruine suiker? Schrijf
+            je berekening op.
+
+2p    2     Laura heeft nog 60 gram boter in haar koelkast. Van de andere
+            ingrediënten heeft ze ruim voldoende.
+             Hoeveel kruidnoten kan Laura volgens het recept nog maken? Schrijf
+                je berekening op.
+
+            Een kruidnoot heeft bij benadering de vorm van een bolkap. Hieronder zie
+            je een bol met een grijs gekleurd deel, dat deel noemen ze een bolkap.
+
+
+
+
+            Je ziet een tabel die hoort bij de hoogte en de straal van de bolkap.
+
+              hoogte (cm)       0       1              2    3       4        5           6
+              straal (cm)       0      1,25        2,5     3,75     5      6,25         7,5
+
+2p    3     Geef de formule die hoort bij deze tabel.
+
+
+
+
+GT-0153-a-24-2-o                              4 / 10                             lees verder ►►►
+            De inhoud van een bolkap is te berekenen met de formule:
+
+                   inhoud bolkap = (3    straal  hoogte  hoogte )
+                                                  2                 3
+
+                                                     6
+
+1p    4     Een bolkap heeft een straal van 1,25 cm en een hoogte van 1 cm.
+             Laat met een berekening zien dat de inhoud van de bolkap volgens de
+               formule afgerond 2,6 cm3 is.
+
+4p    5     Teken op de uitwerkbijlage de grafiek bij de formule. Vul eerst de tabel
+            verder in.
+
+
+
+
+GT-0153-a-24-2-o                                5 / 10                        lees verder ►►►
+      Vijver
+
+            In een park in Washington is een cirkelvormige vijver aangelegd. De vijver
+            is tot de rand gevuld met water.
+
+
+
+
+            De vijver heeft een diameter van 27 meter en de vijver is overal 80 cm
+            diep.
+
+4p    6     Bereken hoeveel liter water er in de vijver past. Schrijf je berekening op.
+
+
+
+
+            Je ziet een schematisch
+            bovenaanzicht van de vijver.
+            Punt M is het midden van de
+            vijver.
+
+            De acht watersproeiers
+            A t/m H liggen in de vijver op
+            gelijke afstand van elkaar en
+            op 1 meter afstand van de rand.
+
+
+
+
+2p    7     Laat met een berekening zien dat de afstand van de sproeiers tot het
+            midden van de vijver 12,5 meter is.
+
+4p    8     Bereken, zonder te meten, hoeveel meter de afstand tussen sproeier A en
+            B is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-24-2-o                              6 / 10                           lees verder ►►►
+            De waterdruk van de sproeiers kan lager en hoger afgesteld worden. Bij
+            een bepaalde waterdruk komen de acht waterstralen van de sproeiers in
+            het midden van de vijver samen.
+
+            Bij de boog van deze waterstraal hoort de formule:
+
+                   h = –0,05  a2 + 0,625  a
+
+            Hierin is h de hoogte van de waterstraal in meters en a de horizontale
+            afstand vanaf de sproeier in meters.
+
+2p    9     Laat met een berekening zien dat de waterstralen van de acht sproeiers in
+            punt M samenkomen.
+
+3p    10    Op de uitwerkbijlage staat de grafiek getekend die bij de formule hoort.
+            De getallen bij de assen ontbreken.
+             Zet de juiste getallen bij de horizontale en verticale as.
+
+4p    11    Bij een andere waterdruk komt de waterstraal uit sproeier A precies aan
+            de overkant op de rand van de vijver terecht. Op dat moment staan de
+            andere waterstralen uit.
+
+
+
+
+            Bij de boog van deze waterstraal hoort de formule:
+
+                   h = –0,05  a2 + c  a
+
+            Hierin is h de hoogte van de waterstraal in meters en a de horizontale
+            afstand vanaf sproeier A in meters.
+
+             Bereken welk getal c is, als de waterstraal uit sproeier A precies aan
+              de overkant op de rand van de vijver terecht komt. Schrijf je
+              berekening op en geef je antwoord in één decimaal.
+
+
+
+
+GT-0153-a-24-2-o                                7 / 10                        lees verder ►►►
+      Rijksdriehoekstelsel
+
+            Het Rijksdriehoekstelsel is een assenstelsel waar Nederland in ligt.
+            Zie de kaart op de uitwerkbijlage. De getallen op de assen zijn in km.
+            De coördinaten van Amersfoort zijn (155, 463).
+
+2p    12    Op de foto zie je het Drielandenpunt.
+
+
+
+
+            Op de kaart op de uitwerkbijlage is ook het Drielandenpunt aangegeven.
+             Geef de coördinaten van het Drielandenpunt.
+
+4p    13    Op de uitwerkbijlage is de afstand getekend tussen Amersfoort en
+            Groningen. De stad Groningen heeft de coördinaten (234, 582).
+             Bereken, zonder te meten, hoeveel km de afstand tussen Amersfoort
+               en Groningen is. Schrijf je berekening op.
+
+3p    14    In de Noordzee bevindt zich op 150 km van Groningen en 275 km van
+            Middelburg een booreiland.
+             Geef de plaats van het booreiland aan op de kaart en zet er de letter B
+                bij. Laat zien hoe je aan je antwoord komt.
+
+2p    15    Op de uitwerkbijlage staat nogmaals het Rijksdriehoekstelsel. Van alle
+            plaatsen in Nederland is de x-coördinaat kleiner dan de y-coördinaat.
+             Kleur het gebied op de kaart waar de x-coördinaat groter is dan de
+               y-coördinaat.
+
+2p    16    Vroeger sneden de x-as en de y-as elkaar in Amersfoort. Amersfoort had
+            dus de coördinaten (0, 0). Middelburg heeft nu de coördinaten (32, 392).
+             Bereken de coördinaten die Middelburg vroeger had. Schrijf je
+               berekening op.
+
+
+
+
+GT-0153-a-24-2-o                            8 / 10                            lees verder ►►►
+      Designlamp
+
+            Op de foto zie je een designlamp. De designlamp bestaat uit een kubus
+            van glas. In de kubus zit een piramide met daarin een lamp.
+
+
+
+
+            Kubus ABCD EFGH heeft ribben van 40 cm. In de kubus zit piramide
+            DBGE. Naast de foto is een bovenaanzicht van de designlamp getekend.
+
+2p    17    Bereken hoeveel cm2 glas er gebruikt is voor de kubus. Schrijf je
+            berekening op.
+
+2p    18    Laat met een berekening, zonder te meten, zien dat EG afgerond 57 cm
+            is.
+
+4p    19    Teken het vooraanzicht van de designlamp op schaal 1 : 10.
+
+            Naast piramide DBGE kan je ook andere piramides in de designlamp zien.
+            Bijvoorbeeld piramide ABDE met grondvlak driehoek ABD en hoogte AE.
+
+3p    20    Laat met een berekening zien dat de inhoud van piramide ABDE afgerond
+            11 dm3 is.
+
+3p    21    Omdat de lamp warm wordt, moet de inhoud van de piramide DBGE
+            minimaal 15 dm3 zijn.
+             Wordt hieraan voldaan? Leg je antwoord uit met een berekening.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-24-2-o                            9 / 10                              lees verder ►►►
+      Boren
+
+            Op Antarctica ligt een meer onder een ijslaag van 3900 meter.
+            Onderzoekers hebben daar in het ijs geboord voor klimaatonderzoek.
+
+
+
+
+            Er kon maar 40 dagen per jaar worden geboord. De onderzoekers werkten
+            dan 24 uur per dag. Het eerste jaar hebben ze 1612,8 meter diep geboord.
+
+3p    22    Bereken hoeveel meter ze gemiddeld per uur hebben geboord in het
+            eerste jaar. Schrijf je berekening op en rond je antwoord af op
+            één decimaal.
+
+            Hoe dieper ze in de ijslaag kwamen, des te langzamer het boren ging.
+            Ieder jaar nam het aantal geboorde meters met ongeveer 40% af.
+
+            Het aantal geboorde meters per jaar kan je berekenen met de formule:
+
+                   geboorde meters = 2688  0,6n
+
+            Hierin is n het nummer van het jaar.
+
+2p    23    Laat met een berekening zien dat ze het eerste en tweede jaar samen
+            afgerond 2580,5 meter hebben geboord.
+
+3p    24    Bereken hoeveel meter ze na vier jaar nog moesten boren om het meer te
+            bereiken. Schrijf je berekening op.
+
+2p    25    Het laatste jaar hebben ze na 720 uur boren het meer bereikt. Er is toen
+            met een gemiddelde snelheid van 7,8 cm per uur geboord.
+             Hoeveel meter hebben ze het laatste jaar geboord? Schrijf je
+               berekening op en rond je antwoord af op hele meters.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-24-2-o                                         10 / 10                                          lees verdereinde
+                                                                                                                       ►►► 
+

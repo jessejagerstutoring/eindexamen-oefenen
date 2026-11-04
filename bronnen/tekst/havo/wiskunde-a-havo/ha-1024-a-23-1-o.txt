@@ -1,0 +1,547 @@
+                                                                Examen HAVO
+
+                                                                     2023
+                                                                            tijdvak 1
+                                                                     dinsdag 23 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-23-1-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                         ad − bc
+              2×2-kruistabel        , met phi =                                 ,
+                              c d                (a + b)(a + c)(b + d )(c + d )
+              waarin a, b, c en d absolute aantallen zijn
+
+              −    als phi < −0, 4 of phi > 0, 4 , dan zeggen we “het verschil is groot”
+              −    als −0, 4 ≤ phi < −0, 2 of 0, 2 < phi ≤ 0, 4 , dan zeggen we “het verschil is
+                   middelmatig”
+              −    als −0, 2 ≤ phi ≤ 0, 2 , dan zeggen we “het verschil is gering”
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n > 100 )
+
+              −    als max Vcp > 40 , dan zeggen we “het verschil is groot”,
+              −    als 20 < max Vcp ≤ 40 , dan zeggen we “het verschil is middelmatig”,
+              −    als max Vcp ≤ 20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1 − X 2
+              Effectgrootte E = 1             , met X1 en X 2 de steekproefgemiddelden
+                                   ( S + S2 )
+                                  2 1
+              ( X1 ≥ X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+              −    als E > 0,8 , dan zeggen we “het verschil is groot”,
+              −    als 0, 4 < E ≤ 0,8 , dan zeggen we “het verschil is middelmatig”,
+              −    als E ≤ 0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+              −    als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+              −    als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+              −    in alle andere gevallen zeggen we “het verschil is gering”.
+
+  noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-23-1-o                                  2 / 15                                     lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1 − p)
+               p ± 2⋅            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X ± 2⋅      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-23-1-o                              3 / 15                           lees verder ►►►
+      Huisartsenzorg
+
+            De uitgaven aan huisartsenzorg voor één persoon per jaar kan je volgens
+            een eenvoudig model berekenen met de volgende formule:
+                   U = 60 + 10 ⋅ A                         (formule 1)
+            Hierin is U het bedrag in euro dat voor één persoon per jaar aan
+            huisartsenzorg wordt uitgegeven en A het aantal huisartsconsulten van
+            die persoon per jaar.
+
+            In 2018 was het gemiddelde aantal huisartsconsulten per persoon gelijk
+            aan 4,5.
+
+            Stel dat in 2020 het gemiddelde aantal huisartsconsulten per persoon
+            10% hoger was dan in 2018. Volgens formule 1 zouden in 2020 de
+            gemiddelde uitgaven aan huisartsenzorg dan ook hoger zijn geweest dan
+            in 2018.
+4p    1     Bereken hoeveel procent hoger. Geef je antwoord in hele procenten.
+
+            In de rest van de opgave bedoelen we met de uitdrukkingen ‘het aantal
+            huisartsconsulten’ en ‘de uitgaven aan huisartsenzorg’ steeds de
+            gemiddelde waarden.
+
+            Voor ouderen is het aantal huisartsconsulten per persoon per jaar hoger
+            dan voor jongeren. Voor personen van 5 jaar tot en met 64 jaar geldt voor
+            het aantal huisartsconsulten per persoon per jaar A de volgende formule:
+                   A = 1,75 + 0,05 ⋅ l                     (formule 2)
+            Hierin is l de leeftijd van de persoon in jaren.
+
+3p    2     Bereken bij welke leeftijden volgens formule 2 het aantal
+            huisartsconsulten per persoon per jaar lager is dan 4,5.
+
+            Door de formules 1 en 2 te combineren kan voor personen van 5 jaar tot
+            en met 64 jaar een formule worden afgeleid waarin de uitgaven aan
+            huisartsenzorg per persoon per jaar (U) worden uitgedrukt in de leeftijd (l)
+            van de persoon.
+            Deze formule kan worden geschreven in de vorm U = ... ⋅ l + ... waarbij op
+            de puntjes getallen staan.
+3p    3     Geef de afleiding van de formule in deze vorm.
+
+
+
+
+HA-1024-a-23-1-o                              4 / 15                           lees verder ►►►
+            We kijken nu naar personen van 65 jaar of ouder. Neem ook voor deze
+            leeftijdsgroep aan dat het verband tussen het aantal huisartsconsulten per
+            persoon per jaar (A) en de leeftijd in jaren (l) lineair is. Voor personen van
+            65 jaar is het aantal huisartsconsulten per persoon per jaar gelijk aan 5.
+            Voor personen van 80 jaar is dit aantal gelijk aan 9.
+3p    4     Bereken met deze gegevens het aantal huisartsconsulten per persoon per
+            jaar voor personen die 92 jaar oud zijn. Geef je antwoord als geheel getal.
+
+
+
+
+HA-1024-a-23-1-o                              5 / 15                            lees verder ►►►
+       Mobiel dataverbruik
+
+            Op de hele wereld gebruiken mensen hun
+            mobiele telefoon steeds meer. De
+            hoeveelheid verbruikte mobiele data neemt
+            daardoor elk jaar toe.
+
+            In Nederland was in 2017 het totale
+            mobiele dataverbruik
+            325 miljoen gigabyte (GB), een stijging van
+            1050% ten opzichte van 2013.
+3p     5    Bereken het totale mobiele dataverbruik in Nederland in 2013. Geef je
+            antwoord in hele miljoenen GB.
+
+            In figuur 1 is te zien dat het mobiele dataverbruik per simkaart 1) in diverse
+            Europese landen in de periode 2008-2017 enorm is gestegen.
+            figuur 1   mobiel dataverbruik per simkaart per maand
+
+
+
+
+            Je kunt in figuur 1 aflezen dat in Finland in het jaar 2013 het mobiele
+            dataverbruik per simkaart 1,6 GB per maand was. Dit was in 2017
+            gegroeid naar 12,0 GB per maand. Neem aan dat er in deze periode
+            sprake was van exponentiële groei.
+4p     6    Bereken het jaarlijkse groeipercentage van het mobiele dataverbruik per
+            simkaart per maand in deze periode in Finland. Geef je antwoord in hele
+            procenten.
+
+     noot 1 Een simkaart is een chip die in een mobiel apparaat gedaan wordt. In deze opgave
+            wordt steeds het gemiddelde mobiele dataverbruik per simkaart bedoeld. SIM staat
+            voor Subscriber Identity Module.
+
+
+
+
+HA-1024-a-23-1-o                                6 / 15                                lees verder ►►►
+            In 2017 was het mobiele dataverbruik per simkaart per maand in Finland
+            12 keer zo groot als in Nederland. Dit is deels te verklaren door het feit
+            dat het dataverbruik in Finland een stuk goedkoper was. De providers in
+            Nederland brachten in 2017 gemiddeld ongeveer 14 keer zoveel in
+            rekening als de providers in Finland voor het verbruik van dezelfde
+            hoeveelheid mobiele data.
+4p    7     Bereken hoeveel procent de inwoners van Finland in 2017 in totaal minder
+            uitgaven aan mobiele data dan de inwoners van Nederland. Geef je
+            antwoord in hele procenten.
+
+            In figuur 2 is voor het jaar 2017 het verband tussen de
+            gemiddelde prijs (P) van het mobiele dataverbruik en het verbruik (V) per
+            simkaart per maand weergegeven.
+            figuur 2
+
+
+
+
+            In figuur 2 is te zien: hoe hoger de prijs in een bepaald land is, hoe lager
+            het dataverbruik. Bij de trendlijn hoort een omgekeerd evenredig verband.
+3p    8     Stel een formule op van dit verband.
+
+            In figuur 1 zie je bij de vier Europese landen dat het mobiele dataverbruik
+            toenemend stijgt. In Zuid-Korea en Japan, die niet zijn opgenomen in
+            figuur 1, is de sterke groei al wat afgenomen. In de tabel staan de
+            gegevens van deze landen van de jaren 2014 en 2015.
+
+            tabel mobiel dataverbruik per simkaart per maand
+                               2014            2015
+              Zuid-Korea     1,711 GB        2,198 GB
+              Japan          1,631 GB        1,945 GB
+            Neem aan dat de toename van het mobiele dataverbruik per simkaart per
+            maand in beide landen vanaf 2014 lineair is. Dan zal men in Zuid-Korea
+            eerder gemiddeld 10 GB per simkaart per maand verbruiken dan in Japan.
+5p    9     Bereken hoeveel jaar eerder dit zal gebeuren. Geef je antwoord in hele
+            jaren.
+
+
+HA-1024-a-23-1-o                             7 / 15                            lees verder ►►►
+      Bewegen jongeren genoeg?
+
+
+
+
+            Het lijkt erop dat een aanzienlijk deel van de jongeren in Nederland te
+            weinig beweegt. Het onderzoek ‘Health Behaviour in School-aged
+            Children’ dat sinds 1985 uitgevoerd wordt, bevat informatie over het
+            beweeggedrag van jongeren in Nederland. Deze opgave gaat over het
+            deel van dit onderzoek dat betrekking heeft op jongeren in het reguliere
+            voortgezet onderwijs in de eerste vier leerjaren. Deze groep beschouwen
+            we in deze opgave als de onderzoekspopulatie. Aan het onderzoek deden
+            67 scholen mee. We nemen aan dat deze groep scholen een aselecte en
+            representatieve steekproef vormt uit alle scholen voor regulier voortgezet
+            onderwijs.
+
+            Onder de deelnemende scholen waren er scholen met een groot aantal
+            klassen en scholen met een klein aantal klassen. De onderzoekers kregen
+            van deze scholen een lijst van alle klassen van de eerste vier leerjaren.
+            Uit elke lijst trokken de onderzoekers vervolgens aselect uit elk leerjaar
+            één klas. Alle leerlingen uit die getrokken klassen deden mee aan het
+            onderzoek.
+
+            De leerlingen die op deze manier in de steekproef terecht zouden komen,
+            vormen geen aselecte steekproef uit de onderzoekspopulatie.
+
+2p    10    Leg dit uit.
+
+            De onderzoekers hebben het bovengenoemde probleem uiteindelijk
+            opgelost. In de rest van de opgave nemen we aan dat de steekproef
+            aselect en representatief is.
+
+            Aan de leerlingen zijn onder andere de volgende vragen over bewegen
+            gesteld:
+            − Doe je minstens twee keer per week aan sport of speel je minstens
+               twee keer per week buiten?
+            − Ben je lid van een sportclub?
+            − Op hoeveel dagen van de afgelopen zeven dagen was je ten minste
+               één uur per dag bezig met lichaamsbeweging?
+
+
+
+
+HA-1024-a-23-1-o                            8 / 15                           lees verder ►►►
+            Van de leerlingen waren een aantal kenmerken bekend, zoals:
+            − geslacht (meisje, jongen)
+            − schoolniveau (vmbo, havo, vwo)
+            − gezinswelvaart (laag, midden, hoog)
+
+            De drie genoemde kenmerken zijn kwalitatieve variabelen.
+3p    11    Geef van elk van de drie kenmerken aan of het wel of geen ordinale
+            variabele is. Licht bij elk kenmerk je antwoord toe.
+
+            In tabel 1 is te zien hoeveel meisjes en hoeveel jongens aan het
+            onderzoek deelnamen. Ook is te zien hoeveel procent van de meisjes en
+            hoeveel procent van de jongens minstens twee keer per week sport of
+            buiten speelt.
+
+            tabel 1
+                                                        meisjes   jongens    totaal
+              aantal deelnemers onderzoek                2736      2835       5571
+              percentage dat minstens twee keer
+                                                         76,4      84,2       80,4
+              per week sport of buiten speelt
+
+            Je kunt nu het 95%-betrouwbaarheidsinterval berekenen voor de
+            populatieproportie van het aantal meisjes dat minstens twee keer per
+            week sport of buiten speelt. Hetzelfde kun je doen voor de jongens.
+5p    12    Onderzoek of deze twee 95%-betrouwbaarheidsintervallen elkaar
+            overlappen.
+
+            In tabel 2 zie je het aantal leerlingen dat aan het onderzoek deelnam
+            uitgesplitst naar schoolniveau, met daarbij het aantal leerlingen dat lid is
+            van een sportclub.
+
+            tabel 2
+                                        vmbo             havo        vwo
+              aantal deelnemers
+                                        2745             1612        1214
+              onderzoek
+              aantal dat lid is van
+                                        1779             1188        981
+              een sportclub
+
+            Op basis van tabel 2 kun je een uitspraak doen over het verschil tussen
+            het aantal havo-leerlingen en het aantal vwo-leerlingen in Nederland dat
+            lid is van een sportclub.
+4p    13    Onderzoek met behulp van het formuleblad of dat verschil groot,
+            middelmatig of gering is.
+
+
+
+
+HA-1024-a-23-1-o                               9 / 15                           lees verder ►►►
+            In tabel 3 staat het aantal deelnemende leerlingen en het gemiddelde
+            aantal dagen dat zij in de afgelopen zeven dagen minstens één uur per
+            dag bezig waren met lichaamsbeweging, uitgesplitst naar gezinswelvaart.
+
+            tabel 3
+                                                                gezinswelvaart
+                                                         laag      midden    hoog
+              aantal deelnemers onderzoek                680        3097     1794
+              gemiddeld aantal dagen met minstens
+                                                          3,8        4,2         4,6
+              één uur lichaamsbeweging
+
+            Op basis van tabel 3 wil Yarah het gemiddelde aantal dagen (met
+            minstens één uur lichaamsbeweging) van de groepen laag en hoog met
+            elkaar vergelijken. Hierbij wil Yarah gebruikmaken van de effectgrootte
+            zoals die op het formuleblad is weergegeven.
+
+            Veronderstel dat de standaardafwijking S1 voor de groep met lage
+            gezinswelvaart even groot is als de standaardafwijking S 2 voor de groep
+            met hoge gezinswelvaart, dus S1 = S 2 = S .
+4p    14    Bereken voor welke waarden van S het verschil middelmatig is.
+
+
+
+
+HA-1024-a-23-1-o                            10 / 15                          lees verder ►►►
+      Formules in de F1
+
+            Formule 1 (F1) is de hoogste klasse in de
+            autosport. Gedurende het jaar worden er
+            races gehouden op circuits in
+            verschillende landen.
+            In deze opgave kijken we naar enkele
+            formules in de F1 die het verschil kunnen
+            bepalen tussen winnen en verliezen.
+
+
+            In een F1-race moet de coureur steeds inschatten met welke snelheid hij
+            een bocht kan nemen. Voor de scherpte van de bocht geldt: hoe kleiner
+            de straal r van de bocht, hoe scherper de bocht. Zie de figuur.
+
+            figuur
+
+
+
+
+            Als de coureur sneller rijdt dan de maximale bochtensnelheid v, vliegt hij
+            uit de bocht.
+            Onder bepaalde omstandigheden geldt voor een bepaald type F1-auto het
+            volgende verband tussen v en r:
+                              4,026 ⋅ v 2
+                   r=                                           (formule 1)
+                        ( 7644 + 0,1929 ⋅ v )
+                                                0,8
+                                            2
+
+
+            Hierin is r de straal van de bocht in meter en v de maximale
+            bochtensnelheid in km per uur.
+
+            Een coureur nadert een bocht met een straal van 80 meter.
+3p    15    Bereken met behulp van formule 1 voor deze bocht de maximale
+            bochtensnelheid in hele km per uur.
+
+
+
+
+HA-1024-a-23-1-o                                      11 / 15                 lees verder ►►►
+            Op de uitwerkbijlage staat een schets van de grafiek die hoort bij het
+            verband van formule 1. In deze schets is de maximale bochtensnelheid v
+            uitgezet tegen de straal r van de bocht.
+2p    16    Geef in de grafiek op de uitwerkbijlage het gebied aan waar de coureur uit
+            de bocht vliegt. Licht je antwoord toe.
+
+            Omdat de banden gedurende de race slijten, verliezen ze grip op het
+            wegdek en lopen de rondetijden op. Daarom worden tijdens zogeheten
+            pitstops de banden te verwisseld voor nieuwe, maar dat wisselen kost
+            wel tijd (pitstraat inrijden, banden wisselen, pitstraat uitrijden).
+
+            Voor een bepaald type F1-auto kan het totale tijdverlies T in een race als
+            gevolg van slijtage van de banden en het aantal pitstops, worden gegeven
+            door de formule:
+                      0,5 ⋅ b ⋅ L2
+                   T=              + n⋅P                      (formule 2)
+                        n +1
+            Hierin is:
+            − T het totale tijdverlies in seconden
+            − b de bandenslijtage, een getal dat onder andere afhangt van het circuit
+            − L het aantal ronden van de race
+            − n het aantal pitstops in de race
+            − P het gemiddelde tijdverlies in seconden per pitstop
+
+            Als we bij een race van 60 ronden uitgaan van een bandenslijtage van
+            0,1 en een gemiddeld tijdverlies van 20 seconden per pitstop, dan kunnen
+            we formule 2 herleiden tot de formule:
+                      20n 2 + 20n + 180
+                   T=                                         (formule 3)
+                             n +1
+
+4p    17    Geef deze herleiding.
+
+3p    18    Bereken met behulp van formule 3 het optimale aantal pitstops voor de
+            bovenstaande race van 60 ronden.
+
+
+
+
+HA-1024-a-23-1-o                           12 / 15                           lees verder ►►►
+            Als het gemiddelde tijdverlies per pitstop zou kunnen afnemen, dan kan
+            het optimale aantal pitstops misschien toenemen om het totale tijdverlies
+            in de race zo klein mogelijk te houden.
+
+            Op een ander circuit, waar de race 45 ronden duurt, geldt voor een
+            bepaalde F1-auto een bandenslijtage van 0,3. Je kunt dan met de
+            volgende formule het optimale aantal pitstops bepalen:
+                                  3
+                   N = −1 + 45                          (formule 4)
+                                 20 P
+            Hierin is N het (onafgeronde) optimale aantal pitstops en P het
+            gemiddelde tijdverlies in seconden per pitstop.
+
+            Op dit circuit geldt voor deze F1-auto dat het gemiddelde tijdverlies van
+            een pitstop 24,8 seconden is. Uit de formule volgt dan dat N ongeveer
+            2,5 is. Er moet een keuze gemaakt worden of er nu 2 of 3 pitstops moeten
+            plaatsvinden. Deze keuze zou makkelijker zijn als N precies 3 was
+            geweest.
+4p    19    Bereken hoeveel korter het gemiddelde tijdverlies per pitstop moet zijn om
+            uit te komen op een optimaal aantal pitstops van precies 3. Geef je
+            antwoord in seconden en in één decimaal.
+
+3p    20    Beredeneer met formule 4, zonder getallenvoorbeelden te gebruiken of
+            een schets/tekening van de grafiek van N te maken, dat N toeneemt als
+            het gemiddelde tijdverlies per pitstop afneemt.
+
+
+
+
+HA-1024-a-23-1-o                           13 / 15                            lees verder ►►►
+      Wel het huis, maar niet de grond
+
+            Als je een huis koopt, word je normaal
+            gesproken niet alleen eigenaar van het huis,
+            maar ook van de grond waar het huis op
+            staat.
+            Voor de betaling sluit de koper meestal een
+            hypotheek af. Dit is een lening die in
+            maandelijkse termijnen met rente moet
+            worden terugbetaald binnen een afgesproken
+            termijn, de zogenoemde looptijd.
+
+            Soms wil een koper een huis kopen waarvoor
+            de bank geen hypotheek wil geven omdat het
+            huis eigenlijk te duur is voor de koper. In zo’n
+            geval kan de koper besluiten tot duo-koop. Je
+            koopt dan wel het huis, maar niet de grond.
+            De maandelijkse hypotheekkosten zijn dan
+            lager, maar er moet dan ook een maandelijks bedrag voor het huren van
+            de grond worden betaald.
+
+            Bij duo-koop wordt de huurprijs van de grond bepaald aan de hand van
+            twee percentages:
+            − G: het grondpercentage, dat is de procentuele waarde van de grond
+                ten opzichte van de prijs van huis en grond samen.
+            − H: het huurpercentage, dat is het percentage van de waarde van de
+                grond dat jaarlijks aan huur voor de grond betaald moet worden.
+            Bijvoorbeeld: voor een huis dat inclusief de grond € 200 000 kost en
+            waarvoor geldt dat G = 25 en H = 6, is de waarde van de grond € 50 000
+            en zal bij duo-koop de huur van de grond € 3000 per jaar, dus € 250 per
+            maand zijn.
+
+            Nicolette en Fouad willen een huis kopen in Den Haag. Het huis kost
+            inclusief de grond € 240 000. Ze willen hiervoor een hypotheek afsluiten
+            met een looptijd van 30 jaar. In de tabel staat een aanbieding van een
+            bank voor beide manieren van kopen.
+
+            tabel Kosten voor een huis (inclusief grond) van € 240 000
+                    gewone koop                      duo-koop
+               huis en grond (koop)       huis (koop)           grond (huur)
+                   hypotheekkosten     hypotheekkosten      G = 35; H = 1,5
+                   € 774 per maand     € 505 per maand
+
+
+
+
+HA-1024-a-23-1-o                           14 / 15                             lees verder ►►►
+            De hypotheekkosten en de huurprijs van de grond veranderen niet tijdens
+            de looptijd. We nemen aan dat de percentages G en H ook niet
+            veranderen tijdens de looptijd.
+
+            Het huis en de grond worden in de loop van de 30 jaar meer waard. We
+            nemen aan dat de waarde van zowel het huis als de grond jaarlijks met
+            2% toeneemt.
+
+            Nicolette en Fouad overwegen het huis met duo-koop te kopen. Daarmee
+            zijn de maandelijkse kosten lager dan bij de gewone koop.
+
+            Na de looptijd van 30 jaar verwachten ze voldoende geld te hebben om de
+            grond alsnog te kopen, uiteraard voor de prijs die de grond op dat
+            moment waard is. Dit zal betekenen dat de totale kosten over de looptijd
+            van 30 jaar bij duo-koop hoger zullen zijn dan bij gewone koop.
+
+            Nicolette en Fouad willen het huis met duo-koop kopen als de totale
+            kosten daarbij minder dan € 100 000 hoger zijn dan bij gewone koop. Als
+            dat niet zo is, gaat de koop niet door.
+7p    21    Onderzoek of Nicolette en Fouad het huis in Den Haag wel of niet zullen
+            kopen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1024-a-23-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

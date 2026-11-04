@@ -1,0 +1,458 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 1
+                                                                   maandag 14 mei
+                                                                   13.30 - 16.30 uur
+
+
+ oud programma                                                      wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 79 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-h-18-1-o
+            OVERZICHT FORMULES
+
+
+            Kansrekening
+             Voor toevalsvariabelen X en Y geldt: E ( X  Y )  E ( X )  E (Y )
+             Voor onafhankelijke toevalsvariabelen X en Y geldt:
+              ( X  Y )  2 ( X )  2 (Y )
+                n -wet: bij een serie van n onafhankelijk van elkaar herhaalde
+              experimenten geldt voor de som S en het gemiddelde X van de
+              uitkomsten X:
+              E (S )  n  E ( X ) ( S )  n   ( X )
+                                            ( X )
+              E( X )  E( X )      ( X ) 
+                                               n
+
+
+            Binomiale verdeling
+             Voor de binomiaal verdeelde toevalsvariabele X, waarbij n het aantal
+             experimenten is en p de kans op succes per keer, geldt:
+                           n
+              P( X  k )     p k  (1  p ) nk met k = 0, 1, 2, 3, …, n
+                           k 
+              Verwachting: E ( X )  n  p           Standaardafwijking: ( X )  n  p  (1  p )
+
+
+
+            Normale verdeling
+             Voor een toevalsvariabele X die normaal verdeeld is met gemiddelde µ en
+             standaardafwijking σ geldt:
+                      X                                                       g 
+              Z           is standaard-normaal verdeeld en P( X  g )  P( Z       )
+                                                                                 
+
+
+            Logaritmen
+             regel                                         voorwaarde
+              g
+                   log a  g log b  g log ab              g > 0, g  1, a > 0, b > 0
+              g                              a
+                   log a  g log b  g log                 g > 0, g  1, a > 0, b > 0
+                                             b
+              g
+                   log a p  p  g log a                   g > 0, g  1, a > 0
+                            p
+              g                 log a
+                   log a  p                               g > 0, g  1, a > 0, p > 0, p  1
+                                log g
+
+
+
+
+VW-1026-h-18-1-o                                  2 / 13                                       lees verder ►►►
+VW-1026-h-18-1-o   3 / 13   lees verder ►►►
+      Invloed
+
+            Bij verkiezingen wordt vaak gekeken naar het opkomstpercentage, het
+            percentage van de stemgerechtigden dat een stem uitbrengt.
+            In de periode 1986-1998 daalde het opkomstpercentage voor de Tweede
+            Kamerverkiezingen voortdurend. In 1986 brachten 9 199 621 van de
+            10 727 701 stemgerechtigden hun stem uit, in 1998 waren dat er 8 919 787
+            van de 11 112 189.
+2p    1     Laat zien dat het opkomstpercentage in de periode 1986-1998 inderdaad
+            is afgenomen.
+
+            Eén van de redenen die vaak genoemd wordt om niet te gaan stemmen is
+            ‘het gevoel geen invloed te hebben’.
+            Het vervolg van deze opgave gaat over invloed bij beslissingen die via
+            een stemming tot stand komen.
+
+            Als voorbeeld bekijken we een groep van 9 personen, die bij meerderheid
+            mogen beslissen over het al dan niet aanvaarden van een voorstel.
+            Eén van hen is Johan. Hij vraagt zich af hoe groot de kans is dat zijn stem
+            de doorslag geeft. Johans stem is doorslaggevend als van de andere
+            groepsleden er 4 voor het voorstel en 4 tegen het voorstel stemmen.
+            We gaan uit van de volgende veronderstellingen:
+             ieder lid van de groep brengt zijn stem uit;
+             ieder lid van de groep heeft dezelfde kans p om vóór het voorstel te
+                stemmen.
+
+4p    2     Bereken de kans dat Johans stem doorslaggevend is als p = 0,8.
+
+            We bekijken nu een groep van 11 personen. De kans dat Johans stem de
+            doorslag geeft, is dan PJohan  252  p 5  (1  p )5 . Ook hier heeft ieder lid van
+            de groep dezelfde kans p om vóór het voorstel te stemmen.
+3p    3     Onderzoek bij welke waarde van p de kans dat Johans stem
+            doorslaggevend is, maximaal is.
+
+
+
+
+VW-1026-h-18-1-o                                4 / 13                                lees verder ►►►
+            De kans PJohan dat Johans stem doorslaggevend is bij een dergelijke
+            stemming hangt af van het aantal medestemgerechtigden en van de
+            waarde van p .
+            We gaan vanaf nu uit van een situatie met 2n medestemgerechtigden en
+             p  0,5 .
+                                                          2n 
+            De bedoelde kans is dan gelijk aan PJohan         0,52 n .
+                                                         n
+            Voor grote waarden van n kun je deze kans goed benaderen met de
+            volgende formule:
+                              0,564
+                   PJohan 
+                                 n
+4p    4     Bereken hoe groot het verschil is tussen de benaderde kans en de echte
+            kans als er 50 medestemgerechtigden zijn.
+
+            Naarmate een groep groter wordt, neemt de kans dat Johans stem
+            beslissend is natuurlijk af.
+                                                                   0,564
+            We bekijken dit verschijnsel bij de formule PJohan          .
+                                                                      n
+            Johan vraagt zich af wat er gebeurt met de kans dat zijn stem
+            doorslaggevend is als de groep medestemgerechtigden groter wordt.
+3p    5     Beredeneer hoeveel keer zo klein deze kans wordt als het aantal
+            medestemgerechtigden vier keer zo groot wordt.
+
+
+
+
+VW-1026-h-18-1-o                             5 / 13                          lees verder ►►►
+      Bridgedrive
+
+            Bridge is een kaartspel waarbij een team van twee spelers tegen een
+            ander team van twee spelers speelt. Zo’n team van twee spelers heet een
+            paar. De Oldenzaalse Bridge Club organiseert ieder jaar een bridgedrive
+            (een toernooi) waar een groot aantal paren aan deelneemt.
+            Aan de bridgedrive van 2008 namen 192 paren deel. Elk paar speelde
+            acht rondes waarin ze in elke ronde vier spellen speelden. Nadat elk paar
+            deze 32 spellen had gespeeld werden de eindscores bepaald. Het paar
+            met de hoogste eindscore werd de winnaar.
+
+3p    6     Bereken hoeveel keer er tijdens deze bridgedrive een spelletje bridge
+            werd gespeeld.
+
+            De bridgedrive wordt gespeeld op 16 verschillende horecalocaties in
+            Oldenzaal. Op elke locatie spelen evenveel paren. Na vier spellen
+            wisselen de paren van locatie volgens een schema dat de spelers van
+            tevoren niet bekend is.
+
+            Het paar Hendriks-Hendriks zit klaar voor de eerste ronde. Zij vragen zich
+            af of het paar Van Zomeren-Zenderink tijdens de eerste ronde op dezelfde
+            locatie speelt.
+3p    7     Bereken de kans dat het paar Van Zomeren-Zenderink de eerste ronde op
+            dezelfde locatie speelt als het paar Hendriks-Hendriks.
+
+            Per spel krijgt elk paar een score op een schaal van 0 tot en met 100.
+            Na afloop van de drive wordt voor elk paar de totale score gedeeld door
+            het aantal gespeelde spellen. Dit geeft een eindscore die wordt afgerond
+            op twee decimalen. Het paar met de hoogste eindscore krijgt positie 1 en
+            wint de hoofdprijs.
+
+            We nemen aan dat in 2008 de eindscores normaal verdeeld waren met
+            gemiddelde 50,00 en standaardafwijking 7,12. Het paar Hendriks-
+            Hendriks had een eindscore van 54,66.
+4p    8     Bereken op grond hiervan de positie van dit paar in de eindklassering.
+
+
+
+
+VW-1026-h-18-1-o                           6 / 13                            lees verder ►►►
+            In 2007 namen 190 paren deel aan de drive. Hun eindscores staan in een
+            tabel op de uitwerkbijlage. Het gemiddelde van deze eindscores is 49,93
+            en de standaardafwijking is 7,07.
+            Men vraagt zich af of deze scores ook bij benadering normaal verdeeld
+            zijn. Dit is te onderzoeken door te controleren of deze gegevens in
+            overeenstemming zijn met onder andere de volgende twee regels voor de
+            normale verdeling:
+
+            1      de 68%-vuistregel;
+            2      de 95%-vuistregel.
+
+            Aan de eerste regel (de 68%-vuistregel) is voldaan.
+3p    9     Onderzoek of de scores in de tabel op de uitwerkbijlage ook aan de
+            tweede regel voldoen.
+
+
+
+
+VW-1026-h-18-1-o                           7 / 13                           lees verder ►►►
+      Talen
+
+            De wereldbevolking bedroeg in 2010 ongeveer 6800 miljoen (6,8 miljard)
+            mensen. Volgens schattingen uit dat jaar werden er toen op de wereld
+            ruim 500 talen gesproken.
+            In deze opgave verstaan we onder sprekers van een taal alleen de
+            mensen voor wie deze taal hun moedertaal is.
+            Sommige talen worden door meer dan 100 miljoen mensen gesproken,
+            maar er zijn ook talen die nog slechts door enkele tientallen mensen
+            gesproken worden.
+            Hoe meer mensen een taal spreken, hoe groter we die taal noemen.
+            Alle aantallen in deze opgave hebben betrekking op het jaar 2010 en zijn
+            benaderingen op grond van schattingen.
+
+            De grootste taal is het Mandarijn met 800 miljoen sprekers.
+            De kans dat van 6 willekeurig gekozen mensen uit de totale
+            wereldbevolking er minstens één Mandarijn spreekt, is groter dan 0,5.
+4p   10     Bereken deze kans in drie decimalen nauwkeurig.
+
+            Van alle gesproken talen is er een ranglijst waar de talen op volgorde van
+            veel naar weinig sprekers staan. De top-15 van de meest gesproken talen
+            in 2010 staat in onderstaande tabel.
+
+            tabel
+             1       Mandarijn         800 000 000
+              2      Spaans            358 000 000
+              3      Engels            350 000 000
+              4      Hindi/Urdu        240 000 000
+              5      Bengaals          170 000 000
+              6      Russisch          160 000 000
+              7      Portugees         150 000 000
+              8      Arabisch          150 000 000
+              9      Japans            126 000 000
+              10     Duits             100 000 000
+              11     Wu                 90 000 000
+              12     Javaans            70 000 000
+              13     Punjab             70 000 000
+              14     Frans              70 000 000
+              15     Telugu             70 000 000
+
+
+
+
+VW-1026-h-18-1-o                            8 / 13                           lees verder ►►►
+            Deze 15 talen hebben samen 2974 miljoen sprekers. Van de ruim 500
+            talen zijn er 86 talen met 10 miljoen of meer sprekers. Op de 44e plaats
+            staat het Nederlands met 20 miljoen sprekers. Hieruit kun je concluderen
+            dat de talen op de plaatsen 45 tot en met 86 elk minstens 10 miljoen en
+            hoogstens 20 miljoen sprekers hebben.
+
+            Met deze gegevens kun je niet het exacte totaal aantal sprekers van de
+            86 talen met meer dan 10 miljoen sprekers berekenen. Wel is het mogelijk
+            om een onder- en een bovengrens van dit aantal te berekenen.
+4p   11     Laat zien dat het mogelijk is dat het totaal aantal sprekers van de eerste
+            86 talen groter is dan 5,7 miljard.
+
+            Onderzoekers willen een formule opstellen waarmee het totaal aantal
+            sprekers van de n grootste talen berekend kan worden als n gegeven is.
+            Voor zo’n formule moet dus bijvoorbeeld gelden dat het totaal aantal
+            sprekers gelijk is aan 2,974 miljard voor n = 15.
+            Neem aan dat geen enkel tweetal talen precies hetzelfde aantal sprekers
+            heeft.
+3p   12     Beredeneer dat de grafiek van het totaal aantal sprekers afnemend
+            stijgend is.
+
+            Het verband tussen het totaal aantal sprekers A van de n grootste talen
+            en n kan worden benaderd met de volgende formule:
+                   A  0,92  n0,43
+            Hierbij is n het plaatsnummer van een taal en A het totaal aantal sprekers
+            in miljarden van de n grootste talen.
+
+            Volgens deze formule zouden er voor de 6,8 miljard sprekers veel minder
+            dan de eerder genoemde ruim 500 talen zijn.
+3p   13     Bereken hoeveel talen er volgens de formule zouden zijn.
+
+
+
+
+VW-1026-h-18-1-o                            9 / 13                           lees verder ►►►
+      Benzineverbruik
+
+            Op sommige stukken snelweg staat een bord met de
+            aansporing ‘Rij schoner, rij 80 in z’n 5.’
+            Naar aanleiding hiervan onderzocht een journalist hoe
+            het benzineverbruik van een auto afhangt van de
+            snelheid en de versnelling waarin de auto rijdt.
+
+            De journalist reed ’s nachts 6 keer een afstand van 10 km op een recht
+            stuk snelweg. Met behulp van cruise control reed hij eerst met
+            80 km per uur in de derde, vierde en vijfde versnelling en vervolgens met
+            90 km per uur in de derde, vierde en vijfde versnelling. Elke seconde werd
+            het benzineverbruik geregistreerd.
+4p   14     Bereken hoeveel meetgegevens de journalist op deze manier verzamelde.
+
+            In de vijfde versnelling is de auto steeds het zuinigst. In de tabel staat de
+            literafstand L (het aantal kilometer dat je per liter benzine kunt rijden) van
+            de auto in de vijfde versnelling bij verschillende snelheden. In de tabel
+            kun je bijvoorbeeld zien dat de literafstand van de auto bij een snelheid
+            van 80 km per uur 21,62 km is. Dat betekent dat je bij deze snelheid
+            21,62 km kunt rijden met 1 liter benzine.
+
+            tabel
+            literafstand en de bijbehorende snelheid in de vijfde versnelling
+              snelheid v (km per uur)        80        90        100       110
+              literafstand L (km)            21,62     19,88     17,82      15,95
+
+            De journalist stelde dat er tot een snelheid van 110 km per uur bij
+            benadering sprake was van een lineair verband tussen de literafstand L
+            en de snelheid v.
+4p   15     Stel een formule op van dit verband.
+
+            In werkelijkheid zal bij snelheden van ten minste 90 km per uur het
+            verband tussen de literafstand en de snelheid niet lineair zijn. Het is ook
+            denkbaar dat de afname van de literafstand exponentieel verloopt.
+4p   16     Bereken in dat geval de groeifactor per 10 km per uur en bereken
+            daarmee bij welke snelheid de literafstand 10 km zal zijn.
+
+            In een voorlichtingsfolder over zuinig rijden lezen we: ‘Een zuinige
+            snelheid is 90 km per uur. Als je 120 km per uur rijdt, dan neemt de
+            literafstand met 30% af. Rijd je 140 km per uur, dan is de literafstand al
+            met 48% afgenomen.’
+            Je kunt met bovenstaande gegevens berekenen met hoeveel procent de
+            literafstand afneemt als de snelheid toeneemt van 120 km per uur naar
+            140 km per uur.
+4p   17     Bereken dit percentage.
+
+
+
+VW-1026-h-18-1-o                             10 / 13                             lees verder ►►►
+      Vingerafdrukken
+
+            Na een misdrijf zoekt de politie vaak naar vingerafdrukken. Van ieder
+            mens zijn de vingerafdrukken uniek. Daardoor kan men aan de hand van
+            vingerafdrukken vaststellen wie er op de plaats van het misdrijf geweest
+            is. De gevonden vingerafdrukken vergelijkt men met de vingerafdrukken
+            van een verdachte of met de vingerafdrukken in een databank.
+            Omdat het vergelijken van vingerafdrukken veel werk is, deelt men de
+            vingerafdrukken in groepen in.
+
+            Een bekend systeem is de Henry classificatie. Hierin onderscheidt men
+            drie patronen: de boog, de lus en de kring. Elke vingerafdruk heeft één
+            van deze patronen. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De vingers worden genummerd, te beginnen bij de rechterduim. Een
+            vingerafdruk met een boog of lus krijgt de waarde 0. Een vingerafdruk met
+            een kring krijgt de waarde zoals aangegeven in tabel 1.
+
+tabel 1
+                R           R        R         R        R       L        L        L         L      L
+               duim       wijs-   middel-    ring-     pink    duim    wijs-   middel-    ring-   pink
+                         vinger   vinger    vinger                    vinger   vinger    vinger
+ vinger-
+                   1       2        3         4          5      6       7        8         9       10
+ nummer
+ waarde
+ (indien           16     16        8         8          4      4       2        2         1        1
+ kring)
+
+
+
+            De Henry classificatie voor een vingerafdrukkenset van tien vingers
+            wordt nu berekend met de volgende formule:
+                          1  (som van de waarden van de even vingers)
+                    H
+                         1  (som van de waarden van de oneven vingers)
+
+            De waarde van H kan bepaalde grenzen niet overschrijden.
+4p   18     Bereken de minimale en de maximale waarde van H.
+
+
+
+
+VW-1026-h-18-1-o                                     11 / 13                              lees verder ►►►
+            In tabel 2 staat een vingerafdrukkenset uit de databank.
+
+            tabel 2
+              vingernummer                            1    2     3    4      5   6   7   8    9    10
+              boog (B), lus (L) of kring (K)          L    K     B    B      K   B   L   B    K    K
+
+            Voor de vingerafdrukkenset van tabel 2 is de Henry classificatie:
+                        1  (16  0  0  0  1) 18
+                   H                           
+                        1  (0  0  4  0  1)   6
+            Dit wordt genoteerd als een breuk en niet vereenvoudigd.
+
+            In tabel 3 staat een andere vingerafdrukkenset uit de databank.
+
+            tabel 3
+              vingernummer                            1    2     3    4      5   6   7   8    9    10
+              boog (B), lus (L) of kring (K)          K    B     B    L      K   B   L   K    L     L
+
+3p   19     Bereken de Henry classificatie van de vingerafdrukkenset in tabel 3.
+
+            Met dit systeem is het ook mogelijk om bij een gegeven Henry classificatie
+            terug te vinden welke vingers een kringpatroon hebben.
+                                                                           7
+            Een vingerafdrukkenset heeft Henry classificatie                 .
+                                                                          14
+4p   20     Onderzoek welke vingers van deze vingerafdrukkenset een kringpatroon
+            hebben.
+
+            De getallen 16, 8, 4, 2 en 1 in tabel 1 zijn zo gekozen dat met de optelling
+            hiervan alle mogelijke waarden tussen het minimum en maximum
+            gemaakt kunnen worden.
+            De Henry classificatie mag niet vereenvoudigd worden, omdat er
+            meerdere vingerafdrukkensets zijn waarvan we de Henry classificatie
+            kunnen vereenvoudigen tot bijvoorbeeld het getal 3, zoals de set uit het
+                                                               18
+            eerste voorbeeld met Henry classificatie              .
+                                                                6
+4p   21     Onderzoek van hoeveel vingerafdrukkensets de Henry classificatie kan
+            worden vereenvoudigd tot 3.
+
+
+
+
+VW-1026-h-18-1-o                                 12 / 13                                 lees verder ►►►
+            Het is mogelijk dat twee verschillende vingerafdrukken dezelfde Henry
+            classificatie hebben. Om te bepalen of twee vingerafdrukken identiek zijn,
+            kijkt men naast de Henry classificatie naar andere bijzondere punten in
+            het vingerafdrukpatroon.
+
+            Een deskundige kiest 12 van zulke bijzondere punten en gaat vervolgens
+            in de databank zoeken naar vingerafdrukken met diezelfde 12 bijzondere
+            punten. Een tweede deskundige kiest onafhankelijk van de eerste ook
+            12 punten en doet hetzelfde. Als beide deskundigen tot dezelfde
+            conclusie komen staat officieel vast dat de twee vingerafdrukken
+            matchen.
+
+            Neem aan dat er in een vingerafdruk 34 bijzondere punten voorkomen en
+            dat elke deskundige hieruit willekeurig 12 punten kiest.
+5p   22     Bereken de kans dat de twee deskundigen hierbij samen 24 verschillende
+            punten kiezen.
+
+
+
+
+VW-1026-h-18-1-o                           13 / 13                           lees verdereinde
+                                                                                          ►►► 
+

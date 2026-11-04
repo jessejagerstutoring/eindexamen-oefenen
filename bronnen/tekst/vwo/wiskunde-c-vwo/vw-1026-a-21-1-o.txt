@@ -1,0 +1,464 @@
+                                                                    Examen VWO
+
+                                                                         2021
+                                                                               tijdvak 1
+                                                                      maandag 17 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                        wiskunde C
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+ Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+ opgenomen.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-21-1-o
+      Draaiend huis
+
+            Op de Hasseltrotonde in Tilburg staat een huis. Eigenlijk is ‘staat’ niet het
+            goede woord, want het huis beweegt: het draait in het rond. Het gevolg is
+            dat elke keer dat je langs de rotonde rijdt, het huis op een andere plaats
+            kan staan. Het is een kunstproject, ontworpen door John Körmeling.
+            Zie foto 1 en foto 2 hieronder.
+
+     foto 1                                      foto 2
+
+
+
+
+            Het huis legt in 20 uur één ronde af, zodat je, als je de rotonde elke dag
+            op hetzelfde tijdstip passeert, het huis geen twee opeenvolgende dagen
+            op dezelfde plaats ziet.
+
+            Op een maandag staat het huis om acht uur ‘s morgens (08.00 uur)
+            precies aan de oostkant van de rotonde. Voor het vervolg van de opgave
+            is dit t  0 . In figuur 1 is een overzicht van de situatie te zien. Het huis is
+            in figuur 1 weergegeven als vierkantje en bevindt zich in punt O.
+
+            figuur 1
+
+
+
+
+            Het huis draait met de rijrichting van het verkeer mee.
+
+3p    1     Geef in de figuur op de uitwerkbijlage de plaats aan waar het huis zich op
+            diezelfde maandag om 20.30 uur bevindt. Licht je antwoord toe.
+
+
+
+VW-1026-a-21-1-o                               2 / 13                              lees verder ►►►
+3p    2     Bereken hoeveel hele weken na tijdstip t  0 het huis zich voor het eerst
+            weer om 08.00 uur op maandag in punt O bevindt.
+
+            De straal van de cirkel waarover het huis beweegt, is 30 meter. De
+            afstand tussen het huis en de weg is 2,5 meter. Het oorspronkelijke idee
+            van kunstenaar John Körmeling was om het huis in dezelfde tijd rond te
+            laten draaien als de tijd die het de auto’s kost om de rotonde rond te
+            rijden. Omdat de auto’s op de rotonde een grotere afstand moeten
+            afleggen dan de afstand die het huis aflegt, hebben de auto’s dan dus een
+            hogere snelheid. In figuur 2 is het draaiende huis met H aangegeven en
+            een auto op de rotonde met A.
+
+            figuur 2
+
+
+
+
+            De kunstenaar ging ervan uit dat de auto’s met een gemiddelde snelheid
+            van 25 km/uur op de rotonde zouden rijden.
+            De omtrek van een cirkel bereken je met de formule: omtrek  2 straal
+4p    3     Bereken met welke snelheid in km/uur het huis dan had moeten
+            ronddraaien. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1026-a-21-1-o                            3 / 13                            lees verder ►►►
+      Tweepiramidendak
+
+            Op de foto zie je een bijzonder huis:             foto
+            als basis voor het grondvlak zijn twee even grote
+            overlappende vierkanten gebruikt. Het dak
+            bestaat uit twee piramidevormige delen die aan
+            elkaar vastzitten.
+            In figuur 1 zie je een model van het dak van dit
+            huis. In het vervolg van deze opgave kijken we
+            naar dit model, waarbij de verbinding tussen de
+            toppen van beide dakdelen buiten beschouwing
+            is gelaten.
+
+            figuur 1                                figuur 2
+
+
+
+
+            Figuur 2 laat zien hoe figuur 1 is ontstaan: ABCD.T en EFGH.S zijn twee
+            even grote symmetrische vierzijdige piramiden. De top T ligt precies
+            boven punt F. Verder is  APE  90 .
+
+            Op de uitwerkbijlage is het begin van een bovenaanzicht van figuur 1
+            getekend.
+4p    4     Maak dit bovenaanzicht op de uitwerkbijlage af.
+
+            Op de uitwerkbijlage is een perspectieftekening van grondvlak ABCD van
+            de voorste piramide te zien.
+5p    5     Teken het grondvlak EFGH van de achterste piramide in deze
+            perspectieftekening op de uitwerkbijlage.
+
+            Om in te schatten hoeveel dakpannen er nodig zijn voor het dak, is het
+            nodig om de totale oppervlakte te berekenen van alle schuine
+            bovenvlakken van het model van het tweepiramidendak. De volgende
+            afmetingen zijn bekend: AB  7 m, AP  3,5 m, AT  6, 49 m en de
+            afstand van T tot AB is (afgerond op twee decimalen) 5,47 m.
+4p    6     Bereken de totale oppervlakte van alle schuine bovenvlakken van het
+            model van het tweepiramidendak.
+            Geef je antwoord in een geheel aantal m2.
+
+
+
+
+VW-1026-a-21-1-o                           4 / 13                           lees verder ►►►
+      Huurprijzen in New York
+
+            New York is al decennialang een van de populairste steden ter wereld om
+            te wonen met als gevolg dat de gemiddelde prijs van huurwoningen er
+            explosief gestegen is. In 1970 bedroeg de gemiddelde huur van een
+            woning in New York $ 125 per maand. In 2013 was dat gestegen tot $ 917
+            per maand. Dat is een toename van ruim 600%.
+            Zo’n vergelijking is echter niet helemaal eerlijk, want de waarde van geld
+            verandert ook. Dat heet inflatie. Sinds 1970 bedroeg de gemiddelde
+            inflatie per jaar 3,95%. We gaan ervan uit dat sinds 1970 de huurprijzen,
+            onafhankelijk van andere factoren, jaarlijks door de inflatie 3,95%
+            gestegen zijn.
+            Door de $ 125 uit 1970 om te rekenen naar dollars uit 2013 kan je de
+            reële gemiddelde huurstijging berekenen. De reële gemiddelde
+            huurstijging is de procentuele stijging van de gemiddelde huurprijzen
+            boven op de stijging als gevolg van de inflatie.
+3p    7     Bereken de reële gemiddelde huurstijging. Geef je antwoord in één
+            decimaal.
+
+            In het vervolg van deze opgave zijn alle genoemde bedragen, getallen en
+            percentages berekend met de naar 2013-dollars omgerekende bedragen.
+            Je hoeft dus zelf geen rekening te houden met inflatie.
+            Verder spreken we in het vervolg van deze opgave over inkomen,
+            huurprijs en huurlast, terwijl daar gemiddeld inkomen, gemiddelde
+            huurprijs en gemiddelde huurlast bedoeld wordt.
+
+            Een belangrijke maatstaf om de betaalbaarheid van huurwoningen te
+            onderzoeken is het percentage van het inkomen dat besteed wordt aan
+            het betalen van de huur: de huurlast.
+            In 1960 bedroeg de huurprijs in New York $ 561 en was de huurlast 15%.
+            In de periode tussen 1960 en 2013 stegen de huurprijzen met 63,5%,
+            terwijl het maandinkomen in dezelfde periode met slechts 17% steeg.
+            Uit deze gegevens volgt dat de huurlast in 2013 ongeveer gelijk was
+            aan 21%.
+3p    8     Laat een berekening zien waaruit dit blijkt.
+
+
+
+
+VW-1026-a-21-1-o                            5 / 13                            lees verder ►►►
+            Doordat de huurprijzen sneller stijgen dan de inkomens, neemt de
+            huurlast steeds verder toe: van 15% in 1960 tot 21% in 2013. Een
+            econoom beweert dat er zich grote problemen zullen gaan voordoen als
+            de huurlast boven de 25% uitkomt. De econoom gaat ervan uit dat de
+            huurlast exponentieel is toegenomen sinds 1960 en dat die exponentiële
+            stijging zich ook na 2013 voortzet.
+4p    9     Bereken in welk jaar de huurlast volgens deze veronderstelling voor het
+            eerst groter is dan 25%.
+
+            In figuur 1 is het werkelijke verloop van de huurprijs in New York en van
+            het inkomen van zijn inwoners als percentage van de bedragen in 1960
+            uitgezet tegen de tijd.
+
+            figuur 1
+
+
+
+
+            Hieronder staan twee uitspraken die gaan over de gegevens in figuur 1:
+            1 In de periode 1960–1980 steeg de huurprijs sneller dan in de periode
+               1980–2000.
+            2 In de periode 1990–2000 daalde de huurlast.
+
+4p   10     Leg voor elk van deze uitspraken uit of deze waar is of niet.
+
+
+
+
+VW-1026-a-21-1-o                            6 / 13                            lees verder ►►►
+            figuur 2
+
+
+
+
+            In figuur 2 is te zien dat de huurprijs schommelt om een trendlijn. De
+            huurprijs kan dus worden benaderd met behulp van deze trendlijn.
+            In 1960 bedroeg de huurprijs in New York $ 561 en was de huurlast 15%.
+            Het gemiddelde maandinkomen van de inwoners van New York was op
+            zijn hoogst in het jaar 2000 en was toen $ 4832. In een rapport van de
+            Bank of America uit 2013 stond dat het gemiddelde maandinkomen pas in
+            2023 weer op het niveau van het jaar 2000 zou zijn.
+            Je kunt nu, uitgaande van de getekende trendlijn voor de huurprijs en de
+            veronderstelling uit het rapport van de Bank of America, berekenen wat in
+            2023 de huurlast in New York zal zijn.
+5p   11     Bereken met behulp van deze trendlijn en de genoemde veronderstelling
+            de huurlast in New York in 2023. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1026-a-21-1-o                            7 / 13                             lees verder ►►►
+      De Grand Prix van Monaco
+
+            Op 19 mei 1996 werd in Monaco de Grand Prix Formule 1 de Monaco
+            gehouden. Deze race staat in de autosport bekend als de race met de
+            meeste uitvallers ooit. Aan deze race namen 22 coureurs deel, van wie er
+            uiteindelijk slechts drie de finish haalden.
+
+3p   12     Bereken hoeveel verschillende top 3’s er mogelijk zijn in een wedstrijd
+            met 22 deelnemers.
+
+            De race duurde 75 ronden van 3328 meter en werd gewonnen door de
+            Fransman Olivier Panis.
+
+            Panis deed in totaal 2 uur en 45 seconden over de race.
+3p   13     Bereken zijn gemiddelde snelheid. Geef je antwoord in hele kilometers
+            per uur.
+
+            De uitslag van de race staat in de tabel. Bij de uitgevallen coureurs staat
+            aangegeven of ze uitvielen door een ongeluk (O), door technische
+            problemen (T) of door een stuurfout (S).
+
+            tabel
+                   positie   naam                     positie naam
+                     1       O. Panis        -            -   M. Brundle        S
+                     2       D. Coulthard    -            -   G. Berger         T
+                     3       J. Herbert      -            -   P. Diniz          T
+                     4       H. Frentzen     T            -   R. Rosset         S
+                     5       M. Salo         O            -   U. Katayama       S
+                     6       M. Häkkinen     O            -   R. Barrichello    S
+                     7       E. Irvine       O            -   M. Schumacher     O
+                      -      J. Villeneuve   O            -   P. Lamy           O
+                      -      J. Alesi        O            -   G. Fisichella     O
+                      -      L. Badoer       O            -   J. Verstappen     O
+                      -      D. Hill         T            -   A. Montermini     T
+
+            Ondanks dat Frentzen, Salo, Häkkinen en Irvine uitgevallen zijn, hebben
+            ze toch een positie in de eindstand toebedeeld gekregen, omdat ze
+            tenminste 90% van de te racen afstand hebben afgelegd. Deze posities
+            zijn op volgorde van het aantal afgelegde ronden. Als dat aantal gelijk is,
+            wordt gekeken naar wie als eerste over de finish kwam aan het einde van
+            die ronde.
+
+
+
+
+VW-1026-a-21-1-o                                 8 / 13                        lees verder ►►►
+            Bij iedere race in een Formule 1-seizoen kunnen de coureurs punten
+            verdienen voor het kampioenschap. Bij de race in 1996 gold de regel dat
+            de eerste 6 coureurs punten kregen, de overige 16 coureurs niet. Het was
+            dus mogelijk dat een uitgevallen coureur toch punten behaalde.
+            In het diagram in de figuur zijn alle mogelijkheden voor de coureurs
+            schematisch weergegeven.
+
+            figuur
+
+
+
+
+            In dit diagram geldt:
+             A zijn de coureurs die punten hebben behaald.
+             B zijn de coureurs die zijn uitgevallen.
+             C zijn de coureurs die zijn uitgevallen door een ongeluk.
+             D zijn de coureurs die zijn uitgevallen door technische problemen.
+
+            Het ingekleurde deel van het diagram kan maar één coureur bevatten.
+2p   14     Leg uit welke coureur dat is.
+
+            Er is ook één gebied in het diagram dat helemaal leeg blijft bij de race in
+            Monaco.
+2p   15     Geef op de uitwerkbijlage aan welk gebied dat is.
+
+            We kunnen de positie van een coureur in het diagram ook beschrijven met
+            behulp van logische symbolen. Er geldt:
+                  a: ‘de coureur’ bevindt zich in gebied A.
+                  b: ‘de coureur’ bevindt zich in gebied B.
+                  c: ‘de coureur’ bevindt zich in gebied C.
+                  d: ‘de coureur’ bevindt zich in gebied D.
+            Als bijvoorbeeld ‘de coureur’ zou verwijzen naar een coureur in het
+            ingekleurde gebied, dan geldt a  d .
+
+2p   16     Beredeneer naar welke coureurs ‘de coureur’ allemaal zou kunnen
+            verwijzen als geldt b  (c  d ) .
+
+2p   17     Geef in logische symbolen de situatie weer dat ‘de coureur’ verwijst naar
+            M. Schumacher.
+
+
+
+VW-1026-a-21-1-o                                9 / 13                         lees verder ►►►
+      Padovantafels
+
+            Op de foto zie je een zogenoemde               foto
+            Fibonaccitafel van de firma NautaBene
+            Design. Het patroon van het tafelblad is
+            geïnspireerd op de rij van Fibonacci:
+            1, 1, 2, 3, 5, 8, 13, 21,….
+            Het tafelblad bestaat uit vier vierkanten en
+            een rechthoekig gat.
+            De zijden van de vierkanten verhouden
+            zich als 5 : 8 : 13 : 21.
+            De tafel is 120 cm lang en 74 cm breed.
+3p   18     Bereken de afmetingen van het rechthoekige gat. Je mag hierbij de
+            randen om de vierkanten buiten beschouwing laten. Geef je antwoord in
+            een geheel aantal cm.
+
+            Behalve de rij van Fibonacci bestaan er ook andere rijen, bijvoorbeeld de
+            rij van Padovan. In figuur 1 zie je het ontwerp voor een Padovantafel.
+            Het tafelblad bestaat uit zes gelijkzijdige driehoeken met zijden van 2, 2,
+            3, 4, 5 en 7 dm. In het tafelblad zit een gat. Hier zijn drie gelijkzijdige
+            driehoekjes met een zijde van 1 dm weggelaten.
+
+            figuur 1
+
+
+
+
+            Het patroon van het tafelblad is geïnspireerd op de rij van Padovan, een
+            rij getallen die op de volgende manier beschreven kan worden:
+                    p1  1, p2  1, p3  1
+                   
+                    pn  pn2  pn3
+            De tweede regel zegt dat p4  p2  p1 , p5  p3  p2 , enzovoort.
+            Zo ontstaat dus de rij getallen: 1, 1, 1, 2, 2, 3, 4, 5, 7,…
+            Deze rij kan nog verder voortgezet worden.
+
+
+
+VW-1026-a-21-1-o                              10 / 13                           lees verder ►►►
+            In figuur 2 zie je nogmaals het ontwerp voor de Padovantafel, waarvan
+             p n de lengte van de zijde van de n-de driehoek is. Bij een zijde van elke
+            driehoek is de bijbehorende term pn uit de rij van Padovan gezet.
+
+            figuur 2
+
+
+
+
+            In figuur 2 is te zien dat vanaf p6 het volgende geldt:
+
+                   p6  p5  p1    (1)
+                   p7  p6  p2    (2)
+                   p8  p7  p3    (3)
+                   enzovoort.
+            Blijkbaar kunnen de Padovan-getallen vanaf p6 ook op deze manier
+            berekend worden.
+2p   19     Geef een recursieve formule (inclusief startwaarden) die bij deze manier
+            hoort.
+
+            Op grond van de formule pn  pn  2  pn 3 aan het begin van deze
+            opgave geldt dus:
+                   p4  p2  p1   (4)
+                   p5  p3  p2   (5)
+                   p6  p4  p3   (6)
+2p   20     Toon aan, door uit te gaan van de formules 4, 5 en 6, dat geldt:
+            p6  p5  p1 . Doe dit zonder een getallenvoorbeeld te gebruiken.
+
+
+
+
+VW-1026-a-21-1-o                            11 / 13                             lees verder ►►►
+      De Wisselslag
+
+            Zwembad De Wisselslag in Blerick (Limburg) heeft drie binnenbaden,
+            waaronder een wedstrijdbad met een inhoud van 647 m 3, en een
+            buitenbad.
+
+            Om een zwembad te vullen kunnen er verschillende types pompen
+            gebruikt worden. Hoe verder een pomp van het zwembad af staat, hoe
+            meer tijd het kost om het zwembad te vullen.
+            In onderstaande figuur is voor vier verschillende pompen de hoeveelheid
+            water die een pomp per uur kan vullen (Q) in m3 per uur uitgezet tegen de
+            afstand van de pomp tot het zwembad (A) in meters.
+
+            figuur
+
+
+
+
+VW-1026-a-21-1-o                           12 / 13                          lees verder ►►►
+               Het wedstrijdbad van De Wisselslag wordt gevuld met behulp van een
+               pomp van type SB15 op 8 meter afstand. Als de medewerkers op
+               diezelfde afstand een pomp van type SB20 zouden gebruiken, zou er
+               minder tijd nodig zijn om het zwembad te vullen.
+4p     21      Bereken met behulp van de figuur hoeveel tijd er dan minder nodig zou
+               zijn om het zwembad te vullen. Geef je antwoord in een geheel aantal
+               minuten.
+
+               De grafiek die hoort bij een pomp van type SB10 staat vergroot in de
+               figuur op de uitwerkbijlage. Ook hierin is A de afstand van de pomp tot het
+               zwembad in meters en Q het aantal m3 per uur waarmee het zwembad
+               gevuld kan worden.
+
+4p     22      Schat met behulp van de figuur op de uitwerkbijlage de waarde van de
+               helling van de grafiek bij A  10 en leg uit wat de betekenis is van deze
+               waarde. Geef de waarde van de helling in één decimaal.
+
+               De bezoekersaantallen van het buitenbad van zwembad De Wisselslag
+               lopen terug. Daardoor dreigt het buitenbad gesloten te worden.
+               Dit teruglopen van bezoekersaantallen van zwembaden is een landelijk
+               probleem, met name in buitenbaden. Zie onderstaande tabel.
+
+               tabel
+
+     jaartal                    1988 1991 1994 1997 2000 2003 2006 2009 2012
+     aantal
+                                334     290    260       245   265   250   225    225       200
+     buitenzwembaden
+     aantal bezoekers
+     per buitenzwembad           37     44     52        49    39    52     49     43        33
+     x 1000
+
+               Je ziet in de tabel dat in de periode tussen 2003 en 2012 zowel het aantal
+               buitenzwembaden als het aantal bezoekers per buitenzwembad afneemt.
+               Ook het totale aantal bezoekers zal dus vanaf 2003 afnemen.
+
+3p     23      Onderzoek of het totale aantal bezoekers van buitenzwembaden in de
+               periode tussen 2003 en 2012 exponentieel afneemt.
+
+               Een deskundige beweerde in 2012 dat het zeer waarschijnlijk was dat het
+               aantal buitenzwembaden in de jaren na 2012 zou blijven dalen tot één
+               buitenzwembad per twee gemeenten. In 2019 telde Nederland 355
+               gemeenten.
+3p     24      Onderzoek met behulp van lineair extrapoleren of de deskundige in 2019
+               al gelijk heeft gekregen.
+
+
+
+
+VW-1026-a-21-1-o                               13 / 13                            lees verdereinde
+                                                                                               ►►► 
+

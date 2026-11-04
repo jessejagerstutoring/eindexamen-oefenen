@@ -1,0 +1,300 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2023
+                                                                        tijdvak 2
+                                                                 tijdsduur: 2 uur
+
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 68 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-23-2-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-23-2-o                             2 / 11                 lees verder ►►►
+      Vierdaagse
+
+            De Vierdaagse is een wandelevenement in Nijmegen.
+
+
+
+
+            Op de eerste dag van de Vierdaagse van 2019 startten in totaal
+            44 702 wandelaars.
+
+2p    1     Van deze wandelaars viel 1,5% na de eerste dag uit.
+             Bereken hoeveel wandelaars na de eerste dag zijn uitgevallen. Schrijf
+               je berekening op.
+
+4p    2     Op de eerste dag van de Vierdaagse van 2019 startten 26 095 mannen en
+            18 607 vrouwen. Van de mannen haalde na vier dagen 7,7% de finish niet.
+            Van de vrouwen waren dit er 1469.
+             Bereken hoeveel procent van alle wandelaars (mannen en vrouwen
+                samen) na vier dagen de finish niet heeft gehaald. Schrijf je
+                berekening op.
+
+4p    3     Martin kwam op de tweede dag om 13.33 uur over de finish. Hij startte om
+            04.00 uur en wandelde een afstand van 50 km.
+             Bereken hoeveel km per uur de gemiddelde snelheid van Martin was.
+               Schrijf je berekening op.
+
+4p    4     Yvonne en haar vriend Hamza wandelden de derde dag een afstand van
+            50 km. De gemiddelde wandelsnelheid van Yvonne was 5,3 km per uur.
+            Hamza wandelde na 545 minuten over de finish.
+             Bereken hoeveel minuten Yvonne later over de finish wandelde dan
+               Hamza. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-23-2-o                           3 / 11                            lees verder ►►►
+      Diagonalen in een veelhoek
+
+            Een veelhoek met vier of meer hoekpunten heeft diagonalen. Je ziet een
+            vierhoek en een vijfhoek met daarin alle diagonalen. Een vierhoek heeft
+            twee diagonalen en een vijfhoek heeft vijf diagonalen.
+
+
+
+
+2p    5     Teken alle diagonalen in de zeshoek op de uitwerkbijlage.
+
+            Je kan het aantal diagonalen van een veelhoek berekenen met de
+            formule:
+
+                   D = 21 n2 – 1 21 n
+
+            Hierin is D het aantal diagonalen van de veelhoek en n het aantal
+            hoekpunten van de veelhoek.
+
+1p    6     Laat met een berekening zien dat een tienhoek 35 diagonalen heeft.
+
+3p    7     Bestaat er een veelhoek met 100 diagonalen? Schrijf je berekening op.
+
+            In veelhoeken met meer dan vier hoekpunten kan je met behulp van de
+            diagonalen een kleinere veelhoek tekenen met dezelfde vorm als de
+            veelhoek.
+
+
+
+
+GT-0153-a-23-2-o                           4 / 11                               lees verder ►►►
+            In veelhoeken met meer dan zes hoekpunten kan je zelfs nog meer
+            kleinere veelhoeken tekenen met behulp van de diagonalen.
+
+
+
+
+1p    8     Vul de tabel op de uitwerkbijlage verder in.
+
+            Voor veelhoeken met een oneven aantal hoekpunten n kan je het aantal
+            kleinere veelhoeken berekenen met de formule:
+
+                   K = 21 n – 1 21
+
+            Hierin is K het aantal kleinere veelhoeken van de veelhoek en n het aantal
+            oneven hoekpunten van de veelhoek.
+
+2p    9     Bereken met de formule het aantal kleinere veelhoeken in een
+            regelmatige negentienhoek. Schrijf je berekening op.
+
+3p    10    Je kan ook een formule maken voor het aantal kleinere veelhoeken in een
+            veelhoek met een even aantal hoekpunten.
+             Maak de formule voor K bij n is even. Je mag de tabel op de
+               uitwerkbijlage gebruiken.
+
+2p    11    Er zijn twee veelhoeken met daarin 7 kleinere veelhoeken.
+             Geef van deze twee veelhoeken aan hoeveel hoekpunten n iedere
+                veelhoek heeft.
+
+
+
+
+GT-0153-a-23-2-o                             5 / 11                          lees verder ►►►
+      Kabelbaan
+
+            In een speeltuin staat een kabelbaan.
+
+
+
+
+            De kabel is op een hoogte van 3,75 m vastgemaakt bij de punten A en B.
+            Over de kabel beweegt katrol C, waaraan het stoeltje D is vastgemaakt
+            met een kabel van 1,65 m. In het assenstelsel zie je een schematisch
+            zijaanzicht van de kabelbaan, waarbij katrol C in het midden hangt.
+
+
+
+
+            De coördinaten van de punten A, B en C staan in het assenstelsel. Hierin
+            is h de hoogte en a de horizontale afstand vanaf punt A beide in meters.
+
+2p    12    Schrijf de coördinaten van het stoeltje D op.
+
+            De afstand tussen de ophangpunten A en B is 12 meter.
+
+4p    13    Bereken, zonder te meten, hoeveel meter de lengte van de kabel is die
+            van A via C naar B loopt. Schrijf je berekening op en geef je antwoord in
+            één decimaal.
+
+
+
+
+GT-0153-a-23-2-o                            6 / 11                            lees verder ►►►
+            Revi trekt het stoeltje D naar zich toe van a = 6 naar a = 5, zie het
+            schematisch zijaanzicht hieronder.
+
+
+
+
+3p    14    Bereken hoeveel graden de aangegeven hoek bij punt C is. Schrijf je
+            berekening op.
+
+            De hoogte van katrol C verandert als katrol C over de kabel beweegt.
+            Tussen a = 1,5 en a = 10,5 kan je de hoogte van katrol C berekenen met
+            de formule:
+
+                   h = 0,025a2 – 0,3a + 2,9
+
+            Hierin is h de hoogte van katrol C in meters en a de horizontale afstand
+            vanaf punt A in meters.
+
+1p    15    Laat met een berekening zien dat als a is 1,5 meter, de hoogte van
+            katrol C volgens de formule afgerond 2,5 meter is.
+
+4p    16    Teken op de uitwerkbijlage de grafiek bij de formule. Vul eerst de tabel
+            verder in.
+
+
+
+
+GT-0153-a-23-2-o                              7 / 11                            lees verder ►►►
+      Honkbal
+
+            Honkbal is een sport die in veel landen wordt gespeeld. Op de foto zie je
+            een groot honkbalstadion in de Verenigde Staten.
+
+
+
+
+            Hieronder zie je een schets van een deel van het honkbalveld. De werper
+            staat in het midden W van vierkant ABCD. Hij werpt de bal naar de
+            slagman, die op de thuisplaat A staat. De maten staan in de schets.
+
+
+
+
+            AV = BV = VW = 13 m
+
+3p    17    Bereken, zonder te meten, hoeveel meter de afstand van A tot W is.
+            Schrijf je berekening op.
+
+            Cirkelboog EF geeft de grens aan tussen het binnen- en het buitenveld.
+
+4p    18    Bereken, zonder te meten, hoeveel meter de afstand van B tot E is. Schrijf
+            je berekening op en rond je antwoord af op één decimaal.
+
+
+GT-0153-a-23-2-o                            8 / 11                           lees verder ►►►
+            Cirkelboog EF is een deel van een cirkel met middelpunt W en straal EW.
+
+4p    19    Bereken hoeveel meter de lengte van de cirkelboog EF is. Schrijf je
+            berekening op.
+
+3p    20    Op de uitwerkbijlage zie je het honkbalveld op schaal 1 : 1250.
+            In 2018 gooide honkbalspeler Ramón een bal naar het 3e honk (D).
+            Ramón stond in het buitenveld op meer dan 100 meter afstand van het
+            3e honk.
+             Kleur op de uitwerkbijlage het gebied in het buitenveld waar Ramón
+                gestaan kan hebben.
+
+
+
+
+GT-0153-a-23-2-o                           9 / 11                            lees verder ►►►
+      Verbanden
+
+            Je ziet de grafiek die hoort bij de formule y = 3    (0,5 x  1) .
+
+
+
+
+1p    21    Leg uit waarom deze formule bij x = 0 geen uitkomst heeft.
+
+3p    22    Van een punt op de grafiek is de y-waarde 2.
+             Bereken de x-waarde van dit punt. Schrijf je berekening op en geef je
+               antwoord in één decimaal.
+
+3p    23    Er kan een rechte lijn getekend worden die door punt A (4, 3) en
+            punt B (10, 6) gaat.
+             Geef de formule van deze rechte lijn.
+
+
+
+
+GT-0153-a-23-2-o                             10 / 11                              lees verder ►►►
+            Je ziet de grafiek die hoort bij de formule y = 3                       (0,5 x  1) en de grafiek
+            die hoort bij de formule y = 0,2x + 3.
+
+
+
+
+            De grafieken van y = 3  (0,5 x  1) en y = 0,2x + 3 snijden elkaar in
+            punt C.
+
+3p    24    Bereken de x-waarde van het snijpunt C. Schrijf je berekening op en geef
+            je antwoord in één decimaal.
+
+2p    25    Is punt C het enige snijpunt van deze twee grafieken? Leg je antwoord uit.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-23-2-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

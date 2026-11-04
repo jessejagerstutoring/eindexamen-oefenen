@@ -1,0 +1,334 @@
+                                                                Examen HAVO
+
+                                                                     2025
+                                                                            tijdvak 2
+                                                                  donderdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-25-2-o
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-25-2-o                        2 / 11   lees verder ►►►
+      Raken aan de x-as
+
+                                                      3     2
+            De functie f wordt gegeven door f ( x)  x  9 x  24 x  16 .
+
+            De grafiek van f heeft twee toppen.
+
+            De rechter top ligt op de x-as.
+5p    1     Bewijs dit.
+
+            Verder worden de volgende twee raaklijnen aan de grafiek van f gegeven:
+                  lijn k met vergelijking y  9 x  41 ;
+                  lijn l met vergelijking 3 x  y  11 .
+            Lijnen k en l snijden elkaar in punt S.
+            De cirkel c heeft middelpunt S en raakt de x-as.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+5p    2     Stel op exacte wijze een vergelijking op van cirkel c.
+
+
+
+
+HA-1025-a-25-2-o                                   3 / 11                    lees verder ►►►
+      Sloeproeien
+
+            Bij een wedstrijd sloeproeien wordt er             foto
+            geroeid in houten sloepen. Zie de foto.
+
+            Bij zo’n wedstrijd kunnen de vorm en de
+            grootte van de sloepen en het aantal roeiers
+            per sloep verschillen. Hiermee wordt
+            rekening gehouden bij het bepalen van de
+            uitslag van de wedstrijd.
+
+            De sloep waarin het gemiddelde geleverde vermogen P per roeier het
+            grootst is, wint. De waarde van P wordt na afloop van de wedstrijd als
+            volgt berekend:
+
+                  Eerst wordt op basis van de tijd die een sloep nodig had om de
+                   wedstrijdafstand af te leggen de gemiddelde snelheid v van de sloep
+                   berekend.
+
+                  Daarna wordt voor de sloep een waarde W berekend die aangeeft hoe
+                   makkelijk of moeilijk de sloep door het water glijdt. De waarde van W
+                   is afhankelijk van de vorm van de sloep en de gemiddelde snelheid
+                   van de sloep. Er geldt:
+                                   A
+                          W                                 (formule 1)
+                               1  B  v2
+                   Hierin zijn A en B constanten die afhankelijk zijn van de vorm van de
+                   sloep en is v de gemiddelde snelheid van de sloep in m/s.
+
+                  Ten slotte wordt het gemiddelde geleverde vermogen P per roeier in
+                   watt berekend:
+                               1
+                          P     W  v3                     (formule 2)
+                               n
+                   Hierin is n het aantal roeiers in de sloep, W de waarde die volgt uit
+                   formule 1 en v de gemiddelde snelheid van de sloep in m/s.
+
+
+
+
+HA-1025-a-25-2-o                                4 / 11                            lees verder ►►►
+            Bij een wedstrijd hebben de roeiers in sloep 1 en sloep 2 een afstand van
+            17,3 km geroeid. Na afloop van de wedstrijd wordt voor beide sloepen de
+            waarde van P berekend. De sloep met de hoogste waarde wint.
+            Voor sloep 1 is de waarde van P al berekend. Zie de tabel.
+
+            tabel
+               sloep              n       A                B        v (m/s)    P (watt)
+                 1               8       21,36            0,05       2,62       73,1
+                 2               10      23,04            0,08        …          …
+
+            Sloep 2 heeft de afstand van 17,3 km afgelegd in een tijd van
+            1 uur, 53 minuten en 58 seconden.
+4p    3     Onderzoek welk van de twee sloepen de wedstrijd heeft gewonnen.
+
+            Stel dat een van de acht roeiers in sloep 1 niet mee roeit maar alleen
+            stuurt en dat voor de overige zeven roeiers het gemiddelde geleverde
+            vermogen P per roeier 73,1 watt blijft. Volgens de formules zou dan de
+            gemiddelde snelheid van deze sloep - met nu dus zeven roeiers - lager
+            zijn dan de 2,62 m/s in de tabel.
+3p    4     Bereken de gemiddelde snelheid van sloep 1 in m/s in deze situatie.
+            Geef je eindantwoord in twee decimalen.
+
+            De gemiddelde snelheid v van sloep 1 ligt ook tijdens andere wedstrijden
+            tussen 2 en 3 m/s. Voor de waarde W van sloep 1 geldt:
+                           21,36
+                   W                                            (formule 3)
+                        1  0,05  v 2
+            Met formule 3 kan voor sloep 1 beredeneerd worden dat hoe groter de
+            waarde van v is, hoe groter de waarde van W is.
+3p    5     Geef deze redenering. Het geven van een getallenvoorbeeld of een
+            verwijzing naar een grafiek is niet voldoende.
+
+
+
+
+HA-1025-a-25-2-o                                 5 / 11                                lees verder ►►►
+      Een exponentiële functie
+
+
+                                                        13 
+                                                                x 2
+            De functie f wordt gegeven door f ( x)                    .
+
+            Op de grafiek van f ligt punt A met y-coördinaat 4.
+                                                                            p
+            De x-coördinaat van A kan geschreven worden in de vorm x           log(q) .
+3p    6     Bereken exact mogelijke waarden van p en q.
+
+            Op de grafiek van f ligt het punt B zodanig dat B de rechterbovenhoek is
+            van een vierkant waarvan twee zijden samenvallen met de assen.
+            De oorsprong O (0, 0) is de linkeronderhoek van dit vierkant.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+4p    7     Bereken de oppervlakte van het vierkant. Geef je eindantwoord in één
+            decimaal.
+
+                                                                                           x
+            De grafiek van f ontstaat door op de standaardgrafiek met formule y  3
+            de volgende twee transformaties toe te passen:
+                  eerst een horizontale verschuiving 2 naar links;
+                  dan een vermenigvuldiging ten opzichte van de y-as met -1.
+3p    8     Bewijs dat de grafiek van f inderdaad ontstaat door op deze
+            standaardgrafiek de twee genoemde transformaties toe te passen.
+
+
+
+
+HA-1025-a-25-2-o                              6 / 11                             lees verder ►►►
+      Een wortelfunctie
+
+            De functie f wordt gegeven door f ( x)  16  32 x  576 .
+
+            De grafiek van f heeft randpunt A en snijdt de y-as in het punt B.
+            Verder is gegeven het punt C (0;  10,75) . Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Er geldt: AC  BC
+6p    9     Toon dit op algebraïsche wijze aan.
+
+            De grafiek van f snijdt de x-as in het punt D. De lijn l gaat door de punten
+            C en D en de lijn m raakt de grafiek van f in D. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De hoek tussen l en m is net geen 90 .
+8p    10    Bereken op algebraïsche wijze de scherpe hoek in graden tussen l en m.
+            Geef je eindantwoord in één decimaal.
+
+
+
+HA-1025-a-25-2-o                             7 / 11                              lees verder ►►►
+      Zonnepanelen
+
+            De hoeveelheid energie die een zonnepaneel ontvangt, is afhankelijk van
+            de dag in het jaar en de hellingshoek van het paneel.
+
+            Gedurende een jaar is door een weerstation elke dag de hoeveelheid
+            ontvangen energie E (in Wh) gemeten. Bij deze metingen is een zo
+            passend mogelijk model opgesteld. In figuur 1 is de bijbehorende grafiek
+            getekend. Hierbij is E uitgezet tegen de tijd t in dagen met t  0 op
+            1 januari.
+
+            figuur 1
+
+
+
+
+            De formule die bij het model hoort heeft een periode van 365 dagen en
+            ziet er als volgt uit:
+                   E  p  sin( q  (t  r ))  s            (formule 1)
+5p    11    Bepaal mogelijke waarden van p, q, r en s. Geef de waarde van q in vier
+            decimalen en de waarden van p, r en s als geheel getal.
+
+            Zonnepanelen worden ten opzichte van de                foto
+            grond onder een bepaalde hellingshoek h
+            geplaatst. Zie de foto.
+
+
+
+
+HA-1025-a-25-2-o                                    8 / 11                  lees verder ►►►
+            Om een verband te vinden tussen deze hellingshoek h en de hoeveelheid
+            ontvangen energie, heeft een onderzoeker tien dezelfde zonnepanelen
+            naast elkaar geplaatst, elk onder een verschillende hoek h.
+            Vervolgens heeft hij gemeten hoeveel energie elk zonnepaneel een jaar
+            lang ontvangen heeft. Deze hoeveelheid per zonnepaneel heeft hij
+            vergeleken met de hoeveelheid bij het zonnepaneel met h  0 .
+            De resultaten van zijn onderzoek zijn weergegeven in figuur 2.
+
+            figuur 2
+
+
+
+
+            In figuur 2 is af te lezen dat bij een hellingshoek van 30 graden de
+            zogenaamde ‘tiltfactor’ 1,11 is. Dit betekent dat het zonnepaneel met
+             h  30 in een jaar tijd 11 procent meer energie heeft ontvangen dan het
+            zonnepaneel met h  0 .
+
+            Het zonnepaneel met h  90 heeft de minste energie ontvangen.
+3p    12    Bereken met behulp van figuur 2 hoeveel procent minder energie dit
+            zonnepaneel heeft ontvangen ten opzichte van de optimale situatie met
+            h  30 . Geef je eindantwoord in één decimaal.
+
+            Het verband tussen de tiltfactor T en de hellingshoek h in graden kan voor
+            hellingshoeken tussen 0 en 50 graden benaderd worden door een formule
+            van de vorm:
+                   T  a  h2  b  h  1               (formule 2)
+            Hierin zijn a en b constanten.
+
+            We nemen aan dat de grafiek die bij formule 2 hoort de top (30; 1,11)
+            heeft. Op basis van alleen deze top liggen de waarden van a en b in
+            formule 2 vast. (Verder lezen we dus geen punten af.)
+5p    13    Bereken op algebraïsche wijze deze waarden van a en b.
+            Geef je eindantwoorden in vier decimalen.
+
+
+
+
+HA-1025-a-25-2-o                             9 / 11                          lees verder ►►►
+      Twee driehoeken
+
+            Gegeven is driehoek ABC met AB  6 en BC  5 .
+            Verder is gegeven driehoek CDE met CD  2 , DE  3 en CE  4 .
+            Punt C is het snijpunt van lijnstuk AD en lijnstuk BE. Zie de figuur.
+
+            figuur
+
+
+
+
+            Zijde AC is de enige zijde waarvan de lengte onbekend is.
+7p    14    Bereken op algebraïsche wijze de lengte van deze zijde AC. Geef je
+            eindantwoord in één decimaal.
+
+
+
+
+HA-1025-a-25-2-o                            10 / 11                             lees verder ►►►
+      Punten op een cirkelboog
+
+            De functie f wordt gegeven door f ( x)                     x(4  x) .
+
+            Op de grafiek van f ligt een punt A met x-coördinaat a. De coördinaten
+                                                         
+            van punt A zijn dus a, a(4  a) . Tussen oorsprong O en punt A is een
+            lijnstuk getekend. Zie figuur 1.
+            figuur 1
+
+
+
+
+            De helling van lijnstuk OA is 12 .
+5p    15    Bereken exact de x-coördinaat van A.
+
+            De grafiek van f valt samen met de bovenste helft van een cirkel met
+            middelpunt M (2,0) en straal 2. In figuur 2 is de grafiek van f nogmaals
+            weergegeven, maar nu met daarop een ander punt, punt B. Bovendien is
+            hierin het gebied onder de grafiek van f én boven lijnstuk OB grijs
+            gemaakt. Verder geldt   OMB .
+            figuur 2
+
+
+
+
+            Voor de oppervlakte S van het grijze gebied geldt:
+                   S  2  2sin( ) met  in radialen
+            De positie van punt B is zo gekozen dat oppervlakte S de helft is van de
+            oppervlakte van de halve cirkel.
+5p    16    Bereken hoek  in graden. Geef je eindantwoord als geheel getal.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-25-2-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

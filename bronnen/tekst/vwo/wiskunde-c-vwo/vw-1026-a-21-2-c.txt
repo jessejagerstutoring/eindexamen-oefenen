@@ -1,0 +1,624 @@
+                                                    Correctievoorschrift VWO
+
+                                                                           2021
+                                                                                   tijdvak 2
+
+
+
+
+                                                                          wiskunde C
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+VW-1026-a-21-2-c                              1                               lees verder ►►►
+      3    De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+           beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+           gegeven door het College voor Toetsen en Examens.
+           De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+           verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+           gezag van de gecommitteerde.
+      4    De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+           aantal scorepunten voor het centraal examen vast.
+      5    Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+           komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+           gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+           gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+           hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+           onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+           in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+VW-1026-a-21-2-c                              2                                 lees verder ►►►
+           3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+           3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+           3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                onjuistheid gemoeid zijn.
+      4    Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+           juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+           onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+           worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+           beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+           antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+           gegeven is, worden eveneens geen scorepunten toegekend.
+      5    Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+           tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+           beoordelingsmodel anders is vermeld.
+      6    Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+           worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7    Indien de examinator of de gecommitteerde meent dat in een examen of in het
+           beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+           werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+           fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+           Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+           eventuele fout wordt bij de definitieve normering van het examen rekening
+           gehouden.
+      8    Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+           antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9    Het cijfer voor het centraal examen wordt als volgt verkregen.
+           Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+           wordt meegedeeld aan de directeur.
+           De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+           voor omzetting van score naar cijfer.
+
+  NB1      T.a.v. de status van het correctievoorschrift:
+           Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+           vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+           voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+           De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+VW-1026-a-21-2-c                                3                                  lees verder ►►►
+  NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+           Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+           behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+           standaardformulier voorgeschreven voor de vermelding van de scores van de
+           kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+           verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+           of in gezamenlijk overleg keuzes maken.
+
+  NB3      T.a.v. aanvullingen op het correctievoorschrift:
+           Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+           en een fout.
+           Verduidelijking
+           Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+           antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+           Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+           voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+           Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+           Een fout
+           Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+           fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+           Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+           Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+           spoedig mogelijk verstuurd aan de examensecretarissen.
+           Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+           gevallen vermeldt de aanvulling:
+
+           –       Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+           –       Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+           Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+           moeten worden toegekend.
+
+           Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+           aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+           houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+           rekening met de onvolkomenheid.
+
+
+
+
+VW-1026-a-21-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet-
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+VW-1026-a-21-2-c                              5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag      Antwoord                                                                              Scores
+
+
+
+      Aankoop en verkoop van woningen
+
+      1     maximumscore 2
+                   206 114  261948
+            •                       100 (%)                                                          1
+                        261948
+            •      Het antwoord: (–)21,3(%)                                                           1
+
+            Opmerking
+            Als in het eerste antwoordelement is gedeeld door 206 114, voor deze vraag
+            geen scorepunten toekennen.
+
+      2     maximumscore 4
+            •      De percentages aflezen: (–6;) –0,8; 2,8; 3,6; 5,6(%)                               1
+            •      De groeifactoren 0,94; 0,992; 1,028; 1,036; 1,056                                  1
+            •      De berekening 0,94  0,992 1,028 1,036 1,056  1,0487...                        1
+            •      Het antwoord: 5(%)                                                                 1
+
+            Opmerking
+            Bij het aflezen van de percentages is de toegestane marge 0,2%.
+
+      3     maximumscore 3
+            •      De koper moet 0, 9 191 000 (  171 900) (€) voor de woning betalen                1
+            •      De hoogte van de lening is 1, 08 191 000 (  206 280) (€)                         1
+            •      Het antwoord: 206 280  171 900  34 380 (€)                                       1
+
+      4     maximumscore 4
+            •      De particulier betaalde in totaal 0,9 191 000  41 000 ( 212 900) (€)            1
+            •      V  212 500  194 000 ( 18 500) (€)                                               1
+            •      De terugkoopprijs is
+                   P  0,9 191 000  18 500  0,85  (212 500  18 500  191 000)
+                   ( 192 950) (€)                                                                    1
+            •      Het gevraagde verschil is 212 900  192 950  19 950 (€)                           1
+
+            Opmerking
+            Als is doorgerekend met een in de vorige vraag foutief berekende
+            aankoopprijs, hiervoor geen scorepunten in mindering brengen.
+
+
+
+
+VW-1026-a-21-2-c                                      6                                      lees verder ►►►
+  Vraag      Antwoord                                                                          Scores
+
+
+      5     maximumscore 3
+            •      De formule: P  0,85  M  V  0,775  (T  V  M )                            1
+            •      Haakjes wegwerken: P  0,85  M  V  0,775  T  0,775 V  0,775  M         1
+            •      Het antwoord: P  0,075  M  0,775  T  0, 225 V                            1
+
+
+
+      Insectenafname
+
+      6     maximumscore 4
+            •      Bij t = 27 de hoogte opmeten in de figuur op de uitwerkbijlage
+                   geeft 3 cm                                                                     1
+                                             3
+            •      (In 2016 gold dus) G  1010 (  1,9...)                                        1
+                   1,9...  8, 4
+            •                    100  76, 2... (%)                                             1
+                       8, 4
+            •      Dus een afname van ruim 75% is te verdedigen                                   1
+            of
+            •      25% van 8,4 is 2,1                                                             1
+            •      log(2,1) = 0,32… en 0,32... 10  3, 22...                                     1
+            •      Bij t = 27 de hoogte opmeten in figuur 1 geeft 3 cm                            1
+            •      Dus een afname van ruim 75% is te verdedigen                                   1
+
+            Opmerkingen
+             De toegestane afleesmarge in de figuur op de uitwerkbijlage is 0,1 cm.
+             Als in het derde antwoordelement van het eerste antwoordalternatief is
+               gedeeld door 1,9…, voor deze vraag maximaal 2 scorepunten
+               toekennen.
+
+      7     maximumscore 3
+            •      De vergelijking  0, 028t  0, 924  log(0, 5) moet worden opgelost            1
+            •      Beschrijven hoe de oplossing t  43, 7... kan worden gevonden                  1
+            •      Het antwoord: in het jaar 2033                                                 1
+
+      8     maximumscore 3
+
+                                                             
+                                                                  t
+            •      G  100,924 100,028t ( 100,924  100,028 )                                 1
+
+            •      De jaarlijkse groeifactor is ( 100,028  ) 0,9375…                            1
+            •      Het antwoord: 6,2(%)                                                           1
+
+
+
+
+VW-1026-a-21-2-c                                        7                                lees verder ►►►
+  Vraag      Antwoord                                                                            Scores
+
+
+      Kaartenhuis
+
+      9     maximumscore 2
+            •      Het aantal staande kaarten in de n-de laag is 2n                                 1
+            •      Het aantal liggende kaarten in de n-de laag is n  1 ,
+                   dus K ( n)  2n  n  1  3n  1                                                 1
+
+            of
+            •      Het aantal liggende kaarten in de n-de laag is n  1                             1
+            •      Het aantal staande kaarten in de n-de laag is 2n ,
+                   dus K ( n)  n  1  2n  3n  1                                                 1
+
+     10     maximumscore 5
+            •      K (1)  2 , K (2)  5 , K (3)  8 , K (4)  11 , K (5)  14 en K (6)  17        1
+            •      5 lagen: (2  5  8  11  14 ) 40 kaarten;
+                   6 lagen: (2  5  8  11  14  17 ) 57 kaarten, dat is te veel                 1
+            •      Voor het volgende kaartenhuis zijn (54  40 ) 14 kaarten beschikbaar            1
+            •      2 lagen: (2  5 ) 7 kaarten;
+                   3 lagen: (2  5  8 ) 15 kaarten, dat is te veel                                1
+            •      Er wordt dus één kaartenhuis van 5 lagen gebouwd en twee
+                   kaartenhuizen van 2 lagen (en er blijft geen kaart over)                         1
+
+            Opmerking
+            Als in het tweede antwoordelement niet is aangetoond dat 6 lagen niet kan
+            en/of in het vierde antwoordelement niet is aangetoond dat 3 lagen niet
+            kan, hiervoor in totaal 1 scorepunt in mindering brengen.
+
+     11     maximumscore 3
+            •      De hoogte van een gelijkzijdige driehoek van drie kaarten in het
+                   vooraanzicht is    882  442  76, 2... (mm)                                     1
+                                                                                1000
+            •      (1 meter is 1000 mm, dus) het minimale aantal lagen is                           1
+                                                                                76, 2...
+                                     1000
+            •      Het antwoord: (             13,1... , dus minimaal) 14 (lagen)                  1
+                                     76, 2...
+
+
+
+
+VW-1026-a-21-2-c                                       8                                   lees verder ►►►
+  Vraag      Antwoord                                                                     Scores
+
+
+     12     maximumscore 5
+            Voorbeeld van een juiste tekening:
+
+
+
+
+            •      Het tekenen van de twee verdwijnpunten V1 en V2 en het tekenen
+                   van de horizon                                                            1
+            •      Het tekenen van de twee verdwijnlijnen van bovenrand AB naar
+                   verdwijnpunt V2                                                           1
+            •      Het tekenen van het verdwijnpunt V3 van diagonaal CD                      1
+            •      Het tekenen van de bovenrand EF: E is het snijpunt van BV3 en AV2;
+                   F is het snijpunt van EV1 en BV2                                          1
+            •      Het afmaken van de perspectieftekening                                    1
+
+            of
+
+
+
+
+VW-1026-a-21-2-c                                   9                                lees verder ►►►
+  Vraag      Antwoord                                                                        Scores
+
+
+
+
+            •      Het tekenen van de twee verdwijnpunten V1 en V2 en het tekenen
+                   van de horizon                                                              1
+            •      Het tekenen van de twee verdwijnlijnen van bovenrand AB naar
+                   verdwijnpunt V2                                                             1
+            •      Met behulp van de diagonalen van rechthoek PQRS en verdwijnpunt V1
+                   de middens M1 en M2 bepalen                                                 1
+            •      Vanuit M1 (of M2) een (verticale) lijn loodrecht op de horizon tekenen;
+                   hiermee bovenrand EF tekenen                                                1
+            •      Het afmaken van de perspectieftekening                                      1
+
+            Opmerkingen
+             Als gevolg van onnauwkeurigheden bij het tekenen kunnen redelijk
+               grote afwijkingen voorkomen. Bij correctie dient daarmee coulant te
+               worden omgegaan.
+             De niet-zichtbare kaartranden en de hulplijnen mogen als
+               doorgetrokken lijnen getekend zijn.
+
+
+
+
+VW-1026-a-21-2-c                                   10                                 lees verder ►►►
+  Vraag      Antwoord                                                                            Scores
+
+
+      Volvo Ocean Race
+
+     13     maximumscore 3
+            •      Als in alle havenraces alle teams zouden zijn gefinisht, dan zouden er in
+                   totaal ( 9  (7  6  5  4  3  2  1)  ) 252 punten behaald zijn            1
+            •      Er zijn in totaal ( 56  41  49  39  26  21  17  ) 249 punten
+                   behaald                                                                         1
+            •      Als drie teams in één havenrace niet finishen, worden er ( 1  2  3  )
+                   6 punten niet behaald (en er zijn 252  249  3 punten niet verdiend),
+                   dus het is niet mogelijk                                                        1
+
+     14     maximumscore 3
+            Voorbeeld van een juist antwoord:
+            • Vanwege het bonuspunt van team D hebben de drie beste teams
+               allemaal 65 punten                                                                  1
+            • Elk team dat in de laatste etappe de finish haalt, krijgt een verschillend
+               aantal punten, dus daarmee ligt de einduitslag vast                                 1
+            • De twee havenraces kunnen alleen de einduitslag veranderen als ten
+               minste twee teams op een gelijk aantal punten eindigen, dit kan alleen
+               als ten minste twee teams in de laatste etappe de finish niet halen                 1
+
+     15     maximumscore 2
+            •      Het gebruik van de implicatiepijl                                               1
+            •      Het antwoord:  S (4)  T (3)   H                                             1
+
+
+            Opmerking
+            Als bij het antwoord geen haakjes zijn geplaatst om S (4)  T (3) , hiervoor
+            geen scorepunt in mindering brengen.
+
+     16     maximumscore 3
+            •      Het juist vertalen van de implicatiepijl naar een als-dan-bewering              1
+            •      Het juist vertalen van het deel ( S (1)  S (3))                               1
+            •      Het antwoord: (een zin als) ‘Als team T tweede wordt en team S wordt
+                   niet eerste en niet derde in de laatste etappe, dan zijn de havenraces niet
+                   nodig om de einduitslag te bepalen’                                             1
+
+     17     maximumscore 3
+            •      Team S moet dan 8 punten meer halen dan team V                                  1
+            •      Dat kan alleen als team S de laatste etappe wint en team V uitvalt              1
+            •      Het antwoord:   V ( F )  S (1)   H                                         1
+
+
+            Opmerking
+            Als bij het antwoord geen haakjes zijn geplaatst om V ( F )  S (1) , hiervoor
+            geen scorepunt in mindering brengen.
+
+
+
+VW-1026-a-21-2-c                                     11                                  lees verder ►►►
+  Vraag      Antwoord                                                                             Scores
+
+
+      Bevolkingsgroei
+
+     18     maximumscore 3
+            •      Het maximum van
+                   Wlaag  0, 0000513t 4  0, 0196t 3  1,8607t 2  19,825t  2595,5 moet
+                   worden bepaald                                                                    1
+            •      Beschrijven hoe dit maximum kan worden bepaald                                    1
+            •      Het antwoord: (dit geeft t  104,9... en Wlaag  8737, 4... , dus)
+                   8737 (miljoen)                                                                    1
+
+     19     maximumscore 3
+            •      Er moet gelden Whoog  2  Wlaag                                                  1
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                             1
+            •      Het antwoord: (dit geeft t  141,6... , dus) in het jaar 2092                     1
+
+     20     maximumscore 3
+            •      Het tekenen van een geschikte raaklijn (ongeveer bij het jaar 2000)               1
+            •      Het berekenen van de richtingscoëfficiënt van deze lijn                           1
+            •      Het antwoord: 82 miljoen (mensen per jaar)                                        1
+
+            Opmerking
+            Het antwoord moet in het interval [77, 87] miljoen mensen per jaar liggen.
+
+     21     maximumscore 5
+            •      Het inzicht dat 9, 6625  0,973t nadert naar 0 voor grote waarden van t           1
+                                             30 000
+            •      De grenswaarde is dan             12 000 (miljoen) (dus 12 miljard)              1
+                                               2,5
+            •      10% onder de grenswaarde is 0,9 12 000 (= 10 800 (miljoen))                      1
+                                                             30 000
+            •      Beschrijven hoe de vergelijking                            10 800 kan
+                                                      2,5  9, 6625  0,973t
+                   worden opgelost                                                                   1
+            •      Het antwoord: (dit geeft t  129,6... , dus) in het jaar 2080                     1
+
+            Opmerking
+            Als zowel in vraag 19 als in deze vraag een jaartal genoemd wordt dat
+            1 minder is dan het correcte jaartal, hiervoor bij deze vraag geen
+            scorepunt in mindering brengen.
+
+
+
+
+VW-1026-a-21-2-c                                      12                                    lees verder ►►►
+  Vraag      Antwoord                                                                           Scores
+
+
+      Het Rembrandt Lokaal
+
+     22     maximumscore 3
+            •      Voor 2 laagjes: 6  6  6  42 (kleuren)                                        1
+            •      Voor 3 laagjes: 6  6  6  6  6  6  258 (kleuren)                           1
+            •      Het antwoord: (minimaal) 3 (laagjes)                                            1
+
+            Opmerking
+            Voor een berekening met 6  6  36 kleuren voor 2 laagjes en 6  6  6  216
+            kleuren voor 3 laagjes maximaal 1 scorepunt toekennen.
+
+     23     maximumscore 3
+            •      Laag 1 heeft 3 mogelijkheden, de lagen 2, 3 en 4 hebben alle
+                   12 mogelijkheden en laag 5 heeft 13 mogelijkheden, omdat daar ‘leeg’
+                   als extra mogelijkheid bij komt                                                 1
+            •      Totaal dus 3 12 12 12 13  67 392 mogelijke kleurencombinaties              1
+                                         67 392
+            •      Dat zijn gemiddeld             842, 4 (of 842) (kleurencombinaties per
+                                          4  20
+                   werkdag)                                                                        1
+            of
+            •      Bij 4 torentjes zijn er 3 12 12 12 (  5184) mogelijkheden, bij
+                   5 torentjes zijn er 3 12 12 12 12 (  62 208) mogelijkheden                 1
+            •      Totaal dus 5184  62 208  67 392 mogelijke kleurencombinaties                  1
+                                          67 392
+            •      Dat zijn gemiddeld              842, 4 (of 842) (kleurencombinaties per
+                                           4  20
+                   werkdag)                                                                        1
+
+
+
+
+VW-1026-a-21-2-c                                        13                                lees verder ►►►
+  Vraag      Antwoord                                                                      Scores
+
+
+     24     maximumscore 2
+            Voorbeeld van een juist antwoord:
+
+
+
+
+            •      Het tekenen, op een goed zichtbare plaats, van een lijn door de
+                   bovenkanten (of de onderkanten) van de traptreden                         1
+            •      De traptreden zijn even hoog, want de bovenkanten (of de onderkanten)
+                   van de traptreden liggen op één lijn                                      1
+
+
+
+      Compensatiescore
+
+     25     maximumscore 22
+            Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals
+            bedoeld onder 4a en/of fouten bij het afronden van het eindantwoord voor
+            het hele examen maximaal 2 scorepunten.
+            Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+            2 scorepunten in mindering heeft gebracht, kent u hier een
+            compensatiescore toe.
+             Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+                aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+                Voorbeeld:
+                U heeft voor deze fouten in het hele examen 5 scorepunten in
+                mindering gebracht.
+                Ken dan bij deze component een compensatiescore van 3 toe.
+             Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+                compensatiescore van 0 toe.
+
+
+
+
+VW-1026-a-21-2-c                                  14                                lees verder ►►►
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 25 juni te accorderen.
+
+      Ook na 25 juni kunt u nog tot en met 1 juli gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+      6 Bronvermeldingen
+
+      Kaartenhuis
+      foto 1        bron: onurdongel/iStock
+      foto 2        bron: Daniel J. van Ackere - Greenfield-studio.com - 2010
+
+
+      Het Rembrandt Lokaal
+      foto 1        bron: Hielco Kuipers Fotoprodukties
+      foto 2        bron: Studio Maarten Kolk & Guus Kusters
+
+
+
+
+VW-1026-a-21-2-c                                    15                           lees verdereinde
+                                                                                              ►►► 
+

@@ -1,0 +1,375 @@
+                                                      Examen VMBO-KB
+
+                                                                 2018
+                                                                        tijdvak 1
+                                                                 dinsdag 15 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                        wiskunde CSE KB
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 26 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+KB-0153-a-18-1-o
+             OVERZICHT FORMULES:
+
+
+
+             omtrek cirkel =   diameter
+
+
+             oppervlakte cirkel =   straal 2
+
+
+             inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+             inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+             inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud bol = 34    straal 3
+
+
+
+
+KB-0153-a-18-1-o                              2/9                    lees verder ►►►
+      Brood bakken
+
+
+
+
+             Om een rozijnenbrood te bakken, heeft Mannes 400 gram rozijnen-
+             broodmix nodig.
+
+3p    1      Voor 2,5 kg rozijnen-broodmix betaalt Mannes € 6,15.
+              Hoeveel kost 400 gram rozijnen-broodmix? Schrijf je berekening op.
+
+3p    2      Voor elke 100 gram rozijnen-broodmix moet Mannes 70 gram water
+             toevoegen. 1 liter water weegt 1 kg.
+              Hoeveel deciliter water moet hij toevoegen aan 400 gram rozijnen-
+                broodmix? Schrijf je berekening op.
+
+3p    3      Mannes moet ook rozijnen toevoegen.
+             Volgens het recept moet dit 80-100% van het gewicht van de rozijnen-
+             broodmix zijn.
+              Bereken hoeveel gram rozijnen Mannes minimaal aan de 400 gram
+                rozijnen-broodmix moet toevoegen. Schrijf je berekening op.
+
+2p    4      Mannes heeft het mengsel klaar. Hij wil dat het rozijnenbrood om
+             17.30 uur klaar is. Een rozijnenbrood moet 2 uur en 54 minuten in de
+             broodbakmachine.
+              Hoe laat moet hij uiterlijk het mengsel in de broodbakmachine doen?
+                Laat zien hoe je aan je antwoord komt.
+
+
+
+
+KB-0153-a-18-1-o                            3/9                             lees verder ►►►
+      Scholeksters in Nederland
+
+             In Nederland leven steeds minder
+             scholeksters.
+             In 1996 waren er 180 000 scholeksters.
+
+2p    5      Vóór 1996 nam het aantal scholeksters elk
+             jaar met 17 500 af.
+              Bereken hoeveel scholeksters er in 1990
+                 waren. Schrijf je berekening op.
+
+             Na 1996 daalde het aantal scholeksters minder snel. In 1996 waren er
+             180 000 scholeksters. In 1998 waren er 150 000 scholeksters.
+
+3p    6      Ga ervan uit dat de daling lineair is en op deze manier doorgaat.
+              Bereken hoeveel scholeksters er dan in 2002 zouden zijn. Schrijf je
+                berekening op.
+
+             Het bleek echter dat vanaf 1998 het aantal scholeksters nog minder snel
+             afnam. In 1998 waren er 150 000 scholeksters. In 2008 waren er nog
+             110 000 scholeksters. We gaan er weer van uit dat de daling lineair is.
+             Je ziet de grafiek die hierbij hoort.
+
+                aantal 160
+             scholeksters
+               (x 1000) 150
+
+
+                       140
+
+
+                       130
+
+
+                       120
+
+
+                       110
+
+
+                       100
+
+
+                         0
+                         1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+                                                                          jaartal
+
+
+4p    7      Schrijf een formule op die bij de grafiek van 1998 tot 2008 hoort. Neem a
+             voor het aantal scholeksters in duizendtallen en t voor de tijd in jaren met
+             t = 0 in 1998.
+
+2p    8      In totaal waren er in 2012 nog 98 000 scholeksters in Nederland. In 2012
+             leefde 65% van de scholeksters in het noorden van Nederland.
+              Bereken hoeveel scholeksters dit zijn. Schrijf je berekening op.
+
+
+
+KB-0153-a-18-1-o                               4/9                                  lees verder ►►►
+      Sierbestrating
+
+                                                                                 C
+
+
+
+                                                                         D
+                                                                                         B
+                                                                             A
+                                                                     M
+
+
+
+
+             Stratenmaker Jack wil een cirkelvorm leggen van straatstenen zoals op de
+             foto links. Hij wil alleen geen acht stenen om de kleine cirkel heen leggen,
+             maar tien stenen.
+             Jack gaat uit van twee cirkels met hetzelfde middelpunt M. De grote cirkel
+             heeft een straal van 30 cm, de kleine cirkel heeft een straal van 10 cm.
+             Zie de schets hierboven.
+
+             Jack verdeelt de grote cirkel in tien gelijke driehoeken. In de schets is
+             driehoek MBC getekend.
+
+1p    9      Laat met een berekening zien dat hoek M in driehoek MBC 36° is.
+
+2p    10     Bereken hoeveel graden hoek C in driehoek MBC is. Schrijf je berekening
+             op.
+
+             Als Jack weet hoeveel cm BC is, kan hij de stenen op maat maken.
+                           C
+
+
+                                 E
+                   30
+
+                                     B
+
+
+             M
+
+5p    11     Bereken, zonder te meten, hoeveel cm BC is. Schrijf je berekening op.
+             Rond je antwoord af op één decimaal.
+
+
+
+
+KB-0153-a-18-1-o                               5/9                                   lees verder ►►►
+      Zonnebloempitten
+
+             Zonnebloempitten zijn een belangrijke
+             grondstof voor plantaardige olie.
+
+             De hoogte van de zonnebloem tijdens de
+             eerste 50 dagen van de groei is te
+             benaderen met de formule
+
+                   h = 2  1,0932t − 2
+
+             Hierin is h de hoogte in cm en t de tijd in dagen na het zaaien van de
+             zonnebloempitten.
+
+1p    12     Laat met een berekening zien dat de hoogte van de zonnebloem na
+             50 dagen afgerond 170 cm is.
+
+5p    13     Teken op de uitwerkbijlage de grafiek van de hoogte van de zonnebloem
+             voor de eerste 50 dagen. Vul de tabel in. Maak zelf een goede verdeling
+             bij de verticale as.
+
+             Na 50 dagen groeit de zonnebloem nog langzaam door volgens de
+             formule
+
+                   h = 170 + 10    (t  50)
+
+             Hierin is h de hoogte in cm en t de tijd in dagen na het zaaien van de
+             zonnebloempitten.
+
+3p    14     Na 100 dagen is de zonnebloem ongeveer 240 cm hoog. De maximale
+             hoogte van de zonnebloem is 250 cm.
+              Hoeveel dagen na het zaaien heeft de zonnebloem de maximale
+                hoogte bereikt? Laat zien hoe je aan je antwoord komt.
+
+2p    15     Om 1 hectare zonnebloemen te verbouwen, moet je 25 kg
+             zonnebloempitten zaaien. De opbrengst is dan 2000 kg zonnebloempitten.
+             Het gewicht van de opbrengst aan zonnebloempitten is dus veel groter
+             dan het gewicht van de zonnebloempitten die je zaait.
+              Hoeveel keer zoveel? Schrijf je berekening op.
+
+2p    16     Eén persoon gebruikt gemiddeld 17,5 liter zonnebloemolie per jaar. In de
+             hele wereld leven ongeveer 7 miljard mensen. Voor 1 liter zonnebloemolie
+             is 1,5 kg zonnebloempitten nodig.
+              Hoeveel miljard kg zonnebloempitten is er dan nodig per jaar? Schrijf
+                 je berekening op.
+
+
+
+
+KB-0153-a-18-1-o                               6/9                             lees verder ►►►
+      Glas-in-lood-raam
+
+
+
+
+                                                      0,6 m
+
+             Op de foto staat een glas-in-lood-raam met daarin drie cirkels. In elke
+             cirkel zit een ster. In de tekening rechts staat het ontwerp van het raam.
+             De breedte van het raam is 0,6 meter.
+
+4p    17     Het raam bestaat uit een rechthoek en een halve cirkel.
+              Bereken hoeveel m2 de totale oppervlakte van het raam is. Schrijf je
+                berekening op. Geef je antwoord in twee decimalen nauwkeurig.
+
+3p    18     Op de uitwerkbijlage staat één van de cirkels van het raam. De cirkel is
+             draaisymmetrisch over 60°.
+              Teken de ster in de cirkel af.                         C
+
+
+             Eén ster bestaat uit 6 gelijke ruiten. Je ziet
+             een tekening van zo’n ruit. AC = 30 cm en
+             hoek A in driehoek ABS is 30°.
+
+5p    19     Bereken, zonder te meten, hoeveel cm DB
+             is. Schrijf je berekening op.
+                                                              D                       B
+                                                                       S
+3p    20     Bereken hoeveel cm2 de oppervlakte van
+             een ster is. Schrijf je berekening op.
+             Als je geen antwoord hebt gevonden bij
+             vraag 19, neem dan voor DB 19 cm.
+                                                                           30°
+
+
+                                                                        A
+
+
+
+
+KB-0153-a-18-1-o                                7/9                              lees verder ►►►
+      Kruisjes en cirkels
+
+             Je ziet de eerste vierkanten van een reeks figuren. De vierkanten zijn
+             gevuld met kruisjes en cirkels.
+
+
+
+
+             n=1       n=2         n=3            n=4
+
+
+1p    21     Teken de figuur die hoort bij figuurnummer n = 5.
+
+             In de tabel staat het aantal kruisjes en het aantal cirkels bij elk
+             figuurnummer. Deze tabel staat ook op de uitwerkbijlage.
+
+              figuurnummer (n)           1            2          3           4
+              aantal cirkels             1            2          3           4
+              aantal kruisjes            0            2          6          12
+
+3p    22     Hoeveel kruisjes heeft figuurnummer 8? Laat zien hoe je aan je antwoord
+             komt. Je mag de tabel op de uitwerkbijlage gebruiken.
+
+2p    23     Bij welk figuurnummer zijn er 10 keer zoveel kruisjes als cirkels in het
+             vierkant?
+
+             Je ziet de eerste kubussen van een reeks. De zijvlakken van de kubussen
+             zijn op dezelfde manier gevuld met kruisjes en cirkels als de vierkanten uit
+             de vorige vragen.
+
+
+
+
+             n=1        n=2            n=3                 n=4
+
+             Er is een verband tussen het aantal kruisjes op de kubus en het
+             figuurnummer n. De formule die bij dit verband hoort, is
+
+                   aantal kruisjes = 6n2 – 6n
+
+4p    24     Op een kubus zitten 1632 kruisjes.
+              Bereken hoeveel cirkels er op deze kubus zitten. Schrijf je berekening
+                op.
+
+
+KB-0153-a-18-1-o                                8/9                                lees verder ►►►
+      Bijzettafel
+
+             Op de foto zie je een bijzettafel waarvan het tafelblad de vorm heeft van
+             een rechthoekige gelijkbenige driehoek. De schuine zijde is 50 cm.
+
+
+
+
+3p    25     Teken het bovenaanzicht van de bijzettafel op schaal 1 : 10.
+
+             Deze driehoekige tafel (A) is onderdeel van een set van drie tafels, zie de
+             tekening. De tafels A en C zijn hetzelfde. Het tafelblad van tafel B heeft de
+             vorm van een parallellogram.
+
+                   35 cm
+
+
+
+                   A
+
+
+
+
+                       B
+
+
+
+
+                            C
+
+
+
+             Als je de drie tafels tegen elkaar aanzet, krijg je een rechthoekige tafel.
+             De oppervlakte van deze rechthoekige tafel is 2750 cm2 en de breedte is
+             35 cm.
+
+3p    26     Bereken, zonder te meten, hoeveel cm2 de oppervlakte van het tafelblad
+             van tafel B is. Schrijf je berekening op.
+
+
+
+KB-0153-a-18-1-o                              9/9                               lees verdereinde
+                                                                                             ►►► 
+

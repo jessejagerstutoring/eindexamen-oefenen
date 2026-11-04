@@ -1,0 +1,450 @@
+                                                                      Examen VWO
+
+                                                                           2018
+                                                                                          ti
+                                                                                  tijdvak 1
+                                                                         maandag 14 mei
+                                                                         13.30 - 16.30 uur
+
+
+oud programma                                                             wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-h-18-1-o
+      Formules
+
+            Vlakke meetkunde
+
+            Verwijzingen naar definities en stellingen die bij een bewijs mogen worden
+            gebruikt zonder nadere toelichting.
+
+            Hoeken, lijnen en afstanden:
+            gestrekte hoek, rechte hoek, overstaande hoeken, F-hoeken, Z-hoeken,
+            afstand punt tot lijn, driehoeksongelijkheid.
+
+            Meetkundige plaatsen:
+            middelloodlijn, bissectrice, bissectricepaar, middenparallel, cirkel,
+            parabool.
+
+            Driehoeken:
+            hoekensom driehoek, buitenhoek driehoek, congruentie: HZH, ZHH, ZHZ,
+            ZZZ, ZZR; gelijkvormigheid: hh, zhz, zzz, zzr; middelloodlijnen driehoek,
+            bissectrices driehoek, hoogtelijn driehoek, hoogtelijnen driehoek,
+            zwaartelijn driehoek, zwaartelijnen driehoek, gelijkbenige driehoek,
+            gelijkzijdige driehoek, rechthoekige driehoek, Pythagoras, gelijkbenige
+            rechthoekige driehoek, halve gelijkzijdige driehoek.
+
+            Vierhoeken:
+            hoekensom vierhoek, parallellogram, ruit, rechthoek, vierkant.
+
+            Cirkel, koorden, bogen, hoeken, raaklijn, vierhoeken:
+            koorde, boog en koorde, loodlijn op koorde, middellijn, Thales,
+            middelpuntshoek, omtrekshoek, constante hoek, raaklijn, hoek tussen
+            koorde en raaklijn, koordenvierhoek.
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )   sin(t )  sin(u )  2sin  t 2u  cos  t 2u 
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )   sin(t )  sin(u )  2sin  t 2u  cos  t 2u 
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )   cos(t )  cos(u )  2cos  t 2u  cos  t 2u 
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )   cos(t )  cos(u )  2sin  t 2u  sin  t 2u 
+
+
+
+
+VW-1025-h-18-1-o                                     2 / 11                                         lees verder ►►►
+      Een familie van gebroken functies
+
+            Voor elke positieve waarde van a is de functie f a met domein 0,
+            gegeven door
+                                  x 2a
+                   f a ( x)          3
+                                  a x
+            De grafieken van f 1 en f 3 zijn in onderstaande figuur getekend.
+
+
+            figuur
+               y
+
+              1
+
+                         f1           f3
+
+
+
+
+              O               1       2     3    4       5     6       7       8       x
+
+
+
+
+            De grafieken van f 1 en f 3 snijden elkaar in één punt.
+3p    1     Bereken exact de x -coördinaat van dit punt.
+
+            De grafiek van f 1 snijdt de x-as in de punten (1, 0) en (2, 0) . De grafiek
+            van f 1 en de x-as sluiten een vlakdeel in.
+5p    2     Bereken exact de oppervlakte van dit vlakdeel.
+
+            Voor elke waarde van a, met a  0 , heeft de grafiek van f a één top.
+4p    3     Bewijs dat al deze toppen dezelfde y-coördinaat hebben.
+
+
+
+
+VW-1025-h-18-1-o                                3 / 11                             lees verder ►►►
+      Het klimmen van een vliegtuig
+
+            Een vliegtuig komt los van de grond en ‘klimt’ zo snel mogelijk. Naarmate
+            het toestel hoger komt, wordt de lucht ijler. Hierdoor wordt het steeds
+            moeilijker om hoger te komen. Op zekere hoogte is het niet meer mogelijk
+            om verder te klimmen. Deze maximale hoogte wordt het absolute
+            plafond genoemd.
+
+            In deze opgave gebruiken we het volgende model van de hoogte van een
+            eenmotorig vliegtuig op een bepaald moment:
+                                      t 
+                       h(t )  A 1  e k 
+                                         
+            Hierin is:
+             t de tijd in minuten vanaf het moment dat het vliegtuig los van de
+               grond komt;
+             h(t ) de hoogte in ft1) na t minuten;
+             A het absolute plafond in ft;
+             k een positieve constante.
+            De waarden van A en k zijn afhankelijk van het type vliegtuig.
+
+            In de figuur is een globale grafiek van h weergegeven.
+
+            figuur
+            hoogte
+                                    absolute plafond A
+
+
+                                     h
+
+
+
+
+                   O                                              tijd
+
+            Een vliegtuig voert een testvlucht uit. Om het absolute plafond te bepalen
+            wordt tijdens het klimmen op verschillende tijdstippen de hoogte bepaald.
+            Na 10 minuten klimmen is de hoogte 10 760 ft. Na 20 minuten klimmen is
+            de hoogte 16 650 ft. Met deze gegevens kan het absolute plafond van dit
+            vliegtuig worden berekend.
+4p    4     Bereken het absolute plafond van dit vliegtuig in ft. Rond je antwoord af
+            op honderden ft.
+
+            Van een ander vliegtuig is bekend dat k =13,6.
+4p    5     Bereken hoelang na het opstarten dit vliegtuig zich op de helft van zijn
+            absolute plafond bevindt. Rond je eindantwoord af op hele seconden.
+
+
+noot 1       1 ft is één Engelse voet; 1 ft = 30,48 cm
+VW-1025-h-18-1-o                                         4 / 11                lees verder ►►►
+            Het zou veel vermogen van de motor vragen wanneer een vliegtuig op of
+            vlak onder het absolute plafond zou vliegen. Er blijft dan te weinig
+            vermogen over om zijwaarts te kunnen manoeuvreren. Daarom is de
+            hoogte waarop een vliegtuig in de praktijk vluchten maakt, lager dan het
+            absolute plafond.
+
+            Een vliegtuig vliegt meestal op een hoogte die wordt aangeduid als het
+            praktische plafond P. Deze hoogte wordt gedefinieerd als de vlieghoogte
+            waarop de klimsnelheid h' (t ) gelijk is aan 100 ft per minuut.
+
+            Iemand beweert dat P uitgerekend kan worden, uitgaande van de
+            waarden van A en k, met de volgende formule:
+                   P  A  100k
+5p    6     Onderzoek of deze bewering juist is.
+
+
+
+
+VW-1025-h-18-1-o                           5 / 11                           lees verder ►►►
+      Stralen en koorden
+
+            Gegeven zijn een cirkel met middelpunt M en een koorde AB ,
+            met AB  AM . Op BM bevindt zich een punt C zo dat AC  AB .
+            BAC noemen we α . Zie figuur 1. Deze figuur staat ook op de
+            uitwerkbijlage.
+
+            figuur 1
+
+
+                   A
+                    α
+
+
+
+
+                                M
+                          C
+            B
+
+
+
+
+            Er geldt: AMB  α .
+
+4p    7     Bewijs dit.
+
+            In figuur 2 is de situatie van figuur 1 uitgebreid. D is het snijpunt van het
+            verlengde van lijnstuk AC met de cirkel. Ook lijnstuk MD is getekend.
+            Figuur 2 staat ook op de uitwerkbijlage.
+
+            figuur 2
+
+
+                   A
+                   α
+
+
+
+
+                                M
+                          C
+            B
+
+
+
+
+                                      D
+
+
+4p    8     Bewijs dat AMD  3α .
+
+
+VW-1025-h-18-1-o                              6 / 11                             lees verder ►►►
+      Paraboloïde
+
+            De functie f is gegeven door                  figuur 1
+             f ( x)  1  x 2 .                                           y
+            De grafiek van f is een parabool met
+            top T (0, 1) . Verder is gegeven lijn k met                       S
+            vergelijking y  p , met p  1 . Deze lijn                l
+            snijdt de y-as in punt R en de parabool
+                                                                              T
+            in twee punten. Lijn l is de raaklijn aan
+                                                                                   f
+            de parabool in het linker snijpunt. Deze
+            lijn snijdt de y-as in punt S.
+                                                                              R             k
+            Zie figuur 1.
+                                                                                                x
+6p    9     Bewijs dat T het midden is van                                O
+            lijnstuk RS.
+
+
+            Het gebied, begrensd door lijn k,              figuur 2
+            raaklijn l en de y-as, wordt gewenteld om
+            de y-as. Zo ontstaat een kegel. De inhoud
+            van deze kegel is 23 ( p  1) 2 .
+            Het gedeelte van de parabool dat zich
+            boven de lijn k bevindt, wordt ook om de
+            y-as gewenteld. Zo ontstaat een
+            zogenaamde paraboloïde. Zie figuur 2.
+
+            De verhouding van de inhoud van de
+            paraboloïde en de inhoud van de kegel is
+            onafhankelijk van p.
+6p   10     Bewijs dit.
+
+
+
+
+VW-1025-h-18-1-o                              7 / 11                              lees verder ►►►
+      Park-A-Kid
+
+            Een Park-A-Kid is een hekwerk dat dient ter     foto
+            bescherming van baby’s en peuters. Het kan
+            op verschillende plekken in huis worden
+            neergezet. Zie de foto. Het hekwerk ontstaat
+            door meerdere hekjes aan elkaar te
+            bevestigen. Elk hekje is 60 cm breed.
+
+            Een standaard Park-A-Kid bestaat uit zes
+            hekjes. Door de hekjes aan elkaar te
+            bevestigen en ten slotte het einde van het
+            laatste hekje te bevestigen aan het begin
+            van het eerste hekje, ontstaat een box waar
+            een peuter niet zelfstandig uit kan. Zie        figuur 1
+            figuur 1. Als elke twee aan elkaar bevestigde
+            hekjes niet in elkaars verlengde staan, heeft
+            het bovenaanzicht de vorm van een zeshoek.
+
+            We bekijken opstellingen waarbij deze
+            zeshoek kan worden verdeeld in een
+            rechthoek en twee gelijkbenige driehoeken
+            die tegen twee overstaande zijden van de
+            rechthoek aan liggen. De driehoeken hebben
+            tophoek x (in radialen) met 0  x  π . In
+            figuur 2 zijn twee mogelijkheden getekend.
+
+            figuur 2
+                          60
+
+
+                                                            60
+
+
+               x                        x       x                             x
+
+
+
+
+            Voor de oppervlakte A (in cm2) van dergelijke zeshoeken geldt:
+                   A( x)  7200sin( 12 x)  3600sin( x)
+
+5p   11     Bewijs dat deze formule juist is.
+
+
+
+
+VW-1025-h-18-1-o                                8 / 11                       lees verder ►►►
+            De oppervlakte van zo’n zeshoek als hiervoor is maximaal voor een
+            zekere waarde van x.
+5p   12     Bereken exact voor welke waarde van x de oppervlakte maximaal is.
+
+            In de rest van deze opgave bekijken we opstellingen waarbij de
+            zes hekjes van een standaard Park-A-Kid worden gebruikt om een
+            afzetting te maken in een rechte hoek van een kamer. Door ook de muren
+            van de kamer te benutten, kan een groot grondvlak worden verkregen.
+            Er zijn meerdere opstellingen mogelijk. In figuur 3 zijn twee mogelijkheden
+            in bovenaanzicht weergegeven.
+
+            figuur 3
+
+
+
+
+                       I                        II
+
+
+
+
+            Bij opstelling I is het grondvlak een vierkant. Bij opstelling II is het
+            grondvlak te verdelen in zes gelijkbenige congruente driehoeken, zoals in
+            figuur 4 is weergegeven.
+
+            figuur 4
+
+
+
+
+            Bij opstelling II is de oppervlakte van het grondvlak groter dan bij
+            opstelling I.
+6p   13     Bereken het verschil van de twee oppervlaktes. Rond je eindantwoord af
+            op een geheel aantal cm2.
+
+
+
+
+VW-1025-h-18-1-o                            9 / 11                            lees verder ►►►
+      In drieën
+
+            Voor 0  x  π is de functie f gegeven door f ( x )  sin( x ) .
+            De lijnen met vergelijking x  12 π  a en x  12 π  a , met 0  a  12 π ,
+            snijden de grafiek van f in de punten P en Q. Zie de figuur.
+            Het vlakdeel dat wordt ingesloten door de x-as en de grafiek van f wordt
+            door de twee lijnen in drie delen verdeeld. In de figuur zijn deze drie delen
+            aangegeven met U, V en W.
+
+            figuur
+              y
+                           P                             Q
+
+
+
+                      U                V                     W
+
+              O           1
+                          _                        1
+                                                   _                 x
+                          2 – a                   2 + a        
+
+
+            Vanwege de lijnsymmetrie van de sinusgrafiek hebben U en W gelijke
+            oppervlakte voor elke waarde van a.
+
+            Er is een waarde van a waarvoor U, W én V gelijke oppervlakte hebben.
+7p   14     Bereken in dat geval de y-coördinaat van P en Q. Rond je eindantwoord
+            af op twee decimalen.
+
+
+
+
+VW-1025-h-18-1-o                               10 / 11                                lees verder ►►►
+      Evenwijdig
+
+            Gegeven is een driehoek ABC, waarin      figuur 1
+            B groter is dan C . Hierop passen we
+            de volgende constructie toe:
+            - we tekenen de omgeschreven cirkel
+               van driehoek ABC;
+            - we tekenen de raaklijn in A aan de                                      C
+               omgeschreven cirkel van driehoek
+               ABC;                                           A
+            - het snijpunt van deze raaklijn met het                             B
+               verlengde van BC noemen we R;
+                                                                                               m
+            - we tekenen de omgeschreven cirkel
+               van driehoek ABR;                                            R
+            - we tekenen de raaklijn m in R aan deze
+               omgeschreven cirkel.
+
+            Het eindresultaat van deze constructie staat in figuur 1. Deze figuur staat
+            vergroot ook op de uitwerkbijlage.
+            Er geldt dat lijn m evenwijdig is aan lijn AC.
+
+4p   15     Bewijs dat lijn m inderdaad evenwijdig is aan lijn AC.
+
+            In figuur 2 is voor een driehoek ABC de hierboven beschreven constructie
+            toegepast. Van de driehoek is alleen zijde AC gegeven. Bovendien is het
+            resultaat van de constructie gegeven: de lijn m met daarop punt R.
+            Figuur 2 staat ook op de uitwerkbijlage.
+
+            figuur 2
+                              C
+
+
+
+                                         m
+
+
+
+
+                              R
+            A
+
+
+3p   16     Teken in de figuur op de uitwerkbijlage punt B. Licht je werkwijze toe.
+
+
+
+
+VW-1025-h-18-1-o                             11 / 11                            lees verdereinde
+                                                                                             ►►► 
+

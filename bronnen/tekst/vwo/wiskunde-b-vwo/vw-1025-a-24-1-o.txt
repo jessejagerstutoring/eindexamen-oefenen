@@ -1,0 +1,371 @@
+                                                                 Examen VWO
+
+                                                                     2024
+                                                                            tijdvak 1
+                                                                  donderdag 23 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 18 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-24-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u)  sin(t )cos(u)  cos(t )sin(u)
+             sin(t  u)  sin(t )cos(u)  cos(t )sin(u)
+             cos(t  u)  cos(t )cos(u)  sin(t )sin(u)
+             cos(t  u)  cos(t )cos(u)  sin(t )sin(u)
+
+             sin(2t)  2sin(t )cos(t)
+             cos(2t )  cos2 (t )  sin 2 (t )  2cos2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-24-1-o                                       2 / 11                       lees verder ►►►
+      Stijgend en horizontaal
+
+            De functie f wordt gegeven door f ( x)  x5  3 x x .
+            In figuur 1 is de grafiek van f weergegeven.
+
+            figuur 1
+
+
+
+
+            Op de grafiek ligt het punt A (1,  2) .
+3p    1     Bewijs dat de grafiek van f in A stijgt.
+
+            Het lijnstuk PQ is horizontaal en heeft lengte 12 .
+            De eindpunten P en Q van dit lijnstuk liggen op de grafiek van f.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+4p    2     Bereken de x-coördinaat van P. Geef je eindantwoord in drie decimalen.
+
+
+
+
+VW-1025-a-24-1-o                               3 / 11                           lees verder ►►►
+      Wachttijden
+
+            Een wachttijd is de tijd die je op een dienst moet wachten. Denk hierbij
+            bijvoorbeeld aan de tijd die nodig is om een medewerker van een
+            klantenservice aan de telefoon te krijgen of de tijd die nodig is voordat je
+            wordt geholpen bij de bakker.
+
+            In 1909 ontwikkelde de Deense wiskundige Agner Erlang een wiskundig
+            model om te berekenen in hoeveel procent van de gevallen bepaalde
+            wachttijden voorkomen. Dit percentage komt overeen met de oppervlakte
+            onder een grafiek.
+
+            In deze opgave gaan we uit van een dienst waarbij het volgende model
+            van Erlang hoort:
+
+                   f (t )  50e  2 t met t  0
+                                1
+
+
+
+
+            Hierbij is t de tijd in minuten.
+
+            Stel dat je wilt weten in hoeveel procent van de gevallen de wachttijd
+            tussen 3 en 4 minuten ligt. Je bepaalt dan de oppervlakte van het gebied
+            dat wordt ingesloten door de grafiek van f , de t as en de lijnen met
+            vergelijking t  3 en t  4 . Deze oppervlakte blijkt (afgerond) 8,8 te zijn.
+            Dit wil zeggen dat in 8,8% van alle gevallen de wachttijd tussen 3 en 4
+            minuten ligt. Zie de figuur.
+
+            figuur
+
+
+
+
+3p    3     Bereken algebraïsch in hoeveel procent van de gevallen de wachttijd
+            tussen 0 en 3 minuten ligt. Geef je eindantwoord in één decimaal.
+
+
+
+
+VW-1025-a-24-1-o                                  4 / 11                         lees verder ►►►
+            Een wachttijd van meer dan twintig minuten komt in dit voorbeeld zelden
+            voor. Daarom wordt de gemiddelde wachttijd berekend met:
+                          20
+                    1 
+                   100     t  f  t  dt
+                          0
+            Om de gemiddelde wachttijd te kunnen berekenen, maakt iemand gebruik
+                                             1   1  at
+            van het gegeven dat y   t           2
+                                                      e een primitieve is van y  teat
+                                             a   a 
+            (met a  0 ).
+
+                                    1
+                                1  at
+3p    4     Bewijs dat y   t  2
+                                    e inderdaad een juiste primitieve is van y  teat
+                                a  a
+            voor elke waarde van a (met a  0 ).
+
+4p    5     Bereken algebraïsch de gemiddelde wachttijd in minuten voor de situatie
+                                     1t
+            met f (t )  50e 2 . Geef je eindantwoord als geheel getal.
+
+
+
+      Verschuiven
+
+            De functie f wordt gegeven door f ( x)  (3x  7) 2 .
+
+            De grafiek van f wordt naar rechts en omhoog verschoven. Hierdoor
+            ontstaat de grafiek van de functie g.
+
+            De grafiek van g gaat door het punt A  5, 40  . De helling van de raaklijn in
+            A aan de grafiek van g is  6 .
+6p    6     Stel op exacte wijze een functievoorschrift van g op.
+
+
+
+
+VW-1025-a-24-1-o                                  5 / 11                            lees verder ►►►
+      Logaritme, wortel en exponent
+
+
+            De functie f wordt gegeven door f ( x )  2 log    1 8 .
+                                                                    x
+
+
+            De functie g is de inverse functie van f.
+            In de figuur zijn de grafieken van f en g weergegeven.
+
+            figuur
+
+
+
+
+            Het gestippelde lijnstuk in de figuur is het kortst mogelijke verticale
+            lijnstuk dat de grafieken van f en g met elkaar verbindt.
+5p    7     Bereken de lengte van dit lijnstuk. Geef je eindantwoord in twee
+            decimalen.
+
+            Op de grafiek van f ligt punt P met x-coördinaat p en punt Q met
+            x-coördinaat p  1 .
+            Voor elke waarde van p kan het verschil yQ  yP worden bepaald.
+6p    8     Onderzoek op exacte wijze of er een waarde van p is waarvoor dit verschil
+            gelijk is aan 3.
+
+
+
+
+VW-1025-a-24-1-o                              6 / 11                             lees verder ►►►
+      Klavertje drie
+
+            Het punt P beweegt over een baan gegeven door de volgende
+            bewegingsvergelijkingen:
+                    xP (t )  4cos(t )  cos(4t )
+                                                  met t in seconden en 0  t  2π
+                    yP (t )  4sin(t )  sin(4t )
+            De baan waarover punt P beweegt, is weergegeven in de figuur.
+
+            Het punt Q beweegt ook over deze baan. Punt Q loopt  seconden voor
+            op punt P. De bewegingsvergelijkingen van Q zijn dus:
+                    xQ (t )  4cos(t  π)  cos(4(t  π))
+                                                            met t in seconden en 0  t  2π
+                     yQ (t )  4sin(t  π)  sin(4(t  π))
+            Er zijn twee momenten waarop P en Q recht boven elkaar liggen, dus dan
+            geldt xP  xQ . In de figuur is zo’n situatie weergegeven.
+
+            figuur
+
+
+
+
+5p    9     Bereken exact de afstand tussen P en Q in deze situaties.
+
+                                                                
+            Op tijdstip t  23  bevindt het punt P zich in 2 12 , 2 12 3 . 
+6p   10     Bereken exact de scherpe hoek in graden tussen de raaklijn aan de baan
+            in punt P en de x as.
+
+
+
+VW-1025-a-24-1-o                                  7 / 11                                lees verder ►►►
+      Halve cirkel
+
+            Gegeven zijn de punten A (1, 0) en B (3, 0) . Verder is gegeven de cirkel c
+            met middellijn AB. De lijn k gaat door de oorsprong O en snijdt cirkel c in
+            punt P. De afstand tussen O en P is gelijk is aan 2 12 . In figuur 1 zijn lijn k
+            en de bovenste helft van cirkel c getekend.
+
+            figuur 1
+
+
+
+
+4p   11     Bereken exact de x-coördinaat van P.
+
+            In figuur 2 is de driehoek BRO getekend met  BRO  90  , punt R boven
+            de x-as en OR  1 . De lijn door B en R snijdt c in het punt S. Driehoek BSA
+            is dan een driehoek met  ASB  90  . Vierhoek AORS is grijs
+            weergegeven.
+
+            figuur 2
+
+
+
+
+5p   12     Bereken exact de oppervlakte van vierhoek AORS.
+
+
+
+
+VW-1025-a-24-1-o                               8 / 11                              lees verder ►►►
+      Top, asymptoot en geen perforatie
+
+            Voor elke waarde van a wordt de functie f a gegeven door:
+                                ax 2  2
+                   f a ( x) 
+                                 x2  a
+            Er bestaat geen waarde van a waarvoor de grafiek van f a een perforatie
+            heeft.
+4p   13     Bewijs dit.
+
+            In het volgende onderdeel zijn de mogelijke waarden van a de positieve
+            getallen, dus a  0 .
+
+            De grafiek van f a heeft één top T en deze ligt op de y-as. Verder heeft de
+            grafiek van f a een horizontale asymptoot. Punt S is het snijpunt van de
+            horizontale asymptoot en de y-as. Als voorbeeld is in de figuur de grafiek
+            van f3 weergegeven.
+
+            figuur
+
+
+
+
+            De lengte van lijnstuk ST is afhankelijk van a. Deze lengte heeft een
+            minimum.
+6p   14     Bereken exact voor welke positieve waarde van a de lengte van lijnstuk
+            ST minimaal is.
+
+
+
+
+VW-1025-a-24-1-o                            9 / 11                            lees verder ►►►
+       Vereenvoudigde sterrenkunde
+
+            De Wet van Titius-Bode1) is een wet uit de astronomie die door Johann
+            Titius werd opgesteld in de achttiende eeuw. Deze wet legt een verband
+            tussen het rangnummer van een planeet en de afstand van die planeet
+            tot de zon. Met het rangnummer van een planeet wordt bedoeld: ‘de
+            zoveelste planeet geteld vanaf de zon’. De planeet die het dichtst bij de
+            zon staat krijgt nummer 1, de volgende 2 enzovoorts.
+            De wet luidt:
+                   a  0, 4  0,3  2 n  2
+            Hierin is a de afstand van de planeet tot de zon uitgedrukt in AE
+            (Astronomische Eenheid, 1 AE = afstand van de aarde tot de zon) en is n
+            het rangnummer van de planeet.
+
+            Saturnus heeft volgens de Wet van Titius-Bode een afstand van 10 AE tot
+            de zon.
+2p    15    Bereken exact welk rangnummer Saturnus dan zou hebben.
+
+            We bekijken de planeten            figuur 1 (afstanden in AE)
+            Mars, Venus en de aarde.
+            We gaan uit van het
+            volgende eenvoudige
+            model:
+            De drie planeten draaien
+            ieder in een cirkelvormige
+            baan met de zon als
+            middelpunt. De drie
+            banen liggen in één plat
+            vlak.
+            De afstand van Venus tot
+            de zon is 0,7 AE, de
+            afstand van de aarde tot
+            de zon is 1,0 AE en de
+            afstand van Mars tot de
+            zon is 1,6 AE.
+
+            Het is mogelijk dat de drie planeten op één lijn liggen waarbij Venus
+            precies midden tussen Mars en de aarde in ligt. Deze situatie is
+            weergegeven in figuur 1.
+
+
+
+
+     noot 1 Er is geen wetenschappelijke onderbouwing voor deze wet en er wordt tegenwoordig
+            aangenomen dat de wet alleen berust op een toevallige overeenkomst met de
+            werkelijke afstanden.
+
+
+
+VW-1025-a-24-1-o                               10 / 11                               lees verder ►►►
+            De afstand in AE van de aarde tot Venus is d en hoek AVZ in graden is  .
+            Met behulp van figuur 1 kan het volgende verband tussen d en  worden
+            gevonden:
+                   d 2  0,51     d 2  2,07
+                              
+                    cos()      cos(180  )
+3p   16     Bewijs dat dit verband juist is.
+
+3p   17     Bereken algebraïsch de afstand in AE van de aarde tot Venus in de
+            gegeven situatie. Geef je eindantwoord in twee decimalen.
+
+            Meestal wordt gezegd dat de planeten in ons zonnestelsel om de zon
+            draaien. Dat klopt echter niet helemaal: de zon en de planeten draaien
+            allemaal om hun gemeenschappelijke zwaartepunt.
+
+            Stel dat het zonnestelsel alleen zou bestaan uit Jupiter en de zon. We
+            beschouwen deze twee hemellichamen als twee puntmassa’s.
+            Jupiter is verreweg de zwaarste planeet in ons zonnestelsel met een
+                                   27                                                        8
+            massa van 2 10             kg en een afstand tot de zon van 8 10 km. De zon
+                                                  30
+            heeft een massa van 2 10                  kg. Zie figuur 2 (niet op schaal).
+
+            figuur 2
+
+
+
+
+            De kleine cirkel in figuur 2 is de baan van de zon om het zwaartepunt.
+4p   18     Bereken de straal van deze baan in km. Geef je eindantwoord in
+            honderdduizendtallen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-24-1-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

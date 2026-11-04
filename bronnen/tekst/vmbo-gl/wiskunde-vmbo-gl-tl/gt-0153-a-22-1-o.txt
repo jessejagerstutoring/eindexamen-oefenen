@@ -1,0 +1,330 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2022
+                                                                        tijdvak 1
+                                                                 dinsdag 17 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 69 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-22-1-o
+              OVERZICHT FORMULES:
+
+
+
+              omtrek cirkel =   diameter
+
+
+              oppervlakte cirkel =   straal 2
+
+
+              inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+              inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+              inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+              inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+              inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-o
+                                               2 / 11                 lees verder ►►►
+      Vleermuis
+
+              Op de wereld zijn 1100 verschillende soorten vleermuizen.
+              In Nederland komen 15 verschillende soorten vleermuizen voor.
+
+2p    1       Hoeveel procent van alle verschillende soorten vleermuizen komt in
+              Nederland voor? Schrijf je berekening op.
+
+              De watervleermuis is een soort die in Nederland voorkomt. De grafiek
+              geeft het verband weer tussen het verwachte aantal watervleermuizen en
+              de tijd in jaren.
+
+
+
+
+              De formule die bij deze grafiek hoort, is
+
+                 a = 0,5t2 + 5t + 213
+
+              Hierin is a het aantal watervleermuizen en t de tijd in jaren met t = 0 op
+              1 januari 2015.
+
+2p    2       Hoeveel watervleermuizen waren er op 1 januari 2017 volgens de
+              formule? Schrijf je berekening op.
+
+3p    3       Ga ervan uit dat het aantal watervleermuizen na 2020 volgens deze
+              formule blijft dalen.
+               Bereken op 1 januari van welk jaar het aantal watervleermuizen voor
+                 het eerst onder de 100 zal zijn. Schrijf je berekening op.
+
+3p    4       De grootoorvleermuis is een andere soort die in Nederland voorkomt en
+              juist toeneemt. Op 1 januari 2015 waren er 100 grootoorvleermuizen in
+              Nederland. Dit aantal neemt sindsdien met 6,5% per jaar toe.
+               Bereken hoeveel grootoorvleermuizen er dan op 1 januari 2027 zullen
+                  zijn. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-o
+                                               3 / 11                             lees verder ►►►
+      El Castillo
+
+              In Mexico staat een piramide, genaamd El Castillo. Op de uitwerkbijlage
+              zie je een gedeelte van een kaart. Langs de weg is een uitzichtpunt waar
+              je de piramide goed kunt zien. In punt B staat onderstaand bord om de
+              afstand via de weg tot het uitzichtpunt aan te geven.
+
+
+
+
+3p    5       Geef op de uitwerkbijlage met de letter C aan waar dit uitzichtpunt kan
+              liggen. Laat met een berekening zien hoe je aan je antwoord komt.
+
+              Hieronder zie je een foto en een tekening van de piramide El Castillo. Het
+              grondvlak is een vierkant (PQRS) met zijden van 54 meter. T ligt recht
+              boven het midden van PQRS. Op een hoogte van 24 meter is de piramide
+              afgeknot en daar bevindt zich een tempel met een vierkant grondvlak met
+              zijden van 15 meter.
+
+
+
+
+3p    6       Op de uitwerkbijlage is het begin van het bovenaanzicht van de piramide
+              getekend.
+               Teken de tempel op de juiste plaats in het bovenaanzicht, met de
+                 juiste afmetingen. Laat zien hoe je aan je antwoord komt.
+
+
+
+
+GT-0153-a-o
+                                              4 / 11                            lees verder ►►►
+              We bekijken nu alleen het wiskundige model. Je ziet een tekening van de
+              piramide. M is het midden van grondvlak PQRS met zijden van 54 meter.
+              Hoek N in de driehoek MNT is 51°.
+
+
+
+
+4p    7       Bereken, zonder te meten, hoeveel meter de hoogte MT is. Schrijf je
+              berekening op.
+
+4p    8       De trap naar de tempel loopt van punt N tot punt L en maakt een hoek van
+              51° met de grond. KM = 24 meter. Zie de tekening hieronder.
+
+
+
+
+               Bereken, zonder te meten, hoeveel meter de lengte van LN is. Schrijf
+                je berekening op.
+
+
+
+
+GT-0153-a-o
+                                             5 / 11                           lees verder ►►►
+      Giro d’Italia
+
+              De Giro d’Italia is een meerdaagse wielerwedstrijd, waarbij de wielrenners
+              in meerdere etappes een afstand moeten fietsen.
+
+
+
+
+              De tiende etappe van de Giro d’Italia 2016 was 219 km lang. Tijdens deze
+              etappe moesten de wielrenners verschillende hellingen beklimmen. Van
+              twee hellingen staan gegevens in de tabel.
+
+              naam helling          starthoogte         eindhoogte         horizontale
+                                                                            afstand
+              Pietracolora             275 m              805 m              8700 m
+              Plan del Falco           548 m              1352 m            16 300 m
+
+5p    9       Bereken welke van deze twee hellingen gemiddeld het steilst is. Schrijf je
+              berekening op.
+
+              Een Italiaan heeft deze tiende etappe van 219 km gewonnen in een tijd
+              van 05:44:32 (5 uur, 44 minuten en 32 seconden).
+
+3p   10       Bereken in km/uur de gemiddelde snelheid van de winnende Italiaan
+              tijdens deze tiende etappe. Schrijf je berekening op.
+
+2p   11       Het grootste deel van de wielrenners kwam 27 minuten en 33 seconden
+              later dan de winnaar over de finish.
+               Geef de tijd van het grootste deel van de wielrenners over deze
+                  etappe. Schrijf je antwoord als volgt op: uu:mm:ss.
+
+
+
+
+GT-0153-a-o
+                                               6 / 11                           lees verder ►►►
+4p   12       De tiende etappe was 219 km lang en had 7 hellingen. Deze hellingen zijn
+              in de tekening genummerd. Onder de tekening staat op hoeveel kilometer
+              vanaf de start de top van de helling ligt.
+
+
+
+
+              Een Belgische wielrenner heeft de tiende etappe niet uitgereden en is op
+              één van de hellingen van zijn fiets gestapt. Hij heeft in totaal 3 uur en
+              22 minuten gefietst met een gemiddelde snelheid van 9,6 m/s.
+               Op welke helling is deze wielrenner afgestapt? Schrijf je berekening
+                 op.
+
+
+
+
+GT-0153-a-o
+                                              7 / 11                           lees verder ►►►
+      Cirkels
+
+              In twee vierkanten met zijden van 8 cm zijn cirkels getekend. In het
+              vierkant van figuur 1 is één cirkel getekend. Bij figuur 2 zijn vier even
+              grote cirkels getekend.
+
+                    figuur 1                       figuur 2
+
+
+
+
+3p   13       Laat met een berekening zien dat de oppervlakte van de cirkel van
+              figuur 1 even groot is als de oppervlakte van de vier cirkels samen van
+              figuur 2.
+
+1p   14       Je ziet op de uitwerkbijlage nogmaals figuur 1 en 2. Bij figuur 2 is een
+              gedeelte buiten de cirkels zwart gekleurd.
+               Kleur op de uitwerkbijlage in figuur 1 een gedeelte buiten de cirkel dat
+                 dezelfde oppervlakte heeft als het zwarte gedeelte van figuur 2.
+
+
+
+
+GT-0153-a-o
+                                               8 / 11                              lees verder ►►►
+5p   15       Je ziet vierkant ABCD met zijden van 16 cm. In dit vierkant zijn
+              vier vierkanten getekend met elk zijden van 8 cm.
+
+
+
+
+              In vierkant ABCD zijn vijf cirkels getekend. De middelste cirkel heeft
+              punt M als middelpunt.
+               Bereken, zonder te meten, hoeveel cm de straal van de middelste
+                  cirkel is. Schrijf je berekening op en rond je antwoord af op
+                  één decimaal.
+
+
+
+
+GT-0153-a-o
+                                              9 / 11                             lees verder ►►►
+      Torens van Hanoi
+
+              De Torens van Hanoi is een spel met een aantal schijven. Het doel van
+              het spel is om de complete toren van schijven van het eerste stokje te
+              verplaatsen naar een ander stokje.
+
+
+
+
+              Het spel heeft twee regels. Er mag maar één schijf tegelijk verplaatst
+              worden. En er mag nooit een grotere schijf op een kleinere schijf
+              geplaatst worden.
+
+              De formule hieronder geeft het minimale aantal zetten (verplaatsingen)
+              aan, waarmee je de complete toren van schijven kunt verplaatsen.
+
+                 z = 2n – 1
+
+              Hierin is z het minimale aantal zetten en n is het aantal schijven waarmee
+              het spel gespeeld wordt.
+
+1p   16       Laat met een berekening zien dat met 8 schijven het minimale aantal
+              zetten 255 is.
+
+3p   17       Bij het spelen van dit spel is het gelukt om de toren van schijven te
+              verplaatsen in 50 zetten.
+               Bereken het maximale aantal schijven waarmee dit spel gespeeld kan
+                  zijn. Schrijf je berekening op.
+
+4p   18       Volgens een legende hielden Indiase priesters zich bezig met het
+              verplaatsen van een toren met 64 gouden schijven. Ga ervan uit dat
+              één zet één seconde duurt.
+               Bereken hoeveel miljard jaar het verplaatsen van deze toren minimaal
+                 duurt. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-o
+                                              10 / 11                           lees verder ►►►
+      Regenton
+
+
+
+
+              De regenton van Sven zit vol met water. Vanaf het moment dat Sven het
+              kraantje aan de onderkant van de regenton opendraait, loopt het water
+              eruit. Ga ervan uit dat de hoogte van het water in de regenton daalt
+              volgens de formule
+
+                      (40 - 4 ´ t )
+                 h=
+                          30,8
+
+              Hierin is h de hoogte van het water in de regenton in meter en t de tijd in
+              minuten met t = 0 op het moment dat Sven het kraantje opendraait.
+
+1p   19       Laat met een berekening zien dat de hoogte van het water in de regenton
+              afgerond 1,30 meter is op het moment dat Sven het kraantje opendraait.
+
+4p   20       Teken op de uitwerkbijlage de grafiek die bij de formule hoort. Vul eerst
+              de tabel in en rond de getallen in de tabel af op twee decimalen.
+
+5p   21       De hoogte van het water in een volle regenton is 1,30 meter. Ga ervan uit
+              dat de regenton cilindervormig is, met een straal van 2 dm. Sven wil een
+              gieter met een inhoud van 14 liter vullen. Hij zet de gieter onder het
+              kraantje van de volle regenton en draait het kraantje open en na precies
+              een halve minuut weer dicht.
+               Is de gieter na deze halve minuut helemaal vol? Leg je antwoord uit
+                  met een berekening.
+
+4p   22       Een paar dagen later zit de regenton weer vol met water. Sven zet het
+              kraantje om 13.00 uur open.
+               Bereken hoe laat de regenton volgens de formule helemaal leeg is.
+                 Schrijf je berekening op.
+
+
+GT-0153-a-o
+                                              11 / 11                            lees verdereinde
+                                                                                              ►►► 
+

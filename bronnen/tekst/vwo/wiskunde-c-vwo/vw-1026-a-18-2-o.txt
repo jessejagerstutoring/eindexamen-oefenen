@@ -1,0 +1,539 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                     dinsdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-18-2-o
+      Rijksmuseum
+
+            Op 13 april 2013 heropende           foto
+            het Amsterdamse Rijksmuseum
+            (zie de foto), na een verbouwing
+            van tien jaar. Het museum doet er
+            sindsdien veel aan om publiciteit te
+            genereren: er zijn grote exposities
+            in de tuinen en er worden grote
+            aanwinsten verworven.
+            Ook online timmert het museum
+            aan de weg. Zo is het gedeelte van
+            de website van het museum waar je je eigen collectie kunt samenstellen
+            ongekend populair.
+
+            Het aantal bezoeken aan de website nam van 2 861 948 in 2012 toe tot
+            6 091 312 in 2013. Daarnaast nam het gemiddelde aantal pagina’s dat per
+            bezoek opgevraagd werd toe van 5,62 tot 7,35.
+
+3p    1     Bereken met hoeveel procent het totale aantal opgevraagde pagina’s in
+            2013 is toegenomen ten opzichte van 2012. Rond je antwoord af op
+            gehele procenten.
+
+            Het aantal bezoeken aan de website nam dus toe van 2 861 948 in 2012
+            tot 6 091 312 in 2013. De totale verblijfsduur in 2012 van al die bezoeken
+            samen was 15 025 248 minuten. De totale verblijfsduur in 2013 was
+            3,75 keer zo groot als de totale verblijfsduur in 2012.
+
+3p    2     Bereken hoeveel de gemiddelde verblijfsduur per bezoek in 2013 langer
+            was dan in 2012. Rond je antwoord af op gehele minuten.
+
+            Enige tijd later bracht het Rijksmuseum een publicatie uit over de
+            economische waarde van het Rijksmuseum. Daarin werd beschreven wat
+            (direct of indirect) de bijdrage van een Rijksmuseumbezoeker aan het
+            Nederlandse bruto binnenlands product (BBP) is. Er werd toen nog
+            uitgegaan van 1,5 miljoen bezoekers aan het museum in 2013.
+            Als er meer dan 1,5 miljoen Rijksmuseumbezoekers zijn, dan levert elke
+            Rijksmuseumbezoeker boven die 1,5 miljoen, direct of indirect, een
+            bijdrage van € 110 aan het BBP. In formulevorm: B  110  ( x  1,5) , met B
+            de bijdrage aan het BBP in miljoenen euro’s en x het aantal bezoekers
+            van het museum in miljoenen (met x  1,5 ).
+
+3p    3     Bereken bij hoeveel bezoekers de bijdrage aan het BBP € 200 miljoen is.
+            Rond je antwoord af op tienduizenden bezoekers.
+
+
+
+
+VW-1026-a-18-2-o                             2 / 13                            lees verder ►►►
+            Onder het Rijksmuseum loopt een onderdoorgang, die veelvuldig door
+            voetgangers en fietsers gebruikt wordt. Amsterdammers vreesden dat, na
+            de heropening, de onderdoorgang voor fietsers verboden zou worden,
+            omdat zich hierin ook de ingangen van het museum bevinden en het dan
+            te druk zou kunnen gaan worden.
+
+            Vóór de heropening is dan ook onderzoek gedaan naar het aantal
+            voetgangers dat zich tegelijkertijd zou gaan ophouden in de
+            onderdoorgang. Hierbij was vooral het aantal voetgangers tijdens de
+            piekuren op drukke dagen van belang. Uitgaande van het aantal van
+            2 miljoen jaarlijkse museumbezoekers, andere passanten én rekening
+            houdend met enkele aannames die onder de tabel staan, kan de tabel
+            worden ingevuld. Deze tabel staat ook op de uitwerkbijlage.
+
+            tabel
+            totaal aantal voetgangers (museumbezoekers en passanten samen)
+                     Aantal per dag         gemiddeld     piekuur     minuut in   minuut in
+                                            uur                       een         een
+            Op een…                                                   gemiddeld   piekuur
+                                                                      uur
+            rustige dag
+            gemiddelde dag         15 100
+            drukke dag
+
+                  Op een drukke dag zijn er driemaal zoveel voetgangers als op een
+                   gemiddelde dag; op een rustige dag is dat 1/3e deel van het aantal
+                   voetgangers op een gemiddelde dag.
+                  In een gemiddeld uur loopt er 1/10e deel van het dagelijks aantal
+                   voetgangers, tijdens een piekuur loopt er 1/5e deel van het dagelijkse
+                   aantal.
+                  Elke minuut loopt er 1/60e deel van het aantal dat er in een uur loopt.
+
+            Om een beeld te krijgen van de drukte wordt uit de voorgaande cijfers de
+            voetgangersdichtheid k berekend, het aantal voetgangers per vierkante
+            meter:
+                               aantal voetgangers per minuut
+                   k
+                        60  loopsnelheid  breedte van het voetpad
+            Hierin is de loopsnelheid in m/s en de breedte van het voetpad in m.
+            De gemiddelde loopsnelheid is 0,75 m/s. De beschikbare breedte van de
+            voetpaden in de onderdoorgang is 6 meter. Als de voetgangersdichtheid
+            boven de 0,71 komt, is er sprake van onacceptabele drukte.
+4p    4     Ga met een berekening na of de voetgangersdichtheid op het drukste
+            moment, een minuut tijdens een piekuur op een drukke dag, onder de
+            0,71 blijft. Je kunt hierbij gebruikmaken van de tabel op de uitwerkbijlage.
+
+
+
+VW-1026-a-18-2-o                                 3 / 13                           lees verder ►►►
+      Cupcakes
+
+            Carmen gaat cupcakes (zie foto 1) bakken.                    foto 1
+
+            Zij gebruikt daarvoor de onderstaande ingrediënten:
+
+            Voor 12 vanille cupcakes
+             180 gram boter
+             135 gram suiker
+             8 gram vanillesuiker
+             4 eieren
+             180 gram zelfrijzend bakmeel
+             snufje zout
+
+            Carmen heeft 300 gram suiker in huis en van alle andere ingrediënten
+            heeft ze ruim voldoende. Ze wil zo veel mogelijk cupcakes bakken.
+
+3p    5     Bereken hoeveel cupcakes Carmen maximaal kan bakken.
+
+            Volgens het recept moeten de cupcakes 20 minuten gebakken worden op
+            een temperatuur van 175 C . Carmen weet dat cupcakes gaar zijn als de
+            kerntemperatuur van de cupcakes 95 C is.
+
+            Carmen veronderstelt daarom dat de kerntemperatuur van cupcakes in
+            20 minuten van kamertemperatuur (20 C) stijgt naar 95 C. Als deze
+            toename exponentieel verloopt, dan hoort daar de volgende formule bij:
+                   K  20 1,081t , met K de kerntemperatuur en t de tijd in minuten.
+            Hierbij is t  0 het tijdstip waarop de cupcakes de oven ingaan.
+
+            De groeifactor 1,081 in de formule is afgerond op drie decimalen.
+
+3p    6     Bereken de waarde van deze groeifactor in vijf decimalen nauwkeurig.
+
+            Carmen vraagt zich af of ze ook had kunnen aannemen dat de
+            kerntemperatuur lineair stijgt. Ze wil onderzoeken welk model het beste
+            past: het lineaire of het eerder gebruikte exponentiële model. Daartoe
+            meet Carmen na 12 minuten de kerntemperatuur van haar cupcakes.
+            Deze blijkt 52 °C te zijn.
+
+4p    7     Onderzoek of het lineaire of het exponentiële model het beste past bij
+            deze waarneming.
+
+
+
+
+VW-1026-a-18-2-o                               4 / 13                             lees verder ►►►
+            Het Amerikaanse bedrijf Tasty Layers heeft zich gespecialiseerd in het
+            maken van heel hoge en grote torens van cupcakes. Voor grote feesten en
+            bruiloften maakt Tasty Layers bouwwerken met daarop honderden
+            cupcakes.
+
+            Op foto 2 zie je een voorbeeld van zo’n                   foto 2
+            bouwwerk. De toren op foto 2 heeft 9 lagen.
+
+            Om uit te rekenen hoeveel cupcakes er (ongeveer) op
+            deze toren staan gebruiken we het volgende model:
+
+                    An  1, 4  An1
+                   
+                    A1  6
+
+            In deze formule is An een benadering van het aantal
+            cupcakes op de ne laag, met n  1 voor de bovenste
+            laag.
+
+            Omdat er natuurlijk op iedere laag een geheel aantal cupcakes staat,
+            moeten we de waarden van An op de gebruikelijke manier op helen
+            afronden. Omdat A2  8, 4 komen er 8 cupcakes op de tweede laag, en
+            omdat A3  1, 4  8, 4  11,76 komen er dus 12 cupcakes op de derde laag.
+            Enzovoort.
+            Zo krijg je voor de bovenste vijf lagen 6, 8, 12, 16 en 23 cupcakes, dus in
+            totaal 65 cupcakes.
+
+            In werkelijkheid staan er 300 cupcakes op de toren.
+4p    8     Bereken hoeveel cupcakes het model afwijkt van de werkelijkheid.
+
+            Voor een groot bedrijfsfeest krijgt Tasty Layers de opdracht een
+            cupcaketoren te maken met daarop 1000 cupcakes. Het bedrijf gebruikt
+            voor deze opdracht een toren met op de bovenste laag 6 cupcakes en op
+            elke volgende laag 18 cupcakes meer. We nemen weer n  1 voor de
+            bovenste laag.
+
+4p    9     Stel een formule op voor het aantal cupcakes op de ne laag en bereken
+            daarmee vanaf welke laag er meer dan 160 cupcakes op een laag staan.
+
+
+
+
+VW-1026-a-18-2-o                            5 / 13                             lees verder ►►►
+      Daling nieuwe eerstejaars pabo’s
+
+            De onderstaande tekst is gebaseerd op een artikel van februari 2016 uit
+            het Onderwijsblad van de Algemene Onderwijsbond.
+
+            De pabo’s krijgen gemiddeld een derde minder nieuwe eerstejaars
+            binnen. Schrijnend is de situatie bij de Haagse Hogeschool waar, volgens
+            de cijfers van Vereniging Hogescholen, de instroom keldert met 58%.
+            Het Onderwijsblad voorspelde al een flinke duikeling bij de pabo’s door de
+            vele toelatingstoetsen. Uiteindelijk noteren de pabo’s 1820 nieuwe
+            eerstejaars minder, een daling van 32 procent.
+            Minister Jet Bussemaker is niet verrast. Zij wijt de daling aan de
+            afschaffing van de studiebeurs en de strengere eisen op de pabo’s.
+
+            Het artikel spreekt van een daling van 32% nieuwe eerstejaars in 2015
+            ten opzichte van het jaar ervoor.
+3p   10     Bereken het aantal nieuwe eerstejaars in 2014. Rond je antwoord af op
+            tientallen.
+
+            We kijken nu naar de laatste zin van het artikel.
+            Hiervoor introduceren we de volgende afkortingen:
+            D: daling van het aantal nieuwe eerstejaars
+            A: afschaffing van de studiebeurs
+            S: strengere eisen op de pabo’s
+            Stel nu dat minister Bussemaker met het woordje ‘en’ bedoelt dat de
+            afschaffing van de studiebeurs in combinatie met de strengere eisen op
+            de pabo’s zorgt voor een daling van het aantal nieuwe eerstejaars.
+2p   11     Schrijf dan de uitspraak van minister Bussemaker met behulp van
+            logische symbolen en bovenstaande afkortingen.
+
+            Naar aanleiding van de uitspraak van minister Bussemaker vermoedde
+            men op sommige pabo’s dat het volgende zou gaan gelden: ( A  D)  V
+            Hierin betekent de afkorting V: het collegegeld wordt verlaagd.
+2p   12     Vertaal de bewering ( A  D)  V in een gewone zin.
+
+            Bij sommige pabo’s krijgen studenten aan het begin van hun eerste jaar
+            een rekentoets. Bij een onvoldoende worden ze in de loop van het eerste
+            jaar bijgespijkerd en krijgen ze voor de zomer een nieuwe rekentoets. Als
+            ze hier niet voor slagen, mogen ze niet door naar het tweede jaar.
+            We introduceren weer afkortingen:
+            R: slagen voor rekentoets
+            O: overgaan naar tweede jaar
+3p   13     Onderzoek of R  O volgt uit de tekst hierboven.
+
+
+
+
+VW-1026-a-18-2-o                            6 / 13                           lees verder ►►►
+      Verdwenen piramide?
+
+            Op foto 1 zie je de piramide van het Louvre, die fungeert als ingang voor
+            het museum. Het is een regelmatige vierzijdige piramide met zijvlakken
+            die bestaan uit ruitvormige en driehoekige glazen panelen.
+
+            foto 1
+
+
+
+
+            Sommige mensen beweren dat er in totaal 666 glazen panelen in de
+            wanden verwerkt zijn. Dit is echter niet juist. De drie zijvlakken zonder
+            ingang hebben aan de onderkant elk 18 driehoekige panelen en
+            daarboven 17 rijen ruitvormige panelen. De onderste van deze 17 rijen
+            heeft 17 ruitvormige panelen en de rijen daarboven hebben telkens één
+            paneel minder.
+            Het vierde zijvlak is op dezelfde manier opgebouwd, maar het heeft
+            2 driehoekige en 9 ruitvormige panelen minder doordat daar een opening
+            is voor de ingang.
+            Voor de som van de getallen 1 tot en met n geldt de volgende formule:
+                   som  12 n (1  n)
+3p   14     Bereken het totale aantal glazen panelen in de wanden van de piramide.
+
+            In juni 2016 liet de Franse kunstenaar JR het voorste zijvlak van de
+            piramide beplakken met een reusachtige foto van het gebouw dat zich
+            achter de piramide bevindt. Zie foto’s 2 en 3.
+            foto 2
+
+
+
+
+VW-1026-a-18-2-o                            7 / 13                           lees verder ►►►
+            foto 3
+
+
+
+
+            Precies vanaf de plek waar foto 3 is gemaakt, leek het net alsof de
+            piramide verdwenen was. De maker van foto 4 stond niet precies op deze
+            plek, want de foto op de piramide sluit niet precies aan bij het gebouw
+            daarachter.
+
+            foto 4
+
+
+
+
+3p   15     Leg met behulp van een schets van het zijaanzicht van de situatie uit of
+            de maker van foto 4 dichter bij de piramide stond dan de maker van foto 3
+            of juist verder weg.
+
+
+
+VW-1026-a-18-2-o                           8 / 13                           lees verder ►►►
+            Als het voorste zijvlak van de piramide verticaal was geweest, had de
+            kunstenaar de foto van het gebouw gewoon vergroot op die verticale
+            wand kunnen plakken. Omdat het voorste zijvlak van de piramide schuin
+            is, moest hij de foto bewerken om het juiste effect te krijgen. Om hiervan
+            een indruk te krijgen is in figuur 1 een vereenvoudigde situatie
+            weergegeven. De vierhoek ABCD op de piramide wordt door het oog
+            waargenomen als de verticaal staande rechthoek ABC'D' .
+
+            figuur 1
+
+
+                   piramide        130
+                                                                   325
+                              C
+                                              C'
+                       D                 D'
+
+                                                                             O
+
+
+
+
+                                                                          165
+
+                                                B
+                                              55
+                                          A
+
+
+
+            Het oog bevindt zich op 165 cm hoogte in punt O. Het vlak door O, C, D,
+            C' en D' is horizontaal. In figuur 2 is dit vlak apart getekend met daarin
+            aangegeven de maten in cm.
+
+            figuur 2
+                           130                               325
+            C
+                                  C'
+
+
+
+                                   55                                    O
+
+
+
+                                  D'
+            D
+
+
+            Op de uitwerkbijlage is een begin gemaakt met de tekening van vierhoek
+            ABCD op schaal 1:20.
+6p   16     Maak de tekening op de uitwerkbijlage af. Licht je antwoord toe met
+            berekeningen.
+
+
+
+
+VW-1026-a-18-2-o                                    9 / 13                       lees verder ►►►
+      Het nieuwe vliegen
+
+            Vliegtuigen stoten veel vervuilend CO2 uit. Daarom moet de luchtvaart
+            een belangrijke bijdrage leveren aan de vermindering van de CO 2-uitstoot.
+            De CO2-uitstoot van vliegtuigen wordt gemeten in gram CO2 per
+            zogeheten vliegtuigkilometer. Een vliegtuigkilometer is een afgelegde
+            kilometer door een vliegtuigpassagier.
+            In figuur 1 zie je vanaf het jaar 1970 de jaarlijkse gemiddelde CO2-uitstoot
+            per vliegtuigkilometer.
+
+            figuur 1
+                                   450
+            jaarlijkse gemiddelde
+            CO2-uitstoot in gram
+                                   400
+            per vliegtuigkilometer
+
+                                  350
+
+                                  300
+
+                                  250
+
+                                  200
+
+                                  150
+
+                                  100
+
+                                   50
+
+                                    0
+                                    1970 1980 1990 2000 2010 2020 2030 2040 2050 2060
+                                                                                  jaar
+
+            In figuur 1 is te zien dat de jaarlijkse gemiddelde CO2 -uitstoot per
+            vliegtuigkilometer sinds 1970 sterk daalt.
+
+            In de periode van 1980 tot 2010 is de jaarlijkse gemiddelde CO2-uitstoot
+            per vliegtuigkilometer vrijwel lineair gedaald van 250 tot 135 gram.
+
+            Neem aan dat deze lineaire daling zich zo voortzet.
+3p   17     Bereken in welk jaar de jaarlijkse gemiddelde CO 2-uitstoot per
+            vliegtuigkilometer dan voor het eerst onder de 50 gram zal komen.
+
+
+
+
+VW-1026-a-18-2-o                               10 / 13                              lees verder ►►►
+            Het is niet waarschijnlijk dat de uitstoot lineair zal blijven dalen. Een
+            realistischer model gaat uit van een daling die telkens minder sterk wordt
+            tot een zekere grenswaarde is bereikt. Hiervoor geldt de formule:
+                   C  40  a  bt
+            Hierbij is C de jaarlijkse gemiddelde CO2 -uitstoot per vliegtuigkilometer in
+            grammen en t in jaren met t  0 in 1980.
+
+4p   18     Bereken de waarden van a en b om dit model in overeenstemming te
+            krijgen met de eerder gegeven waarden in 1980 en 2010. Geef in je
+            antwoord a als een geheel getal en b afgerond op drie decimalen.
+
+            In figuur 1 is goed te zien dat de aanvankelijk sterke daling van de
+            jaren 70 steeds minder werd. Daarom wordt ook wel gerekend met een
+            model waarin de jaarlijkse gemiddelde CO2-uitstoot per vliegtuigkilometer
+            in de periode van 1970 tot 2010 exponentieel is gedaald met 2,7% per jaar.
+            Deze daling zal niet het gewenste effect hebben. Het aantal
+            vliegtuigkilometers per jaar stijgt exponentieel. Zie figuur 2. En als het
+            aantal vliegtuigkilometers per jaar blijft stijgen zoals het de afgelopen
+            decennia heeft gedaan, zal de totale jaarlijkse CO2-uitstoot niet dalen
+            maar blijven toenemen.
+
+            figuur 2
+                                       7000
+            aantal vliegtuigkilometers
+               per jaar wereldwijd
+                   in miljarden        6000
+
+                                      5000
+
+                                      4000
+
+                                      3000
+
+                                      2000
+
+                                      1000
+
+                                         0
+                                         1945 1955 1965 1975 1985 1995 2005 2015
+                                                                           jaartal
+
+            Neem aan dat het aantal vliegtuigkilometers per jaar exponentieel blijft
+            toenemen zoals in de periode van 1980 tot 2015 in figuur 2 en dat de
+            jaarlijkse gemiddelde CO2-uitstoot per vliegtuigkilometer blijft dalen met
+            2,7% per jaar.
+6p   19     Bereken met hoeveel procent per jaar de totale jaarlijkse CO2-uitstoot dan
+            stijgt in de komende jaren. Rond je antwoord af op één decimaal.
+
+
+
+VW-1026-a-18-2-o                                 11 / 13                             lees verder ►►►
+      Schildpadden
+
+            Sommige mensen hebben een schildpad als huisdier. Bepaalde soorten
+            houden onder natuurlijke omstandigheden een winterslaap. De eigenaar
+            kan ervoor kiezen om zijn schildpad ook in winterslaap te laten gaan,
+            omdat hij anders de hele winter extra licht en warmte moet geven aan zijn
+            huisdier. Een schildpad moet een gezond gewicht hebben bij het begin
+            van zijn winterslaap, anders is er een kans dat hij het niet overleeft. Om
+            vast te stellen of de schildpad een gezond gewicht heeft, wordt vaak de
+            Jackson Ratio gebruikt.
+                                                                     G
+            De Jackson Ratio R wordt berekend met de formule R         .
+                                                                     L3
+            Hierin is G het gewicht van de schildpad in gram en L de lengte van het
+            schild van de schildpad in cm.
+            Voor de Griekse landschildpad geldt de volgende vuistregel: een
+            schildpad kan veilig aan een winterslaap beginnen als zijn Jackson Ratio
+            tussen 0,18 en 0,22 ligt.
+
+            Jesse heeft een Griekse landschildpad met een schildlengte van 15 cm en
+            wil hem een winterslaap laten houden.
+3p   20     Bereken in hele grammen nauwkeurig tussen welke waarden zijn gewicht
+            dan mag liggen volgens de vuistregel.
+
+            De lengte van het schild moet recht gemeten worden, bijvoorbeeld door
+            de schildpad met ingetrokken kop tussen een schuifmaat te zetten (zie
+            foto 1). Veronderstel dat iemand toch de lengte over het schild heen meet
+            (zie foto 2).
+
+            foto 1                                   foto 2
+
+
+
+
+3p   21     Beredeneer of een schildpad door op die manier te meten een grotere of
+            een kleinere Jackson Ratio krijgt dan hij in werkelijkheid heeft.
+
+
+
+
+VW-1026-a-18-2-o                           12 / 13                           lees verder ►►►
+            Op een Engelse website staat het volgende: als je het gewicht meet in
+            Engelse ponden (lbs) en de schildlengte in inches, kun je de Jackson
+                                                     W
+            Ratio berekenen met de formule R  c  3 .
+                                                     l
+            Hierin is W het gewicht in Engelse ponden en l de schildlengte in inches.
+            1 Engels pond (lb)  454 gram en 1 inch  2,54 cm.
+            De Jackson Ratio moet dan ook weer dezelfde waarde opleveren.
+3p   22     Bereken de waarde van c in deze formule. Rond je antwoord af op één
+            decimaal.
+
+
+
+
+VW-1026-a-18-2-o                           13 / 13                           lees verdereinde
+                                                                                          ►►► 
+

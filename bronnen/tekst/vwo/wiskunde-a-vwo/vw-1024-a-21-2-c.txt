@@ -1,0 +1,818 @@
+                                                    Correctievoorschrift VWO
+
+                                                                           2021
+                                                                                   tijdvak 2
+
+
+
+
+                                                                          wiskunde A
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+VW-1024-a-21-2-c                              1                               lees verder ►►►
+      3    De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+           beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+           gegeven door het College voor Toetsen en Examens.
+           De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+           verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+           gezag van de gecommitteerde.
+      4    De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+           aantal scorepunten voor het centraal examen vast.
+      5    Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+           komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+           gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+           gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+           hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+           onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+           in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+VW-1024-a-21-2-c                              2                                 lees verder ►►►
+           3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+           3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+           3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                onjuistheid gemoeid zijn.
+      4    Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+           juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+           onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+           worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+           beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+           antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+           gegeven is, worden eveneens geen scorepunten toegekend.
+      5    Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+           tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+           beoordelingsmodel anders is vermeld.
+      6    Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+           worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7    Indien de examinator of de gecommitteerde meent dat in een examen of in het
+           beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+           werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+           fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+           Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+           eventuele fout wordt bij de definitieve normering van het examen rekening
+           gehouden.
+      8    Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+           antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9    Het cijfer voor het centraal examen wordt als volgt verkregen.
+           Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+           wordt meegedeeld aan de directeur.
+           De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+           voor omzetting van score naar cijfer.
+
+  NB1      T.a.v. de status van het correctievoorschrift:
+           Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+           vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+           voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+           De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+VW-1024-a-21-2-c                                3                                  lees verder ►►►
+  NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+           Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+           behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+           standaardformulier voorgeschreven voor de vermelding van de scores van de
+           kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+           verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+           of in gezamenlijk overleg keuzes maken.
+
+  NB3      T.a.v. aanvullingen op het correctievoorschrift:
+           Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+           en een fout.
+           Verduidelijking
+           Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+           antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+           Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+           voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+           Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+           Een fout
+           Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+           fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+           Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+           Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+           spoedig mogelijk verstuurd aan de examensecretarissen.
+           Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+           gevallen vermeldt de aanvulling:
+
+           –       Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+           –       Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+           Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+           moeten worden toegekend.
+
+           Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+           aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+           houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+           rekening met de onvolkomenheid.
+
+
+
+
+VW-1024-a-21-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet-
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+VW-1024-a-21-2-c                              5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag      Antwoord                                                                                        Scores
+
+
+      Kopgroep
+
+      1     maximumscore 3
+                                               25
+            •      De vluchters zijn nog           0,5 (uur) onderweg                                          1
+                                               50
+                                      28
+            •      Het peloton is nog      0,52... (uur) onderweg                                              1
+                                      53
+            •      Het peloton haalt de vluchters dus niet in                                                   1
+            of
+                                          25
+            •      De vluchters zijn nog      0,5 (uur) onderweg                                               1
+                                          50
+            •      Het peloton legt (in een half uur) 0,5  53  26,5 (km) af                                   1
+            •      (Dit is minder dan 28 km, dus) het peloton haalt de vluchters niet in                        1
+
+      2     maximumscore 3
+                                                             6  10
+                                                                 60
+                                                                     p2
+            •      De vergelijking 80                                                   moet worden
+                                            3( p  50)  6  10
+                                                             60
+                                                                 p  2  9( p  50) 2
+                   opgelost                                                                                     1
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                                        1
+            •      Het antwoord: ( p  56, 07... dus) 57 (km/uur)                                               1
+
+      3     maximumscore 4
+                    dK 2  0,1 p  ( p  50)  0,1 p 2 1
+            •          
+                    dp              ( p  50)2
+                       dK
+                   (of     2  0,1 p  ( p  50) 1  0,1 p 2  1( p  50) 2 )                             2
+                       dp
+                   dK 0, 2  p 2  0, 2  50 p  0,1 p 2
+            •                                                                                                  1
+                   dp             ( p  50)2
+                                       dK 0,1 p 2  10  p 0,1 p  ( p  100)
+            •      Dit herleiden tot                                                                          1
+                                       dp   ( p  50)2         ( p  50)2
+
+            Opmerkingen
+             Als bij het differentiëren de product- of de quotiëntregel niet is
+               gebruikt, mogen voor het eerste antwoordelement geen scorepunten
+               worden toegekend.
+             Voor het eerste antwoordelement mag voor een niet volledig juist
+               antwoord 1 scorepunt worden toegekend.
+
+
+
+
+VW-1024-a-21-2-c                                             6                                         lees verder ►►►
+  Vraag      Antwoord                                                                             Scores
+
+
+      4     maximumscore 3
+                                   dK
+            •      Een schets van      (met p tussen 50 en 75)                                      1
+                                   dp
+                                   dK
+            •      De grafiek van      ligt voor p tussen 50 en 75 onder de p-as, dus K is voor
+                                   dp
+                   p tussen 50 en 75 een dalende functie                                            1
+            •      De afstand K wordt dus steeds kleiner als p groter wordt                         1
+
+
+
+      Dichtheidshoogte
+
+      5     maximumscore 3
+            •      L(44 000)  6,6... 109                                                         1
+            •      L(45 000) bestaat niet                                                           1
+            •      Het antwoord: (vanaf) 45 (km)                                                    1
+            of
+                                                           0, 0065h
+            •      De formule is niet meer geldig als 1            0                              1
+                                                            288,15
+                                                        0, 0065h
+            •      Beschrijven hoe de vergelijking 1              0 kan worden opgelost           1
+                                                         288,15
+            •      Het antwoord: h  44 330, 7... (m), dus het antwoord: (vanaf) 45 (km)            1
+
+      6     maximumscore 3
+            •      Beschrijven hoe de vergelijking 15  0, 0065h   56, 5 kan worden
+                   opgelost                                                                         1
+            •      De oplossing: h = 11 000                                                         1
+                                                         5,2561
+                                    0, 0065 11 000 
+            •      L  (1013, 25  1                           ) 226,3 (hPa)                    1
+                                        288,15      
+
+
+
+
+VW-1024-a-21-2-c                                         7                                 lees verder ►►►
+  Vraag      Antwoord                                                                                  Scores
+
+
+      7     maximumscore 5
+                                                             4,2561
+                                              0, 0065h            0, 0065
+            •       L'  5, 2561 1013, 25   1               
+                                                  288,15          288,15
+                   (of een gelijkwaardige uitdrukking)                                                    2
+                                                 0, 0065h 
+            •      Als h toeneemt, neemt 1                  af                                          1
+                                                   288,15 
+                                                    0, 0065h 
+            •      ( L' is steeds negatief en) als 1            afneemt, wordt L' steeds
+                                                       288,15 
+                   minder negatief                                                                        1
+            •      L is dus afnemend dalend                                                               1
+
+            Opmerkingen
+             Als bij het differentiëren de kettingregel niet is gebruikt, mogen voor
+               het eerste antwoordelement geen scorepunten worden toegekend.
+             Voor het eerste antwoordelement mag voor een niet volledig juist
+               antwoord 1 scorepunt worden toegekend.
+
+      8     maximumscore 4
+                                                                                 5,2561
+                                                                    0, 0065h 
+            •      Beschrijven hoe de vergelijking 1013, 25  1                        990
+                                                                          288,15 
+                   kan worden opgelost                                                                    1
+            •      De oplossing: h  195, 3...                                                            1
+            •      Bij hP  195,3... hoort TP  15  0, 0065 195,3... ( 13, 7...)                       1
+            •      D  195,3...  36,576  (21, 4  13, 7...)  475,8... , dus het antwoord is
+                   476 (m)                                                                                1
+
+      9     maximumscore 3
+            •      TP  15  0, 0065  (8, 23  (1013, 25  M ))                                          1
+            •      a  (  0, 0065  8, 23   1 )0, 053                                                 1
+            •      b  (15  0, 0065  8, 23 1013, 25 )  39, 204                                       1
+
+
+
+
+VW-1024-a-21-2-c                                         8                                       lees verder ►►►
+  Vraag      Antwoord                                                                           Scores
+
+
+      Beweging
+
+     10     maximumscore 4
+                                                 5,70
+            •      De evenwichtsstand is a           2,85                                      1
+                                                   2
+                                         1,90
+            •      De amplitude is b          0,95 en de periode blijft gelijk, dus
+                                           2
+                        
+                   c(     ) 0,14                                                                 1
+                        22
+                           
+            •      Uit c      volgt dat de periode 4 4 is                                         1
+                           22
+            •      De grafiek gaat bij x  14  44 stijgend door de evenwichtsstand dus
+                   d  11                                                                          1
+            of
+                                                 5,70
+            •      De evenwichtsstand is a           2,85                                      1
+                                                   2
+                                     1,90
+            •      De amplitude is         0,95 en de periode blijft gelijk, dus
+                                       2
+                        
+                   c(     ) 0,14                                                                 1
+                        22
+            •      Wegens symmetrie: de grafiek gaat dalend door de evenwichtsstand bij
+                   x  33                                                                          1
+            •      Dus b   0, 95 en d  33                                                       1
+
+     11     maximumscore 5
+            •      Een formule die hoort bij de binnenrand van de linker balk in de figuur
+                                                   
+                   is y  1,90  1,90sin  ( x  33)                                              1
+                                          22        
+            •      De werkelijke evenwichtsstand en amplitude zijn 1,90  80  152 mm, dit
+                   is 15,2 cm                                                                      1
+                                                                   33  80
+            •      Een x-coördinaat van het beginpunt wordt                 264 cm                1
+                                                                     10
+                                       44  80                             2     
+            •      De periode wordt             352 cm, dit geeft c         (    )              1
+                                          10                               352 176
+                                                                       
+            •      Een formule is y  15, 2  15, 2sin      ( x  264)                           1
+                                                        176             
+
+            Opmerkingen
+             Als het omrekenen van mm naar cm vergeten is, hiervoor in totaal
+               1 scorepunt in mindering brengen.
+             Als de waarde van c wordt gegeven als decimaal getal, hiervoor geen
+               scorepunten in mindering brengen.
+
+
+VW-1024-a-21-2-c                                      9                                   lees verder ►►►
+  Vraag      Antwoord                                                                                           Scores
+
+
+     12     maximumscore 3
+            •      De vergelijking 45  38,0  23,5sin(0, 0172(t  80)) moet worden
+                   opgelost                                                                                       1
+            •      Oplossen van deze vergelijking geeft ( t  97,5... en) t  245, 0...                           1
+            •      De tweede dag (bij t  245, 0... ) is: 3 september                                             1
+
+
+
+      Kaartenhuis
+
+     13     maximumscore 2
+            •      Het aantal staande kaarten in de n-de laag is 2n                                               1
+            •      Het aantal liggende kaarten in de n-de laag is n  1 ,
+                   dus K ( n)  2n  n  1  3n  1                                                               1
+
+            of
+            •      Het aantal liggende kaarten in de n-de laag is n  1                                           1
+            •      Het aantal staande kaarten in de n-de laag is 2n ,
+                   dus K ( n)  2n  n  1  3n  1                                                               1
+
+     14     maximumscore 4
+            •      T (n  1)  32 (n  1)2  12 (n  1)                                                           1
+            •      Dit geeft T (n  1)  32 (n2  2n  1)  12 (n  1)                                            1
+            •      Dus T (n  1)  32 n 2  2 12 n  1                                                            1
+            •      Hieruit volgt T (n)  T (n  1)  32 n2  12 n  ( 32 n 2  2 12 n  1)  3n  1 ( K (n))     1
+
+
+     15     maximumscore 3
+            •      K ( n)  54 geeft n  18,3... , dus het aantal lagen is 18                                     1
+            •      Er geldt T (18)  495                                                                          1
+            •      495  9,1... , dus 10 pakjes speelkaarten                                                      1
+                   54
+
+
+
+
+VW-1024-a-21-2-c                                            10                                          lees verder ►►►
+  Vraag      Antwoord                                                                                Scores
+
+
+     16     maximumscore 4
+            •      T (2)  7 , T (10)  155 en T (11)  187                                             2
+            •      ( 3  54  162 , dus) het eerste kaartenhuis heeft 10 lagen en er blijven
+                   (162  155 ) 7 kaarten over voor het tweede kaartenhuis                             1
+            •      Daarmee kan precies een tweede kaartenhuis van 2 lagen worden
+                   gebouwd                                                                              1
+            of
+            •      ( 3  54  162 , dus) de vergelijking T (n)  162 moet worden opgelost               1
+            •      Beschrijven hoe de oplossing n  10, 2... kan worden gevonden                        1
+            •      Het eerste kaartenhuis heeft 10 lagen en er blijven
+                   (162  155 ) 7 kaarten over voor het tweede kaartenhuis                             1
+            •      T (2)  7 , dus er kan precies een tweede kaartenhuis van 2 lagen worden
+                   gebouwd                                                                              1
+
+            Opmerking
+            Voor het eerste antwoordelement in het eerste antwoordalternatief mag
+            voor een niet volledig juist antwoord 1 scorepunt worden toegekend.
+
+     17     maximumscore 3
+                                  T  24
+                                      1
+                                                                    T  0, 0416...
+            •      (n  16 )2      3
+                                           (of (n  0,166...) 2                   )                    1
+                                    2
+                                                                         1,5
+                                            T  24
+                                                1
+                                                                            T  0, 0416...
+            •      Dit geeft n  16           3
+                                                     (of n  0,166...                     )            1
+                                               2
+                                                                                 1,5
+            •      Het antwoord: n  0, 67T  0, 03  0,17                                              1
+
+
+
+
+VW-1024-a-21-2-c                                             11                                lees verder ►►►
+  Vraag         Antwoord                                                                                        Scores
+
+
+      Bevolkingsgroei
+
+     18     maximumscore 4
+                                 7834 
+                             ln       
+                                  7383 
+            •      r  1000             11,858...                                                               1
+                                   5
+                                                W (10) 
+                                            ln         
+                                                 7383 
+            •      De vergelijking 1000                  11,858... moet worden opgelost                         1
+                                                 10
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                                           1
+            •      Het antwoord: 8313 (miljoen)                                                                    1
+            of
+                                                          7834              W (10) 
+                                                      ln                ln         
+                                                           7383               7834 
+            •      Omdat r gelijk blijft, geldt 1000             1000                                         1
+                                                            5                   5
+                             7834 W (10)
+            •      Dit geeft                                                                                      1
+                             7383 7834
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                                           1
+            •      Het antwoord: 8313 (miljoen)                                                                    1
+
+     19     maximumscore 3
+                                 W (t ) 
+                             ln 
+                                  W (0)            W (t )  r  t
+            •      r  1000              geeft ln                                                             1
+                                   t                 W (0)  1000
+                                          r t
+                             W (t )
+            •      Dit geeft         e1000                                                                        1
+                             W (0)
+                                                     r t
+            •      Hieruit volgt W (t )  W (0)  e 1000    (en dit geeft W (t )  W (0)  e0,001rt )            1
+
+
+
+
+VW-1024-a-21-2-c                                            12                                            lees verder ►►►
+  Vraag      Antwoord                                                                                             Scores
+
+
+     20     maximumscore 4
+            •      De formule van r1  r2 als één breuk schrijven:
+                                       W (t )          W (2t ) 
+                                   ln            ln             
+                                        W (0)           W (t ) 
+                   r1  r2  1000                                                                                  1
+                                                   t
+                                                      W (t ) W (2t ) 
+                                                ln            
+                                                      W (0) W (t ) 
+            •      Dit herleiden tot 1000                                                                           1
+                                                             t
+                                                               W (2t ) 
+                                                          ln 
+                                                                 W (0) 
+            •      Dit vereenvoudigen tot 1000                                                                     1
+                                                                  t
+                                             W (2t )                       W (2t ) 
+                                         ln                            ln 
+                                              W (0)                          W (0) 
+            •      Dus r1  r2  1000                    2 1000                    2r                         1
+                                                t                              2t
+            of
+            •      De formule van r1  r2 als één breuk schrijven:
+                                       W (t )         W (2t ) 
+                                   ln            ln          
+                                        W (0)          W (t ) 
+                   r1  r2  1000                                                                                  1
+                                                   t
+                                                ln W (t )   ln W (0)   ln W (2t )   ln W (t ) 
+            •      Dit herleiden tot 1000                                                                           1
+                                                                            t
+                                                         ln W (2t )   ln W (0) 
+            •      Dit vereenvoudigen tot 1000                                                                      1
+                                                                       t
+                                             W (2t )                     W (2t ) 
+                                         ln                          ln 
+                                              W (0)                        W (0) 
+            •      Dus r1  r2  1000                   2 1000                   2r                           1
+                                                t                            2t
+
+
+
+
+VW-1024-a-21-2-c                                              13                                            lees verder ►►►
+  Vraag      Antwoord                                                               Scores
+
+
+     21     maximumscore 4
+            •      De populatiegroei-ratio voor de periode 2020-2050 is
+                   12, 4  11,8  10, 7  10, 0  9,8  9, 6
+                                                              10, 716...              1
+                                            6
+            •      De factor e 0,001  10,716...  30                                  1
+            •      e0,001  10,716...  30  1,379...                                  1
+            •      Het antwoord: 38(%)                                                 1
+            of
+            •      De populatiegroei-ratio voor de periode 2020-2050 is
+                   12, 4  11,8  10, 7  10, 0  9,8  9, 6
+                                                                10, 716...            1
+                                       6
+            •      W (30)  7834  e0,001  10,716...  30 ( 10 804,6...)             1
+                   10 804, 6...
+            •                    1,379...                                             1
+                      7834
+            •      Het antwoord: 38(%)                                                 1
+
+
+
+
+VW-1024-a-21-2-c                                     14                       lees verder ►►►
+  Vraag      Antwoord                                                                                  Scores
+
+
+      Einduitslag van de Volvo Ocean Race
+
+     22     maximumscore 6
+            •      Het inzicht dat een team nog maximaal 8 punten voor de etappe kan
+                   halen en dat er 0 punten gehaald worden als het team niet finisht                      1
+            •      Het inzicht dat team A vierde wordt in de einduitslag                                  1
+            •      In de top 3 zijn er (3! =) 6 mogelijkheden (omdat alle opties nog open
+                   liggen)                                                                                1
+            •      Het inzicht dat team T niet meer over team V heen kan en dat team S dat
+                   wel kan (als team S 8 punten voor de laatste etappe pakt en team V
+                   0 punten, dan kan team S boven team V eindigen op basis van de
+                   havenraces, omdat er nog maximaal 14 punten voor de havenraces te
+                   verdienen zijn)                                                                        1
+            •      Er zijn voor de onderste drie teams 3 mogelijke volgordes (omdat
+                   team T achter team V eindigt)                                                          1
+            •      In totaal zijn er dus ( 6 1 3  ) 18 mogelijkheden                                   1
+            of
+            •      Het inzicht dat een team nog maximaal 8 punten voor de etappe kan
+                   halen en dat er 0 punten gehaald worden als het team niet finisht                      1
+            •      Voor de eerste plaats zijn er nog 3 mogelijkheden, voor de tweede
+                   plaats zijn er nog 2 mogelijkheden                                                     1
+            •      Daarna liggen de derde en vierde plaats vast                                           1
+            •      Als team V vijfde wordt, zijn er twee mogelijkheden voor de zesde
+                   plaats (en ligt de zevende plaats vast)                                                1
+            •      Als team S vijfde wordt, wordt team V zesde (en ligt ook de zevende
+                   plaats vast)                                                                           1
+            •      In totaal zijn er dus ( 3  2 1 1  (1  2 1  1 1 1)  ) 18 mogelijkheden        1
+
+
+
+
+VW-1024-a-21-2-c                                        15                                       lees verder ►►►
+      Compensatiescore
+
+23    maximumscore 20
+      Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals bedoeld onder 4a
+      en/of fouten bij het afronden van het eindantwoord voor het hele examen maximaal
+      2 scorepunten.
+      Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+      2 scorepunten in mindering heeft gebracht, kent u hier een compensatiescore toe.
+       Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+          aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+          Voorbeeld:
+          U heeft voor deze fouten in het hele examen 5 scorepunten in mindering gebracht.
+          Ken dan bij deze component een compensatiescore van 3 toe.
+       Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+          compensatiescore van 0 toe.
+
+
+
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 25 juni te accorderen.
+
+      Ook na 25 juni kunt u nog tot en met 1 juli gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+
+VW-1024-a-21-2-c                              16                                 lees verder ►►►
+      6 Bronvermeldingen
+
+      Kopgroep
+      foto          bron: Ger Limpens
+
+
+      Beweging
+      foto          bron:
+                    https://nl.wikipedia.org/wiki/lijst_van_beelden_in_Noordwest_en_Overvecht_(Utrecht)
+
+
+      Kaartenhuis
+      foto          bron: onurdongel/iStock
+
+
+
+
+VW-1024-a-21-2-c                                   17                                       lees verdereinde
+                                                                                                         ►►► 
+ aanvulling op het correctievoorschrift                                     2021-2
+
+wiskunde A vwo
+
+Centraal examen vwo
+
+Tijdvak 2
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen wiskunde A vwo:
+
+
+Op pagina 6, bij vraag 2, moet de volgende Opmerking worden toegevoegd:
+
+Opmerking
+Voor het eindantwoord 56 (km/uur) geen scorepunten in mindering brengen.
+
+
+Ik verzoek u dit bericht door te geven aan de correctoren wiskunde A vwo.
+
+Namens het College voor Toetsen en Examens,
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+VW-1024-a-21-2-c-A
+ tweede aanvulling op het correctievoorschrift                              2021-2
+
+wiskunde A vwo
+
+Centraal examen vwo
+
+Tijdvak 2
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen wiskunde A vwo:
+
+
+Op pagina 7 van het correctievoorschrift, bij vraag 5, moeten altijd 3 scorepunten
+worden toegekend, ongeacht of er wel of geen antwoord gegeven is, en ongeacht het
+gegeven antwoord.
+
+Toelichting:
+Sommige rekenmachines hebben geen probleem met het oplossen van de vergelijking
+L = 0. Kandidaten die een rekenmachine gebruiken die deze vergelijking wel kan
+oplossen, hebben een onterecht voordeel bij vraag 5 ten opzichte van de kandidaten die
+een rekenmachine gebruiken die dit niet kan.
+
+
+NB
+a. Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+deze aanvulling op het correctievoorschrift toe in zowel de eigen toegekende scores als
+in de door de eerste corrector toegekende scores en meldt deze wijziging aan de eerste
+corrector. De tweede corrector vermeldt daarbij dat deze late wijziging een gevolg is van
+de aanvulling door het CvTE.
+b. Als eerste en tweede corrector al overeenstemming hebben bereikt over de scores
+van de kandidaten, past de eerste corrector deze aanvulling op het correctievoorschrift
+toe en meldt de hierdoor ontstane wijziging in de scores aan de tweede corrector. De
+eerste corrector vermeldt daarbij dat deze late wijziging een gevolg is van de aanvulling
+door het CvTE.
+c. Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert Cito
+dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren. Dit dient om
+de onderzoeksgegevens gelijk te trekken aan de gegevens zoals die, na wijziging, in de
+schooladministratie voorkomen.
+
+Het CvTE is zich ervan bewust dat dit leidt tot enkele aanvullende handelingen van
+administratieve aard. Deze extra werkzaamheden zijn in het belang van een goede
+beoordeling van de kandidaten.
+
+
+
+
+VW-1024-a-21-2-c-A2
+      Ik verzoek u dit bericht door te geven aan de correctoren wiskunde A vwo.
+
+      Namens het College voor Toetsen en Examens,
+
+      drs. P.J.J. Hendrikse,
+      voorzitter
+
+
+
+
+VW-1024-a-21-2-c-A2
+

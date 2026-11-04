@@ -1,0 +1,598 @@
+                                                                 Examen VWO
+
+                                                                     2023
+                                                                            tijdvak 1
+                                                                  donderdag 11 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 22 vragen.
+ Voor dit examen zijn maximaal 80 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-23-1-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+              naam van de regel                    functie                         afgeleide
+
+               somregel                             s ( x)  f ( x)  g ( x)       s' ( x)  f ' ( x)  g' ( x)
+
+               verschilregel                        v( x)  f ( x)  g ( x)        v' ( x)  f ' ( x)  g' ( x)
+
+               productregel                         p ( x)  f ( x)  g ( x)        p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                                f ( x)                         f ' ( x)  g ( x)  f ( x)  g' ( x)
+               quotiëntregel                        q( x)                         q' ( x) 
+                                                                g ( x)                                      ( g ( x))2
+                                                                                   k' ( x)  f ' ( g ( x))  g' ( x) of
+               kettingregel                         k ( x )  f ( g ( x ))         dk df dg
+                                                                                             
+                                                                                   dx dg dx
+
+
+            Logaritmen
+              regel                                                          voorwaarde
+                   g
+                       log  a   g log  b   g log  ab                 g > 0, g  1, a > 0, b > 0
+
+                                                       a
+                   g
+                       log  a   g log  b   g log                     g > 0, g  1, a > 0, b > 0
+                                                       b
+                   g
+                            
+                       log a p  p  g log  a                              g > 0, g  1, a > 0
+                                   p
+                                       log  a 
+                   g
+                       log  a   p                                         g > 0, g  1, a > 0, p > 0, p  1
+                                       log  g 
+
+
+
+
+VW-1024-a-23-1-o                                                2 / 17                                            lees verder ►►►
+        Duiken
+
+            Karima volgt een duikcursus voor beginners. In het theorieboekje wordt
+            uitgelegd dat er onder water een grotere druk heerst dan boven water.
+            Aan de oppervlakte is de druk 1 bar. Omdat een duiker op grotere diepte
+            lucht inademt onder een hogere druk verbruikt hij zijn luchtvoorraad
+            sneller en is de maximale duiktijd korter.
+            Door het gewicht van het water neemt de druk onder water lineair toe met
+            de diepte: zie de onderstaande tabel.
+
+            tabel
+             diepte          druk
+               0m           1 bar
+              10 m          2 bar
+              20 m          3 bar
+              30 m          4 bar
+              40 m          5 bar
+
+            Een duiker neemt samengeperste lucht mee in een duikfles om onder
+            water te kunnen ademen. Het is van levensbelang om een duik goed te
+            plannen, zodat de duiker nooit zonder lucht komt te zitten. De maximale
+            duiktijd op grond van de beschikbare luchtvoorraad kan volgens het
+            theorieboekje van Karima berekend worden met de volgende formule1):
+                           V (b  e)
+                      T
+                             q p
+            Hierin is T de maximale duiktijd op een vaste diepte in minuten, V de
+            inhoud van de duikfles in liters, zijn b en e de druk in de fles in bar aan het
+            begin respectievelijk aan het eind van de duik, is q het luchtverbruik van
+            de duiker in liter/minuut en p de druk op de duikdiepte.
+
+            Karima is van plan een duik op een diepte van 10 meter uit te voeren. Ze
+            heeft een duikfles met een inhoud van 14 liter die gevuld is met lucht met
+            een druk van 200 bar. Karima weet in eerste instantie haar luchtverbruik
+            niet en maakt gebruik van het gegeven dat het luchtverbruik van een met
+            haar vergelijkbare duiker 18 liter/minuut is. Aan het einde van de duik wil
+            ze als reserve nog minstens 50 bar druk in haar fles hebben.
+3p      1   Bereken met deze gegevens hoeveel minuten haar duik maximaal mag
+            duren. Geef je antwoord in hele minuten.
+
+
+
+     noot 1 Er zijn ook formules waarbij rekening gehouden wordt met de tijdsduur van de duik en
+            de druk tijdens het dalen en stijgen, maar in deze opgave laten we dat buiten
+            beschouwing.
+
+
+
+VW-1024-a-23-1-o                                  3 / 17                                 lees verder ►►►
+            In bovenstaande berekening is voor het luchtverbruik van Karima een
+            waarde van een met haar vergelijkbare duiker gebruikt. Voor een
+            nauwkeuriger berekening wil zij haar individuele luchtverbruik berekenen
+            op basis van gegevens van een vorige duik. Eerder heeft Karima een duik
+            gemaakt met een duikdiepte van 15 meter. Ze begon met een volle
+            duikfles van 14 liter met 200 bar druk. Aan het einde van haar duik, na
+            49 minuten, had ze nog 63 bar druk in haar duikfles.
+4p    2     Bereken haar luchtverbruik in liter per minuut tijdens die duik. Geef je
+            antwoord in één decimaal.
+
+            Om sneller de maximale duiktijd te berekenen, is het handig om in plaats
+            van de druk p op de duikdiepte direct de duikdiepte d in meter in de
+            formule in te kunnen vullen. Hiervoor moet de formule aangepast worden.
+3p    3     Stel met behulp van de tabel een dergelijke formule voor T op.
+
+            Voor een situatie met een fles van 10 liter met een begindruk van 180 bar,
+            een einddruk van 60 bar en een luchtverbruik van een duiker van
+            25 liter/minuut geldt voor de maximale duiktijd de volgende formule:
+                          1200
+                   T
+                        2,5d  25
+            Deze functie is dalend.
+4p    4     Onderzoek met behulp van de afgeleide van T of de maximaal toegestane
+            duiktijd in deze situatie toenemend of afnemend daalt bij grotere
+            duikdiepte.
+
+
+
+
+VW-1024-a-23-1-o                           4 / 17                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-23-1-o                        5 / 17   lees verder ►►►
+      Engelendeel
+
+            Traditioneel gebrouwen whisky wordt enkele jaren in houten vaten
+            opgeslagen om daarin te rijpen. In het algemeen geldt: hoe langer de
+            whisky rijpt, hoe beter hij smaakt. Lang rijpen heeft echter een nadeel:
+            een deel van de whisky gaat verloren doordat deze in het houten vat trekt
+            of verdampt.
+            Het deel van de whisky dat tijdens het rijpen verloren gaat, wordt het
+            engelendeel genoemd. Het engelendeel wordt uitgedrukt in een
+            percentage per jaar.
+
+            Van een bepaald soort whisky is het engelendeel 4,5%. Neem aan dat het
+            engelendeel elk jaar hetzelfde percentage is.
+3p    5     Bereken hoelang het duurt totdat nog maar de helft van de whisky over is.
+            Geef je antwoord in jaren en gehele maanden.
+
+            In werkelijkheid is bij traditioneel gebrouwen whisky het engelendeel niet
+            ieder jaar even groot. Zeker aan het begin van de rijpingsperiode is dit
+            deel een stuk groter, doordat de whisky nog in het hout moet trekken.
+
+            Pappy Van Winkle 23 is een zeer exclusieve whisky die op traditionele
+            wijze geproduceerd wordt en, zoals de naam al suggereert, 23 jaar in een
+            houten vat rijpt voordat hij in flessen gedaan wordt. Op de website van de
+            producent staat het volgende:
+
+            Het rijpingsproces begint met een vat met 200 liter whisky. Het eerste jaar
+            gaat er maar liefst 10% verloren, doordat de whisky in het hout trekt. De
+            8 jaren erna gaat er 4% per jaar verloren en daarna steeds 3% per jaar.
+            Tenslotte gaat er van het eindproduct ook nog 6 liter verloren bij het
+            vullen van de flessen.
+
+            Pappy Van Winkle 23 wordt verkocht in flessen van 750 ml.
+4p    6     Bereken hoeveel van zulke flessen kunnen worden gevuld, uitgaande van
+            200 liter whisky.
+
+
+
+
+VW-1024-a-23-1-o                            6 / 17                            lees verder ►►►
+            De meeste whisky rijpt tegenwoordig niet meer in houten vaten. In plaats
+            daarvan wordt de whisky in grote metalen ketels gedaan en worden er
+            houtsnippers aan toegevoegd. Hierdoor wordt het engelendeel beperkt tot
+            zo’n 3% per jaar. Voor het vervolg van de opgave gaan we ervan uit dat
+            het engelendeel ieder jaar 3% is.
+
+            Bij de massaproductie van whisky wordt ervoor gezorgd dat de totale
+            hoeveelheid whisky gelijk blijft door jaarlijks de ketel weer bij te vullen met
+            nieuw geproduceerde whisky. Hierdoor ontstaat er een mengsel dat maar
+            voor een deel uit de oorspronkelijke whisky bestaat.
+
+            Bijvoorbeeld: Een ketel bevat 500 liter whisky. Na een jaar is daarvan 3%,
+            dus 15 liter, verloren gegaan. Er wordt aan het eind van dat jaar
+            15 liter nieuw geproduceerde whisky in de ketel gedaan, zodat er dan
+            485 liter whisky van 1 jaar oud en 15 liter whisky van 0 jaar oud in zit. Aan
+            het eind van het tweede jaar is er weer 15 liter verloren gegaan en ook dit
+            wordt weer aangevuld met nieuw geproduceerde whisky, enzovoorts.
+
+            In de tabel staat voor een aantal jaren de samenstelling van het mengsel
+            aan het eind van het jaar, in procenten.
+
+            tabel
+                                                leeftijd van de whisky
+                   jaar (n)    n          n –1           n –2        n –3         n –4
+                      0       100           0             0              0          0
+                      1        97           3             0              0          0
+                      2       94,09       2,91            3              0          0
+                      3       91,27       2,82           2,91            3          0
+                      4       88,53       2,74           2,82        2,91          3
+                      5       85,87        …              …           …            …
+
+            In de tabel kun je bijvoorbeeld aflezen dat aan het eind van het 4e jaar
+            88,53% van het mengsel bestaat uit 4 jaar oude whisky, 2,74% uit 3 jaar
+            oude whisky, 2,82% uit 2 jaar oude whisky, 2,91% uit 1 jaar oude whisky
+            en 3% uit nieuw geproduceerde whisky (0 jaar oude whisky).
+
+4p    7     Bereken hoeveel procent van het mengsel aan het eind van het 7e jaar
+            bestaat uit whisky van 5 jaar of ouder. Geef je antwoord in twee
+            decimalen.
+
+
+
+
+VW-1024-a-23-1-o                                7 / 17                           lees verder ►►►
+            Als we alleen kijken naar de later toegevoegde whisky in een bepaald
+            jaar, dan vormen de percentages later toegevoegde whisky’s in dat jaar
+            een meetkundige rij.
+
+            Om te berekenen hoeveel procent van een whiskymengsel bestaat uit
+            later toegevoegde whisky, kun je de termen uit deze meetkundige rij bij
+            elkaar optellen.
+                                     n 1
+            Er geldt dus: T ( n)     W (k ) met W (k )  3  0,97k
+                                     k 0
+            In deze formule is T (n) het percentage later toegevoegde whisky
+            na n jaar en W (k ) het percentage whisky van k jaar oud in het mengsel.
+
+2p    8     Bereken, gebruik makend van bovenstaande somformule, welk
+            percentage van het mengsel na 7 jaar bestaat uit alle later toegevoegde
+            whisky. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1024-a-23-1-o                                 8 / 17                      lees verder ►►►
+       Gewicht in beweging
+
+            Begin deze eeuw deed de bioloog Yunsheng Ma samen met andere
+            biologen onderzoek naar het verband tussen het lichaamsgewicht, de
+            hoeveelheid lichaamsbeweging en het eetpatroon tijdens feestdagen van
+            een groep Amerikanen.
+
+            Bij het onderzoek naar de invloed van beweging op het lichaamsgewicht
+            speelt de MET-waarde1) een rol. De MET-waarde is een eenheid voor de
+            hoeveelheid energie die een bepaalde fysieke activiteit kost ten opzichte
+            van de hoeveelheid benodigde energie in rust. Eén MET komt overeen
+            met de ruststofwisseling, de hoeveelheid energie die verbruikt wordt
+            tijdens stilzitten. De MET-waarde van lichamelijke activiteiten varieert van
+            0,9 MET (tijdens slaap) tot 18 MET (bij zware inspanning). In de tabel is
+            voor een aantal activiteiten de MET-waarde voor volwassen mannen
+            weergegeven.
+
+            tabel
+              activiteit                             MET-waarde 18 jaar en ouder
+              stilzitten                                         1
+              wandelen, rustig, 3-5 km/uur                       3,5
+              wandelen, stevig, 5-6 km/uur                       4,3
+              fietsen, rustig, 16-19 km/uur                      4,0
+              fietsen, stevig, 19-22 km/uur                      8,0
+              hardlopen, algemeen                                8,0
+              wielrennen                                        15,8
+              zwemmen, recreatief                                4,0
+              zwemmen, sportief                                  9,8
+
+            Met behulp van de MET-waarde en de duur van de activiteit kan het
+            aantal MET-minuten of MET-uren van een activiteit berekend worden. Als
+            een volwassen man bijvoorbeeld 45 minuten lang rustig fietst, dan zegt
+            men ook wel dat hij 180 MET-minuten of 3 MET-uren heeft uitgevoerd. Dit
+            gebruikt men om de mate van lichaamsbeweging te beschrijven.
+
+            Een volwassen man wandelt wekelijks met een snelheid van 4 km/uur in
+            2 uur een rondje van 8 km. Hij wil meer MET-uren realiseren en besluit
+            om hetzelfde rondje met een snelheid van 6 km/uur te gaan wandelen. De
+            tijd die ‘overblijft’ van die 2 uur, wordt stilzittend doorgebracht.
+5p     9    Onderzoek of dit voor hem het gewenste resultaat oplevert.
+
+
+     noot 1 MET: Metabolic Equivalent of Task
+
+
+
+VW-1024-a-23-1-o                                9 / 17                         lees verder ►►►
+            Om meer MET-uren te realiseren, wil deze volwassen man per week
+            maximaal 3 keer (op dinsdag, woensdag en/of donderdag) een uur fietsen
+            of een uur hardlopen en daarmee in totaal precies 12 MET-uren
+            realiseren. Hij kan dan bijvoorbeeld hardlopen op dinsdag en rustig
+            fietsen op donderdag. Hij wil op één dag één uur dezelfde activiteit
+            uitvoeren dus wisselen van activiteit na een half uur is voor hem geen
+            optie.
+4p   10     Onderzoek hoeveel verschillende weekindelingen hij kan maken.
+
+            Na de feestdagen blijken Amerikanen gemiddeld zwaarder dan daarvoor.
+            Dat zou mede veroorzaakt kunnen worden door de geringe hoeveelheid
+            lichaamsbeweging in die periode. In figuur 1 is voor de groep onderzochte
+            Amerikanen het verband geschetst tussen de totale fysieke activiteit per
+            dag en de tijd. Hierbij komt t  0 overeen met 1 januari.
+
+            figuur 1
+
+
+
+
+            De totale fysieke activiteit per dag varieert jaarlijks van minimaal
+            29,4 MET-uren per dag tot 30,5 MET-uren per dag. Op 21 december, de
+            kortste dag, is de totale fysieke activiteit per dag minimaal. De totale
+            fysieke activiteit wordt gemodelleerd met een formule van de vorm:
+                   F  a  b sin(c(t  d ))
+            Hierin is F de totale fysieke activiteit in MET-uren per dag en is t de tijd in
+            dagen met t  0 op 1 januari.
+5p   11     Bereken de waarden van a, b, c en d. Geef a en b in twee decimalen, c in
+            vijf decimalen en d in gehelen.
+
+
+
+
+VW-1024-a-23-1-o                              10 / 17                             lees verder ►►►
+            Men heeft ook bijgehouden hoeveel calorieën de deelnemers gemiddeld
+            per dag gedurende het jaar binnenkregen en hoe het gemiddelde gewicht
+            van de deelnemers gedurende het jaar varieerde. Zie figuren 2 en 3.
+
+            figuur 2
+
+
+
+
+            figuur 3
+
+
+
+
+            De gemiddelde calorie-inname wordt gemodelleerd met de formule:
+                   C  2005  45sin(0,0172t  2,3756)
+            Hierin is C de gemiddelde calorie-inname in kcal per dag en is t weer de
+            tijd in dagen met t  0 op 1 januari.
+
+            Het gemiddelde gewicht wordt gemodelleerd met de formule:
+                   G  83,87  0, 24sin(0,0172t  1,1017)
+            Hierin is G het gemiddelde gewicht in kg en is t weer de tijd in dagen met
+            t  0 op 1 januari.
+
+
+
+
+VW-1024-a-23-1-o                             11 / 17                          lees verder ►►►
+            Het grootste verschil in gemiddeld gewicht in een jaar is procentueel
+            gezien kleiner dan het grootste verschil in gemiddelde calorie-inname in
+            een jaar.
+4p   12     Toon dit aan met behulp van de formules.
+
+            Het gemiddelde gewicht is later maximaal dan de gemiddelde calorie-
+            inname.
+3p   13     Bereken hoeveel dagen later dit volgens de formules is.
+
+
+
+
+VW-1024-a-23-1-o                           12 / 17                           lees verder ►►►
+      Vlinders in Nederland
+
+            De Vlinderstichting in Nederland houdt jaarlijks vlindertellingen.
+            Het totaal aantal vlinders is in de periode 1992–2017 met 40%
+            afgenomen. Hierbij vermoedt men een exponentiële trend.
+
+4p   14     Bereken de jaarlijkse procentuele afname in deze periode, uitgaande van
+            de exponentiële trend. Geef je antwoord in één decimaal.
+
+            De heivlinder is een van de vlindersoorten         heivlinder
+            waarvan het aantal sterk is gedaald. Zie
+            figuur 1.
+
+
+
+
+            figuur 1 heivlinders
+
+
+
+
+            In figuur 1 is op de verticale as een logaritmische schaalverdeling
+            gebruikt. Op deze as is niet het aantal heivlinders maar de populatie-
+            index weergegeven. Deze index geeft het percentage heivlinders aan ten
+            opzichte van het totaal aantal heivlinders in 1992. De populatie-index van
+            het jaar 1992 is dus 100. In 1995 is de populatie-index weer (ongeveer)
+            100. Met andere woorden: in 1995 waren er (ongeveer) evenveel
+            heivlinders als in 1992.
+
+            Nadat het aantal heivlinders vanaf 2003 stabiel leek en zich in de periode
+            2011–2013 zelfs wat leek te herstellen, was 2017 weer een rampjaar voor
+            de heivlinder.
+3p   15     Bereken met behulp van de figuur het percentage heivlinders in 2017 ten
+            opzichte van het aantal heivlinders in 1992. Geef je antwoord in één
+            decimaal.
+
+
+
+VW-1024-a-23-1-o                            13 / 17                              lees verder ►►►
+            In figuur 2 zie je dezelfde grafiek als in figuur 1 maar nu is een trendlijn
+            toegevoegd.
+
+            figuur 2 heivlinders met trendlijn
+
+
+
+
+            De trendlijn in figuur 2 hoort bij een exponentieel model voor de afname
+            van de populatie-index. De trendlijn kan worden beschreven met de
+            volgende formule:
+                    log( P)  0,026t  1,8
+            Hierin is P de populatie-index en is t het aantal jaren na 1992.
+
+            Als de trend zich op dezelfde manier blijft doorzetten, zal het aantal
+            getelde heivlinders in een gegeven jaar minder dan 2% zijn van het aantal
+            getelde heivlinders in 1992.
+2p   16     Bereken in welk jaar dat volgens de gegeven formule voor het eerst het
+            geval zal zijn.
+
+            De formule log( P)  0,026t  1,8 kan worden herleid tot een formule van
+                             t
+            de vorm P  b  g waarmee de populatie-index in een bepaald jaar in één
+            keer kan worden berekend.
+4p   17     Geef deze herleiding. Geef b in gehelen en g in drie decimalen.
+
+
+
+
+VW-1024-a-23-1-o                              14 / 17                             lees verder ►►►
+       Zwemtijden en FINA-punten
+
+            Bij wedstrijdzwemmen worden er verschillende zwemnummers
+            gezwommen, bijvoorbeeld de 50 meter rugslag voor heren en de
+            200 meter schoolslag voor vrouwen. Om prestaties bij verschillende
+            zwemnummers met elkaar te vergelijken, wordt gebruikgemaakt van
+            FINA-punten1). Hoe meer FINA-punten, hoe beter de prestatie van een
+            zwemmer.
+
+            Het aantal FINA-punten wordt berekend met de formule:
+                                     3
+                              B
+                     P  1000                     (formule 1)
+                              T 
+            P is hierbij het aantal FINA-punten, T de gezwommen tijd in seconden in
+            twee decimalen en B de basistijd in seconden in twee decimalen. De
+            basistijd2) is het wereldrecord op een zwemnummer aan het begin van
+            het jaar.
+
+            Het aantal FINA-punten is altijd een geheel getal. Als de uitkomst van de
+            formule geen geheel getal is, dan wordt er een geheel getal van gemaakt
+            door alle cijfers achter de komma weg te laten. Zo wordt 345,798
+            bijvoorbeeld 345.
+
+            Gegeven zijn de volgende (basis)tijden:
+             Maarten Brzoskowski zwom in november 2021 de 50 meter vrije slag
+              in 22,26 seconden; de bijbehorende basistijd is 20,16 seconden.
+             Op 16 december 2021 zwom Anne Louise Palmans de 100 meter
+              schoolslag in 1 minuut en 10,25 seconden; de bijbehorende basistijd is
+              1 minuut en 4,13 seconden.
+
+2p    18    Bepaal welke van de twee genoemde zwemmers het hoogste aantal
+            FINA-punten scoorde.
+
+            Omdat het aantal FINA-punten altijd een geheel getal is, is het mogelijk
+            dat verschillende gezwommen tijden bij dezelfde basistijd een gelijk
+            aantal FINA-punten opleveren.
+
+            Als 0,01 s sneller gezwommen wordt dan de basistijd, dan zijn er twee
+            opties voor de bijbehorende score:
+            1 1000 FINA-punten (dit is het geval voor langere basistijden)
+            2 1001 of meer FINA-punten (dit is het geval voor kortere basistijden)
+4p    19    Bereken de grootste basistijd waarbij 0,01 s sneller zwemmen dan de
+            basistijd leidt tot een score van minimaal 1001 FINA-punten. Geef je
+            antwoord in seconden en in twee decimalen.
+
+     noot 1 De FINA is een internationale zwembond: Fédération Internationale de Natation.
+     noot 2 In deze opgave wordt gebruikgemaakt van de basistijden uit 2021.
+
+
+VW-1024-a-23-1-o                                15 / 17                                lees verder ►►►
+            De FINA-punten worden onder andere gebruikt om te bepalen welke
+            zwemmers mee mogen doen aan het NJK (Nederlands junioren-
+            kampioenschap). Voor het NJK wordt een plaatsingslijst gemaakt door per
+            zwemmer voor 6 verschillende zwemnummers het aantal FINA-punten uit
+            te rekenen en deze punten bij elkaar op te tellen. Diegene die in totaal de
+            meeste FINA-punten heeft, komt boven aan de plaatsingslijst, daarna
+            volgt diegene met het een-na-hoogste totaal, et cetera. Op basis van de
+            plaatsingslijst wordt bepaald wie mee mag doen aan het NJK.
+
+            Met formule 1 kan het aantal FINA-punten berekend worden op basis van
+            een gezwommen tijd en een basistijd. Als je als zwemmer bezig bent met
+            je plek op de plaatsingslijst, dan is het nuttig om uit te rekenen welke tijd
+            je moet zwemmen om een bepaald aantal FINA-punten te halen. Dit kan
+            met de formule:
+
+                      10B
+                    T 3                         (formule 2)
+                         P
+
+3p   20     Toon door middel van een herleiding aan dat formule 1 en formule 2 met
+            elkaar overeenkomen.
+
+            De snelste tijd die een zwemmer ooit gezwommen heeft, noemen we het
+            persoonlijk record van die zwemmer. Een van de zwemnummers die
+            gebruikt wordt voor de plaatsingslijst van het NJK is de 100 meter vrije
+            slag. Bij de 100 meter vrije slag voor meisjes is de basistijd 50,25
+            seconden. Er geldt dus:
+
+                    T  502,5  P 1/3           (formule 3)
+
+            In de volgende vraag vergelijken we twee zwemsters. De ene heeft als
+            beste prestatie een tijd staan met een score van 300 FINA-punten, de
+            ander een tijd met een score van 500 FINA-punten.
+            We laten de eis dat FINA-punten altijd een geheel getal zijn buiten
+            beschouwing.
+
+3p   21     Laat met behulp van de formule van de afgeleide zien dat
+            T '(300)  2  T '(500) en leg uit wat de praktische betekenis hiervan voor
+            de zwemsters is.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-23-1-o                             16 / 17                            lees verder ►►►
+      Baby’s in Nigeria
+
+            Nigeria is een dichtbevolkt land in Afrika, met een sterke bevolkingsgroei.
+            Tijdens het WK voetbal in 2018 was Nigeria het deelnemende land met na
+            Brazilië de meeste inwoners en IJsland het deelnemende land met de
+            minste inwoners. Tijdens de wedstrijd tussen IJsland en Nigeria deed de
+            Nederlandse verslaggever Frank Wielaard de volgende uitspraak:
+
+
+                   “In Nigeria komen er tijdens de 26 dagen van dit WK minstens zoveel
+                   baby’s bij als het totale aantal inwoners van IJsland.”
+
+
+            Het is natuurlijk de vraag of deze uitspraak klopt. Om dit uit te zoeken heb
+            je een aantal gegevens nodig. Die volgen hieronder.
+
+            Ten tijde van dit WK had IJsland 341 000 inwoners. In de figuur op de
+            uitwerkbijlage staan de inwoneraantallen van Nigeria voor de jaren 1960
+            tot en met 2009. Neem aan dat de bevolkingsgroei exponentieel is en dat
+            deze exponentiële groei zich tot en met het WK van 2018 heeft
+            voortgezet.
+
+            In het jaar van dit WK heerste er in Nigeria een mannenoverschot. Dit
+            betekent dat er meer mannen dan vrouwen waren. Per vrouw waren er
+            1,04 mannen.
+
+            Er werden in het jaar 2018 gemiddeld 0,09 baby’s geboren per vrouw in
+            Nigeria. Hierbij is het gemiddelde berekend over alle vrouwen, dus ook
+            baby’s, peuters en hoogbejaarden. Neem aan dat de geboorten in Nigeria
+            gelijkmatig over de dagen van het jaar verdeeld zijn.
+
+7p   22     Onderzoek met behulp van bovenstaande gegevens en met de figuur op
+            de uitwerkbijlage of de bewering van Frank Wielaard klopt.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-23-1-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

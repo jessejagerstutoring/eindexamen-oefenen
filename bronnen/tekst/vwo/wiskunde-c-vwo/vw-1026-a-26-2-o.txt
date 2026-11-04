@@ -1,0 +1,513 @@
+                                                                 Examen VWO
+
+                                                                     2026
+                                                                            tijdvak 2
+                                                                   woensdag 17 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-26-2-o
+      Te veel stukjes
+
+            Het aantal stukjes dat op de doos van een legpuzzel staat, is een rond
+            getal zoals 500, 1000 of 1500. Vaak bestaat een puzzel echter uit méér
+            stukjes dan er op de doos vermeld staat.
+
+            In een video onderzoekt komiek en wiskundige Matt Parker hoe dit zit. Hij
+            kijkt naar puzzels waarvan de stukjes een rechthoekig rooster vormen met
+            k kolommen en r rijen.
+            We nemen in deze opgave aan dat k groter is dan r.
+                                    k
+            De roosterverhouding      is dan altijd groter dan 1.
+                                    r
+
+            We bekijken eerst een puzzel met 200 stukjes. Zo’n puzzel kan bestaan
+                                                                                100
+            uit 100 kolommen en 2 rijen. De roosterverhouding is in dit geval       .
+                                                                                 2
+2p    1     Geef alle andere theoretisch mogelijke roosterverhoudingen voor een
+            puzzel met precies 200 stukjes.
+
+            Een andere puzzel bestaat uit 204 stukjes.
+            De mogelijke afmetingen (k x r) voor deze puzzel zijn: 204 x 1, 102 x 2,
+            68 x 3, 51 x 4, 34 x 6 en 17 x 12.
+            De hoogte van ieder stukje in deze puzzel is 1,04 keer zo groot als de
+            breedte van dat stukje. De inkepingen en uitsteeksels van een
+            puzzelstukje worden (in deze opgave) buiten beschouwing gelaten. Zie de
+            figuur.
+
+            figuur
+
+
+
+
+            De puzzel van 204 stukjes is 49 cm breed en 36 cm hoog.
+3p    2     Bereken met behulp van bovenstaande gegevens het aantal rijen en
+            kolommen van deze puzzel.
+
+
+
+
+VW-1026-a-26-2-o                            2 / 15                              lees verder ►►►
+            Perfecte puzzels zijn puzzels die voldoen aan de volgende voorwaarden:
+             Het aantal stukjes waaruit de puzzel bestaat is precies gelijk aan het
+               aantal stukjes vermeld op de doos.
+             De hoogte van de stukjes is gelijk aan de breedte van de stukjes.
+
+            Matt Parker bedacht een maat om te beoordelen in hoeverre een puzzel
+            afwijkt van een perfecte puzzel. Hij noemde dit de badness rating.
+            De volgende formule beschrijft deze badness rating:
+                    B  s 1,005n
+                  B is de badness rating.
+                  s is de berekende verhouding tussen de hoogte en breedte van een
+                   puzzelstukje, met s  1 .
+                  n is het verschil tussen het werkelijke aantal stukjes en het aantal
+                   stukjes op de doos, met n  0 .
+
+2p    3     Bereken de badness rating van een perfecte puzzel.
+
+            We bekijken nu een puzzel van 39 kolommen en 27 rijen met s  1,002 .
+            Deze puzzel heeft een badness rating van 1,3052.
+4p    4     Bereken het aantal stukjes dat op de doos staat, door gebruik te maken
+            van de badness rating.
+
+
+
+
+VW-1026-a-26-2-o                               3 / 15                            lees verder ►►►
+       Rugby
+
+            Rugby1) is een balsport die onder andere in Engeland wordt beoefend.
+            Tijdens een wedstrijd kunnen er op drie manieren punten worden
+            gescoord, zie de figuur.
+
+            figuur
+                         try                     conversie                       kick
+
+
+
+
+                      5 punten                    2 punten                    3 punten
+
+              de bal op de grond          alleen als het team net     het team scoort een
+              drukken in het gebied       een try heeft gemaakt,      kick door op een
+              achter het doel van de      kan het team direct         willekeurig moment de
+              tegenstander                hierna een conversie        bal tussen de palen en
+                                          scoren door de bal          boven de lat van het
+                                          tussen de palen en          doel te schoppen
+                                          boven de lat van het
+                                          doel te schoppen
+
+            We voeren de volgende notaties in:
+            ET   Engeland scoort een try.
+            EC   Engeland scoort de conversie die bij de try hoort.
+            EK   Engeland scoort een kick.
+            En   Engeland scoort n punten.
+
+            De manier waarop Engeland bij rugbywedstrijden punten kan scoren, kan
+            worden weergegeven in een boomdiagram. Op de uitwerkbijlage staan
+            hiervoor drie mogelijke boomdiagrammen.
+2p     5    Leg uit welk boomdiagram op de uitwerkbijlage het beste weergeeft op
+            welke manier Engeland punten kan scoren.
+
+            Gegeven is de zin:
+                     Als Engeland een try scoort maar de bijbehorende conversie mist,
+                     dan scoort Engeland geen zeven punten.
+2p     6    Vertaal bovenstaande zin in logische symbolen, maak daarbij gebruik van
+            de eerder genoemde notaties.
+
+     noot 1 In deze opgave kijken we naar de puntentelling en spelregels van de Rugby Union
+
+
+VW-1026-a-26-2-o                                 4 / 15                                 lees verder ►►►
+            Het aantal punten dat een rugbyteam in een (hele) rugbywedstrijd haalt
+            noemen we het puntentotaal van dat team. Uit de gegevens in de figuur
+            volgt dat niet alle puntentotalen mogelijk zijn.
+            Een wedstrijdcommentator doet hierover twee uitspraken:
+            I De puntentotalen 1, 2 en 4 zijn niet mogelijk.
+            II Elk puntentotaal vanaf 5 is mogelijk.
+4p    7     Beredeneer dat elke uitspraak juist is.
+
+            In 2023 werd een rugbytoernooi gespeeld en Ierland (I) won de wedstrijd
+            tegen Schotland (S) met 22-7.
+            Het totaal van 22 punten in een wedstrijd van Ierland kan worden behaald
+            met twee keer een try met conversie ( I 7 ) , één try zonder conversie ( I 5 )
+            en één kick ( I 3 ) . Er zijn ook andere manieren om aan dit puntentotaal van
+            22 te komen.
+            In de tabel is een begin gemaakt om te onderzoeken op hoeveel manieren
+            je aan een puntentotaal van 22 kunt komen.
+
+            tabel
+                    aantal try’s           aantal try’s                aantal kicks
+                   met conversie        zonder conversies
+                     (7 punten)            (5 punten)                   (3 punten)
+                        2                          1                          1
+
+
+
+3p    8     Onderzoek op hoeveel manieren je aan een puntentotaal van 22 kunt
+            komen.
+
+            Ierland scoorde in deze wedstrijd twee keer een try met conversie ( I 7 ) ,
+            één try zonder conversie ( I 5 ) en één kick ( I 3 ) . Schotland scoorde één try
+            met conversie ( S7 ) .
+            Het werkelijke scoreverloop van deze wedstrijd was S7  I 3  I 5  I 7  I 7 .
+            Het scoreverloop had ook anders kunnen zijn.
+3p    9     Bereken het aantal mogelijke scoreverlopen bij deze wedstrijd.
+
+
+
+
+VW-1026-a-26-2-o                               5 / 15                              lees verder ►►►
+      Diagonaal inpakken
+
+            Er bestaan verschillende manieren om een            tekening
+            cadeau in te pakken. Een van deze manieren
+            is het zogenaamde diagonaal inpakken.
+            Hierbij wordt het cadeau diagonaal midden op
+            het vel inpakpapier geplaatst en worden de
+            hoekpunten naar binnen gevouwen. Zie de
+            tekening hiernaast.
+
+            We kijken in deze opgave alleen naar het
+            diagonaal inpakken van balkvormige cadeaus
+            met een vierkant stuk inpakpapier.
+
+            In figuur 1 is aangegeven hoe groot het stuk inpakpapier minimaal moet
+            zijn voor een cadeau met lengte l, breedte b en hoogte h. De stippellijnen
+            in deze figuur vormen de vouwlijnen van het inpakpapier.
+
+            figuur 1                                 figuur 2
+
+
+
+
+4p   10     Onderzoek met behulp van een tekening met vouwlijnen, zoals
+            weergegeven in figuur 1, of een stuk inpakpapier van 50 bij 50 cm groot
+            genoeg is om het cadeau uit figuur 2 in te pakken. Maak deze tekening op
+            schaal 1 : 4.
+
+
+
+
+VW-1026-a-26-2-o                            6 / 15                           lees verder ►►►
+            Na het inpakken zal het inpakpapier op de bovenkant van het cadeau
+            meestal gedeeltelijk overlappen.
+            Voor een cadeau met een lengte van 19,5 cm, een breedte van 12,2 cm
+            en een hoogte van 4,9 cm is in figuur 3a het benodigde stuk inpakpapier
+            weergegeven.
+
+            figuur 3a                                          figuur 3b
+
+
+
+
+            De lichtgrijs- en donkergrijs gekleurde driehoeken in figuur 3a zijn de
+            gedeeltes van het inpakpapier die bovenop het cadeau terecht komen.
+            Deze driehoeken zijn gelijkbenige rechthoekige driehoeken. Hierbij is de
+            lengte van het cadeau de basis van de donkergrijze driehoek en de
+            breedte van het cadeau de basis voor de lichtgrijze driehoek.
+            In dit geval geldt voor elk van deze driehoeken: hoogte  12  basis
+
+            In figuur 3b zie je de bovenkant van het cadeau als dit is ingepakt.
+            Het zwarte gedeelte geeft de overlap van het inpakpapier aan. Alleen
+            de donkergrijze gedeeltes van het inpakpapier overlappen elkaar.
+            De lichtgrijze gedeeltes sluiten precies op de donkergrijze gedeeltes aan.
+
+4p   11     Bereken hoe groot de overlap van het inpakpapier is op de bovenkant van
+            het hierboven beschreven cadeau. Geef je antwoord in gehele mm2.
+
+
+
+
+VW-1026-a-26-2-o                            7 / 15                           lees verder ►►►
+            De onderstaande figuur toont een methode voor het inpakken van een
+            cadeau met een vierkant grondvlak. Deze methode gebruikt zo min
+            mogelijk inpakpapier en maakt gebruik van diagonaal inpakken.
+
+            figuur
+
+
+
+
+            Volgens deze figuur is voor het inpakken van een cadeau met een
+            vierkant grondvlak een vierkant stuk inpakpapier nodig met een lengte
+            van d  1,5h . Hier is d de diagonaal van het grondvlak van het cadeau en
+            h de hoogte van het cadeau.
+
+            Of een stuk inpakpapier van 35 bij 35 cm groot genoeg is om een cadeau
+            met een vierkant grondvlak met een zijde van 20 cm in te kunnen pakken,
+            hangt af van de hoogte van dit cadeau.
+5p   12     Bereken de maximale hoogte, in gehele millimeters, van dit cadeau aan
+            de hand van de bovenstaande gegevens.
+
+
+
+
+VW-1026-a-26-2-o                            8 / 15                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1026-a-26-2-o                        9 / 15   lees verder ►►►
+      Pallets met stenen
+
+            Steenfabriek De Kei verkoopt allerlei soorten stenen, waaronder
+            sierstenen. De Kei verkoopt deze sierstenen per pallet met 500 stenen.
+            Zo’n pallet met stenen kost 460 euro.
+
+            foto
+
+
+
+
+            Om de verkoop te bevorderen wil De Kei een van de volgende twee
+            aanbiedingen doen:
+
+            Aanbieding A:
+            Bij aankoop van twee pallets tegelijk krijgt de klant 2% korting op de prijs
+            van beide pallets. Bij aankoop van drie pallets krijgt de klant 3% korting
+            op de prijs van alle drie de pallets, enzovoort.
+
+
+            Aanbieding B:
+            Bij aankoop van meer pallets tegelijk betaalt de klant voor de tweede
+            pallet 450 euro, de derde pallet 440 euro, enzovoort. Elke volgende pallet
+            is dus steeds 10 euro goedkoper.
+
+            Wanneer een klant vier pallets tegelijk koopt, is hij met aanbieding B
+            duurder uit dan met aanbieding A.
+4p   13     Bereken hoeveel euro de klant duurder uit is. Geef je antwoord in twee
+            decimalen.
+
+
+
+
+VW-1026-a-26-2-o                            10 / 15                             lees verder ►►►
+            Bij aanbieding A hangt de prijs per pallet Pn in euro’s af van het aantal
+            pallets n dat je koopt. Bij aankoop van twee of meer pallets geldt:
+                                     n 
+                   Pn  460  1        
+                                    100 
+
+            Met behulp van deze formule kun je een formule opstellen voor de totale
+            prijs An in euro’s van een aankoop van n pallets bij aanbieding A.
+            Er geldt:
+                   An  460n  4,6n2 met n  2
+
+
+3p   14     Leid deze formule voor An af met behulp van de formule voor Pn .
+
+            Bij deze aanbieding wordt de prijs per pallet steeds lager. Bij 100 pallets
+            zou de korting 100% zijn, en dan zijn de pallets dus gratis. Daarom zal De
+            Kei een maximaal aantal pallets noemen waarvoor de aanbieding nog
+            geldig is. Dit is het aantal pallets waarbij de totale prijs bij aanbieding A
+            maximaal is.
+
+3p   15     Bereken de prijs per pallet bij aanbieding A als de totale prijs bij deze
+            maximaal is.
+
+            Steenfabriek De Kei wil haar klanten zo goed mogelijk adviseren welke
+            aanbieding A of B in welke situatie het meest gunstig is voor de klant.
+
+            Voor de totale prijs Bn in euro’s van een aankoop van n pallets bij
+            aanbieding B geldt de recursieve formule:
+
+                   Bn  Bn1  470  10n     met B1  460
+
+            Vanaf een bepaald aantal pallets is aanbieding B voor de klant goedkoper
+            dan aanbieding A. Dit aantal is hoger dan 10 pallets.
+
+4p   16     Onderzoek vanaf welk aantal pallets aanbieding B voor de klant
+            goedkoper is dan aanbieding A.
+
+
+
+
+VW-1026-a-26-2-o                             11 / 15                              lees verder ►►►
+      Windpark Greenport
+
+            In 2021 is op het duurzame bedrijventerrein Greenport in Venlo gestart
+            met de bouw van een windmolenpark. Dit windmolenpark zal bestaan uit
+            negen, op een rechte lijn geplaatste, windmolens.
+
+            In onderstaande tabel zie je de coördinaten (in meters) van enkele
+            windmolens die gebouwd zijn. De plaats van windmolen 1 is gekozen als
+            oorsprong van een assenstelsel.
+
+            tabel
+            Windmolen nummer           x-coördinaat           y-coördinaat
+            Windmolen 1                0                      0
+            Windmolen 2                ...                    261
+            Windmolen 9                3219                   2460
+
+            De bouw van Windmolen 2 werd vertraagd. De y-coördinaat van deze
+            windmolen werd uiteindelijk vastgesteld op 261 .
+
+2p   17     Bereken met behulp van de gegevens in de tabel, de x-coördinaat van
+            Windmolen 2. Geef je antwoord als een geheel getal.
+
+            Aan windmolens zitten voor- en nadelen. Eén van de nadelen is dat ze
+            geluid produceren en daardoor geluidsoverlast kunnen veroorzaken.
+
+            Geluidsintensiteit is een maat voor het uitdrukken van de hoeveelheid
+            geluid. De geluidsintensiteit hangt af van het vermogen van het geluid en
+            van de afstand van de windmolen tot het meetpunt. Dit wordt beschreven
+            in de volgende formule:
+                             P
+                    I
+                         12,57  d 2
+            Hierin is
+             P het vermogen (in Watt) van het geproduceerde geluid van de
+               windmolen.
+             d de afstand (in meters) vanaf de windmolen tot het meetpunt.
+             I de geluidsintensiteit (Watt/m2) bij het meetpunt.
+
+            Een van de windmolens produceert een geluid met een vermogen van
+            0,05 Watt. Een eind verderop wordt een geluidsintensiteit van 8,84 10 7
+            (Watt/m2) gemeten.
+
+3p   18     Bereken de afstand tussen deze windmolen en het meetinstrument. Geef
+            deze afstand in hele meters.
+
+
+
+VW-1026-a-26-2-o                           12 / 15                           lees verder ►►►
+            In de praktijk wordt de geluidsintensiteit I meestal omgerekend naar
+            geluidsniveau G in decibel (dB). Het verband tussen I en G wordt
+            gegeven door:
+                   I  100,1G 12
+            Het maximale geluidsniveau dat gemeten mag worden bij een woning is
+            41 dB. Bij het overschrijden van deze waarde wordt gesproken van
+            geluidsoverlast.
+
+            Een bewoner klaagt over geluidsoverlast. Zijn woning bevindt zich op een
+            afstand van 350 meter van de dichtstbijzijnde windmolen. Deze
+            windmolen heeft een vermogen van 0,05 Watt.
+3p   19     Onderzoek of deze windmolen geluidsoverlast veroorzaakt bij zijn woning.
+
+
+
+
+VW-1026-a-26-2-o                           13 / 15                           lees verder ►►►
+      De bergetappe
+
+            De Mont Ventoux (foto) is
+            een berg in het zuiden van
+            Frankrijk.
+            De berg is onder andere
+            bekend doordat de
+            beklimming ervan is
+            opgenomen in de
+            Tour de France.
+
+            Het gemiddelde hellingspercentage is een maat om de moeilijkheid van
+            een beklimming aan te geven. Het gemiddelde hellingspercentage wordt
+            bepaald door de weglengte en het hoogteverschil tussen begin en
+            eindpunt van de beklimming.
+            Het gemiddelde hellingspercentage kan worden berekend met de formule:
+                         100  h
+                    p
+                         a 2  h2
+            Hierbij is
+             h het hoogteverschil in meters.
+             a de weglengte in meters.
+             p het gemiddelde hellingspercentage in procenten.
+
+            Als je verschillende beklimmingen met een gelijk hoogteverschil bekijkt,
+            dan geldt: hoe groter de weglengte, hoe kleiner het gemiddelde
+            hellingspercentage.
+3p   20     Beredeneer dit met behulp van de formule voor p, zonder gebruik te
+            maken van een getallenvoorbeeld.
+
+            De beklimming van de Mont Ventoux kun je vanuit drie dorpen starten:
+            Bédoin, Sault en Malaucène.
+
+            De snelste gereden tijd voor de beklimming van de Mont Ventoux vanuit
+            Sault is 50 minuten en 32 seconden, met een gemiddelde snelheid van
+            28,7 km/uur.
+2p   21     Bereken de weglengte van Sault naar de top in kilometers in één
+            decimaal.
+
+            In de tabel staat het hoogteverschil en de totale weglengte vanuit de drie
+            dorpen naar de top. De weglengte is afgerond op gehele kilometers.
+
+            tabel
+              plaats           hoogteverschil             weglengte in gehele km
+              Bédoin           1594 meter                            21
+              Sault            1204 meter                            24
+              Malaucène        1564 meter                            21
+
+
+VW-1026-a-26-2-o                            14 / 15                           lees verder ►►►
+            Doordat de weglengte in de tabel op gehele kilometers is afgerond in
+            plaats van op gehele meters, lijkt het erop dat de beklimming vanuit
+            Bédoin het grootste gemiddelde hellingspercentage heeft.
+            Als de weglengte niet op gehele kilometers was afgerond, dan is het
+            mogelijk dat het gemiddelde hellingspercentage vanuit één van de andere
+            twee dorpen hoger is dan vanuit Bédoin.
+3p   22     Toon dit met behulp van berekeningen aan.
+
+            Le club des Cinglés du Mont Ventoux, een fietsgenootschap, geeft aan
+            dat de beklimming vanuit Bédoin het steilst is. Deze beklimming heeft een
+            gemiddeld hellingspercentage van 7,7%.
+3p   23     Bereken de weglengte vanuit Bédoin met behulp van dit
+            hellingspercentage. Geef je antwoord in gehele meters.
+
+            Om tot dit fietsgenootschap te mogen behoren, moet je op één dag de
+            Mont Ventoux vanuit alle drie de dorpen één keer beklimmen.
+            In de figuur zie je een mogelijke route. Je start in Bédoin, fietst naar de
+            top, daalt naar Malaucène, vervolgens fiets je weer naar de top, daalt
+            naar Sault, weer naar de top en tenslotte daal je naar Bédoin.
+            Zo ontstaat het rijtje BMMSSB, waarbij de letters staan voor de weg
+            tussen het dorp en de top van de Mont Ventoux (Top), zie de figuur.
+            Er zijn zes van deze rijtjes te maken, als je begint en eindigt in hetzelfde
+            dorp.
+
+            figuur
+
+
+
+
+            Ook kun je de zogenaamde Bicinglette voltooien.
+            Dit houdt in dat je de Mont Ventoux vanuit elk van de drie dorpen niet één
+            keer, maar twee keer beklimt op één dag.
+
+4p   24     Bereken hoeveel mogelijke routes er zijn om deze Bicinglette te
+            voltooien als je begint en eindigt in hetzelfde dorp.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1026-a-26-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,533 @@
+                                                                Examen HAVO
+
+                                                                     2018
+                                                                            tijdvak 1
+                                                                  donderdag 24 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-18-1-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                               a b                      ad  bc
+              22 kruistabel       , met phi 
+                               c d             (a  b)(a  c)(b  d )(c  d )
+
+                  als phi  0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”,
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp ) (met
+              steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1              , met X 1 en X 2 de steekproefgemiddelden
+                                   (
+                                  2 1
+                                     S  S 2 )
+              ( X 1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+
+   noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-18-1-o                                  2 / 13                                      lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1  p)
+               p  2            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-18-1-o                              3 / 13                           lees verder ►►►
+      Brandgevaar
+
+            In de zomer kan in natuurgebieden met veel bos gemakkelijk brand
+            ontstaan. Het risico op bosbrand wordt vooral bepaald door de
+            temperatuur van de lucht en door de hoeveelheid vocht in de lucht.
+            Om het risico op bosbrand goed in beeld te krijgen, wordt gebruikgemaakt
+            van een brandgevaarindex.
+            In Scandinavië gebruikt men als brandgevaarindex de Angström Index,
+            die wordt berekend met de volgende formule:
+                          V 27  T
+                   IA       
+                          20   10
+            Hierin is I A de Angström Index, V de relatieve luchtvochtigheid in
+            procenten en T de temperatuur in C. De relatieve luchtvochtigheid V
+            geeft de hoeveelheid vocht in de lucht aan ten opzichte van de
+            hoeveelheid vocht die de lucht maximaal kan bevatten. De relatieve
+            luchtvochtigheid kan niet meer dan 100% zijn.
+
+3p    1     Bereken de minimale en de maximale waarde van de Angström Index bij
+            een temperatuur van 24 °C.
+
+            Hoe lager de waarde van I A , hoe groter het risico op bosbrand. In tabel 1
+            kun je zien hoe de waarden van I A worden vertaald naar het risico op
+            bosbrand.
+
+            tabel 1
+
+              IA                     risico op bosbrand
+              4 of groter            zeer klein
+              van 2,5 tot 4          klein
+              van 2 tot 2,5          groot
+              kleiner dan 2          zeer groot
+
+            Op een bepaalde zomerdag is de relatieve luchtvochtigheid 35%.
+5p    2     Bereken bij welke temperaturen er op deze dag sprake is van een zeer
+            groot risico op bosbrand.
+
+            Als de temperatuur constant is, dan neemt het risico op bosbrand toe als
+            de relatieve luchtvochtigheid afneemt.
+3p    3     Beredeneer zonder getallenvoorbeelden dat de formule hiermee in
+            overeenstemming is.
+
+
+
+
+HA-1024-a-18-1-o                             4 / 13                           lees verder ►►►
+            Een andere index voor brandgevaar is de Chandler Burning Index I C , die
+            in Noord-Amerika wordt gebruikt. Deze wordt berekend met de volgende
+            formule:
+                   I C  (216  2,84V  1,12T )  0,97V
+            Ook in deze formule is V de relatieve luchtvochtigheid in procenten en
+            T de temperatuur in C.
+
+            Als de relatieve luchtvochtigheid bekend is, dan is de formule van I C te
+            herleiden tot de vorm I C  a  T  b , waarbij a en b getallen zijn.
+4p    4     Geef deze herleiding voor het geval dat de relatieve luchtvochtigheid 43%
+            is. Rond de waarden van a en b af op twee decimalen.
+
+            In tabel 2 kun je zien hoe de waarden van I C worden vertaald naar het
+            risico op bosbrand.
+
+            tabel 2
+
+              IC                          risico op bosbrand
+              kleiner dan 50              zeer klein
+              van 50 tot 75               klein
+              van 75 tot 90               groot
+              90 of groter                zeer groot
+
+            De Angström Index en de Chandler Burning Index proberen beide het
+            risico op bosbrand zo goed mogelijk weer te geven. Toch zijn er situaties
+            waarin het risico volgens de ene index groot is en volgens de andere juist
+            klein. Wellicht zijn er zelfs situaties waarin het risico op bosbrand volgens
+            de Angström Index zeer groot is en volgens de Chandler Burning Index
+            zeer klein.
+            Een brandgevaarexpert onderzoekt of er zo’n situatie mogelijk is bij een
+            temperatuur van 25 °C. Bij deze temperatuur kan de Angström Index
+            geschreven worden als
+                   I A  0,05V  0, 2
+            De Chandler Burning Index kan bij 25 C geschreven worden als
+                   I C  (244  2,84V )  0,97V
+            De expert berekent met behulp van deze formules voor verschillende
+            relatieve luchtvochtigheden het risico op bosbrand.
+5p    5     Onderzoek of er een relatieve luchtvochtigheid mogelijk is waarbij het
+            risico volgens de Angström Index zeer groot is en volgens de Chandler
+            Burning Index zeer klein. Licht je antwoord toe.
+
+
+
+
+HA-1024-a-18-1-o                                   5 / 13                           lees verder ►►►
+      Referentiewaarden
+
+            Bij een bloedonderzoek worden het hemoglobinegehalte en de
+            hoeveelheid rode bloedcellen gemeten. In de uitslag van het onderzoek
+            staan van beide de gemeten waarden. Om deze uitslag te kunnen
+            beoordelen, worden de gemeten waarden vergeleken met de
+            bijbehorende referentiewaarden. Dit zijn de waarden zoals ze gevonden
+            worden bij 95% van de gezonde mensen. In deze opgave bekijken we de
+            referentiewaarden van volwassenen.
+
+            Het hemoglobinegehalte wordt uitgedrukt in millimol per liter (mmol/L)
+            (een mol is een eenheid voor het aantal deeltjes) en de hoeveelheid rode
+            bloedcellen in biljoenen per liter (1 biljoen = 1012). We gaan ervan uit dat
+            het hemoglobinegehalte en de hoeveelheid rode bloedcellen van gezonde
+            mannen normaal verdeeld zijn. Dit geldt ook voor het hemoglobinegehalte
+            en de hoeveelheid rode bloedcellen van gezonde vrouwen.
+
+            In de tabel staan de referentiewaarden van het hemoglobinegehalte en
+            van de hoeveelheid rode bloedcellen. Deze referentiewaarden liggen
+            symmetrisch om het gemiddelde. Zo kun je in de tabel bijvoorbeeld
+            aflezen dat 95% van de gezonde mannen een hemoglobinegehalte heeft
+            tussen 8,6 mmol/L en 11,0 mmol/L.
+
+            tabel
+                                 geslacht        referentiewaarden
+              hemoglobine        man             8,6 − 11,0
+                                 vrouw           7,6 − 10,0
+              rode bloedcellen   man             4,4 − 5,8
+                                 vrouw           4,0 − 5,3
+
+3p    6     Bereken de standaardafwijking van de hoeveelheid rode bloedcellen van
+            gezonde vrouwen. Geef je antwoord in biljoenen per liter en rond af op
+            één decimaal.
+
+            De standaardafwijking van het hemoglobinegehalte van zowel gezonde
+            mannen als gezonde vrouwen is 0,6 mmol/L.
+4p    7     Bereken met behulp van het formuleblad of het verschil tussen het
+            hemoglobinegehalte van gezonde mannen en gezonde vrouwen gering,
+            middelmatig of groot is.
+
+
+
+
+HA-1024-a-18-1-o                            6 / 13                             lees verder ►►►
+      De aardbeving van l’Aquila
+
+            Aardbevingen verschillen in kracht. De
+            kracht van een aardbeving wordt meestal
+            weergegeven op de schaal van Richter.
+
+            In de nacht van 5 op 6 april 2009 werd de
+            Italiaanse stad l’Aquila getroffen door een
+            zware aardbeving. De avond ervoor werd er
+            al een lichte beving gevoeld die een kracht
+            had van 3,3 op de schaal van Richter. De zware aardbeving ’s nachts, die
+            veel schade aanrichtte, had een kracht van 6,3 op de schaal van Richter.
+
+            Bij elke aardbeving komt energie vrij. Volgens een wetenschapper geldt
+            de volgende vuistregel: als de kracht op de schaal van Richter met 1
+            toeneemt, dan is de hoeveelheid vrijgekomen energie ongeveer 30 keer
+            zo groot.
+
+            Er is bij de zware aardbeving ’s nachts veel meer energie vrijgekomen
+            dan bij de lichte beving van de avond daarvoor.
+3p    8     Bereken met behulp van de vuistregel hoeveel keer zoveel energie er
+            ’s nachts vrijkwam vergeleken met de avond ervoor.
+
+            Bij een aardbeving kan de hoeveelheid vrijgekomen energie worden
+            berekend met de formule
+                   E  0,06  32 R
+            In deze formule is R de kracht van de aardbeving op de schaal van
+            Richter en E de hoeveelheid vrijgekomen energie in MJ (megajoule).
+
+            Na de zware nachtelijke aardbeving waren er nog verschillende kleine
+            naschokken. Bij de naschok van 7 april ’s avonds was de hoeveelheid
+            energie die vrijkwam slechts 9% van de hoeveelheid energie die bij de
+            zware nachtelijke aardbeving vrijkwam. Toch was deze naschok ook een
+            zware schok.
+5p    9     Bereken welke kracht deze naschok had op de schaal van Richter. Rond
+            je antwoord af op één decimaal.
+
+            Op de uitwerkbijlage staat een assenstelsel afgebeeld, waarbij op de
+            verticale as een logaritmische schaal is gebruikt. In dat assenstelsel kun
+            je een grafiek tekenen waarin je de vrijgekomen energie uitzet tegen de
+            kracht op de schaal van Richter. Deze grafiek blijkt een (rechte) lijn te
+            zijn.
+3p    10    Teken deze grafiek in de figuur op de uitwerkbijlage voor bevingen met
+            een kracht van minimaal 1 en maximaal 8 op de schaal van Richter.
+
+
+
+
+HA-1024-a-18-1-o                            7 / 13                             lees verder ►►►
+      BMR
+
+            Mensen krijgen energie binnen via voedsel. De hoeveelheid energie in
+            voedsel wordt uitgedrukt in kilocalorieën (kcal). De minimale hoeveelheid
+            energie die iemand per dag nodig heeft om op gewicht te blijven, wordt
+            aangeduid met de Engelse afkorting BMR (Basal Metabolic Rate).
+            Diëtisten maken gebruik van formules om deze hoeveelheid te berekenen.
+            Een formule van de BMR voor mannen luidt:
+                   BMR  10  G  5  J  6, 25  L  5
+            In deze formule is G het gewicht in kg, J de leeftijd in jaren, L de lengte in
+            cm en BMR in kcal.
+
+            Luuk is 1,88 meter lang en weegt 77 kg. Hij is 25 jaar oud.
+2p    11    Bereken zijn BMR.
+
+            Marcio is in precies 1 jaar 5 kg afgevallen. Zijn lengte is niet veranderd.
+3p    12    Bereken aan de hand van de formule, zonder gebruik te maken van een
+            getallenvoorbeeld voor G en J, hoeveel Marcio’s BMR in die periode van
+            1 jaar verminderd is.
+
+            Voor 30-jarige mannen met een BMR van 2000 kcal kun je het gewicht
+            uitdrukken in de lengte. Er geldt dan G  a  L  b , waarbij a en b getallen
+            zijn.
+3p    13    Bereken de waarden van a en b in één decimaal nauwkeurig.
+
+            In de figuur is voor 30-jarige mannen met een BMR van 1600 een grafiek
+            getekend die het verband tussen G en L weergeeft. De figuur staat ook op
+            de uitwerkbijlage.
+
+            figuur        BMR voor 30-jarigen
+                  120
+            G (kg)
+                   100
+
+                    80
+
+                    60
+
+                    40                                      BMR = 1600
+
+
+                    20
+
+                     0
+                         150   160   170   180   190      200   210 220
+                                                                  L (cm)
+
+
+
+
+HA-1024-a-18-1-o                                    8 / 13                       lees verder ►►►
+            Je kunt voor 30-jarige mannen ook bij andere BMR-waarden de grafiek
+            tekenen die het verband tussen G en L weergeeft.
+3p    14    Teken in de figuur op de uitwerkbijlage voor 30-jarige mannen de grafiek
+            die hoort bij een BMR van 1800. Licht je werkwijze toe.
+
+            In de Verenigde Staten hanteert men soortgelijke formules maar met
+            andere variabelen. Men gebruikt voor het gewicht de variabele W (weight)
+            in pounds, voor de lengte de variabele H (height) in feet en voor de
+            leeftijd in jaren de variabele Y (years). Er geldt:
+                   W  2, 2  G
+                   YJ
+                   H  0,033  L
+            Met deze gegevens kun je de formule van BMR opstellen zoals die in de
+            Verenigde Staten gebruikt wordt in de vorm
+                   BMR  ...  W  5  Y  ...  H  5
+            Hierbij staan op de puntjes getallen.
+4p    15    Bereken welke getallen op de puntjes moeten staan en rond af op
+            één decimaal.
+
+
+
+
+HA-1024-a-18-1-o                                    9 / 13                  lees verder ►►►
+      Lunchen
+
+            Een paar jaar geleden heeft men in de Verenigde Staten een onderzoek
+            gehouden onder mensen die in hun lunchpauze ergens gaan eten. Men
+            wilde weten wat er zoal als lunch besteld werd en hoeveel kilocalorieën
+            (kcal) de bestelde lunch bevatte.
+
+
+
+
+            Het onderzoek werd uitgevoerd in New York City. Uit alle
+            1064 lunchrestaurants die op hun website calorie-informatie hadden
+            staan, werden er willekeurig 167 uitgekozen waar het onderzoek werd
+            uitgevoerd. Verschillende teams van onderzoekers gingen rond lunchtijd
+            naar deze lunchrestaurants om klanten te informeren over het onderzoek.
+            Alleen klanten van 18 jaar en ouder mochten meedoen. Ze moesten dan
+            een individuele bestelling plaatsen. Wie vervolgens zijn kassabonnetje
+            inleverde, kreeg als beloning een metrokaartje van 2 dollar. Vrijwel alle
+            klanten wilden meedoen met het onderzoek, mede vanwege de beloning.
+            De onderzoekers kregen op deze manier heel wat kassabonnetjes in
+            handen. Achteraf bleek dat 5,6% van de ingeleverde kassabonnetjes
+            onbruikbaar was. De overige 7318 kassabonnetjes konden worden
+            gebruikt voor het onderzoek.
+
+3p    16    Bereken hoeveel dollar de onderzoekers kwijt waren aan metrokaartjes.
+
+
+
+
+HA-1024-a-18-1-o                           10 / 13                          lees verder ►►►
+            Omdat op de kassabonnetjes precies vermeld stond wat er besteld was,
+            konden onderzoekers met de calorie-informatie van de betreffende
+            lunchrestaurants berekenen hoeveel kcal elke lunch bevatte. Een
+            samenvatting van de resultaten staat in tabel 1.
+
+            tabel 1
+                                                                         percentage
+               type                aantal            aantal kcal         klanten dat
+                         aantal                  per kassa-bonnetje      meer dan …
+              lunch-               geldige
+                        restau-                                         kcal bestelde
+              restau-              kassa-
+                         rants
+                rant              bonnetjes                standaard-   1000    1250
+                                              gemiddelde
+                                                            afwijking   kcal    kcal
+            broodjes      49        1989           734        361       20,0     8,8
+            pizza         17        272            766        449       20,6    15,1
+            ham-
+                          75        3857           857        336       38,6    16,5
+            burgers
+            tex-mex       3          96            900        295       41,7    17,7
+            kip           14        649            931        264       47,5    18,0
+            gemengd       9         455            821        256       35,6    16,9
+            totaal       167        7318           827        458       33,5    14,5
+
+            Van één type lunchrestaurant uit tabel 1 zijn de resultaten ook
+            weergegeven in een relatieve cumulatieve frequentiepolygoon. Deze
+            polygoon staat op de uitwerkbijlage.
+3p    17    Van welk type lunchrestaurant zijn de resultaten in de polygoon
+            weergegeven? Licht je antwoord toe. Je kunt daarbij de figuur op de
+            uitwerkbijlage gebruiken.
+
+            De aanbevolen hoeveelheid kcal voor een lunch is 750 kcal. Het lijkt erop
+            dat die hoeveelheid in hamburgerrestaurants ruimschoots overschreden
+            wordt. Het steekproefgemiddelde was daar immers veel hoger dan
+            750 kcal.
+3p    18    Onderzoek of de aanbevolen hoeveelheid van 750 kcal in het
+            95%-betrouwbaarheidsinterval van het populatiegemiddelde in
+            hamburgerrestaurants ligt.
+
+            De Amerikaanse overheid is geschrokken van de resultaten van dit
+            onderzoek. Ze trekt de conclusie: ‘Veel volwassenen nuttigen bij de lunch
+            meer dan de aanbevolen hoeveelheid kcal.’
+
+            Door de gekozen onderzoeksopzet, zoals die beschreven staat in de
+            inleiding van deze opgave, is de conclusie van de Amerikaanse overheid
+            echter te algemeen.
+2p    19    Noem hiervoor twee aspecten uit de gekozen onderzoeksopzet.
+
+
+
+HA-1024-a-18-1-o                              11 / 13                          lees verder ►►►
+            Een van de deelnemende lunchrestaurants probeert zijn klanten bewust te
+            maken van de hoeveelheid kcal die ze bestellen. Dit restaurant
+            presenteert daarom de calorie-informatie niet alleen op de website, maar
+            ook duidelijk zichtbaar bij het bestelpunt. De onderzoekers hebben aan de
+            klanten van dit restaurant gevraagd of deze informatie effect had op hun
+            bestelling. Die informatie hebben zij per klant gekoppeld aan zijn of haar
+            kassabonnetje. De resultaten staan in tabel 2.
+
+            tabel 2
+                                                       aantal kcal            percentage
+                                                                               dat meer
+                          aantal geldige
+                                                                               dan 1000
+                         kassabonnetjes    gemiddelde    standaardafwijking
+                                                                                 kcal
+                                                                                bestelt
+            calorie-
+            informatie
+                              568             713                301             17,5
+            wel
+            gelezen
+            calorie-
+            informatie
+                              1237            766                584             23,0
+            niet
+            gelezen
+
+            Op grond van de resultaten in tabel 2 bespreken de onderzoekers de
+            volgende stelling: ‘Er bestaat een groot verschil in het aantal kcal per
+            bestelling tussen klanten die de calorie-informatie wel hebben gelezen en
+            klanten die de calorie-informatie niet hebben gelezen.’
+4p    20    Onderzoek met behulp van het formuleblad of deze stelling door de
+            gegevens in tabel 2 wordt ondersteund.
+
+
+
+
+HA-1024-a-18-1-o                             12 / 13                            lees verder ►►►
+      Voetafdruk
+
+            De (ecologische) voetafdruk is de hoeveelheid aardoppervlak die iemand
+            jaarlijks nodig heeft vanwege zijn manier van leven. Zo heeft iemand die
+            veel consumeert een grotere voetafdruk dan iemand die weinig
+            consumeert. Deze voetafdruk wordt uitgedrukt in mha (mondiale
+            hectares), waarbij mha staat voor een hectare aardoppervlak die gebruikt
+            kan worden voor onder andere landbouw, visserij of industrie.
+
+            Als de totale voetafdruk van alle mensen op de wereld 10 miljard mha (of
+            minder) is, dan heeft de aarde voldoende mogelijkheid om zichzelf te
+            herstellen. Is de totale voetafdruk meer dan 10 miljard mha, dan zal de
+            aarde op den duur uitgeput raken.
+
+            Al sinds lange tijd neemt zowel de wereldbevolking als de totale
+            voetafdruk toe. In 1974 kwam de totale voetafdruk al boven de genoemde
+            grens van 10 miljard mha uit.
+            In 2010 bestond de wereldbevolking uit 6,9 miljard mensen en was de
+            gemiddelde voetafdruk per persoon 2,85 mha. De totale voetafdruk in
+            2010 was dus 6,9 miljard  2,85  19,7 miljard mha.
+
+            Vanaf 2010 zijn er maatregelen getroffen om ervoor te zorgen dat de
+            totale voetafdruk op termijn weer onder de 10 miljard mha komt.
+
+            We doen de volgende aannames voor de periode 2010 – 2050:
+
+                  Vanaf 2010 neemt de gemiddelde voetafdruk per persoon af met
+                   0,11 mha per jaar, totdat een gemiddelde voetafdruk per persoon van
+                   1,20 mha bereikt is. De jaren daarna blijft de gemiddelde voetafdruk
+                   per persoon 1,20 mha.
+                  De wereldbevolking neemt elk jaar toe met 0,7%.
+
+            De gemiddelde voetafdruk neemt dus af (tot 1,20 mha), maar de
+            wereldbevolking neemt toe. Het is daarom de vraag of de genomen
+            maatregelen voldoende zijn om de totale voetafdruk te laten dalen tot
+            onder de 10 miljard mha. Dit blijkt een aantal jaren het geval te zijn, maar
+            na verloop van tijd komt de totale voetafdruk toch weer boven de
+            10 miljard mha.
+8p    21    Onderzoek in welke jaren in de periode 2010 − 2050 de totale voetafdruk
+            minder dan 10 miljard mha is.
+
+
+
+
+HA-1024-a-18-1-o                              13 / 13                          lees verdereinde
+                                                                                            ►►► 
+

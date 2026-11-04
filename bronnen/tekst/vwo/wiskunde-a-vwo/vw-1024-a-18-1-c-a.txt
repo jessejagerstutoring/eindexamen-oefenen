@@ -1,0 +1,67 @@
+ aanvulling op het correctievoorschrift                                        2018-1
+
+wiskunde A vwo
+
+Centraal examen vwo
+
+Tijdvak 1
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen wiskunde A vwo:
+
+
+Op pagina 13, bij vraag 17 moet
+
+Opmerkingen
+  − Als een kandidaat deze vraag beantwoord heeft door 9! te berekenen, geen
+     scorepunten voor deze vraag toekennen.
+  − Als een kandidaat deze vraag beantwoord heeft door 3! 3! 3! te berekenen, ten hoogste
+     1 scorepunt voor deze vraag toekennen.
+
+vervangen worden door:
+
+Opmerkingen
+  − Als een kandidaat deze vraag beantwoord heeft door uitsluitend 9! (of
+     9npr3  6npr3  3npr3) te berekenen, geen scorepunten voor deze vraag toekennen.
+  − Als een kandidaat deze vraag beantwoord heeft door uitsluitend 3! 3! 3! te berekenen,
+     ten hoogste 1 scorepunt voor deze vraag toekennen.
+
+en
+
+het volgende antwoordalternatief moet worden toegevoegd:
+
+         Het aantal permutaties van negen achtvlakken is 9! en het aantal
+          permutaties van de drie kleuren binnen deze situatie is 3! 3! 3!   2
+                                      9!
+         In totaal zijn er dan              mogelijkheden                     1
+                                  3! 3! 3!
+         Het antwoord: 1680                                                   1
+
+en
+
+aan dit antwoordalternatief moet de volgende opmerking worden toegevoegd:
+
+
+
+
+VW-1024-a-18-1-c-A
+      Opmerking
+      Bij de eerste deelscore is 1 scorepunt onmogelijk, tenzij voldaan wordt aan de
+      bovenvermelde tweede opmerking.
+
+
+      Ik verzoek u dit bericht door te geven aan de correctoren wiskunde A vwo.
+
+      Namens het College voor Toetsen en Examens,
+
+      drs. P.J.J. Hendrikse, voorzitter
+
+
+
+
+VW-1024-a-18-1-c-A
+

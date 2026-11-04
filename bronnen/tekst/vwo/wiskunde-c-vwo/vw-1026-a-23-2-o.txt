@@ -1,0 +1,428 @@
+                                                                 Examen VWO
+
+                                                                     2023
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde C
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 23 vragen.
+ Voor dit examen zijn maximaal 74 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-23-2-o
+      Showroom
+
+            Op de foto zie je de showroom van een autobedrijf in Lochem. De pijl in
+            de foto geeft de voorkant van de showroom aan.
+
+            foto
+
+
+
+
+            De showroom heeft de vorm van een balk met afmetingen 18 bij 18 bij
+            2,8 meter met daarbovenop een regelmatige piramide met hetzelfde
+            vierkante grondvlak en hoogte 5,6 meter.
+
+3p    1     Bereken de inhoud van de showroom. Geef je antwoord in een geheel
+            aantal m3.
+
+            Een opvallend aspect in het ontwerp van de showroom is dat de
+            opstaande ribben van het piramidevormige dak tot op de grond verlengd
+            zijn. Dat betekent dat de vier ijzeren balken van de top tot aan de grond
+            doorlopen. Links voor op de foto is van een van deze ijzeren balken het
+            deel dat buiten de showroom zit goed te zien.
+
+            Op de uitwerkbijlage is de grond aangegeven waarop de showroom is
+            gebouwd.
+3p    2     Teken op de uitwerkbijlage op schaal 1 : 200 het vooraanzicht van de
+            showroom inclusief de ijzeren balken. Laat daarbij ramen, deuren en
+            dergelijke buiten beschouwing.
+
+            Op de uitwerkbijlage is het onderste balkvormige deel van de showroom
+            in perspectief getekend. De horizon is ook getekend.
+6p    3     Teken in deze tekening de drie ijzeren balken die zichtbaar zijn. Geef
+            hierbij door middel van punten duidelijk de eindpunten aan van de ijzeren
+            balken op de grond.
+
+
+
+
+VW-1026-a-23-2-o                            2 / 12                            lees verder ►►►
+      Het internet der dingen
+
+            Tegenwoordig zijn er steeds meer apparaten die via het internet met
+            elkaar in verbinding kunnen staan. Denk bijvoorbeeld aan smartphones en
+            smartwatches maar ook aan de ‘slimme’ deurbel en thermostaat,
+            enzovoorts.
+
+            Als bijvoorbeeld vier apparaten A, B, C en D volledig onderling met elkaar
+            verbonden zijn – dat wil zeggen dat ieder apparaat met ieder ander
+            apparaat verbonden is – dan zijn daar zes verbindingen voor nodig. In
+            figuur 1 wordt dit geïllustreerd, waarbij de lijnen de onderlinge
+            verbindingen voorstellen.
+
+            figuur 1
+
+
+
+
+3p    4     Bereken het minimale aantal onderling volledig verbonden apparaten
+            waarbij er meer dan honderd verbindingen nodig zijn.
+
+            Elk apparaat dat met het internet verbonden is, heeft zijn eigen, unieke
+            IP-adres nodig. IP-adressen kunnen worden geschreven als acht groepen
+            van vier zogeheten hexadecimale cijfers, gescheiden door dubbele
+            punten. Hiervoor worden de gewone cijfers 0 tot en met 9 uitgebreid met
+            de cijfers A (=10) tot en met F (=15). Dus A tot en met F zijn in deze
+            toepassing ook cijfers en géén letters.
+
+            voorbeeld van een geldig IP-adres:
+                  2001:0DB8:85A3:0000:1319:8A2E:0370:7344
+3p    5     Bereken hoeveel IP-adressen er theoretisch mogelijk zijn. Geef je
+            antwoord in de vorm a  10b met a in één decimaal en b als geheel getal.
+
+
+
+
+VW-1026-a-23-2-o                            3 / 12                           lees verder ►►►
+            Het totaal aantal apparaten (‘dingen’) die via internetverbindingen met
+            andere apparaten of systemen in contact staan en daarmee gegevens
+            uitwisselen, wordt het internet der dingen genoemd. Het internet der
+            dingen wordt afgekort tot IoT (naar het Engels: Internet of Things).
+
+            In figuur 2, uit een internet-artikel uit november 2013, gaat men uit van
+            31% jaarlijkse groei van het IoT.
+
+            figuur 2
+
+
+
+
+            De grafiek in figuur 2 uit het internet-artikel en de aanname van 31%
+            jaarlijkse groei uit datzelfde artikel spreken elkaar tegen.
+2p    6     Leg uit waar dit uit blijkt.
+
+4p    7     Bereken na hoeveel hele weken het IoT verdubbeld is bij 31% jaarlijkse
+            groei.
+
+
+
+
+VW-1026-a-23-2-o                             4 / 12                            lees verder ►►►
+            De 31% jaarlijkse groei uit het eerder genoemde internet-artikel is
+            inmiddels naar beneden bijgesteld. In figuur 3 zie je hoe het IoT zich
+            volgens een ander onderzoek sinds het jaar 2015 ontwikkelt. Hierin zijn
+            de gegevens voor de jaren na 2018 voorspelde gegevens. De trendlijn is
+            gestippeld weergegeven.
+
+            figuur 3
+
+
+
+
+            In december 2015 was de omvang van het IoT 15,41 miljard apparaten. In
+            december 2025 is dit (volgens de voorspelling) 75,44 miljard.
+            Ook volgens de gegevens in figuur 3 groeit het IoT bij benadering met een
+            vast percentage per jaar.
+
+3p    8     Bereken dit percentage met behulp van de gegevens van de jaren 2015
+            en 2025. Geef je antwoord in één decimaal.
+
+            De trendlijn in figuur 3 kan benaderd worden met de volgende formule:
+                   I  14,7 1,17t
+            Hierin is I de omvang van het IoT in miljarden en t de tijd in jaren met
+            t  0 in december 2015. Veronderstel dat de formule voor I ook na 2025
+            geldt.
+4p    9     Bereken met behulp van de formule voor I in welk jaar het IoT voor het
+            eerst meer dan drie keer zo veel apparaten zal bevatten als eind 2025.
+
+
+
+
+VW-1026-a-23-2-o                            5 / 12                            lees verder ►►►
+      Fibonacci-klok
+
+            Op internet is een bijzondere klok te koop:          foto
+            de Fibonacci-klok. Zie de foto.
+
+            De klok is gebaseerd op een bekende wiskundige
+            rij: de rij van Fibonacci. Van deze rij zijn de
+            eerste tien termen de getallen:
+
+            1 – 1 – 2 – 3 – 5 – 8 – 13 – 21 – 34 – 55
+
+            Op de foto zie je dat de klok uit vijf vierkanten
+            bestaat. Deze vierkanten stellen de getallen uit de rij van Fibonacci voor.
+            Dit is ook in onderstaande figuur weergegeven.
+
+            figuur
+
+
+
+
+            De getallen in de figuur geven een maat voor de lengte van de zijden van
+            de vierkanten in de figuur aan.
+2p   10     Bereken hoeveel keer zo groot de oppervlakte van het grootste vierkant
+            is als de oppervlakte van het op één na grootste vierkant. Geef je
+            antwoord in één decimaal.
+
+            Achter elk van de vierkanten zitten drie lampjes verborgen: een rood, een
+            groen en een blauw. Van deze lampjes brandt er steeds hooguit één.
+            Hierdoor zijn er voor elk vierkant 4 mogelijkheden: het vlak staat ‘uit’, óf
+            het vlak heeft een kleur: rood, groen of blauw. Met behulp van deze
+            kleuren kun je de tijd aflezen.
+
+            De klok werkt volgens de 12-uurs-notatie. Daarbij wordt 12.00
+            weergegeven als 0.00.
+            Elke 5 minuten verspringt de klok. Als de werkelijke tijd bijvoorbeeld 14.50
+            of 14.53 is, geeft de klok op beide tijdstippen 2.50 weer.
+
+            De klok heeft veel meer standen dan dat er tijden zijn die de klok kan
+            weergeven.
+4p   11     Bereken hoeveel keer zo veel. Geef je antwoord als geheel getal.
+
+
+
+
+VW-1026-a-23-2-o                             6 / 12                            lees verder ►►►
+            Je kunt de tijd op de klok als volgt aflezen:
+             Tel de waarden van getallen in de blauw gekleurde en de rood
+               gekleurde vierkanten bij elkaar op. Dat zijn de uren.
+             Tel de waarden van getallen in de blauw gekleurde en de groen
+               gekleurde vierkanten bij elkaar op en vermenigvuldig de uitkomst
+               met 5. Dat zijn de minuten.
+            De blauw gekleurde vierkanten tellen dus bij zowel de uren als de minuten
+            mee. In tabel 1 zie je een manier om met alleen maar rood en groen
+            gekleurde vierkanten de tijd 7.25 weer te geven.
+            tabel 1
+               vierkant      1           1             2             3        5
+                   kleur   rood         rood          rood      rood        groen
+            Op een bepaald moment branden de lampjes op de klok zoals in tabel 2 is
+            weergegeven.
+            tabel 2
+               vierkant      1           1             2             3        5
+                   kleur   blauw       – (uit)        groen         rood     rood
+
+3p   12     Bereken welke tijd de klok volgens tabel 2 weergeeft.
+
+            Op deze klok kunnen veel tijden op meer dan een manier worden
+            weergegeven. In tabel 3 staan twee verschillende manieren om de tijd
+            7.25 weer te geven.
+            tabel 3
+               vierkant      1           1             2             3        5
+                   kleur   rood         rood          rood      rood        groen
+                   kleur   – (uit)     – (uit)        rood      – (uit)     blauw
+
+4p   13     Geef nog twee andere manieren om de tijd 7.25 weer te geven.
+
+            Iemand wil een vergelijkbare Fibonacci-klok met groene, rode en blauwe
+            lampjes maken, die de werkelijke tijden op de minuut nauwkeurig kan
+            weergeven in de 24-uurs notatie (dus van 0.00 tot en met 23.59). Die klok
+            moet dan aan twee eisen voldoen:
+            1 Het grootst mogelijke getal moet een optelling zijn met als uitkomst
+               (minstens) 59.
+            2 Alle getallen van 0 t/m 59 moeten kunnen worden gevormd.
+            Om zo’n klok te maken, moeten er aan de klok uit de figuur vierkanten
+            worden toegevoegd die Fibonacci-getallen voorstellen.
+4p   14     Onderzoek welke opeenvolgende getallen uit de rij van Fibonacci dan
+            minimaal aan de klok moeten worden toegevoegd en licht toe dat de klok
+            dan inderdaad aan beide eisen voldoet.
+
+
+
+VW-1026-a-23-2-o                             7 / 12                         lees verder ►►►
+      Unieke woorden
+
+            Teksten bestaan uit woorden (en leestekens, maar die laten we in deze
+            opgave buiten beschouwing). Deze woorden zijn niet allemaal
+            verschillend. Dat wil zeggen dat ze niet allemaal uniek zijn. Hoe meer
+            unieke woorden je naar verhouding tegenkomt, hoe moeilijker de tekst is.
+
+            In deze opgave kijken we naar het percentage unieke woorden in een
+            tekst. Dit percentage wordt bepaald aan de hand van twee grootheden:
+
+            U: het aantal unieke woorden in een stuk tekst;
+            T: het totaal aantal woorden in dat stuk tekst.
+
+            We bekijken de eerste twee zinnen van deze opgave:
+
+            Teksten bestaan uit woorden (en leestekens, maar die laten we in deze
+            opgave buiten beschouwing). Deze woorden zijn niet allemaal
+            verschillend.
+
+
+2p   15     Bepaal het percentage unieke woorden in de eerste twee zinnen van deze
+            opgave samen. Geef je antwoord als geheel getal.
+
+            Van het boek On The Origin of Species van Charles Darwin is het
+            verband tussen U en T bepaald. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+VW-1026-a-23-2-o                           8 / 12                           lees verder ►►►
+            In figuur 1 is op beide assen een logaritmische schaal gebruikt. De
+            gestippelde lijn geeft een benadering van het verband tussen U en T.
+            Figuur 1 staat ook vergroot op de uitwerkbijlage.
+
+            On The Origin of Species bevat in totaal 191 740 woorden en er komen
+            8842 unieke woorden in voor. Naarmate je verder leest, kom je steeds
+            minder nieuwe unieke woorden tegen. Als je een kwart van dit boek hebt
+            gelezen, ben je al meer dan de helft van het totaal aantal unieke woorden
+            tegengekomen.
+5p   16     Bereken met behulp van de gestippelde lijn in de figuur op de
+            uitwerkbijlage hoeveel procent van het totaal aantal unieke woorden je
+            dan al bent tegengekomen. Geef je antwoord als geheel getal.
+
+            De taalkundige Gustav Herdan ontdekte een algemeen verband tussen U
+            en T voor grotere teksten. Dit verband werd door Harold Stanley Heap
+            bekendgemaakt en wordt de wet van Herdan-Heap genoemd.
+
+            De internationale nieuwsdienst Reuters heeft een database – de
+            zogeheten RCV1 – beschikbaar gesteld ten behoeve van taalonderzoek.
+            Onderzoekers hebben voor RCV1 het verband tussen U en T bepaald.
+            Zie figuur 2, waarin log(U ) tegen log(T ) is uitgezet.
+
+            figuur 2
+
+
+
+
+            De grafiek in figuur 2 geeft het werkelijke verband tussen U en T in RCV1
+            en de gestippelde lijn geeft een benadering volgens de wet van Herdan-
+            Heap.
+
+
+
+
+VW-1026-a-23-2-o                           9 / 12                           lees verder ►►►
+            Iemand leest een tekst die bestaat uit de eerste 7432 woorden uit RCV1.
+
+2p   17     Ga met behulp van figuur 2 na of deze tekst voldoet aan de wet van
+            Herdan-Heap.
+
+            Een formule voor de gestippelde lijn in figuur 2 is
+                     log(U )  0, 49 log(T )  1, 64
+3p   18     Benader met behulp van deze formule het aantal unieke woorden in de
+            eerste 1 000 000 woorden in RCV1. Geef je antwoord in duizenden.
+
+            De formule log(U )  0, 49 log(T )  1, 64 kan geschreven worden als
+            U  43,65  T 0,49 .
+
+            Stel nu dat je RCV1 in zijn geheel gaat lezen. Als je dan drie keer zo ver
+            bent gekomen, wil dat niet zeggen dat je ook drie keer zo veel unieke
+            woorden bent tegengekomen. Met behulp van de formule U  43,65  T 0,49
+            kun je berekenen hoeveel procent meer unieke woorden je dan wel bent
+            tegengekomen.
+4p   19     Bereken dit percentage. Geef je antwoord als geheel getal.
+
+
+
+
+VW-1026-a-23-2-o                                 10 / 12                       lees verder ►►►
+      Examenzitting
+
+            Om ervoor te zorgen dat tijdens een zitting van een centraal examen alles
+            eerlijk en in heel Nederland zo gelijk mogelijk verloopt, zijn er strikte
+            regels.
+
+            Hieronder zie je een voorbeeld van een aantal regels die in het
+            examenreglement van een school in Nederland opgenomen zijn.
+
+            Gang van zaken tijdens zittingen van het centraal examen
+            1. Het bevoegd gezag draagt er zorg voor dat het nodige toezicht bij het
+               centraal examen wordt uitgeoefend.
+            …
+            7. Een kandidaat die te laat komt, mag tot uiterlijk een half uur na de
+               aanvang van de zitting worden toegelaten. (Hij/zij levert zijn werk in op
+               het tijdstip dat voor de andere kandidaten geldt.)
+            8. Het eerste uur van de zitting mag de kandidaat geen werk inleveren of
+               het examenlokaal verlaten.
+            9. Gedurende het laatste kwartier mag de kandidaat geen werk inleveren
+               en het examenlokaal niet verlaten.
+
+            In deze opgave laten we het recht op tijdverlenging, dat voor een aantal
+            kandidaten geldt, buiten beschouwing. Ook gaan we ervan uit dat alle
+            kandidaten op tijd komen.
+
+            De zitting van het centraal examen vwo wiskunde C duurt 180 minuten.
+2p   20     Bereken hoeveel procent van de tijd kandidaten het examenlokaal mogen
+            verlaten. Geef je antwoord in hele procenten.
+
+            We voeren de volgende notaties in:
+             H: het eerste halfuur van de examenzitting is bezig;
+             U: het eerste uur van de examenzitting is bezig;
+             K: het laatste kwartier van de examenzitting is bezig.
+
+            Op de uitwerkbijlage is een begin gemaakt van een Venn-diagram van
+            een examenzitting. De rechthoek stelt de hele examenzitting voor en het
+            gebied voor U is hierin al getekend.
+2p   21     Vul het Venn-diagram op de uitwerkbijlage op de juiste wijze aan met de
+            gebieden voor H en K.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1026-a-23-2-o                            11 / 12                           lees verder ►►►
+            Verder voeren we de volgende notaties in:
+             V: de kandidaat mag de zaal verlaten;
+             I: de kandidaat mag zijn/haar werk inleveren.
+
+            Johan vertaalt regel 8 met de volgende formule: U  ( I  V) . Dit is
+            echter niet de bedoeling van regel 8, want de bedoeling van regel 8 is dat
+            de kandidaat het eerste uur van de examenzitting geen werk mag
+            inleveren en het examenlokaal niet mag verlaten.
+
+            Als de formule van Johan juist zou zijn, kunnen er twee situaties optreden
+            die niet de bedoeling zijn van regel 8.
+
+3p   22     Geef de vertaling van de formule van Johan en geef vervolgens de twee
+            situaties die volgens deze formule kunnen optreden, maar niet de
+            bedoeling zijn van regel 8.
+
+            Voor het laatste onderdeel gaan we ervan uit dat regel 8 luidt:
+            "Het eerste uur van de zitting mag de kandidaat geen werk inleveren én
+            het examenlokaal niet verlaten."
+
+            Volgens regels 8 en 9 geldt voor het eerste uur en het laatste kwartier
+            precies hetzelfde. Door middel van één logische bewering over U, K, V,
+            en I kunnen regels 8 en 9 tegelijkertijd beschreven worden.
+3p   23     Noteer deze bewering met behulp van logische symbolen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1026-a-23-2-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

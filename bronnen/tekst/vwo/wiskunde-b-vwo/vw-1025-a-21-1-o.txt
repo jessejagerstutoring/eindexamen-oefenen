@@ -1,0 +1,337 @@
+                                                                 Examen VWO
+
+                                                                     2021
+                                                                            tijdvak 1
+                                                                   maandag 17 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 14 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-21-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t )cos(t )
+             cos(2t )  cos2 (t )  sin 2 (t )  2cos2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-21-1-o                                       2 / 12                       lees verder ►►►
+      Parabool en twee lijnen
+
+            De functie f wordt gegeven door f ( x)  x  x 2 .
+
+
+                           
+            Het punt T 12 , 14 is de top van de grafiek van f.
+            De lijn l is de raaklijn aan de grafiek van f in de oorsprong.
+            De lijn m staat loodrecht op lijn l en gaat door T.
+            V is het vlakdeel dat wordt ingesloten door lijn m en de grafiek van f.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+8p    1     Bereken exact de oppervlakte van V.
+
+
+
+
+VW-1025-a-21-1-o                              3 / 12                            lees verder ►►►
+      Goniometrische functies
+
+            De functies f en g worden voor 0  x  2 gegeven door:
+                   f ( x)  2sin( x)  sin(2 x)
+                   g ( x)  sin(2 x)
+            De grafieken van f en g hebben vijf gemeenschappelijke punten. Drie van
+            deze punten liggen op de x-as. De andere twee punten zijn P en Q.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    2     Bereken exact de x-coördinaten van P en Q.
+
+            De grafiek van g wordt 1 omhoog geschoven. Zo ontstaat de grafiek van
+            de functie h. Zie figuur 2.
+            V is het gebied dat wordt ingesloten door de grafieken van f en h. In
+            figuur 2 is dit gebied grijs gemaakt.
+
+            figuur 2
+
+
+
+
+            De grafieken van f en h snijden elkaar in twee punten. De x-coördinaten
+            van deze twee punten zijn afgerond 1,33 en 2,97.
+5p    3     Bereken de oppervlakte van V met behulp van primitiveren. Geef je
+            eindantwoord in één decimaal.
+
+
+VW-1025-a-21-1-o                                  4 / 12                    lees verder ►►►
+            De functie k wordt gegeven door k ( x)  12 tan( x) . Zie figuur 3, waarin de
+            grafieken van k en f zijn weergegeven.
+
+            figuur 3
+
+
+
+
+            De grafiek van k raakt de grafiek van f in een punt met x-coördinaat 13  .
+4p    4     Bewijs dat voor x  13  de grafieken van k en f elkaar inderdaad raken.
+
+
+
+
+VW-1025-a-21-1-o                              5 / 12                              lees verder ►►►
+      Aardbevingen
+
+            Een aardbeving ontstaat op een plek in de aarde. Het punt recht boven
+            die plek, op het aardoppervlak, heet het epicentrum van die aardbeving.
+            We bekijken in deze opgave een model over aardbevingen, waarbij we
+            ervan uitgaan dat de aardbeving in het epicentrum ontstaat.
+
+            Bij een aardbeving ontstaan verschillende typen golven in de aarde:
+            primaire golven en secundaire golven. Primaire golven zijn sneller dan
+            secundaire golven. We nemen in deze opgave aan dat een primaire golf
+            een constante snelheid van 6 km/s heeft en een secundaire golf een
+            constante snelheid van 3,5 km/s.
+
+            Een seismograaf is een meetinstrument waarmee je primaire en
+            secundaire golven van elkaar kunt onderscheiden. Bij een bepaalde
+            aardbeving registreert een seismograaf in een meetstation dat de eerste
+            secundaire golf 17 seconden na de eerste primaire golf bij het meetstation
+            aankomt. Met deze gegevens kun je de afstand d (in km) van de
+            seismograaf tot het epicentrum van de aardbeving bepalen.
+4p    5     Bereken deze afstand d.
+
+            Om de plaats van het epicentrum te bepalen worden de meetgegevens
+            van verschillende meetstations gecombineerd. In een bepaald gebied
+            staan twee meetstations: S en T. Meetstation T ligt 192 km oostelijker en
+            128 km noordelijker dan meetstation S.
+            Uit de metingen in meetstation S volgt dat het epicentrum van de
+            aardbeving op een afstand van 240 km van dit meetstation S ligt.
+            Uit de metingen in meetstation T volgt dat het epicentrum op 80 km van
+            dit meetstation T ligt.
+            Op grond van deze gegevens zijn er twee mogelijke plaatsen van het
+            epicentrum aan te wijzen. Om deze plaatsen te bepalen worden de
+            meetstations in een assenstelsel geplaatst, waarbij meetstation S in de
+            oorsprong ligt. De coördinaten van meetstation T zijn dan (192, 128). Zie
+            de figuur.
+
+            figuur
+
+
+
+
+VW-1025-a-21-1-o                            6 / 12                           lees verder ►►►
+6p    6     Bereken algebraïsch de coördinaten van de twee mogelijke plaatsen van
+            het epicentrum in kilometers. Geef de coördinaten in je eindantwoord als
+            gehele getallen.
+
+            De zwaarte van een aardbeving wordt uitgedrukt in een getal:
+            de magnitude. Een zware aardbeving heeft een grote magnitude, een
+            lichte aardbeving heeft een kleine magnitude. De United States
+            Geological Survey heeft voor verschillende magnitudes onderzocht hoe
+            vaak aardbevingen met die magnitude in een bepaald gebied
+            voorkwamen.
+            Zie de tabel.
+
+            tabel
+                                gemiddeld aantal
+              magnitude          aardbevingen
+                                    per jaar
+               6,0 – 6,4              210
+               6,5 – 6,9              56
+               7,0 – 7,4              15
+               7,5 – 7,9              3,1
+               8,0 – 8,4              1,1
+               8,5 – 8,9              0,3
+
+            De onderzoekers Gutenberg en Richter hebben een model ontwikkeld om
+            het aantal aardbevingen per jaar in een gebied te voorspellen. Dit model
+            is van de vorm:
+
+                   N  10abM
+            Hierin is M de magnitude en N het te verwachten aantal aardbevingen per
+            jaar met deze magnitude M of groter. De waarden a en b zijn constanten.
+
+            Uit de tabel kun je afleiden dat er gemiddeld 285,5 aardbevingen per jaar
+            zijn met een magnitude van 6,0 of groter. Ook kun je afleiden dat er
+            gemiddeld 4,5 aardbevingen per jaar zijn met een magnitude van
+            7,5 of groter.
+            Met behulp van deze twee gegevens is het mogelijk de waarden van
+            a en b uit te rekenen. Vervolgens kun je met dat model een voorspelling
+            doen van het aantal aardbevingen per jaar met een magnitude van 6,5 of
+            groter.
+6p    7     Onderzoek hoeveel die voorspelling afwijkt van de gegevens in de tabel.
+            Geef je eindantwoord als geheel getal.
+
+
+
+
+VW-1025-a-21-1-o                             7 / 12                          lees verder ►►►
+      Een vierkant en vier vectoren
+
+            Gegeven is het vierkant OABC met hoekpunten O (0, 0) , A (1, 0) , B (1, 1)
+            en C (0, 1) . Verder zijn gegeven het punt P ( p, 0) en het punt Q    , 0 ,
+                                                                                  1
+                                                                                  p
+            met 0  p  1 .
+                                                
+            In figuur 1 zijn de vectoren CP , CA en CQ voor een willekeurige waarde
+            van p weergegeven.
+
+            figuur 1
+
+
+
+
+                                                                                  
+6p    8     Bewijs dat voor elke waarde van p de hoek tussen de vectoren CP en
+                                                       
+             CA gelijk is aan de hoek tussen de vectoren CA en CQ .
+
+            M is het
+                      midden van lijnstuk PB. Zie figuur 2, waarin ook lijnstuk PB en
+                       
+            vector QM zijn getekend.
+
+            figuur 2
+
+
+
+
+                                                      
+            In figuur 2 is p zo gekozen dat vector QM loodrecht staat op lijnstuk PB.
+7p    9     Bereken deze waarde van p. Geef je eindantwoord in twee decimalen.
+
+
+
+VW-1025-a-21-1-o                             8 / 12                                   lees verder ►►►
+      Limiet van een verhouding
+
+            De beweging van een punt P wordt beschreven door de volgende
+            bewegingsvergelijkingen:
+                    x(t )  t 2
+                                2
+                     y (t )  t  2t
+            Gegeven is de lijn met vergelijking x  a , waarbij a  0 .
+            Deze lijn snijdt de x-as in punt Q en de baan van P in de punten R en S,
+            waarbij de y-coördinaat van S groter is dan de y-coördinaat van R.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+                                                               QR
+            Als a onbegrensd toeneemt, nadert de verhouding       tot een limiet.
+                                                               QS
+4p   10     Bereken exact deze limiet.
+
+
+
+
+VW-1025-a-21-1-o                            9 / 12                           lees verder ►►►
+      Gebroken functie met een parameter
+
+            Voor p  0 wordt de functie f p gegeven door:
+
+                                x3  4 p
+                   f p ( x) 
+                                   x2
+            In de figuur is de grafiek van f1 weergegeven.
+
+            figuur
+
+
+
+
+            De grafiek van f1 heeft een scheve asymptoot.
+3p   11     Bewijs dat de grafiek van f1 boven deze scheve asymptoot ligt.
+
+            Voor elke waarde van p  0 heeft de grafiek van f p één top.
+5p   12     Bewijs dat er een lijn is waarop al deze toppen liggen.
+
+
+
+
+VW-1025-a-21-1-o                            10 / 12                          lees verder ►►►
+      Absolute natuurlijke logaritme
+
+            De functie f wordt gegeven door f ( x)  ln( x) .
+            Gegeven is verder de horizontale lijn met vergelijking y  q , met q  0 .
+            Deze lijn snijdt de y-as in het punt A en de grafiek van f in de
+            punten B en C met xB  xC . Zie de figuur.
+
+            figuur
+
+
+
+
+            Er is een waarde van q waarvoor de lengte van lijnstuk BC drie keer zo
+            groot is als de lengte van lijnstuk AB.
+6p   13     Bereken exact deze waarde van q.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1025-a-21-1-o                             11 / 12                            lees verder ►►►
+      P en Pʹ
+
+            De functie f wordt gegeven door f ( x)  6 x .
+            Het punt P is een punt op de grafiek van f rechts van de y-as.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+            In de figuur is het punt P zo gekozen dat er een punt P' bestaat met de
+            volgende eigenschappen:
+                  P' ligt op de negatieve x-as;
+                  Lijnstuk OP' heeft dezelfde lengte als lijnstuk OP ;
+                  POP'  120 .
+6p   14     Bereken exact de x-coördinaat van P' .
+
+
+
+
+VW-1025-a-21-1-o                               12 / 12                       lees verdereinde
+                                                                                          ►►► 
+

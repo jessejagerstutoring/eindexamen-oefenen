@@ -1,0 +1,416 @@
+                                                                Examen HAVO
+
+                                                                     2026
+                                                                            tijdvak 2
+                                                                  donderdag 18 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 18 vragen.
+Voor dit examen zijn maximaal 72 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-26-2-o
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-26-2-o                        2 / 15   lees verder ►►►
+      Door punt P
+
+            De functie f is gegeven door f ( x)  3x  6 .
+            Op de grafiek van f ligt het punt P(1, 3) .
+            Lijn k raakt de grafiek van f in punt P. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    1     Stel op exacte wijze een vergelijking op van lijn k.
+
+            De grafiek van de functie g is een parabool. De top van deze parabool valt
+            samen met het randpunt van de grafiek van f .
+            De grafiek van g snijdt de grafiek van f in het punt P(1, 3) . Zie figuur 2.
+
+            figuur 2
+
+
+
+
+3p    2     Stel op exacte wijze een functievoorschrift op van g.
+
+
+
+
+HA-1025-a-26-2-o                              3 / 15                          lees verder ►►►
+      Twee sinusoïden
+
+            De functie f is gegeven door f ( x)  2 12 sin( 12 x) .
+            De grafiek van f is een sinusoïde. In figuur 1 is vanaf de oorsprong O
+            anderhalve periode van deze sinusoïde getekend.
+
+            figuur 1
+
+
+
+
+            De sinusoïde snijdt de x-as achtereenvolgens in de punten O, A, B en C.
+            Deze punten liggen op de evenwichtsstand van de sinusoïde.
+            De punten D en E met y-coördinaat 1 14 3 liggen op de sinusoïde zoals
+            aangegeven in figuur 1.
+
+            Lijnstuk OA is een aantal keer zo lang als lijnstuk DE.
+5p    3     Bereken exact hoeveel keer zo lang.
+
+
+
+
+HA-1025-a-26-2-o                                 4 / 15                      lees verder ►►►
+            In figuur 2 is opnieuw de grafiek van f tussen de punten O en C getekend.
+
+            Tussen de punten O en C is de grafiek van een functie g gestippeld
+            weergegeven. Deze grafiek is een deel van een sinusoïde. De punten O
+            en C zijn twee opeenvolgende punten op de evenwichtsstand van deze
+            sinusoïde.
+
+            figuur 2
+
+
+
+
+            In O hebben de grafieken van f en g dezelfde helling. Deze helling is
+            gelijk aan 1,25.
+
+            Een functievoorschrift van g is van de vorm g ( x)  v  sin( 16 x) .
+
+            De helling van de grafiek van g in O kan benaderd worden door de
+                                                         y
+            berekening van het differentiequotiënt          op een klein interval.
+                                                         x
+4p    4     Bereken de waarde van v met behulp van het differentiequotiënt op het
+            interval [0; 0,01] . Geef je eindantwoord in één decimaal.
+
+
+
+
+HA-1025-a-26-2-o                                5 / 15                               lees verder ►►►
+      Raaklijn door een punt aan een cirkel
+
+            Gegeven is het punt A (25, 0) . Daarbij is de cirkel c gegeven met
+            middellijn OA. Het middelpunt van c is M. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+                                       2          2
+            Een vergelijking van c is y  25 x  x .
+
+3p    5     Bewijs dat dit inderdaad een vergelijking van c is.
+
+            Verder is de cirkel d gegeven met middelpunt O.
+                                         2              2
+            Een vergelijking van d is y  225  x .
+            De punten P en Q zijn de snijpunten van c en d.
+            Punt P ligt boven de x-as en punt Q onder de x-as.
+            De lijn k gaat door de punten A en Q. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+6p    6     Bewijs dat lijn k een raaklijn aan cirkel d is.
+
+
+
+HA-1025-a-26-2-o                               6 / 15                            lees verder ►►►
+      Twee punten op een parabool
+
+            De grafiek van f is een parabool. De punten A en B liggen op de grafiek.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+            Punt A heeft x-coördinaat 2 en punt B heeft x-coördinaat 6.
+            In punt A is de helling van de raaklijn  12 .
+            In punt B is de helling van de raaklijn 3 12 .
+                                                                   2
+            Het functievoorschrift van f is van de vorm f ( x)  cx  dx .
+
+            Uit de bovenstaande gegevens volgt het volgende stelsel:
+
+                    4c  d   12
+                    
+                    12c  d  3 2
+                                  1
+
+
+
+2p    7     Bewijs dat het stelsel uit de gegevens volgt.
+
+            Door het stelsel op te lossen, krijg je de waarden c en d van de functie f.
+
+            De punten A en B lijken in de figuur even ver van de x-as te liggen.
+4p    8     Onderzoek op exacte wijze of A en B inderdaad even ver van de x-as
+            liggen.
+
+
+
+
+HA-1025-a-26-2-o                               7 / 15                          lees verder ►►►
+      Tekenrobot
+
+            Een tekenrobot is een apparaat dat zelf kan tekenen. In deze opgave
+            wordt een tekenrobot met een scharnierbare tekenarm bekeken. De
+            tekenarm bestaat uit de beweegbare delen OB en BP. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            In figuur 2 is in een assenstelsel een bovenaanzicht weergegeven van de
+            scharnierbare tekenarm. De lengte van OB is 10 cm en de lengte van BP
+            is 5 cm.
+
+            De oorsprong is een vast punt. De tekenarm draait om dit punt. In punt B
+            scharniert de tekenarm, waardoor BP om punt B kan draaien. De delen
+            OB en BP maken een hoek β met elkaar.
+
+            figuur 2 bovenaanzicht tekenarm
+
+
+
+
+            De tekenrobot tekent met punt P. Om een deel van een cirkel met
+            middelpunt O te tekenen, moet hoek β op een vaste waarde worden
+            ingesteld. Door de tekenarm vervolgens rond de oorsprong te draaien,
+            tekent punt P de cirkelboog.
+            De straal OP van de getekende cirkelboog hangt af van hoek β .
+
+            Er moet een cirkelboog met middelpunt O en straal 14 cm worden
+            getekend.
+3p    9     Bereken op hoeveel graden hoek β moet worden ingesteld. Geef je
+            eindantwoord in gehelen.
+
+
+
+HA-1025-a-26-2-o                           8 / 15                           lees verder ►►►
+            Bij een andere tekenrobot hebben de twee beweegbare delen van de
+            tekenarm allebei lengte 10 cm, dus OB  BP  10 .
+
+            Een punt R wordt in het assenstelsel geplaatst     figuur 3
+            zodat lijnstuk OR een hoek van 50 graden maakt ten
+            opzichte van de positieve x-as.
+            Zie figuur 3.
+
+            De afstand van punt R tot de oorsprong is 20 cm.
+
+            De tekenrobot moet lijnstuk OR gaan tekenen.
+            Hij beweegt daarom punt P in een rechte lijn van O
+            naar R.
+
+            In figuur 4 is voor verschillende momenten (a, b, c, d en e) het
+            bovenaanzicht van de tekenarm weergegeven tijdens het tekenen.
+            In de beginstand liggen beide delen van de tekenarm op elkaar en staan
+            ze loodrecht op lijnstuk OR. Punt P bevindt zich in de oorsprong.
+
+            figuur 4 bovenaanzicht tekenarm tijdens het tekenen van lijnstuk OP
+
+
+
+
+            De hoek die lijnstuk OB maakt met de positieve x-as, is aangegeven
+            met α . In eerste instantie is hoek α groter dan 90 graden. Tijdens het
+            tekenen van de lijn wordt hoek α steeds kleiner tot uiteindelijk 50 graden.
+
+            In de situatie van figuur 4c geldt dat α  90 .
+4p    10    Bereken de lengte van lijnstuk OP in figuur 4c. Geef je eindantwoord in
+            cm in één decimaal.
+
+
+HA-1025-a-26-2-o                            9 / 15                            lees verder ►►►
+            Om de positie van een willekeurig punt R vast te leggen moeten de helling
+            en lengte van lijnstuk OR in de tekenrobot worden ingevoerd.
+
+            Lijnstuk OR wordt ingevoerd met lengte 20 cm en richtingscoëfficiënt 2.
+            In figuur 5 is de eindpositie van de tekenarm van de tekenrobot getekend.
+
+            figuur 5
+
+
+
+
+4p    11    Bereken in deze situatie algebraïsch de coördinaten van punt R. Geef je
+            eindantwoord in cm in één decimaal.
+
+
+
+
+HA-1025-a-26-2-o                           10 / 15                          lees verder ►►►
+      Exponentiële functies
+
+                                                            1 2 x
+                                                          1
+            De functie f wordt gegeven door f ( x )  2        .
+                                                          2
+            De grafiek van f wordt eerst 2 naar rechts verschoven en daarna
+                                                              8
+            vermenigvuldigd ten opzichte van de x-as met .
+                                                              3
+            Zo ontstaat de grafiek van de functie g.
+                                                                1
+            Deze functie kan worden geschreven als g ( x)   4 x .
+                                                                6
+
+4p    12    Bewijs dit.
+
+            Op de grafiek van g ligt een punt S met y-coördinaat 5.
+            Op de grafiek van g ligt ook een punt P zó, dat de afstand van P tot de
+            y-as de helft is van de afstand van S tot de y-as. Zie de figuur.
+
+            figuur
+
+
+
+
+                                                        1
+            De y-coördinaat van P is te schrijven als     30 .
+                                                        6
+5p    13    Bewijs dit.
+
+
+
+HA-1025-a-26-2-o                            11 / 15                           lees verder ►►►
+      Product van functies
+
+                                                             3    2
+            De functie f is gegeven door f ( x)  x  6 x  9 x .
+            Deze functie heeft één maximum en één minimum.
+
+4p    14    Bereken exact het minimum van de grafiek.
+
+            De grafiek van f heeft twee gemeenschappelijke punten met de x-as, bij
+            x  0 en x  3 .
+                                                             2
+            Verder is gegeven de functie h( x)  x  2 x  1 .
+            De functie f wordt vermenigvuldigd met de functie h. Zo ontstaat de
+                               3     2            2
+            functie v( x)  ( x  6 x  9 x)  ( x  2 x  1) .
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De grafiek van v heeft vier punten gemeenschappelijk met de x-as.
+4p    15    Bereken exact de x-coördinaten van deze vier punten.
+
+
+
+
+HA-1025-a-26-2-o                                   12 / 15                  lees verder ►►►
+            De grafiek van v heeft vier toppen.
+
+            De horizontale lijn met vergelijking y  p heeft 1, 2, 3, 4 of 5 punten
+            gemeenschappelijk met de grafiek van v. Het aantal gemeenschappelijke
+            punten hangt af van de waarde van p.
+
+            In figuur 2 zie je een voorbeeld waarin de vergelijking y  p vier punten
+            gemeenschappelijk heeft met de grafiek van v.
+
+            In figuur 3 zijn voor twee verschillende waarden van p voorbeelden
+            gegeven waarin de lijn y  p drie punten gemeenschappelijk heeft met
+            de grafiek van v.
+
+            figuur 2                                  figuur 3
+
+
+
+
+3p    16    Bereken voor welke waarden van p de lijn y  p vijf punten
+            gemeenschappelijk heeft met de grafiek van v. Geef je eindantwoord zo
+            nodig in één decimaal.
+
+
+
+
+HA-1025-a-26-2-o                            13 / 15                            lees verder ►►►
+      Auto’s in Nederland
+
+            Niet op elk moment in het jaar worden er evenveel nieuwe auto’s
+            verkocht. Meestal worden de meeste nieuwe auto’s in januari verkocht.
+
+            In een toenamediagram kan de toename of afname van het verkochte
+            aantal nieuwe auto’s per maand ten opzichte van de maand ervoor
+            worden getoond. In de figuur is het toenamediagram gegeven van de
+            aantallen verkochte nieuwe auto’s in de eerste drie maanden van het jaar
+            2015. De aantallen auto’s zijn afgerond op duizendtallen.
+
+            figuur
+
+
+
+
+            Verder is bekend dat er in de maand februari 31,25% minder nieuwe
+            auto’s zijn verkocht dan in januari.
+4p    17    Bereken het totaal aantal nieuwe auto’s dat in de eerste drie maanden
+            van 2015 is verkocht.
+
+
+
+
+HA-1025-a-26-2-o                          14 / 15                           lees verder ►►►
+            Tussen 1990 en 2016 is het totale aantal auto’s in Nederland bij
+            benadering lineair gegroeid:
+             Op 1 januari 1990 waren er in totaal 5,2 miljoen auto’s.
+             Op 1 januari 2016 was dit totale aantal 8,1 miljoen.
+
+            Bij deze auto’s zijn ook elektrische auto’s.
+            Het aantal elektrische auto’s is tussen 2010 en 2016 bij benadering
+            exponentieel gegroeid:
+             Op 1 januari 2010 waren er 40 duizend elektrische auto’s.
+             Op 1 januari 2016 was dit aantal 211 duizend.
+
+            Iemand doet in 2016 de volgende uitspraak:
+            “Als het totale aantal auto’s lineair blijft toenemen en het aantal
+            elektrische auto’s exponentieel blijft toenemen, dan is op 1 januari 2027
+            bijna de helft van de auto’s in Nederland elektrisch.”
+
+6p    18    Toon aan dat de uitspraak klopt door het verwachte percentage
+            elektrische auto’s op 1 januari 2027 te berekenen. Geef je eindantwoord
+            in gehele procenten.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-26-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

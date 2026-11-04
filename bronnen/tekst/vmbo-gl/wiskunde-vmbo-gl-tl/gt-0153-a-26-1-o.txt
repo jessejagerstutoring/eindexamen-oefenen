@@ -1,0 +1,321 @@
+                                               Examen VMBO-GL en TL
+
+                                                                 2026
+                                                                        tijdvak 1
+                                                                   vrijdag 8 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 22 vragen.
+ Voor dit examen zijn maximaal 68 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+GT-0153-a-26-1-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-25-1-o                             2 / 12                 lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+GT-0153-a-26-1-o                        3 / 12   lees verder ►►►
+      Kaartenhuizen
+
+            Op de foto’s zie je een aantal kaartenhuizen. Op de linker foto is één paar
+            staande kaarten te zien. Op twee paar staande kaarten wordt steeds een
+            liggende kaart gelegd. Op de middelste foto is een kaartenhuis met
+            2 verdiepingen te zien en op de rechter foto een kaartenhuis met
+            3 verdiepingen.
+
+
+
+
+            Het aantal staande kaarten kun je berekenen met de formule:
+
+                   S = n2 + n
+
+            Hierin is S het aantal staande kaarten en n het aantal verdiepingen.
+
+            Het aantal liggende kaarten kun je berekenen met de formule:
+
+                   L = 21 n2 – 21 n
+
+            Hierin is L het aantal liggende kaarten en n het aantal verdiepingen.
+
+3p    1     Laat met een berekening zien dat je in totaal 77 kaarten nodig hebt voor
+            een kaartenhuis met 7 verdiepingen.
+
+            Op de uitwerkbijlage zie je een tabel en een assenstelsel.
+
+4p    2     Vul de tabel verder in en teken de grafiek bij het totaal aantal kaarten.
+            Maak zelf een juiste verdeling bij de verticale as.
+
+
+
+
+GT-0153-a-26-1-o                             4 / 12                             lees verder ►►►
+4p    3     Yash heeft 3 kaartspellen met een rode achterkant en 1 kaartspel met een
+            blauwe achterkant. Elk kaartspel heeft 54 kaarten. Hij wil de rode kaarten
+            staand en de blauwe kaarten liggend gebruiken.
+
+
+
+
+             Bereken het aantal verdiepingen van het grootste kaartenhuis dat hij
+              op deze manier kan maken. Schrijf je berekening op.
+
+1p    4     Er bestaat een kwadratisch verband tussen het aantal verdiepingen n en
+            het totaal aantal kaarten T.
+             Welke formule past hierbij?
+
+            A      T = 2n2 – 3n
+                        3n 2 + n
+            B      T=
+                           2
+            C      T = n2 + 2n – 1
+            D      T = 1,5n2 + 0,5
+
+
+
+
+GT-0153-a-26-1-o                           5 / 12                            lees verder ►►►
+      Hovenring
+
+
+
+
+            De Hovenring is een zwevende fietsrotonde bij Eindhoven.
+
+            De Hovenring hangt aan 24 kabels. De kabels zijn bevestigd aan de
+            binnenste rand van het fietspad en aan een 70 m hoge paal. De kabels
+            zijn 55 m lang. Zie de tekening.
+
+
+
+
+4p    5     Bereken de hoek die de kabel maakt met het fietspad. Schrijf je
+            berekening op.
+
+
+
+GT-0153-a-26-1-o                           6 / 12                             lees verder ►►►
+3p    6     De 24 kabels zijn op gelijke afstand van elkaar bevestigd. Op de
+            uitwerkbijlage zie je een schematisch bovenaanzicht van de fietsrotonde.
+            Hierin zijn acht kabels getekend.
+             Teken in het witte gedeelte de ontbrekende kabels. Laat met een
+                berekening zien hoe je aan je antwoord komt.
+
+5p    7     De diameter van de fietsrotonde is 72 m, zie de afbeelding op de
+            uitwerkbijlage. Het fietspad is 4,5 m breed.
+             Bereken, zonder te meten, hoeveel m2 de oppervlakte van het fietspad
+                op de fietsrotonde is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-26-1-o                           7 / 12                           lees verder ►►►
+      Goudvoorraad
+
+            De Nederlandsche Bank (DNB) bezit een grote goudvoorraad.
+
+
+
+
+            Op 1 januari 2020 lag in Amsterdam 190 000 kg goud. Dat is 31% van het
+            totale gewicht aan goud van DNB. De rest ligt bij banken in New York,
+            Ottawa en Londen.
+
+2p    8     Bereken hoeveel kg de totale goudvoorraad van DNB is. Schrijf je
+            berekening op.
+
+2p    9     Op 1 januari 2020 was de goudprijs € 43 460,48 per kg.
+             Hoeveel miljard euro was het in Amsterdam opgeslagen goud waard
+               op 1 januari 2020? Schrijf je berekening op en rond je antwoord af op
+               één decimaal.
+
+4p    10    In Londen ligt 110 860 kg goud van DNB. Goud weegt 19,3 gram per cm3.
+             Hoeveel m3 goud van DNB ligt er in Londen? Schrijf je berekening op.
+
+
+
+
+GT-0153-a-26-1-o                           8 / 12                           lees verder ►►►
+      Laadpalen
+
+            In Nederland neemt het aantal elektrische auto’s toe. In de tabel zie je
+            van een aantal jaren hoeveel elektrische auto’s er op 1 januari van dat
+            jaar waren.
+
+              1 januari                2014   2017      2018    2019       2020        2021
+              aantal  1000            4,6    13,6      21,8     44,7     106,6        174,0
+
+            De gegevens van de jaren 2014 tot en met 2021 zijn verwerkt in de
+            grafiek.
+
+
+
+
+3p    11    We gaan ervan uit dat de grafiek van 2014 tot 2017 lineair is.
+             Geef een formule die hierbij past. Gebruik A voor aantal  1000
+              en t voor tijd in jaren met t = 0 op 1 januari 2014.
+
+3p    12    Bereken met hoeveel procent het aantal elektrische auto’s is toegenomen
+            van 1 januari 2020 tot 1 januari 2021. Schrijf je berekening op.
+
+            Elektrische auto’s kunnen opgeladen worden aan laadpalen. Het aantal
+            laadpalen neemt vanaf 1 januari 2017 bij benadering exponentieel toe
+            volgens de formule:
+
+                   L = 33 600  1,2t
+
+            Hierin is L het aantal laadpalen en t de tijd in jaren vanaf 1 januari 2017.
+
+2p    13    Laat met een berekening zien dat er volgens de formule op 1 januari 2023
+            meer dan 100 000 laadpalen waren.
+
+3p    14    Bereken in de loop van welk jaar er volgens de formule voor het eerst
+            meer dan 1 miljoen laadpalen zijn. Schrijf je berekening op.
+
+
+
+GT-0153-a-26-1-o                               9 / 12                             lees verder ►►►
+      James Webb-telescoop
+
+            De James Webb-telescoop is op
+            25 december 2021 gelanceerd.
+            Na 29 dagen en 7 uur bereikte hij zijn
+            bestemming op 1 500 000 km vanaf de
+            aarde.
+
+2p    15    Bereken hoeveel km per uur de
+            gemiddelde snelheid van de telescoop
+            was tijdens deze reis. Schrijf je berekening op.
+
+            De James Webb-telescoop is de opvolger van de Hubble-telescoop. Om
+            licht van sterren en sterrenstelsels op te vangen, zit er een spiegel op de
+            telescoop.
+
+
+
+
+            Je ziet in de tekening de spiegels van de Hubble-telescoop en van de
+            James Webb-telescoop op schaal getekend.
+
+3p    16    De hoogte van de spiegel van de James Webb-telescoop is 6,5 meter.
+             Bereken door te meten hoeveel meter de diameter van de spiegel van
+               de Hubble-telescoop is. Schrijf je berekening op en rond je antwoord
+               af op één decimaal.
+
+5p    17    De spiegel van de James Webb-telescoop bestaat uit 18 regelmatige
+            zeshoeken. Op de uitwerkbijlage zie je één zeshoek getekend die
+            opgedeeld is in zes gelijkzijdige driehoeken.
+             Bereken, zonder te meten, hoeveel meter de zijde van één zeshoek is.
+               Schrijf je berekening op en rond je antwoord af op twee decimalen.
+
+
+
+
+GT-0153-a-26-1-o                            10 / 12                            lees verder ►►►
+            De James Webb-telescoop heeft een hitteschild dat bestaat uit 5 lagen in
+            de vorm van symmetrische zeshoeken. Dit hitteschild zie je onderaan op
+            de foto.
+
+
+
+
+4p    18    Op de uitwerkbijlage zie je één zo’n zeshoek. Hierin is AB = 1 m,
+            AE = 21 m en CF = 14 m.
+             Bereken hoeveel m2 de oppervlakte van deze zeshoek is. Schrijf je
+               berekening op.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-26-1-o                           11 / 12                          lees verder ►►►
+      Formule van Pick
+
+            De Oostenrijkse wiskundige Georg Alexander Pick heeft een formule
+            gevonden om de oppervlakte te berekenen van willekeurige veelhoeken in
+            een rooster. De hoekpunten van de veelhoek moeten dan wel op
+            roosterpunten liggen. De formule van Pick ziet er zo uit:
+                                                         a
+                   oppervlakte veelhoek = b +              –1
+                                                         2
+            Hierin is oppervlakte veelhoek in cm2, b het aantal roosterpunten binnen
+            de veelhoek en a het aantal roosterpunten op de zijden van de veelhoek.
+
+3p    19    Op de uitwerkbijlage zie je een veelhoek waarvan de roosterpunten op de
+            zijden zijn aangegeven.
+             Teken op de uitwerkbijlage ook de roosterpunten binnen de veelhoek
+                en bereken met de formule van Pick hoeveel cm2 de oppervlakte van
+                deze veelhoek is. Schrijf je berekening op.
+
+2p    20    Je ziet zes verschillende oppervlakten.
+            p 23,0 cm2             s 23,3 cm2
+            q 23,1 cm2             t 23,4 cm2
+            r 23,2 cm2             u 23,5 cm2
+
+             Welke van deze oppervlakten kan of kunnen een mogelijke uitkomst
+              van de formule van Pick zijn? Leg je antwoord(en) uit met behulp van
+              de formule.
+
+3p    21    Een vierhoek waarvan de hoekpunten roosterpunten zijn, heeft een
+            oppervlakte van 16 cm2. Er geldt dat b = 13.
+             Welke waarde heeft a? Schrijf je berekening op.
+
+3p    22    Teken een vierkant dat voldoet aan de formule van Pick (alle hoekpunten
+            liggen op roosterpunten) met a = 4 en b groter dan 4.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-26-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

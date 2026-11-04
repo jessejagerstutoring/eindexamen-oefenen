@@ -1,0 +1,326 @@
+                                                                 Examen VWO
+
+                                                                     2022
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-22-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t
+              =    + u ) sin(t ) cos(u ) + cos(t )sin(u )
+             sin(t
+              =    − u ) sin(t ) cos(u ) − cos(t )sin(u )
+             cos(t
+              =    + u ) cos(t ) cos(u ) − sin(t )sin(u )
+             cos(t
+              =    − u ) cos(t ) cos(u ) + sin(t )sin(u )
+
+             sin(2t ) = 2sin(t ) cos(t )
+             cos(2t ) = cos 2 (t ) − sin 2 (t ) = 2cos 2 (t ) − 1 = 1 − 2sin 2 (t )
+
+
+
+
+VW-1025-a-22-2-o                                        2 / 11                        lees verder ►►►
+      Buigraaklijn
+
+            De functie f is gegeven door f ( x)= 2(2 x − 1)3 + 3(2 x − 1) 2 .
+            Voor de afgeleide geldt: f ' (
+                                      =    x) 48 x 2 − 24 x
+
+4p    1     Bewijs dit.
+
+            De lijn k raakt de grafiek van f in het buigpunt.
+5p    2     Stel door middel van exacte berekeningen een vergelijking op van k.
+
+
+
+
+VW-1025-a-22-2-o                                3 / 11                          lees verder ►►►
+      Op de diagonaal van een vierkant
+
+            Gegeven is een vierkant ABCD met zijde 2. Punt M is het midden van
+            lijnstuk AB. Punt P ligt op diagonaal AC en valt niet samen met punt A of
+            punt C. Zie de figuur.
+
+            figuur
+
+
+
+
+            P kan zo worden gekozen dat de lijnstukken DP en MP loodrecht op
+            elkaar staan.
+
+6p    3     Bereken exact de lengte van lijnstuk AP in deze situatie.
+
+
+
+
+VW-1025-a-22-2-o                            4 / 11                           lees verder ►►►
+      Golvend ertussendoor
+
+                                                                       1
+            Voor 0 < x < 2π is de functie f gegeven door f ( x) =            .
+                                                                    2sin( x)
+            In figuur 1 is de grafiek van f weergegeven.
+
+            figuur 1
+
+
+
+
+5p    4     Bereken exact het bereik van f.
+
+            Voor elke waarde van a is de functie g a gegeven door g a ( x) = a cos( x)
+            met domein [0, 2π] .
+            In figuur 2 zijn voor een waarde van a de grafieken van f en g a
+            weergegeven. In deze situatie hebben de grafieken van f en g a geen
+            punten gemeenschappelijk. Als de waarde van a verandert, verandert de
+            amplitude van de grafiek van g a .
+
+            figuur 2
+
+
+
+
+5p    5     Bereken exact voor welke waarden van a de grafieken van f en g a géén
+            punten gemeenschappelijk hebben.
+
+
+
+
+VW-1025-a-22-2-o                              5 / 11                             lees verder ►►►
+      Efficiënt testen
+
+            Een teek is een parasiet. Teken kunnen                foto
+            drager zijn van de bacterie waarvan je de
+            ziekte van Lyme kunt krijgen. Ongeveer 20%
+            van de teken in Nederland is drager van deze
+            bacterie.
+            Om te onderzoeken of een persoon de ziekte
+            van Lyme heeft, neemt men een monster: er
+            wordt wat bloed afgenomen.
+            In een laboratorium wil men 1000 monsters
+            testen op de aanwezigheid van de bacterie.
+            In het laboratorium kan elk van de monsters individueel getest worden. In
+            dat geval zijn er 1000 tests nodig.
+            Een alternatief is om van een aantal monsters een paar druppels te
+            nemen, die bij elkaar te voegen en dan dit mengsel te testen. Als het
+            mengsel de bacterie niet bevat, dan bevat geen van de monsters in het
+            mengsel de bacterie. Als het mengsel de bacterie wel bevat, weet je nog
+            niet welk monster de bacterie bevat en moeten alsnog de monsters in het
+            mengsel stuk voor stuk worden getest.
+            Het aantal monsters dat wordt samengevoegd voor één test is n. Als
+            n = 2 worden dus telkens twee monsters samengevoegd voor een test, en
+            als het mengsel de bacterie bevat, worden de twee monsters nog eens
+            apart getest. Het totale aantal tests T dat naar verwachting nodig is, hangt
+            af van n volgens de volgende formule:
+                              1         
+                   T= 1000 ⋅ 1 + − 0,8n             (formule 1)
+                              n         
+            Hierbij is n ≥ 2 .
+                                                         figuur
+            We bekijken nu eerst de grafiek van
+            deze formule voor T. Deze grafiek is
+            weergegeven in de figuur hiernaast.
+            De grafiek heeft een laagste punt.
+
+4p    6     Bepaal met behulp van de afgeleide
+            van T de helling van de grafiek voor
+             n = 4 en beredeneer daarmee of het
+            laagste punt links of rechts van n = 4
+            ligt.
+
+
+
+
+VW-1025-a-22-2-o                             6 / 11                           lees verder ►►►
+            Deze methode om het laagste totale aantal tests te bepalen wordt ook
+            gebruikt bij het testen op andere soorten besmetting. De fractie besmette
+            monsters wordt daarbij steeds voorgesteld door de variabele p (met
+            0 ≤ p ≤ 1). Voor de eerder genoemde besmetting door teken geldt dat
+            ongeveer 20% besmet is, dus wordt gerekend met p = 0, 2 .
+
+            Als er niet 1000, maar N monsters worden getest, dan ziet formule 1 er
+            voor willekeurige p als volgt uit:
+                                1            n
+                   T (n) = N ⋅ 1 + − (1 − p )             (formule 2)
+                                n             
+            Hierin is T ( n) het verwachte totale aantal tests, n het aantal monsters dat
+            wordt samengevoegd en p de fractie besmette monsters.
+            In de praktijk werkt men in een laboratorium niet met de formule, maar
+            met een tabel. Als bekend is welke fractie van de teken (p) besmet is, dan
+            kan in zo’n tabel worden afgelezen voor welke waarde van n het
+            verwachte totale aantal tests ( T ( n) ) zo laag mogelijk is.
+            Om die laagste waarde te vinden wordt bepaald bij welke waarde van p
+            geldt: T (n
+                     =  ) T (n + 1) .
+            Er geldt dan het volgende verband:
+                                     n
+                   n ( n + 1) ⋅ p (1 − p ) =
+                                           1                (formule 3)
+
+
+4p    7     Bewijs dat dit verband juist is.
+
+                                                                          tabel
+            Met behulp van formule 3 kunnen de grenswaarden
+            voor p worden bepaald. Voor een aantal waarden
+                                                                              p         n
+            van n staan de grenswaarden voor p weergegeven in              0,0656       4
+            de tabel hiernaast. In de tabel is bijvoorbeeld te zien        0,0411       5
+            dat voor waarden van p tussen 0,0411 en 0,0656 bij             0,0283       6
+            een keuze van n = 5 het totale aantal tests zo klein
+                                                                           0,0207       7
+            mogelijk is.
+                                                                           0,0158       8
+            Van een bepaalde besmetting is bekend dat p = 0,025 . Men wil dat het
+            verwachte totale aantal tests niet groter is dan 750. Met behulp van de
+            tabel en formule 2 kan nu worden berekend van maximaal hoeveel
+            monsters N bepaald kan worden of ze besmet zijn of niet.
+3p    8     Bereken met behulp van de tabel en formule 2 van maximaal hoeveel
+            monsters N bepaald kan worden of ze besmet zijn of niet.
+
+
+
+
+VW-1025-a-22-2-o                                   7 / 11                         lees verder ►►►
+      Begrensde gebieden
+
+            De functie f is gegeven door:                   figuur 1
+                               4
+                   f ( x) =
+                              x +1
+            De grafiek van f snijdt de y-as in het
+            punt (0, 4) . In figuur 1 is de grafiek van f
+            weergegeven. Ook is de rechthoek
+            weergegeven die wordt begrensd door
+            de x-as, de y-as, de lijn met vergelijking
+            y = 4 en de lijn met vergelijking x = q met q > 0 .
+            De grafiek van f verdeelt deze rechthoek in twee delen.
+
+            Er is één waarde van q waarbij de oppervlaktes van deze twee delen even
+            groot zijn.
+7p    9     Bereken exact deze waarde van q.
+                                                       figuur 2
+
+            De functie g is de inverse functie van de
+            functie f . Het gebied dat wordt ingesloten
+            door de grafiek van f , de grafiek van g en
+            de lijn met vergelijking x = 4 is in figuur 2
+            grijs gekleurd.
+5p   10     Bereken de oppervlakte van dit gebied.
+            Geef je eindantwoord in één decimaal.
+
+
+
+
+VW-1025-a-22-2-o                              8 / 11                      lees verder ►►►
+      Cirkels en lijnen
+
+            Voor 0 ≤ t ≤ 2π beweegt een punt P over een        figuur 1
+            cirkelvormige baan c P met middelpunt O ( 0, 0 )
+            volgens de bewegingsvergelijkingen:
+                    xP (t ) = 2cos(t )
+                   
+                    yP (t ) = 2sin(t )
+            Voor 0 ≤ t ≤ 2π beweegt tegelijkertijd een
+            punt Q over een cirkelvormige baan cQ volgens
+            de bewegingsvergelijkingen:
+                    xQ (t )= 2 + cos(t )
+                    
+                     yQ (t ) = sin(t )
+            Hoek POQ is afhankelijk van t. In figuur 1 zijn beide cirkels c P en c Q
+            weergegeven. Ook zijn de lijnstukken OP en OQ weergegeven voor een
+            waarde van t waarvoor OP en OQ loodrecht op elkaar staan.
+5p   11     Bereken exact de waarden van t waarvoor OP en OQ loodrecht op elkaar
+            staan.
+
+            De lijn door P en Q snijdt de x -as in punt A. De x -coördinaat van A is
+            onafhankelijk van t.
+5p   12     Bewijs dit.
+
+            Punt M is het midden van lijnstuk PQ. Op t = 0 beginnen P en Q vanaf
+            de x -as naar boven te bewegen. Punt M beweegt dan mee naar boven.
+            In figuur 2, 3 en 4 is voor drie waarden van t de situatie weergegeven.
+
+            figuur 2                         figuur 3            figuur 4
+
+
+
+
+            Voor t ≈ 0,723 ligt punt M op cirkel cQ. Zie figuur 2.
+            Na t ≈ 0,723 komt M in het gebied buiten cQ te liggen. Zie figuur 3.
+            Op een zeker tijdstip ligt M op cirkel c P. Zie figuur 4.
+            Punt M ligt een percentage van de tijd waarin de punten P en Q een
+            volledige baan doorlopen buiten c P en c Q.
+6p   13     Bereken dit percentage. Geef je eindantwoord als geheel getal.
+
+
+
+VW-1025-a-22-2-o                                   9 / 11                       lees verder ►►►
+      Asymptoot
+
+            De functie f is gegeven door:
+
+                                       x−5
+                   f ( x) = x − 1 +
+                                      2x − 5
+            In de figuur is de grafiek van f weergegeven. De grafiek heeft een
+            knikpunt voor x = 1 . Lijn k is een scheve asymptoot van de grafiek van f .
+            Ook deze scheve asymptoot is in de figuur weergegeven.
+
+            figuur
+
+
+
+
+3p   14     Stel een vergelijking op van k.
+
+            Een deel van de grafiek van f ligt onder de x -as.
+6p   15     Bereken exact voor welke waarden van x de grafiek van f onder de x -as
+            ligt.
+
+
+
+
+VW-1025-a-22-2-o                               10 / 11                         lees verder ►►►
+      Twee punten op een grafiek
+
+            De functie f is gegeven door f ( x)= x ⋅ e x .
+            De punten P en Q liggen op de grafiek van f.
+            De x -coördinaat van P is p en de x -coördinaat van Q is 2p.
+
+            Voor een bepaalde waarde van p heeft de lijn door P en Q een
+            richtingscoëfficiënt van 6.
+5p   16     Bereken exact deze waarde van p.
+
+
+
+
+VW-1025-a-22-2-o                            11 / 11                        einde 
+

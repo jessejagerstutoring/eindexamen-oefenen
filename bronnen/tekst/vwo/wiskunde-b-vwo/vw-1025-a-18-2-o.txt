@@ -1,0 +1,397 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                   woensdag 20 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-18-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t ) cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-18-2-o                                        2 / 10                        lees verder ►►►
+      Loodrecht in de perforatie
+
+                                                     2  2 x  1
+            De functie f is gegeven door f ( x)                  .
+                                                           x
+                                                               2
+            Ook is gegeven de functie h door h( x)                 .
+                                                            1 x 1
+            Voor x  0 geldt: f ( x)  h( x)
+
+3p    1     Bewijs dat voor x  0 geldt: f ( x )  h( x )
+
+                                                              4 x2  x
+            Verder is de functie g gegeven door g ( x)                .
+                                                                  x
+            Er is een lijn k die voor x  0 samenvalt met de grafiek van g.
+
+            In figuur 1 zijn de grafieken van f en g weergegeven.
+            Punt P (0, 1) is de perforatie van beide grafieken.
+            In figuur 2 zijn de grafiek van h en lijn k weergegeven en ook hun snijpunt P.
+
+            figuur 1                                     figuur 2
+
+                   y                                          y
+
+
+                           g                                          k
+
+
+                       P       f                                  P
+                                                                           h
+
+                       O                   x                      O            x
+
+
+
+            Er geldt:
+                de grafieken van f en g staan in hun perforatie P loodrecht op elkaar als
+                de grafiek van h en lijn k in hun snijpunt P loodrecht op elkaar staan.
+
+5p    2     Bewijs dat de grafieken van f en g in hun perforatie P loodrecht op elkaar
+            staan.
+
+
+
+
+VW-1025-a-18-2-o                                3 / 10                         lees verder ►►►
+      IJsbol
+
+            De snelheid waarmee een ijsklontje smelt, hangt        foto
+            onder andere af van de verhouding tussen de
+            oppervlakte A in cm2 en het volume V in cm3 van
+            het ijsklontje. Deze verhouding wordt uitgedrukt in
+                           A
+            het quotiënt     .
+                           V
+            Voorbeeld: bij een kubusvormig ijsklontje met
+                                                       27  2 .
+            ribben van 3 cm is dit quotiënt gelijk aan 54
+
+            Er zijn ook bolvormige ijsklontjes ofwel ijsbollen.
+            Zie de foto.
+
+            Voor een bol met straal r gelden voor A en V de
+            formules A  4 r 2 en V  43  r 3 .
+
+            Bij een ijsbol met hetzelfde volume als het genoemde kubusvormige
+                                                             A
+            ijsklontje met ribben van 3 cm is het quotiënt     kleiner dan 2.
+                                                             V
+4p    3     Bereken algebraïsch dit quotiënt bij deze ijsbol. Rond je eindantwoord af
+            op 2 decimalen.
+
+            Een ijsbol wordt in een glas water gedaan,        figuur
+            waarna de ijsbol in het water drijft. Op het                  y
+            moment dat de ijsbol in het water wordt
+            gedaan, heeft deze een straal van 1,5 cm.
+            Er geldt dat 92% van het volume van de
+            ijsbol onder water zit en 8% erboven.
+            Het volume van de ijsbol is dan
+             4 π  1,53  14,137 cm3.                                                    x
+             3                                                         O
+            Het deel van de ijsbol onder het
+            wateroppervlak is op te vatten als een
+            omwentelingslichaam dat ontstaat bij
+            wenteling van een deel van de cirkel met
+            vergelijking x 2  y 2  2, 25 om de y-as.
+            Zie de figuur.
+
+5p    4     Bereken hoeveel cm de ijsbol boven het water uitsteekt op het moment
+            dat hij in het water wordt gedaan. Rond je eindantwoord af op
+            2 decimalen.
+
+
+
+
+VW-1025-a-18-2-o                             4 / 10                             lees verder ►►►
+            In een wiskundig model van het smelten van een ijsbol wordt ervan
+            uitgegaan dat de ijsbol tijdens het smelten bolvormig blijft.
+            De straal van de ijsbol is afhankelijk van de tijd. De straal van de ijsbol op
+            tijdstip t is r (t ) , met t in minuten.
+            Het volume van de ijsbol op tijdstip t is dan V (t )  43   r (t )  . In het model
+                                                                               3
+
+            wordt er verder van uitgegaan dat de formule van r (t ) lineair is.
+
+            Een ijsbol heeft op tijdstip t  0 een straal van 1,5 cm. Op tijdstip t  10 is
+            het volume van deze ijsbol gehalveerd. Vanaf een bepaald tijdstip is er
+            geen ijs meer aanwezig.
+5p    5     Bereken vanaf welk geheel aantal minuten er voor het eerst geen ijs meer
+            aanwezig is.
+
+
+
+
+VW-1025-a-18-2-o                                 5 / 10                                 lees verder ►►►
+      Constante verhouding
+
+            Voor a  0 wordt de functie f a gegeven door f a ( x)  x  x ln(ax) .
+
+4p    6     Bewijs dat voor elke toegestane waarde van x geldt:
+
+                       f a ( x)  f 1 ( x)
+                                   a
+                                              f1 ( x)
+                               2
+
+            Voor elke positieve waarde van a geldt:
+             de grafiek van f a snijdt de x-as in precies één punt S (met
+                   x-coördinaat xS );
+                  de grafiek van f a heeft één top T (met x-coördinaat xT ).
+
+            In de figuur zijn voor een waarde van a de grafiek van f a en de punten S
+            en T weergegeven.
+
+            figuur
+
+                   y
+
+                                         T
+
+                                                         fa
+
+
+
+                                                                       S
+                   O                                                       x
+
+
+                                                                                xS
+7p    7     Bewijs dat voor elke positieve waarde van a de verhouding              constant is.
+                                                                                xT
+
+
+
+
+VW-1025-a-18-2-o                                              6 / 10                 lees verder ►►►
+      Gekanteld vierkant
+
+            Gegeven is het vierkant ABCD                    figuur 1
+            met hoekpunten A (8, 0) , B (0, 4) ,                  y
+            C (4,  4) en D (4,  8) .                          B
+            Op zijde AB ligt het punt P (2, 3) .                       P
+
+            Zie figuur 1.
+                                                                                         A
+            De punten B, C en P liggen op                        O                           x
+            één cirkel.
+5p    8     Stel een vergelijking op van deze
+            cirkel.                                     C
+
+
+
+
+                                                                               D
+            Over lijnstuk DP beweegt                        figuur 2
+            (van D naar P) een punt Q.                           y
+
+                                                                 B
+            Er is een positie van Q waarvoor                           P
+            lijnstuk CQ loodrecht staat op
+            lijnstuk DP. Zie figuur 2.
+5p    9     Bereken voor deze positie exact de                                          A
+                                                                 O                           x
+            coördinaten van Q.
+                                                                           Q
+                                                        C
+
+
+
+
+                                                                               D
+
+            In figuur 3 is driehoek CDQ grijs               figuur 3
+            gemaakt.                                              y
+            Er is een positie van Q waarbij de
+                                                                 B
+            oppervlakte van driehoek CDQ een                           P
+            derde deel is van de oppervlakte van
+            vierkant ABCD.
+5p   10     Bereken voor deze positie exact de                                           A
+                                                                 O         Q                 x
+            coördinaten van Q.
+
+
+                                                        C
+
+
+
+
+                                                                               D
+
+
+
+VW-1025-a-18-2-o                               7 / 10                              lees verder ►►►
+      Anderhalf keer zo groot
+
+            De functie f is gegeven door f ( x)  x 2 .
+            De raaklijn aan de grafiek van f in een punt P ( p, p 2 ) met p  0 snijdt de
+            x-as in een punt A.
+            V is het vlakdeel dat wordt ingesloten door de grafiek van f en de lijn OP.
+            Zie de figuur.
+
+            figuur
+
+                   y
+
+
+
+
+                                        P(p, p2)
+
+
+
+
+                           V
+               f
+
+                       O       A                          x
+
+
+8p   11     Bewijs dat de oppervlakte van driehoek OAP anderhalf keer zo groot is als
+            de oppervlakte van V.
+
+
+
+
+VW-1025-a-18-2-o                               8 / 10                           lees verder ►►►
+      Een baan
+
+            Een punt beweegt voor 0  t  2                     figuur 1
+            volgens de bewegingsvergelijkingen:                        y
+
+                    x(t )  cos(t )sin(2t )
+                   
+                    y (t )  cos(t )
+                                                                      O                  x
+            De baan van het bewegende punt is
+            weergegeven in figuur 1.
+
+            Voor t  12  en t  1 12  bevindt het bewegende
+            punt zich in O. Deze situatie laten we in de
+            gehele opgave verder buiten beschouwing.
+
+             Pt is de positie van het bewegende punt op tijdstip t.
+
+            Er geldt: de lijn door Pa en Pa is voor elke in deze situatie mogelijke
+            waarde van a verticaal.
+3p   12     Bewijs dat die lijn inderdaad verticaal is.
+
+            Er zijn meerdere tijdstippen waarvoor geldt dat de afstand van Pt tot de
+            x-as twee keer zo groot is als de afstand van Pt tot de y-as.
+5p   13     Bereken exact het vierde tijdstip waarvoor dit het geval is.
+
+            Voor iedere waarde van t kunnen de                   figuur 2
+                            
+            snelheidsvector v vanuit punt Pt en                        y
+                       
+            de vector OPt worden getekend.
+                                              
+            In figuur 2 zijn punt Pt , vector OPt en
+                    
+            vector v getekend voor t  34  .
+                                                                 O                  x
+5p   14     Bewijs dat voor t  34  geldt: OPt  v
+
+                                                                                 Pt
+
+
+                                                                                         v
+
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1025-a-18-2-o                               9 / 10                           lees verder ►►►
+      Buiten een vierkant
+
+            Gegeven is het vierkant OABC met O (0, 0) , A (4, 0) en C (0, 4) .
+            Het snijpunt van OB en AC is het punt S.
+            Het punt M (3, 2) is het middelpunt van een cirkel door A en B.
+            De punten F en G zijn de snijpunten van deze cirkel met CS
+            respectievelijk OS. Zie figuur 1.
+
+            figuur 1
+            C                          B
+
+
+
+                   F
+
+                                 M
+                         S
+
+                   G
+
+
+            O                          A
+
+            Er geldt: F is het midden van CS.
+
+5p   15     Bewijs dat F inderdaad het midden is van CS.
+
+            Verder geldt: G is het midden van OS.
+            In figuur 2 zijn de cirkelsectoren BMF en GMA grijs gemaakt.
+
+            figuur 2
+            C                          B
+
+
+
+                   F
+
+                                 M
+                         S
+
+                   G
+
+
+            O                          A
+
+            De oppervlakte van deze twee sectoren samen is gelijk aan de helft van
+            de oppervlakte van de cirkel.
+3p   16     Bewijs dit.
+
+
+
+VW-1025-a-18-2-o                             10 / 10                             lees verdereinde
+                                                                                              ►►► 
+

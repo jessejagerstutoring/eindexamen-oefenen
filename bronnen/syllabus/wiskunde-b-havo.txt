@@ -1,0 +1,1641 @@
+WISKUNDE B HAVO
+
+
+
+SYLLABUS CENTRAAL EXAMEN 2025
+
+
+
+
+Versie 2, juli 2023
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+© 2023 College voor Toetsen en Examens vwo, havo, vmbo, Utrecht.
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag worden verveelvoudigd,
+opgeslagen in een geautomatiseerd gegevensbestand, of openbaar gemaakt, in enige
+vorm of op enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van de uitgever.
+
+
+
+
+                                                                     pagina 1 van 32
+            WISKUNDE B HAVO | syllabus centraal examen 2025
+            Versie 2, juli 2023
+
+
+
+
+            Inhoud
+
+
+
+            Voorwoord                                                                     3
+
+1           Inleiding                                                                     4
+1.1         Wiskunde B in de tweede fase                                                  4
+1.2         Het centraal examen wiskunde B                                                4
+1.3         Domeinindeling                                                                4
+
+2           Specificaties                                                                 5
+2.1         Toelichting op de specificaties                                               5
+2.1.1       Parate kennis, parate vaardigheden en productieve vaardigheden                5
+2.1.2       Nauwkeurigheid en afronden                                                    5
+2.1.3       Voorbeeldopgaven en examenopgaven                                             5
+2.1.4       Algebraïsche vaardigheden                                                     6
+2.1.5       ICT                                                                           6
+2.2         Specificaties                                                                 7
+
+Bijlage 1   Examenprogramma                                                             15
+
+Bijlage 2   Examenwerkwoorden                                                           18
+
+Bijlage 3   Begrippenlijst                                                              20
+
+Bijlage 4   Algebraïsche vaardigheden                                                   26
+
+Bijlage 5   De correctie van de centrale examens wiskunde                               31
+
+
+
+
+                                                                             pagina 2 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het
+examenprogramma zijn de exameneenheden aangewezen waarover het centraal
+examen (CE) zich uitstrekt: het CE-deel van het examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks
+verschijnt, een toelichting op het CE-deel van het examenprogramma. Behalve een
+beschrijving van de exameneisen voor een centraal examen kan een syllabus verdere
+informatie over het centraal examen bevatten. Bijvoorbeeld over een of meer van de
+volgende onderwerpen: specificaties van examenstof, begrippenlijsten, bekend
+veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn op het
+schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere
+vormen van examinering (zoals computerexamens), voorbeeldopgaven, toelichting op
+de vraagstelling, toegestane hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te
+vormen van wat in het centraal examen wel en niet gevraagd kan worden. Naar zijn
+aard is een syllabus dus niet een volledig gesloten en afgebakende beschrijving van
+alles wat op een examen zou kunnen voorkomen. Het is mogelijk, al zal dat maar in
+beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet met zo
+veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het
+verlengde daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen
+voorbereiden. Een syllabus kan ook behulpzaam zijn voor de producenten van
+leermiddelen en voor nascholingsinstanties. De syllabus is niet van belang voor het
+schoolexamen. Daarvoor zijn door de SLO handreikingen geproduceerd die niet in deze
+uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2025. Syllabi van eerdere jaren zijn niet meer
+geldig en kunnen van deze versie afwijken. Voor het examenjaar 2026 wordt een
+nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via
+Examenblad.nl (www.examenblad.nl), de officiële website voor de examens in het
+voortgezet onderwijs.
+In de syllabi 2025 zijn de wijzigingen ten opzichte van de vorige syllabus voor het
+examenjaar 2024 duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn
+diverse vakken waarbij de syllabus 2025 geen inhoudelijke veranderingen heeft
+ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus
+beschreven situatie feitelijk veranderd is. De aan een centraal examen voorafgaande
+Septembermededeling is dan het moment waarop dergelijke veranderingen
+bekendgemaakt worden. Kijkt u voor alle zekerheid jaarlijks in september op
+Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast
+en de wijze waarop het centraal examen wordt afgenomen. Deze vaststelling wordt
+gepubliceerd in het rooster voor de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die
+zenden aan info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H (John) van der Vegt MPM
+
+
+
+
+                                                                      pagina 3 van 32
+      WISKUNDE B HAVO | syllabus centraal examen 2025
+      Versie 2, juli 2023
+
+
+
+
+1     Inleiding
+
+1.1   Wiskunde B in de tweede fase
+      Het vak wiskunde B is een verplicht profiel vak in het profiel Natuur en Techniek. In de
+      profielen Natuur en Gezondheid, Economie en Maatschappij en Cultuur en Maatschappij
+      mogen de leerlingen in plaats van wiskunde A ook wiskunde B als profiel vak kiezen
+      voor zover het bevoegd gezag dit vak als onderdeel van dit profiel aanbiedt. Het is ook
+      mogelijk om wiskunde B te kiezen als extra vak naast wiskunde A.1
+
+      De omvang van het vak wiskunde B is voor het havo 360 SLU. Hiervan beslaat het in
+      deze syllabus gespecificeerde CE-deel 100%.
+
+1.2   Het centraal examen wiskunde B
+      In bijlage 2 is een lijst opgenomen van de specifieke betekenissen van de in het
+      centraal examen gebruikte examenwerkwoorden voor alle wiskundevakken havo/vwo
+      met een centraal examen. Deze lijst is niet uitputtend.
+
+      In bijlage 6 van deze syllabus wordt informatie gegeven over de correctie van de
+      centrale examens wiskunde havo en vwo.
+
+1.3   Domeinindeling
+      Het examenprogramma staat in bijlage 1. Het betreft hier het programma met globale
+      eindtermen, waarvan het CE-deel in hoofdstuk 2 van deze syllabus wordt
+      gespecificeerd. Het SE-deel is nader gespecificeerd in een handreiking van SLO. In de
+      handreiking zijn suggesties opgenomen voor het SE-deel welke dus niet bindend zijn.
+
+      In de onderstaande tabel staat vermeld welke domeinen in het CE geëxamineerd
+      kunnen worden:
+
+
+          Domein                                        in     moet in SE      mag in SE
+                                                        CE
+
+          A Vaardigheden                                X            X
+
+          B Functies, grafieken en vergelijkingen       X                           X
+
+          C Meetkundige berekeningen                    X                           X
+
+          D Toegepaste analyse                          X            X
+
+
+
+
+      1
+       Voor meer informatie omtrent de procedure zie document ‘Veel gestelde vragen aan
+      examenloket’.
+
+
+
+
+                                                                                 pagina 4 van 32
+        WISKUNDE B HAVO | syllabus centraal examen 2025
+        Versie 2, juli 2023
+
+
+
+
+2       Specificaties
+
+2.1     Toelichting op de specificaties
+
+2.1.1   Parate kennis, parate vaardigheden en productieve vaardigheden
+        Bij de specificatie van de globale eindtermen is onderscheid gemaakt tussen parate
+        vaardigheden en productieve vaardigheden. Bovendien is bij een aantal subdomeinen
+        opgenomen over welke parate kennis de kandidaat dient te beschikken. Deze indeling
+        is bedoeld om aan te geven wat het verwachte kennis- en beheersingsniveau van de
+        kandidaat is.
+
+        Met parate vaardigheden wordt hier bedoeld de wiskundige basistechnieken die de
+        kandidaat routinematig moet beheersen.
+
+        Bij productieve vaardigheden is het uitgangspunt dat de kandidaat beschikt over de
+        parate vaardigheden en deze in complexe probleemsituaties kan toepassen. De
+        productieve vaardigheden voert de kandidaat niet op routine uit. De kandidaat zal door
+        inzicht, overzicht, probleemaanpak en metacognitieve vaardigheden een strategie
+        moeten bedenken om het probleem op te lossen.
+
+        Bij parate kennis gaat het om kennis waarover de kandidaat dient te beschikken en die
+        niet uit de formuleringen van de parate en/of productieve vaardigheden blijkt. De
+        opsomming van parate kennis is daarmee een aanvulling op de parate en productieve
+        vaardigheden. Parate kennis die bij een sub domein wordt genoemd, kan ook bij
+        andere sub domeinen voorkomen en wordt dan ook binnen het totale CE-deel van het
+        examenprogramma als parate kennis beschouwd.
+
+        In bijlage 3 staat voor de verschillende wiskundevakken een overzicht van de
+        wiskundige begrippen die bekend verondersteld worden bij het centraal examen. De
+        begrippen die in dit overzicht aangegeven worden kunnen zonder toelichting worden
+        gebruikt in het centraal examen. Dit overzicht is niet uitputtend.
+
+2.1.2   Nauwkeurigheid en afronden
+        Als in een examenopgave niet vermeld is in welke nauwkeurigheid het antwoord
+        gegeven dient te worden, dient de kandidaat die nauwkeurigheid uit de
+        probleemsituatie af te leiden. Het kiezen van een passende maateenheid valt
+        hieronder. Als de probleemsituatie dit toelaat, mag een nauwkeuriger antwoord
+        gegeven worden dan de nauwkeurigheid die de kandidaat uit de probleemsituatie
+        afgeleid zou kunnen hebben. Het correctievoorschrift geeft hier uitsluitsel over.
+
+        Een kandidaat kan uit de probleemsituatie afleiden wanneer afronden volgens de
+        gebruikelijke afrondingsregels (6,4 wordt 6 en 6,5 wordt 7) niet van toepassing is.
+        Een kandidaat moet weten dat tussentijds afronden gevolgen kan hebben voor het
+        eindantwoord en dient hiernaar te handelen.
+
+2.1.3   Voorbeeldopgaven en examenopgaven
+        De volgende opgaven kunnen gebruikt worden als voorbeeldmateriaal voor
+        toekomstige examens:
+               -   Examens die zijn afgenomen vanaf 2017
+               -   Pilotexamens die zijn afgenomen voor 2017
+               -   Voorbeeld(examen)opgaven die in de syllabus 2017 te vinden zijn.
+
+
+
+
+                                                                               pagina 5 van 32
+        WISKUNDE B HAVO | syllabus centraal examen 2025
+        Versie 2, juli 2023
+
+
+
+
+2.1.4   Algebraïsche vaardigheden
+        Bij de specificaties is ervan uitgegaan dat de kandidaten bekend zijn met de vereiste
+        algebraïsche vaardigheden. Voor alle wiskundevakken havo/vwo met een centraal
+        examen wordt een overzicht van deze algebraïsche vaardigheden gegeven in bijlage 4.
+        Hoewel bij het samenstellen van dit overzicht de grootst mogelijke nauwkeurigheid is
+        nagestreefd, kan niet gegarandeerd worden dat deze uitputtend is.
+
+2.1.5   ICT
+        In het CE wordt met ICT de grafische rekenmachine bedoeld. Zie hiervoor te zijner tijd
+        de Mededeling Hulpmiddelen en Regeling toegestane hulpmiddelen.
+
+
+
+
+                                                                              pagina 6 van 32
+      WISKUNDE B HAVO | syllabus centraal examen 2025
+      Versie 2, juli 2023
+
+
+
+
+2.2   Specificaties
+
+      Domein A           Vaardigheden
+
+      Subdomein A1            Algemene vaardigheden
+      De kandidaat heeft kennis van de rol van wiskunde in de maatschappij, kan hierover
+      gericht informatie verzamelen en de resultaten communiceren met anderen.
+
+      De kandidaat kan
+      1.     doelgericht informatie zoeken, beoordelen, selecteren en verwerken;
+      2.     adequaat schriftelijk rapporteren over onderwerpen uit de wiskunde.
+
+      Subdomein A2           Profiel specifieke vaardigheden
+      De kandidaat kan profiel specifieke probleemsituaties in wiskundige termen analyseren,
+      oplossen en het resultaat naar de betrokken context terugvertalen.
+
+      De kandidaat kan
+      1.    een probleemsituatie in een wiskundige, natuurwetenschappelijke of
+            maatschappelijke context analyseren, gebruik makend van relevante begrippen
+            en theorie vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en
+            uit de onderzoeksresultaten conclusies trekken;
+      2.    een realistisch probleem in een context analyseren, inperken tot een
+            hanteerbaar probleem, vertalen naar een wiskundig model, modeluitkomsten
+            genereren en interpreteren en het model toetsen en beoordelen;
+      3.    met gegevens van wiskundige en natuurwetenschappelijke aard consistente
+            redeneringen opzetten.
+
+      Subdomein A3           Wiskundige vaardigheden
+      De kandidaat beheerst de bij het examenprogramma passende wiskundige
+      denkactiviteiten, waaronder modelleren en algebraïseren, ordenen en structureren,
+      analytisch denken en probleem oplossen, formules manipuleren, abstraheren, en
+      logisch redeneren en bewijzen – en kan daarbij ICT functioneel gebruiken.
+
+      De kandidaat
+      1.     beheerst de rekenregels;
+      2.     beheerst de specifieke algebraïsche vaardigheden;
+      3.     heeft inzicht in wiskundige notaties en formules en kan daarmee kwalitatief
+             redeneren;
+      4.     kan wiskundige informatie ordenen en in probleemsituaties de wiskundige
+             structuur onderkennen;
+      5.     kan bij een gegeven probleemsituatie een model opstellen in wiskundige
+             termen;
+      6.     kan op basis van een gegeven probleemsituatie een schatting maken van de
+             uitkomst zonder deze uitkomst exact te berekenen;
+      7.     kan een oplossingsstrategie kiezen, deze correct toepassen en de gevonden
+             oplossing controleren binnen de context;
+      8.     kan vakspecifieke taal interpreteren en gebruiken;
+      9.     kan de correctheid van wiskundige redeneringen verifiëren;
+      10.    kan eenvoudige wiskundige redeneringen correct onder woorden brengen;
+      11.    kan bij het raadplegen van wiskundige informatie, bij het verkennen van
+             wiskundige situaties, bij het geven van wiskundige redeneringen en bij het
+             uitvoeren van wiskundige berekeningen gebruik maken van geschikte ICT-
+             middelen.
+
+
+
+
+                                                                           pagina 7 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+12.         kan antwoorden afronden op een voorgeschreven nauwkeurigheid dan wel op
+            een nauwkeurigheid die past bij de probleemsituatie.2
+
+Domein B               Functies, grafieken en vergelijkingen
+
+Subdomein B1           Standaardfuncties
+De kandidaat kan standaardfuncties (machtsfuncties, exponentiële en logaritmische
+functies en goniometrische functies) hanteren, interpreteren binnen een context, de
+grafieken beschrijven en in een functievoorschrift vastleggen en werken met
+eenvoudige transformaties.
+
+Parate kennis
+De kandidaat kent:
+•   de grafiek en karakteristieke eigenschappen van de lineaire of eerstegraadsfunctie
+     f (x ) ax b , evenals de naam lijn voor de grafiek ervan;
+•      de grafiek en karakteristieke eigenschappen van de kwadratische of
+       tweedegraadsfunctie f (x )       ax 2      bx     c of f (x ) a(x – p)(x – q) of
+                          2
+        f (x )   a(x    r)    s evenals de naam parabool voor de grafiek ervan;
+•      de grafiek en karakteristieke eigenschappen van de machtsfunctie f (x )                 x p , p is
+       een rationaal getal, in het bijzonder van de wortelfunctie f (x )              x;
+•      de grafiek en karakteristieke eigenschappen van de exponentiële functie f (x )                   ax
+                                                   a
+       en de logaritmische functie f (x )              log(x ) , evenals de begrippen grondtal en
+       exponent en de rekenregels voor machten en logaritmen;
+•      de grafiek en karakteristieke eigenschappen van de goniometrische functies
+       f (x ) sin(x ) en f (x ) cos(x ) , evenals de begrippen radiaal, periode, amplitude
+       en evenwichtsstand;
+•      de grafiek en karakteristieke eigenschappen van de gebroken lineaire functie
+                 ax     b
+        f (x )            , evenals de naam hyperbool voor de grafiek ervan;
+                 cx     d
+•      de karakteristieke eigenschappen van functies: domein, bereik, nulpunt, extreem,
+       minimum, maximum, stijgen, dalen, toenemend of afnemend stijgen of dalen;
+•      de karakteristieke eigenschappen van grafieken: snijpunt met de x-as, snijpunt
+       met de y-as, top, symmetrie en asymptotisch gedrag inclusief horizontale en
+       verticale asymptoot;
+•      de transformaties vermenigvuldiging ten opzichte van x- of y-as en translatie;
+•      de notatie xp voor de x-coördinaat van het punt P en yp voor de y-coördinaat van
+       het punt P.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      van de standaardfuncties de grafiek tekenen en daarbij gebruik maken van de
+        karakteristieke eigenschappen van de functie en haar grafiek;
+2.      de verschillende schrijfwijzen van tweedegraads functies gebruiken;
+3.      bij een grafiek of een tabel van een standaardfunctie, een lineaire functie of
+        een kwadratische functie het functievoorschrift opstellen;
+4.      karakteristieke eigenschappen van een standaardfunctie en haar grafiek
+        gebruiken bij het oplossen van problemen;
+
+2
+    Zie de toelichting in paragraaf 2.1.2.
+
+
+
+
+                                                                                      pagina 8 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+5.       een exponentiële functie beschrijven met behulp van de termen beginwaarde
+         en groeifactor;
+6.       bij exponentiële en logaritmische functies x schrijven als functie van y;
+7.       bij machtsfuncties x schrijven als functie van y;
+8.       op een grafiek een translatie en/of vermenigvuldiging ten opzichte van x- of y-
+         as uitvoeren;
+9.       het functievoorschrift opstellen dat hoort bij een nieuwe grafiek die is ontstaan
+         na transformatie van een gegeven grafiek;
+10.      het functievoorschrift opstellen van de somfunctie of de verschilfunctie van
+         twee functies.
+
+Productieve vaardigheden
+De kandidaat kan:
+11.     bij exponentiële groeiprocessen de verdubbelingstijd en de halveringstijd
+        bepalen;
+12.     twee functies samenstellen door middel van een ketting en het
+        functievoorschrift opstellen van de samengestelde functie;
+13.     van een samengestelde functie de karakteristieke eigenschappen bepalen;
+14.    bij een in een probleemsituatie beschreven verband een passend
+       functievoorschrift opstellen;
+15.    x uitdrukken in y bij een samengestelde functie als bedoeld in B1.12.
+
+Subdomein B2           Vergelijkingen en ongelijkheden
+De kandidaat kan vergelijkingen, ongelijkheden en stelsels van twee lineaire
+vergelijkingen oplossen, in voorkomende gevallen grafisch oplossen of de oplossingen
+numeriek benaderen en de oplossingen interpreteren in de context.
+
+Parate kennis
+De kandidaat kent:
+•   het begrip stelsel van vergelijkingen;
+•   de abc-formule.
+
+Parate vaardigheden
+De kandidaat kan:
+1.    een vergelijking oplossen die te herleiden is tot een lineaire vergelijking;
+2.    een vergelijking oplossen die te herleiden is tot een kwadratische vergelijking;
+                                                                         n
+3.     een vergelijking oplossen die te herleiden is tot het type x            c;
+                                                                         x
+4.     een vergelijking oplossen die te herleiden is tot het type a             c of a log(x )      c;
+5.     een vergelijking oplossen van het type f (x )        g(x ) waarbij f en g functies zijn
+       zoals genoemd in sub domein B1;
+6.     een stelsel van twee lineaire vergelijkingen met twee onbekenden oplossen;
+7.     een ongelijkheid oplossen van het type f (x ) g(x ), f (x ) g(x ) of
+
+       f (x )   g(x ), f (x )   g(x ) waarbij f en g standaardfuncties zijn.
+
+
+Productieve vaardigheden
+De kandidaat kan:
+8.   een vergelijking dan wel een ongelijkheid opstellen aan de hand van een gegeven
+     probleemsituatie, de vergelijking of ongelijkheid oplossen en de oplossingen van
+     deze vergelijking of ongelijkheid interpreteren;
+
+
+
+
+                                                                                  pagina 9 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+9.      een vergelijking met een parameter oplossen en de oplossing schrijven als
+        functie van de parameter;
+10.     een ongelijkheid oplossen van de vorm f (x ) c, f (x ) c of f (x ) c, f (x ) c ,
+
+        waarbij f een samengestelde functie is zoals bedoeld in B1.12.
+
+Subdomein B3                Evenredigheidsverbanden
+                                                                                                  d
+De kandidaat kan verbanden tussen de twee grootheden a en b van de vorm a c b
+herkennen, toepassen en bijbehorende grafieken tekenen, vanuit de beschrijving van
+een dergelijk verband een formule opstellen, de evenredigheidsconstante bepalen en
+kan rekenen met en redeneren over verbanden van deze vorm en het effect van
+schaalvergroting.
+
+Parate kennis
+De kandidaat kent:
+•   de begrippen recht evenredig, omgekeerd evenredig, evenredig met een macht,
+    evenredigheidsconstante;
+•   het verschil tussen een lineair verband en een recht evenredig verband;
+                                                    c
+•     formules van de vorm y          cx en y         als respectievelijk een recht evenredig en
+                                                    x
+      een omgekeerd evenredig verband.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      in een gegeven probleemsituatie bepalen of er sprake is van een recht
+        evenredig of een omgekeerd evenredig verband;
+2.      met de algemene vorm van het machtsverband y c x n rekenen;
+3.        in een machtsverband y             c x n tussen twee grootheden x en y de exponent n
+          en de evenredigheidsconstante c bepalen.
+
+Productieve vaardigheden
+De kandidaat kan:
+4.      in een gegeven probleemsituatie een vergelijking opstellen waarbij gebruik
+        wordt gemaakt van het machtsverband tussen twee grootheden, de
+        vergelijking oplossen en de oplossingen interpreteren.
+
+Subdomein B4            Periodieke functies
+De kandidaat kan periodieke verschijnselen beschrijven door middel van sinus- of
+cosinusfuncties, de bijbehorende sinusoïden tekenen en de karakteristieke
+eigenschappen ervan benoemen en alle oplossingen van een goniometrische
+vergelijking op een gegeven interval bepalen.
+
+Parate kennis
+De kandidaat kent:
+•     de exacte waarden van sin(x ) en cos(x ) waarbij x een veelvoud van 16 π of 14 π is.
+
+
+Parate vaardigheden
+De kandidaat kan:
+1.      graden omrekenen in radialen en omgekeerd;
+2.      de grafiek tekenen van functies van de vorm f (x )           d   a sin(b(x   c)) en
+          f (x )   d   a cos(b(x     c)) ;
+
+
+
+
+                                                                               pagina 10 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+3.       vergelijkingen van het type f (x )       c oplossen in een gegeven interval met f
+         een functie als in B4.2. genoemd en daarbij gebruik maken van periodiciteit en
+         symmetrie;
+4.       van een sinusoïde het bijbehorende functievoorschrift opstellen.
+
+Productieve vaardigheden
+De kandidaat kan:
+5.      in een gegeven probleemsituatie voor een periodiek verschijnsel een
+        functievoorschrift zoals bedoeld in B4.2 opstellen, daarmee berekeningen
+        uitvoeren en de resultaten interpreteren.
+
+Domein C           Meetkundige berekeningen
+
+         Opmerking 1:
+         Dit domein betreft de meetkunde in het platte vlak. De ruimte kan wel als
+         context optreden waarin de vlakke meetkunde zich voordoet.
+
+         Opmerking 2:
+         Als in dit domein coördinaten worden gebruikt, dan betreft dat altijd een
+         cartesisch assenstelsel.
+
+Subdomein C1           Afstanden en hoeken in concrete situaties
+De kandidaat kan afstanden en hoeken berekenen met behulp van goniometrische
+verhoudingen, de stelling van Pythagoras en de sinus- en cosinusregel.
+
+Parate kennis
+De kandidaat kent:
+•   het begrip afstand als de lengte van het kortste verbindingslijnstuk tussen twee
+    meetkundige figuren.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      sinus, cosinus en tangens gebruiken voor het berekenen van de grootte van
+        hoeken en de lengte van zijden in een rechthoekige driehoek;
+2.      de stelling van Pythagoras gebruiken om de afstand tussen twee punten te
+        berekenen;
+3.      de sinus- en cosinusregel gebruiken voor het berekenen van de lengte van
+        lijnstukken en de grootte van hoeken in een driehoek;
+4.      met gelijkvormigheid de lengte van lijnstukken berekenen.
+
+Productieve vaardigheden
+De kandidaat kan:
+5.      voor het oplossen van een meetkundig probleem een combinatie gebruiken van
+        C1.1 tot en met C1.4.
+
+Subdomein C2          Algebraïsche methoden
+De kandidaat kan analytisch-algebraïsche berekeningen uitvoeren aan de hand van
+contexten en figuren.
+
+Parate kennis
+De kandidaat kent:
+
+
+
+
+                                                                            pagina 11 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+•   de vergelijking van een lijn in de vorm y     ax    b en in de vorm ax     by     c;
+•   de eigenschap dat het product van de richtingscoëfficiënten van twee loodrecht op
+    elkaar staande lijnen gelijk is aan –1 en omgekeerd;
+•   van een cirkel een vergelijking in de vorm (x      a)2   (y   b)2   r 2 en in de vorm
+     x2   y2    ax    by    c    0;
+•   de stelling dat een raaklijn aan een cirkel loodrecht staat op de straal naar het
+    raakpunt.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      de vergelijking van een lijn en een cirkel opstellen;
+2.      de hoek tussen twee lijnen berekenen;
+3.      de vergelijking van de loodlijn door een gegeven punt op een lijn opstellen;
+4.      uit een vergelijking van een cirkel de straal en de coördinaten van het
+        middelpunt afleiden;
+5.      de vergelijking van de raaklijn aan een cirkel opstellen in een gegeven
+        raakpunt;
+6.      de coördinaten van het snijpunt van twee lijnen berekenen;
+7.      de oplosbaarheid van een stelsel van twee lineaire vergelijkingen in verband
+        brengen met de onderlinge ligging van de bijbehorende lijnen;
+8.      in een coördinatenstelsel de lengte van een lijnstuk berekenen.
+
+Productieve vaardigheden
+De kandidaat kan:
+9.      de coördinaten van de snijpunten van een lijn en een cirkel berekenen;
+10.     de afstand tussen punten, lijnen en cirkels berekenen;
+11.     onderzoeken hoeveel gemeenschappelijke punten een lijn en een cirkel
+        hebben.
+
+
+
+
+                                                                           pagina 12 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Domein D           Toegepaste analyse
+
+Subdomein D1            Veranderingen
+De kandidaat kan het veranderingsgedrag van een functie, gegeven door grafiek, tabel
+of formule, beschrijven door middel van toenamediagrammen en differentiequotiënten
+en kan differentiequotiënten berekenen en interpreteren, ook vanuit een profiel
+specifieke probleemsituatie.
+
+Parate kennis
+De kandidaat kent:
+•   het begrip interval en de intervalnotaties;
+•   de Δ-notatie voor een differentie.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      vanuit een gegeven toenamediagram het verloop van een grafiek schetsen;
+2.      een toenamediagram bij een gegeven grafiek, tabel of formule tekenen;
+3.      differentiequotiënten berekenen indien de functie is gegeven door een grafiek,
+        tabel of formule;
+4.      differentiequotiënten interpreteren als maat voor de gemiddelde verandering in
+        de waarde van een functie op een interval.
+
+Productieve vaardigheden
+De kandidaat kan:
+5.      het veranderingsgedrag van variabelen beschrijven met behulp van
+        toenamediagrammen en differentiequotiënten.
+
+Subdomein D2          Afgeleide functies
+De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale
+veranderingen van functiewaarden benaderen zowel met een differentiaalquotiënt als
+met een numeriek-grafische methode.
+
+Parate kennis
+De kandidaat kent:
+•   notaties voor de afgeleide van een functie;
+•   het begrip hellinggrafiek als de grafiek van de afgeleide functie.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      een lokale afgeleide benaderen door differentiequotiënten met afnemende
+        intervalgrootte;
+2.      een lokale afgeleide interpreteren als de helling of steilheid van een grafiek in
+        een punt.
+
+Productieve vaardigheden
+De kandidaat kan:
+3.      de grafiek van de afgeleide schetsen indien de grafiek van de functie is
+        gegeven;
+4.      de grafiek van de functie schetsen indien de grafiek van de afgeleide is
+        gegeven;
+
+
+
+
+                                                                         pagina 13 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+5.       conclusies trekken over lokale veranderingen van functiewaarden op basis van
+         de afgeleide of met behulp van een numeriek-grafische methode.
+
+Subdomein D3            Bepaling afgeleide functies
+De kandidaat kan de afgeleide functie van machtsfuncties met rationale exponenten
+bepalen en kan voor het bepalen van de afgeleide functie gebruik maken van de som-,
+verschil- en kettingregel.
+
+Parate kennis
+De kandidaat kent:
+•   het begrip differentiëren voor het bepalen van de afgeleide.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      de afgeleide bepalen van machtsfuncties met rationale exponenten;
+2.      de somregel en verschilregel gebruiken bij het bepalen van de afgeleide;
+3.      de kettingregel gebruiken bij het bepalen van de afgeleide van een
+        samengestelde functie, waarvan de eerste functie lineair is en de tweede
+        functie een machtsfunctie met rationale exponent;
+4.      het verband gebruiken tussen de afgeleide van een functie f (x ) en de afgeleide
+         van c f (x )    d of de afgeleide van f (c x   d) .
+
+Productieve vaardigheden
+De kandidaat kan:
+5.      een combinatie van somregel, verschilregel en kettingregel gebruiken bij het
+        bepalen van de afgeleide.
+
+Subdomein D4          Toepassing afgeleide functies
+De kandidaat kan analytisch-algebraïsche berekeningen uitvoeren gericht op profiel
+specifieke contexten.
+
+Parate vaardigheden
+De kandidaat kan:
+1.      de afgeleide gebruiken bij het opstellen van de vergelijking van de raaklijn in
+        een punt van de grafiek van een functie;
+2.      de afgeleide gebruiken bij het verifiëren en bij het bepalen van extremen van
+        een functie;
+3.      de afgeleide gebruiken bij het bepalen van een raaklijn met een gegeven
+        helling.
+
+Productieve vaardigheden
+De kandidaat kan:
+4.      in een gegeven probleemsituatie de afgeleide gebruiken voor het bepalen van
+        een optimale situatie;
+5.      een optimaliseringsprobleem vertalen in een formule en dit probleem
+        vervolgens met behulp van de afgeleide of numeriek-grafisch oplossen.
+
+
+
+
+                                                                       pagina 14 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Bijlage 1          Examenprogramma
+
+Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+Domein A Vaardigheden
+Domein B Functies, grafieken en vergelijkingen
+Domein C Meetkundige berekeningen
+Domein D Toegepaste analyse
+
+Het centraal examen
+Het centraal examen heeft betrekking op de domeinen B, C en D in combinatie met de
+vaardigheden uit domein A.
+Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen
+vast.
+Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het
+centraal examen.
+
+Het schoolexamen
+Het schoolexamen heeft betrekking op domein A en:
+-   domein D;
+-   indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen
+    waarop het centraal examen betrekking heeft;
+-   indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat
+    kunnen verschillen.
+
+De examenstof
+
+Domein A: Vaardigheden
+
+Subdomein A1: Algemene vaardigheden
+1. De kandidaat heeft kennis van de rol van wiskunde in de maatschappij, kan
+   hierover gericht informatie verzamelen en de resultaten communiceren met
+   anderen.
+
+Subdomein A2: Profiel specifieke vaardigheden
+2. De kandidaat kan profiel specifieke probleemsituaties in wiskundige termen
+   analyseren, oplossen en het resultaat naar de betrokken context terugvertalen.
+
+Subdomein A3: Wiskundige vaardigheden
+3. De kandidaat beheerst de bij het examenprogramma passende wiskundige
+   denkactiviteiten − waaronder modelleren en algebraïseren, ordenen en
+   structureren, analytisch denken en probleem oplossen, formules manipuleren,
+   abstraheren, en logisch redeneren en bewijzen − en kan daarbij ICT functioneel
+   gebruiken.
+
+
+
+
+                                                                    pagina 15 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Domein B: Functies, grafieken en vergelijkingen
+
+Subdomein B1: Standaardfuncties
+4. De kandidaat kan standaardfuncties (machtsfuncties, exponentiële en logaritmische
+   functies en goniometrische functies) hanteren, interpreteren binnen een context,
+   de grafieken beschrijven en in een functievoorschrift vastleggen en werken met
+   eenvoudige transformaties.
+
+Subdomein B2: Vergelijkingen en ongelijkheden
+5. De kandidaat kan vergelijkingen, ongelijkheden en stelsels van twee lineaire
+   vergelijkingen oplossen, in voorkomende gevallen grafisch oplossen of de
+   oplossingen numeriek benaderen en de oplossingen interpreteren in de context.
+
+Subdomein B3: Evenredigheidsverbanden
+6. De kandidaat kan verbanden tussen de twee grootheden 𝑎 en 𝑏 van de vorm 𝑎 = 𝑐 ∙
+   𝑏 𝑑 herkennen, toepassen en bijbehorende grafieken tekenen, vanuit de
+   beschrijving van een dergelijk verband een formule opstellen, de
+   evenredigheidsconstante bepalen en kan rekenen met en redeneren over
+   verbanden van deze vorm en het effect van schaalvergroting.
+
+Subdomein B4: Periodieke functies
+7. De kandidaat kan periodieke verschijnselen beschrijven door middel van sinus- of
+   cosinusfuncties, de bijbehorende sinusoïden tekenen en de karakteristieke
+   eigenschappen ervan benoemen en alle oplossingen van een goniometrische
+   vergelijking op een gegeven interval bepalen.
+
+Domein C: Meetkundige berekeningen
+
+Subdomein C1: Afstanden en hoeken in concrete situaties
+8. De kandidaat kan afstanden en hoeken berekenen met behulp van goniometrische
+   verhoudingen, de stelling van Pythagoras en de sinus- en cosinusregel.
+
+Subdomein C2: Algebraïsche methoden
+9. De kandidaat kan analytisch-algebraïsche berekeningen uitvoeren aan de hand van
+   contexten en figuren.
+
+Domein D: Toegepaste analyse
+
+Subdomein D1: Veranderingen
+10. De kandidaat kan het veranderingsgedrag van een functie, gegeven door grafiek,
+    tabel of formule, beschrijven door middel van toenamediagrammen en
+    differentiequotiënten en kan differentiequotiënten berekenen en interpreteren, ook
+    vanuit een profiel specifieke probleemsituatie.
+
+Subdomein D2: Afgeleide functies
+11. De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale
+    veranderingen van functiewaarden benaderen zowel met een differentiaal quotiënt
+    als met een numeriek-grafische methode.
+
+
+
+
+                                                                     pagina 16 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Subdomein D3: Bepaling afgeleide functies
+12. De kandidaat kan de afgeleide functie van machtsfuncties met rationale
+    exponenten bepalen en kan voor het bepalen van de afgeleide functie gebruik
+    maken van de som-, verschil- en kettingregel.
+
+Subdomein D4: Toepassing afgeleide functies
+13. De kandidaat kan analytisch-algebraïsche berekeningen uitvoeren gericht op profiel
+    specifieke contexten.
+
+
+
+
+                                                                    pagina 17 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Bijlage 2          Examenwerkwoorden
+
+Er is een gecombineerde lijst voor examenwerkwoorden opgesteld voor natuur- en
+wiskunde. Er is gestreefd naar maximale afstemming en overlap. De complete lijst voor
+wis- en natuurkunde is omstreeks maart 2017 in een nieuwsbericht gepubliceerd op
+Examenblad.nl.
+
+In onderstaande lijst staan de relevante examenwerkwoorden voor wiskunde. Als in
+een wiskunde-examen een van de woorden uit onderstaande lijst wordt gebruikt, geldt
+de betekenis die hiervan in deze lijst is gegeven. Deze lijst met examenwerkwoorden is
+niet uitputtend.
+
+                               Algemeen:
+                               Tenzij anders aangegeven, is de wijze waarop het antwoord
+                               gevonden wordt vrij.
+                               Alleen voor wiskunde B geldt: de toevoeging ‘algebraïsch’
+                               of ‘exact’ legt beperkingen op aan de wijze van
+                               beantwoorden.
+Algebraïsch / op               Zonder gebruik te maken van specifieke opties van de grafische
+algebraïsche wijze             rekenmachine; tussenantwoorden en het eindantwoord mogen
+(alleen wiskunde B)            benaderd opgeschreven worden.
+Exact /                        Zonder gebruik te maken van specifieke opties* van de grafische
+op exacte wijze                rekenmachine; tussenantwoorden en het eindantwoord mogen
+(alleen wiskunde B)            niet benaderd opgeschreven worden.
+                               ------
+                               *Als bijvoorbeeld gevraagd wordt de ongelijkheid 5/x<x exact op
+                               te lossen, wordt verwacht dat de gelijkheid 5/x=x exact wordt
+                               opgelost. De tekens in de oplossing van de ongelijkheid hoeven
+                               niet verantwoord te worden.
+Aantonen dat, laten            Het geven van een redenering en/of bepaling en/of berekening
+zien dat                       waaruit de juistheid van het gestelde blijkt. Uit de uitwerking
+                               moet blijken welke stappen zijn gezet. In het algemeen geldt dat
+                               het gestelde controleren door middel van een of meer
+                               voorbeelden niet voldoet
+Afleiden van                   Het geven van een redenering en/of berekening waaruit de
+bijvoorbeeld een               juistheid van de formule of eenheid volgt. Uit de uitwerking moet
+formule of een                 blijken welke stappen zijn gezet. Tenzij anders aangegeven, geldt
+eenheid                        dat het gestelde controleren door middel van een of meer
+                               voorbeelden niet voldoet.
+Bepalen                        Het gevraagde vaststellen en/of uitrekenen.
+                               Uit de uitwerking moet blijken welke stappen zijn gezet.
+Beredeneren,                   Het geven van een uitwerking waarin de denkstappen staan,
+uitleggen                      waaruit het gestelde/gevraagde blijkt.
+Berekenen                      Het gevraagde uitrekenen.
+                               Uit de uitwerking moet blijken welke stappen zijn gezet.
+Bewijzen (dat)                 Het geven van een redenering en/of exacte berekening waaruit de
+(alleen wiskunde B)            juistheid van het gestelde blijkt.
+                               Uit de uitwerking moet blijken welke stappen zijn gezet.
+                               Het gestelde controleren door middel van een of meer
+                               voorbeelden voldoet niet, tenzij het geven van een tegenvoorbeeld
+                               tot de juiste conclusie leidt
+
+
+
+
+                                                                         pagina 18 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Herleiden (van een             Een formule stap voor stap herschrijven tot deze in de gevraagde
+formule)                       vorm staat, zonder gebruik te maken van specifieke opties van de
+                               grafische rekenmachine.
+Noemen, (aan)geven             Een eindantwoord geven. Een toelichting is niet vereist tenzij
+wat, welke, wanneer,           anders is aangegeven.
+hoeveel
+Onderzoeken of                 Het geven van een redenering en/of bepaling en/of berekening
+                               waaruit de (on)juistheid van het gestelde blijkt. Het antwoord
+                               moet worden afgesloten met een conclusie.
+                               Uit de uitwerking moet blijken welke stappen zijn gezet.
+                               In het algemeen geldt dat het gestelde controleren door middel
+                               van een of meer voorbeelden niet voldoet, tenzij het geven van
+                               een tegenvoorbeeld tot de juiste conclusie leidt.
+Oplossen                       Het bepalen van de waarden van een of meer onbekenden die
+                               voldoen aan de gegeven vergelijking of ongelijkheid.
+                               Uit de uitwerking moet blijken welke stappen zijn gezet.
+Schetsen                       Het geven van een grafische voorstelling die de voor de
+                               probleemsituatie relevante karakteristieke eigenschappen bevat.
+Tekenen                        Het geven van een grafische voorstelling die de voor de
+                               probleemsituatie relevante karakteristieke eigenschappen
+                               bevat en voldoende nauwkeurig is. In het geval van een
+                               grafiek moet een assenstelsel met schaalverdeling zijn
+                               weergegeven.
+
+
+
+
+                                                                          pagina 19 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Bijlage 3          Begrippenlijst
+De in deze lijst opgenomen begrippen worden bij de kandidaten van het betreffende
+centraal examen wiskunde bekend verondersteld. Zij kunnen zonder nadere toelichting
+in examenvragen worden gebruikt.
+In deze lijst zijn die wiskundige begrippen opgenoemd die vermeld zijn onder de parate
+kennis bij de specificaties of voortvloeien uit de parate en productieve vaardigheden.
+Deze lijst met begrippen is niet uitputtend. Zo zijn begrippen die als voorkennis worden
+beschouwd, niet opgenomen.
+
+Bij de standaardfuncties moet de kandidaat de karakteristieke eigenschappen kennen.
+Bij wiskunde A havo en wiskunde C vwo wordt in het examen niet over ‘functies’ maar
+over ‘verbanden’ gesproken, de functienotaties x   ... of f (x ) ... worden hier ook
+niet gebruikt.
+In onderstaande tabel dient voor wiskunde A havo en wiskunde C vwo dan ook overal
+voor ‘functies’ ‘verbanden’ te worden gelezen.
+                                                                   havo           vwo
+                                                                wiA   wiB  wiC wiA                     wiB
+ Functies/verbanden variabele                                    x      x   x      x                    x
+                           grootheid, eenheid                           x                               x
+                           absoluut, relatief                    x          x      x
+                           karakteristieke eigenschappen van            x                               x
+                           een functie
+                               domein                                   x                               x
+                               bereik                                   x                               x
+                               nulpunt                                  x                               x
+                               extreem, extreme waarde                  x          x                    x
+                               maximum(waarde)                   x      x   x      x                    x
+                               minimum(waarde)                   x      x   x      x                    x
+                               (constant, toenemend of           x      x   x      x                    x
+                               afnemend) stijgen
+                               (constant, toenemend of           x      x   x      x                    x
+                               afnemend) dalen
+                                karakteristieke eigenschappen van                   x                   x
+                                een grafiek
+                                   snijpunt(en) met x- en y-as            x         x        x    x    x
+                                   top                                              x        x    x    x
+                                   buigpunt                                                            x
+                                   randpunt                                         x                  x
+                                   symmetrie                                        x                  x
+                                   asymptotisch gedrag                    x1        x       x1    x1   x
+                                   verticale en horizontale asymptoot               x                  x2
+                                   scheve asymptoot                                                    x2
+                                standaardfuncties                         x         x             x    x
+                                   lineaire (of eerstegraads) functies    x         x        x    x    x
+                                       richtingscoëfficiënt               x         x        x    x    x
+                                   kwadratische (of tweedegraads)                   x        x    x    x
+                                   functies
+
+1 Termen hoeven niet gekend te worden, wel de bijbehorende activiteiten
+
+2 Deze begrippen ook in relatie met limieten
+
+
+
+
+                                                                               pagina 20 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                               havo                 vwo
+                                                                            wiA   wiB        wiC    wiA   wiB
+                                   parabool                                         x                      x
+                                   machtsfuncties                                   x          x     x     x
+                                       wortelfuncties                               x                      x
+                                    exponentiële functies                    x      x          x    x      x
+                                       grondtal                              x      x               x      x
+                                       exponent                              x      x          x    x      x
+                                       beginwaarde                           x      x          x    x      x
+                                       groeifactor                           x      x          x    x      x
+                                       groeipercentage                       x      x          x    x      x
+                                       halveringstijd                        x      x          x    x      x
+                                       verdubbelingstijd                     x      x          x    x      x
+                                   logaritmische functies                           x          x    x      x
+                                       logaritme                                    x          x    x      x
+                                       natuurlijke logaritme                                        x      x
+                                       logaritmische schaalverdeling         x                 x    x
+                                   goniometrische functies                            x             x3     x
+                                       sinusoïde                                      x             x      x
+                                       radiaal                                        x                    x
+                                       periodiek verschijnsel                         x        x     x     x
+                                       periode                                        x        x     x     x
+                                       frequentie                                                          x
+                                       trillingstijd                                                       x
+                                       amplitude                                      x        x     x     x
+                                       evenwichtsstand                                x              x     x
+                                       evenwichtswaarde                                        x
+                                       sinusmodel                                                          x
+                                       harmonische trilling                                                x
+                                       som-, verschil en                                                   x
+                                       verdubbelingsformules
+                                   gebroken lineaire functies                         x                    x
+                                       hyperbool                                      x                    x
+                                   absolute-waarde-functies                                                x
+                                vergelijkingen en ongelijkheden              x        x        x     x     x
+                                   lineaire of                               x        x        x     x     x
+                                   eerstegraadsvergelijking
+                                    kwadratische of                                   x                    x
+                                    tweedegraadsvergelijking
+                                    abc-formule                                       x                    x
+                                (lineair) interpoleren en extrapoleren       x                x      x
+                                trend                                                         x
+                                somfunctie                                            x       x4    x4     x
+                                verschilfunctie                                       x       x4    x4     x
+                                productfunctie                                                x4    x4     x
+                                quotiëntfunctie                                               x5    x5     x
+
+
+3
+    Alleen de sinusfunctie
+4
+    Termen hoeven niet gekend te worden, wel de bijbehorende activiteiten
+
+
+
+
+                                                                                 pagina 21 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                              havo                 vwo
+                                                                            wiA  wiB        wiC    wiA   wiB
+                                samengestelde functie, ketting van                 x        x5      x5    x
+                                functies
+                                inverse functie                                      x5                   x
+                                transformaties                                       x                    x
+                                    translatie                                       x                    x
+                                    verschuiving                                     x              x     x
+                                    vermenigvuldiging t.o.v. x-as of                 x                    x
+                                    y-as
+                                    herschalen                                                      x
+                                evenredigheidsverbanden                     x        x        x     x     x
+                                    recht evenredig, evenredig              x        x        x     x     x
+                                    omgekeerd evenredig                     x        x        x     x     x
+                                    evenredig met een macht                          x                    x
+                                    evenredigheidsconstante                          x                    x
+                                limieten                                                                  x
+                                    linker- en rechterlimiet                                              x
+                                    perforatie                                                            x
+                                parameter                                            x                    x
+    Meetkunde                   aanzicht                                                      x
+                                perspectieftekening                                           x
+                                    Éénpuntsperspectief                                       x
+                                    tweepuntsperspectief                                      x
+                                horizon                                                       x
+                                verdwijnpunt                                                  x
+                                oogpunt                                                       x
+                                vergrotingsfactor                                             x
+                                afstand                                              x        x           x
+                                omgeschreven cirkel                                                       x
+                                regelmatige veelhoek                                          x
+                                stelling van Pythagoras                              x        x           x
+                                gelijkvormigheid                                     x        x           x
+                                symmetrie                                                     x
+                                gulden snede                                                  x
+                                goniometrische verhoudingen                          x                    x
+                                sinusregel en cosinusregel                           x                    x
+                                vergelijking van een lijn                   x        x        x     x     x
+                                vergelijking van een cirkel                          x                    x
+                                stelsel vergelijkingen                               x                    x
+                                strijdig stelsel                                                          x
+                                afhankelijk stelsel                                                       x
+                                parametervoorstelling van een lijn                                        x
+                                parametervoorstelling van een cirkel                                      x
+                                vector                                                                    x
+                                    lengte, richtingshoek, kentallen,                                     x
+                                    componenten van een vector
+
+
+5
+    Termen hoeven niet gekend te worden, wel de bijbehorende activiteiten
+
+
+
+
+                                                                                pagina 22 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                            havo                 vwo
+                                                                          wiA  wiB        wiC    wiA   wiB
+                                   inproduct van twee vectoren                                          x
+                                   vectorvoorstelling van een lijn,                                     x
+                                   steunvector, richtingsvector
+                                    zwaartepunt                                                         x
+                                    middelloodlijn                                                      x
+                                    bissectrice (deellijn)                                              x
+ Veranderingen                  interval                                           x        x     x     x
+                                intervalnotaties                                   x                    x
+                                de ∆-notatie voor een differentie                  x                    x
+                                differentiequotiënt                                x              x     x
+                                gemiddelde verandering                             x        x     x
+                                toenamediagram                                     x              x
+                                helling                                            x        x     x     x
+                                steilheid                                          x                    x
+                                hellinggrafiek                                     x              x     x
+                                rijen, inclusief notaties                                   x     x
+                                    rekenkundige rij                                              x
+                                    meetkundige rij                                               x
+                                    somrij                                                        x
+                                    ∑-teken                                                       x
+                                    directe formule                                         x     x
+                                    recursieve formule                                      x     x
+ Differentiaal- en              afgeleide (functie), inclusief notaties            x              x     x
+ integraalrekening
+                                tweede afgeleide, inclusief notaties                                    x
+                                somregel en verschilregel                          x              x     x
+                                productregel                                                      x     x
+                                quotiëntregel                                                     x     x
+                                kettingregel                                       x              x     x
+                                raaklijn                                           x              x     x
+                                integraal, integrand, primitieve                                        x
+                                omwentelingslichaam                                                     x
+                                (baan)snelheid, (baan)versnelling                                       x
+ Statistiek                     betrouwbaarheid,                          x
+                                betrouwbaarheidsinterval
+                                centrummaat, centrum                      x
+                                   gemiddelde                             x
+                                   mediaan                                x
+                                   modus, modaal                          x
+                                data                                      x
+                                   discreet                               x
+                                   continu                                x
+                                   kwantitatief                           x
+                                   kwalitatief                            x
+                                   nominaal                               x
+                                   ordinaal                               x
+                                   absoluut                               x
+
+
+
+
+                                                                              pagina 23 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                      havo                 vwo
+                                                                   wiA   wiB        wiC    wiA   wiB
+                                   relatief                         x
+                                   frequentie                       x
+                                   groepen                          x
+                                   kenmerk                          x
+                                   klasse, klassenindeling          x
+                                verdeling                           x
+                                   klokvormig                       x
+                                   meertoppig                       x
+                                   uniform                          x
+                                   scheef                           x
+                                   staart                           x
+                                   uitschieter                      x
+                                   normale verdeling                x
+                                    de drie vuistregels van de      x
+                                    normale verdeling
+                                populatie                           x
+                                   populatiegemiddelde              x
+                                   populatieproportie               x
+                                representatie / presentatie         x
+                                   dotplot                          x
+                                   staafdiagram                     x
+                                   cirkeldiagram                    x
+                                   steelbladdiagram                 x
+                                   lijndiagram                      x
+                                   (cumulatief / relatief)
+                                   frequentiepolygoon               x
+                                   boxplot                          x
+                                   (cumulatieve) frequentietabel    x
+                                   kruistabel                       x
+                                   puntenwolk, spreidingsdiagram    x
+                                spreidingsmaat, spreiding           x
+                                   interkwartielafstand             x
+                                   standaardafwijking               x
+                                   spreidingsbreedte                x
+                                steekproef                          x
+                                   aselect                          x
+                                   representatief                   x
+                                   steekproefomvang                 x
+                                   steekproevenverdeling            x
+                                   steekproefgemiddelde             x
+                                   steekproefproportie              x
+ Combinatoriek                  boomdiagram                                           x     x
+                                wegendiagram                                          x     x
+                                rooster                                               x     x
+                                permutaties                                           x     x
+                                combinaties                                           x     x
+                                driehoek van Pascal                                   x
+
+
+
+
+                                                                        pagina 24 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                 havo               vwo
+                                                               wiA  wiB      wiC    wiA   wiB
+ Logisch redeneren              Venn-diagram                                  x
+                                nodige, voldoende voorwaarde                  x
+                                contradictie                                  x
+                                paradox                                       x
+                                als-dan-redenering                            x
+                                hier-uit-volgt-conclusie                      x
+                                tegenvoorbeeld                                x
+
+
+
+
+                                                                 pagina 25 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Bijlage 4          Algebraïsche vaardigheden
+
+In deze bijlage worden de eisen wat betreft algebraïsche vaardigheden beschreven
+voor alle wiskundevakken met een centraal examen. Algebraïsche vaardigheden zijn
+geen doel op zichzelf, maar onderdeel van wiskundige activiteiten. De algebraïsche
+vaardigheden moeten in samenhang met het betreffende programma worden gelezen.
+Door algebraïsche expressies te bewerken kan bijvoorbeeld de juistheid van
+beweringen worden aangetoond, het rekenwerk worden vereenvoudigd of
+vergelijkingen zo herschreven worden dat ze exact zijn op te lossen. Deze algebraïsche
+vaardigheden zijn onderverdeeld in specifieke en algemene algebraïsche vaardigheden.
+
+Bij specifieke algebraïsche vaardigheden gaat het om parate kennis en het vlot kunnen
+toepassen van de bijbehorende vaardigheden op de voorkomende algebraïsche
+expressies. Deze vaardigheden hebben betrekking op algoritmisch werken en
+algebraïsch rekenen. Het gaat hier bijvoorbeeld om kennis en gebruik van rekenregels,
+inclusief het werken met haakjes, bij het invullen van getallen of variabelen in een
+expressie en het gebruik van algoritmen om een vergelijking op te lossen.
+
+Bij algemene algebraïsche vaardigheden spelen aspecten als aanpak, globale strategie,
+het herkennen van structuren en methoden, en doelgerichtheid een rol. De kandidaten
+moeten de structuur van een expressie kunnen herkennen, moeten kwalitatief kunnen
+redeneren aan de hand van een formule (zoals stijgen/dalen, symmetrie en
+asymptotisch gedrag), moeten een formule kunnen opstellen door het generaliseren
+van getallenvoorbeelden of het combineren van bekende formules, moeten verbanden
+zien tussen de verschillende representaties van een functie en moeten kunnen wisselen
+tussen ‘betekenisloos manipuleren’ en betekenis toekennen aan de variabelen en
+parameters.
+
+Samenvattend zijn de specifieke vaardigheden die vaardigheden waarvan wordt
+verwacht dat de kandidaat deze snel en geroutineerd kan uitvoeren, terwijl voor de
+algemene vaardigheden de kandidaat in staat moet zijn met inzicht en vooruit denkend
+te handelen.
+
+Bij de onderstaande opsomming van specifieke vaardigheden geldt zeker dat een deel
+(wellicht alleen in zijn grondvorm) reeds bekend verondersteld mag worden vanuit de
+onderbouw. Denk bijvoorbeeld aan de voorrangsregels en het werken met haakjes,
+eenvoudige breukvormen en wortels.
+
+Op de plaats van A , B , C en D in de volgende tabellen kunnen ook eenvoudige
+
+expressies staan, zoals ax         b , a en x 2 .
+                                       x
+Niet aan de orde komen de regels die horen bij het differentiëren.
+
+De vaardigheden genoemd bij categorieën A t/m D moeten in beide richtingen kunnen
+worden uitgevoerd, tenzij anders is vermeld.
+Beperkende voorwaarden zoals bijvoorbeeld noemers van breuken zijn ongelijk 0,
+worden niet vermeld.
+
+Hoewel bij het samenstellen van de kruisjeslijst met de algebraïsche vaardigheden de
+grootst mogelijke nauwkeurigheid is nagestreefd, kan niet gegarandeerd worden dat
+deze volledig is.
+
+
+
+
+                                                                     pagina 26 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                                                    havo                 vwo
+ Specifieke vaardigheden                                                                          wiA wiB        wiC     wiA   wiB
+ A.                    A                C
+                                        AD BC
+ Breukvormen       1.                                                                              x       x         x    x     x
+                                B       D BD
+                                A      A BC
+                           2.       C                                                              x       x         x    x     x
+                                B         B
+                                  B   A B   A                                        1
+                           3.   A             B                             A B                    x       x         x    x     x
+                                  C    C    C                                        C
+                                A C    A C
+                           4.                                                                      x       x         x    x     x
+                                B D   B D
+                                A       A C
+                           5.                                                                      x       x         x    x     x
+                                B
+                                C
+                                         B
+ B.                                                                                                x       x         x    x     x
+                           1.       A B             A     B
+ Wortelvormen
+                                    A           A
+                           2.                                                                      x       x         x    x     x
+                                    B           B
+ C.                        1. haakjes wegwerken en ontbinden in                                    x       x         x    x     x
+ Bijzondere                     factoren:
+ producten                      (x      a)(x        b)    x2       (a       b)x      ab
+                                havo A, vwo A en vwo C: alleen haakjes
+                                wegwerken
+                           2.   (A      B)(C         D)        AC           AD       BC      BD    x       x         x    x     x
+                                havo A, vwo A en vwo C: alleen haakjes
+                                wegwerken
+                           3.   A2      2AB          B2       (A        B)2                                x                    x
+                                    2       2
+                           4.   A       B           (A    B)(A B)                                          x                    x
+                           5.   kwadraat afsplitsen: x                  2
+                                                                              px     q
+                                                                                 2                         x                    x
+                                schrijven in de vorm (x                       r)         s
+
+
+
+
+                                                                                                  pagina 27 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                                                         havo                vwo
+ Specifieke vaardigheden                                                                              wiA wiB       wiC      wiA   wiB
+ D.                      p
+                    1. a a
+                           q
+                                ap q                                                                   x      x      x        x     x
+ Machten en
+ logaritmen             ap
+                    2.       ap q                                                                      x      x          x    x     x
+                                   aq
+                             3.    (a p )q         ap q                                                x      x          x    x     x
+                                           p           p        p
+                             4.    (ab)            a b                                                 x      x          x    x     x
+                                       1
+                             5.                a p                                                     x      x          x    x     x
+                                   ap
+                                                   1
+                                   p
+                             6.        a       a p met p positief en geheel                                   x          x    x     x
+                                   g                   g                  g
+                             7.        log(a )             log(b)             log(a b)                        x               x     x
+                                   g                   g                  g
+                             8.        log(a )             log(b)             log( ab )                       x               x     x
+                                   g
+                             9.        log(a p )               p g log(a )                                    x               x     x
+                                                           p
+                                                               log(a )
+                             10. g log(a )                 p
+                                                                                                              x          x    x     x
+                                                               log(g )
+                                   vwo C: alleen p                            10
+                                   g                       ln(a )
+                             11.       log(a )                                                                                x     x
+                                                           ln(g )
+ E.                          voor formules zie betreffende domein                                             x                     x
+ Goniometrie
+ F.                          1. via substitutie van getallen                                           x      x          x    x     x
+ Herleidingen                2. via substitutie van expressies                                         x      x          x    x     x
+ uitvoeren aan de            3. via het omwerken van formules                                          x      x          x    x     x
+ hand van de
+ elementen
+ genoemd bij A tot
+ en met D
+ G.                          1.    A B             0            A        0 of B           0                   x          x          x
+ Vergelijkingen
+ oplossen met                2.    A B             A C               A          0 of B            C    x      x          x    x     x
+ behulp van
+                                   havo A, vwo A en vwo C:
+ algemene vormen
+ en formules                       A B             A C, A                0         B      C
+ herleiden                         A
+                             3.                C           A        B C                                x      x          x    x     x
+ (voor wiA en wiC
+                                   B
+ worden deze                       A           C
+ vaardigheden                4.                                A D        B C                          x      x          x    x     x
+                                   B           D
+ uitsluitend gebruikt
+ voor het herleiden van      5.    A2          B2              A     B of A                   B               x               x     x
+ formules)
+                             6.        A       B               A     B2                                x      x          x    x     x
+
+
+
+
+                                                                                                      pagina 28 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                                                       havo                vwo
+ Specifieke vaardigheden                                                                            wiA wiB       wiC      wiA   wiB
+ H.                 1. eerstegraadsvergelijkingen                                                    x      x      x        x     x
+ Algoritmen t.b.v.      ax b c x c a b
+ het oplossen van
+ vergelijkingen en  2. tweedegraadsvergelijkingen                                                           x                     x
+ het herleiden van     abc-formule
+ formules                 2                    b                                         b2   4ac
+                                  ax       bx           c           0        x
+ (voor wiA en wiC                                                                        2a
+ worden deze                                                        1
+                                                                                                            x          x    x     x
+ vaardigheden
+                             3.   xn       c        x           c n als n oneven is
+                                                                    1                1
+ uitsluitend gebruikt             xn       c        x           c of x
+                                                                    n
+                                                                                 c als n even
+                                                                                     n
+
+ voor het herleiden van                                                                                     x          x    x     x
+ formules)                        is
+                             4.   gx       a        x           g
+                                                                    log(a )                                 x          x    x     x
+
+                             5.   ex       a        x           ln(a )                                                      x     x
+                                  g
+                             6.       log(x )       b           x           gb                              x          x    x     x
+                                                                        b
+                             7.   ln(x )        b           x           e                                                   x     x
+
+                             8.   x       c         x           c of x           c                                                x
+ I.                          1.   f (A)         c                                                           x                     x
+ Vergelijkingen
+                             2.   f (A)         f (B)                                                       x                     x
+ oplossen met
+ behulp van
+ standaardfuncties
+ J.                          1. grafisch, waaronder ICT                                              x      x          x    x     x
+ Vergelijkingen en           2. vergelijkingen en ongelijkheden                                             x                     x
+ ongelijkheden                  algebraïsch dan wel exact, indien
+ van het type                   algebraïsch/exact oplosbaar
+ f (x ) g(x ) resp.
+  f (x )   g(x )
+ oplossen
+
+
+
+
+                                                                                                    pagina 29 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                                     havo                vwo
+    Algemene vaardigheden                                         wiA wiB       wiC      wiA   wiB
+    K.                1. door variabelen te kiezen bij een         x      x      x        x     x
+    Formules              probleemsituatie
+    opstellen         2. van standaardfuncties
+                          a. eerstegraads/lineaire functie         x      x          x   x      x
+                          b. tweedegraadsfunctie                          x              x      x
+                          c. exponentiële functie                  x      x          x   x      x
+                          d. logaritmische functie                        x              x      x
+                          e. goniometrische functie                       x              x1     x
+                          f. machtsfunctie                                x              x      x
+                          g. absolute waarde functie                                            x
+                      3. door generaliseren via                    x      x          x    x     x
+                          getallenvoorbeelden
+                      4. door schakelen van formules               x      x          x    x     x
+    L.                1. vaststellen of een (deel)expressie
+    Expressies            behoort tot een van de volgende
+    herkennen             families
+                          a. eerstegraads/lineaire functies        x      x          x   x      x
+                          b. tweedegraadsfuncties                         x          x   x      x
+                          c. exponentiële functies                 x      x          x   x      x
+                          d. logaritmische functies                       x          x   x      x
+                          e. goniometrische functies                      x              x1     x
+                          f. machtsfuncties                               x          x   x      x
+                      2. structuur van een expressie               x      x          x   x      x
+                          vaststellen
+                      3. rol van een voorkomende parameter         x      x               x     x
+                          bepalen
+    M.                kwalitatief redeneren over expressies of
+    Karakteristieken  delen daarvan met betrekking tot
+    bepalen           karakteristieken als
+                         a. uiterste waarden                       x      x          x    x     x
+                         b. stijgen of dalen                       x      x          x    x     x
+                         c. asymptotisch gedrag                    x      x          x    x     x
+    N.                1. complexe delen van een expressie          x      x          x    x     x
+    Algebraïsche         vervangen door 'plaatsvervangers'
+    expressies           zodat herkenbare expressies ontstaan
+    reduceren en      2. flexibel kunnen wisselen tussen                  x                     x
+    representeren        betekenis toekennen aan symbolen en
+                         betekenisloos kunnen manipuleren
+                      3. flexibel verschillende representaties     x      x          x    x     x
+                         van functies (formule, tabel, grafiek)
+                         kunnen inzetten en tussen deze
+                         representaties kunnen wisselen
+
+
+
+
+1
+    alleen de sinusfunctie
+
+
+
+
+                                                                  pagina 30 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+Bijlage 5          De correctie van de centrale examens wiskunde
+
+Op examenblad op de vakspecifieke pagina voor havo wiskunde B onder publicaties
+treft u de eerder in Euclides en op Examenblad gepubliceerde artikelen ‘Gelijke
+monniken, gelijke kappen’ (2014) en ‘Nieuwe vakspecifieke regel over afronden voor
+wiskunde A, B en C havo en vwo’ (2016). De artikelen gaan over de correctie van de
+centrale examens wiskunde havo en vwo. In de artikelen worden voorbeelden gebruikt.
+Enkele voorbeelden zijn echter achterhaald als gevolg van wijzigingen in de
+examenprogramma’s (zoals een voorbeeld over kansrekening).
+
+
+
+
+                                                                  pagina 31 van 32
+WISKUNDE B HAVO | syllabus centraal examen 2025
+Versie 2, juli 2023
+
+
+
+
+                                                  pagina 32 van 32
+

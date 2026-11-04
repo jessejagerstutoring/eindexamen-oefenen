@@ -1,0 +1,389 @@
+                                                      Examen VMBO-GL en TL
+
+                                                                           2019
+                                                                                  tijdvak 1
+                                                                        donderdag 16 mei
+                                                                         13.30 - 15.30 uur
+
+
+                                                         wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 70 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-19-1-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-19-1-o                             2 / 11                 lees verder ►►►
+      Paddenstoelen
+
+            De vliegenzwam is een rode paddenstoel met witte stippen.
+
+
+
+
+            Uit tellingen blijkt dat het aantal vliegenzwammen in Nederland snel
+            afneemt. In 1999 werden 110 000 vliegenzwammen geteld. In 2015 was
+            dat aantal nog maar 41 000.
+
+3p    1     Bereken met hoeveel procent het aantal getelde vliegenzwammen in 2015
+            is afgenomen ten opzichte van 1999. Schrijf je berekening op.
+
+            Volgens deskundigen neemt het aantal vliegenzwammen exponentieel af.
+            De formule die hierbij hoort is
+
+                   a = 110 000  0,94t
+
+            Hierin is a het aantal vliegenzwammen en t het aantal jaren na 1999.
+
+1p    2     Met hoeveel procent neemt het aantal vliegenzwammen volgens deze
+            formule per jaar af?
+
+5p    3     Op de uitwerkbijlage staat een assenstelsel getekend.
+             Teken in het assenstelsel de grafiek die bij de formule hoort. Vul eerst
+               de tabel in. Maak zelf een juiste verdeling bij de verticale as.
+
+4p    4     De langsteelfranjehoed is een paddenstoel die
+            steeds meer voorkomt.
+
+            In 1999 werden daar 21 000 van geteld.
+            In 2015 was dat aantal 27 000. Volgens
+            deskundigen is deze stijging lineair.
+
+             Geef een formule die bij deze stijging hoort.
+              Gebruik a voor het aantal paddenstoelen en t voor het aantal jaren na
+              1999.
+
+
+
+
+GT-0153-a-19-1-o                            3 / 11                           lees verder ►►►
+      Watertank
+
+            De hoeveelheid regen die valt, wordt gemeten in mm.
+
+2p    5     Er valt 1 mm regen op een plat dak met een oppervlakte van 1 m2.
+             Laat met een berekening zien dat er dan 1 liter regen op dit dak is
+                gevallen.
+
+            Scholen in Kenia hebben vaak geen waterleiding, daarom vangen ze het
+            regenwater op in een watertank.
+            Op de foto zie je een watertank bij een school in Kenia. Het water
+            loopt vanaf het dak van de school via een regenpijp in de watertank.
+
+
+
+
+            De oppervlakte van het platte dak waar het regenwater op valt, heeft de
+            vorm van een rechthoek. De maten van de rechthoek zijn 4,5 m bij 14 m.
+            Per jaar valt er in dit gebied gemiddeld 839 mm regen.
+
+2p    6     Bereken hoeveel liter regenwater opgevangen wordt in één jaar. Schrijf je
+            berekening op.
+
+
+
+
+GT-0153-a-19-1-o                           4 / 11                           lees verder ►►►
+            De school krijgt er nog een watertank bij. Op de foto zie je deze
+            watertank.
+
+
+
+
+            Deze watertank heeft de vorm van een cilinder, een straal van 1,10 m en
+            een inhoud van 10 000 liter.
+
+4p    7     Bereken hoeveel meter de hoogte van deze watertank is. Schrijf je
+            berekening op en rond je antwoord af op twee decimalen.
+
+            Kunststof watertanks zijn er met verschillende inhouden. Op de foto is de
+            watertank rechts een vergroting van de watertank links. Allebei de
+            watertanks hebben de vorm van een cilinder.
+
+
+
+
+3p    8     De straal van de kleine watertank is 6 dm. De straal van de grote
+            watertank is 12 dm. De inhoud van de grote watertank is 15 000 liter.
+             Bereken de inhoud van de kleine watertank. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-1-o                            5 / 11                              lees verder ►►►
+      Bibliotheken
+
+            Alle bibliotheken in Nederland hebben samen veel boeken. Tot de
+            jaren 90 nam het aantal boeken toe, daarna nam het aantal boeken weer
+            af. In de grafiek hieronder zie je het verloop van dit aantal.
+
+                           50 000
+            aantal boeken
+            in bibliotheken
+                (x 1000) 40 000
+
+
+                          30 000
+
+
+                          20 000
+
+
+                          10 000
+
+
+                               0
+                               1910        1940            1970        2000             2030
+
+
+            Vanaf 1970 benaderen we het aantal boeken in alle bibliotheken samen in
+            Nederland met de formule
+
+                   A = – 40t2 + 2160t + 15 840
+
+            Hierin is A het aantal boeken ( 1000) en t de tijd in jaren met t = 0 op
+            1 januari 1970.
+
+3p    9     Laat met een berekening zien dat er volgens de formule op 1 januari 1988
+            afgerond 42 miljoen boeken waren.
+
+4p    10    Op 1 januari 2016 was de verhouding tussen het aantal jeugdboeken en
+            het aantal boeken voor volwassenen 9 : 11.
+             Bereken hoeveel miljoen jeugdboeken er op 1 januari 2016 waren.
+                Schrijf je berekening op.
+
+4p    11    Op 1 januari van welk jaar was volgens de formule het aantal boeken
+            maximaal? Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-1-o                                  6 / 11                        lees verder ►►►
+            Van de bibliotheek kun je lid worden. Het aantal jeugdleden van alle
+            bibliotheken samen in Nederland is de afgelopen jaren lineair gestegen.
+            Het aantal volwassen leden is lineair gedaald. In de grafiek hieronder zie
+            je het verloop van het aantal volwassen leden en jeugdleden.
+            Hierbij is t in jaren met t = 0 op 1 januari 1999. De grafiek staat ook op de
+            uitwerkbijlage.
+
+                           2500
+            aantal leden                                                          jeugdleden
+              (x 1000)
+                           2000
+
+
+                           1500                                                   volwassen leden
+
+                           1000
+
+
+                            500
+
+
+                              0
+                                  0    5              10         15             20
+                                                                          t (jaren)
+
+
+3p    12    Teken op de uitwerkbijlage de grafiek van het totaal aantal leden vanaf
+            1999. Je mag de tabel op de uitwerkbijlage gebruiken.
+
+
+
+
+GT-0153-a-19-1-o                             7 / 11                                   lees verder ►►►
+      Piramide van geodriehoeken
+
+            Madelon heeft drie even grote bordgeodriehoeken schuin tegen elkaar
+            gezet zodat er een piramide wordt gevormd. Op de foto zie je deze
+            piramide van geodriehoeken met de letters A, B, C bij de hoekpunten en
+            bij de top de letter T. Een schematische tekening staat ernaast.
+            Er geldt: AB = BC = AC = 58 cm
+
+
+
+
+            Elke geodriehoek heeft de vorm van een gelijkbenige, rechthoekige
+            driehoek.
+
+4p    13    Bereken hoeveel cm de lengte van AT is. Schrijf je berekening op.
+
+3p    14    Teken het grondvlak ABC op schaal 1 : 10.
+
+3p    15    De hoogtelijn uit hoekpunt C, in het grondvlak ABC, snijdt AB in punt E.
+             Laat met een berekening zien, zonder te meten, dat de lengte van CE
+               afgerond 50,2 cm is.
+
+
+
+
+GT-0153-a-19-1-o                           8 / 11                           lees verder ►►►
+            M is het snijpunt van de hoogtelijnen van driehoek ABC en ligt precies
+            onder de top T van de piramide. De lengte van TM is 23,7 cm. De lengte
+            van CM is 2 keer zo lang als EM.
+
+                                           T
+
+
+
+
+                                                               C
+                                       F
+
+
+             A
+
+                                           M              D
+
+
+                              E
+
+
+
+
+                                                    B
+
+
+4p    16    Bereken hoeveel graden hoek C is in driehoek TCM. Schrijf je berekening
+            op.
+
+
+
+
+GT-0153-a-19-1-o                           9 / 11                          lees verder ►►►
+      Duikplank
+
+
+
+
+            Als er een persoon op het uiteinde van een duikplank staat, buigt deze
+            plank altijd een beetje door. Voor een bepaald type duikplank kun je het
+            aantal cm dat de duikplank doorbuigt, berekenen met de formule
+
+                        L3  G
+                   D=
+                          40
+
+            Hierbij is D het aantal cm dat de duikplank doorbuigt, G het gewicht van
+            de persoon op het uiteinde van de duikplank in kg en L de lengte van de
+            duikplank in m.
+
+
+                                                         D
+
+
+
+
+1p    17    Thijs gaat op het uiteinde van een duikplank met een lengte van 1,50 m
+            staan. Hij weegt 53 kg.
+             Laat met een berekening zien dat de duikplank afgerond 4,5 cm
+                doorbuigt. Schrijf je berekening op.
+
+3p    18    Volgens de fabrikant van duikplanken mag een duikplank met een lengte
+            van 3 m niet meer dan 70 cm doorbuigen.
+             Bereken in hele kg het maximale gewicht van een persoon die nog op
+               het uiteinde van de duikplank mag staan. Schrijf je berekening op.
+
+3p    19    Als de lengte van een duikplank twee keer zo groot wordt, hoeveel keer
+            zo ver buigt deze duikplank dan door volgens de formule? Schrijf op hoe
+            je aan je antwoord komt.
+
+2p    20    Voor een duikplank met een lengte van 2 m kun je de formule
+                   L3  G
+            D=            ook schrijven in de vorm D = a  G.
+                     40
+             Bereken welk getal a dan is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-1-o                              10 / 11                        lees verder ►►►
+      Mount Everest
+
+
+
+
+            De top van de berg Mount Everest is met 8848 m boven zeeniveau het
+            hoogste punt van de wereld. Het laagste punt van de wereld is de
+            Marianentrog en ligt 11 034 m onder zeeniveau.
+
+1p    21    Hoeveel meter verschil zit er tussen het hoogste en het laagste punt ter
+            wereld? Schrijf je berekening op.
+
+3p    22    In de lucht op de top van de Mount Everest zit weinig zuurstof. Tot nu toe
+            slaagden er 193 bergbeklimmers in om de top te bereiken zonder extra
+            zuurstof. Dit is 2,7% van alle beklimmers van deze berg.
+             Bereken het totaal aantal beklimmers van de Mount Everest. Schrijf je
+                berekening op.
+
+1p    23    Op de uitwerkbijlage staat een kaart met daarop de Mount Everest. De
+            eerste beklimmer van de Mount Everest was Edmund Hillary. Bij het
+            laatste rustpunt, kamp 4, kon hij de top goed zien. De richting naar de top
+            is op de kaart op de uitwerkbijlage getekend.
+             Hoeveel graden is de koershoek van kamp 4 naar de top?
+
+4p    24    Kamp 4 ligt op 7950 m hoogte. De klimafstand vanaf kamp 4 tot aan de
+            top is 2000 m.
+
+              top
+            8848 m
+
+
+                         2000 m
+
+
+
+
+                                   kamp 4
+                                   7950 m
+
+
+             Bereken de aangegeven hellingshoek. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-1-o                            11 / 11                           lees verdereinde
+                                                                                           ►►► 
+

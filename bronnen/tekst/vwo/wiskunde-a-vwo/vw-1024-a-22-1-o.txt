@@ -1,0 +1,542 @@
+                                                                   Examen VWO
+
+                                                                       2022
+                                                                              tijdvak 1
+                                                                        vrijdag 20 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 81 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-22-1-o
+OVERZICHT FORMULES
+
+
+
+Differentiëren
+ naam van de regel                functie                         afgeleide
+
+ somregel                          s ( x)  f ( x)  g ( x)       s' ( x)  f ' ( x)  g' ( x)
+
+ verschilregel                     v( x)  f ( x)  g ( x)        v' ( x)  f ' ( x)  g' ( x)
+
+ productregel                      p( x)  f ( x)  g ( x)         p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                               f ( x)                         f ' ( x)  g ( x)  f ( x)  g' ( x)
+ quotiëntregel                     q( x)                         q' ( x) 
+                                               g ( x)                                      ( g ( x)) 2
+                                                                  k' ( x)  f ' ( g ( x))  g' ( x) of
+ kettingregel                      k ( x )  f ( g ( x ))         dk df dg
+                                                                            
+                                                                  dx dg dx
+
+
+Logaritmen
+ regel                                                      voorwaarde
+  g
+      log  a   g log  b   g log  ab                 g > 0, g  1, a > 0, b > 0
+
+                                      a
+  g
+      log  a   g log  b   g log                     g > 0, g  1, a > 0, b > 0
+                                      b
+  g
+           
+      log a p  p  g log  a                              g > 0, g  1, a > 0
+                  p
+                      log  a 
+ g
+      log  a   p                                         g > 0, g  1, a > 0, p > 0, p  1
+                      log  g 
+
+
+
+
+VW-1024-a-o                                                   2 / 16                                            lees verder ►►►
+      Blindsimultaandammen
+
+              Blindsimultaandammen is een tak van de damsport waarbij een dammer
+              het gelijktijdig opneemt tegen meerdere tegenstanders. De dammer in
+              kwestie ziet de speelborden en tegenstanders niet en speelt dus alle
+              partijen uit zijn hoofd. Deze opgave gaat over deze damsportvariant.
+
+              De puntentelling bij dammen is als volgt: de winnaar krijgt 2 punten, de
+              verliezer 0. Bij gelijkspel (dat wordt remise genoemd) krijgen beide
+              spelers 1 punt.
+              Een dammer die het wereldrecord blindsimultaandammen wil verbreken,
+              moet tegen meer tegenstanders spelen dan de zittende
+              wereldrecordhouder. Bovendien moet hij minstens 70% van het maximaal
+              te behalen aantal punten scoren.
+
+              In 1950 scoorde de Nederlandse dammer Piet Roozenburg tegen in totaal
+              5 tegenstanders precies 70%. Met deze score werd hij toen recordhouder.
+3p    1       Onderzoek op welke manieren deze partijen van Piet Roozenburg
+              verdeeld kunnen zijn in aantallen keren winst, verlies en remise.
+
+              Bij een latere recordpoging in 2014 speelde de Nederlandse dammer
+              Ton Sijbrands tegen 32 dammers. Hij won 14 partijen en verloor er geen.
+              Een sportjournalist beweerde: “Gelukkig heeft hij geen wedstrijd verloren,
+              want anders had hij geen 70%-score gehaald”.
+3p    2       Onderzoek of deze bewering juist is.
+
+              Sinds 1982 heeft Ton Sijbrands het wereldrecord behoorlijk stevig in
+              handen. De tabel geeft een overzicht van zijn wereldrecords.
+
+              tabel
+                jaar   partijen winst remise verlies score(%)
+               1982       10       9       1             0   95,00
+               1986       12      11       1             0   95,83
+               1987       14      12       1             1   89,29
+               1991       15      13       2             0   93,33
+               1993       18      14       4             0   88,89
+               1999       20      17       3             0   92,50
+               2002       22      17       5             0   88,64
+               2004       24      20       4             0   91,67
+               2007       25      21       4             0   92,00
+               2009       28      18       7             3   76,79
+               2014       32      14       18            0   71,88
+
+
+
+
+VW-1024-a-o                                     3 / 16                          lees verder ►►►
+              In de rest van deze opgave bekijken we deze ontwikkeling nader.
+              We letten daarbij eerst op het verloop van het aantal partijen p in de tijd.
+              We noteren de tijd t in jaren, waarbij t  0 overeenkomt met het jaar 1982.
+
+              Hiermee maken we figuur 1.
+
+              figuur 1
+
+
+
+
+              De punten in figuur 1 liggen bij benadering op een lijn. Deze lijn is in
+              figuur 1 ook getekend. De lijn suggereert dat Sijbrands in de toekomst een
+              record van 38 partijen kan behalen.
+4p    3       Bereken in welk jaar dit, uitgaande van deze lijn, het geval zou zijn.
+
+              Vervolgens kijken we naar de duur van de recordpogingen. In figuur 2 is
+              deze duur d in uren uitgezet tegen de tijd t in jaren. Ook hier komt
+              t  0 overeen met het jaar 1982.
+
+              figuur 2
+
+
+
+
+VW-1024-a-o                                   4 / 16                             lees verder ►►►
+              In figuur 2 kun je onder andere aflezen dat de duur van de recordpoging
+              van Sijbrands in 1987 en 1991 ongeveer 11 uur was en in 2014 ongeveer
+              48 uur.
+
+              We noemen figuur 1 een p-t-diagram en figuur 2 een d-t-diagram.
+              Door deze figuren te combineren, kunnen we een d-p-diagram maken.
+              In figuur 3 is hiermee een begin gemaakt. Figuur 3 staat ook vergroot op
+              de uitwerkbijlage.
+
+              figuur 3
+
+
+
+
+4p    4       Maak het d-p-diagram op de uitwerkbijlage af.
+
+
+
+
+VW-1024-a-o                                  5 / 16                            lees verder ►►►
+              Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-o                               6 / 16   lees verder ►►►
+      Levensverwachting
+
+              De levensverwachting is het aantal jaren dat mensen naar verwachting
+              gemiddeld zullen leven vanaf hun geboorte. In 2013 was de
+              levensverwachting in Nederland 81,04 jaar. Dat betekent dus dat mensen
+              die in 2013 in Nederland geboren zijn, gemiddeld 81 jaar en 15 dagen oud
+              zullen worden.
+
+              In Nederland stijgt de levensverwachting al geruime tijd. In figuur 1 is de
+              ontwikkeling van de levensverwachting in Nederland sinds 1950
+              weergegeven. Deze figuur staat ook vergroot op de uitwerkbijlage.
+
+              figuur 1
+
+
+
+
+              In figuur 1 is te zien dat de levensverwachting vrijwel lineair stijgt.
+
+              Volgens een recente schatting zal in 2099 de levensverwachting van
+              Nederlanders 90,78 jaar zijn.
+4p    5       Onderzoek met behulp van de figuur op de uitwerkbijlage of deze
+              schatting overeenkomt met een schatting die uitgaat van een lineaire
+              toename van de levensverwachting.
+
+
+
+
+VW-1024-a-o                                     7 / 16                              lees verder ►►►
+              Uit onderzoek is bekend dat mensen met een hoog inkomen gemiddeld
+              langer leven dan mensen met een laag inkomen. Het is dan ook niet
+              verwonderlijk dat de levensverwachting in landen met een hoog
+              gemiddeld inkomen per persoon doorgaans hoger is dan in landen met
+              een laag gemiddeld inkomen per persoon. In figuur 2 is voor een groot
+              aantal landen de levensverwachting uitgezet tegen het gemiddelde
+              inkomen per persoon. Hierbij stelt iedere stip een land voor. Op de
+              horizontale as staat het gemiddelde inkomen per persoon P (in dollars) en
+              op de verticale as de levensverwachting L (in jaren). Alle gegevens gaan
+              over 2012.
+
+              figuur 2
+
+
+
+
+              In figuur 2 heeft zowel de horizontale als de verticale as een logaritmische
+              schaalverdeling. Ook is er een trendlijn toegevoegd die het verband
+              tussen gemiddeld inkomen per persoon en levensverwachting benadert.
+
+              Met een gemiddeld inkomen per persoon van $128 722 is Qatar het land
+              met het hoogste gemiddelde inkomen per persoon ter wereld. Toch was
+              de levensverwachting daar in 2012 lager dan je volgens de trendlijn mag
+              verwachten.
+3p    6       Bereken met behulp van schattingen in de grafiek hoeveel procent lager
+              dit is. Geef je antwoord als een geheel getal.
+
+
+
+
+VW-1024-a-o                                   8 / 16                             lees verder ►►►
+              De trendlijn in figuur 2 is een rechte lijn, dus er bestaat een lineair
+              verband tussen log( L ) en log( P ) . Dit verband ziet er als volgt uit:
+                  log( L )  0, 084  log( P )  1,509
+              Je kunt deze formule ook schrijven als een machtsverband. Dat verband
+              ziet er dan als volgt uit:
+                  L  32, 28  P 0,084
+4p    7       Laat zien hoe de tweede formule uit de eerste formule is af te leiden.
+
+              In figuur 2 is duidelijk te zien dat wanneer het gemiddelde inkomen per
+              persoon stijgt, de levensverwachting volgens de trendlijn dat ook doet.
+              Door de logaritmische schaal is echter niet te zien of dit een toenemende
+              of een afnemende stijging is.
+4p    8       Onderzoek met behulp van de afgeleide van L of er sprake is van
+              toenemende of afnemende stijging.
+
+
+
+
+VW-1024-a-o                                          9 / 16                          lees verder ►►►
+      Formule van Camp
+
+              Voor een winkelier zijn zowel aan het bestellen van producten als aan het
+              in voorraad houden van producten kosten verbonden. Daarom doen
+              economen onderzoek naar een juiste balans tussen het aantal
+              bestellingen per jaar en het aantal producten per bestelling.
+
+              Veronderstel dat een winkelier jaarlijks 100 stuks van een bepaald
+              product verkoopt. Hij wil dat er per jaar in totaal 100 exemplaren besteld
+              worden in n even grote bestellingen, bijvoorbeeld 4 bestellingen van elk
+              25 stuks.
+2p    9       Bepaal welke andere aantallen bestellingen in deze situatie mogelijk zijn.
+
+              Bij een veel gebruikt algemeen model nemen economen aan dat de
+              winkelier voor elke bestelling en voor elk in voorraad gehouden product
+              een vast bedrag rekent. De formule bij dit model is:
+                       A B 1
+                  K        2  n V   (1)
+                        n
+
+              Hierin is:
+               K de totale jaarlijkse kosten in euro’s;
+               A het aantal producten dat jaarlijks besteld wordt;
+               B de bestelkosten per bestelling in euro’s;
+               n het aantal producten per bestelling;
+               V de voorraadkosten per product per jaar in euro’s.
+
+              Voor een bepaald product hanteert een winkelier € 8,- bestelkosten per
+              bestelling. De voorraadkosten zijn € 0,60 per product per jaar. Per jaar
+              verkoopt de winkelier 1000 stuks van dit product en hij wil dus ook dat er
+              1000 producten per jaar besteld worden.
+              De winkelier wil dat de totale jaarlijkse kosten maximaal € 110,- zijn.
+5p   10       Bereken welk aantal bestellingen per jaar minimaal mogelijk is.
+
+
+
+
+VW-1024-a-o                                   10 / 16                           lees verder ►►►
+              In het vervolg van deze opgave gaan we uit van het algemene model
+              waarbij we geen rekening meer houden met het feit dat n eigenlijk een
+              geheel getal moet zijn. Dat n positief moet zijn, blijft wel een eis.
+
+              De optimale bestelgrootte is het aantal producten per bestelling waarbij
+              de totale jaarlijkse kosten minimaal zijn.
+
+              In formule (1) zijn A, B en V getallen die bij een bepaald product bekend
+              zijn. Daarom kan de optimale bestelgrootte worden berekend door de
+                             dK
+              vergelijking       0 op te lossen.
+                             dn
+              Hieruit volgt de zogeheten formule van Camp:
+                         2 A B
+                  n                      (2)
+                            V
+              Met deze formule van Camp kun je de optimale bestelgrootte direct
+              berekenen als je A, B en V weet.
+                                                                      dK
+4p   11       Laat zien dat de formule van Camp inderdaad volgt uit       0.
+                                                                      dn
+
+              Door formule (2) en formule (1) te combineren, kan een uitdrukking
+              gevonden worden voor de minimale kosten. Er blijkt dat deze minimale
+              kosten evenredig zijn met de wortel uit A  B  V .
+              Er geldt dus:
+                  K min  c  A  B  V   (3)
+
+              Hierin is c de evenredigheidsconstante.
+
+              De waarde van c kan onder andere berekend worden door de waarden
+              A = 1000, B = 8 en V = 0,60 (zie eerder in deze opgave) te gebruiken. Die
+              waarden moeten dan zowel in formule (3) als in formule (2) ingevuld
+              worden. Daarna kan met deze resultaten en gebruikmakend van
+              formule (1) de waarde van c berekend worden.
+5p   12       Bereken de waarde van c. Geef je antwoord in twee decimalen.
+
+
+
+
+VW-1024-a-o                                     11 / 16                         lees verder ►►►
+              Bloeddruk
+
+              Het hart pompt bloed door het menselijk lichaam. Als het hart samentrekt,
+              wordt bloed in de bloedvaten gepompt, met als gevolg dat deze onder
+              druk komen te staan. Als het hart zich weer ontspant, neemt de druk in de
+              bloedvaten weer af.
+              Dit proces herhaalt zich voortdurend en het aantal keren per minuut dat
+              dit gebeurt, noemen we de hartslag. Tijdens dit proces neemt de druk in
+              de bloedvaten dus steeds toe en weer af. De hoogste druk wordt de
+              bovendruk genoemd en de laagste druk noemt men de onderdruk. Van
+              een bepaalde persoon is in figuur 1 de bloeddruk uitgezet tegen de tijd.
+
+              figuur 1
+
+
+
+
+2p   13       Bepaal met behulp van figuur 1 de hartslag van deze persoon.
+
+              Als model van de bloeddruk wordt vaak een sinusoïde van de vorm
+              P  a  b sin(c  t ) gebruikt. Hierin is P de bloeddruk, t de tijd in seconden
+              en zijn a , b en c constanten. Deze constanten zijn afhankelijk van de
+              hartslag en worden zo gekozen dat maximum en minimum van de
+              sinusoïde overeenkomen met bovendruk en onderdruk.
+
+              Een tweede persoon heeft een hartslag van 66 slagen per minuut. Zijn
+              bovendruk is 124 en zijn onderdruk is 82.
+4p   14       Stel een formule voor P op van de bloeddruk van deze persoon, horend
+              bij het model van de sinusoïde.
+
+              De eenheid van bloeddruk is ‘millimeter kwikdruk’, afgekort mmHg. Een
+              modernere maat voor bloeddruk is kilopascal (kPa). Het is vrij eenvoudig
+              om mmHg om te rekenen naar kPa. Daarvoor gebruiken we dat het
+              verband tussen kPa en mmHg recht evenredig is en dat de gemiddelde
+              luchtdruk op aarde gelijk is aan 760 mmHg, maar ook gelijk is aan
+              101,325 kPa.
+
+
+
+
+VW-1024-a-o                                    12 / 16                              lees verder ►►►
+3p   15       Stel een formule op voor het verband tussen K, de bloeddruk in kilopascal
+              en H, de bloeddruk in mmHg. Rond daarbij zonodig af op twee decimalen.
+
+              Bloeddruk meten wordt meestal gedaan met de methode van Riva-Rocci,
+              genoemd naar de Italiaanse uitvinder ervan.
+              Die werkt als volgt: met een opblaasbare band om de bovenarm wordt de
+              polsslagader afgekneld, zodat er geen bloed meer doorheen stroomt.
+              Daarna laat men langzaam de lucht uit de band lopen, totdat er voor het
+              eerst weer een bloedstroming waarneembaar is. De bijbehorende druk is
+              de bovendruk. Daarna laat men de band nog verder leeglopen, totdat de
+              bloedstroming niet meer waarneembaar is. De druk die daarbij hoort is de
+              onderdruk.
+
+              In figuur 2 staat een schets die bij deze methode past.
+
+              figuur 2
+
+
+
+
+              In figuur 2 gaat de lijn van de bloeddrukmeter precies door twee toppen
+              van de bloeddruk. In werkelijkheid is dit meestal niet zo, omdat het
+              verloop van deze lijn afhangt van hoe ver de band opgeblazen wordt en
+              hoe snel deze leegloopt. Daarom is een dergelijke bloeddrukmeting nooit
+              helemaal nauwkeurig. Boven- en onderdruk (of eigenlijk benaderingen
+              daarvan) worden gevonden door te bepalen waar de twee grafieken
+              elkaar voor het eerst en voor het laatst snijden.
+
+              Van een patiënt kan de bloeddruk benaderd worden met de formule:
+                 P  110  23sin(2 t ) (met P in mmHg en t in seconden)
+              Bij een bloeddrukmeting volgens de methode van Riva-Rocci pompt een
+              verpleegkundige een bloeddrukmeter op tot een waarde van 170 mmHg.
+              Daarna laat hij, vanaf t  0 , de druk gelijkmatig afnemen met 10 mmHg
+              per seconde.
+5p   16       Bereken welke bovendruk en onderdruk de verpleegkundige rapporteert.
+              Geef je antwoord in gehele getallen.
+
+
+
+VW-1024-a-o                                  13 / 16                          lees verder ►►►
+      Support
+
+              Softwarebedrijven maken nieuwe software maar moeten ook aandacht
+              besteden aan het geven van support aan hun klanten. Het geven van
+              deze support kost bij veel softwarebedrijven steeds meer tijd. Als een
+              softwarebedrijf vervolgens geen nieuw personeel wil aannemen, gaat de
+              toenemende tijd die besteed wordt aan support ten koste van de tijd voor
+              het ontwikkelen van nieuwe software.
+
+              Bij softwarebedrijf X-tent-O is geconstateerd dat men, als gevolg van deze
+              toenemende vraag naar support, elke maand 3% minder tijd dan in de
+              maand daarvoor besteedt aan het ontwikkelen van nieuwe software. Zie
+              de figuur.
+
+              figuur
+
+
+
+
+              Na twee jaar moet al meer dan de helft van de beschikbare werktijd
+              besteed worden aan support. En na vijf jaar kan nog maar 16% van de
+              beschikbare werktijd aan het ontwikkelen van nieuwe software besteed
+              worden.
+
+              Als er door de toename van de support elke maand 3% minder tijd
+              besteed kan worden aan het ontwikkelen van nieuwe software dan in de
+              maand daarvoor, dan kun je het percentage werktijd P dat aan support
+              wordt besteed, met de volgende formule berekenen:
+                           
+                  P  100  1  0,9712t   
+              Hierin is t de tijd in jaren vanaf de lancering van de nieuwe software.
+
+
+
+
+VW-1024-a-o                                   14 / 16                            lees verder ►►►
+              Uit de figuur blijkt dus dat na twee jaar meer dan de helft van de tijd aan
+              support wordt besteed en dat er na vijf jaar (ongeveer) 16% van de
+              beschikbare werktijd aan nieuwe software besteed wordt.
+3p   17       Bereken met behulp van de formule de procentuele toename van het
+              percentage werktijd dat aan support wordt besteed tussen twee en vijf
+              jaar na de lancering van de nieuwe software. Geef je antwoord in gehele
+              procenten.
+
+              Veel beginnende softwarebedrijven houden er binnen een paar jaar mee
+              op, omdat ze zich verkijken op de tijd die in support moet worden
+              gestoken.
+3p   18       Bereken met behulp van de formule hoelang het duurt totdat 90% van het
+              percentage werktijd bij X-tent-O aan support wordt besteed. Geef je
+              antwoord in hele maanden.
+
+              Met behulp van de afgeleide van P kan de verandering van het
+              percentage dat aan support wordt besteed, worden bepaald. Die afgeleide
+              is van de vorm P'  k  0,9712t . Afgerond op één decimaal geldt: k  36,6 .
+
+5p   19       Bereken k met behulp van differentiëren. Geef je antwoord in twee
+              decimalen.
+
+              Het percentage werktijd dat aan support wordt besteed heeft, zoals ook in
+              de figuur te zien is, een grenswaarde (van 100%). Dat percentage stijgt
+              afnemend naar die grenswaarde.
+3p   20       Beredeneer aan de hand van de afgeleide van P dat het percentage
+              werktijd dat aan support wordt besteed inderdaad steeds minder sterk
+              toeneemt.
+
+
+              Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-o                                   15 / 16                            lees verder ►►►
+      Sjinkie
+
+              Begin 2015 werd Sjinkie Knegt
+              in Dordrecht voor de tweede maal
+              in zijn carrière Europees
+              kampioen shorttrack. Zo’n
+              kampioenschap bestaat uit het
+              schaatsen van de vier afstanden
+              500 m, 1000 m, 1500 m en
+              3000 m. Per afstand kun je
+              punten verdienen. Degene met
+              de meeste punten na vier
+              afstanden is de winnaar.
+              De beste acht deelnemers per afstand krijgen punten volgens de
+              onderstaande tabel:
+
+                 plaats             punten                 plaats            punten
+                    1                  34                      5                   5
+                    2                  21                      6                   3
+                    3                  13                      7                   2
+                    4                   8                      8                   1
+
+              Deelnemers die op plaats 9 of lager eindigen, krijgen voor die afstand
+              geen punten.
+
+              In werkelijkheid kunnen er op sommige afstanden extra punten worden
+              behaald in tussensprints. Deze laten we voor deze opgave buiten
+              beschouwing.
+
+              Tijdens het toernooi werd Sjinkie eerste op de 500 meter en op de
+              1000 meter, tweede op de 1500 meter en vierde op de 3000 meter. Hij
+              behaalde daarmee 34  34  21  8  97 punten.
+
+              Sjinkie’s classificering is niet de enige manier om 97 punten te behalen.
+              Hij had bijvoorbeeld ook eerste kunnen worden op de 500 en op de
+              1500 meter, tweede op de 3000 meter en vierde op de 1000 meter.
+
+              Je kunt, na een toernooi met vier afstanden, ook eindigen met een totaal
+              van 55 punten. Dan ben je waarschijnlijk geen kampioen, maar dan heb je
+              misschien wel een keer een afstand gewonnen en een keer een tweede
+              plaats gehaald. Het aantal van 55 punten is echter op veel meer manieren
+              te behalen.
+8p   21       Onderzoek op hoeveel manieren je op de vier afstanden een totaal van
+              55 punten kunt behalen.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1024-a-o                                              16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

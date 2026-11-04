@@ -1,0 +1,532 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                     dinsdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+ oud programma                                                      wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 20 vragen.
+Voor dit examen zijn maximaal 82 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-h-18-2-o
+            OVERZICHT FORMULES
+
+            Kansrekening
+            Voor toevalsvariabelen X en Y geldt: E ( X  Y )  E ( X )  E (Y )
+            Voor onafhankelijke toevalsvariabelen X en Y geldt:
+             σ( X  Y )  σ 2 ( X )  σ 2 (Y )
+              n -wet: bij een serie van n onafhankelijk van elkaar herhaalde
+            experimenten geldt voor de som S en het gemiddelde X van de
+            uitkomsten X:
+            E (S )  n  E ( X ) σ( S )  n  σ( X )
+                                          σ( X )
+            E( X )  E( X )      σ( X ) 
+                                             n
+
+            Binomiale verdeling
+            Voor de binomiaal verdeelde toevalsvariabele X, waarbij n het aantal
+            experimenten is en p de kans op succes per keer, geldt:
+                        n
+            P(X  k )     p k  (1  p) n k met k = 0, 1, 2, 3, …, n
+                        k 
+            Verwachting: E ( X )  n  p                      Standaardafwijking: σ( X )  n  p  (1  p )
+
+            Normale verdeling
+            Voor een toevalsvariabele X die normaal verdeeld is met gemiddelde μ
+            en standaardafwijking σ geldt:
+                X μ                                                       g μ
+            Z        is standaard-normaal verdeeld en P( X  g )  P( Z       )
+                  σ                                                          σ
+
+            Differentiëren
+            naam van de
+                                         functie                        afgeleide
+            regel
+            somregel                      s ( x)  f ( x)  g ( x)       s' ( x)  f ' ( x)  g' ( x)
+
+            productregel                  p ( x)  f ( x)  g ( x)       p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                     f ( x)                         f ' ( x)  g ( x)  f ( x)  g' ( x)
+            quotiëntregel                 q ( x)                        q' ( x) 
+                                                     g ( x)                                      ( g ( x)) 2
+                                                                                                                dk df dg
+            kettingregel                  k ( x)  f ( g ( x))           k ' ( x)  f ' ( g ( x))  g' ( x) of          
+                                                                                                                dx dg dx
+
+
+
+
+VW-1024-h-18-2-o                                                2                                              lees verder ►►►
+            Logaritmen
+            regel                          voorwaarde
+            g
+              log a  g log b  g log ab   g > 0, g  1, a > 0, b > 0
+            g                         a
+              log a  g log b  g log      g > 0, g  1, a > 0, b > 0
+                                      b
+            g       p      g
+              log a  p  log a            g > 0, g  1, a > 0
+                         p
+             g               log a
+                 log a  p                 g > 0, g  1, a > 0, p > 0, p  1
+                             log g
+
+
+
+
+VW-1024-h-18-2-o                                      3                        lees verder ►►►
+      Asperges
+
+            Vooral in Zuid-Nederland worden asperges als
+            groente geteeld. Uit aspergezaad groeien
+            aspergeplanten en als deze voldoende gegroeid
+            zijn, worden de asperges geoogst.
+
+            De prijs van het zaad is € 4500 per kg. Per hectare
+            groeien ongeveer 20 000 aspergeplanten. Hiervoor
+            is ongeveer 750 gram zaad nodig. Een
+            aspergeplant levert in een oogstseizoen gemiddeld
+            twintig asperges. In één kilo gaan gemiddeld tien asperges.
+            De gemiddelde opbrengst van één kilo asperges is € 4.
+4p    1     Bereken het verschil van de gemiddelde opbrengst per hectare en de
+            kosten voor het benodigde zaad.
+
+            De geoogste asperges worden op basis van kleur en dwarsdoorsnede
+            gesorteerd. In deze opgave bekijken we witte asperges met een
+            dwarsdoorsnede van 10 tot 38 mm. Een aspergeteler heeft in een week in
+            mei 20 000 asperges geoogst en daarna gesorteerd. In tabel 1 staan de
+            aantallen per klasse weergegeven.
+
+            tabel 1
+             klasse   dwarsdoorsnede       frequentie
+                          (in mm)
+               C1          10-<12             1600
+               B1          12-<16             4000
+               A1          16-<20             4500
+              AA1          20-<28             8800
+              AAA1         28-<38             1100
+
+5p    2     Zet de gegevens uit tabel 1 uit op het normaal waarschijnlijkheidspapier
+            op de uitwerkbijlage en toon daarmee aan dat de dwarsdoorsneden van
+            de geoogste asperges van deze aspergeteler bij benadering normaal
+            verdeeld zijn.
+
+            We nemen vanaf nu aan dat we de dwarsdoorsneden van asperges
+            mogen benaderen met de normale verdeling met µ = 20,1 mm en
+            σ = 5,6 mm. Zoals in tabel 1 te zien is, verdelen we de asperges in vijf
+            klassen.
+            We kunnen nu het percentage asperges in klasse AA1 berekenen met
+            behulp van de normale benadering, maar ook met behulp van de
+            gegevens uit tabel 1.
+
+4p    3     Bereken deze beide percentages. Rond je antwoord af op hele
+            percentages.
+
+
+VW-1024-h-18-2-o                              4                                lees verder ►►►
+            Op een ochtend oogst een andere aspergeteler 200 asperges. Neem weer
+            aan dat de dwarsdoorsneden van asperges benaderd mogen worden met
+            de normale verdeling met µ = 20,1 mm en σ = 5,6 mm.
+5p    4     Bereken hoe groot de kans is dat er van de 200 geoogste asperges
+            minstens 50 in klasse A1 zitten.
+
+
+
+
+VW-1024-h-18-2-o                           5                           lees verder ►►►
+      Topinkomens
+
+            Op 17 mei 2008 stond in de Volkskrant een artikel waarin gesteld werd
+            dat de salariskloof tussen topbestuurders en gewone werknemers in
+            Nederland steeds groter wordt. Bij het artikel was een figuur afgedrukt
+            waarin het gemiddelde van de 100 topinkomens en het modale inkomen in
+            de periode 1983-2007 te zien waren. Zie figuur 1. Alle bedragen in deze
+            figuur zijn jaarinkomens in euro’s.
+
+            figuur 1
+                          1 600 000
+             jaarinkomen
+              (in euro s) 1 400 000
+                         1 200 000
+                         1 000 000
+                           800 000
+                           600 000
+                           400 000
+                           200 000
+                                 0
+                                      19    19    19      19         91     93     95     97     99   20   20   20     20
+                                       83    85      87   89       19     19     19     19     19     01   03    05      07
+                                      Legenda:                                                                       jaartal
+                                           modaal
+                                           top 100
+
+
+            De Volkskrant stelt dat in de periode 1983-2007 de inkomens van
+            topbestuurders elk jaar met gemiddeld 7,2% zijn gestegen. In figuur 1
+            staan geen gegevens over topinkomens in 1983 en 1984 omdat die toen
+            nog niet openbaar waren.
+            In 1985 was het gemiddelde van de 100 topinkomens € 295 000.
+
+            Uitgaande van het bedrag voor 1985 levert een gemiddelde groei van
+            7,2% per jaar inderdaad ongeveer het gemiddelde jaarsalaris van de 100
+            topinkomens op zoals dit in figuur 1 bij 2007 af te lezen is.
+4p    5     Bereken dit gemiddelde jaarsalaris en vergelijk je antwoord met het
+            gemiddelde jaarsalaris dat in figuur 1 af te lezen is.
+
+            In figuur 1 is ook te zien dat het gemiddelde topinkomen in 2007
+            aanzienlijk hoger was dan in 2006. In 2006 was het gemiddelde
+            jaarsalaris van de 100 topinkomens € 980 000. Als men met de gegevens
+            van 1985 en 2006 berekent met hoeveel procent het gemiddelde
+            jaarsalaris van de 100 topinkomens gestegen is, komt men niet uit op
+            7,2% per jaar maar op een lager percentage.
+4p    6     Bereken dit percentage in één decimaal nauwkeurig.
+
+
+
+
+VW-1024-h-18-2-o                                               6                                            lees verder ►►►
+            figuur 2
+                modaal 35 000
+             jaarinkomen 30 000
+              (in euro s) 25 000
+                         20 000
+                         15 000
+                         10 000
+                          5 000
+                              0                                         07
+                                   19   19   19   19     91     93
+                                                                     20
+                                                                     20 05
+                                                                        03
+                                                       19     19
+                                                                     20
+                                                                     20 01
+                                   83   85   87   89                 19
+                                                                     19
+                                                                     1999
+                                                                       97
+                                                                       95
+                                                                             jaartal
+
+            De kleine staafjes van het modale jaarinkomen uit figuur 1 zijn in figuur 2
+            nogmaals weergegeven. Het modale jaarinkomen is een maat voor het
+            salaris van de “gewone werknemer”: veel mensen verdienen een salaris
+            dat rond dit bedrag ligt. In 1983 verdiende een topbestuurder uit de top-
+            100 gemiddeld 16 keer zoveel als het modale inkomen en in 2007
+            gemiddeld 44 keer zoveel.
+4p    7     Toon aan dat het gemiddelde jaarsalaris van de 100 topinkomens in 2007
+            ongeveer 5 keer zo hoog was als in 1983.
+
+            Ook binnen de 100 topinkomens zijn nog grote verschillen. In 2004 was
+            het gemiddelde jaarsalaris van de 100 topinkomens € 910 000. Het
+            gemiddelde jaarsalaris van de 25 hoogste inkomens uit deze groep was
+            € 1 720 000.
+4p    8     Onderzoek of de 25 topbestuurders met de hoogste inkomens gemiddeld
+            meer dan drie keer zoveel verdienen als het gemiddelde van de rest van
+            de bestuurders uit deze top-100.
+
+            Op de website van de Volkskrant kan iemand laten berekenen hoeveel hij
+            zou verdienen als zijn salaris de afgelopen 25 jaar evenveel gestegen
+            was als dat van topbestuurders. Op de website staat de onderstaande
+            tekst:
+            tekst 1
+
+      Hoe hoog zou jouw topsalaris moeten zijn? Kruip in de huid van een
+      topbestuurder en doe net alsof je salaris in de afgelopen 25 jaar even hard
+      opliep als het inkomen van de hoogste baas. Vul je huidige salaris in en zie wat
+      je eigenlijk had moeten verdienen. Voor het gemak is ervan uitgegaan dat je er
+      de afgelopen 25 jaar net als Jan Modaal maar 2,3 procent per jaar aan
+      salarisverhoging bij hebt gekregen, terwijl Jan Top er jaarlijks 7 procent op
+      vooruitging.
+
+            Bij ieder salaris dat je invult als huidig salaris geeft de website een salaris
+            als antwoord. Dit antwoord is het salaris dat je zou verdienen als je salaris
+            even snel gestegen zou zijn als dat van topbestuurders. Het blijkt dat de
+            website dan als antwoord een salaris geeft dat ongeveer 3 maal zo hoog
+            is als je huidige salaris.
+4p    9     Bereken in twee decimalen nauwkeurig hoeveel maal zo hoog het
+            antwoord van de website is.
+
+
+VW-1024-h-18-2-o                                          7                        lees verder ►►►
+      Zuivere dobbelsteen?
+
+            Op de foto zie je twee ronde dobbelstenen.               foto
+            Op deze dobbelstenen staan aantallen ogen van
+            1 tot en met 6, net als op gewone dobbelstenen.
+            Een ronde dobbelsteen is hol met binnenin een
+            stalen kogeltje. Bij elk getal zit in de holle
+            binnenkant een soort kuiltje waar het kogeltje in
+            past. Aan het einde van een worp komt het
+            kogeltje in zo’n kuiltje terecht. Hierdoor blijft de
+            dobbelsteen liggen, bijvoorbeeld met de vier
+            onder en de drie boven: er is dan drie gegooid.
+
+            Of een dobbelsteen zuiver is of niet, kun je onderzoeken door er een
+            groot aantal keer mee te gooien. Dit wordt geïllustreerd door figuur 1. In
+            figuur 1 is het resultaat te zien van een aantal simulaties van het gooien
+            met een zuivere dobbelsteen. Er werd hierbij alleen gekeken naar het
+            aantal drieën.
+
+            figuur 1
+
+                         0,25
+             relatieve
+            frequentie
+                         0,20
+
+                         0,15
+
+                         0,10
+
+                         0,05
+
+                           0
+                           101   102    103     104      105        106
+                                                        aantal worpen
+
+
+            Elk cirkeltje stelt het resultaat van een simulatie voor. Langs de
+            horizontale as is het aantal worpen bij een simulatie uitgezet op een
+            logaritmische schaalverdeling. Langs de verticale as staat de relatieve
+            frequentie van het aantal drieën dat hierbij gegooid is. In figuur 1 is
+            bijvoorbeeld te zien dat bij de simulatie van 10 worpen de relatieve
+            frequentie 0,1 is: er is precies één keer een drie gegooid.
+
+            Figuur 1 staat ook op de uitwerkbijlage. Bij een simulatie van 60 worpen is
+            4 keer een drie gegooid.
+3p   10     Teken het punt dat bij deze simulatie hoort in de figuur op de
+            uitwerkbijlage.
+            Licht je werkwijze toe.
+
+
+
+VW-1024-h-18-2-o                                8                              lees verder ►►►
+            In figuur 1 is de verwachte relatieve frequentie aangegeven met een
+            horizontale lijn op een hoogte van ongeveer 0,167. Dit komt overeen met
+            kans 16 . Het punt dat hoort bij de simulatie van 200 worpen ligt dichter bij
+            deze horizontale lijn dan het punt dat hoort bij de simulatie van
+            30 worpen. Bij de simulatie van 200 worpen is het verschil tussen de
+            verwachte en de werkelijke relatieve frequentie dus kleiner.
+            We kunnen ook kijken naar de verschillen bij het aantal geworpen drieën.
+            Rik beweert dat het verschil tussen het werkelijke en het verwachte aantal
+            geworpen drieën bij de simulatie van 200 worpen kleiner is dan bij de
+            simulatie van 30 worpen.
+5p   11     Onderzoek of Rik gelijk heeft.
+
+            Als het aantal gesimuleerde worpen groter wordt, komen de punten van
+            de simulaties steeds dichter bij de horizontale lijn te liggen. De resultaten
+            van de simulaties benaderen de werkelijke kans van 16 dan steeds beter.
+            Dit is ook theoretisch te berekenen.
+            Het aantal geworpen drieën bij een simulatie van n keer gooien is voor
+            grote waarden van n te benaderen met een normale verdeling. Hiermee
+            kan men berekenen dat voor een simulatie van 10 000 worpen geldt: de
+            kans dat de relatieve frequentie van het aantal geworpen drieën minder
+            dan 1% van 16 verschilt, is ongeveer 0,35.
+            Voor een simulatie van 100 000 worpen is deze kans veel groter.
+6p   12     Laat dit met een berekening zien.
+
+            Jesse vermoedt dat de kans om met zijn ronde dobbelsteen drie te gooien
+            kleiner is dan 16 . Na het zien van figuur 1 besluit hij om 600 keer met zijn
+            ronde dobbelsteen te gooien om dit te onderzoeken. Na 600 keer gooien
+            heeft hij 87 keer drie gegooid.
+6p   13     Onderzoek of Jesse op grond van dit steekproefresultaat mag
+            concluderen dat de kans om met deze dobbelsteen drie te gooien kleiner
+            is dan 16 . Neem een significantieniveau van 5%.
+
+
+
+
+VW-1024-h-18-2-o                               9                                 lees verder ►►►
+      Bouwgrafiek
+
+            Bij nieuwbouw stellen gemeentes bestemmingsplannen op om onder meer
+            te voorkomen dat een nieuwe wijk een rommelig aanzicht krijgt.
+            In het bestemmingsplan voor de wijk “Den Brabander fase 2” van de
+            gemeente Alphen-Chaam is de grafiek van figuur 1 opgenomen.
+            Deze figuur staat vergroot op de uitwerkbijlage.
+
+            figuur 1
+                                                                                        max.
+                          250                                                          max. 240 m2
+               maximale 225                                              225 232,50
+                                                                217,50
+              oppervlakte                                 200
+                 aan      200
+              bebouwing 175                        175
+                B (m2)    150            137,50
+                          125
+                          100
+                           75       70
+                           50
+                           25
+                            0
+                                0   100      200    300      400 500 600 700 800 900
+                                                          oppervlakte van een bouwperceel p (m2)
+
+
+            In de nieuwe wijk wordt een aantal bouwpercelen verkocht. Een
+            bouwperceel is een stuk grond waarvan een gedeelte bebouwd mag
+            worden. In figuur 1 kun je aflezen hoeveel vierkante meter bij een
+            bepaalde oppervlakte van een bouwperceel maximaal bebouwd mag
+            worden.
+            Voorbeeld: van een bouwperceel met een oppervlakte van 300 m 2 mag
+            maximaal 175 m2 bebouwd worden.
+
+            Mevrouw Groen koopt een bouwperceel van 20 bij 20 meter. Zij wil
+            precies de maximaal toegestane oppervlakte aan bebouwing gebruiken
+            voor een vierkant huis. Op de overige grond wil zij rondom het huis
+            grindpaden van 3 meter breed aanleggen.
+4p   14     Onderzoek of dit te realiseren is.
+
+            Een architectenbureau hanteert als vuistregel dat van een bouwperceel
+            maximaal 20 m2 meer dan de helft van de oppervlakte bebouwd zou
+            mogen worden. In formulevorm:
+
+                   B  0,5 p  20
+
+            Hierin is B de maximale oppervlakte aan bebouwing in m2 en p de
+            oppervlakte van een bouwperceel in m2.
+
+
+
+
+VW-1024-h-18-2-o                                             10                                      lees verder ►►►
+3p   15     Gebruik de figuur op de uitwerkbijlage om te bepalen vanaf welke
+            perceelgrootte de regeling die is weergegeven in figuur 1 strenger is dan
+            deze vuistregel.
+
+            De bouwpercelen zijn minstens 100 m2 groot. Voor bouwpercelen van
+            500 m2 tot 800 m2 neemt de maximale bebouwing lineair toe. Van geen
+            enkel bouwperceel mag meer dan 240 m2 bebouwd worden. De grafiek in
+            figuur 1 bestaat dus uit drie delen: van 100 tot 500, van 500 tot 800 en
+            vanaf 800.
+
+            De drie delen van de grafiek in figuur 1 kunnen we elk karakteriseren met
+            een beschrijving uit de volgende lijst:
+             toenemend stijgend
+             constant stijgend
+             afnemend stijgend
+             constant
+             afnemend dalend
+             constant dalend
+             toenemend dalend.
+            Tussen 100 en 500 is de grafiek afnemend stijgend, van 500 tot 800
+            constant stijgend en vanaf 800 constant.
+            Met behulp van figuur 1 kunnen we ook een grafiek tekenen van de
+            oppervlakte die minimaal onbebouwd moet blijven. Ook de drie delen van
+            deze nieuwe grafiek kunnen we karakteriseren met behulp van
+            bovenstaande lijst.
+4p   16     Geef voor elk van de drie delen van de nieuwe grafiek een
+            karakterisering. Geef een toelichting.
+
+
+
+
+VW-1024-h-18-2-o                             11                              lees verder ►►►
+      Energie
+
+            Een machine, zoals een automotor, gebruikt energie in de vorm van
+            brandstof. Een machine levert ook energie, maar de hoeveelheid
+            geleverde energie is altijd kleiner dan de hoeveelheid energie die erin
+            wordt gestopt. Wanneer de hoeveelheid energie die een machine levert
+            30% is van de hoeveelheid energie die erin wordt gestopt, spreken we
+            van een machine met een rendement R = 0,3. De resterende 70% energie
+            gaat verloren, bijvoorbeeld in de vorm van warmte. Het rendement is
+            daarom altijd kleiner dan 1.
+
+            Aan het einde van de vorige eeuw schreef de Amerikaanse onderzoeker
+            J. Ausubel een artikel met de titel ‘Can technology spare the earth?’.
+            Daarin beschrijft hij de ontwikkeling van nieuwe machines die een hoger
+            rendement hebben en waarmee dus veel brandstof bespaard kan worden.
+            In het artikel van Ausubel komt een grafiek voor die de ontwikkeling van
+            het rendement van een aantal machines weergeeft. Zie figuur 1.
+
+            figuur 1
+                    3                                               Fuel Cell
+            R*      2                                              (prediction)
+                    1
+                                             Steam Turbine             Gas
+                   0,3                 Charles Parsons                 Turbine
+                   0,2
+                                    Cornish          Triple Expansion
+                   0,1
+
+               0,03
+               0,02                  James Watt
+               0,01        Thomas Newcomen
+                         Thomas Savery
+
+
+
+                    1700     1750   1800      1850   1900   1950      2000 2050
+                                                                          jaartal
+
+
+            Op de verticale as zie je een logaritmische schaalverdeling. Daarmee
+                        R
+            wordt R*       weergegeven. In deze formule is R het rendement van de
+                       1 R
+            machine.
+
+            Een van de machines uit figuur 1 heeft een rendement van 0,43.
+3p   17     Ga met behulp van een berekening na welke machine in figuur 1 hier
+            bedoeld wordt.
+
+
+
+
+VW-1024-h-18-2-o                                            12                      lees verder ►►►
+            De punten in figuur 1 geven een trend aan die met de rechte lijn
+            aangegeven wordt. Het laatste stuk van deze rechte lijn is een
+            voorspelling voor de komende jaren. Zo voorspelt Ausubel een
+            brandstofcel (Fuel Cell) met een hoog rendement. Uit figuur 1 volgt dat
+            hiervoor geldt dat R*  2 .
+3p   18     Bereken hoe groot het rendement van deze brandstofcel volgens Ausubel
+            is.
+
+            In figuur 1 is niet R, maar R* weergegeven ten opzichte van de tijd. Dit is
+            gedaan omdat de grafiek dan een rechte lijn wordt als op de verticale as
+            een logaritmische schaalverdeling wordt gebruikt. Het gebruik van R*
+            levert geen problemen op omdat bij elke waarde van R* precies een
+            waarde van R hoort.
+                                             R
+            Op grond van de formule R*          kunnen we beredeneren dat als R
+                                            1 R
+            toeneemt van 0 tot 1, R* dan ook steeds toeneemt.
+4p   19     Geef deze redenering.
+
+            In figuur 1 is de grafiek van R* een rechte lijn. Dat betekent dat de
+            formule voor R* van de vorm R*  b  g t is, met t de tijd in jaren en t  0
+            voor het jaar 1700. Uit figuur 1 lezen we af dat bij 1700 de waarde
+             R*  0, 01 hoort en bij 2050 de waarde R*  2 .
+3p   20     Bereken de waarden van b en g.
+
+
+
+
+VW-1024-h-18-2-o                                13                                lees verdereinde
+                                                                                               ►►► 
+

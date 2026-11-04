@@ -1,0 +1,598 @@
+                                                                   Examen VWO
+
+                                                                       2021
+                                                                              tijdvak 1
+                                                                     maandag 17 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 82 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-21-1-o
+OVERZICHT FORMULES
+
+
+
+Differentiëren
+ naam van de regel                 functie                      afgeleide
+
+ somregel                          s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+ verschilregel                     s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+ productregel                      p ( x)  f ( x)  g ( x)      p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                               f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+ quotiëntregel                     q( x)                       q' ( x) 
+                                               g ( x)                                    ( g ( x)) 2
+                                                                k' ( x)  f ' ( g ( x))  g' ( x) of
+ kettingregel                      k ( x)  f ( g ( x))         dk d f d g
+                                                                          
+                                                                dx dg dx
+
+
+Logaritmen
+ regel                                                    voorwaarde
+  g
+      log  a   g log  b   g log  ab               g > 0, g  1, a > 0, b > 0
+
+                                      a
+  g
+      log  a   g log  b   g log                   g > 0, g  1, a > 0, b > 0
+                                      b
+  g
+           
+      log a p  p  g log  a                            g > 0, g  1, a > 0
+                   p
+                       log  a 
+  g
+      log  a   p                                       g > 0, g  1, a > 0, p > 0, p  1
+                       log  g 
+
+
+
+
+VW-1024-a-21-1-o                                            2 / 19                                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-21-1-o                        3 / 19   lees verder ►►►
+      Linkshandigen en ronde getallen
+
+            Onderzoek uit 2013 heeft uitgewezen dat linkshandigen eerder geneigd
+            zijn ronde getallen te kiezen dan rechtshandigen. Deelnemers aan het
+            onderzoek kregen elk 60 vragen voorgelegd, waarop het antwoord een
+            geheel getal is.
+            De vragen waren bijvoorbeeld:
+             Hoeveel knopen heb je in je klerenkast?
+             Hoeveel diersoorten kun je noemen?
+             Hoeveel eieren heb je vorig jaar gegeten?
+
+            Bij het onderzoek werd alleen gekeken naar de vragen waarop een
+            antwoord werd gegeven vanaf 20 tot en met 1000. Linkshandigen bleken
+            vaker een rond getal als antwoord te geven dan rechtshandigen.
+            Wat is eigenlijk een rond getal? Een rond getal is een getal dat eindigt op
+            één of meer nullen, dus bijvoorbeeld 20 of 300. Maar is 100 een ronder
+            getal dan bijvoorbeeld 1000? En hoe zit het dan met getallen die niet op
+            een nul eindigen, maar wel ‘mooi’ zijn, zoals bijvoorbeeld 25?
+            Om de rondheid van getallen te bepalen, gebruikten de onderzoekers de
+            definitie van Sigurd. Deze definitie zegt dat de rondheid van een getal
+            ervan afhangt of het getal een veelvoud is van machten van 10, of van
+            helften of kwarten van machten van 10.
+            De rondheid R wordt voor de getallen (n) vanaf 20 tot en met 1000 dan als
+            volgt berekend:
+                              1000 100 10 1  500 50 5  1  250 25 
+                   R ( n)                            
+                                n   n   n 2  n    n n 4  n    n 
+                     ...
+            Elke term    telt alleen mee als n een veelvoud van de teller is.
+                      n
+            We spreken af dat getallen n ronder zijn, naarmate R ( n ) hoger is.
+
+            Zo geldt bijvoorbeeld voor het getal 600:
+                          1000 100 10 1  500 50    5  1  250 25 
+             R(600)                                       0, 24
+                           600 600 600 2  600 600 600  4  600 600 
+
+4p    1     Onderzoek met behulp van de formule welke van de twee getallen 750 en
+            600 het rondst is.
+
+
+
+
+VW-1024-a-21-1-o                              4 / 19                           lees verder ►►►
+            De rondheid van 1000 is groter dan die van 500. Het is echter niet zo dat
+            600 ook ronder is dan 500. Sterker nog, voor alle honderdtallen tussen
+            500 en 1000 geldt dat de rondheid ervan steeds kleiner wordt.
+            Je kunt dat beredeneren door de formule te herschrijven tot een formule
+            die alleen voor honderdtallen tussen 500 en 1000 geldt. Dat kan worden
+            gedaan met behulp van de substitutie n  100 p (met p de gehele getallen
+                                                                         23
+            6 tot en met 9) en daarna de formule te herleiden tot R         .
+                                                                        16 p
+4p    2     Toon dit aan en beredeneer vervolgens aan de hand van deze formule,
+            zonder getallen in te vullen of een schets te maken, dat de rondheid van de
+            honderdtallen tussen 500 en 1000 steeds kleiner wordt.
+
+            Er waren 200 deelnemers aan het onderzoek, die elk 60 vragen kregen
+            voorgelegd. 1,3% van de gegeven antwoorden was een getal boven de
+            1000. Na het wegstrepen van deze antwoorden, en het wegstrepen van
+            de antwoorden beneden de 20, bleven er 3412 antwoorden over die
+            waren gegeven door linkshandigen, en 4329 die waren gegeven door
+            rechtshandigen.
+4p    3     Bereken het percentage gegeven antwoorden beneden de 20. Geef je
+            antwoord in één decimaal.
+
+
+
+
+VW-1024-a-21-1-o                            5 / 19                               lees verder ►►►
+            In onderstaande figuur staat een overzicht van de gegeven antwoorden
+            door de links- en rechtshandigen. Van de 3412 antwoorden van de
+            linkshandigen was 6,7% het getal 20. Van de 4329 gegeven antwoorden
+            van de rechtshandigen was dit percentage 5,7. Het verschil tussen deze
+            twee percentages is 1. In de figuur zie je daarom bij het getal 20 een stip
+            staan op een hoogte van 1%.
+
+            figuur
+
+
+
+
+            De horizontale as heeft een logaritmische schaalverdeling.
+            In de figuur is het volgende zichtbaar gemaakt: hoe dikker de verticale
+            streep bij een getal, hoe ronder dat getal.
+            Veel ronde getallen worden procentueel vaker genoemd door
+            linkshandigen dan door rechtshandigen.
+
+            Het antwoord 100 werd 276 maal gegeven door de linkshandigen.
+4p    4     Bereken hoe vaak het antwoord 100 gegeven werd door de
+            rechtshandigen.
+
+            We geven twee uitspraken:
+            1 Naarmate getallen groter worden, worden ze minder vaak gekozen.
+            2 Grote getallen worden procentueel bijna even vaak door de
+               linkshandigen als door de rechtshandigen als antwoord gegeven.
+4p    5     Leg voor elk van deze uitspraken uit of deze wel of niet uit de figuur volgt.
+
+
+
+
+VW-1024-a-21-1-o                             6 / 19                             lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-21-1-o                        7 / 19   lees verder ►►►
+      Draaiend huis
+
+            Op de Hasseltrotonde in Tilburg staat een huis. Eigenlijk is ‘staat’ niet het
+            goede woord, want het huis beweegt: het draait in het rond. Het gevolg is
+            dat elke keer dat je langs de rotonde rijdt, het huis op een andere plaats
+            kan staan. Het is een kunstproject, ontworpen door John Körmeling.
+            Zie foto 1 en foto 2 hieronder.
+
+          foto 1                                    foto 2
+
+
+
+
+            Het huis legt in 20 uur één ronde af, zodat je, als je de rotonde elke dag
+            op hetzelfde tijdstip passeert, het huis geen twee opeenvolgende dagen
+            op dezelfde plaats ziet.
+
+            Op een maandag staat het huis om acht uur ‘s morgens (08.00 uur)
+            precies aan de oostkant van de rotonde. Voor het vervolg van de opgave
+            is dit t  0 . In figuur 1 is een overzicht van de situatie te zien. Het huis is
+            in figuur 1 weergegeven als vierkantje en bevindt zich in punt O.
+
+            figuur 1
+
+
+
+
+            Het huis draait met de rijrichting van het verkeer mee.
+
+3p    6     Geef in de figuur op de uitwerkbijlage de plaats aan waar het huis zich op
+            diezelfde maandag om 20.30 uur bevindt. Licht je antwoord toe.
+
+
+
+VW-1024-a-21-1-o                               8 / 19                              lees verder ►►►
+3p    7     Bereken hoeveel hele weken na tijdstip t  0 het huis zich voor het eerst
+            weer om 08.00 uur op maandag in punt O bevindt.
+
+            De straal van de cirkel waarover het huis beweegt, is 30 meter.
+            De afstand A in meters van het huis tot de west-oost-as gedurende een
+            rondgang over de rotonde kan worden weergegeven met de formule
+                              t)
+             A  30  sin( 10      , met t de tijd in uren, en t  0 op het moment dat het huis
+            in O is. Hierbij worden afstanden onder de west-oost-as als negatieve
+            getallen weergegeven.
+
+            Je kunt de formule ook zó schrijven dat het beginpunt ( t  0 ) in het
+            noorden, in punt N ligt. De formule heeft dan de volgende vorm:
+                             (t  d ))
+             y  30  sin(10
+3p    8     Bereken de waarde van d.
+
+            In figuur 2 zie je aan de vetgemaakte cirkeldelen waar het huis zich
+            minder dan 15 meter van de west-oost-as bevindt.
+
+            figuur 2
+
+
+
+
+                                                               t)
+4p    9     Bereken met behulp van de formule A  30  sin( 10      hoeveel procent van
+            de tijd het huis zich minder dan 15 meter van de west-oost-as bevindt.
+            Geef je antwoord in gehele procenten.
+
+
+
+
+VW-1024-a-21-1-o                               9 / 19                                lees verder ►►►
+      Mathematical Bridge
+
+            foto 1                             foto 2
+
+
+
+
+            Op foto 1 zie je de Mathematical Bridge, een houten brug in Cambridge.
+            Deze brug werd in 1748 ontworpen door William Etheridge.
+            Als je goed kijkt naar de brug, dan zie je dat deze bestaat uit een aantal
+            balken die een denkbeeldige boog (gevormd door de onderkant van de
+            brug) raken. Zie foto 2.
+            We maken van deze brug een wiskundig model. De onderkant van de
+            brug is 12,19 m breed en deze onderkant beschouwen we als een deel
+            van een cirkel met straal 9,75 m. Zie de figuur, waarin de maten gegeven
+            zijn in meters. De standaardformule voor een cirkel met middelpunt (0, 0)
+                            2   2   2
+            en straal r is x  y  r .
+
+            figuur
+
+
+
+
+            Wanneer we de oorsprong O kiezen zoals in de figuur aangegeven, dan
+            geldt voor de hoogte van de onderkant van de brug:
+
+                   y  95,0625  x 2
+            Hierbij zijn x en y in meters.
+
+3p   10     Toon aan dat de formule y  95,0625  x 2 inderdaad past bij dit model.
+
+
+
+VW-1024-a-21-1-o                             10 / 19                          lees verder ►►►
+            Er varen veel bootjes onder de brug door. Het is daarom belangrijk om te
+            weten hoe hoog de onderkant van de brug op bepaalde punten is ten
+            opzichte van de waterspiegel.
+
+3p   11     Bereken het hoogteverschil tussen het beginpunt en het hoogste punt van
+            de onderkant van de brug. Geef je antwoord in gehele cm.
+
+            Op foto 3 zie je een raaklijn die ongeveer gelijk loopt met het begin van
+            het looppad van de brug. Deze raaklijn raakt de cirkel in het punt
+            (1,90; 9,56) . Zowel dit punt als het beginpunt van de raaklijn is in de foto
+            aangegeven.
+
+            foto 3
+
+
+
+
+4p   12     Bereken met behulp van de formule van de afgeleide de waarde van
+            y' (1,90) en leg uit wat de praktische betekenis van deze waarde is.
+
+
+
+
+VW-1024-a-21-1-o                             11 / 19                             lees verder ►►►
+      The International
+
+            Electronic Sports, afgekort E-Sports, is de term die wordt gebruikt voor
+            het competitief spelen van computerspellen. Hoewel het tegen andere
+            spelers spelen van computerspellen al bijna net zo lang bestaat als de
+            spellen zelf, wordt algemeen aangenomen dat E-Sports bestaat sinds
+            1998. Dat is namelijk het jaar dat er voor het eerst een officieel E-Sports-
+            toernooi gehouden werd waarbij geldprijzen te winnen waren.
+
+            In 1998 was er in totaal zo’n 100 000 dollar te verdienen door de spelers.
+            Sinds dat jaar is E-Sports uitgegroeid tot een internationaal fenomeen.
+            In 2016 streden tienduizenden spelers in zo’n honderd verschillende
+            spellen om een totale prijzenpot van ruim 95 miljoen dollar.
+
+            In figuur 1 is de ontwikkeling weergegeven van het totale prijzengeld dat
+            in E-Sports omgaat.
+
+            figuur 1
+
+
+
+
+            De totale prijzenpot nam van 2009 tot en met 2016 toe van 3,7 miljoen tot
+            95,1 miljoen dollar. Als we ervan uitgaan dat deze groei exponentieel was
+            en ook na 2016 exponentieel doorzet, dan zal het totale prijzengeld
+            binnen enkele jaren tot boven de 1 miljard dollar stijgen.
+
+4p   13     Bereken met behulp van de gegevens uit 2009 en 2016 in welk jaar dat
+            het geval zal zijn.
+
+
+
+
+VW-1024-a-21-1-o                            12 / 19                             lees verder ►►►
+            Bijna de helft van het totale prijzengeld in E-Sports wordt gewonnen door
+            spelers van één bepaald spel. Dit spel wordt gespeeld door twee teams
+            van elk vijf spelers, waarbij elk van de spelers een eigen held bestuurt. De
+            spelers proberen met hulp van door de computer bestuurde troepen het
+            gebied van de tegenstander te veroveren.
+
+            Er zijn bij dit spel 112 verschillende helden, die worden onderverdeeld in
+            drie categorieën: er zijn 49 aanvallers, 27 verdedigers en de overige
+            helden zijn ondersteunende helden.
+
+            Aan het begin van het spel kiezen de teams volgens een gecompliceerd
+            systeem beurtelings hun helden. Iedere held kan hierbij slechts één keer
+            gekozen worden.
+
+            Het is gebruikelijk dat een team bestaat uit twee aanvallers, één
+            verdediger en twee ondersteunende helden.
+4p   14     Bereken hoeveel verschillende samenstellingen er mogelijk zijn van twee
+            aanvallers, één verdediger en twee ondersteunende helden.
+
+            In elk team zitten vijf helden. Het spelgebied waarop de teams elkaar
+            bestrijden kan globaal worden ingedeeld in drie zones: Noord, Midden en
+            Zuid. Een held kan een rol krijgen in een van deze drie zones. Bovendien
+            bestaat er de mogelijkheid om een held tussen de zones te laten
+            wisselen; we noemen dat een zwervende held. Er zijn dus eigenlijk vier
+            mogelijke rollen voor een held: Noord, Midden, Zuid en zwervend.
+
+            Teams kiezen er altijd voor om in elk van de drie zones ten minste één
+            held te plaatsen. Een mogelijke verdeling van de aantallen helden is dan
+            bijvoorbeeld: 1 held in Noord, 1 held in Midden, 2 helden in Zuid en 1
+            zwervende held. We gaan er hierbij vanuit dat het niet van belang is welke
+            held in welke zone aanwezig is.
+
+4p   15     Bereken hoeveel van zulke verdelingen er voor één team mogelijk zijn als
+            elk van de zones Noord, Midden en Zuid ten minste één held moet
+            bevatten.
+
+            Voor het spel worden gedurende het jaar diverse toernooien met
+            uiteenlopende geldprijzen gehouden, maar het belangrijkste toernooi is
+            The International, dat jaarlijks in augustus gehouden wordt. Teams uit alle
+            delen van de wereld proberen via kwalificatietoernooien een van de
+            zestien deelnamebewijzen te bemachtigen. En met een goede reden: in
+            2016 was de prijzenpot voor The International ruim 20 miljoen dollar.
+
+
+
+
+VW-1024-a-21-1-o                            13 / 19                           lees verder ►►►
+            Dat het prijzengeld zo hoog is bij The International komt doordat het
+            toernooi crowdfunded is. Dat wil zeggen: spelers van het spel kunnen
+            gedurende een periode voorafgaand aan het toernooi bijdragen aan de
+            prijzenpot.
+
+            Het verloop van de hoogte van de prijzenpot voor The International 2016
+            staat in figuur 2.
+
+            figuur 2
+
+
+
+
+            De totale prijzenpot voor The International 2016 was als volgt opgebouwd:
+             De organisatie van het toernooi, in dit geval de ontwikkelaar van het
+               spel, legde een bepaald startbedrag in de prijzenpot.
+             De ontwikkelaar gaf de spelers van het spel vanaf 16 mei de
+               mogelijkheid om virtuele voorwerpen te kopen die zij in het spel
+               konden gebruiken. Van de opbrengsten daarvan werd 25% aan de
+               prijzenpot toegevoegd.
+
+            De grafiek in figuur 2 kan redelijk worden benaderd met de volgende
+            formule:
+                   P  8,157  ln(0,1(t  10))  1,6
+            In deze formule is P het totale prijzengeld in miljoenen dollars en t de tijd
+            in dagen met t  0 op 16 mei 2016.
+
+
+
+
+VW-1024-a-21-1-o                                   14 / 19                       lees verder ►►►
+            Volgens een website die verslag doet van E-Sports-toernooien hadden
+            spelers binnen een maand 40 miljoen dollar uitgegeven aan virtuele
+            voorwerpen.
+
+4p   16     Bereken met behulp van de formule voor P na hoeveel hele dagen dat het
+            geval was.
+
+            In de grafiek in figuur 2 is goed te zien dat de toename van de totale
+            prijzenpot niet regelmatig verliep. Dat kwam doordat de ontwikkelaar af en
+            toe met speciale acties kwam om spelers te verleiden extra voorwerpen te
+            kopen.
+
+            Een van die acties was bijvoorbeeld op 30 juni. Op die dag groeide de
+            prijzenpot met 1,125 miljoen dollar. Dat is een veel sterkere toename dan
+            je op basis van de afgeleide van P mag verwachten.
+
+5p   17     Bereken met behulp van differentiëren hoeveel keer zo groot de toename
+            op 30 juni was dan je op basis van de afgeleide van P had mogen
+            verwachten. Geef je antwoord als een geheel getal.
+
+
+
+
+VW-1024-a-21-1-o                           15 / 19                           lees verder ►►►
+      Huurprijzen in New York
+
+            New York is al decennialang een van de populairste steden ter wereld om
+            te wonen met als gevolg dat de gemiddelde prijs van huurwoningen er
+            explosief gestegen is. In 1970 bedroeg de gemiddelde huur van een
+            woning in New York $ 125 per maand. In 2013 was dat gestegen tot $ 917
+            per maand. Dat is een toename van ruim 600%.
+            Zo’n vergelijking is echter niet helemaal eerlijk, want de waarde van geld
+            verandert ook. Dat heet inflatie. Sinds 1970 bedroeg de gemiddelde
+            inflatie per jaar 3,95%. We gaan ervan uit dat sinds 1970 de huurprijzen,
+            onafhankelijk van andere factoren, jaarlijks door de inflatie 3,95%
+            gestegen zijn.
+            Door de $ 125 uit 1970 om te rekenen naar dollars uit 2013 kan je de
+            reële gemiddelde huurstijging berekenen. De reële gemiddelde
+            huurstijging is de procentuele stijging van de gemiddelde huurprijzen
+            boven op de stijging als gevolg van de inflatie.
+3p   18     Bereken de reële gemiddelde huurstijging. Geef je antwoord in één
+            decimaal.
+
+            In het vervolg van deze opgave zijn alle genoemde bedragen, getallen en
+            percentages berekend met de naar 2013-dollars omgerekende bedragen.
+            Je hoeft dus zelf geen rekening te houden met inflatie.
+            Verder spreken we in het vervolg van deze opgave over inkomen,
+            huurprijs en huurlast, terwijl daar gemiddeld inkomen, gemiddelde
+            huurprijs en gemiddelde huurlast bedoeld wordt.
+
+            Een belangrijke maatstaf om de betaalbaarheid van huurwoningen te
+            onderzoeken is het percentage van het inkomen dat besteed wordt aan
+            het betalen van de huur: de huurlast.
+            In 1960 bedroeg de huurprijs in New York $ 561 en was de huurlast 15%.
+            Doordat de huurprijzen sneller stijgen dan de inkomens, neemt de
+            huurlast steeds verder toe: van 15% in 1960 tot 21% in 2013. Een
+            econoom beweert dat er zich grote problemen zullen gaan voordoen als
+            de huurlast boven de 25% uitkomt. De econoom gaat ervan uit dat de
+            huurlast exponentieel is toegenomen sinds 1960 en dat die exponentiële
+            stijging zich ook na 2013 voortzet.
+4p   19     Bereken in welk jaar de huurlast volgens deze veronderstelling voor het
+            eerst groter is dan 25%.
+
+
+
+
+VW-1024-a-21-1-o                            16 / 19                           lees verder ►►►
+            In de figuur hieronder is het werkelijke verloop van de huurprijs in New
+            York en van het inkomen van zijn inwoners als percentage van de
+            bedragen in 1960 uitgezet tegen de tijd.
+
+            figuur
+
+
+
+
+            Hieronder staan twee uitspraken die gaan over de gegevens in de figuur:
+            1 In de periode 1960–1980 steeg de huurprijs sneller dan in de periode
+               1980–2000.
+            2 In de periode 1990–2000 daalde de huurlast.
+
+4p   20     Leg voor elk van deze uitspraken uit of deze waar is of niet.
+
+
+
+
+VW-1024-a-21-1-o                            17 / 19                           lees verder ►►►
+      Inkomensongelijkheid
+
+            Het primair inkomen van een huishouden bestaat uit de som van alle
+            bruto inkomens uit werk en vermogen van alle personen uit dat
+            huishouden. Als in een huishouden niemand betaald werk heeft of over
+            vermogen beschikt, dan is het primair inkomen van dit huishouden gelijk
+            aan nul.
+
+            Het totale primair inkomen van alle huishoudens in Nederland in 2014 was
+            376,3 miljard euro. Er waren toen in totaal 7,8 miljoen huishoudens en
+            16,7 miljoen personen.
+
+            In de tabel zijn alle huishoudens op basis van hun primair inkomen
+            gerangschikt en verdeeld in tien groepen die elk ongeveer evenveel
+            huishoudens bevatten. De eerste groep bevat de huishoudens met de
+            laagste primaire inkomens en de tiende groep bevat die met de hoogste
+            primaire inkomens.
+
+            tabel
+                           1      2      3        4       5      6      7      8      9      10
+            aandeel
+            primair        0      0      1        3       5      8      12     16     20     35
+            inkomen (%)
+            aantal
+            huishoudens   784    769    776      777     777    777    777    777    777    776
+            (x 1000)
+            aantal
+            personen      1138   1041   1234    1330     1466   1597   1851   2155   2381   2535
+            (x 1000)
+
+
+            In de tabel kun je bijvoorbeeld zien dat de groep met de hoogste primaire
+            inkomens 776 000 huishoudens bevat en uit 2 535 000 personen bestaat.
+            Van het totale primair inkomen van 376,3 miljard euro is 35% van deze
+            groep. Dit is 131,705 miljard euro.
+
+            De mate van inkomensongelijkheid tussen personen wordt weergegeven
+            door S. We definiëren S als volgt:
+            S is het gemiddeld inkomen per persoon in de tiende groep min het
+            gemiddeld inkomen per persoon in de eerste groep.
+            Je kunt met de bovenstaande gegevens berekenen dat S bij het
+            primair inkomen ongeveer 51 955 euro is.
+
+
+
+
+VW-1024-a-21-1-o                               18 / 19                                lees verder ►►►
+            Door uitkeringen te geven en belastingen te heffen, verkleint de
+            Nederlandse overheid de inkomensongelijkheid.
+            Als we bij het primair inkomen van een huishouden alle ontvangen
+            uitkeringen optellen en alle betaalde belastingen eraf halen, krijgen we
+            het secundair inkomen van het huishouden.
+
+            In de figuur staat voor dezelfde tien groepen huishoudens als in de tabel
+            het verschil tussen het secundair en primair inkomen per huishouden.
+
+            figuur
+                     secundair inkomen min primair inkomen per huishouden
+
+
+
+
+            In de figuur kun je bijvoorbeeld zien dat het secundair inkomen per
+            huishouden in de eerste vijf groepen hoger is dan het primair inkomen.
+            Er is dan een hoger bedrag aan uitkeringen ontvangen dan er aan
+            belasting is betaald.
+
+            Door de uitkeringen en belastingen zal S bij het secundair inkomen kleiner
+            zijn dan bij het primair inkomen.
+7p   21     Onderzoek of S in 2014 bij het secundair inkomen meer of minder dan
+            30 000 euro lager is dan bij het primair inkomen.
+
+
+
+
+VW-1024-a-21-1-o                            19 / 19                           lees verdereinde
+                                                                                           ►►► 
+

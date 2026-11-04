@@ -1,0 +1,371 @@
+                                                                Examen HAVO
+
+                                                                     2024
+                                                                            tijdvak 1
+                                                                     dinsdag 14 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 19 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-24-1-o
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-24-1-o                        2 / 14   lees verder ►►►
+      Door de top
+
+
+                                                                   
+                                                                     3
+            De functie f wordt gegeven door f ( x )  2 13 x  1  12 x  3 .
+                                                 2
+            De afgeleide van f is f ' ( x)  92 x  43 x  1 12 .
+
+                                                      2
+4p    1     Bewijs dat inderdaad geldt f ' ( x)  92 x  43 x  1 12 .
+
+            Het punt A is de linker top van de grafiek van f. Zie de figuur.
+                                                      2
+            De functie g wordt gegeven door g ( x)  x  10
+                                                          3 xc
+                                                                . Hierin is c een
+            constante.
+            De grafiek van g gaat door het punt A.
+
+            figuur
+
+
+
+
+6p    2     Bereken exact de waarde van c.
+
+
+
+
+HA-1025-a-24-1-o                                   3 / 14                       lees verder ►►►
+      Bloeddruk
+
+            De bloeddruk in een slagader stijgt en daalt wanneer het hart het bloed
+            door de aderen pompt. Dit stijgen en dalen is een periodiek verschijnsel
+            dat te benaderen is met een sinusoïde. De periode hiervan is de tijd
+            tussen twee opeenvolgende hartslagen.
+
+            De bloeddruk van een gezonde volwassen man in rust is vereenvoudigd
+            weergegeven in de grafiek van figuur 1.
+
+            figuur 1
+
+
+
+
+            Deze grafiek is te beschrijven met een formule van de vorm
+            P  a  b sin(c (t  d )) , met P de bloeddruk in mmHg (millimeter kwikdruk)
+            en t de tijd in seconden.
+5p    3     Bepaal de waarden van a, b, c en d met behulp van de grafiek in figuur 1.
+            Geef je eindantwoorden zo nodig in één decimaal.
+
+            In werkelijkheid verloopt de bloeddruk van een gezonde volwassen man
+            die geen grote inspanning levert niet helemaal als een sinusoïde. Dit komt
+            doordat de bloeddruk iedere periode een langere tijd laag is dan hoog.
+            Hierdoor zijn in de periodieke grafiek van de bloeddruk de bovenste delen
+            smaller dan de onderste delen. Een schets die het verloop van de
+            bloeddruk beter benadert, is te zien in figuur 2.
+
+
+
+
+HA-1025-a-24-1-o                             4 / 14                            lees verder ►►►
+            figuur 2
+
+
+
+
+            Een formule om de gemiddelde bloeddruk te benaderen, is
+                    Pgem  Pmin  0,33( Pmax  Pmin )                   (1)
+
+            Hierin zijn Pgem , Pmin en Pmax achtereenvolgens de gemiddelde, de
+            minimale en de maximale bloeddruk in mmHg. Er geldt: Pmax  Pmin .
+
+            Uit formule (1) is af te leiden dat Pgem bestaat uit een percentage van Pmin
+            en een percentage van Pmax . Het percentage van Pmin is groter dan het
+            percentage van Pmax .
+2p    4     Bereken hoeveel keer zo groot. Geef je eindantwoord als geheel getal.
+
+            Het is bekend dat bij een hogere hartslag de gemiddelde bloeddruk stijgt.
+            Formule (1) houdt hier geen rekening mee.
+            Wetenschappers van de Rosalind Franklin University of Medicine and
+            Science in Chicago hebben een formule opgesteld waarin de invloed van
+            de hartslag wel meegenomen is:
+                    Pgem  Pmin  (0,33  0,0012  H )( Pmax  Pmin )   (2)
+
+            Hierin is H de hartslag, uitgedrukt in het aantal slagen per minuut.
+            Pmin en Pmax zijn weer de minimale en de maximale bloeddruk in rust in
+            mmHg en Pgem is nu de gemiddelde bloeddruk in mmHg bij hartslag H.
+            Ook hier geldt: Pmax  Pmin .
+
+            Een gezonde volwassen man heeft in rust een minimale bloeddruk van
+            80 mmHg en een maximale bloeddruk van 120 mmHg. Tijdens het
+            hardlopen heeft hij een gemiddelde bloeddruk van 100 mmHg.
+3p    5     Bereken bij welke hartslag volgens formule (2) de gemiddelde bloeddruk
+            100 mmHg is. Geef je eindantwoord in gehele slagen per minuut.
+
+
+
+
+HA-1025-a-24-1-o                               5 / 14                          lees verder ►►►
+      Een parabool en een cirkel
+
+                                                         2
+            De functie f wordt gegeven door f ( x)  94 x  16
+                                                             9
+                                                               x  20
+                                                                   9
+                                                                      . De grafiek van f
+            snijdt de x-as in de punten A en B en de y-as in punt D. Het punt T is de
+            top van de grafiek van f. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De raaklijn aan de grafiek van f in punt D maakt een scherpe hoek met de
+            y-as.
+4p    6     Onderzoek op algebraïsche wijze of deze hoek kleiner is dan 30⁰.
+
+            De cirkel c snijdt de x-as in de punten A en B en heeft middelpunt T.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+8p    7     Bereken exact de y-coördinaten van de snijpunten van c met de y-as.
+
+
+
+HA-1025-a-24-1-o                              6 / 14                             lees verder ►►►
+      Parkje in Lyon
+
+            In de Franse stad Lyon ligt een parkje met de naam ‘Jardin des tout-petits
+            Adolphe-Lafont’. De vorm is nagenoeg driehoekig.
+
+            We benaderen de vorm van dit parkje met een driehoek ABC. Zie de
+            figuur.
+
+            figuur
+
+
+
+
+            Er geldt:
+             Zijde AB, langs de Rue Pascal, is 92 m lang.
+             Zijde BC, langs de Rue Lafontaine, is 101 m lang.
+             Zijde AC, langs de Avenue Marc Sangnier, is 145 m lang.
+
+6p    8     Bereken algebraïsch de oppervlakte van dit parkje in m2. Geef je
+            eindantwoord als geheel getal.
+
+
+
+
+HA-1025-a-24-1-o                            7 / 14                             lees verder ►►►
+      Dicht bij elkaar
+
+            De functies f en g worden gegeven door:
+
+                                  1              1
+                   f ( x)  x      en g ( x ) 
+                                  x              x
+            S is het snijpunt van de grafieken van f en g.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            In figuur 1 lijkt het alsof de functie f een minimum heeft in het snijpunt S.
+4p    9     Onderzoek of in het snijpunt S de functie f inderdaad een minimum heeft.
+
+
+
+
+HA-1025-a-24-1-o                                 8 / 14                         lees verder ►►►
+            Verder wordt de functie h gegeven door h( x)  x .
+            In figuur 2 zijn de grafieken van f en h weergegeven. Voor steeds grotere
+            waarden van x liggen de grafieken van f en h steeds dichter bij elkaar.
+
+            figuur 2
+
+
+
+
+2p    10    Leg uit, zonder getallenvoorbeeld of gebruik van de grafische
+            rekenmachine, waarom voor grote waarden van x de grafieken van f en h
+            dicht bij elkaar liggen.
+
+3p    11    Bereken voor welke waarden van x het verschil tussen f ( x) en h( x)
+            minder is dan 0,01. Geef je eindantwoord in drie decimalen.
+
+
+
+
+HA-1025-a-24-1-o                            9 / 14                           lees verder ►►►
+      Bierbrouwen
+
+            Er zijn vele soorten bier, die allemaal anders smaken. De smaak van bier
+            wordt deels bepaald door de mate van bitterheid. Deze bitterheid wordt
+            voornamelijk bepaald door het ingrediënt hop, dat tijdens het brouwen
+            wordt toegevoegd. Hop bevat alfazuren die tijdens het koken worden
+            omgezet in iso-alfazuren. Deze iso-alfazuren bepalen hoe bitter het bier
+            is.
+
+            Hoe langer het bier gekookt wordt, hoe meer alfazuren omgezet worden in
+            iso-alfazuren. Zo is na 5 minuten koken 4,5% van de alfazuren omgezet
+            en na 45 minuten koken 24,2%.
+
+            Voor kooktijden tussen 5 en 45 minuten is er bij benadering een
+            exponentieel verband tussen de kooktijd t in minuten en het percentage
+            alfazuren P dat is omgezet. Uit de gegevens volgt dat:
+
+                    P  4,5 1,043t         (1)
+            Hierbij staat t  0 voor het moment dat het bier 5 minuten heeft gekookt.
+            De groeifactor per minuut bij dit exponentiële verband is afgerond op drie
+            decimalen gelijk aan 1,043.
+
+3p    12    Bereken deze groeifactor per minuut in vijf decimalen.
+
+            Na 45 minuten koken geldt het exponentiële verband (1) niet meer. Het
+            percentage alfazuren dat is omgezet neemt vanaf dat moment langzamer
+            toe dan daarvoor. Na 60 minuten koken is meestal het
+            maximumpercentage omgezette alfazuren bereikt. Bij een
+            amateurbrouwer is dit maximumpercentage 27%.
+
+            De tijd die nodig is om de eerste helft, dus 13,5% alfazuren, om te zetten
+            is niet gelijk aan de tijdsduur die nodig is om dit percentage daarna nog te
+            verhogen tot 27%.
+4p    13    Bereken hoeveel minuten verschil er tussen deze twee tijdsduren is.
+            Geef je eindantwoord als geheel getal.
+
+
+
+
+HA-1025-a-24-1-o                            10 / 14                            lees verder ►►►
+            De Europese bitterheidseenheid (EBU, European Bittering Units) is een
+            maat om de bitterheid van bier aan te geven. Voor een bepaalde biersoort
+            kan de bitterheid berekend worden met de formule:
+                        4 P M
+                   B
+                         5 V
+            Hierin is:
+             B de bitterheid in EBU;
+             P het percentage alfazuren dat is omgezet;
+             M de massa aan hop in grammen;
+             V de hoeveelheid bier die gebrouwen wordt in liters.
+
+            Volgens het recept moet de hop in deze biersoort 30 minuten gekookt
+            worden. Een amateurbrouwer wil graag een bitterheid van 30 EBU
+            hebben voor zijn bier en gebruikt hiervoor 100 gram hop.
+4p    14    Bereken algebraïsch hoeveel liter bier hiermee kan worden gebrouwen.
+            Geef je eindantwoord als geheel getal.
+
+
+
+
+HA-1025-a-24-1-o                          11 / 14                          lees verder ►►►
+      Exponentiële functies
+
+            De functie f wordt gegeven door f ( x)  2 x 3 en de functie g wordt
+                                   32 x
+            gegeven door g ( x)  2      .
+            In figuur 1 zijn de grafieken van f en g weergegeven.
+
+            figuur 1
+
+
+
+
+            De grafieken van f en g snijden elkaar in de punten A en B. Punt A ligt op
+            de y-as.
+
+3p    15    Bereken exact de x-coördinaat van B.
+
+
+
+
+HA-1025-a-24-1-o                            12 / 14                             lees verder ►►►
+            De grafiek van f wordt ten opzichte van de x-as met  15 vermenigvuldigd.
+            Hierdoor ontstaat de grafiek van de functie h.
+            Vervolgens wordt de grafiek van h omhoog geschoven. Hierdoor ontstaat
+            de grafiek van de functie k. De horizontale asymptoot van de grafiek van k
+            gaat door A, het snijpunt van de grafiek van f en de y-as.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+3p    16    Stel een functievoorschrift op van k.
+
+            De grafiek van k snijdt de x-as in het punt C met x-coördinaat
+             x  3  2 log(40) .
+            Deze x-coördinaat kan ook geschreven worden in de vorm x  2 log( p) ,
+            met p een geheel getal.
+2p    17    Bereken exact de waarde van p.
+
+
+
+
+HA-1025-a-24-1-o                            13 / 14                          lees verder ►►►
+      Vierdegraadsfunctie
+
+            De functie f wordt gegeven door f ( x)  x 4  3 x 2  2 .
+4p    18    Bereken exact het minimum van f.
+
+            Functie f kan ook geschreven worden als f ( x)  ( x 2  1)( x 2  2) .
+            De grafiek van f snijdt de x-as achtereenvolgens in de punten A, B, C en
+            D. Het punt T is het snijpunt van de grafiek van f met de y-as.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+            In de figuur is ATC aangegeven.
+6p    19    Bereken algebraïsch deze hoek. Geef je eindantwoord in graden in één
+            decimaal.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-24-1-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

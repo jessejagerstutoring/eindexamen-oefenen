@@ -1,0 +1,475 @@
+                                                                Examen HAVO
+
+                                                                     2024
+                                                                            tijdvak 1
+                                                                     dinsdag 14 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-24-1-o
+             FORMULEBLAD
+
+             Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                         ad  bc
+              22-kruistabel        , met phi                                  ,
+                              c d                (a  b)(a  c)(b  d )(c  d )
+              waarin a, b, c en d absolute aantallen zijn
+
+                  als phi  0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”
+                  als 0,2  phi  0, 2 , dan zeggen we “het verschil is gering”
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1              , met X1 en X 2 de steekproefgemiddelden
+                                   (
+                                  2 1
+                                     S  S 2 )
+              ( X1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+  noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-24-1-o                                  2 / 12                                     lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1  p)
+               p  2            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-24-1-o                              3 / 12                           lees verder ►►►
+      ‘Ff me telefoon opladen’
+
+            Op de foto zie je een telefoon waarvan                  foto
+            het batterijpercentage 73% is. Daarmee
+            wordt bedoeld dat de batterij van de
+            telefoon voor 73% is opgeladen. Wanneer
+            het batterijpercentage van een telefoon
+            lager is dan 100%, kan de telefoon worden
+            opgeladen met behulp van een oplader.
+            Zo’n oplader levert een bepaald vermogen
+            in watt (W). Welk vermogen op een
+            bepaald moment door de oplader wordt
+            geleverd, hangt af van het type telefoon en
+            het batterijpercentage dat de telefoon op dat moment heeft.
+
+            In de figuren 1 en 2 zie je de grafieken die horen bij twee types telefoons
+            (PRO 5 en PRO 6). Op de horizontale as staat de tijd vanaf het moment
+            dat de lege telefoon aan de oplader gelegd wordt.
+
+            figuur 1   PRO 5                          figuur 2   PRO 6
+
+
+
+
+            Op de uitwerkbijlage is figuur 1 vergroot afgebeeld, waarbij de
+            doorgetrokken grafiek en de bijbehorende linkeras zijn weggelaten.
+            Het batterijpercentage van de PRO 5 neemt in de eerste 30 minuten
+            lineair toe. Als het batterijpercentage op dezelfde manier zou blijven
+            toenemen, dan is de totale oplaadtijd (van 0 tot 100%) korter dan nu af te
+            lezen is uit figuur 1.
+3p    1     Bepaal door te tekenen in de figuur op de uitwerkbijlage hoeveel minuten
+            de totale oplaadtijd in dat geval zou zijn. Geef je antwoord in hele
+            minuten.
+
+
+
+
+HA-1024-a-24-1-o                             4 / 12                            lees verder ►►►
+            Djimon heeft een PRO 5 en Sasha heeft een PRO 6. Ze leggen hun
+            telefoons op hetzelfde moment aan de oplader. Sasha’s telefoon had op
+            dat moment een batterijpercentage van 10%. Beide telefoons bereiken na
+            verloop van tijd op precies hetzelfde moment een batterijpercentage van
+            90%.
+
+4p    2     Bepaal voor hoeveel procent de batterij van Djimon opgeladen was op het
+            moment dat zijn telefoon aan de oplader gelegd werd. Je kunt hierbij
+            gebruikmaken van de figuren op de uitwerkbijlage. Geef je antwoord in
+            hele procenten.
+
+            Het eerste stuk van de gestippelde grafieken in figuur 1 en figuur 2 is voor
+            zowel de PRO 5 als de PRO 6 te beschrijven door een formule van de
+            vorm B  c  t , waarbij B het batterijpercentage in procenten is, t de tijd in
+            minuten en c een getal.
+2p    3     Onderzoek of het getal c bij de PRO 5 groter is dan bij de PRO 6. Je kunt
+            hierbij gebruikmaken van de figuren op de uitwerkbijlage.
+
+            In de laatste twee onderdelen van deze opgave kijken we naar het
+            vermogen dat de oplader levert.
+
+            In figuur 1 is te zien dat de oplader van de PRO 5 de eerste 15 minuten
+            zijn maximale vermogen van 17 W levert. Na deze eerste 15 minuten
+            daalt het geleverde vermogen bij benadering exponentieel. Op de
+            uitwerkbijlage is figuur 1 vergroot afgebeeld, waarbij de gestippelde
+            grafiek en de bijbehorende rechteras zijn weggelaten.
+5p    4     Bereken met de gegevens bij 20 en bij 85 minuten met hoeveel procent
+            per minuut het geleverde vermogen van de oplader van de PRO 5
+            afneemt. Je kunt hierbij gebruikmaken van de figuur op de uitwerkbijlage.
+            Geef je antwoord in hele procenten.
+
+            Als de telefoons van Sasha en Djimon beide vanaf een batterijpercentage
+            van 0% 90 minuten aan de oplader worden gelegd, dan hoeft de oplader
+            van Sasha minder vermogen te leveren dan die van Djimon.
+2p    5     Leg aan de hand van de figuren 1 en 2 op de uitwerkbijlage uit waarom dit
+            klopt.
+
+
+
+
+HA-1024-a-24-1-o                              5 / 12                             lees verder ►►►
+      Leerkrachten basisonderwijs
+
+            In 2017 werd er gestaakt door leerkrachten in het basisonderwijs. Er was
+            sprake van aanhoudende onvrede over onder meer het salaris en de
+            werkdruk. In deze opgave wordt met ‘leerkrachten’ telkens ‘leerkrachten in
+            het basisonderwijs’ bedoeld.
+
+            Leerkrachten verdienden in 2015 gemiddeld een bruto-uurloon van
+            26 euro. Daarmee verdienden zij 14 procent minder dan werknemers
+            buiten het onderwijs met hetzelfde opleidingsniveau.
+3p    6     Bereken het gemiddelde bruto-uurloon in 2015 van werknemers buiten het
+            onderwijs met hetzelfde opleidingsniveau. Geef je antwoord in een geheel
+            aantal euro’s.
+
+            In een enquête in 2017 kregen leerkrachten onder meer de volgende drie
+            vragen voorgelegd:
+            1 Moet u erg snel werken?
+            2 Moet u heel veel werk doen?
+            3 Moet u extra hard werken?
+            Zij konden steeds antwoorden met: ‘nooit’, ‘soms’, ‘vaak’ of ‘altijd’.
+
+            Bij deze vragen horen drie variabelen die elk kwalitatief en ordinaal zijn.
+2p    7     Leg uit waarom de drie variabelen kwalitatief zijn. Leg ook uit waarom de
+            drie variabelen ordinaal zijn.
+
+            In het basisonderwijs werken veel parttimers. In de rest van deze opgave
+            kijken we naar de arbeidsduur per week van leerkrachten. Zowel in 2003
+            als in 2017 is hier onderzoek naar gedaan. We nemen aan dat er in 2003
+            en in 2017 een aselecte steekproef is getrokken uit alle leerkrachten die
+            toen werkzaam waren. In de steekproeven is van elke leerkracht zijn of
+            haar arbeidsduur in uur per week bekend. De steekproefresultaten zijn
+            verwerkt in de figuur op de volgende pagina.
+
+
+
+
+HA-1024-a-24-1-o                            6 / 12                             lees verder ►►►
+            figuur            Arbeidsduur per week
+
+
+
+
+            Uit de figuur kun je bijvoorbeeld afleiden dat in 2017 bij de mannen de
+            steekproefproportie die voltijds werkt 0,6 is.
+            Veronderstel dat het 95%-betrouwbaarheidsinterval voor de bijbehorende
+            populatieproportie precies [0,58; 0,62] is.
+3p    8     Bereken met deze gegevens het totaal aantal mannen in de steekproef
+            van 2017.
+
+            Op basis van de figuur zou je kunnen denken dat er in de steekproef van
+            alle leerkrachten in 2017 een lager percentage voltijds werkt dan in de
+            steekproef van alle leerkrachten in 2003.
+4p    9     Geef een getallenvoorbeeld waaruit blijkt dat dit niet noodzakelijk waar
+            hoeft te zijn. Licht je antwoord toe.
+
+            We kijken in het laatste onderdeel van deze opgave naar het verschil in
+            arbeidsduur voor mannen en vrouwen die als leerkracht werken.
+
+            In een steekproef onder leerkrachten in 2021 was de gemiddelde
+            arbeidsduur voor de mannen 31,2 uur per week met een
+            standaardafwijking van 8,3. De vrouwen werkten gemiddeld 27,2 uur per
+            week met een standaardafwijking van 7,6. Vaak wordt beweerd dat er een
+            groot verschil bestaat in de arbeidsduur per week voor mannen en
+            vrouwen die als leerkracht werken. Bovenstaande gegevens over
+            gemiddelden en standaardafwijkingen in combinatie met de vuistregels op
+            het formuleblad leiden echter tot een andere conclusie, namelijk dat het
+            verschil middelmatig is.
+3p    10    Laat met een berekening zien dat deze conclusie juist is.
+
+
+
+
+HA-1024-a-24-1-o                           7 / 12                           lees verder ►►►
+      Hart-lopen
+
+            Tijdens het hardlopen gaat je hartslag omhoog. Maar als die heel hoog
+            oploopt, werkt je hart niet meer optimaal. Daarom is het van belang om
+            rekening te houden met je maximale hartslag. De maximale hartslag is
+            onder andere afhankelijk van je leeftijd en je geslacht.
+            In deze opgave kijken we naar de hartslag van volwassen mannen.
+            Er zijn verschillende formules om de maximale hartslag te berekenen,
+            bijvoorbeeld voor ongetrainde en getrainde mannen:
+                   M ongetraind  220  L                      (formule 1)
+                   M getraind  205,8  0,685  L              (formule 2)
+
+            Hierin is M de maximale hartslag in aantal slagen per minuut en L de
+            leeftijd in hele jaren.
+
+            De hartslag geeft je belangrijke informatie
+            tijdens een training. Met behulp van een
+            sporthorloge kun je je hartslag tijdens de
+            training in de gaten houden.
+            De tabel geeft voor diverse soorten
+            trainingen advies over de hartslag die je
+            tijdens die training zou moeten aanhouden.
+
+            tabel
+              soort training                        percentage van de
+                                                    maximale hartslag
+              warming-up / coolingdown              45 – 60
+              rustige duurtraining                  60 – 70
+              intensieve duurtraining               70 – 80
+              maximale duurtraining                 80 – 90
+              zware kortdurende
+                                                    90 – 100
+              inspanningstraining
+
+            Hans is een getrainde man van 48 jaar, houdt een rustige duurtraining en
+            volgt daarbij het advies uit de tabel op.
+3p    11    Bereken welke waarden van de hartslag er voor Hans mogelijk zijn
+            waarbij hij zich houdt aan het advies. Geef de waarden in een geheel
+            aantal slagen per minuut.
+
+            De formules voor de maximale hartslag voor ongetrainde en getrainde
+            mannen verschillen. Je kunt je afvragen bij welke leeftijden ze meer dan
+            5 slagen per minuut verschillen.
+5p    12    Onderzoek bij welke leeftijden dit het geval is.
+
+
+
+
+HA-1024-a-24-1-o                                    8 / 12                   lees verder ►►►
+            De Engelse fysioloog Hill stelde dat de hardloopprestatie wordt bepaald
+            door de maximale zuurstofopname Z van het lichaam, uitgedrukt in het
+            aantal milliliters per minuut per kilogram lichaamsgewicht (ml/min per kg).
+
+            Een formule waarmee Z bij benadering kan worden bepaald is:
+                              M
+                   Z  15                               (formule 3)
+                              R
+            Hierin is M de maximale hartslag en R de hartslag in rust, beide in aantal
+            slagen per minuut.
+
+            Een marathon is een hardloopwedstrijd over 42,195 km. De gemiddelde
+            snelheid v waarmee een hardloper een marathon kan lopen, is afhankelijk
+            van Z. Deze gemiddelde snelheid v (in km/uur) kan berekend worden met
+            de volgende formule:
+                         Z
+                   v                                    (formule 4)
+                        3,74
+            Als twee mannen dezelfde hartslag in rust hebben, dan kun je met behulp
+            van de formules 3 en 4 beredeneren dat de persoon met een hogere
+            maximale hartslag een snellere tijd kan lopen op de marathon dan de
+            persoon met een lagere maximale hartslag.
+3p    13    Geef deze redenering zonder gebruik te maken van getallenvoorbeelden.
+
+            Jan, die een marathon gaat lopen, heeft een maximale hartslag van
+            190 slagen per minuut en een hartslag in rust van 60 slagen per minuut.
+4p    14    Bereken met behulp van de formules 3 en 4 de tijd die hij op de marathon
+            gaat lopen. Geef je antwoord in gehele minuten.
+
+            Met behulp van de formules 3 en 4 is de volgende formule af te leiden
+            voor de gemiddelde snelheid die een hardloper kan lopen op een
+            marathon:
+                        15 M
+                   v                                    (formule 5)
+                        3, 74 R
+            Vervolgens is er met behulp van de formules 2 en 5 een formule af te
+            leiden die voor een getrainde man v uitdrukt in L en R. Deze formule is te
+            schrijven in de vorm:
+                        a bL
+                   v                                    (formule 6)
+                           R
+            Hierin zijn a en b getallen.
+3p    15    Leid formule 6 af uit de formules 2 en 5. Geef daarbij a en b in één
+            decimaal.
+
+
+
+
+HA-1024-a-24-1-o                            9 / 12                            lees verder ►►►
+      Heel Holland Bakt
+
+            Zonnebrandcrème, in deze opgave
+            kortweg crème, beschermt de huid
+            tegen verbranding door de zon. De
+            mate van bescherming die een crème
+            biedt, wordt aangegeven met de
+            zogenoemde beschermingsfactor, in
+            deze opgave kortweg factor. Hoe hoger
+            de factor van de crème, hoe beter de
+            bescherming tegen de zon.
+
+            In een onderzoek werd de volgende stelling voorgelegd aan een aselecte
+            steekproef uit de populatie ouders van jonge kinderen:
+
+                   Als je je insmeert met een crème met factor 50,
+                   dan kun je niet meer verbranden.
+
+            De steekproef bevatte 410 mannen en 611 vrouwen. De onderzoeker was
+            benieuwd in hoeverre er verschil zou zijn tussen de reacties van mannen
+            en vrouwen. In de steekproef waren 74 mannen en 79 vrouwen het eens
+            met de stelling.
+
+4p    16    Onderzoek of de 95%-betrouwbaarheidsintervallen voor de
+            populatieproportie mannen en vrouwen die het eens zijn met de stelling
+            elkaar overlappen.
+
+            Met behulp van het formuleblad kunnen we onderzoeken of het verschil
+            tussen mannen en vrouwen wat betreft het wel of niet eens zijn met de
+            stelling gering, middelmatig of groot is.
+4p    17    Voer dit onderzoek uit.
+
+            Zonlicht bevat uv A-straling die diep in de huid kan doordringen en daar
+            schade kan aanrichten. Door crème te gebruiken wordt een deel van die
+            straling geblokkeerd. Voor het percentage P van de uv A-straling dat
+            geblokkeerd wordt, geldt:
+                                 1
+                   P  100   1   , waarbij F de factor van de crème is.
+                                 F
+            In de figuur op de volgende pagina is de grafiek afgebeeld die bij de
+            formule hoort.
+
+
+
+
+HA-1024-a-24-1-o                               10 / 12                        lees verder ►►►
+            figuur
+
+
+
+
+            In de figuur is te zien dat de bescherming tegen uv A-straling toeneemt
+            als de waarde van F toeneemt.
+3p    18    Beredeneer aan de hand van de formule dat de bescherming tegen
+            uv A-straling toeneemt als de waarde van F toeneemt, zonder gebruik te
+            maken van getallenvoorbeelden.
+
+3p    19    Bereken vanaf welke factor een crème minimaal 98% van de uv A-straling
+            tegenhoudt.
+
+            In de richtlijnen van huidartsen worden vaak alleen de gewenste
+            blokkeringspercentages (P) voor een crème genoemd. Het is dan handig
+            om F te kunnen berekenen met een herleide vorm van de formule voor P.
+3p    20    Herleid de formule voor P tot een vorm waarin F wordt uitgedrukt in P.
+
+            Het is zo dat een crème met factor 30 twee keer zo lang tegen
+            zonnebrand beschermt als een crème met factor 15.
+3p    21    Onderzoek of het percentage van de uv A-straling dat geblokkeerd wordt
+            door een crème met factor 30 dan ook twee keer zo groot is als dat van
+            een crème met factor 15.
+
+
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1024-a-24-1-o                          11 / 12                           lees verder ►►►
+      Over koetjes en kalfjes
+
+            Op melkveebedrijven wordt onderscheid gemaakt tussen jongvee en
+            volwassen melkkoeien. Binnen het jongvee wordt nog onderscheid
+            gemaakt tussen kalveren en pinken.
+
+
+
+
+            De grootte van een melkveebedrijf wordt uitgedrukt in het aantal
+            grootvee-eenheden (GVE). In de tabel staat voor hoeveel GVE een dier
+            van een bedrijf meetelt.
+            tabel
+                                                 leeftijd (jaar)          aantal GVE
+                                  kalf           0 tot 1                            0,25
+              jongvee
+                                  pink           1 tot 2                              0,5
+              volwassen melkkoe                  2 of ouder                             1
+
+            In de periode 2005-2016 zijn melkveebedrijven gemiddeld genomen
+            steeds groter geworden. Vanaf 2005 is het gemiddeld aantal volwassen
+            melkkoeien per melkveebedrijf in Nederland jaarlijks met 3,75% gestegen
+            tot 99 in 2016. Tegelijkertijd steeg het gemiddeld aantal GVE per bedrijf
+            van 84 in 2005 tot 126 in 2016.
+
+            Neem aan dat er op elk bedrijf altijd evenveel kalveren als pinken waren.
+7p    22    Onderzoek hoeveel stuks jongvee er in de periode 2005-2016 gemiddeld
+            per bedrijf bij zijn gekomen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1024-a-24-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

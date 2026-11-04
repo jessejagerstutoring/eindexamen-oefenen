@@ -1,0 +1,465 @@
+                                                      Examen VMBO-BB
+
+                                                                 2019
+                                                                        tijdvak 1
+                                                              donderdag 16 mei
+                                                               13.30 - 15.00 uur
+
+
+                                                        wiskunde CSE BB
+
+
+
+
+Naam kandidaat ____________________________     Kandidaatnummer ____________
+
+
+
+Beantwoord alle vragen in dit opgavenboekje.
+
+
+
+
+Dit examen bestaat uit 23 vragen.
+Voor dit examen zijn maximaal 57 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+BB-0153-a-19-1-o
+      Suikerbieten
+
+             In een fabriek worden suikerbieten verwerkt tot suiker.
+
+
+
+
+1p    1      De verwerking van suikerbieten in de fabriek vindt plaats van
+             half september tot en met half januari.
+              Hoeveel maanden duurt de verwerking van suikerbieten in de fabriek?
+
+             ..................................................................................................................
+
+3p    2      In Nederland staan twee suikerfabrieken waar suikerbieten worden
+             verwerkt. De rechte lijn op de kaart geeft de afstand aan tussen de
+             twee suikerfabrieken. De schaal van de kaart is 1 : 5 000 000.
+
+
+
+
+              Bereken hoeveel km de afstand tussen deze twee fabrieken is.
+               Schrijf je berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             2 / 13                                             lees verder ►►►
+             Voor het produceren van 1 ton suiker is 6 ton suikerbieten nodig. Een
+             fabriek produceert in een week 80 000 kg suiker.
+
+3p    3      Hoeveel ton suikerbieten heeft de fabriek hiervoor in een week nodig?
+             Schrijf je berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+4p    4      Van de 80 000 kg suiker wordt 1,8% gebruikt voor stroop. In een fles
+             stroop zit 11 gram suiker.
+              Bereken hoeveel flessen stroop er geproduceerd kunnen worden met
+                 deze 80 000 kg suiker. Schrijf je berekening op. Je mag de tabel
+                 gebruiken.
+
+
+
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             3 / 13                                             lees verder ►►►
+      Tegels
+
+             Ron maakt een tuinpad. Hij legt 7 tegels per rij.
+
+1p    5      Hoeveel rijen met tegels moet Ron leggen voor een tuinpad van in totaal
+             280 tegels? Schrijf je berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             Met de volgende woordformule kan Ron berekenen hoeveel tegels hij
+             heeft gelegd als hij het aantal rijen weet
+
+                                    totaal aantal tegels = 7  aantal rijen
+
+4p    6      Teken de grafiek bij deze woordformule. Maak zelf een juiste verdeling
+             voor de verticale as. Je mag de tabel gebruiken.
+
+                      aantal rijen
+
+                      totaal aantal
+                      tegels
+
+
+
+
+             totaal aantal tegels
+
+
+
+
+                                        0    5    10   15    20   25       30      35     40
+                                                                                aantal rijen
+
+
+
+
+BB-0153-a-19-1-o                                                  4 / 13                                        lees verder ►►►
+2p    7      Ron maakt een ander tuinpad met 4 tegels per rij. Hij heeft al 120 tegels
+             gelegd.
+              Bereken hoeveel rijen met tegels Ron nog moet leggen voor een
+                tuinpad van in totaal 300 tegels. Schrijf je berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+2p    8      Je ziet hieronder de woordformules van drie andere personen die een
+             tuinpad met tegels aan het leggen zijn. Ze kunnen hiermee het totaal
+             aantal tegels berekenen.
+
+                   totaal aantal tegels Tico = 80 + 5  aantal rijen
+                   totaal aantal tegels Demi = 90 + 6  aantal rijen
+                   totaal aantal tegels Ali = 40 + 8  aantal rijen
+
+              Welke van deze drie personen legt het minste aantal tegels per rij?
+               Leg je antwoord uit.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             5 / 13                                             lees verder ►►►
+      Zandbak
+
+             Hans heeft een zandbak in zijn tuin in de vorm van een hart.
+
+
+
+
+1p    9      Je ziet een tekening van het bovenaanzicht van de zandbak. Het
+             bovenaanzicht is symmetrisch.
+              Teken in het bovenaanzicht de symmetrie-as(sen).
+
+             Het bovenaanzicht van de zandbak is te verdelen in een vierkant en
+             twee halve cirkels.
+
+
+
+
+                                  1,5 m
+
+
+                   oppervlakte cirkel = 3,14  straal  straal
+
+4p    10     Bereken hoeveel m2 de oppervlakte van de zandbak is. Schrijf je
+             berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             6 / 13                                             lees verder ►►►
+4p    11     omtrek cirkel = 3,14  diameter
+              Bereken hoeveel meter de omtrek van de zandbak is. Schrijf je
+                berekening op en rond je antwoord af op één decimaal.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+4p    12     Langs de rechte zijden van de zandbak (zijde a en zijde b) wil Hans
+             één rij tegels per zijde leggen. De tegels zijn 15 bij 15 cm.
+
+
+
+
+                                                 b
+
+
+
+                                     a
+
+                                  1,5 m
+
+
+              Bereken hoeveel tegels Hans hiervoor nodig heeft. Schrijf je
+               berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             7 / 13                                             lees verder ►►►
+      Vloggers
+
+             Een vlogger is iemand die een deel van zijn of haar leven vastlegt op
+             video en dit op internet deelt met anderen.
+
+
+
+
+             Je ziet de drie bekendste vloggers van Nederland in 2017 met het
+             aantal ‘views’. Dit is het aantal keer dat hun video’s zijn bekeken.
+
+                               vlogger                                aantal views
+              1                Kwebbelkop                             2 748 480 000
+              2                Enzo Knol                              1 403 129 000
+              3                Nikkie Tutorials                         644 740 000
+
+1p    13     Hoeveel miljard views heeft Kwebbelkop in 2017? Vul in en geef je
+             antwoord in één decimaal.
+
+             2 748 480 000 = ………..… miljard
+
+
+2p    14     Enzo Knol heeft meer views dan Nikkie Tutorials.
+              Bereken hoeveel miljoen views meer. Schrijf je berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             8 / 13                                             lees verder ►►►
+2p    15     Nikkie Tutorials verdient € 0,80 per 1000 views.
+              Hoeveel euro heeft Nikkie verdiend met de 644 740 000 views?
+                Schrijf je berekening op.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+3p    16     Enzo Knol verdient extra geld met de verkoop van producten van zijn
+             merk Knol Power. Een trui van Knol Power kost € 34,99. Hiervan gaat
+             € 5,25 naar Enzo Knol.
+              Hoeveel procent van de verkoop van een trui gaat naar Enzo Knol?
+                 Schrijf je berekening op. Je mag de tabel gebruiken.
+
+
+
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                             9 / 13                                             lees verder ►►►
+      Reistijd
+
+             Evelien wil op bezoek bij haar oma. Oma woont 24 km bij Evelien
+             vandaan.
+
+             Evelien berekent haar gemiddelde snelheid met de woordformule
+
+                                     gemiddelde snelheid = 24 : reistijd
+
+             Hierin is de gemiddelde snelheid in km per uur en de reistijd in uren.
+
+2p    17     Evelien gaat met de auto naar haar oma. Ze doet er 30 minuten over.
+              Laat met een berekening zien dat haar gemiddelde snelheid
+                48 km per uur is.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+4p    18     Teken de grafiek bij de woordformule. Vul eerst de tabel in.
+
+                     reistijd (uren)                          0,5          1     1,5            2           2,5            3
+                     snelheid (km per uur)
+
+
+                                     60
+
+
+
+
+             snelheid (km per uur)
+                                     50
+
+                                     40
+
+                                     30
+
+                                     20
+
+                                     10
+
+                                      0
+                                      0,5   1   1,5   2     2,5      3
+                                                       reistijd (uren)
+
+
+
+
+BB-0153-a-19-1-o                                                     10 / 13                                    lees verder ►►►
+4p    19     In de zomervakantie besluit Evelien om op één dag op en neer naar haar
+             oma te lopen. Evelien loopt met een gemiddelde snelheid van 6 km per
+             uur. Ze is 2 uur op bezoek bij haar oma.
+              Bereken hoe laat Evelien weer thuis is als ze om 9 uur ’s morgens
+                 thuis vertrekt. Schrijf je berekening op. Je mag de tabel gebruiken.
+
+
+
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                            11 / 13                                             lees verder ►►►
+      Ladder
+
+
+
+
+             Sara klimt op een ladder. Hoek A is de hoek die de ladder met de grond
+             maakt.
+
+1p    20     Meet de grootte van hoek A.
+
+             Hoek A = ............... °
+
+2p    21     Even later zet Sara de ladder tegen de muur van een huis. De ladder
+             staat op de grond bij punt L. De ladder maakt een hoek van 70° met de
+             grond.
+              Teken de ladder.
+
+
+
+
+                     L
+
+
+
+
+BB-0153-a-19-1-o                           12 / 13                          lees verder ►►►
+1p    22     Omcirkel het juiste gedeelte van de volgende zin:
+
+             Als Sara de afstand op de grond van de ladder tot de muur korter maakt,
+
+                          wordt hoek A groter.
+            dan           wordt hoek A kleiner.
+                          blijft hoek A gelijk.
+
+2p    23     Met de volgende woordformule rekent Sara uit op welke afstand tot de
+             muur de ladder moet staan, zodat de ladder veilig staat
+
+                                 hoogte
+                   afstand =
+                                  2,7
+
+             Hierin is hoogte de hoogte waar de ladder de muur raakt in meters en
+             afstand is de afstand op de grond van de ladder tot de muur in meters.
+
+
+
+
+                    er
+
+                                  hoogte
+                   ladd
+
+
+
+
+                    afstand
+
+
+             Sara zet de ladder tegen de muur zodat de hoogte 3,5 meter is.
+              Bereken hoeveel meter de afstand moet zijn, zodat deze ladder
+                veilig staat. Schrijf je berekening op en rond je antwoord af op
+                één decimaal.
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+BB-0153-a-19-1-o                                            13 / 13                                             lees verdereinde
+                                                                                                                             ►►► 
+

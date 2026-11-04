@@ -1,0 +1,551 @@
+                                                                 Examen VWO
+
+                                                                     2022
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde A
+
+
+
+
+ Dit examen bestaat uit 22 vragen.
+ Voor dit examen zijn maximaal 79 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-22-2-o
+OVERZICHT FORMULES
+
+
+
+Differentiëren
+   naam van de regel                   functie                      afgeleide
+
+   somregel                            s ( x)  f ( x)  g ( x)        s' ( x)  f ' ( x)  g' ( x)
+
+   verschilregel                       v( x)  f ( x)  g ( x)         v' ( x)  f ' ( x)  g' ( x)
+
+   productregel                        p ( x)  f ( x)  g ( x)        p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                 f ( x)                            f ' ( x)  g ( x)  f ( x)  g' ( x)
+   quotiëntregel                       q( x)                          q' ( x) 
+                                                 g ( x)                                         ( g ( x)) 2
+                                                                       k' ( x)  f ' ( g ( x))  g' ( x) of
+   kettingregel                        k ( x)  f ( g ( x))            dk df dg
+                                                                                 
+                                                                       dx dg dx
+
+
+Logaritmen
+  regel                                                       voorwaarde
+   g
+       log  a   log  b   log  ab 
+                   g               g
+                                                              g > 0, g  1, a > 0, b > 0
+                                       a
+   g
+       log  a   g log  b   g log                      g > 0, g  1, a > 0, b > 0
+                                       b
+   g
+            
+       log a p  p  g log  a                               g > 0, g  1, a > 0
+                   p
+                       log  a 
+   g
+       log  a   p                                          g > 0, g  1, a > 0, p > 0, p  1
+                       log  g 
+
+
+
+
+VW-1024-a-22-2-o                                              2 / 18                                                lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-22-2-o                        3 / 18   lees verder ►►►
+      Dauwpunt
+
+            Als je op een zomerse dag een glas limonade op tafel zet, dan kan het
+            glas binnen de kortste keren aan de buitenkant nat zijn. Dat komt doordat
+            waterdamp uit de lucht neerslaat op het glas. We noemen dat condens.
+            Condens ontstaat als de temperatuur van het glas lager is dan het
+            zogenaamde dauwpunt: de temperatuur waarbij waterdamp uit de lucht
+            condenseert.
+            Het dauwpunt Td in °C is afhankelijk van de luchttemperatuur en de
+            luchtvochtigheid en kan worden berekend met formule 1:
+                            237,7  G            17, 27  L       R 
+                     Td               , met G              ln         (formule 1)
+                            17, 27  G           237,7  L        100 
+            Hierin is L de luchttemperatuur in °C en R de (relatieve) luchtvochtigheid
+            in % (met 0  R  100 ).
+
+            Hoewel de eerste condens al eerder ontstaat, is de condens pas goed
+            zichtbaar als de temperatuur van het glas minimaal 3 °C onder het
+            dauwpunt ligt.
+
+            Op een dag is de luchttemperatuur 23 °C en de luchtvochtigheid 65%. Op
+            tafel staat een glas limonade. Het glas heeft een temperatuur van 12 °C.
+3p    1     Onderzoek of er dan goed zichtbare condens op het glas ontstaat.
+
+            Er wordt vaak gezegd dat een hoge luchtvochtigheid oncomfortabel is.
+            Amerikaans onderzoek toonde echter aan dat comfortgevoel niet alleen
+            bepaald wordt door de luchtvochtigheid, maar ook door het dauwpunt. In
+            de tabel wordt het verband tussen het dauwpunt en het comfortgevoel
+            aangegeven.
+            tabel
+              dauwpunt (°C)         comfortgevoel
+                      26           ernstig onaangenaam
+                   24 - < 26        zeer onaangenaam
+                   21 - < 24        behoorlijk onaangenaam
+                   18 - < 21        enigszins onaangenaam
+                   16 - < 18        voor de meeste mensen acceptabel
+                   13 - < 16        comfortabel
+                   10 - < 13        zeer comfortabel
+                     < 10           aan de droge kant
+
+
+
+
+VW-1024-a-22-2-o                                   4 / 18                          lees verder ►►►
+            De zomer van 2018 was in heel Europa erg warm. Bij een hoge
+            luchttemperatuur is het dauwpunt ook hoog en dan wordt de
+            luchttemperatuur dus als onaangenaam ervaren. In Nederland liep de
+            temperatuur op tot 33 °C en in het zuiden van Spanje zelfs tot 46 °C.
+
+            In Nederland werd de maximumtemperatuur als zeer onaangenaam
+            ervaren, terwijl in Spanje de veel hogere maximumtemperatuur dankzij
+            een lage luchtvochtigheid als enigszins onaangenaam werd ervaren.
+5p    2     Bereken de minimale luchtvochtigheid in Nederland bij de
+            maximumtemperatuur in de zomer van 2018. Geef je antwoord in hele
+            procenten.
+
+            In de winter zetten de meeste mensen hun verwarming op 20 °C.
+            Bij een vaste luchttemperatuur van 20 °C kan formule 1 herleid worden
+            tot:
+                          237,7  (ln( R)  3, 265)
+                   Td                                         (formule 2)
+                             20,535  ln( R )
+
+4p    3     Laat deze herleiding zien.
+
+            In de winter is de luchtvochtigheid in huis vaak aan de lage kant. Als de
+            luchtvochtigheid lager is dan 30%, is dit schadelijk voor de gezondheid.
+
+            In een huiskamer met een luchttemperatuur van 20 °C blijkt het dauwpunt
+            3 °C te zijn.
+3p    4     Onderzoek met behulp van formule 2 of de luchtvochtigheid in deze
+            huiskamer schadelijk is voor de gezondheid.
+
+
+
+
+VW-1024-a-22-2-o                                 5 / 18                       lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-22-2-o                        6 / 18   lees verder ►►►
+       Skûtsjesilen
+
+            Elk jaar vindt in Friesland het skûtsjesilen plaats. Dit zijn zeilwedstrijden
+            met oude vrachtschepen, skûtsjes genaamd. Er zijn twee organisaties die
+            deze wedstrijden organiseren: de SKS1) en de IFKS2).
+
+
+
+
+                                                               tabel
+            Voor het jaarlijkse SKS-kampioenschap
+            worden 11 wedstrijden gezeild, waaraan              uitslag       punten
+            14 skûtsjes meedoen.                                winnaar          0,9
+            Voor elke wedstrijd krijgen de skûtsjes punten     2e plaats          2
+            in volgorde van aankomst. De winnaar krijgt
+                                                               3e plaats          3
+            0,9 punt. Nummer twee krijgt 2 punten,
+            nummer drie krijgt 3 punten, enzovoort.                …             …
+            Zie de tabel.                                      14e plaats        14
+
+            Na afloop van de 11 wedstrijden wordt voor elk skûtsje het slechtste
+            resultaat geschrapt. De punten van de overige 10 wedstrijden worden per
+            skûtsje bij elkaar opgeteld. Het skûtsje dat dan de minste punten heeft, is
+            kampioen.
+3p     5    Onderzoek of het theoretisch mogelijk is dat elk skûtsje in de einduitslag
+            een geheel aantal punten heeft.
+
+
+
+
+     noot 1 SKS = Sintrale Kommisie Skûtsjesilen
+     noot 2 IFKS = Iepen Fryske Kampioenskippen Skûtsjesilen
+
+
+
+
+VW-1024-a-22-2-o                               7 / 18                           lees verder ►►►
+            De afmetingen van de deelnemende skûtsjes zijn niet identiek. Om er toch
+            een eerlijke wedstrijd van te maken, wordt voor elk skûtsje het maximaal
+            toegestane zeiloppervlak berekend.
+
+            In eerste instantie rekende de SKS met formule Amels, maar deze
+            formule is in 2000 aangepast en opnieuw aangepast in 2016:
+                   S  1,90  L  ( B  2 D )               (formule Amels)
+                   S  2,15  L  ( B  2 D)                (formule 2000)
+                   S  2,15  L  ( 23 B  1, 25  2 D )    (formule 2016)
+
+            Hierin is S het maximaal toegestane zeiloppervlak in m2, L de lengte van
+            het skûtsje, B de breedte en D de diepgang ( L, B en D in meters).
+
+            De invoering van formule 2000 had tot gevolg dat elk skûtsje hetzelfde
+            percentage extra zeil mocht hebben.
+2p    6     Bereken het percentage extra zeil dat elk skûtsje van formule 2000 mag
+            hebben ten opzichte van formule Amels. Geef je antwoord in hele
+            procenten.
+
+            Een van de skûtsjes is 17,13 m lang en 3,57 m breed en mag volgens
+            formule 2000 een maximaal zeiloppervlak van 160,2 m2 hebben.
+4p    7     Bereken hoeveel m2 zeiloppervlak dit skûtsje volgens formule 2016 meer
+            mag hebben dan volgens formule 2000. Geef je antwoord in één
+            decimaal.
+
+
+
+
+VW-1024-a-22-2-o                                   8 / 18                     lees verder ►►►
+            Voor het IFKS-kampioenschap worden andere regels gehanteerd voor het
+            maximaal toegestane zeiloppervlak. Hier wordt gebruikgemaakt van de
+            volgende formule:
+                   S  (3, 2525  0,05 L)  L  B            (formule IFKS)
+            Hierin is S het maximaal toegestane zeiloppervlak in m2, L de lengte van
+            het skûtsje en B de breedte (L en B in meters).
+
+            Voor een skûtsje met een breedte van 3,52 m en een diepgang van
+            0,42 m geeft formule 2016 van de SKS een zeiloppervlak dat 25 m 2 groter
+            is dan het toegestane zeiloppervlak volgens formule IFKS.
+3p    8     Bereken de lengte van dit skûtsje. Geef je antwoord in meters en in twee
+            decimalen.
+
+            Een skûtsje heeft altijd een lengte L tussen de 12 en 20 meter.
+            Bij een vaste breedte van het skûtsje geldt: hoe langer het skûtsje, des te
+            groter het maximaal toegestane zeiloppervlak.
+            Dit is echter niet meteen duidelijk te zien in formule IFKS.
+            Om dit aan te tonen kun je een vaste waarde voor B kiezen en daarna
+                                      dS
+            laten zien dat de afgeleide   van formule IFKS positief is.
+                                      dL
+                                                                     dS
+5p    9     Kies een vaste waarde voor B, stel hiermee de afgeleide     op en toon
+                                                                     dL
+            aan, zonder een schets te maken, dat voor een skûtsje de afgeleide van
+            formule IFKS positief is.
+
+
+
+
+VW-1024-a-22-2-o                                    9 / 18                    lees verder ►►►
+      Waalbrug
+
+            De Waalbrug is een verkeersbrug die
+            Nijmegen en Lent met elkaar verbindt.
+            In figuur 1 is een schematische tekening
+            van de Waalbrug weergegeven.
+            Hierin zijn de rechthoekjes de pijlers
+            van de brug en is de horizontale lijn het
+            wegdek.
+
+            figuur 1
+
+
+
+
+            De Waalbrug heeft vijf bogen, waarvan er vier zich geheel onder het
+            wegdek bevinden. De middelste boog, de zogenaamde hoofdboog, heeft
+            een boven- en een onderrand. De onderrand komt tussen de punten A en
+            B boven het wegdek uit.
+
+            In figuur 1 is het wegdek als x-as genomen en gaat de y-as door de top
+            van de hoofdboog. Voor de onderrand van de hoofdboog kan de volgende
+            formule worden opgesteld:
+                                          
+                    y  11  38,6  sin       x  122     (formule 1)
+                                          244              
+            Hierin zijn x en y in meters.
+
+3p   10     Bereken de afstand van het wegdek tussen de punten A en B. Geef je
+            antwoord in gehele meters.
+
+
+
+
+VW-1024-a-22-2-o                                 10 / 18                      lees verder ►►►
+            De formule van de bovenrand wordt verkregen door formule 1 in verticale
+            richting te herschalen met factor 1,17 en vervolgens met 1,87 omhoog te
+            schuiven.
+            Met behulp van de formules voor de boven- en de onderrand kan de
+            verticale afstand tussen de boven- en de onderrand van de hoofdboog
+            worden berekend.
+4p   11     Bereken de verticale afstand tussen de boven- en de onderrand bij het
+            hoogste punt van de hoofdboog. Geef je antwoord in meters en in één
+            decimaal.
+
+            De gehele lengte van het wegdek dat hoort bij de hoofdboog – het stuk
+            tussen de twee middelste pijlers – bedraagt 244 meter. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Net als de hoofdboog bestaan de andere vier bogen uit een halve periode
+            van een sinusfunctie. Voor de boog direct rechts van de hoofdboog kan
+            een formule worden opgesteld van de vorm y  a  b  sin  c( x  d )  .
+
+            Hiervoor zijn de volgende gegevens van belang, zie figuur 2:
+             De pijlers zijn 7 meter breed.
+             De boog begint direct naast de pijler op 11 meter onder het wegdek.
+             Het hoogste punt van de boog raakt het wegdek.
+             Het wegdek dat boven de boog ligt, heeft een lengte van 95 m.
+
+4p   12     Stel de formule op voor de boog direct rechts van de hoofdboog.
+
+
+
+
+VW-1024-a-22-2-o                           11 / 18                            lees verder ►►►
+      Bonte vliegenvanger
+
+            De bonte vliegenvanger is een trekvogel die in de lente
+            en zomer in Nederland broedt en in Afrika overwintert. In
+            Nederland nam het aantal bonte vliegenvangers aan
+            het eind van de twintigste eeuw af. Daarna namen
+            de aantallen weer toe. Zie de figuur.
+            figuur
+
+
+
+
+            De aantallen worden gegeven als percentages, waarbij het aantal in 1990
+            op 100% gesteld is. De relatieve aantallen bonte vliegenvangers per jaar
+            ten opzichte van 1990 zijn in de figuur weergegeven met stippen.
+
+            In de figuur is door middel van een stippellijn een kwadratische trendlijn
+            getekend. Deze trendlijn bereikt een minimum van 81% in 1998 en is
+            daarna stijgend. Ook na 2008 heeft deze trend zich doorgezet.
+            De formule voor de trendlijn kan worden geschreven als:
+                   V  c  t 2  81
+            Hierin is V het aantal bonte vliegenvangers als percentage van het aantal
+            in 1990, t de tijd in jaren met t  0 in 1998 en c een constante.
+
+            In 2015 was het werkelijke aantal bonte vliegenvangers 50% hoger dan in
+            1990.
+4p   13     Bereken met behulp van de figuur de waarde van c in de formule en
+            onderzoek vervolgens of het werkelijke aantal bonte vliegenvangers in
+            2015 in overeenstemming met de formule was.
+
+
+
+VW-1024-a-22-2-o                            12 / 18                            lees verder ►►►
+            Om de afname en de toename van het aantal bonte vliegenvangers te
+            verklaren, gebruiken onderzoekers een model waarbij ze uitgaan van
+            precies twee typen bonte vliegenvangers, type A en type B. De vogels van
+            type A starten eerder met broeden dan die van type B. In de loop der
+            jaren is er steeds vroeger veel voedsel beschikbaar voor de jonge vogels,
+            waardoor er steeds meer vogels van type A en minder van type B komen.
+
+            Voor elk van de typen A en B nemen we het volgende aan:
+             Het aantal volwassen vogels in (de lente van) jaar n  1 is het aantal
+               volwassen vogels uit jaar n dat de winter overleefd heeft plus het
+               aantal jonge vogels dat er in jaar n bij gekomen is en die de winter
+               overleefd hebben.
+             Er zijn evenveel volwassen mannetjes als vrouwtjes. Deze vormen
+               allemaal paartjes, elk paartje maakt een nest.
+             Jonge vogels worden geboren in een nest. Ze zijn na een jaar
+               volwassen of ze hebben de winter niet overleefd.
+            Van beide typen overleeft 50% van de volwassen vogels de winter.
+            Van type A vliegen gemiddeld 5,9 jongen per nest uit en van deze jongen
+            overleeft 20% de winter. Voor type B is dit ongunstiger: er vliegen
+            gemiddeld 5,0 jongen per nest uit en daarvan overleeft 18% de winter.
+
+            Met behulp van deze gegevens kan het volgende model opgesteld
+            worden:
+                   An1  1,09  An met beginwaarde A0
+                   Bn1  0,95  Bn met beginwaarde B0
+            Hierin is An het aantal volwassen vogels van type A en Bn het aantal
+            volwassen vogels van type B in jaar n.
+
+4p   14     Leg uit hoe de formule Bn1  0,95  Bn volgt uit de gegevens.
+
+            In het verleden waren er veel meer volwassen vogels van type B.
+            Neem aan dat in een zeker jaar het aantal volwassen vogels van type B
+            vijf keer zo groot was als het aantal volwassen vogels van type A.
+3p   15     Bereken na hoeveel jaar het aantal volwassen vogels van type A dan voor
+            het eerst groter is dan dat van type B.
+
+
+
+
+VW-1024-a-22-2-o                            13 / 18                          lees verder ►►►
+            In 1984 waren er 60 000 bonte vliegenvangers. Het totale aantal vogels N
+            in jaar t, met t  0 in 1984, kan worden benaderd met de volgende
+            continue formule:
+
+                                    
+                   N (t )  60 000  a 1,09t  b  0,95t   
+            Hierin is a het beginaandeel van type A en b het beginaandeel van type
+            B. Dus als er in jaar 0 bijvoorbeeld 20% van type A is en dus 80% van
+            type B, dan is a  0, 2 en b  0,8 . In dat geval is er een minimumaantal
+            bonte vliegenvangers in 1990.
+
+            We weten dat a en b samen 1 moeten zijn, dus a  b  1 .
+            Nu kunnen we de afgeleide van N(t), met t  0 in 1984, als volgt
+            benaderen:
+
+                                        
+                    N' (t )  60 000  a  0,086 1,09t  (1  a)  0,051  0,95t   
+2p   16     Toon dit aan.
+
+            We willen onderzoeken met welke waarden van a en b dit model zou
+            kunnen passen bij de waargenomen trend van de aantallen bonte
+            vliegenvangers in de figuur. We zien dat dan het totale aantal vogels
+            minimaal moet zijn in 1998.
+
+3p   17     Onderzoek met behulp van de formule van de afgeleide bij welke
+            beginverdeling van type A en type B het totale aantal vogels minimaal is
+            in 1998. Geef de beginverdeling in hele procenten.
+
+
+
+
+VW-1024-a-22-2-o                                    14 / 18                             lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-22-2-o                       15 / 18   lees verder ►►►
+      Afname van de kindersterfte in Mali
+
+            Een van de landen met de hoogste kindersterfte ter wereld is Mali in
+            West-Afrika. De kindersterfte in een bepaald jaar is gedefinieerd als het
+            percentage kinderen van onder de vijf jaar dat in dat jaar komt te
+            overlijden. In deze opgave wordt met ‘kinderen’ steeds ‘kinderen onder de
+            vijf jaar’ bedoeld.
+
+            In 1900 waren er wereldwijd naar schatting 33,1 miljoen kinderen, van wie
+            er zo’n 12 miljoen in dat jaar kwamen te overlijden. In 2007 was het aantal
+            kinderen met 380% gestegen ten opzichte van 1900, terwijl er in dat jaar
+            2,8 miljoen minder kinderen kwamen te overlijden dan in 1900.
+4p   18     Bereken hoeveel keer zo klein de kindersterfte in 2007 was als in 1900.
+            Geef je antwoord als geheel getal.
+
+            In Mali nam het aantal kinderen in de periode 1960-2015 flink toe. We
+            gebruiken hiervoor het volgende model:
+                   K  240 900  e0,0203t                   (formule 1)
+
+            Hierin is K het aantal kinderen in Mali en t de tijd in jaren met t  0 op
+            31 december 1960. Het aantal kinderen wordt net als de kindersterfte aan
+            het einde van ieder jaar bepaald.
+
+3p   19     Bereken, zonder waarden voor K uit te rekenen, het percentage waarmee
+            het aantal kinderen in Mali volgens formule 1 iedere 10 jaar toeneemt.
+            Geef je antwoord in één decimaal.
+
+            Het aantal kinderen S dat jaarlijks in Mali komt te overlijden kun je
+            berekenen door het totale aantal kinderen in Mali te vermenigvuldigen met
+            het deel van de kinderen dat komt te overlijden. Er geldt dus:
+                   S  0, 01  P  K                        (formule 2)
+            Hierin is P het percentage kinderen dat jaarlijks komt te overlijden.
+
+            In 1960 was de kindersterfte in Mali 41,2%. In 2015 was dit percentage
+            gedaald tot 11,4%. Neem aan dat de afname van dit percentage P in de
+            periode 1960-2015 lineair is verlopen.
+
+            Formule 2 kan met behulp van deze gegevens worden herleid tot:
+                   S  (99 251  1305t )  e0,0203t         (formule 3)
+
+            In deze formule is S het aantal kinderen in Mali dat overlijdt in het jaar t,
+            met t de tijd in jaren en t  0 op 31 december 1960.
+
+3p   20     Leid formule 3 uit de gegevens af.
+
+
+
+
+VW-1024-a-22-2-o                                  16 / 18                         lees verder ►►►
+            figuur
+
+
+
+
+            In de figuur zie je de grafiek van S. In de grafiek is te zien dat het aantal
+            kinderen dat jaarlijks in Mali overlijdt na 1960, dus vanaf t  0 , eerst
+            toenam en pas later begon af te nemen.
+
+4p   21     Stel de formule op van de afgeleide S' en toon met behulp van deze
+            afgeleide aan dat volgens dit model de afname van het aantal kinderen
+            dat jaarlijks in Mali overlijdt na 1990 steeds sneller gaat.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-22-2-o                             17 / 18                              lees verder ►►►
+      Rondetijden
+
+            Bij het langebaanschaatsen spelen rondetijden een belangrijke rol. Bij
+            korte afstanden, zoals de 500 meter, gaat het erom zo snel mogelijk na de
+            start een zo hoog mogelijke snelheid te krijgen en daarna die snelheid zo
+            lang mogelijk vast te houden. Op middellange afstanden zoals de
+            3000 meter werkt dat echter niet, omdat de schaatser dan ruim voor de
+            finish al zo vermoeid raakt dat hij haast niet meer vooruitkomt.
+
+
+
+
+            Veel schaatsers proberen op de middellange afstanden hun race zó in te
+            delen dat ze elke ronde iets langzamer rijden dan de ronde ervoor, zodat
+            ze niet voor het eind van de wedstrijd instorten. De toename van de
+            rondetijden wordt verval genoemd. Een schaatser die bijvoorbeeld eerst
+            een ronde in 36 seconden aflegt en daarna in 39 seconden, heeft een
+            verval van 3 seconden.
+
+            Amateurschaatser Piet Versnel is aan het trainen om de 3000 meter in
+            minder dan 5 minuten af te leggen. De 3000 meter bestaat uit een eerste
+            deel van 200 meter en daarna nog zeven volledige ronden van elk 400
+            meter.
+
+            De tijd over de eerste 200 meter van Piet is na enkele maanden trainen
+            gelijk aan 23,3 seconden. Piet weet dat hij 65% langer doet over de
+            eerste volledige ronde dan over de eerste 200 meter.
+
+            Hij wil de 3000 meter zó rijden dat zijn verval gedurende de 7 volledige
+            ronden elke ronde constant is.
+
+6p   22     Onderzoek hoe groot het verval van Piet Versnel maximaal mag zijn om
+            de 3000 meter in minder dan 5 minuten af te leggen. Geef je antwoord in
+            seconden en in twee decimalen.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1024-a-22-2-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

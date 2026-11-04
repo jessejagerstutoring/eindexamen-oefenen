@@ -1,0 +1,337 @@
+                                               Examen VMBO-GL en TL
+
+                                                                 2024
+                                                                        tijdvak 1
+                                                              donderdag 23 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 26 vragen.
+ Voor dit examen zijn maximaal 71 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+GT-0153-a-24-1-o
+            Ga verder op de volgende pagina.
+
+
+
+
+GT-0153-a-24-1-o                        2 / 11   lees verder ►►►
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-24-1-o                             3 / 11                 lees verder ►►►
+      Sparen
+
+
+
+
+            Milan opent een spaarrekening waarop hij elke maand 50 euro stort.
+            Op deze rekening krijgt hij maandelijks 0,17 procent rente.
+
+            De volgende formule hoort bij het bedrag dat op deze rekening staat:
+
+                      50,085  (1,0017 n  1)
+                   B                         + 50
+                             0,0017
+
+            Hierin is B het bedrag dat op de spaarrekening staat in euro’s en n het
+            aantal maanden dat Milan aan het sparen is.
+
+2p    1     Na 3 jaar staat er bijna 1908 euro op zijn rekening.
+             Bereken met behulp van de formule hoeveel er na 3 jaar precies op
+               zijn rekening staat. Schrijf je berekening op.
+
+2p    2     Op de uitwerkbijlage staat een assenstelsel met daarin de grafiek van de
+            formule getekend. De getallen op de verticale as ontbreken.
+             Zet de juiste getallen bij de verticale as.
+
+3p    3     Milan stopt met sparen op het moment dat er voor het eerst meer dan
+            5000 euro op zijn rekening staat.
+             Bereken het aantal maanden dat Milan dan gespaard heeft. Schrijf je
+                berekening op.
+
+
+
+
+GT-0153-a-24-1-o                                4 / 11                       lees verder ►►►
+      Melkkoeien
+
+
+
+
+            Melkveehouder Jolles heeft 450 koeien.
+
+2p    4     Een koe eet gras, maïs en krachtvoer in de verhouding 8 : 2 : 3.
+            Een koe eet per dag 11 kg krachtvoer.
+             Bereken hoeveel kg gras een koe per dag eet. Schrijf je berekening
+               op.
+
+            De koeien van melkveehouder Jolles geven samen per week 84 000 liter
+            melk.
+
+4p    5     Een melkwagen heeft een cilindervormige tank met een diameter van
+            2,4 m en een lengte van 8 m.
+             Bereken hoeveel tanks er per week gevuld kunnen worden met de
+                melk van de koeien van melkveehouder Jolles. Schrijf je berekening
+                op en rond je antwoord af op één decimaal.
+
+3p    6     Per week wordt 4% van de totale hoeveelheid melk van melkveehouder
+            Jolles gebruikt voor kaas. Voor 1 kg kaas is 8 liter melk nodig.
+             Bereken hoeveel kg kaas er per week wordt gemaakt van de melk die
+                melkveehouder Jolles levert. Schrijf je berekening op.
+
+3p    7     In Nederland zijn er in totaal 1,5 miljoen melkkoeien. Deze koeien geven
+            gemiddeld 24 liter melk per dag.
+             Bereken hoeveel liter melk deze koeien per jaar geven. Schrijf je
+                berekening op. Geef je antwoord in de wetenschappelijke notatie en
+                rond af op één decimaal.
+
+
+
+
+GT-0153-a-24-1-o                           5 / 11                           lees verder ►►►
+      Harp
+
+
+
+
+            De harp is een snaarinstrument. De snaren zijn gespannen tussen de hals
+            en de klankkast van de harp. Alle snaren lopen evenwijdig aan de zuil.
+
+            Hierboven en op de uitwerkbijlage is een aantal snaren van een harp in
+            een assenstelsel getekend.
+            Hierin is h de hoogte in dm en a de afstand vanaf de rode snaar AC
+            in dm.
+
+            Er zijn rode (gestippeld), zwarte en grijze snaren. Tussen twee rode
+            snaren zitten zes snaren gespannen. AC is de langste snaar en PQ is de
+            kortste snaar.
+
+2p    8     Hoeveel snaren heeft deze harp? Leg uit hoe je aan je antwoord komt.
+
+            De snaren hebben een vast kleurenpatroon:
+            rood, grijs, grijs, zwart, grijs, grijs, grijs, rood, grijs, grijs, zwart, …
+
+2p    9     Op de uitwerkbijlage is een aantal snaren getekend.
+             Teken op de uitwerkbijlage de drie ontbrekende zwarte snaren op de
+               juiste plaats.
+
+2p    10    In het assenstelsel zie je dat de punten A(0, 0) en B(5, 8) op een rechte
+            lijn liggen.
+             Geef een formule van deze lijn.
+
+
+
+GT-0153-a-24-1-o                              6 / 11                              lees verder ►►►
+            De lengte van de snaren kun je berekenen met de formule:
+
+                   lengte = 0,07a3 – 0,4a2 – 1,6a + 9,25
+
+            Hierin is de lengte van de snaar in dm en a de afstand vanaf de
+            rode snaar AC in dm.
+
+1p    11    De afstand tussen de snaren AC en LM is 3,5 dm.
+             Laat met behulp van de formule zien dat snaar LM afgerond 1,75 dm
+               lang is.
+
+3p    12    De snaren hebben een vast kleurenpatroon:
+            rood, grijs, grijs, zwart, grijs, grijs, grijs, rood, grijs, grijs, zwart, …
+
+            Eén van de snaren heeft een lengte van 0,93 dm.
+             Gebruik de formule om te bepalen of deze snaar rood, grijs of zwart
+               is. Laat zien hoe je aan je antwoord komt.
+
+
+
+
+GT-0153-a-24-1-o                               7 / 11                             lees verder ►►►
+      Tarim Machine
+
+            Gerrit van Bakel ontwierp in 1982 de Tarim Machine, een bewegend
+            kunstwerk. Je ziet het kunstwerk en daaronder een houten model.
+
+
+
+
+2p    13    Een wiel bestaat uit 12 poten. In het model zijn de poten getekend als
+            zwarte streepjes.
+             Bereken hoeveel graden de hoek tussen de poten is. Schrijf je
+               berekening op.
+
+            Het kunstwerk bevat 4 even grote wielen. De wielen van het kunstwerk
+            hebben een straal van 80 cm. Tussen de wielen zit een ruimte van
+            20 centimeter.
+
+3p    14    Bereken hoeveel meter de lengte van het kunstwerk is. Schrijf je
+            berekening op.
+
+2p    15    Het houten model heeft wielen met een diameter van 16 cm.
+             Op welke schaal is het houten model gemaakt? Leg je antwoord uit.
+
+            Het kunstwerk beweegt door temperatuurswisselingen. Dit gaat heel
+            langzaam. De machine doet er volgens Van Bakel 36 miljoen jaar over om
+            het Tarimbekken in China te doorkruisen. Dit is een afstand van 1200 km.
+
+4p    16    Bereken hoeveel mm het kunstwerk aflegt in één dag. Je hoeft geen
+            rekening te houden met schrikkeljaren. Schrijf je berekening op en rond je
+            antwoord af op twee decimalen.
+
+3p    17    Het langzame kunstwerk was een reactie op de Blue Flame. Deze raket
+            vloog met een snelheid van 1060 km per uur.
+             Bereken hoeveel minuten deze raket over 1200 km doet. Schrijf je
+                berekening op.
+
+
+
+
+GT-0153-a-24-1-o                            8 / 11                             lees verder ►►►
+      Dug-out
+
+            Bij veel buitensporten staat er voor de trainer
+            en de wisselspelers een dug-out langs het
+            veld.
+
+
+
+
+            Je ziet een dug-out en een tekening van een zijwand. De buitenkant van
+            de dug-out is gemaakt van aluminium buizen en kunststof platen.
+            In de tekening van de zijwand zijn de aluminium buizen te zien. De
+            gestippelde lijnen zijn hulplijnen. De horizontale lijnen verdelen de 2 meter
+            hoge dug-out in vijf gelijke stukken van 40 cm. CD is een deel van een
+            cirkel met middelpunt M.
+
+4p    18    Bereken hoek F1. Schrijf je berekening op.
+
+5p    19    Er loopt een aluminium buis van punt B via de punten G, C, H en D naar
+            punt E.
+             Bereken hoeveel cm de lengte van deze buis is. Schrijf je berekening
+                op.
+
+3p    20    Bereken, zonder te meten, hoeveel cm de lengte van buis FH is. Schrijf je
+            berekening op.
+
+4p    21    Hoeveel m2 kunststof plaat is er gebruikt voor één zijwand van de dug-
+            out? Schrijf je berekening op.
+
+
+
+
+GT-0153-a-24-1-o                             9 / 11                            lees verder ►►►
+      Regelmatige veelvlakken
+
+
+
+
+            Je ziet vijf regelmatige veelvlakken.
+
+            De formule van Euler geeft het verband tussen het aantal hoekpunten,
+            ribben en vlakken van een veelvlak:
+
+                   H–R+V=2
+
+            Hierin is H het aantal hoekpunten, R het aantal ribben en V het aantal
+            vlakken.
+
+2p    22    Laat met een berekening zien dat deze formule klopt bij een kubus.
+
+3p    23    Op de uitwerkbijlage staat een tabel met de aantallen hoekpunten, ribben
+            en vlakken van vier regelmatige veelvlakken.
+             Vul de tabel verder in.
+
+
+
+
+GT-0153-a-24-1-o                            10 / 11                          lees verder ►►►
+            De inhoud van deze regelmatige veelvlakken kun je berekenen met de
+            volgende formules:
+
+                   inhoud kubus = ribbe3
+                   inhoud viervlak = 0,118  ribbe3
+                   inhoud achtvlak = 0,471  ribbe3
+                   inhoud twaalfvlak = 7,66  ribbe3
+                   inhoud twintigvlak = 2,18  ribbe3
+
+            Hierin is inhoud in cm3 en ribbe de lengte van de ribbe in cm.
+
+            De grafieken van deze formules zijn op de uitwerkbijlage in een
+            assenstelsel getekend.
+
+3p    24    Vul de tabel bij de grafieken op de uitwerkbijlage verder in.
+
+            Het twaalfvlak past precies in een bol. De straal
+            van de bol hangt af van de lengte van de ribben
+            van het twaalfvlak.
+
+            De straal van de bol kun je berekenen met de
+            formule:
+
+                   straal = 41  3  (1  5)  ribbe
+
+            Hierin is straal van de bol in cm en ribbe de
+            lengte van de ribbe van het twaalfvlak in cm.
+
+1p    25    Een twaalfvlak heeft ribben van 6 cm.
+             Laat zien dat de straal van de bol die hier omheen past, afgerond
+               8,41 cm is. Schrijf je berekening op.
+
+3p    26    De inhoud van een twaalfvlak kun je berekenen met de formule:
+
+                   inhoud = 7,66  ribbe3
+
+            Hierin is inhoud in cm3 en ribbe de lengte van de ribbe in cm.
+
+            Het twaalfvlak met ribben van 6 cm past precies in een plastic bol met een
+            straal van 8,41 cm. De inhoud van de plastic bol is groter dan de inhoud
+            van het twaalfvlak.
+             Bereken hoeveel cm3 groter. Schrijf je berekening op.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-24-1-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

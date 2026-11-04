@@ -1,0 +1,771 @@
+                                                   Correctievoorschrift HAVO
+
+                                                                           2022
+                                                                                   tijdvak 1
+
+
+
+
+                                                                         wiskunde A
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+HA-1024-a-22-1-c                              1                               lees verder ►►►
+      3       De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+              beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+              gegeven door het College voor Toetsen en Examens.
+              De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+              verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+              gezag van de gecommitteerde.
+      4       De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+              aantal scorepunten voor het centraal examen vast.
+      5       Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+              komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+              gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+              gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+              hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+              onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+              in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+HA-1024-a-c                                      2                                lees verder ►►►
+               3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                    gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                    formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+               3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                    staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+               3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                    zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                    vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                    toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                    onjuistheid gemoeid zijn.
+       4       Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+               juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+               onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+               worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+               beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+               antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+               gegeven is, worden eveneens geen scorepunten toegekend.
+       5       Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+               tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+               beoordelingsmodel anders is vermeld.
+       6       Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+               worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+       7       Indien de examinator of de gecommitteerde meent dat in een examen of in het
+               beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+               werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+               fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+               Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+               eventuele fout wordt bij de definitieve normering van het examen rekening
+               gehouden.
+       8       Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+               antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+       9       Het cijfer voor het centraal examen wordt als volgt verkregen.
+               Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+               wordt meegedeeld aan de directeur.
+               De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+               voor omzetting van score naar cijfer.
+
+   NB1         T.a.v. de status van het correctievoorschrift:
+               Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+               vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+               voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+               De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+HA-1024-a--c                                        3                                  lees verder ►►►
+  NB2         T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+              Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+              behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+              standaardformulier voorgeschreven voor de vermelding van de scores van de
+              kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+              verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+              of in gezamenlijk overleg keuzes maken.
+
+  NB3         T.a.v. aanvullingen op het correctievoorschrift:
+              Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+              en een fout.
+              Verduidelijking
+              Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+              antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+              Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+              voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+              Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+              Een fout
+              Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+              fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+              Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+              Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+              spoedig mogelijk verstuurd aan de examensecretarissen.
+              Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+              gevallen vermeldt de aanvulling:
+
+              –   Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                  deze aanvulling op het correctievoorschrift toe.
+                  en/of
+              –   Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                  Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+              Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+              moeten worden toegekend.
+
+              Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+              aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+              houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+              rekening met de onvolkomenheid.
+
+
+
+
+HA-1024-a-c                                         4                                  lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij de vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+HA-1024-a-c                                   5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+ Vraag        Antwoord                                                                        Scores
+
+
+
+      De psychrometer
+
+      1       maximumscore 3
+              •    Het verschil in temperatuur is 5 (C)                                         1
+              •    Aflezen bij luchttemperatuur 22 (C) en verschiltemperatuur 5 (C)            1
+              •    Het antwoord: 59(%)                                                           1
+
+      2       maximumscore 4
+              •    Aflezen bij luchtvochtigheid 60% en luchttemperatuur 31,5 C geeft
+                   een temperatuurverschil van 6 (C) (of aangeven op de uitwerkbijlage)         1
+              •    Aflezen bij luchtvochtigheid 60% en luchttemperatuur 15 C geeft een
+                   temperatuurverschil van 4 (C) (of aangeven op de uitwerkbijlage)             1
+              •    De bijbehorende natte temperaturen zijn 25,5 (C) en 11 (C)                  1
+              •    De natte temperatuur daalde 14,5 (C)                                         1
+              of
+              •    Aflezen bij luchtvochtigheid 60% en luchttemperatuur 31,5 C geeft
+                   een temperatuurverschil van 6 (C) (of aangeven op de uitwerkbijlage)         1
+              •    Aflezen bij luchtvochtigheid 60% en luchttemperatuur 15 C geeft een
+                   temperatuurverschil van 4 (C) (of aangeven op de uitwerkbijlage)             1
+              •    De luchttemperatuur daalde 16,5 (C) en het temperatuurverschil daalde
+                   2 (C)                                                                        1
+              •    De natte temperatuur daalde 14,5 (C)                                         1
+
+      3       maximumscore 4
+              •    Het aflezen van de luchtvochtigheid in de tabel geeft 66(%)                   1
+                                                              330
+              •    Het berekenen met de formule: L  100            3 (%)                      1
+                                                            18  11
+              •    L  65,862... (%)                                                             1
+              •    Het verschil is 0,14(%)                                                       1
+
+              Opmerking
+              Als de luchtvochtigheid van 66% niet met de tabel wordt gevonden, maar
+              met de figuur op de uitwerkbijlage, hiervoor geen scorepunten in mindering
+              brengen.
+
+
+
+
+HA-1024-a-c                                         6                                   lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      4       maximumscore 3
+              •    Als Tnat kleiner wordt, dan wordt 27  Tnat groter                             1
+                               330
+              •    Dan wordt         27  Tnat  groter                                         1
+                                45
+                                      330
+              •    Dus wordt 100            27  Tnat  (  L ) kleiner                        1
+                                       45
+              of
+              •    Uit formule 2 volgt dat het verband tussen Tnat en L lineair is                1
+                                              330
+              •    De richtingscoëfficiënt is      en dit is positief                             1
+                                               45
+              •    (De grafiek van L is dus een stijgende lijn, dus) als Tnat kleiner wordt,
+                   dan wordt L kleiner                                                            1
+
+
+
+
+HA-1024-a-c                                             7                                lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      CO2-concentratie in de atmosfeer
+
+      5       maximumscore 3
+              •   Aflezen: het jaargemiddelde is 355 (ppm)                                       1
+              •   Aflezen: het maandgemiddelde van september zit 2,8 (ppm) onder het
+                  jaargemiddelde                                                                 1
+              •   Het antwoord: 352,2 (ppm)                                                      1
+
+              Opmerking
+              Het jaargemiddelde en de afwijking daarvan mogen worden afgelezen met
+              een marge van 2 respectievelijk 0,1 ppm.
+
+      6       maximumscore 5
+              •   Aflezen: in 1970 is het jaargemiddelde 325 (ppm) en in 1995 is dat
+                  360 (ppm)                                                                      1
+              •   De groeifactor per jaar is 1,003                                               1
+              •   Keeling voorspelt een concentratie van 325 1, 00325 (  350, 2... ) (ppm)     1
+                                    350, 2...  360
+              •   De afwijking is                    100 (  2, 7... (%)) (of
+                                         360
+                  360  350, 2...
+                                  100 (  2, 7... (%)))                                         1
+                       360
+              •   Het antwoord: (  )3(%)                                                        1
+
+              Opmerkingen
+               De jaargemiddelden mogen worden afgelezen met een marge van
+                 2 ppm.
+                     360  350, 2...
+               Als                  100 berekend is, voor deze vraag maximaal
+                        350, 2...
+                 3 scorepunten toekennen.
+
+
+
+
+HA-1024-a-c                                         8                                   lees verder ►►►
+  Vraag       Antwoord                                                                           Scores
+
+
+      7       maximumscore 5
+                                                   400,8
+              •    De groeifactor per 15 jaar is         (  1, 084... )                            1
+                                                   369,5
+                                                           1
+                                                 400,8  15
+              •    De groeifactor per jaar is           (  1, 00543... )                         1
+                                                 369,5 
+              •    Beschrijven hoe de vergelijking 369, 5 1, 00543...t  500 kan worden
+                   opgelost (met t het aantal jaar na 2000)                                         1
+              •    Dit geeft t  55, 7... (of: voor t  55 is het kleiner dan 500, voor t  56
+                   is het groter dan 500)                                                           1
+              •    Het antwoord: in 2056                                                            1
+              of
+                                                 400,8
+              •    De groeifactor per 15 jaar is       (  1, 084... )                              1
+                                                 369,5
+              •    Beschrijven hoe de vergelijking 369, 5 1, 084...t  500 kan worden
+                   opgelost (met t het aantal perioden van 15 jaar na 2000)                         1
+              •    Dit geeft t  3, 7...                                                            1
+              •    3, 7... 15  55, 7...                                                           1
+              •    Het antwoord: in 2056                                                            1
+
+              Opmerkingen
+               De jaargemiddelden mogen ook worden afgelezen met een marge van
+                 2 ppm.
+               Als zowel in deze als in de volgende vraag het jaartal wordt bepaald
+                 door naar beneden af te ronden, hiervoor alleen bij deze vraag
+                 1 scorepunt in mindering brengen.
+
+      8       maximumscore 4
+              •    De toename per 15 jaar is 400,8  369,5 (  31,3 (ppm))                          1
+                                          31, 3
+              •    De toename per jaar is       (  2, 08... )                                      1
+                                           15
+                   500  369,5
+              •                 62,5...                                                            1
+                     2, 08...
+              •    Het antwoord: in 2063                                                            1
+
+              Opmerkingen
+               De jaargemiddelden mogen ook worden afgelezen met een marge van
+                 2 ppm.
+               Als zowel in deze als in de vorige vraag het jaartal wordt bepaald door
+                 naar beneden af te ronden, hiervoor alleen bij de vorige vraag
+                 1 scorepunt in mindering brengen.
+
+
+
+
+HA-1024-a-c                                            9                                   lees verder ►►►
+  Vraag       Antwoord                                                                     Scores
+
+
+      9       maximumscore 3
+              Een voorbeeld van een juist antwoord in woorden:
+              • Bij een lineair verband hoort een constant dalende grafiek; bij een
+                 exponentieel verband hoort een afnemend dalende grafiek                      1
+              • Bij het exponentiële verband daalt de grafiek dus in het begin sterker
+                 dan bij het lineaire verband                                                 1
+              • Het exponentiële verband bereikt dus eerder de waarde van 375 ppm             1
+              of
+              •    Een schets van een dalende lijn en een afnemend dalende grafiek met
+                   hetzelfde beginpunt en eindpunt                                            1
+              •    Het aangeven van twee punten op deze grafieken op dezelfde hoogte          1
+              •    Het exponentiële verband bereikt dus eerder de waarde van 375 ppm          1
+
+
+
+
+HA-1024-a-c                                       10                                 lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      Snelheidsovertredingen
+
+     10       maximumscore 2
+              Een voorbeeld van een juist antwoord:
+              • De steekproef is waarschijnlijk niet representatief, omdat er alleen op
+                 dinsdagochtend is gemeten (, waardoor je geen afspiegeling van het
+                 verkeer hebt dat wekelijks over deze weg rijdt)                                 1
+              • Er zou op meerdere dagen per week gemeten moeten worden                          1
+
+     11       maximumscore 2
+              •    De modale klasse is 41–45 (km/uur)                                            1
+              •    (De snelheidslimiet) 30 (km/uur) ligt niet in de modale klasse                1
+              of
+              •    In de klasse waar (de snelheidslimiet) 30 (km/uur) in ligt, zitten
+                   7 voertuigen                                                                  1
+              •    Er zijn klassen met meer dan 7 voertuigen, dus de snelheidslimiet ligt
+                   niet in de modale klasse                                                      1
+
+     12       maximumscore 4
+              •    p (of de steekproefproportie van het aantal automobilisten dat te hard
+                             100  2  7
+                   rijdt) is              0, 91                                                 1
+                                100
+              •    n (of de steekproefomvang) is 100                                             1
+              •    Het 95%-betrouwbaarheidsinterval van de populatieproportie is
+                               0,91(1  0,91)
+                   0,91  2                                                                     1
+                                    100
+              •    Het antwoord: [85; 97] (%)                                                    1
+
+     13       maximumscore 3
+              Een voorbeeld van een juist antwoord:
+              • Een boxplot is niet geschikt: 66% rijdt langzamer dan de
+                 snelheidslimiet en dat percentage zie je in een boxplot niet terug              1
+              • Een spreidingsdiagram is niet geschikt, omdat het hier niet gaat om een
+                 verband tussen twee variabelen                                                  1
+              • Een cumulatieve relatieve frequentiepolygoon is geschikt, omdat hierin
+                 valt af te lezen welk percentage langzamer reed, dus ook voor de
+                 snelheidslimiet                                                                 1
+
+              Opmerking
+              Elk scorepunt mag alleen worden toegekend als een juiste toelichting is
+              gegeven.
+
+
+
+
+HA-1024-a-c                                         11                                  lees verder ►►►
+  Vraag       Antwoord                                                                               Scores
+
+
+     14       maximumscore 4
+              •      In de situatie zonder matrixborden hielden 58 auto’s zich niet aan de
+                     snelheidslimiet, in de situatie met matrixborden hielden 30 auto’s zich
+                     niet aan de snelheidslimiet                                                        1
+              •      Een correcte kruistabel, bijvoorbeeld                                              1
+
+                                        hield zich aan de      hield zich niet aan de     (totaal)
+                                         snelheidslimiet          snelheidslimiet
+                  situatie zonder
+                                               111                        58               (169)
+                  matrixborden
+                  situatie met
+                                               183                        30               (213)
+                  matrixborden
+                  (totaal)                    (294)                      (88)              (382)
+
+                                         111 30  183  58
+              •      phi                                                                               1
+                            (111  58)(111  183)(58  30)(183  30)
+              •      phi  0, 23... ; (dit ligt tussen 0, 2 en 0, 4 ) dus het verschil is
+                     middelmatig                                                                        1
+
+              Opmerking
+              Als bij de berekening van phi voor a, b, c en d de getallen 111, 169, 183 en
+              213 worden gebruikt, voor deze vraag maximaal 2 scorepunten toekennen.
+
+
+
+
+HA-1024-a-c                                             12                                     lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      Motorblokken bestellen
+
+     15       maximumscore 2
+                                              27 000
+              •   Het aantal bestellingen is                                                     1
+                                                q
+              •   Per bestelling zijn de kosten B (euro), dus in totaal zijn de bestelkosten
+                              27 000
+                  gelijk aan          B (euro)                                                  1
+                                 q
+
+     16       maximumscore 4
+                                                                    27 000
+              •   Bij 10 keer bestellen is de bestelhoeveelheid (           ) 2700
+                                                                      10
+                  (motorblokken)                                                                 1
+              •   Bij 10 keer bestellen zijn de totale kosten
+                                     27 000
+                  TK  54 000 000           1800  60  2700  54 180 000 (euro)               1
+                                      2700
+              •   Bij 1 keer bestellen zijn de totale kosten
+                                     27 000
+                  TK  54 000 000           1800  60  27 000  55 621 800 (euro)             1
+                                     27 000
+              •   Het verschil is 55 621800  54 180 000  1 441800 (euro)                       1
+
+              Opmerking
+              Als in de formule voor TK in het tweede en derde antwoordelement
+              respectievelijk 10 en 1 is ingevuld voor q, voor deze vraag maximaal
+              2 scorepunten toekennen.
+
+     17       maximumscore 4
+                                   27 000
+              •   De vergelijking         1800  60q moet worden opgelost                       1
+                                      q
+              •   Beschrijven hoe deze vergelijking kan worden opgelost                          1
+              •   Dit geeft q  900                                                              1
+                                             27 000
+              •   Het aantal bestellingen is        , dus 30                                     1
+                                              900
+
+     18       maximumscore 4
+              • 27 000  B  60 q 2                                                              1
+                   2
+              •   q  450 B                                                                      1
+              •   q     450 B geeft q  21, 21...  B (of q    450  B )                       1
+              •   (Afgerond geeft dit) het antwoord: q  21 B (of a  21 )                       1
+
+
+
+
+HA-1024-a-c                                         13                                  lees verder ►►►
+  Vraag       Antwoord                                                                             Scores
+
+
+      Sprinten met rugwind
+
+     19       maximumscore 3
+                                                         100
+              •    Powell loopt met een snelheid van           (  10, 266... ) (m/s)                 1
+                                                         9, 74
+              •    Hij loopt nog 9, 74  9,58 ( 0,16) (s)                                            1
+              •    Powell had nog 0,16 10, 266...  1, 64 (m) te gaan                                1
+
+              of
+                                                        100
+              •    Powell loopt met een snelheid van          (  10, 266... ) (m/s)                  1
+                                                        9, 74
+              •    Toen Bolt finishte had Powell 9,58 10, 266... ( 98,357...) (m) afgelegd          1
+              •    Powell had nog 100  98,357...  1, 64 (m) te gaan                                 1
+
+              of
+                                                     9,58
+              •    De snelheid van Powell was              ( 0,98357...) keer zo groot als die
+                                                     9, 74
+                   van Bolt                                                                           1
+              •    Powell had 0,98357... 100 ( 98,357...) (m) afgelegd op het moment
+                   dat Bolt finishte                                                                  1
+              •    Powell had nog 100  98,357...  1, 64 (m) te gaan                                 1
+
+     20       maximumscore 5
+                                                                      2
+                                                      0,9  9,58 
+              •    Z  1, 03  9,58  0, 03  9,58   1                                            1
+                                                          100 
+              •    Z  9, 62...                                                                       1
+                                                               2
+                                                 2, 0  M 
+              •    9, 62...  1, 03M  0, 03M  1                                                  1
+                                                    100 
+              •    Beschrijven hoe deze vergelijking kan worden opgelost                              1
+              •    (Dit geeft M  9,528... , dus) het antwoord: M  9,53 (s)                          1
+
+              Opmerkingen
+               Als de getallen 0,9 en 2,0 in bovenstaande berekening zijn verwisseld,
+                 voor deze vraag maximaal 4 scorepunten toekennen.
+                                                                              2
+                                                                 2, 0  M 
+               Als de vergelijking 9,58  1, 03M  0, 03M   1             wordt
+                                                                       100 
+                 opgelost, voor deze vraag maximaal 2 scorepunten toekennen.
+                                                                                   2
+                                                                    2, 0  9,58 
+               Als het antwoord met 1, 03  9,58  0, 03  9,58  1            berekend
+                                                                         100 
+                 wordt, voor deze vraag geen scorepunten toekennen.
+
+
+
+
+HA-1024-a-c                                              14                                  lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      AOW-uitkering
+
+     21       maximumscore 6
+              •    In 2012 is het aantal AOW-gerechtigden 16, 7  0,162 ( 2, 70...)
+                   (miljoen)                                                                    1
+              •    In 2012 is het totaalbedrag aan AOW-uitkeringen 10 980  2, 70...
+                   ( 29 705,...) (miljoen)                                                     1
+              •    Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per
+                   jaar)                                                                        1
+              •    Totale bevolking 2023: 16, 7 1, 004411 (  17, 52...) (miljoen)             1
+              •    In 2023 is het aantal AOW-gerechtigden 17, 52...  0,177 (  3,10...)
+                   (miljoen)                                                                    1
+              •    29 705,... (miljoen) delen door 3,10... (miljoen) geeft een
+                   AOW-uitkering in 2023 van 9575, 70 (of 9576) (euro) per persoon              1
+
+              of
+              •    In 2012 is het aantal AOW-gerechtigden 16, 7  0,162 ( 2, 70...)
+                   (miljoen)                                                                    1
+              •    In 2012 is het totaalbedrag aan AOW-uitkeringen 10 980  2, 70...
+                   ( 29 705,...) (miljoen)                                                     1
+              •    Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per
+                   jaar)                                                                        1
+              •    Totale bevolking 2023: 16, 7 1, 004411 (  17, 52...) (miljoen)             1
+              •    In 2023 is het aantal AOW-gerechtigden 17, 52...  0,177 (  3,10...)
+                   (miljoen)                                                                    1
+              •    Bij een AOW-uitkering van 10 980 (euro) is het totaalbedrag aan
+                   AOW-uitkeringen 10 980  3,10...  34 061,... (miljoen); dat zou een
+                   toename van 34 061,...  29 705,...  4356,... (miljoen) betekenen; dus
+                   moet de AOW-uitkering 4356,...: 3,10...  1404, 30 (euro) lager worden;
+                   dus de AOW-uitkering per persoon in 2023 moet
+                   10 980  1404, 30  9575, 70 (of 9576) (euro) zijn                           1
+
+              of
+
+
+
+
+HA-1024-a-c                                        15                                 lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+              •   In 2012 is het aantal AOW-gerechtigden 16, 7  0,162 ( 2, 70...)
+                  (miljoen)                                                                       1
+              •   Bij een groei van 0,44% (per jaar) hoort een groeifactor van 1,0044 (per
+                  jaar)                                                                           1
+              •   Totale bevolking 2023: 16, 7 1, 004411 (  17, 52...) (miljoen)                1
+              •   In 2023 is het aantal AOW-gerechtigden 17, 52...  0,177 (  3,10...)
+                  (miljoen)                                                                       1
+                                                               3,10...
+              •   Het aantal AOW-gerechtigden in 2023 is                (  1,14... ) keer zo
+                                                               2, 70...
+                  groot als in 2012                                                               1
+              •   De AOW-uitkering per persoon in 2023 moet 1,14... keer zo klein zijn
+                                     10 980
+                  als in 2012, dus            9575,70 (of 9576) (euro)                           1
+                                     1,14...
+
+
+      Compensatiescore
+
+     22       maximumscore 19
+              Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals
+              bedoeld onder 4a en/of fouten bij het afronden van het eindantwoord voor
+              het hele examen maximaal 2 scorepunten.
+              Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+              2 scorepunten in mindering heeft gebracht, kent u hier een
+              compensatiescore toe.
+               Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+                  aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+                  Voorbeeld:
+                  U heeft voor deze fouten in het hele examen 5 scorepunten in
+                  mindering gebracht. Ken dan bij deze component een
+                  compensatiescore van 3 toe.
+               Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+                  compensatiescore van 0 toe.
+
+
+
+
+HA-1024-a-c                                         16                                  lees verder ►►►
+      5 Aanleveren scores
+
+      Verwerk de scores van de alfabetisch eerste vijf kandidaten per examinator in de
+      applicatie Wolf. Cito gebruikt deze gegevens voor de analyse van de examens.
+      Om de gegevens voor dit doel met Cito uit te wisselen dient u ze uiterlijk op 23 mei te
+      accorderen.
+
+      Ook na 23 mei kunt u nog tot en met 8 juni gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+
+
+      6 Bronvermeldingen
+
+      De psychrometer
+      foto           bron: Copyright Carolina Biological Supply Company . Used by permission only.
+                     https://www.carolina.com/weather-monitoring-instruments/sling-psychrometer/745559.pr
+
+
+      Snelheidsovertredingen
+      figuur         bron: Krantenbank Zeeland - Provinciale Zeeuwse Courant - 28 juli 2012 - p. 58
+
+
+      Snelheidsovertredingen
+      foto           bron: Shutterstock 1134047213
+
+
+      Motorblokken bestellen
+      foto           bron: Shutterstock 136074485
+
+
+
+
+HA-1024-a-22-1-c                                     17                                      lees verdereinde
+                                                                                                          ►►► 
+ aanvulling op het correctievoorschrift                                        2022-1
+
+wiskunde A havo
+
+Centraal examen havo
+
+Tijdvak 1
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor havo,
+
+Bij het centraal examen wiskunde A havo:
+
+Op pagina 12, bij vraag 14 moet
+
+Opmerking
+Als bij de berekening van phi voor a, b, c en d de getallen 111, 169, 183 en
+213 worden gebruikt, voor deze vraag maximaal 2 scorepunten toekennen.
+
+vervangen worden door:
+
+Opmerkingen
+- Als bij de berekening van phi voor a, b, c en d de getallen 111, 169, 183 en
+   213 worden gebruikt, voor deze vraag maximaal 2 scorepunten toekennen.
+- Als bij het beantwoorden van deze vraag de verschilmaat max Vcp en de
+     bijbehorende vuistregel van het formuleblad wordt gebruikt, hiervoor geen
+     scorepunten toekennen.
+
+Toelichting:
+Met het gebruik van max Vcp wordt geen correct antwoord gegeven op de gestelde
+vraag. Als de kandidaat de verschilmaat max Vcp gebruikt, door (impliciet) de
+onderliggende ordinale variabele snelheid te gebruiken, wordt daarmee de grootte van
+het verschil in snelheid bepaald tussen de situatie zonder matrixborden en de situatie
+met matrixborden. Dit is iets anders dan de grootte van het verschil in het deel van de
+automobilisten dat zich aan de snelheidslimiet houdt.
+
+
+Ik verzoek u dit bericht door te geven aan de correctoren wiskunde A havo.
+
+Namens het College voor Toetsen en Examens,
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+HA-1024-a-22-1-c-A
+

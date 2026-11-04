@@ -1,0 +1,507 @@
+                                                                Examen HAVO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                   woensdag 20 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 18 vragen.
+Voor dit examen zijn maximaal 73 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-18-2-o
+      Piano
+
+            In figuur 1 zijn de witte en zwarte toetsen van een gewone piano getekend. In
+            totaal heeft deze piano 88 toetsen.
+
+            figuur 1
+
+
+
+
+            De toetsen worden genummerd van links naar rechts. Zie figuur 2, waarin
+            de eerste vijftien toetsen met de bijbehorende volgnummers zijn getekend.
+
+            figuur 2 toetsen met volgnummers
+
+
+
+
+                   2           5       7           10        12        14
+
+
+
+
+               1       3   4       6       8   9        11        13        15
+
+
+            De tonen die met de toetsen van de piano voortgebracht worden, hebben
+            verschillende frequenties. Hoe verder een toets naar rechts zit, hoe groter de
+            frequentie van de bijbehorende toon. Bij de toets met volgnummer 1 hoort een
+            toon met een frequentie van 27,5 Hz (hertz). Bij de toets met volgnummer 49
+            hoort een toon met een frequentie van 440 Hz.
+
+            Het verband tussen het volgnummer van een toets en de frequentie van de
+            bijbehorende toon is exponentieel. Dus: wanneer je achtereenvolgens de
+            toetsen van links naar rechts bespeelt, neemt de frequentie van de
+            opeenvolgende tonen telkens met hetzelfde percentage toe.
+4p    1     Bereken algebraïsch dit percentage in twee decimalen nauwkeurig.
+
+
+
+
+HA-1025-a-18-2-o                                                   2 / 12        lees verder ►►►
+            In de twintigste eeuw is de digitale piano ontwikkeld. Dit instrument, dat ook
+            88 toetsen heeft, bootst een gewone piano na. Bij digitale piano’s wordt een
+            andere nummering voor de toetsen gebruikt: elke toets van de digitale piano
+            heeft een zogeheten MIDI-nummer. Zie figuur 3, waarin de eerste vijftien
+            toetsen met de bijbehorende MIDI-nummers zijn getekend.
+
+            figuur 3 toetsen met MIDI-nummers
+
+
+
+
+                   22             25        27                    30        32        34
+
+
+
+
+              21        23   24        26        28          29        31        33        35
+
+
+            De frequentie van de toon die bij een bepaalde toets hoort, kan worden
+            berekend met de volgende formule:
+                                             1
+                                                 ( m  69)
+                         f  440  212
+            Hierin is f de frequentie van de toon in Hz en m het MIDI-nummer van de
+            bijbehorende toets.
+
+            Algemeen wordt gesteld dat het menselijk gehoor in staat is om tonen met
+            een frequentie tussen 20 Hz en 20 000 Hz waar te nemen. Iemand wil daarom
+            de digitale piano uitbreiden met een aantal toetsen met MIDI-nummers zodat
+            zoveel mogelijk tonen met frequenties tussen 20 Hz en 20 000 Hz voorkomen.
+5p    2     Bereken met bovenstaande formule hoeveel toetsen zo’n piano dan zal
+            hebben.
+
+
+
+
+HA-1025-a-18-2-o                                                                  3 / 12        lees verder ►►►
+      Twee paren punten op een cirkel
+
+            De cirkel c met middelpunt M is gegeven door de vergelijking
+            x 2  y 2  10 x  16 y  56 . Lijn l is de lijn door het punt A (4, 4) met
+            richtingscoëfficiënt –1. Deze lijn snijdt de cirkel behalve in het punt A ook in
+            het punt B. Zie figuur 1.
+
+            figuur 1
+
+
+                       l
+                               A
+
+
+                           O                         x
+
+
+
+
+                               M                 B
+
+
+
+
+                                         c
+
+
+
+5p    3     Bereken exact de coördinaten van B.
+
+            De cirkel heeft twee snijpunten met de x-as. Dit zijn de punten C (4, 0) en
+            D (14, 0) . In figuur 2 zijn de stralen MC en MD getekend. Figuur 2 staat
+            vergroot op de uitwerkbijlage.
+
+            figuur 2
+
+
+
+                   C                         D
+                           O                         x
+
+
+
+
+                               M
+
+
+
+                                         c
+
+
+
+
+6p    4     Bereken CMD . Geef je eindantwoord in graden en rond af op één
+            decimaal. Je kunt hierbij de uitwerkbijlage gebruiken.
+
+
+HA-1025-a-18-2-o                                         4 / 12                           lees verder ►►►
+      Logaritme van een kwadratische functie
+
+            De functie f wordt gegeven door:
+                   f ( x)  2log  x 2  3 x  3
+
+            In figuur 1 is de grafiek van f weergegeven.
+
+            figuur 1
+
+
+
+                                                                     f
+
+
+
+
+                                    O                                    x
+
+
+            De grafiek van f lijkt geen verticale asymptoot te hebben. De grafiek van
+            de standaardfunctie y  2 log  x  heeft wél een verticale asymptoot.
+3p    5     Bewijs dat de grafiek van f inderdaad geen verticale asymptoot heeft.
+
+            Gegeven is het punt P (4, 0) .
+            De grafiek van f wordt over een afstand a naar rechts verschoven.
+            Hierdoor ontstaat de grafiek van de functie g.
+            Er zijn twee waarden van a waarvoor de grafiek van g door P gaat. Zie
+            figuur 2.
+
+            figuur 2
+                    y
+
+
+
+                                                    f
+
+                                                        g
+                                                            g
+
+
+
+
+                   O                           P                 x
+
+
+5p    6     Bereken exact deze twee waarden van a.
+
+
+
+
+HA-1025-a-18-2-o                                        5 / 12               lees verder ►►►
+      Trapezium
+
+            Een trapezium is een vierhoek met twee evenwijdige zijden.
+
+            Gegeven is trapezium ABCD waarvan de zijden AB en CD evenwijdig zijn.
+            Verder geldt: AB  6 , AC  5 , AD  3 , B  55 en ACB  90 .
+            De afstand tussen AB en CD, de hoogte van het trapezium, is h.
+            Zie de figuur. Deze figuur staat tweemaal op de uitwerkbijlage getekend.
+
+            figuur
+                                           D                     C
+
+
+
+
+                            3                    5               h
+
+
+
+
+                                                                              55˚
+             A                                                                      B
+                                                         6
+
+            Afgerond op twee decimalen is BAC gelijk aan 24, 41 .
+
+4p    7     Bereken BAC algebraïsch en rond je eindantwoord af op
+            drie decimalen. Je kunt hierbij de uitwerkbijlage gebruiken.
+
+            De oppervlakte van het trapezium is te berekenen met de volgende
+            formule:
+                                       AB  CD
+                   oppervlakte  h 
+                                          2
+5p    8     Bereken de oppervlakte van het trapezium met behulp van deze formule.
+            Rond je eindantwoord af op één decimaal. Je kunt hierbij de uitwerkbijlage
+            gebruiken.
+
+
+
+
+HA-1025-a-18-2-o                                     6 / 12                   lees verder ►►►
+      Productiviteit
+
+            Werken op een hete zomerdag kost             figuur
+            meer moeite dan op een dag met                P
+            een temperatuur van een graad of             (%)
+                                                               100
+            twintig.
+            In deze opgave kijken we hoe de
+            omgevingstemperatuur invloed heeft
+            op de productiviteit. Met dit begrip                90
+            bedoelen we: de hoeveelheid werk
+            die een mens gemiddeld verzet.
+            Op de Helsinki University of
+            Technology is hier onderzoek naar                   80
+            gedaan.                                              0
+                                                                  15   20   25      30        35
+                                                                                          T (°C)
+
+            De resultaten van het onderzoek zijn verwerkt in de grafiek in de figuur. De
+            productiviteit P op de verticale as geeft aan hoe hoog de productiviteit is ten
+            opzichte van de maximale productiviteit. Zo zie je dat bij een temperatuur van
+            15 °C de productiviteit 90% is van wat maximaal mogelijk is.
+
+            De grafiek in de figuur kan worden benaderd met de volgende formule:
+                   P  0,00623T 3  0,58274T 2  16, 47524T  46,76666
+            Hierbij is P de productiviteit in procenten ten opzichte van de maximale
+            productiviteit en T de temperatuur in graden Celsius (°C). De formule geldt
+            voor 15  T  35 .
+
+            De temperatuur waarbij de productiviteit volgens de formule maximaal is,
+            noemt men de ideale temperatuur.
+            Iemand vraagt zich af door welke verandering van de temperatuur de
+            productiviteit het meest afneemt:
+             twee graden daling ten opzichte van de ideale temperatuur
+            óf
+             twee graden stijging ten opzichte van de ideale temperatuur
+4p    9     Onderzoek, zonder gebruik te maken van de figuur, door welke van deze twee
+            veranderingen de productiviteit het meest afneemt.
+
+            Voor temperaturen vanaf 30 °C tot en met 35 °C kan P goed benaderd
+            worden door een formule van de volgende vorm:
+                   Pbenaderd  a  T  b
+            Hierbij kunnen a en b zo gekozen worden dat Pbenaderd voor T  30 en T  35
+            dezelfde uitkomsten geeft als de formule voor P.
+3p    10    Bereken deze waarden van a en b. Rond in je eindantwoord a af op
+            drie decimalen en b op één decimaal.
+
+
+
+HA-1025-a-18-2-o                                7 / 12                            lees verder ►►►
+      Sinus
+
+            Op het domein   87 , 87  wordt de functie f gegeven door f ( x)  3sin(  x) .
+            De lijn l is de lijn met vergelijking y  32 . Lijn l snijdt de grafiek van f in de
+            punten P en Q. Zie figuur 1.
+
+            figuur 1
+                                            y
+
+
+                             l                      P               Q
+
+
+
+                                                O                              x
+
+
+
+                                   f
+
+
+
+
+3p    11    Bereken exact de x-coördinaten van P en Q.
+
+
+
+
+HA-1025-a-18-2-o                                    8 / 12                                lees verder ►►►
+            De grafiek van f snijdt de positieve x-as in het punt A. De grafiek van f heeft
+            een top rechts van de y-as. Dit is punt T. De punten A en T zijn in figuur 2
+            aangegeven.
+
+            Er bestaat één derdegraadsfunctie g waarvoor geldt:
+             het functievoorschrift is van de vorm g ( x)  ax3  bx
+            én
+             de grafiek gaat door A en T.
+
+            De grafiek van g is gestippeld getekend in figuur 2.
+
+            figuur 2
+                                         y                T
+                   g
+
+
+
+
+               f
+                                             O                     A       x
+                                                                       f
+
+
+
+                                                                       g
+
+
+            Uit bovenstaande gegevens volgt: a  b  0 en 18 a  12 b  3 .
+
+4p    12    Toon dit aan.
+
+3p    13    Bereken exact de waarden van a en b.
+
+
+
+
+HA-1025-a-18-2-o                                 9 / 12                            lees verder ►►►
+      Gebroken functies
+
+            Op het domein  0,  zijn de functies f en g gegeven door:
+
+                                  1                       x 4
+                   f ( x)  x        en       g ( x)     
+                                  x                       4 x
+            Op het gegeven domein hebben de grafieken van f en g één snijpunt.
+4p    14    Bereken exact de x-coördinaat van dit snijpunt.
+
+            De functies f en g zijn voorbeelden van functies met een functievoorschrift
+                                  x a
+            van de vorm h  x      met a  0 en domein  0,  .
+                                  a x
+            In figuur 1 is voor een aantal waarden van a de grafiek van h getekend.
+
+            figuur 1
+               y
+                                          a = 1_
+                                              2                     a=1
+
+
+
+
+                                                                          a=2
+
+
+
+
+                                                                          a=5
+
+
+
+
+              O                                                             x
+
+
+            De afgeleide van h wordt gegeven door:
+                                x2  a2
+                      h' ( x) 
+                                  ax 2
+
+3p    15    Bewijs dit.
+
+
+
+
+HA-1025-a-18-2-o                                          10 / 12               lees verder ►►►
+            Voor elke waarde van a heeft de grafiek van h één top. In figuur 2 is voor
+            enkele waarden van a de top met een stip aangegeven.
+
+            figuur 2
+               y
+                                   a = 1_
+              6                        2                a=1
+
+
+              5
+
+                                                                  a=2
+              4
+
+
+              3
+
+
+              2                                                    a=5
+
+
+              1
+
+
+              O                                                         x
+
+
+            De y-coördinaat van elke top in figuur 2 is gelijk aan 2.
+
+            Het is zelfs zo dat voor elke waarde van a (met a  0 ) de y-coördinaat van de
+            top van de grafiek van h gelijk is aan 2.
+4p    16    Bewijs dit.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1025-a-18-2-o                              11 / 12                             lees verder ►►►
+      Macht en lijnen
+
+            De functie f is gegeven door:
+                                3
+                   f ( x) 
+                              16 x 4
+
+            De horizontale lijn met vergelijking y  321 snijdt de grafiek van f in twee
+            punten.
+3p    17    Bereken exact de afstand tussen deze twee punten.
+
+            Op de grafiek van f ligt het punt A 1, 163  . De lijn l is de raaklijn aan de grafiek
+            van f in het punt A. Lijn l snijdt de y-as in punt B. Zie de figuur.
+
+            figuur
+                                              y
+
+
+
+
+                                          l                 f
+                                                  B
+
+
+
+                                                                  A
+
+                                              O                                    x
+
+
+
+5p    18    Bereken exact de y-coördinaat van B.
+
+
+
+
+HA-1025-a-18-2-o                                  12 / 12                                lees verdereinde
+                                                                                                      ►►► 
+

@@ -1,0 +1,450 @@
+                                                                Examen HAVO
+
+                                                                     2026
+                                                                            tijdvak 1
+                                                                     dinsdag 19 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Dit examen bestaat uit 20 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-26-1-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                         ad  bc
+              22-kruistabel        , met phi                                  ,
+                              c d                (a  b)(a  c)(b  d )(c  d )
+              waarin a, b, c en d absolute aantallen zijn
+
+                  als phi  0,4 of phi  0, 4 , dan zeggen we “het verschil is groot”
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”
+
+
+
+                                    X1  X 2
+              Effectgrootte E  1                , met X 1 en X 2 de steekproefgemiddelden
+                                  2
+                                    ( S1  S 2 )
+              ( X1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”
+                  als E  0, 4 , dan zeggen we “het verschil is gering”
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”
+                  in alle andere gevallen zeggen we “het verschil is gering”
+
+  noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-25-1-o                                  2 / 14                                     lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p (1  p )
+               p  2              , met p de steekproefproportie en n de steekproefomvang.
+                            n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-26-1-o                               3 / 14                           lees verder ►►►
+      Steeds minder bos
+
+            Volgens de Voedsel- en Landbouworganisatie van de Verenigde Naties
+            was de (totale) bosoppervlakte over de gehele wereld in 1990 ongeveer
+            4240 miljoen hectare (ha). Deze oppervlakte is in de periode 1990-2020
+            steeds kleiner geworden. Zie de tabel. Hierin worden drie perioden van
+            elk 10 jaar onderscheiden.
+
+            tabel
+                              jaarlijkse verandering bosoppervlakte
+                   periode   verandering (in miljoen ha/jaar)   verandering (in %/jaar)
+               1990-2000                  -7,84                         -0,19
+               2000-2010                  -5,17                         -0,13
+               2010-2020                  -4,74                         -0,12
+
+            In de volgende twee vragen gaan we met gegevens uit de tabel op twee
+            manieren de bosoppervlakte in 2020 berekenen.
+
+            Neem aan dat de bosoppervlakte in elk van de drie onderscheiden
+            perioden lineair afnam.
+3p    1     Bereken met de bosoppervlakte in 1990 en met de gegevens in de kolom
+            ‘verandering (in miljoen ha/jaar)’ de bosoppervlakte in 2020. Geef je
+            antwoord in een geheel aantal miljoen hectare.
+
+            Neem nu aan dat de bosoppervlakte in elk van de drie onderscheiden
+            perioden exponentieel afnam.
+3p    2     Bereken met de bosoppervlakte in 1990 en met de gegevens in de kolom
+            ‘verandering (in %/jaar)’ de bosoppervlakte in 2020. Geef je antwoord in
+            een geheel aantal miljoen hectare.
+
+            De Verenigde Naties hebben in 2017 als doel gesteld dat de
+            bosoppervlakte in de wereld in 2030 met 3% gestegen moet zijn ten
+            opzichte van 2015.
+            We gaan ervan uit dat dit percentage bereikt moet worden door een vast
+            groeipercentage per jaar vanaf 2015. We kunnen op basis hiervan
+            berekenen hoe groot dit jaarlijkse groeipercentage dan moet zijn.
+4p    3     Bereken dit jaarlijkse groeipercentage. Geef je antwoord in één decimaal.
+
+
+
+
+HA-1024-a-26-1-o                              4 / 14                            lees verder ►►►
+            Er is ook onderzoek gedaan naar de bosoppervlakte die is verbrand. In
+            een wetenschappelijk artikel stond de onderstaande figuur over hoeveel
+            bosoppervlakte in de periode 2003-2012 is verbrand. In de figuur staan
+            tien meetpunten afgebeeld. Op basis van deze punten is een lijn
+            getrokken die zo goed mogelijk bij deze meetpunten past.
+
+            figuur           verbrande bosoppervlakte (in miljoenen ha)
+
+
+
+
+            Voor deze lijn kan een formule worden opgesteld van de vorm:
+                   B  ...  t  ...
+            Hierin is B de verbrande bosoppervlakte (in miljoenen hectare) en t het
+            aantal jaren na 2003. Op de puntjes moeten getallen komen te staan.
+3p    4     Bereken deze getallen aan de hand van de gegevens van 2004 en 2011.
+            Geef de getallen in één decimaal.
+
+
+
+
+HA-1024-a-26-1-o                                5 / 14                     lees verder ►►►
+      Fitnesscentra
+
+            Op 1 januari 2015 telde Nederland 1970 fitnesscentra. Op 1 januari 2019
+            was dit aantal lineair gegroeid tot 2200 fitnesscentra.
+            Ga ervan uit dat ook in de jaren daarna het aantal fitnesscentra in
+            Nederland op dezelfde manier lineair blijft groeien.
+4p    5     Bereken op 1 januari van welk jaar er voor het eerst meer dan
+            3000 fitnesscentra in Nederland zullen zijn.
+
+            De fitnesscentra in Nederland hadden op 1 januari 2015 ruim 2,1 miljoen
+            klanten. Op 1 januari 2019 was dit opgelopen tot bijna 2,6 miljoen. Zie de
+            tabel. Hierin worden de fitnesscentra onderverdeeld op basis van het
+            aantal werknemers.
+
+            tabel      aantal klanten (×1000) van fitnesscentra in Nederland
+                                          2015         2017         2019
+              0 tot 3 werknemers           352          337          325
+              3 tot 5 werknemers           214          236          226
+              5 tot 10 werknemers          322          308          315
+              10 of meer werknemers       1241         1476         1720
+              totaal                      2129         2357         2586
+
+            Iemand beweert dat de procentuele toename van het aantal klanten in de
+            periode van 1 januari 2015 tot 1 januari 2019 het grootst is bij
+            fitnesscentra met 10 of meer werknemers.
+3p    6     Onderzoek of deze bewering juist is.
+
+
+
+
+HA-1024-a-26-1-o                            6 / 14                            lees verder ►►►
+            In de rest van deze opgave kijken we naar de ontwikkeling van het totaal
+            aantal klanten van de fitnesscentra in Nederland. We gaan op zoek naar
+            een formule waarmee deze ontwikkeling beschreven kan worden. De
+            formule moet voldoen aan de volgende eisen:
+            1 Op 1 januari 2019 zijn er 2,586 miljoen klanten.
+            2 Vanaf 1 januari 2019 neemt het aantal klanten steeds toe.
+            3 Op den duur bereikt het aantal klanten net niet de waarde van
+                3 miljoen.
+
+            Eerst kijken we naar formules van de vorm:
+                   N  b  gt                         (formule 1)
+            Hierin is N het aantal klanten (in miljoenen), t het aantal jaren
+            na 1 januari 2019 en b en g zijn getallen.
+
+            Formules van deze vorm kunnen niet tegelijkertijd aan alle drie de
+            genoemde eisen voldoen.
+
+3p    7     Leg voor elk van de drie genoemde eisen uit of formules van de vorm van
+            formule 1 er aan kunnen voldoen.
+
+            De volgende formule voldoet wel aan alle drie de eisen:
+                               3
+                   N                                 (formule 2)
+                        1  0,16  0,92t
+            Hierin is N het aantal klanten (in miljoenen) en t het aantal jaren
+            na 1 januari 2019.
+
+4p    8     Toon aan dat formule 2 aan alle drie de eisen voldoet.
+
+5p    9     Bereken met behulp van formule 2 in welk jaar het aantal klanten voor het
+            eerst minder dan 5% van de waarde van 3 miljoen af ligt.
+
+
+
+
+HA-1024-a-26-1-o                             7 / 14                               lees verder ►►►
+      Examenresultaten
+
+            In de onderstaande tabel staan voor twee examenjaren voor alle havo-
+            kandidaten het slaagpercentage en het aantal kandidaten per profiel.
+
+            tabel
+
+                                                   2019                        2020
+
+                                           slaag-         aantal       slaag-       aantal
+                                         percentage     kandidaten   percentage   kandidaten
+                                           (in %)                      (in %)
+
+              natuur en techniek            91,4          11 142        97,2          10 509
+
+              natuur en gezondheid          86,3          11 708        97,2          11 868
+
+              economie en maatschappij      87,8          26 136        97,6          26 173
+
+              cultuur en maatschappij       88,1          5726          98,4          5904
+
+
+2p    10    Leg uit waarom het niet zinvol is om bij de slaagpercentages in de tabel
+            de 95%-betrouwbaarheidsintervallen te vermelden.
+
+            In 2019 is er op de havo een verschil in het slaagpercentage tussen de
+            profielen natuur en techniek en cultuur en maatschappij. Er was geen
+            enkele leerling die beide profielen had.
+4p    11    Onderzoek met behulp van het formuleblad of dit verschil in
+            slaagpercentages tussen deze twee profielen groot, middelmatig of gering
+            is.
+
+
+
+
+HA-1024-a-26-1-o                               8 / 14                                 lees verder ►►►
+            In de onderstaande figuur staan de frequentieverdelingen van de
+            gemiddelde SE-cijfers1) die de havo-kandidaten hebben behaald in 2019
+            en 2020.
+            figuur     percentage havo-kandidaten dat een bepaald gemiddeld
+                       SE-cijfer (van alle vakken) heeft behaald in 2019 en 2020
+
+
+
+
+2p    12    Leg voor de grafiek van 2020 uit waarom er geen sprake is van een
+            normale verdeling.
+
+            Aan de hand van de figuur kan beredeneerd worden of het gemiddelde
+            van de gemiddelde SE-cijfers in 2020 lager of hoger was dan in 2019. Er
+            kan ook beredeneerd worden of de standaardafwijking van de gemiddelde
+            SE-cijfers in 2020 kleiner of groter was dan in 2019. Er zijn vier
+            mogelijkheden:
+            I In 2020 is het gemiddelde hoger en is de standaardafwijking groter
+                dan in 2019.
+            II In 2020 is het gemiddelde hoger en is de standaardafwijking kleiner
+                dan in 2019.
+            III In 2020 is het gemiddelde lager en is de standaardafwijking groter dan
+                in 2019.
+            IV In 2020 is het gemiddelde lager en is de standaardafwijking kleiner
+                dan in 2019.
+3p    13    Welke van de vier genoemde mogelijkheden is juist? Licht je antwoord toe
+            met redeneringen.
+
+            Stel dat de verdeling van de gemiddelde SE-cijfers van de havo-
+            kandidaten in een bepaald jaar wel normaal verdeeld was, met
+            gemiddelde 6,2 en standaardafwijking 0,5.
+3p    14    Bereken het percentage van de havo-kandidaten dat dan in dat jaar een
+            gemiddeld SE-cijfer tussen 5,7 en 7,2 zou hebben gehaald.
+
+     noot 1 SE staat voor schoolexamen. Het gemiddelde SE-cijfer is het gewogen gemiddelde
+            van de gemiddelde SE-eindcijfers van alle vakken waarbij ook een centraal examen
+            wordt afgenomen.
+
+
+HA-1024-a-26-1-o                               9 / 14                                lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-26-1-o                       10 / 14   lees verder ►►►
+      Palingen
+
+            Palingen zijn vissen die op de lijst van bedreigde diersoorten staan.
+            In Europa is de palingstand (het aantal palingen) in de periode
+            1950-2004 sterk gedaald. Dit is te zien aan de indexcijfers in de figuur.
+            De verticale as, waarop de indexcijfers staan, heeft een logaritmische
+            schaalverdeling. De indexcijfers geven aan hoeveel procent de
+            palingstand in een bepaald jaar is ten opzichte van een gekozen
+            basisjaar. Het basisjaar in de figuur is 1950, dus het indexcijfer van 1950
+            is 100. Het indexcijfer van 1969 is 32. Dit betekent dat in 1969 de
+            palingstand 32 procent is van de palingstand in 1950.
+
+            figuur    indexcijfers palingstand in Europa 1950-2004
+
+
+
+
+            De rechte lijn in de figuur geeft de trend weer. Als het indexcijfer van de
+            palingstand in Europa precies volgens deze lijn zou afnemen,
+            dan zou er sprake zijn van een vast afnamepercentage per jaar.
+5p    15    Bereken dit jaarlijkse afnamepercentage met behulp van de waarden voor
+            1960 en 1992 op deze lijn. Geef je antwoord in één decimaal.
+
+
+
+
+HA-1024-a-26-1-o                            11 / 14                            lees verder ►►►
+            Er wordt al jaren onderzoek gedaan naar het leven van palingen. Palingen
+            komen 6000 km van Nederland in de Sargassozee uit het ei en groeien uit
+            tot larven. Tijdens de reis met de Atlantische Golfstroom naar de
+            Europese kust ontwikkelen de larven zich tot glasaal. Vanuit de Noordzee
+            trekken de glasalen naar de Nederlandse binnenwateren om daar uit te
+            groeien tot volwassen palingen.
+
+            De lengte van een paling in Nederland kan benaderd worden met de
+            formule:
+                   L  7,3  3t                         (formule 1)
+            Hierin is L de lengte (in cm) en t de tijd (in jaren) die de paling in
+            Nederland doorbrengt.
+
+            Het gewicht van een paling tijdens zijn verblijf in Nederland kan benaderd
+            worden met de formule:
+                   G  0,0008  L3,2049                 (formule 2)
+            Hierin is G het gewicht (in grammen) en L de lengte (in cm).
+
+            Na een aantal jaren vertrekken de palingen uit Nederland en zwemmen ze
+            terug naar de Sargassozee om zich daar voort te planten. Mannelijke
+            palingen hebben bij hun vertrek uit Nederland een gewicht van ongeveer
+            148 gram.
+5p    16    Bereken hoeveel tijd deze mannelijke palingen in Nederland hebben
+            doorgebracht. Geef je antwoord in gehele maanden.
+
+            De conditie van een paling wordt berekend met de formule:
+                        100G
+                   C                                   (formule 3)
+                         L3
+            Hierin is C de conditie, G het gewicht (in grammen) en
+            L de lengte (in cm).
+
+            Stel dat de lengte van een paling met 50% toeneemt.
+4p    17    Bereken met welk percentage het gewicht van deze paling moet
+            toenemen om ervoor te zorgen dat de conditie gelijk blijft.
+
+
+
+
+HA-1024-a-26-1-o                              12 / 14                                lees verder ►►►
+            Door de formules 2 en 3 te combineren, is een formule van de volgende
+            vorm af te leiden:
+                   C  0,08  L0,2                    (formule 4)
+            Hierin is C de conditie en L de lengte (in cm).
+
+            Het getal 0,2 in formule 4 is een afgerond getal.
+
+3p    18    Bereken dit getal in vier decimalen.
+
+            Voor de gemiddelde zwemsnelheid van een paling geldt:
+                   v  0,5  L                        (formule 5)
+            Hierin is v de gemiddelde zwemsnelheid (in cm/s) en L de lengte (in cm).
+
+            Ga uit van een paling met een conditie van 0,191.
+5p    19    Bereken met de formules 4 en 5 hoeveel dagen deze paling doet over een
+            reis van 6000 km (van Nederland naar de Sargassozee).
+            Geef je antwoord in hele dagen.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1024-a-26-1-o                            13 / 14                         lees verder ►►►
+      2,6 miljard T-rexen?
+
+            Er wordt veel onderzoek gedaan
+            naar T-rexen, een
+            dinosaurussoort die miljoenen
+            jaren geleden op aarde leefde en
+            nu is uitgestorven. Om te
+            berekenen hoeveel T-rexen er op
+            enig moment leefden, worden de
+            volgende aannames gedaan:
+             Het leefgebied van de T-rexen
+                was steeds 2 miljoen vierkante
+                kilometer.
+             Er leefden gemiddeld genomen steeds 10 T-rexen in een leefgebied
+                van duizend vierkante kilometer.
+             Er hebben gedurende 2,5 miljoen jaar T-rexen op aarde geleefd.
+             Een T-rex werd gemiddeld genomen 19 jaar oud.
+
+            Op basis van deze aannames hebben onderzoekers van de Berkeley-
+            universiteit in Californië berekend dat er dan in totaal zo’n 2,6 miljard
+            T-rexen op aarde geleefd moeten hebben.
+
+            De onderzoekers hebben aangegeven dat zij de gemiddelde leeftijd van
+            een T-rex niet heel precies hebben kunnen vaststellen. Het is dus
+            denkbaar dat T-rexen gemiddeld genomen geen 19 jaar, maar
+            bijvoorbeeld 21 jaar oud werden. Een hogere waarde van de gemiddelde
+            leeftijd van een T-rex zal leiden tot een lagere schatting van het aantal
+            T-rexen dat op aarde geleefd moet hebben.
+
+            Neem aan dat de gemiddelde leeftijd van een T-rex hoger dan 19 jaar is
+            geweest.
+7p    20    Onderzoek hoeveel hele jaren ouder dan 19 jaar de T-rexen gemiddeld
+            genomen maximaal kunnen zijn, zodat er nog steeds naar schatting
+            minstens 2 miljard T-rexen op aarde geleefd moeten hebben.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1024-a-26-1-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

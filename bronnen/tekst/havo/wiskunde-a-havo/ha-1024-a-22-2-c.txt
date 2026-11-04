@@ -1,0 +1,690 @@
+                                                   Correctievoorschrift HAVO
+
+                                                                           2022
+                                                                                   tijdvak 2
+
+
+
+
+                                                                         wiskunde A
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+HA-1024-a-22-2-c                              1                               lees verder ►►►
+      3     De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+            beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+            gegeven door het College voor Toetsen en Examens.
+            De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+            verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+            gezag van de gecommitteerde.
+      4     De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+            aantal scorepunten voor het centraal examen vast.
+      5     Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+            komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+            gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+            gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+            hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+            onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+            in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+HA-1024-a-22-2-c                               2                                lees verder ►►►
+            3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                 gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                 formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+            3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                 staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+            3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                 zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                 vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                 toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                 onjuistheid gemoeid zijn.
+      4     Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+            juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+            onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+            worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+            beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+            antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+            gegeven is, worden eveneens geen scorepunten toegekend.
+      5     Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+            tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+            beoordelingsmodel anders is vermeld.
+      6     Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+            worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7     Indien de examinator of de gecommitteerde meent dat in een examen of in het
+            beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+            werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+            fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+            Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+            eventuele fout wordt bij de definitieve normering van het examen rekening
+            gehouden.
+      8     Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+            antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9     Het cijfer voor het centraal examen wordt als volgt verkregen.
+            Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+            wordt meegedeeld aan de directeur.
+            De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+            voor omzetting van score naar cijfer.
+
+   NB1      T.a.v. de status van het correctievoorschrift:
+            Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+            vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+            voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+            De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+HA-1024-a-22-2-c                                 3                                  lees verder ►►►
+   NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+            Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+            behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+            standaardformulier voorgeschreven voor de vermelding van de scores van de
+            kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+            verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+            of in gezamenlijk overleg keuzes maken.
+
+   NB3      T.a.v. aanvullingen op het correctievoorschrift:
+            Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+            en een fout.
+            Verduidelijking
+            Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+            antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+            Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+            voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+            Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+            Een fout
+            Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+            fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+            Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+            Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+            spoedig mogelijk verstuurd aan de examensecretarissen.
+            Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+            gevallen vermeldt de aanvulling:
+
+            –      Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+            –      Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+            Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+            moeten worden toegekend.
+
+            Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+            aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+            houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+            rekening met de onvolkomenheid.
+
+
+
+
+HA-1024-a-22-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij de vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+HA-1024-a-22-2-c                              5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag       Antwoord                                                                         Scores
+
+
+
+      Parachutespringen
+
+      1      maximumscore 3
+             •     ( 4000  1500  ) 2500 meter afgelegd (in 50 seconden)                         1
+             •     Dit is 50 meter per seconde                                                    1
+             •     De gemiddelde snelheid is (50  3, 6 ) 180 (km/uur)                           1
+
+             of
+             •     ( 4000  1500  ) 2500 meter (  2,5 km) afgelegd (in 50 seconden)             1
+                                     50
+             •     50 seconden is        (  0, 013... ) uur                                      1
+                                    3600
+                                                    2,5
+             •     De gemiddelde snelheid is                180 (km/uur)                         1
+                                                 0, 013...
+
+             Opmerking
+             Voor het antwoord ‒180 (km/uur) geen scorepunten in mindering brengen.
+
+      2      maximumscore 4
+             •     De vergelijking 1500  4000  4, 9  t 2 moet worden opgelost                  1
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                          1
+             •     Dit geeft t  22,5...                                                          1
+             •     Het antwoord: ( 50  22,5...  ) 27 (seconden)                                 1
+
+      3      maximumscore 3
+             •     Aflezen bijvoorbeeld:
+                   als W  20 , dan v  6, 6 ; als W  40 dan v  4, 7                            1
+             •     De verhoudingen 4,7:6,6 en 20:40 zijn niet gelijk (of 20  6,6  132 is
+                   niet gelijk aan 40  4,7  188 )                                               1
+             •     Dus v is niet omgekeerd evenredig met W                                        1
+
+             Opmerking
+             Voor W  10 , W  20 , W  30 , W  40 of W  50 moet de waarde van v
+             binnen het interval [9,3; 9,5], [6,5; 6,7], [5,3;5,5], [4,6; 4,8]
+             respectievelijk [4,1; 4,3] liggen.
+
+
+
+
+HA-1024-a-22-2-c                                     6                                   lees verder ►►►
+  Vraag       Antwoord                                                                               Scores
+
+
+      4      maximumscore 3
+                                79
+             •     v  3,13        4,14... (m/s)                                                      1
+                                45
+                                                                   1300
+             •     Het laatste gedeelte van Tina’s sprong duurt           ( 313, 46...) (s)            1
+                                                                  4,14...
+             •     Haar totale sprong duurt (313, 46...  34 ) 347 (s)                                 1
+
+      5      maximumscore 3
+                                m
+             •     v  3,13                                                                            1
+                                40
+                                m                   m
+             •     v  3,13       (of v  3,13         )                                              1
+                                40                6,3...
+                          3,13
+             •     (v             m , dus) v  0, 49  m                                              1
+                          6, 3...
+
+
+
+
+HA-1024-a-22-2-c                                             7                                 lees verder ►►►
+  Vraag       Antwoord                                                                     Scores
+
+
+      Spoedeisende ritten van ambulances
+
+      6      maximumscore 4
+
+                                                kwantitatief           kwalitatief
+                                            discreet    continu   nominaal ordinaal
+
+           regio                                                      X
+
+           mate van urgentie (van
+           een melding bij de                                                    X
+           meldkamer)
+           aantal ambulanceritten
+                                                X
+           (per jaar per regio)
+           responstijd (van een
+                                                           X
+           ambulancerit)
+
+             Opmerking
+             Voor elke variabele geldt: 1 scorepunt toekennen als één keuze is gemaakt
+             en deze keuze juist is.
+
+      7      maximumscore 3
+             •     De linker polygoon hoort bij de A1-ritten omdat die over het algemeen
+                   een kortere responstijd hebben                                             1
+             •     Het eerste en derde kwartiel aflezen: 7 respectievelijk 11,5               1
+             •     De interkwartielafstand is 4,5 (minuten)                                   1
+
+             Opmerking
+             De kwartielen mogen afgelezen worden met een marge van 0,5 minuten.
+
+      8      maximumscore 4
+             •     Aflezen van de coördinaten van een punt op het genoemde gedeelte van
+                   de grafiek, bijvoorbeeld (20, 80)                                          1
+                                            100
+             •     De vergelijking 80                moet worden opgelost                    1
+                                        1  27  a 20
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                      1
+             •     a  0,8                                                                    1
+
+             Opmerking
+             Het cumulatieve percentage mag worden afgelezen met een marge van
+             1 procent.
+
+
+
+
+HA-1024-a-22-2-c                                    8                                lees verder ►►►
+  Vraag       Antwoord                                                                 Scores
+
+
+      B-papier in een enveloppe
+
+      9      maximumscore 3
+                   De breedte is 1000 : 25 (of 1000   12  )
+                                                            5
+             •                                                                            1
+
+                   De hoogte is 1414 : 25 (of 1414   12  )
+                                                            5
+             •                                                                            1
+             •     Het antwoord: 31 (mm) bij 44 (mm) (of: 44 (mm) bij 31 (mm))            1
+             of
+             •     Een tabel:                                                             2
+
+                 B0    1000       1414
+                 B1    1000       707
+                 B2     500       707
+                 B3     500      353,…
+                 B4     250      353,…
+                 B5     250      176,…
+                 B6     125      176,…
+                 B7     125      88,...
+                 B8    62,…      88,...
+                 B9    62,…      44,...
+                 B10   31,…      44,...
+             •     Het antwoord: 31 (mm) bij 44 (mm) (of: 44 (mm) bij 31 (mm))            1
+
+             Opmerkingen
+              Als in het eerste antwoordalternatief beide keren gedeeld wordt door
+                210 of in het tweede antwoordalternatief bij elke stap beide waarden
+                gehalveerd worden, voor deze vraag maximaal 1 scorepunt toekennen.
+              Zowel voor het antwoord ‘breedte is 31 (mm) en hoogte is 44 (mm)’ als
+                voor ‘breedte is 44 (mm) en hoogte is 31 (mm)’ geen scorepunten in
+                mindering brengen.
+              Voor het eerste antwoordelement van het tweede alternatief mag voor
+                een niet volledig juist antwoord 1 scorepunt worden toegekend.
+
+      10     maximumscore 3
+             •     De oppervlakte van de enveloppe is 262  371  97 202 (mm2)            1
+                   97 202  88 375
+             •                     100 (%) (  9,98...% )                                1
+                       88 375
+             •     Het antwoord: 10(%)                                                    1
+
+
+
+
+HA-1024-a-22-2-c                                        9                        lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      11     maximumscore 3
+             •     Als n groter wordt, wordt  12 n kleiner                                        1
+
+                   2 n wordt kleiner
+                     1
+             •       2
+                                                                                                   1
+                   ( 1484  2 2 n wordt kleiner, dus) de hoogte van de enveloppe wordt
+                               1
+             •
+                   kleiner (als het formaatnummer groter wordt)                                    1
+
+      12     maximumscore 3
+                   De vergelijking 1048  2 2 n  100 moet worden opgelost
+                                            1
+             •                                                                                     1
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                           1
+             •     Het antwoord: (vanaf formaatnummer) 7                                           1
+
+
+
+
+HA-1024-a-22-2-c                                    10                                    lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      Recordtijden van schaatssters
+
+      13     maximumscore 6
+             •     Rechts van de verticale lijn die hoort bij 45,0 seconden liggen 4 punten     1
+             •     4 van de 86 is minder dan 10% (dus meer dan 90% is sneller), dus
+                   uitspraak a is juist                                                         1
+             •     Voor uitspraak b moet gekeken worden naar de punten boven en onder
+                   de horizontale lijn die hoort bij 81,5 seconden (of: de 43e en 44e stip
+                   van onder naar boven of van boven naar onder moet worden bepaald)            1
+             •     Er liggen (veel) minder punten onder die horizontale lijn dan erboven,
+                   dus uitspraak b is onjuist (of: de 43e en 44e stip liggen boven 81,5
+                   seconden, dus uitspraak b is onjuist)                                        1
+             •     Bijvoorbeeld in de figuur de drie linkse en de drie onderste punten
+                   aangeven                                                                     1
+             •     Dit zijn niet dezelfde punten, dus uitspraak c is onjuist                    1
+
+             Opmerking
+             Als de kandidaat de drie rechtse en de drie bovenste punten aangeeft en
+             hiermee concludeert dat uitspraak c onjuist is, dan voor deze vraag
+             maximaal 5 scorepunten toekennen.
+
+      14     maximumscore 3
+             •     Bij een groot verschil overlappen de boxen elkaar niet                       1
+             •     De tweetallen 1500 en 5000; 3000 en 10 000; 5000 en 10 000 (; 1500 en
+                   10 000)                                                                      2
+
+             Opmerkingen
+              Bij het tweede antwoordelement voor elk ontbrekend of foutief tweetal
+                een scorepunt in mindering brengen.
+              Zonder toelichting voor deze vraag maximaal 2 scorepunten toekennen.
+
+
+
+
+HA-1024-a-22-2-c                                    11                                 lees verder ►►►
+  Vraag       Antwoord                                                                            Scores
+
+
+      15     maximumscore 3
+             •     Uit figuur 1 blijkt dat de snelste tijd op de 500 meter 37,5 seconden is;
+                   dit is minder dan 39,23 seconden, dus de recordtijd van Sáblíková is op
+                   deze afstand niet de beste                                                       1
+             •     Sáblíková heeft op de 1500 meter een omgerekende tijd van
+                   ((60  53, 44) : 3 ) 37,8... seconden                                           1
+             •     Uit figuur 2 blijkt dat de snelste omgerekende tijd op de 1500 meter
+                   37,3 seconden is; dit is minder dan 37,8... seconden, dus de recordtijd
+                   van Sáblíková is op deze afstand niet de beste                                   1
+             of
+             •     Uit figuur 1 blijkt dat de snelste tijd op de 500 meter 37,5 seconden is;
+                   dit is minder dan 39,23 seconden, dus de recordtijd van Sáblíková is op
+                   deze afstand niet de beste                                                       1
+             •     Uit figuur 2 blijkt dat de snelste omgerekende tijd op de 1500 meter
+                   37,3 seconden is; de snelste tijd is dus (3  37,3 ) 111,9... seconden, dus
+                   1:52                                                                             1
+             •     Dat is minder dan 1:53,44, dus de recordtijd van Sáblíková is op deze
+                   afstand niet de beste                                                            1
+             of
+             •     In figuur 1 de snelste tijd op de 500 meter aangeven; dit is minder dan
+                   39,23 seconden, dus de recordtijd van Sáblíková is op deze afstand niet
+                   de beste                                                                         1
+             •     Sáblíková heeft op de 1500 meter een omgerekende tijd van
+                   ((60  53, 44) : 3 ) 37,8... seconden                                           1
+             •     In figuur 2 de snelste omgerekende tijd op de 1500 meter aangeven; dit
+                   is minder dan 37,8... seconden, dus de recordtijd van Sáblíková is op
+                   deze afstand niet de beste                                                       1
+
+             Opmerkingen
+              Als de kandidaat gewerkt heeft volgens het eerste of tweede
+                antwoordalternatief, dan mag de waarde van de snelste tijd op de
+                500 meter worden afgelezen met een marge van 0,1 seconde.
+              Als de kandidaat gewerkt heeft volgens het eerste of tweede
+                antwoordalternatief, dan mag de waarde van de snelste omgerekende
+                tijd op de 1500 meter worden afgelezen met een marge van
+                0,2 seconden.
+              Als de kandidaat de relevante gegevens niet in de gebruikte figuren
+                heeft aangegeven, maar wel de bijbehorende waarden heeft
+                opgeschreven, hiervoor geen scorepunten in mindering brengen.
+
+
+
+
+HA-1024-a-22-2-c                                     12                                    lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      16     maximumscore 3
+             •     De omgerekende tijd op de 5000 meter is
+                   ((8  60  6, 64) :10 ) 48,... seconden en die op de 10 000 meter is
+                   ((16  60  54, 71) : 20 ) 50,... seconden                                    1
+             •     (In figuur 2 is af te lezen:) Farestveit behoort op de 5000 meter tot de
+                   langzaamste 25% (of: haar tijd op de 5000 meter is groter dan Q3)              1
+             •     (In figuur 2 is af te lezen:) Farestveit behoort op de 10 000 meter tot de
+                   middelste 50% (of: haar tijd op de 10 000 meter is kleiner dan Q3) (en
+                   dat is beter dan haar prestatie op de 5000 meter)                              1
+
+
+
+
+HA-1024-a-22-2-c                                     13                                  lees verder ►►►
+  Vraag       Antwoord                                                                                  Scores
+
+
+      Slanke vleugels
+
+      17     maximumscore 3
+                          21
+             •     33,5                                                                                   1
+                          b
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                                   1
+             •     Dit geeft b  0, 62... , dus de vleugeloppervlakte is (21 0, 62... )13 (m2)           1
+
+      18     maximumscore 4
+                                                       w            w
+             •     Invullen in formule 1 geeft 5, 6     , dus b                                          1
+                                                       b           5, 6
+                                                    15,1                        w 15,1
+             •     Invullen in formule 3 geeft b        , dus er moet gelden                             1
+                                                      w                        5, 6   w
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                                   1
+             •     Hieruit volgt w  9,195... , dus de spanwijdte is 9,2 (m) (of 92 dm)                    1
+
+             of
+                       w    w2
+             •     S  A (    )                                                                           1
+                       w
+                            A
+                                           w
+             •     De vergelijking 5, 6  15,1 moet worden opgelost                                        1
+                                             w
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                                   1
+             •     Hieruit volgt w  9,195... , dus de spanwijdte is 9,2 (m) (of 92 dm)                    1
+
+             of
+                                              A 15,1
+             •     w  S  b  5, 6  b en w                                                             1
+                                              b    b
+                                              15,1
+             •     De vergelijking 5, 6  b       moet worden opgelost                                    1
+                                                b
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                                   1
+             •     b  1, 642... , dus de spanwijdte is (5, 6 1, 642... ) 9, 2 (m) (of 92 dm)            1
+
+      19     maximumscore 3
+             •     De vleugeloppervlakte zou dan 770 (m2) zijn                                             1
+             •     Bij een slankheid van 9 is het brandstofverbruik dan 205 000 (kg)                       1
+             •     De besparing is dus (212 500  205 000 ) 7500 (kg)                                     1
+
+
+
+
+HA-1024-a-22-2-c                                       14                                         lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      20     maximumscore 4
+             •     Twee punten uit de grafiek aflezen op de lijn A  760 , bijvoorbeeld
+                   (6, 242 500) en (7, 220 000)                                                    1
+                                              220 000  242 500
+             •     De richtingscoëfficiënt is                   (  22 500 )                      1
+                                                    76
+             •     22 500  7  b  220 000                                                       1
+             •     b  377 500 , dus V  22 500S  377 500                                        1
+
+
+
+
+HA-1024-a-22-2-c                                   15                                     lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      Woningtekort
+
+      21     maximumscore 8
+             •     De groeifactor per vijf jaar van de woningbehoefte is
+                   8 511 000
+                             (  1, 02...)                                                        1
+                   8 334 000
+                                                                             1
+             •     De groeifactor per jaar van de woningbehoefte is 1, 02...5  1, 0042...        1
+             •     De woningbehoefte in 2040 zal dan
+                   8 511 000 1, 0042...10 (  8 876 357,...) zijn                                1
+                                      8 876 357,...  V
+             •     De vergelijking                       0, 01 (waarbij V de woningvoorraad
+                                              V
+                   in 2040 is) moet worden opgelost                                               1
+             •     Beschrijven hoe deze vergelijking kan worden opgelost                          1
+             •     Dit geeft V  8 788 472,...                                                    1
+             •     Tussen 2030 en 2040 moet de woningvoorraad met
+                   8 788 472,...  8 335 000 ( 453 472,...) toenemen                             1
+                    453 472,...
+             •                   45 347, 2... , dus 45 000 (woningen per jaar)                   1
+                       10
+
+             Opmerkingen
+              Wanneer de woningbehoefte en de woningvoorraad in de tussenstappen
+                worden afgerond, hiervoor geen scorepunten in mindering brengen.
+              Als gerekend wordt met (8 511 000  8 334 000) 2 , dan voor deze vraag
+                maximaal 6 scorepunten toekennen.
+              Als gerekend wordt met (8 511 000 / 8 334 000)  2 , dan voor deze vraag
+                maximaal 6 scorepunten toekennen.
+
+
+
+
+HA-1024-a-22-2-c                                     16                                  lees verder ►►►
+      Compensatiescore
+
+22    maximumscore 19
+      Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals bedoeld onder 4a
+      en/of fouten bij het afronden van het eindantwoord voor het hele examen maximaal
+      2 scorepunten.
+      Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+      2 scorepunten in mindering heeft gebracht, kent u hier een compensatiescore toe.
+       Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+          aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+          Voorbeeld:
+          U heeft voor deze fouten in het hele examen 5 scorepunten in mindering gebracht.
+          Ken dan bij deze component een compensatiescore van 3 toe.
+       Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+          compensatiescore van 0 toe.
+
+
+
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 24 juni te accorderen.
+
+      Ook na 24 juni kunt u nog tot en met 30 juni gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+
+HA-1024-a-22-2-c                              17                                 lees verder ►►►
+      6 Bronvermeldingen
+
+      Spoedeisende ritten van ambulances
+      foto              bron: Shutterstock 380705299
+
+
+      Slanke vleugels
+      figuur 1          bron: Boldmethod - Colin Cutler - 12 juli 2015
+
+
+      Slanke vleugels
+      figuur 2          bron: Shutterstock 763314283
+
+
+
+
+HA-1024-a-22-2-c                                        18               lees verdereinde
+                                                                                      ►►► 
+

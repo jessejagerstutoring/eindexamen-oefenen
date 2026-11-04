@@ -1,0 +1,702 @@
+                                                                Examen HAVO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                     dinsdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-18-2-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                               a b                      ad  bc
+              22 kruistabel       , met phi 
+                               c d             (a  b)(a  c)(b  d )(c  d )
+
+                  als phi  0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”,
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp ) (met
+              steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1              , met X 1 en X 2 de steekproefgemiddelden
+                                   (
+                                  2 1
+                                     S  S 2 )
+              ( X 1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+
+   noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-18-2-o                                  2 / 17                                      lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1  p)
+               p  2            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-18-2-o                              3 / 17                           lees verder ►►►
+      Voedingsmiddelen
+
+            Voedingsmiddelen worden in China steeds duurder. Om de prijzen over
+            de jaren heen te kunnen vergelijken, worden ze vaak vergeleken met de
+            prijs in een bepaald basisjaar. In deze opgave is het jaar 2000 het
+            basisjaar. De prijs van een voedingsmiddel, bijvoorbeeld vis, duiden we in
+            dat basisjaar aan met het getal 100. We zeggen: het indexcijfer van vis is
+            in 2000 gelijk aan 100. In de figuur zie je dat het indexcijfer van vis
+            in 2010 gelijk is aan 104. Dat betekent dat in 2010 vis 104
+                                                                     100
+                                                                           1,04 keer zo
+            duur is als in 2000. Anders gezegd: in 2010 was vis 4% duurder dan
+            in 2000.
+
+            figuur
+                      120
+            index-
+             cijfer
+
+                      115
+                                                                    vlees
+
+
+
+
+                      110
+                                                                  groenten
+
+
+
+                      105
+                                                                     vis
+
+
+                      100
+
+
+
+                       2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+                                                                          jaar
+
+
+            In de periode 2006 – 2010 is het indexcijfer van vlees met 9 gestegen.
+            Dat hoeft niet te betekenen dat de prijs van vlees met 9% is gestegen.
+3p    1     Bereken met hoeveel procent de prijs van vlees in deze periode dan wel
+            is gestegen. Rond je antwoord af op een geheel getal.
+
+            De grafiek van het indexcijfer van groenten in de periode 2005 – 2010 is
+            bij benadering een rechte lijn. Je kunt op basis van de indexcijfers van
+            2005 en 2010 het indexcijfer van groenten in 2021 schatten door middel
+            van lineair extrapoleren.
+3p    2     Bereken op deze manier het indexcijfer van groenten in 2021. Rond je
+            antwoord af op een geheel getal.
+
+
+
+
+HA-1024-a-18-2-o                                4 / 17                           lees verder ►►►
+            Niet alleen de prijzen van vlees, vis en groenten zijn gestegen. Ook de
+            consumptie van deze voedingsmiddelen is gestegen.
+            Zo is bijvoorbeeld de gemiddelde jaarlijkse vleesconsumptie per persoon
+            in China in de periode 1985 – 2005 verdrievoudigd tot 45 kg. Neem aan
+            dat deze groei exponentieel verliep.
+4p    3     Bereken met hoeveel procent per jaar deze gemiddelde jaarlijkse
+            vleesconsumptie per persoon in de periode 1985 – 2005 toenam. Rond je
+            antwoord af op een geheel getal.
+
+
+
+
+HA-1024-a-18-2-o                          5 / 17                           lees verder ►►►
+      Besmettelijke ziektes
+
+            Sommige ziektes zijn besmettelijk. Als je aan zo’n besmettelijke ziekte
+            lijdt, kun je gezonde personen besmetten, waardoor die ook ziek worden.
+            Van veel ziektes is bekend hoe groot het gemiddelde aantal (gezonde)
+            personen is dat door één zieke wordt besmet. Dat gemiddelde aantal
+            noemen we B. Zo geldt bijvoorbeeld voor de ziekte griep: B  2, 2 .
+
+            In deze opgave maken we de volgende aannames:
+             Iemand die ziek wordt, is precies één week ziek. Daarna is hij weer
+                gezond (maar kan vervolgens wel weer ziek worden). Alleen in die ene
+                week dat hij ziek is, besmet hij andere personen.
+             Wie besmet wordt, zal pas in de week erna ziek zijn.
+
+            Stel bijvoorbeeld dat in week 50 van een bepaald jaar één persoon een
+            ziekte heeft met B  3 . In week 51 zal die persoon weer gezond zijn, maar
+            zullen drie andere personen ziek zijn. In week 52 zullen er negen andere
+            personen ziek zijn, omdat elk van de drie zieken van week 51 drie andere
+            personen heeft besmet.
+
+            In de praktijk besmet een zieke vaak minder personen dan het
+            gemiddelde aantal B, omdat tegen een aantal ziektes vaccins zijn
+            ontwikkeld. Als je met zo’n vaccin bent ingeënt, kun je de ziekte niet meer
+            krijgen. Vaccinatie van een deel van de bevolking leidt ertoe dat het
+            gemiddelde aantal personen dat door één zieke wordt besmet, kleiner is
+            dan B. We noemen dit gemiddelde aantal Bv .
+
+            Dus:
+             B is het gemiddelde aantal personen dat besmet wordt door één zieke
+               als niemand gevaccineerd zou worden.
+             Bv is het gemiddelde aantal personen dat besmet wordt door één
+                   zieke als er sprake is van vaccinatie van een deel van de bevolking.
+
+            In deze opgave gebruiken we de volgende formule om Bv te bepalen:
+
+                                p 
+                   Bv  B  1        (formule 1)
+                             100 
+            Hierin is p de vaccinatiegraad: het percentage van de bevolking dat
+            tegen de ziekte is gevaccineerd.
+
+            Bij elke ziekte zorgt een hogere vaccinatiegraad ervoor dat een kleiner
+            aantal personen besmet wordt.
+3p    4     Beredeneer dit aan de hand van formule 1, zonder getallenvoorbeelden te
+            gebruiken.
+
+
+
+
+HA-1024-a-18-2-o                               6 / 17                            lees verder ►►►
+            Een situatie waarbij Bv groter is dan 1, is onwenselijk: in zo’n geval zal
+            het aantal zieken elke week groter zijn dan het aantal zieken in de week
+            daarvóór. We zeggen dan: de ziekte breidt zich uit.
+
+            Voor griep geldt B  2, 2 .
+
+3p    5     Bereken met behulp van formule 1 hoe hoog de vaccinatiegraad tegen
+            griep minimaal moet zijn om ervoor te zorgen dat deze ziekte zich niet
+            uitbreidt. Rond je antwoord af op een geheel getal.
+
+            Van de Nederlandse bevolking heeft 14% zich laten vaccineren tegen
+            griep. Stel dat er 1000 personen in week 40 griep hebben. Je kunt
+            berekenen hoeveel personen met griep er in week 46 zullen zijn. Dat
+            aantal is minder dan wanneer niemand tegen griep zou zijn gevaccineerd.
+5p    6     Bereken hoeveel procent dat minder is. Rond je antwoord af op een
+            geheel getal.
+
+            In een situatie waarbij Bv  1 kan formule 1 herleid worden tot de
+            volgende formule:
+                                 100
+                     p  100               (formule 2)
+                                  B
+
+4p    7     Laat deze herleiding zien.
+
+            De ziekte mazelen is veel besmettelijker en gevaarlijker dan griep. Als
+            niemand zich laat vaccineren, besmet één persoon met mazelen
+            gemiddeld 20 andere personen.
+            In de figuur is van verschillende landen in de Europese Unie de
+            vaccinatiegraad tegen mazelen weergegeven.
+
+            figuur
+            Denemarken
+                   Duitsland
+                   Frankrijk
+             Griekenland
+                       Italië
+               Nederland
+              Noorwegen
+               Oostenrijk
+                    Zweden
+                            50         60         70            80   90           100
+                                                                     vaccinatiegraad p
+
+4p    8     Onderzoek in welke landen uit de figuur de ziekte mazelen zich zal
+            uitbreiden.
+
+
+HA-1024-a-18-2-o                                       7 / 17                            lees verder ►►►
+      Rookgedrag van leerlingen
+
+            Sinds de jaren tachtig meet het Trimbos-instituut regelmatig via een
+            enquête het gebruik van alcohol, drugs en tabak in aselecte,
+            representatieve steekproeven onder alle leerlingen van het voortgezet
+            onderwijs. Ook werd de leerlingen in de enquête gevraagd naar hun
+            leeftijd (in jaren), hun geslacht (jongen, meisje), en hun schoolniveau
+            (vmbo, havo, vwo).
+
+            Aan de enquête van 2015 deden 6714 leerlingen mee in de leeftijd van
+            12 tot en met 16 jaar. In deze groep is onder andere gekeken naar de
+            lifetime-prevalentie van roken. Hieronder staat wat dit begrip betekent:
+
+            lifetime-prevalentie van roken = het percentage van de leerlingen dat
+            rookt of ooit gerookt heeft in zijn of haar leven.
+
+            Zie tabel 1.
+
+            tabel 1     lifetime-prevalentie van roken
+              steekproefomvang                                6714
+              aantal dat rookt of ooit gerookt heeft          1544
+              lifetime-prevalentie                             23%
+
+            In tabel 1 zie je dat van de leerlingen in de steekproef 23%, bijna een
+            kwart, rookt of ooit gerookt heeft.
+            Op basis van bovenstaande gegevens kun je het
+            95%-betrouwbaarheidsinterval voor de lifetime-prevalentie van roken
+            berekenen.
+3p    9     Bereken dit 95%-betrouwbaarheidsinterval. Rond de percentages in je
+            antwoord af op gehele getallen.
+
+            In tabel 2 zijn de 6714 leerlingen uitgesplitst naar schoolniveau.
+
+            tabel 2     lifetime-prevalentie van roken
+                            aantal leerlingen       aantal dat rookt of   lifetime-prevalentie
+                                                    ooit gerookt heeft
+              vmbo                   3265                  873                   27%
+              havo                   1805                  410                   23%
+              vwo                    1644                  261                   16%
+              totaal                 6714                 1544                   23%
+
+5p    10    Bepaal met behulp van het formuleblad of het verschil in
+            lifetime-prevalentie van roken tussen havoleerlingen en vwo-leerlingen
+            groot, middelmatig of gering is.
+
+
+
+HA-1024-a-18-2-o                                8 / 17                            lees verder ►►►
+            Van de 1544 leerlingen die aangaven dat zij rookten of ooit gerookt
+            hadden, gaven 712 leerlingen aan in de afgelopen maand nog gerookt te
+            hebben. Deze groep van 712 leerlingen noemen we ‘de rokers’. Aan de
+            rokers is gevraagd hoeveel sigaretten zij gemiddeld per dag hebben
+            gerookt in de afgelopen maand. Het resultaat staat in tabel 3.
+
+            tabel 3     gemiddeld aantal sigaretten per dag
+                                                                     aantal leerlingen
+              minder dan één sigaret ( < 1 )                               364
+              één tot en met tien sigaretten ( 1 – 10 )                    255
+              meer dan tien sigaretten ( > 10 )                             93
+              totaal                                                       712
+
+            Tabel 3 geeft inzicht in de verdeling van de variabele ‘gemiddeld aantal
+            sigaretten per dag in de afgelopen maand’. Op basis van deze gegevens
+            kun je inschatten hoe de relatieve frequentiepolygoon van deze variabele
+            eruitziet. In de figuur staan vier schetsen van relatieve
+            frequentiepolygonen (a, b, c, d).
+
+            figuur
+
+
+                            a          b                         c                       d
+
+
+
+
+2p    11    Welke van deze vier relatieve frequentiepolygonen geeft de verdeling
+            waarschijnlijk het best weer? Licht je antwoord toe.
+
+            In tabel 4 zijn de gegevens van tabel 3 uitgesplitst naar geslacht.
+
+            tabel 4     gemiddeld aantal sigaretten per dag
+                                                          meisjes         jongens        totaal
+              minder dan één sigaret ( < 1 )               196              168              364
+              één tot en met tien sigaretten ( 1 – 10 )    111              144              255
+              meer dan tien sigaretten ( > 10 )             29               64              93
+              totaal                                       336              376              712
+
+3p    12    Bij welk geslacht, meisjes of jongens, is de mediaan van het gemiddeld
+            aantal sigaretten per dag het grootst? Licht je antwoord toe
+
+
+
+
+HA-1024-a-18-2-o                               9 / 17                               lees verder ►►►
+      Een ranglijst van alle schakers
+
+            Bij een schaakpartij kan een speler punten verdienen. Als hij een partij
+            wint, krijgt hij 1 punt. Als hij verliest, dan krijgt hij 0 punten. Wanneer de
+            partij in remise eindigt (geen van beide spelers heeft gewonnen), dan
+            krijgt hij 0,5 punt.
+
+            Door op bovenstaande manier punten toe te                   figuur
+            kennen, kan een ranglijst worden opgesteld van               # naam              land rating
+            alle wedstrijdspelers in de wereld. De top 10 van            1 Carlsen                2827
+            deze ranglijst (juni 2017) zie je in de figuur.
+                                                                         2 Kasparov               2812
+                                                                         3 Vachier-Lagrave        2810
+            In de figuur zie je bij elke speler zijn rating. Hoe
+            hoger de rating, des te beter de speler tot dan              4 Kramnik                2809
+
+            toe heeft gespeeld. De rating wordt altijd                   5 Aronian                2807
+            afgerond op een geheel getal.                                6 Caruana                2800
+                                                                         7 Mamedyarov             2792
+            In deze opgave wordt uitgelegd hoe de rating             8 Anand              2791
+            van een speler berekend wordt. Hiervoor kijkt            9 So                 2783
+            men allereerst naar de vooraf verwachte score
+                                                                     10 Grischuk          2779
+            voor de speler bij elke partij die hij gaat spelen:
+            dat is een voorspelling van het aantal punten dat
+            hij met die partij gaat scoren. Dit getal ligt tussen 0 en 1. Als het kleiner is
+            dan 0,5, dan mag je verwachten dat hij zal verliezen. Als het groter is dan
+            0,5, dan mag je verwachten dat hij zal winnen.
+
+            Als twee schakers, speler A en speler B, een partij tegen elkaar gaan
+            spelen, dan kan met behulp van de rating van beide spelers de vooraf
+            verwachte score bij de partij voor speler A worden berekend1) met de
+            volgende formule:
+                                        1
+                   VA 
+                                   0,0025   RB  RA 
+                          1  10
+            Hierin is:
+             VA de vooraf verwachte score bij de partij voor speler A
+                  RA de rating van speler A
+                  RB de rating van speler B
+
+            Schakers Rutten en Faber gaan een partij spelen. De rating van Rutten
+            is 2307, de rating van Faber is 2107.
+3p    13    Laat met behulp van de formule zien dat je mag verwachten dat Faber zal
+            verliezen.
+
+
+
+ noot 1     In de praktijk worden andere formules gebruikt, maar de gegeven formule geeft een
+            goede benadering.
+
+
+HA-1024-a-18-2-o                                          10 / 17                       lees verder ►►►
+            De rating van schaker Altena (schaker A) is 1932. Er geldt: hoe hoger de
+            rating van zijn tegenspeler (schaker B) is, des te lager is de vooraf
+            verwachte score voor Altena. Dit kan beredeneerd worden aan de hand
+            van de formule.
+3p    14    Geef deze redenering zonder gebruik te maken van de grafische
+            rekenmachine.
+
+            We gaan er in de rest van deze opgave van uit dat de nieuwe rating van
+            een speler wordt berekend direct na het spelen van de partij. Deze
+            nieuwe rating wordt bepaald met behulp van het aantal punten P dat de
+            speler met de partij scoorde (0 of 0,5 of 1) en de vooraf verwachte
+            score V bij de partij voor de speler. Voor een grootmeester (een zeer
+            goede schaker) gaat dit met het onderstaande stappenplan:
+
+            1      Eerst wordt het verschil berekend van het aantal punten dat de speler
+                   met de partij scoorde en de vooraf verwachte score voor de speler bij
+                   deze partij (dus P  V ).
+            2      De uitkomst bij stap 1 wordt vermenigvuldigd met 10.
+            3      De uitkomst bij stap 2 wordt afgerond op een geheel getal.
+            4      De uitkomst bij stap 3 wordt opgeteld bij de rating die de speler vóór
+                   de partij had.
+
+
+            Op het Tata Steel-schaaktoernooi in 2015 speelden de grootmeesters
+            Magnus Carlsen en Radoslaw Wojtaszek tegen elkaar. Voorafgaand aan
+            deze partij was de rating van Carlsen 2862 en die van Wojtaszek 2744.
+            De partij werd gewonnen door Wojtaszek.
+4p    15    Bereken de nieuwe rating van Wojtaszek.
+
+            De rating van een grootmeester kan door één partij nooit met meer dan
+            10 punten stijgen.
+3p    16    Leg uit waarom dit juist is.
+
+
+
+
+HA-1024-a-18-2-o                               11 / 17                           lees verder ►►►
+      De Jamuna, een krachtige rivier
+
+            De Jamuna is een van de       foto
+            grootste rivieren van
+            Bangladesh. In het
+            regenseizoen kan de rivier
+            wel bijna 12 km breed zijn.
+            Dan stroomt het water zo snel
+            en met zo veel kracht, dat de
+            oevers van de rivier
+            aangetast worden. Een deel
+            van de oevers verdwijnt dan
+            door het water. Zie de foto.
+
+
+            Op een bepaalde plaats van de Jamuna wordt gemeten hoeveel
+            water (in m3) daar per seconde langs stroomt. Dit noemt men de
+            waterdoorvoer. Deze varieert behoorlijk: in het regenseizoen kan de
+            waterdoorvoer wel 100 000 m3 per seconde zijn, terwijl de waterdoorvoer
+            in de droge tijd ‘slechts’ 3000 m3 per seconde is.
+
+            Er is berekend hoe groot de waterdoorvoer in de maand januari van 1972
+            gemiddeld was. Dit werd ook gedaan voor alle andere januarimaanden in
+            de periode 1973 tot en met 2007. Deze 36 waarden zijn samengevat met
+            een boxplot. Deze boxplot staat in de figuur op de uitwerkbijlage.
+            In diezelfde figuur staat ook een boxplot die hoort bij alle februarimaanden
+            in de periode 1972 tot en met 2007. En net zo voor alle andere maanden
+            in het jaar.
+
+            Karin doet met behulp van het formuleblad de volgende uitspraak: “Het
+            verschil in gemiddelde waterdoorvoer tussen de julimaanden en de
+            augustusmaanden in de periode 1972 tot en met 2007 is gering.”
+2p    17    Is deze uitspraak juist, onjuist, of is dat niet uit de figuur op de
+            uitwerkbijlage af te leiden? Licht je antwoord toe.
+
+            Bob doet ook een uitspraak: “In april 1983 was de gemiddelde
+            waterdoorvoer groter dan in februari 1983.”
+2p    18    Is deze uitspraak juist, onjuist, of is dat niet uit de figuur op de
+            uitwerkbijlage af te leiden? Licht je antwoord toe.
+
+
+
+
+HA-1024-a-18-2-o                              12 / 17                              lees verder ►►►
+            Als de waterdoorvoer erg groot is, ook al                         figuur 1
+            is dat maar gedurende een paar uur of een                         erosie van linker- en rechteroever samen
+            paar dagen, dan worden de oevers                                                6000
+
+                                                                              erosie (ha)
+            aangetast en verdwijnen er stukken oever
+            in de rivier. Dit heet erosie.                                                  5000
+
+                                                                                            4000
+            Voor de jaren 1995 tot en met 2005 is in
+            figuur 1 te zien hoeveel hectare land door                                      3000
+            erosie verdween (1 hectare (ha) = 10 000 m2).
+                                                                                            2000
+            In figuur 2 is voor elk jaar in de periode
+            1995 tot en met 2005 zowel de erosie van de         1000
+
+            linkeroever als de erosie van de rechteroever
+                                                                   0
+            in dat jaar uitgezet tegen de maximale                                            19 9
+                                                                                              19 5
+                                                                                                 9
+                                                                                              19 6
+                                                                                                 9
+                                                                                              19 7
+                                                                                                 9
+                                                                                              19 8
+                                                                                                 9
+                                                                                              20 9
+                                                                                                 0
+                                                                                              20 0
+                                                                                                 0
+                                                                                              20 1
+                                                                                                 0
+                                                                                              20 2
+                                                                                                 0
+            waterdoorvoer in dat jaar. Zo kun je in
+                                                                                              20 3
+                                                                                              2004
+                                                                                                 05
+
+            figuur 2 bijvoorbeeld zien dat in één van die
+            jaren 2200 ha van de linkeroever verdween, 1400 ha van de rechteroever
+            verdween en dat de maximale waterdoorvoer 85 000 m3 per seconde was.
+            Je kunt in figuur 2 echter niet zien in welk jaar dat was.
+
+            Figuur 1 en figuur 2 staan ook op de uitwerkbijlage.
+
+            figuur 2
+                           4000
+
+             erosie (ha)   3500
+
+                           3000
+
+                           2500
+
+                           2000
+
+                           1500
+
+                           1000
+
+                           500
+
+                              0
+                             40 000        50 000   60 000          70 000   80 000      90 000      100 000
+                                                                                 maximale waterdoorvoer (m3/sec)
+                                  Legenda:
+                                      linkeroever    rechteroever
+
+
+3p    19    Bepaal de maximale waterdoorvoer in het jaar 1995 met behulp van
+            figuur 1 en figuur 2. Je kunt hierbij de figuren op de uitwerkbijlage
+            gebruiken.
+
+
+
+HA-1024-a-18-2-o                                             13 / 17                                  lees verder ►►►
+            In figuur 3 zijn nogmaals de punten weergegeven die bij de erosie van de
+            rechteroever horen. Deze punten liggen bij benadering op een rechte lijn.
+            Deze lijn is in figuur 3 getekend.
+            figuur 3
+                             4000
+
+
+             erosie E (ha)   3500
+
+                             3000
+
+                             2500
+
+                             2000
+
+                             1500
+
+                             1000
+
+                             500
+
+                                0
+                               40 000   50 000   60 000       70 000   80 000      90 000       100 000
+                                                                         maximale waterdoorvoer W (m3/sec)
+
+
+            Je kunt van deze lijn de formule opstellen, waarbij je de erosie E (in ha)
+            uitdrukt in de maximale waterdoorvoer W (in m3/sec).
+4p    20    Stel deze formule op.
+
+            Voor de bewoners langs de Jamuna zijn de gevolgen van erosie groot.
+            Veel mensen die een stukje grond langs de rivier hadden, hebben moeten
+            toezien hoe hun grond door de rivier verdween. Dit trof veel mensen,
+            doordat Bangladesh dichtbevolkt is: de bevolkingsdichtheid was aan het
+            begin van deze eeuw 975 inwoners per km2.
+
+            Een politicus wil een berekening hebben van het aantal bewoners dat in
+            de periode 2001 tot en met 2005 het land waarop zij woonden zijn
+            kwijtgeraakt als gevolg van erosie door de Jamuna.
+            Gebruik bij deze berekening figuur 1 en neem aan dat in deze periode de
+            bevolkingsdichtheid van 975 inwoners per km 2 ook geldt voor het gebied
+            langs de Jamuna.
+4p    21    Geef deze berekening. Rond het aantal bewoners af op duizendtallen.
+
+
+
+
+HA-1024-a-18-2-o                                          14 / 17                               lees verder ►►►
+                   Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-18-2-o             15 / 17                  lees verder ►►►
+      Overboekt
+
+            Een overboeking van een vliegtuig ontstaat doordat voor een vlucht meer
+            tickets worden verkocht dan er zitplaatsen zijn. Sommige
+            vliegmaatschappijen kiezen hiervoor, omdat telkens weer blijkt dat niet
+            iedereen die een vliegticket heeft gekocht komt opdagen. Door meer
+            tickets te verkopen willen de vliegmaatschappijen hun winst vergroten.
+            Een vliegmaatschappij rekent er dus bij overboeking op dat sommige
+            passagiers niet komen opdagen. Als vrijwel alle passagiers wel komen
+            opdagen, zijn er te weinig zitplaatsen. In dat geval kunnen één of meer
+            passagiers niet mee. De vliegmaatschappij lost dit op door aan deze
+            passagiers een vergoeding te geven.
+
+            De vliegmaatschappij Aircrown vliegt in de Verenigde Staten dagelijks op
+            de route Minneapolis – Chicago. Het vliegtuig waarmee gevlogen wordt,
+            heeft 198 stoelen. De tickets op deze vlucht kosten $ 78 (78 dollar).
+            Een risicoanalist heeft twee situaties onderzocht: de situatie zonder
+            overboeking en de situatie met overboeking van het vliegtuig.
+
+            Zonder overboeking van het vliegtuig
+            198 mensen kopen een ticket. Allen kunnen mee met het vliegtuig en wie
+            niet komt opdagen is zijn geld kwijt.
+
+            Met overboeking van het vliegtuig
+            Aircrown verkoopt geen 198, maar 210 tickets per vlucht. Iedere
+            passagier die niet komt opdagen, is zijn geld kwijt. Iedere passagier die
+            wel komt opdagen en voor wie er geen stoel meer is, krijgt zijn $ 78 niet
+            terug, maar krijgt wel een vergoeding van $ 250. Dit zijn de enige extra
+            kosten die Aircrown maakt door het verkopen van de extra tickets.
+
+            Aircrown heeft van 300 vluchten waarvan de 210 tickets allemaal verkocht
+            zijn, bijgehouden hoeveel passagiers er zijn komen opdagen. Zie de tabel.
+            Met deze gegevens kun je berekenen hoeveel dollar de vliegmaatschappij
+            aan vergoedingen heeft moet betalen.
+
+            tabel
+              aantal        195 of 196     197   198   199   200 201 202 203         204
+              passagiers    minder                                                    of
+              dat komt                                                               meer
+              opdagen
+              aantal         234     22    17     11    8     4     2    1     1        0
+              vluchten
+
+
+
+
+HA-1024-a-18-2-o                            16 / 17                           lees verder ►►►
+            De risicoanalist van de vliegmaatschappij wil met bovenstaande gegevens
+            berekenen wat overboeking oplevert aan extra winst in vergelijking met de
+            situatie zonder overboeking.
+            Hij kijkt hiervoor naar de gemiddelde winst per stoel per vlucht.
+            In de situatie zonder overboeking is de gemiddelde winst per stoel per
+            vlucht gelijk aan $ 11,25.
+            Volgens de risicoanalist is de gemiddelde winst per stoel per vlucht in de
+            situatie met overboeking minstens 25% hoger dan in de situatie zonder
+            overboeking.
+8p    22    Onderzoek of de risicoanalist gelijk heeft.
+
+
+
+
+HA-1024-a-18-2-o                           17 / 17                           lees verdereinde
+                                                                                          ►►► 
+

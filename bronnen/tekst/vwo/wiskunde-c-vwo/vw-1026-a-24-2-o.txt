@@ -1,0 +1,537 @@
+                                                                 Examen VWO
+
+                                                                     2024
+                                                                            tijdvak 2
+                                                                  donderdag 20 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-24-2-o
+      Meer werklozen?
+
+            Het Centraal Bureau voor de Statistiek (CBS) presenteert ieder kwartaal
+            cijfers over de beroepsbevolking van Nederland. Hierbij wordt onder
+            andere het aantal werklozen vermeld.
+
+            Volgens de overheid is iemand werkloos als die persoon aan de volgende
+            drie criteria voldoet:
+            I De persoon heeft geen betaald werk.
+            II De persoon heeft in de afgelopen vier weken naar betaald werk
+                gezocht.
+            III De persoon kan binnen twee weken starten met werken.
+
+            We voeren de volgende notaties in:
+            B Een persoon heeft betaald werk
+            Z Een persoon heeft in de afgelopen vier weken naar betaald werk
+               gezocht
+            S Een persoon kan binnen twee weken starten met werken
+            W Een persoon is volgens de overheid werkloos
+
+            In de figuur hieronder is een Venndiagram weergegeven.
+            Dit Venndiagram staat ook vergroot op de uitwerkbijlage.
+
+            figuur
+
+
+
+
+2p    1     Arceer in het Venndiagram op de uitwerkbijlage het gebied waarin zich
+            een persoon bevindt die volgens de drie criteria van de overheid werkloos
+            is.
+
+2p    2     Leg uit of S een voldoende voorwaarde is voor W en leg uit of S een
+            nodige voorwaarde is voor W.
+
+
+
+
+VW-1026-a-24-2-o                           2 / 15                           lees verder ►►►
+            Gegeven is de bewering ( S  Z )  W .
+3p    3     Vertaal deze bewering in een gewone zin en bepaal of de bewering in
+            overeenstemming is met de drie criteria van de overheid.
+
+            Of iemand wel of niet werkloos is, wordt bepaald aan de hand van een
+            ingevulde vragenlijst. In de vragenlijst die tot en met 2021 werd gebruikt,
+            werden onderstaande drie meerkeuzevragen gesteld. Bij de drie vragen is
+            met ● aangegeven wat een bepaalde persoon op deze vragen heeft
+            geantwoord.
+
+            1) Heeft u op dit moment betaald werk?
+               ○ ja
+               ● nee
+            2) Heeft u de afgelopen 4 weken naar betaald werk gezocht?
+               ● ja
+               ○ nee
+            3) Op welke termijn kunt u beginnen met werken?
+               ○ Binnen 2 weken
+               ● 2 weken tot 3 maanden
+               ○ 3 maanden tot 6 maanden
+               ○ 6 maanden of langer
+
+2p    4     Geef met een redenering in logische symbolen weer, of deze persoon wel
+            of niet volgens de drie criteria van de overheid tot de werklozen wordt
+            gerekend. Gebruik in je antwoord alle vier de symbolen B, Z, S en W.
+
+            Het CBS is inmiddels overgegaan op een nieuwe methode voor het
+            bepalen van het aantal werklozen. In oktober 2021 is het aantal werklozen
+            zowel met de oude als met de nieuwe methode bepaald. Hierbij bleek dat
+            de nieuwe methode een hoger aantal werklozen opleverde.
+
+            In oktober 2021 had Nederland volgens de oude methode 277 duizend
+            werklozen. Dit kwam neer op 2,9% van de beroepsbevolking. Met de
+            nieuwe methode was het 4,02%.
+3p    5     Bereken hoeveel werklozen er met de nieuwe methode meer werden
+            bepaald dan met de oude methode. Geef je antwoord in duizendtallen.
+
+
+
+
+VW-1026-a-24-2-o                            3 / 15                            lees verder ►►►
+      Wonen in New York
+
+            Wonen in het centrum van een grote stad is in het algemeen duurder dan
+            wonen buiten het centrum. In figuur 1 staan de huurprijzen per maand in
+            2016 van 1- en 3-kamerappartementen in New York, uitgezet tegen de
+            reistijd met het openbaar vervoer tot 42nd Street, een van de
+            belangrijkste straten in het commerciële centrum. Figuur 1 staat ook
+            vergroot op de uitwerkbijlage.
+
+            figuur 1
+
+
+
+
+            Een punt in figuur 1 stelt niet de huurprijs van één appartement voor,
+            maar de gemiddelde huurprijs van alle appartementen met dezelfde
+            reistijd.
+
+            Verhuurders van appartementen gebruiken soms de volgende vuistregel:
+
+            Voor elke kamer meer in een appartement stijgt de huurprijs met
+            ongeveer 25%.
+
+            We bekijken appartementen met een reistijd van 25 minuten.
+3p    6     Onderzoek met behulp van figuur 1 op de uitwerkbijlage of de gemiddelde
+            huurprijs van deze appartementen aan bovenstaande vuistregel voldoet.
+
+
+
+
+VW-1026-a-24-2-o                            4 / 15                            lees verder ►►►
+            In figuur 2 op de uitwerkbijlage zijn aan figuur 1 twee trendlijnen
+            toegevoegd. In het vervolg van deze opgave gaan we uit van deze
+            trendlijnen en niet meer van de individuele datapunten.
+
+            We bekijken een 1-kamerappartement met een reistijd van 15 minuten tot
+            42nd Street. Voor de huurprijs van dit appartement kun je ook een
+            3-kamerappartement huren. De reistijd tot 42nd Street vanaf dat
+            3-kamerappartement is wel langer dan de reistijd vanaf het
+            1-kamerappartement.
+3p    7     Bepaal met behulp van figuur 2 op de uitwerkbijlage hoeveel langer de
+            reistijd vanaf dat 3-kamerappartement is. Licht je antwoord toe en geef je
+            antwoord in hele minuten.
+
+            De formule die past bij de trendlijn van de 3-kamerappartementen is:
+                         20 367
+                    H
+                          r 0,571
+            Hierin is H de huurprijs per maand van een 3-kamerappartement in dollars
+            en r de reistijd tot 42nd Street in minuten.
+
+2p    8     Beredeneer aan de hand van de formule, zonder getallen in te vullen of
+            een schets/tekening te maken, dat de huurprijs H hoger wordt als de
+            reistijd r korter wordt.
+
+
+
+
+VW-1026-a-24-2-o                            5 / 15                           lees verder ►►►
+      Krattenbrug
+
+            Studenten van de Technische Universiteit Eindhoven hebben in 2016 een
+            brug van kratten gebouwd. Zie de foto. Naast de foto zie je ook een
+            afbeelding van een computeranimatie uit de ontwerpfase van de
+            krattenbrug.
+
+      foto                                            afbeelding
+
+
+
+
+            Elke toren bestaat uit 29 lagen gestapelde kratten. De bovenste laag
+            geven we nummer 1, de laag direct daaronder nummer 2, enzovoorts.
+
+            Voor de bovenste 11 lagen geldt voor het aantal kratten per laag:
+                   A(n)  3,5n  3,5   voor lagen met een oneven nummer
+                   A(n)  3,5n  3     voor lagen met een even nummer
+            Hierin is A(n) het aantal kratten en n het nummer van de laag.
+
+            Neem aan dat voor de overspanning in totaal 4950 kratten zijn gebruikt.
+            Voor beide torens geldt dat laag 12 tot en met laag 29 elk evenveel
+            kratten bevatte als laag 11.
+4p    9     Bereken het totaal aantal kratten in de hele krattenbrug.
+
+
+
+
+VW-1026-a-24-2-o                             6 / 15                             lees verder ►►►
+            Op de foto is te zien dat de krattenbrug over een rivier is gebouwd. Deze
+            rivier, de Dommel, stroomt midden onder de brug door. In de figuur is de
+            situatie schematisch weergegeven in een assenstelsel. In deze figuur zijn
+            van de brug alleen de torens en de onderkant van de overspanning
+            weergegeven. Deze onderkant noemen we de boog.
+
+            figuur
+
+
+
+
+            In de figuur is de grond als x-as genomen en gaat de y-as door het
+            hoogste punt van de boog.
+
+            Verder zijn de volgende gegevens bekend, zie de figuur:
+             De boog is 26,7 meter breed.
+             De maximale hoogte van de boog is 5,3 meter ten opzichte van de
+               grond.
+             De Dommel is 9,0 meter breed.
+
+            Voor de boog kan een formule worden opgesteld van de vorm
+            y  a  x 2  5,3 .
+
+            Na afronding geldt a   0, 030 .
+
+3p   10     Bereken met behulp van de gegevens a in vier decimalen.
+
+            Een persoon met een lengte van 1,90 meter loopt op een afstand van
+            6 meter van de waterkant onder de brug door.
+2p   11     Onderzoek of deze persoon rechtop onder de brug door kan lopen.
+
+
+
+
+VW-1026-a-24-2-o                                7 / 15                      lees verder ►►►
+      Incomplete open kubussen
+
+            Op foto 1 is een kunstwerk te zien van de        foto 1
+            Amerikaanse kunstenaar Sol LeWitt.
+
+            Dit kunstwerk is onderdeel van een serie
+            kunstwerken. Elk kunstwerk in de serie is een
+            zogeheten frame. Een frame bestaat uit een
+            aantal ribben van een kubus.
+
+            Alle frames zijn 106,7 cm hoog.
+            Foto 1 staat ook op de uitwerkbijlage.
+4p   12     Bereken op welke hoogte de foto is genomen.
+            Geef je antwoord in een geheel aantal centimeters.
+
+            Bij de ribben van een frame onderscheiden we drie verschillende
+            richtingen zoals in foto 2 met de dubbele pijlen is aangegeven.
+
+            foto 2
+
+
+
+
+            LeWitt stelde een aantal voorwaarden aan de frames in zijn serie:
+            I     In elk frame ontbreken één of meerdere van de twaalf ribben die
+                  een
+                   kubus heeft, waardoor er een incomplete kubus ontstaat.
+            II    Een frame mag niet uit verschillende delen bestaan.
+            III   Een frame bevat in elk van de drie richtingen ten minste één ribbe.
+
+
+
+
+VW-1026-a-24-2-o                            8 / 15                            lees verder ►►►
+            Op foto 3 is een frame te zien dat bestaat uit vijf ribben. Figuur 1 is het
+            vooraanzicht van dit frame.
+
+            foto 3                                         figuur 1
+
+
+
+
+            Er bestaan meerdere frames die ook een vooraanzicht hebben zoals
+            figuur 1. Deze frames hebben niet allemaal vijf ribben.
+2p   13     Beredeneer hoeveel ribben een frame met een vooraanzicht als in figuur 1
+            minimaal heeft.
+
+            In het vervolg van de opgave kijken we naar frames waarvan de drie
+            aanzichten zijn zoals weergegeven in figuur 2.
+
+            figuur 2
+
+
+
+
+              vooraanzicht              bovenaanzicht                 zijaanzicht
+
+            Er kan geconcludeerd worden dat zo’n frame in alle drie de richtingen ten
+            minste twee ribben heeft, dus dat zo’n frame minimaal zes ribben heeft.
+
+            Het is mogelijk om verschillende frames te maken die bestaan uit zes
+            ribben waarvan de drie aanzichten zijn zoals in figuur 2. Een aantal van
+            die frames voldoet aan alle voorwaarden van LeWitt en een aantal van die
+            frames voldoet niet aan alle voorwaarden van LeWitt.
+
+            In de figuur op de uitwerkbijlage zijn met behulp van stippellijnen de
+            ribben van twee kubussen getekend. Hierin kan je een frame tekenen
+            door stippellijnen te vervangen door doorgetrokken lijnen. Hierbij betekent
+            een doorgetrokken lijn dat het frame daar een ribbe heeft en een
+            stippellijn dat het frame daar geen ribbe heeft.
+4p   14     Teken op de uitwerkbijlage twee frames, die bestaan uit zes ribben en
+            waarvan de aanzichten zijn zoals in figuur 2, waarbij het eerste frame wél
+            voldoet aan alle voorwaarden van LeWitt en het tweede frame niet.
+
+
+
+VW-1026-a-24-2-o                              9 / 15                             lees verder ►►►
+      Babynamen
+
+            In april 2022 verwelkomde een Belgisch koppel hun twaalfde kindje. Deze
+            dochter kreeg een voornaam die bestaat uit dezelfde letters als die van de
+            namen van de elf andere kinderen. De broertjes en zusjes van de
+            pasgeboren dochter Laex heten Alex, Axel, Xela, Lexa, Xael, Xeal, Exla,
+            Leax, Xale, Elax en Alxe.
+
+            Alle voornamen van de kinderen bestaan uit vier letters: een A, een E,
+            een L en een X.
+            Omdat de namen uitspreekbaar moeten zijn, nemen we aan dat een naam
+            niet mag beginnen of eindigen met LX of XL.
+3p   15     Bepaal hoeveel verschillende namen met deze vier letters er nog mogelijk
+            zijn voor dit koppel als ze nog meer kinderen zouden krijgen. Licht je
+            antwoord toe.
+
+            In de Nederlandse Voornamenbank is vanaf het jaar 1880 bijgehouden
+            hoe vaak een voornaam per jaar in Nederland gegeven wordt.
+
+            In de tabel staan voor de voornaam Axel van jongens in Nederland een
+            aantal gegevens voor het jaar 2000 en voor het jaar 2005.
+
+            tabel
+                                                           2000       2005
+              aantal jongens dat de naam Axel kreeg          62        61
+              percentage ten opzichte van het totaal     0,0598%    0,0654%
+              aantal jongens dat in hetzelfde jaar
+              geboren is
+
+3p   16     Beredeneer, zonder een berekening te maken, of er in het jaar 2005 in
+            totaal meer of minder jongens geboren werden dan in het jaar 2000.
+
+
+
+
+VW-1026-a-24-2-o                           10 / 15                           lees verder ►►►
+            De voornaam Kevin kwam tot 1970 nauwelijks voor in Nederland, maar
+            tussen 1970 en 1992 groeide het aantal baby’s met deze voornaam
+            explosief. Na 1992 nam de populariteit van de voornaam Kevin weer af.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Het totaal aantal Kevins dat ooit in Nederland geboren is, kan vanaf 1950
+            worden benaderd met de formule:
+                               23162
+                   N
+                        1  10 301  0,8025t
+            Hierin is N het totaal aantal Kevins dat ooit in Nederland geboren is en t
+            de tijd in jaren met t  0 het einde van het jaar 1950.
+
+            Volgens de formule groeide in de jaren 1971 tot en met 1974 het aantal
+            geboren Kevins per jaar bij benadering exponentieel.
+4p   17     Toon dit met behulp van een berekening aan.
+
+            De formule nadert naar een grenswaarde. Deze grenswaarde is het totaal
+            aantal Kevins dat ooit in Nederland geboren zal worden.
+4p   18     Bereken met behulp van de formule in welk jaar de helft van het totaal
+            aantal Kevins dat ooit geboren zal worden, al geboren was.
+
+
+
+
+VW-1026-a-24-2-o                               11 / 15                         lees verder ►►►
+            De verspreiding van de voornaam Ingrid verloopt op vergelijkbare wijze
+            als die van de voornaam Kevin. Het totaal aantal Ingrids dat ooit geboren
+            is, is voor de jaren 1910-2018 in figuur 2 weergegeven. Figuur 2 staat
+            vergroot op de uitwerkbijlage.
+
+            figuur 2
+
+
+
+
+            Aan de helling van de grafiek in figuur 2 is te zien dat vanaf 1950 de
+            populariteit van de naam Ingrid echt begon toe te nemen, maar dat die
+            later weer afnam.
+            Er was een jaar waarin er net zoveel baby’s met de naam Ingrid
+            bijkwamen als in 1950.
+3p   19     Bepaal met behulp van de figuur op de uitwerkbijlage in welk jaar dat was.
+
+
+
+
+VW-1026-a-24-2-o                           12 / 15                           lees verder ►►►
+      Zevenheuvelenloop
+
+            De Zevenheuvelenloop is een jaarlijks terugkerend hardloopevenement in
+            Nijmegen. Deelnemers kunnen kiezen tussen de korte afstand van 7 km
+            en de lange afstand van 15 km.
+
+            In 2019 waren er voor de korte afstand 8000 deelnemers en voor de lange
+            afstand 24 000. Bij de korte afstand waren de vrouwen met 57% in de
+            meerderheid. Bij de lange afstand waren de mannen met 69% in de
+            meerderheid.
+4p   20     Bereken het percentage vrouwen dat in 2019 deelnam aan de
+            Zevenheuvelenloop. Geef je antwoord in één decimaal.
+
+            Zoals de naam doet vermoeden, is het parcours van de
+            Zevenheuvelenloop heuvelachtig. In het jaar 2019 werd de New Balance
+            Kilometer (NBK) geïntroduceerd. Dat is de 11e kilometer van de lange
+            afstand. In deze kilometer wordt omhoog gelopen. Voor deze kilometer
+            wordt op de volgende manier een winnaar bepaald:
+             Na afloop wordt op basis van de eindtijd voor elke deelnemer de
+                gemiddelde kilometertijd op de lange afstand berekend.
+             De deelnemer die op de NBK een tijd heeft gelopen die relatief het
+                verst onder zijn berekende gemiddelde kilometertijd zit, wint de NBK.
+
+            rekenvoorbeeld
+            Rogier finisht op de lange afstand van 15 km in een tijd van 1:30:00, dus
+            in 1 uur, 30 minuten en 0 seconden.
+            Zijn berekende gemiddelde kilometertijd is dus 360 seconden.
+            Over de NBK deed Rogier 5 minuten en 40 seconden. Dit is 20 seconden
+            sneller dan zijn gemiddelde kilometertijd.
+                         20  100%  5,6% minder tijd nodig voor de NBK dan zijn
+            Rogier had 360
+            gemiddelde kilometertijd.
+
+            Pieter van der Ark liep in 2019 de lange afstand van 15 km in een tijd van
+            2:03:38 (dus in 2 uur, 3 minuten en 38 seconden). Hij eindigde daarmee
+            in de achterhoede van de lange afstand. Van der Ark had 56,3% minder
+            tijd nodig voor de NBK dan zijn gemiddelde kilometertijd en won daarmee
+            wel de NBK.
+4p   21     Bereken hoelang van der Ark over de NBK deed. Geef je antwoord in
+            gehele seconden.
+
+
+
+
+VW-1026-a-24-2-o                           13 / 15                           lees verder ►►►
+            We bekijken nu een model met drie factoren die de prestatie tijdens het
+            hardlopen beïnvloeden: de leeftijd, het lichaamsgewicht en de afstand.
+
+            invloed van de leeftijd
+            Vanaf het 35e levensjaar gaat het fysieke prestatievermogen achteruit.
+            Hierdoor zal een hardloper elk jaar gemiddeld 0,8% langer over dezelfde
+            afstand doen dan het jaar ervoor.
+
+            Henk Stevens (bedenker van de Zevenheuvelenloop) doet jaarlijks mee
+            aan de Zevenheuvelenloop. In tabel 1 zie je zijn eindtijden op de 15 km in
+            2016 op 64-jarige leeftijd en in 2019 op 67-jarige leeftijd.
+
+            tabel 1
+              leeftijd      eindtijd
+              (in jaren)    (in seconden)
+              64            3842
+              67            3937
+
+            Stevens deed er in 2019 iets langer over dan je zou verwachten op basis
+            van zijn tijd in 2016 en de invloed van de leeftijd.
+3p   22     Bereken hoeveel seconden langer. Geef je antwoord in gehele seconden.
+
+            invloed van de verandering in lichaamsgewicht
+            Hoe zwaarder je bent, des te langzamer je gaat. Er geldt:
+                                     G2
+                   S2  (1,9  0,9      )S                    (formule 1)
+                                     G1 1
+            Hierin is:
+            G1     het gewicht in kilogram op moment 1;
+            S1     de (gemiddelde) snelheid in kilometer per uur die gelopen is bij
+                   gewicht G1 ;
+            G2     het gewicht in kilogram op moment 2;
+            S2     de voorspelde (gemiddelde) snelheid in kilometer per uur die
+                   gelopen wordt bij gewicht G2 .
+
+            Een hardloper met gewicht G1 loopt met een gemiddelde snelheid S1 . Stel
+            dat deze hardloper 5% zwaarder wordt.
+3p   23     Bereken met hoeveel procent zijn gemiddelde snelheid dan afneemt
+            volgens formule 1. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1026-a-24-2-o                              14 / 15                         lees verder ►►►
+            invloed van de afstand
+            Op een korte afstand kun je een hogere gemiddelde snelheid lopen dan
+            op een langere afstand.
+
+            Hardlooptrainer Jan Willem Nieboer bracht de drie invloeden samen in
+            onderstaande formule:
+                                  0,06
+                        A                             G2
+                   S2   1              (1,9  0,9      ) 1,008 L1  L2  S1      (formule 2)
+                         A2                           G1
+            Nieuw in formule 2 ten opzichte van formule 1 zijn:
+            L1   de leeftijd in jaren op moment 1;
+            L2   de leeftijd in jaren op moment 2;
+            A1   de afstand in kilometer op moment 1;
+            A2   de afstand in kilometer op moment 2.
+            Formule 2 geldt voor leeftijden vanaf 35 jaar.
+
+            Erben Wennemars liep toen hij 40 jaar was een tijd van 56 minuten en
+            49 seconden op de lange afstand van de Zevenheuvelenloop. In het
+            tv-programma Jinek vertelde Wennemars dat hij de marathon van
+            Rotterdam in een tijd van minder dan 2 uur en 50 minuten zou willen
+            afleggen. Wennemars was 44 jaar toen hij de marathon van Rotterdam
+            liep. In tabel 2 staan de afstanden en afgeronde tijden van Wennemars.
+
+            tabel 2
+                                                           afstand (in km)         behaalde eindtijd (in uren)
+              Zevenheuvelenloop                            15                      0,947
+                                     afstand (in km)                               gewenste eindtijd (in uren)
+              Marathon van Rotterdam 42,195                                        2,833
+
+            Neem aan dat Wennemars tijdens de Zevenheuvelenloop een gewicht van
+            78 kg had en dat hij alleen invloed op zijn gewicht had om zijn streeftijd op
+            de marathon van Rotterdam te kunnen behalen.
+5p   24     Bereken met behulp van formule 2 in één decimaal hoeveel procent
+            Wennemars minimaal af had moeten afvallen om zijn streeftijd op de
+            marathon te behalen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1026-a-24-2-o                                              15 / 15                                     lees verdereinde
+                                                                                                                       ►►► 
+

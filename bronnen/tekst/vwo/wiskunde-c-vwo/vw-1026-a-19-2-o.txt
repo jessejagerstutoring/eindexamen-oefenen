@@ -1,0 +1,556 @@
+                                                                 Examen VWO
+
+                                                                     2019
+                                                                            tijdvak 2
+                                                                     dinsdag 18 juni
+                                                                   13:30 - 16:30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-19-2-o
+      De piano
+
+            figuur 1
+
+
+
+                   1       2           3       4       5            1       2           3       4       5
+
+
+               C       D       E   F       G       A       B    C       D       E   F       G       A       B      C
+
+
+            In figuur 1 staat een gedeelte van het toetsenbord van een piano
+            afgebeeld. De witte en de zwarte toetsen stellen allemaal verschillende
+            tonen voor. Op de witte toetsen staat ook de naam van de bijbehorende
+            toon. Voor tonen die bij de zwarte toetsen horen, bestaan meerdere
+            namen. In figuur 1 zijn ze daarom genummerd.
+
+            Als je een toets aanslaat op de piano, dan zorgt dat ervoor dat er een
+            snaar gaat trillen. De snelheid van die trilling bepaalt de toon die je hoort.
+            De snelheid waarmee een snaar trilt, noemen we de frequentie. De
+            frequentie is het aantal trillingen per seconde en heeft Hertz (Hz) als
+            eenheid.
+
+            Bijvoorbeeld: de linker toon F in figuur 1 heeft een frequentie van 352 Hz.
+            Dat betekent dus dat de snaar die deze toon F voortbrengt 352 keer per
+            seconde trilt.
+
+            Bij de linker toon A in figuur 1 hoort een frequentie van 440 Hz.
+3p    1     Bereken hoeveel seconden één trilling die bij deze toon A hoort, duurt.
+            Geef je antwoord in vier decimalen.
+
+            Als de frequentie van een toon twee keer zo groot is als die van een
+            andere toon, dan vormen deze twee tonen samen een octaaf. Dus: de
+            toon A met een frequentie van 440 Hz en een toon met een frequentie van
+            880 Hz vormen samen een octaaf van A. Deze tonen krijgen dezelfde
+            naam, dus ook de toon met een frequentie van 880 Hz noemen we A: dat
+            is de rechter A in figuur 1.
+
+            Op de meeste moderne piano’s is de laagste toon een A met een
+            frequentie van 27,5 Hz. De hoogste A heeft een frequentie van 3520 Hz.
+4p    2     Bereken hoeveel octaven van A zo’n piano omvat.
+
+            Twee opeenvolgende C's in figuur 1 vormen samen een octaaf van C.
+            Voor twee opeenvolgende C's geldt dat de frequentie van de rechter C
+            twee keer zo groot is als die van de linker C, oftewel: de verhouding van
+            hun frequenties is 2 :1 .
+
+
+
+
+VW-1026-a-19-2-o                                           2 / 12                                           lees verder ►►►
+            Bij het stemmen van een piano wordt ervoor gezorgd dat de verhouding
+            van de frequenties van twee opeenvolgende tonen in een serie als
+            C-1-D-2-E-F-3-G-4-A-5-B-C precies gelijk is. Zie figuur 1.
+                                       frequentie toon F frequentie toon E
+            Zo geldt bijvoorbeeld:                      =
+                                       frequentie toon E frequentie toon 2
+
+            Elk van deze verhoudingen is (ongeveer) 1,0595 :1 .
+3p    3     Laat met een berekening zien dat deze verhouding juist is.
+
+            In de praktijk is het werken met deze frequentieverhoudingen niet zo
+            handig. Daarom wordt meestal de zogenaamde toonafstand (TA)
+            gebruikt. De eenheid van de toonafstand is cent.
+                                 f2 
+            Er geldt: TA  a  log  
+                                 f1 
+                               f
+            In deze formule is 2 de frequentieverhouding van twee tonen.
+                               f1
+            De waarde van a in de formule is zó gekozen dat de toonafstand tussen
+            twee opeenvolgende tonen precies gelijk is aan 100 cent.
+
+            Als je uitgaat van het hierboven genoemde getal 1,0595 en daarmee a
+            berekent, dan moet, afgerond op één decimaal, gelden: a  3983,9 .
+3p    4     Bereken op deze wijze de waarde van a in drie decimalen.
+
+            De toonafstand tussen twee tonen waar één toon tussen zit, is bij een
+            gestemde piano 200 cent. Zitten er twee tonen tussen, dan is de
+            toonafstand 300 cent, enzovoort.
+            Als je op een piano meer          figuur 2
+            toetsen tegelijk aanslaat, krijg
+            je een samengestelde klank.
+            Zo kun je een F en de rechts           1    2        3    4    5
+            ervan gelegen A tegelijk
+            aanslaan: zie figuur 2. De
+                                                 C   D    E    F   G     A   B    C
+            frequentieverhouding van de
+            tonen in deze samengestelde
+            klank is volgens de
+            muziektheorie gelijk aan 5 : 4 . Met deze verhouding kun je een
+            toonafstand berekenen volgens de muziektheorie. Je kunt de toonafstand
+            ook berekenen door uit te gaan van het idee dat bij een gestemde piano
+            tussen elke twee opeenvolgende tonen 100 cent zit.
+            Op een gestemde piano wijkt de toonafstand (TA) van de bovenvermelde
+            (uit F en A) samengestelde klank iets af van de toonafstand die volgens
+            de muziektheorie moet gelden.
+4p    5     Bereken hoeveel cent deze afwijking bedraagt. Geef je antwoord als een
+            geheel getal.
+
+
+
+
+VW-1026-a-19-2-o                               3 / 12                        lees verder ►►►
+      Dakopbouw
+
+            Een architectenbureau heeft voor volle steden een mogelijkheid bedacht
+            om huizen met een plat dak uit te breiden: een dakopbouw die relatief
+            weinig kost, snel te plaatsen is en gemakkelijk is aan te passen aan de
+            individuele wensen van een klant. Aan de hand van deze wensen wordt
+            door middel van een computerprogramma voor elke klant een ontwerp
+            gemaakt, uitgaande van een aantal basismodellen.
+
+            Bij een van de modellen kan een klant kiezen voor een kleine dakopbouw
+            die, als er nog ruimte is op het platte dak, later eventueel uit te breiden is.
+            In figuur 1 zie je de plattegrond van deze dakopbouw met een
+            buitenterras vóór de uitbreiding. In figuur 2 zie je de plattegrond met een
+            buitenterras ná de uitbreiding. In deze figuren staan ook oppervlaktes
+            vermeld. De dakopbouw heeft overal een binnenhoogte van 2,60 meter,
+            zowel voor als na de uitbreiding.
+
+            figuur 1                         figuur 2
+
+
+
+
+                                                                   slaapkamer
+               slaapkamer 11 m2               slaapkamer 9 m2         8,5 m2
+                                  terras
+                                  16 m2                                          terras
+                                                                                14,5 m2
+
+
+                     tuinkamer                         tuinkamer
+                       8,5 m2                            17 m2
+
+            douche                            douche
+            1,3 m2                            1,3 m2
+
+
+            Door de uitbreiding veranderen de oppervlaktes van douche en trapgat
+            niet.
+3p    6     Bereken met hoeveel m3 de inhoud van het binnengedeelte van de
+            dakopbouw toeneemt bij de uitbreiding.
+
+
+
+
+VW-1026-a-19-2-o                              4 / 12                                lees verder ►►►
+            In figuur 3 zie je een perspectieftekening van een ander basismodel. In
+            figuur 3 zie je dat de lengte van de staande balk van dit basismodel
+            2,90 meter is.
+
+            figuur 3
+
+
+
+
+            Voor het in figuur 3 gekozen perspectief – waarbij de horizon horizontaal
+            loopt – heeft men in het computerprogramma een denkbeeldig punt aan
+            moeten geven van waaruit het perspectief getekend moest worden.
+4p    7     Bereken met behulp van de figuur op de uitwerkbijlage op welke hoogte
+            dit denkbeeldige punt gekozen is. Geef je antwoord in gehele meters.
+
+            De dakopbouw is dus naar wens aan te passen. Een potentiële klant wil
+            een beeld krijgen hoe de dakopbouw eruit zou zien als het basismodel
+            van figuur 3 wordt uitgebreid met een piramidevormig dak. Dit
+            piramidevormige dak wordt op de donkergrijze dakrand boven de kamer
+            geplaatst waardoor de hele dakopbouw anderhalf keer zo hoog wordt. De
+            top T van het piramidevormige dak komt precies boven het midden van
+            het huidige dak van de opbouw. Figuur 3 staat nogmaals op de
+            uitwerkbijlage.
+5p    8     Teken de top T en daarna de rest van het piramidevormige dak in de
+            figuur op de uitwerkbijlage. Licht je werkwijze toe.
+
+
+
+
+VW-1026-a-19-2-o                            5 / 12                           lees verder ►►►
+      Boom van Pythagoras
+
+            Veel mensen hebben weleens de boom van Pythagoras gezien. Deze
+            boom bestaat uit vierkanten en gelijkbenige rechthoekige driehoeken. In
+            figuur 1 staat het begin van zo’n boom en in figuur 2 een door (twee)
+            leerlingen verder uitgewerkte tekening van die boom.
+
+            figuur 1
+
+
+
+
+                   stap 0         stap 1
+
+            figuur 2
+
+
+
+
+            De boom in figuur 2 begint onderaan in het midden van de lange zijde van
+            het papier met een vierkant en daarop een passende gelijkbenige
+            rechthoekige driehoek. Het vierkant en de driehoek samen noemen we
+            stap 0. Bij iedere volgende stap komt er op elke rechthoekszijde van de
+            driehoek steeds een vierkant met daarop weer een passende driehoek bij.
+            Het vierkant past steeds precies op de rechthoekszijde. Zie ook figuur 1.
+
+
+
+
+VW-1026-a-19-2-o                           6 / 12                           lees verder ►►►
+            Je kunt aantonen dat de oppervlaktes van de vierkanten in elke volgende
+            stap half zo groot worden. Anders gezegd: je kunt aantonen dat, als we de
+            oppervlakte van een vierkant a 2 noemen, de oppervlakte van het vierkant
+            in de volgende stap 12 a 2 is.
+3p    9     Toon dit aan.
+
+            Een gevolg hiervan is dat de lengte d van de           figuur 3
+            diagonaal in het vierkant in de volgende stap
+            precies gelijk is aan de hoogte a van het
+            vierkant in de vorige stap. Zie figuur 3.                    d
+
+
+            Hans wil ook een boom van Pythagoras
+            tekenen en begint in het midden van de
+                                                                                 a
+            onderkant van zijn papier met een onderste
+            vierkant van 10 cm bij 10 cm. Hij heeft een vel
+            papier met afmetingen 420 mm bij 594 mm tot
+            zijn beschikking. Hij vraagt zich af of hij wel tot en met stap 5 kan komen
+            met zijn boom. Hij zorgt ervoor dat de zijde van 594 mm de onderkant van
+            zijn tekenpapier is.
+4p   10     Onderzoek met een berekening of de hoogte van deze boom van
+            Pythagoras tot en met stap 5 op dit vel past.
+
+            De lengtes van de zijden van de opeenvolgende vierkanten vormen een rij
+            waarin elk volgend getal met een vaste factor vermenigvuldigd wordt.
+            Fleur gaat een boom van Pythagoras tekenen. Haar tekenpapier is groot
+            genoeg voor heel veel stappen. Ze begint met een vierkant van 13 cm bij
+            13 cm. Ze kan geen vierkantje tekenen met een zijde die kleiner dan
+            1 mm is.
+4p   11     Bereken na welke stap Fleur stopt met tekenen.
+
+            Bij het tekenen van een boom van Pythagoras wordt het aantal nieuwe
+            vierkanten A bij elke volgende stap verdubbeld. Vandaar dat geldt:
+                 An  2n met A0  1 waarbij n het stapnummer is.
+            Om te bepalen wat het totale aantal getekende vierkantjes tot en met een
+            bepaalde stap n is, kun je een somformule S n gebruiken.
+            Als je de getallen uit de rij b , br , br 2 , br 3 ,…, br n op wilt tellen, geldt de
+                                                                     b(1  r n1 )
+            somformule die hoort bij een exponentieel verband: S n 
+                                                                        1 r
+4p   12     Bereken bij welke stap het totale aantal vierkantjes voor het eerst meer
+            dan 2000 is.
+
+
+
+
+VW-1026-a-19-2-o                                7 / 12                                 lees verder ►►►
+      Welke van de tien?
+
+            In april 2015 zette een tv-presentator uit Singapore een puzzel op het
+            internet die afkomstig was uit een toets voor basisschoolkinderen van een
+            school voor hoogbegaafde kinderen. De puzzel ging vervolgens de hele
+            wereld over, want iedereen vroeg zich af hoe je hem eigenlijk op moest
+            lossen.
+
+            Een variant van die puzzel is de volgende:
+
+            Amir en Bob hebben net Carina leren kennen en ze willen graag weten
+            wanneer ze jarig is. Carina geeft ze een lijst met 10 mogelijke data:
+
+              september             20       21            24
+              oktober               22       23
+              november              19       21
+              december              19       20            22
+
+            Daarna vertelt ze aan Amir in welke maand ze jarig is en aan Bob op
+            welke dag van de maand ze jarig is. Amir zegt vervolgens: “Ik weet niet
+            wanneer Carina jarig is, maar ik weet zeker dat Bob het op dit moment
+            ook niet weet.”
+
+            Bob reageert hierop: “Eerst wist ik inderdaad niet wanneer Carina jarig is,
+            maar dankzij Amirs opmerking weet ik het nu wel”, waarop Amir
+            concludeert: “Oh, maar dan weet ik het nu ook!”
+
+
+            Deze lastige puzzel is op te lossen met behulp van logisch redeneren. We
+            spreken daarvoor de volgende notaties af:
+             A(oktober) betekent ‘Carina heeft tegen Amir gezegd dat ze in de
+               maand oktober jarig is’.
+             B (22) betekent: ‘Carina heeft tegen Bob gezegd dat ze op de 22e
+               jarig is’.
+             C (20 december) betekent ‘Carina is jarig op 20 december’.
+
+            Voor andere dagen en maanden gelden dan vergelijkbare notaties.
+
+            In deze notatie kun je bijvoorbeeld schrijven:
+                   C (20 september)   A(september)  B (20) 
+2p   13     Vertaal bovenstaande logische uitdrukking in een gewone zin.
+
+
+
+
+VW-1026-a-19-2-o                                  8 / 12                      lees verder ►►►
+            Vanzelfsprekend kan Amir nooit weten wanneer Carina jarig is. Voor
+            iedere maand zijn immers meerdere dagen mogelijk. Voor Bob ligt dat
+            anders, maar toch zegt Amir zeker te weten dat Bob ook niet weet
+            wanneer Carina jarig is.
+
+            Hieruit kun je concluderen dat Carina in november of december jarig is.
+3p   14     Leg uit hoe je tot deze conclusie komt.
+
+            Bob weet dus in eerste instantie niet wanneer Carina jarig is. Je kunt alle
+            mogelijkheden die er voor hem zijn, weergeven in de afgesproken notatie.
+            Omdat inmiddels bekend is dat Carina in november of december jarig is,
+            kunnen we ons beperken tot de dagen die in november en december
+            vóórkomen. Het lijstje met data ziet er nu dus als volgt uit:
+
+              november           19      21
+              december           19      20            22
+
+            Voor elk van de dagen 19, 20, 21 en 22 kan, uitgaande van wat Carina
+            tegen Bob gezegd kan hebben, een logische uitdrukking gemaakt worden.
+
+            Door deze vier logische uitdrukkingen te combineren met het gegeven dat
+            Carina in november of december jarig is én het feit dat Bob haar
+            verjaardag weet dankzij dit gegeven, kun je concluderen dat Carina niet
+            op de 19e jarig is.
+
+            Eén van die logische uitdrukkingen is: B (20)  C (20 december)
+
+4p   15     Schrijf voor de andere drie dagen die vóórkomen in de maanden
+            november en december ook zo’n logische uitdrukking op en leg uit hoe je
+            aan de conclusie komt dat Carina niet op de 19e jarig is.
+
+            We weten dus nu twee dingen:
+            1 Carina is in november of in december jarig;
+            2 Carina is niet op de 19e jarig.
+
+            Blijkbaar is dit genoeg informatie voor Amir om erachter te komen
+            wanneer Carina jarig is.
+3p   16     Wanneer is Carina jarig? Licht je antwoord toe met een redenering.
+
+
+
+
+VW-1026-a-19-2-o                              9 / 12                          lees verder ►►►
+      Bodemdaling
+
+            Bodemdaling kan ontstaan door natuurlijke processen maar ook door
+            menselijk handelen. Bij de gaswinning uit het Groningen-gasveld is er
+            sprake van bodemdaling veroorzaakt door menselijk handelen. In deze
+            opgave gaan we uit van de gegevens zoals die tot en met 2017 bekend
+            waren. We nemen verder aan dat ontwikkelingen die tot op dat moment
+            geconstateerd zijn, zich in de periode daarna op dezelfde wijze
+            voortzetten.
+
+            Metingen van deze bodemdaling worden onder andere gedaan door
+            zogeheten GPS-monitoring-stations, die zeer nauwkeurig posities
+            bepalen. Een van deze stations staat boven op een gebouw bij het
+            Eemskanaal. Elk uur wordt de hoogte van de GPS-antenne (ten opzichte
+            van zeeniveau) van dit station gemeten.
+            In figuur 1 zijn alle metingen vanaf 1 januari 2015 om 0:00 uur tot en met
+            31 mei 2017 om 23:00 uur weergegeven. Deze figuur is vergroot op de
+            uitwerkbijlage afgebeeld.
+
+            figuur 1
+                   47,093
+            hoogte 47,092
+             (m) 47,091
+                   47,090
+                   47,089
+                   47,088
+                   47,087
+                   47,086
+                   47,085
+                   47,084
+                   47,083
+                   47,082
+                   47,081
+                   47,080
+                   47,079
+                        0   01-01-15
+                            29-01-15
+                            26-02-15
+                            26-03-15
+                            23-04-15
+                            21-05-15
+                            18-06-15
+                            16-07-15
+                            13-08-15
+                            10-09-15
+                            08-10-15
+                            05-11-15
+                            03-12-15
+                            31-12-15
+                            28-01-16
+                            25-02-16
+                            24-03-16
+                            21-04-16
+                            19-05-16
+                            16-06-16
+                            14-07-16
+                            11-08-16
+                            08-09-16
+                            06-10-16
+                            03-11-16
+                            01-12-16
+                            29-12-16
+                            26-01-17
+                            23-02-17
+                            23-03-17
+                            20-04-17
+                            18-05-17
+                                                                              datum
+
+
+            Het jaar 2016 was een schrikkeljaar.
+2p   17     Bereken om hoeveel metingen het in figuur 1 gaat.
+
+            In figuur 1 is ook de trendlijn van de hoogte van de GPS-antenne
+            weergegeven. Zoals je kunt zien, is de eenheid op de horizontale as vier
+            weken.
+            Als de bodemdaling onveranderd doorgaat, zal de hoogte van de GPS-
+            antenne in de toekomst lager dan 47 meter zijn.
+5p   18     Bereken in welk jaar dat volgens de gegeven trendlijn voor het eerst zal
+            zijn. Gebruik daarbij de figuur op de uitwerkbijlage.
+
+
+
+
+VW-1026-a-19-2-o                            10 / 12                           lees verder ►►►
+            Het gebied waar sprake is van bodemdaling wordt het dalingsgebied
+            genoemd. In het midden van het dalingsgebied, nabij Ten Post, is de
+            bodemdaling het grootst. Tot 2013 was de bodem daar al 32 centimeter
+            gedaald. De bodemdaling is niet overal even groot. Het gebied waar de
+            bodem ten minste 30 centimeter is gedaald, is bij benadering cirkelvormig.
+            Zie figuur 2. In figuur 3 is bovendien de dwarsdoorsnede van de bodem
+            door het laagste punt geschetst. Rondom het laagste punt heeft deze
+            dwarsdoorsnede bij benadering de vorm van de grafiek van een
+            kwadratisch verband, met andere woorden de vorm van een parabool.
+
+figuur 2 bodemdaling in cm                       figuur 3 dwarsdoorsnede bodem
+
+
+
+
+            We nemen nu aan dat het gebied waar de bodem ten minste
+            30 centimeter is gedaald cirkelvormig is. Verder nemen we aan dat de
+            dwarsdoorsnede van de bodem rondom het midden van het dalingsgebied
+            de vorm van een parabool heeft. De top van deze parabool komt overeen
+            met het laagste punt van het dalingsgebied.
+
+            In 2013 was de straal van het cirkelvormige   figuur 4
+            gebied gelijk aan 4 km en in het laagste
+            punt was de bodem dus 32 centimeter                       h
+            gedaald. In figuur 4 is de parabool
+            geschetst bij het model van de
+            dwarsdoorsnede dat bij deze gegevens              −4      O          4       x
+            hoort.                                                   −24
+
+            De parabool bij het model voor 2013 kan                  −26
+            beschreven worden met een formule van de
+                                                                     −28
+            vorm h  ax 2  b . Hierin is x de afstand tot
+            het midden van het dalingsgebied in                      −30
+            kilometers en h is de daling van de bodem
+                                                                     −32
+            in centimeters.
+4p   19     Bepaal de niet-afgeronde waarden van a en b.
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1026-a-19-2-o                           11 / 12                           lees verder ►►►
+            Rondom Ten Post blijft de bodem dalen. Daardoor wordt het
+            dalingsgebied ook groter. Men voorspelt dat het gebied rondom Ten Post
+            tot 2080 flink zal blijven dalen. Ook voor 2080 nemen we aan dat het
+            gebied waar de bodem ten minste 30 centimeter is gedaald bij benadering
+            cirkelvormig is. We nemen ook weer aan dat de dwarsdoorsnede van de
+            bodem rondom het midden van het dalingsgebied de vorm van een
+            parabool heeft waarvan de top overeenkomt met het laagste punt van het
+            dalingsgebied.
+            Voor 2080 wordt de parabool beschreven door de formule
+             h  0,084 x 2  47 . Hierin is x weer de afstand tot het midden van het
+            dalingsgebied in kilometers en h is weer de daling van de bodem in
+            centimeters.
+
+            Volgens de voorspellingen zal de oppervlakte van het gebied met een
+            daling van ten minste 30 cm in 2080 een stuk groter zijn dan in 2013.
+5p   20     Bereken hoeveel keer zo groot. Geef je antwoord als geheel getal.
+
+            Als gevolg van de bodemdaling vinden er in Groningen en omgeving
+            aardbevingen plaats. In de tabel zie je hoe snel de aardbevingen elkaar in
+            het jaar 1993 opvolgden.
+
+            tabel
+              aardbevingen in 1993 (chronologisch)
+
+              aantal dagen sinds
+                                 63 21 7 14 40 9 44 0 13 17 27 12 18 3 59 29
+              de vorige beving
+
+
+            Voorbeeld: de 0 in de tabel geeft aan dat de 7e en 8e aardbeving in 1993
+            op dezelfde dag plaatsvonden.
+
+            Op basis van de tabel en de afzonderlijke lengtes van de
+            kalendermaanden kunnen de volgende conclusies worden getrokken:
+             De tweede en vierde aardbeving in 1993 kunnen in één
+                kalendermaand plaatsgevonden hebben.
+             De eerste aardbeving in 1993 werd voorafgegaan door minstens één
+                aardbevingsvrije kalendermaand.
+4p   21     Geef voor beide conclusies een sluitende redenering.
+
+
+
+
+VW-1026-a-19-2-o                           12 / 12                           lees verdereinde
+                                                                                          ►►► 
+

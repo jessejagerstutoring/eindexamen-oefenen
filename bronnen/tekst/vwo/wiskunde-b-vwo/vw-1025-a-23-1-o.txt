@@ -1,0 +1,321 @@
+                                                                 Examen VWO
+
+                                                                     2023
+                                                                            tijdvak 1
+                                                                  donderdag 11 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+ Dit examen bestaat uit 19 vragen.
+ Voor dit examen zijn maximaal 76 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-23-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t )cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-23-1-o                                        2 / 10                        lees verder ►►►
+      Een gebroken functie
+
+                                                                         1
+            De functie f wordt voor x  0 gegeven door f ( x )  2 x      .
+                                                                         x
+            De functie f heeft een minimum.
+3p    1     Bereken exact dit minimum.
+
+            Lijn k is de scheve asymptoot van de grafiek van f.
+            Het vlakdeel V wordt ingesloten door de grafiek van f, lijn k en de lijnen
+            met vergelijking x  a en x  2 a met a  0 . In de figuur is dit vlakdeel
+            voor een zekere waarde van a grijsgemaakt.
+
+            figuur
+
+
+
+
+            De oppervlakte van dit vlakdeel is onafhankelijk van de waarde van a.
+5p    2     Bewijs dit.
+
+            Verder is gegeven de lijn met vergelijking y  3 . Deze lijn en de grafiek
+            van f sluiten een vlakdeel W in dat wordt gewenteld om de lijn met
+            vergelijking y  3 .
+4p    3     Bereken de inhoud van het omwentelingslichaam dat zo ontstaat. Geef je
+            eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-23-1-o                             3 / 10                            lees verder ►►►
+      Buigen van metalen platen
+
+            In de werktuigbouw moeten vaak metalen platen in een bepaalde hoek
+            worden gebogen. Een van de technieken die daarbij worden gebruikt is
+            vrijbuigen. Daarbij ligt de metalen plaat op een matrijs met een bepaalde
+            vorm. Hierna wordt een stempel met kracht op de plaat gedrukt, zodat
+            deze de gewenste vorm krijgt. In figuur 1 is dit in een vooraanzicht
+            weergegeven. In figuur 2 zie je een voorbeeld van een metalen plaat na
+            het buigen.
+
+            figuur 1                                      figuur 2
+
+
+
+
+            Tijdens het vrijbuigen treedt vervorming op: aan de buitenkant rekt het
+            metaal iets op en aan de binnenkant wordt het samengedrukt. In het
+            inwendige van de metalen plaat bevindt zich de neutrale lijn: de lengte
+            hiervan blijft gelijk na vervorming. In deze opgave nemen we aan dat de
+            dikte van de plaat bij het buigen gelijk blijft.
+            In figuur 3 is het vooraanzicht van een metalen plaat met een dikte van
+            d mm zowel vóór als na het buigen weergegeven. Wanneer de plaat wordt
+            gebogen over een hoek van 45°, verandert rechthoek ABCD in de vorm
+             A'B'C'D' . Hierbij is boog C'D' de boog van een cirkel met middelpunt M
+            en straal 2d en A'B' de boog van een cirkel met middelpunt M en straal
+            3d. De neutrale lijn P'Q' is een cirkelboog op een afstand van 0,4d van
+            boog C'D' . Verder geldt dat de lengte van de neutrale lijn gelijk blijft, dus
+            de lengte van boog P'Q' is gelijk aan de lengte van PQ.
+
+            figuur 3
+
+
+
+
+5p    4     Bereken algebraïsch hoeveel procent de oppervlakte van vlakdeel
+            A'B'C'D' groter is dan de oppervlakte van vlakdeel ABCD. Geef je
+            eindantwoord als geheel getal.
+
+
+
+VW-1025-a-23-1-o                             4 / 10                             lees verder ►►►
+            De kracht die uitgeoefend moet worden op een metalen plaat om deze te
+            buigen, hangt af van het soort metaal, de dikte van het metaal en de
+            breedte van de opening van de matrijs. De formule om deze kracht uit te
+            rekenen luidt:
+                        R  d 2  4d 
+                   F           1                          (formule 1)
+                         V          V 
+            Hierbij is:
+             F de benodigde kracht (in kN/m);
+             R een constante die afhangt van het soort metaal;
+             d de dikte van het metaal (in mm);
+             V de breedte van de opening van de matrijs (in mm).
+
+            Voor het buigen van een metalen plaat met een dikte van 10 mm op een
+            matrijs met een opening van 200 mm is een kracht van 420 kN/m nodig.
+            Als je deze metalen plaat zou buigen op een matrijs met een opening van
+            100 mm is meer kracht nodig.
+3p    5     Bereken algebraïsch hoeveel kracht er nodig is om deze metalen plaat te
+            buigen op een matrijs met een opening van 100 mm breed. Geef je
+            eindantwoord als een geheel getal.
+
+            Om bij een gegeven plaatdikte de breedte van de opening van de matrijs
+            te berekenen, wordt de volgende formule gebruikt:
+                   V  d 1,75                                 (formule 2)
+            Door formule 1 en formule 2 te combineren krijg je een formule die de
+            benodigde kracht F uitdrukt in R en d.
+
+            Er is een plaatdikte d waarbij de benodigde kracht F minimaal is.
+4p    6     Bereken exact deze waarde van d.
+
+
+
+
+VW-1025-a-23-1-o                            5 / 10                              lees verder ►►►
+      Gedraaide parabool
+
+
+            De bewegingsvergelijkingen van een punt P worden gegeven door:
+                    xP (t )  2t
+                                   2
+                     yP (t )  2t
+                                                          
+            Punt M is het midden van lijnstuk OP. Vector MP wordt  rechtsom
+                                                                       
+            geroteerd om M over 90. Zo ontstaat de beeldvector MQ .
+            In figuur 1 is voor een waarde van t de situatie weergegeven.
+                                                         figuur 1
+            Tijdens de beweging van P beschrijft ook
+            het punt Q een baan. In figuur 1 is deze
+            baan gestippeld weergegeven.
+
+            De bewegingsvergelijkingen van Q
+            worden gegeven door:
+                    xQ (t )  t  t 2
+                   
+                                2
+                    yQ (t )  t  t
+
+
+3p    7     Bewijs dat dit inderdaad de bewegingsvergelijkingen van Q zijn.
+
+                                                                            2
+            De snelheid waarmee P beweegt, is gegeven door 4  16t .
+            Voor elke waarde van t is deze snelheid een factor c keer zo groot als de
+            snelheid van Q.
+3p    8     Bereken exact de waarde van c.
+
+            Voor elke waarde van t wordt de lengte L van lijnstuk PQ bepaald.
+            Er geldt:
+                       L  t  2t 2  2
+                                                                 figuur 2
+3p    9     Bewijs dit.
+
+            In figuur 2 is de grafiek van L weergegeven.
+            In de oorsprong, bij t  0 , zien we een knik.
+            Als t vanaf links of vanaf rechts tot 0 nadert,
+            nadert de waarde van L in beide situaties ook
+            tot 0. De helling van de grafiek van L nadert
+            echter niet in beide situaties tot dezelfde
+            waarde.
+4p   10     Bereken exact tot welke waarde de helling van
+            de grafiek van L nadert als t vanaf links tot 0
+            nadert.
+
+
+VW-1025-a-23-1-o                            6 / 10                              lees verder ►►►
+      Absolute sinus
+
+                                                              1
+            De functie f wordt gegeven door f ( x)  sin( x)  2 3 .
+            In de figuur is de grafiek van f als doorgetrokken lijn weergegeven.
+
+            figuur
+
+
+
+
+            In de figuur zijn de toppen A en B van de grafiek van f aangegeven.
+            A en B zijn de toppen die horen bij de eerste twee maxima van f rechts
+            van de y-as.
+
+            Er bestaat een sinusoïde die gegeven wordt door g ( x )  a  b sin( x) ,
+            waarvan twee opeenvolgende toppen samenvallen met de punten A en B.
+            De grafiek van g is in de figuur gestippeld weergegeven.
+3p   11     Bereken exact de waarde van a en b.
+
+            De grafiek van f en de x-as sluiten twee soorten vlakdelen in: kleine
+            vlakdelen en grote vlakdelen. In de figuur is een van de kleine vlakdelen
+            grijsgemaakt.
+5p   12     Bereken exact de oppervlakte van een klein vlakdeel.
+
+
+
+
+VW-1025-a-23-1-o                            7 / 10                            lees verder ►►►
+      Logaritmische functies
+
+            De functie f wordt gegeven door:                  figuur 1
+                   f ( x)  ln( x)
+            De functie g wordt gegeven door:
+
+                   g ( x)  1  e2  1  ln( x) 
+            In figuur 1 zijn de grafieken van f en g
+            weergegeven. De raaklijnen aan de
+            grafieken van f en g snijden elkaar
+            loodrecht in het snijpunt.
+6p   13     Bewijs dit.
+
+            In figuur 2 zijn de grafieken van f en            figuur 2
+            g opnieuw weergegeven.
+            Ook is voor een waarde van q de lijn
+            met vergelijking y  q weergegeven.
+            Deze lijn snijdt de grafiek van g in
+            punt A en de grafiek van f in punt B,
+            waarbij punt A links van punt B ligt.
+
+            Er geldt dat AB  3 .
+4p   14     Bereken de bijbehorende waarde
+            van q. Geef je eindantwoord in één
+            decimaal.
+
+
+
+
+VW-1025-a-23-1-o                                     8 / 10              lees verder ►►►
+      Bissectrice in een rechthoek
+
+            Gegeven is rechthoek OABC met O  0, 0  , A  8, 0  en C  0, 4  .
+            De punten F en E zijn de middens van respectievelijk OA en BC. Op de
+            negatieve y-as ligt punt P  0, p  . Punt D is het snijpunt van het verlengde
+            van lijnstuk PF en lijnstuk AC. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De lijn door E en F is de bissectrice van hoek PED.
+
+5p   15     Bewijs dit voor het geval p  2 .
+
+            M  4, 2  is het snijpunt van AC en EF. Cirkel c heeft middelpunt M en gaat
+            door D. Afhankelijk van de positie van punt P (en dus van de waarde van
+            p) is de cirkel groter of kleiner. Er is precies één waarde van p waarvoor
+            cirkel c raakt aan OA en BC. In figuur 2 is deze situatie weergegeven.
+
+            figuur 2
+
+
+
+
+6p   16     Bereken exact deze waarde van p.
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+VW-1025-a-23-1-o                                9 / 10                              lees verder ►►►
+      Exponentiële breuk
+
+                                                                        1
+            De functie f wordt gegeven door f ( x)                    x
+                                                                           .
+                                                                      e 1
+
+            De grafiek van f heeft twee horizontale asymptoten.
+3p   17     Bereken exact de afstand tussen deze twee horizontale asymptoten.
+
+            Een primitieve van f is F ( x )  x  ln e x  1 .         
+3p   18     Bewijs dit.
+
+            Lijn k heeft vergelijking x  a , met a  0 .
+            De grafiek van f , de x-as, de y-as en lijn k sluiten een vlakdeel in. De
+            oppervlakte van dit vlakdeel is voor elke waarde van a kleiner dan ln  2  .
+4p   19     Bewijs dit.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-23-1-o                                         10 / 10                                          lees verdereinde
+                                                                                                                       ►►► 
+

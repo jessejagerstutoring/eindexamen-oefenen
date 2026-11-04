@@ -1,0 +1,713 @@
+                                                   Correctievoorschrift HAVO
+
+                                                                           2021
+                                                                                   tijdvak 2
+
+
+
+
+                                                                          wiskunde B
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+HA-1025-a-21-2-c                              1                               lees verder ►►►
+      3     De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+            beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+            gegeven door het College voor Toetsen en Examens.
+            De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+            verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+            gezag van de gecommitteerde.
+      4     De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+            aantal scorepunten voor het centraal examen vast.
+      5     Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+            komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+            gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+            gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+            hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+            onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+            in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+HA-1025-a-21-2-c                               2                                lees verder ►►►
+            3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                 gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                 formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+            3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                 staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+            3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                 zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                 vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                 toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                 onjuistheid gemoeid zijn.
+      4     Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+            juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+            onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+            worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+            beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+            antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+            gegeven is, worden eveneens geen scorepunten toegekend.
+      5     Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+            tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+            beoordelingsmodel anders is vermeld.
+      6     Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+            worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7     Indien de examinator of de gecommitteerde meent dat in een examen of in het
+            beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+            werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+            fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+            Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+            eventuele fout wordt bij de definitieve normering van het examen rekening
+            gehouden.
+      8     Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+            antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9     Het cijfer voor het centraal examen wordt als volgt verkregen.
+            Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+            wordt meegedeeld aan de directeur.
+            De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+            voor omzetting van score naar cijfer.
+
+   NB1      T.a.v. de status van het correctievoorschrift:
+            Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+            vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+            voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+            De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+HA-1025-a-21-2-c                                 3                                  lees verder ►►►
+   NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+            Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+            behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+            standaardformulier voorgeschreven voor de vermelding van de scores van de
+            kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+            verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+            of in gezamenlijk overleg keuzes maken.
+
+   NB3      T.a.v. aanvullingen op het correctievoorschrift:
+            Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+            en een fout.
+            Verduidelijking
+            Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+            antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+            Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+            voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+            Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+            Een fout
+            Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+            fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+            Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+            Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+            spoedig mogelijk verstuurd aan de examensecretarissen.
+            Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+            gevallen vermeldt de aanvulling:
+
+            –      Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+            –      Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+            Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+            moeten worden toegekend.
+
+            Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+            aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+            houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+            rekening met de onvolkomenheid.
+
+
+
+
+HA-1025-a-21-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout of verschrijving in de berekening wordt 1 scorepunt in mindering
+         gebracht tot het maximum van het aantal scorepunten dat voor dat deel van die
+         vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij de vragen waarbij de kandidaten de grafische
+         rekenmachine gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      3b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+
+
+
+
+HA-1025-a-21-2-c                              5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag       Antwoord                                                                         Scores
+
+
+
+      Rakende grafieken
+
+      1      maximumscore 4
+             •     f (0)  1 (dus B(0, 1) )                                                     1
+                                       1                                 1
+             •     f ( x)  0 geeft           2  0 en dus   3x  1                             1
+                                      3x  1                             2
+             •     Dit geeft x   14 (dus A(  14 , 0) )                                         1
+
+             •     AB  ( 14 )2  12  14 17 (of een gelijkwaardige uitdrukking)                  1
+
+
+      2      maximumscore 3
+             •     f (0,81)  1, 46...                                                           1
+                                          2
+             •     1, 46...  2  (0,81)  3  0,81  p                                         1
+             •     (Dit geeft p  2,57... dus) het eindantwoord: 2, 6                           1
+
+      3      maximumscore 6
+                                         3
+             •     f ' ( x)                      (of een gelijkwaardige uitdrukking)            2
+                                2(3x  1) 3x  1
+             •     g' ( x)  4 x  3                                                             1
+                                                                3
+             •     f ' ( x)  g' ( x) (dus 4 x  3                    )                        1
+                                                        2(3x  1) 3x  1
+             •     Beschrijven hoe deze vergelijking opgelost kan worden                          1
+             •     Dit levert xC  0,809                                                          1
+
+             Opmerking
+             Voor het eerste antwoordelement mogen uitsluitend 0 of 2 scorepunten
+             worden toegekend.
+
+
+
+
+HA-1025-a-21-2-c                                       6                                 lees verder ►►►
+  Vraag       Antwoord                                                                                    Scores
+
+
+      Stedelijke gebieden
+
+      4      maximumscore 3
+             •     Er geldt (log  N  ) log 1 000 000   6                                               1
+             •     Uit de grafiek aflezen: log W   3, 6                                                   1
+             •     Het eindantwoord: ( W  103,6  3981,0... dus) 4000 (mijl)                                1
+
+             Opmerking
+             Bij het aflezen van log W  is een marge van 0,1 toegestaan.
+
+      5      maximumscore 4
+             •     Er geldt log  650   a  log 100 000   b en
+                   log  31 000   a  log 10 000 000   b                                                1
+             •     Bijvoorbeeld b  log  650   a  log 100 000  en
+                   b  log  31 000   a  log 10 000 000                                                 1
+             •     De vergelijking
+                   log  650   a  log 100 000   log  31 000   a  log 10 000 000  moet
+                   worden opgelost                                                                           1
+             •     Dit geeft a  0,84 en dan is b  1,38                                                    1
+
+             of
+                         log W 
+             •     a                                                                                        1
+                         log  N 
+                             log  31 000   log  650 
+             •     a                                                                                        1
+                        log 10 000 000   log 100 000 
+             •     Dan is (bijvoorbeeld)
+                                          log  31 000   log  650 
+                   b  log  650                                       log 100 000                      1
+                                     log 10 000 000   log 100 000 
+             •     Dit geeft a  0,84 en b  1,38                                                           1
+
+             of
+                            log(650)  a  log(100 000)  b
+             •     Er geldt                                                                                 1
+                            log(31 000)  a  log(10 000 000)  b
+             •     Beschrijven hoe dit stelsel kan worden opgelost                                           2
+             •     Hieruit volgt a  0,84 en b  1,38                                                       1
+
+             Opmerking
+             In het derde antwoordalternatief mogen voor het tweede antwoordelement
+             0, 1 of 2 scorepunten worden toegekend.
+
+
+
+
+HA-1025-a-21-2-c                                          7                                         lees verder ►►►
+  Vraag       Antwoord                                                                           Scores
+
+
+      6      maximumscore 3
+                                                              5
+             •     Als N twee keer zo groot is, is W 2 6 keer zo groot                              1
+                     5
+             •     2 6  1, 781...                                                                  1
+             •     Dus (de lengte van het wegennet van gebied B is) (ongeveer) 78%
+                   (groter) (dan de lengte van het wegennet van gebied A)                           1
+
+             Opmerking
+             Als een kandidaat met behulp van een getallenvoorbeeld rekent, hiervoor
+             geen scorepunten in mindering brengen.
+
+      7      maximumscore 4
+                             N
+             •     D              5                                                                1
+                        0, 043  N 6
+                                                          1               1
+             •     Dit is te schrijven als D  0,043
+                                                 1  N 6 (  23, 2...  N 6 )                       1
+                   dD 1 1
+                        6  0,043  N  6 (  3,87...  N  6 )
+                                         5                   5
+             •                                                                                      1
+                   dN
+                   dD                                            dD
+             •         is altijd groter dan 0 (of de grafiek van    ligt altijd boven de
+                   dN                                            dN
+                   N-as) (dus de grafiek van D is stijgend)                                         1
+
+
+
+
+HA-1025-a-21-2-c                                         8                                 lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      Rechthoek om cirkels
+
+      8      maximumscore 5
+             •     (De y-coördinaat van M1 is 3 en de straal van c1 is 3, dus) yC  yD  6       1
+             •     (De straal van c2 is 2, dus) de y-coördinaat van M 2 is yC  2  4            1
+             •     M 1M 2  ( 3  2  ) 5                                                        1
+             •     Voor de x-coördinaat van M 2 geldt 52  x 2  12                              1
+             •     Hieruit volgt x  24 (  2 6 ) (en de coördinaten van M 2 zijn dus
+                   (2 6, 4) )                                                                    1
+
+      9      maximumscore 3
+                                 M2N
+             •     sin                                                                       1
+                                 M 2M3
+             •     r  M 2 N  2 , dus M 2 N  2  r                                             1
+                                                    2r
+             •     M 2 M 3  2  r (dus sin         )                                        1
+                                                    r2
+
+
+
+
+HA-1025-a-21-2-c                                       9                                lees verder ►►►
+  Vraag       Antwoord                                                                            Scores
+
+
+      Exoten en rodelijstsoorten
+
+      10     maximumscore 4
+             •     De groeifactor over de periode 1910-1950 is 46
+                                                               22
+                                                                                                     1
+
+                   Dus de groeifactor per 10 jaar is  46
+                                                       22 
+                                                              1
+
+             •
+                                                              4
+                                                                                                     1
+
+                    4622   1, 2024...
+                        1
+                        4
+             •                                                                                       1
+             •     Het gevraagde percentage is 20,2(%)                                               1
+             of
+             •     De vergelijking 22  g 4  46 moet worden opgelost                                1
+             •     Beschrijven hoe deze vergelijking opgelost kan worden                             1
+             •     Hieruit volgt g  1, 2024...                                                      1
+             •     Het gevraagde percentage is 20,2(%)                                               1
+
+      11     maximumscore 4
+             •     De vergelijking 1, 20t  2 (met t in tientallen jaren) moet worden
+                   opgelost                                                                          1
+             •     Beschrijven hoe deze vergelijking opgelost kan worden                             1
+             •     Hieruit volgt t  3,80...                                                         1
+             •     Het aantal exoten is voor het eerst verdubbeld na 39 jaar                         1
+             of
+
+                   Voor de groeifactor per jaar g geldt g  1, 20  10 waaruit volgt dat
+                                                                     1
+             •
+                   g  1,018...                                                                      1
+             •     De vergelijking 1,018...t  2 (met t in jaren) moet worden opgelost               1
+             •     Beschrijven hoe deze vergelijking opgelost kan worden                             1
+             •     Hieruit volgt t  38, 0... dus het aantal exoten is voor het eerst
+                   verdubbeld na 39 jaar                                                             1
+
+             Opmerkingen
+              Het eindantwoord 38 jaar ook goed rekenen.
+              Als een kandidaat met een nauwkeuriger waarde van de groeifactor per
+                tien jaar werkt, hiervoor geen scorepunten in mindering brengen.
+
+
+
+
+HA-1025-a-21-2-c                                      10                                    lees verder ►►►
+  Vraag       Antwoord                                                                              Scores
+
+
+      12     maximumscore 5
+             •     Aflezen van het percentage voor 2004 geeft 89%                                      1
+             •     Dit geeft voor 1997 het aantal van 780 rodelijstsoorten                             1
+                                                                               0,11 780
+             •     Hieruit volgt in het lineaire verband een afname van (                )
+                                                                                   7
+                   12,25… soorten per jaar                                                             1
+             •     Dit geeft voor 2020 het aantal van
+                   ( 780  23 12, 25...  498, 0... dus) 498 rodelijstsoorten                         1
+             •     Het gevraagde verschil is 551  498  53                                            1
+             of
+             •     Aflezen van het percentage voor 2004 geeft 89%                                      1
+             •     Dit geeft voor 1997 het aantal van 780 rodelijstsoorten                             1
+                                                     23
+             •     11% daling in 7 jaar geeft ( 11      ) 36,14…% daling in 23 jaar                  1
+                                                     7
+             •     Dit geeft voor 2020 het aantal van ( 0,6385...  780  498,0... dus) 498
+                   rodelijstsoorten                                                                    1
+             •     Het gevraagde verschil is 551  498  53                                            1
+             of
+             •     Aflezen van het percentage voor 2004 geeft 89%                                      1
+             •     Dit geeft voor 1997 het aantal van 780 rodelijstsoorten                             1
+                                                                             780  694
+             •     Hieruit volgt in het lineaire verband een afname van (                )
+                                                                                 7
+                   12,28… soorten per jaar                                                             1
+             •     Dit geeft voor 2020 het aantal van ( 780  23 12, 28...  497, 4... dus) 497
+                   rodelijstsoorten                                                                    1
+             •     Het gevraagde verschil is 551  497  54                                            1
+             of
+
+
+
+
+HA-1025-a-21-2-c                                      11                                      lees verder ►►►
+  Vraag       Antwoord                                                                                Scores
+
+
+             •     Aflezen van het percentage in (bijvoorbeeld) 2014 geeft
+                     7, 2
+                   (      100% ) 72%                                                                   1
+                     10
+             •     Hieruit volgt in het lineaire verband een afname van
+                    100  72
+                   (          ) 1, 64...% per jaar                                                      1
+                        17
+             •     Dit geeft voor 2004 en 2020 een percentage van
+                   (100  7 1, 64... ) 88, 47... respectievelijk (72  6 1, 64... ) 62,11...         1
+                                                             62,11...
+             •     Dit geeft voor 2020 het aantal van (                 694  487, 2... dus) 487
+                                                             88, 47...
+                   rodelijstsoorten                                                                      1
+             •     Het gevraagde verschil is 551  487  64                                              1
+
+             Opmerking
+             Bij het aflezen van de percentages is een marge van 2 procentpunten
+             toegestaan.
+
+
+
+
+HA-1025-a-21-2-c                                        12                                      lees verder ►►►
+  Vraag       Antwoord                                                                           Scores
+
+
+      Drie snijpunten
+
+      13     maximumscore 4
+             •     De x-coördinaat van het ‘beginpunt’ is 23                                       1
+             •     De periode van f is                                                            1
+             •     Het eerste minimum is een kwart periode eerder dus de x-coördinaat
+                   van P is 23   12   16                                                       1
+             •     De bijbehorende y-coördinaat is  1  2    3                                 1
+
+             of
+             •                                                     
+                   Uit 1  2sin  x  23    3 volgt sin x  23   1                          1
+             •     x  23    12   k  2                                                       1
+             •     x   16   k  2 dus de x-coördinaat van P is 16                             1
+             •     De bijbehorende y-coördinaat is  1  2    3                                 1
+
+             of
+             •     De coördinaten van een top van y  sin( x) zijn   12 π,  1                   1
+             •     Verschuiving van 23  naar rechts levert de coördinaten  16 π,  1 (van
+                   een top van y  sin  x  23 π  )                                               1
+             •     Vermenigvuldiging ten opzichte van de x-as met factor 2 levert de
+                   coördinaten  16 π,  2  (van een top van y  2sin  x  23 π  )               1
+             •     Verschuiving van 1 naar beneden levert de coördinaten  16 π,  3 van P,
+                   (top van y  1  2sin  x  23 π  )                                            1
+
+
+
+
+HA-1025-a-21-2-c                                           13                              lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      14     maximumscore 5
+             •                                               
+                   Uit 1  2sin x  23   0 volgt sin x  23   12                            1
+             •     Dit geeft x  23   16   k  2 of x  23   56   k  2                 1
+             •     Hieruit volgt x  56   k  2 of x  96   k  2                           1
+             •     De x-coördinaten van A, B en C zijn achtereenvolgens 56  , 96  en 2 56      1
+                                             25  9 
+             •     De gevraagde factor is a  96 56  2                                           1
+                                              6
+                                                 6 
+
+             of
+             •                                               
+                   Uit 1  2sin x  23   0 volgt sin x  23   12                            1
+             •     Dit geeft voor de x-coördinaat van A: x  23   16  dus x  56              1
+             •     Voor de x-coördinaat van de top tussen A en B geldt: x  xP    16   
+                   dus de x-coördinaat van B is 1 16   62   1 12                             1
+             •     De periode van f is  dus de x-coördinaat van C is 2 56                      1
+                                                    2 56   1 12 
+             •     De gevraagde factor is a          9  5 
+                                                                      2                          1
+                                                      6    6
+
+
+
+
+HA-1025-a-21-2-c                                            14                           lees verder ►►►
+  Vraag       Antwoord                                                                                         Scores
+
+
+      Functie met log
+
+      15     maximumscore 3
+             •     Een verticale asymptoot treedt op als 2 x 2  3 x  0                                          1
+             •     x(2 x  3)  0                                                                                 1
+             •     x  0 of x   32 (  1 12 ) dus de x-coördinaat van S is  32 (   1 12 )                   1
+
+
+      16     maximumscore 5
+                                  2                      2
+             •     Uit 4 log  2           0 volgt     2
+                                                                 1                                               1
+                              2 x  3x              2 x  3x
+             •     Hieruit volgt 2 x 2  3 x  2 dus 2 x 2  3 x  2  0                                          1
+             •     Dit geeft (2 x  1)( x  2)  0 (of het gebruik van de abc-formule)                            1
+             •     x  12 of x   2                                                                              1
+             •     Het eindantwoord: A(  2, 0) en B ( 12 ,0)                                                     1
+
+
+      17     maximumscore 3
+                   4          2                        4        4       2
+             •       log  2         is te schrijven als log(2)  log(2 x  3x) (of
+                          2 x  3x 
+                   1  log(2 x 2  3 x ) )
+                       4
+                                                                                                                  1
+                   2
+
+                   Dit is te schrijven als 4 log(4 )  4 log( x(2 x  3))
+                                                       1
+             •                                         2
+                                                                                                                  1
+                                                   4            4
+             •     Dit is te schrijven als 12  ( log( x)  log(2 x  3)) en dit is te schrijven
+                   als 12  4 log( x)  4 log(2 x  3) (dus f ( x)  12  4 log( x)  4 log(2 x  3) )            1
+
+
+             Opmerking
+             Als een kandidaat uitgaat van de tweede gegeven formule en daarmee de
+             juistheid van de eerste formule aantoont, dit ook goed rekenen.
+
+
+
+
+HA-1025-a-21-2-c                                           15                                            lees verder ►►►
+  Vraag       Antwoord                                                                                       Scores
+
+
+      In de schijnwerper
+
+      18     maximumscore 3
+                                r
+             •     tan(25 )     met r de straal van de cirkelvormige lichtvlek                                1
+                             300
+             •     r  139,89...                                                                                1
+                                                              2
+             •     Het eindantwoord: (  (139,89...)  61 480,5... dus) 61 481 (cm )              2
+                                                                                                                1
+
+      19     maximumscore 3
+             •     VSQ  50   en dus ( PQS  ) 180   90    50      40                         1
+             •     Gebruik van de sinusregel (in driehoek PSQ) geeft
+                         SP            500
+                                                                                                               1
+                   sin  40    sin  50 
+                                       500
+             •     Dit geeft SP                  sin  40     (  653  sin  40     )                1
+                                    sin  50  
+
+      20     maximumscore 4
+                                          300
+             •     De vergelijking                  653  sin  40    moet worden opgelost                 1
+                                         cos   
+             •     Beschrijven hoe deze vergelijking opgelost kan worden                                        1
+             •                                                                                        1
+             •     Het eindantwoord: (    25   36,9... dus) 37°                                     1
+
+
+
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 28 juni te accorderen.
+
+      Ook na 28 juni kunt u nog tot en met 1 juli gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+
+
+
+HA-1025-a-21-2-c                                              16                                       lees verder ►►►
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+      6 Bronvermeldingen
+
+      In de schijnwerper
+      foto            bron: Shutterstock - ID 88188496 - fotograaf SkillUp
+
+
+
+
+HA-1025-a-21-2-c                                      17                         lees verdereinde
+                                                                                              ►►► 
+ aanvulling op het correctievoorschrift                                              2021-2
+
+wiskunde B havo
+
+Centraal examen havo
+
+Tijdvak 2
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor havo,
+
+Bij het centraal examen wiskunde B havo:
+
+
+Op pagina 15, bij vraag 15, moet
+
+•    Een verticale asymptoot treedt op als 2 x 2  3 x  0                            1
+•    x(2 x  3)  0                                                                   1
+•    x  0 of x   32 (   1 12 ) dus de x-coördinaat van S is  32 (   1 12 )    1
+
+
+vervangen worden door:
+
+•    Een verticale asymptoot treedt op als 2 x 2  3x  0                             1
+•    x(2 x  3)  0                                                                   1
+•    ( x  0 of x   32 dus) de x-coördinaat van S is  32 ( 1 12 )                1
+
+
+
+Ik verzoek u dit bericht door te geven aan de correctoren wiskunde B havo.
+
+Namens het College voor Toetsen en Examens,
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+HA-1025-a-21-2-c-A
+

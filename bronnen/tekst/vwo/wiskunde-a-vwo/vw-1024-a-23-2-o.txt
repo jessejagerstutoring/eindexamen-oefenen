@@ -1,0 +1,458 @@
+                                                                 Examen VWO
+
+                                                                     2023
+                                                                            tijdvak 2
+                                                                     tijdsduur: 3 uur
+
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-23-2-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+             naam van de regel                 functie                         afgeleide
+
+              somregel                          s( x)  f ( x)  g ( x)        s' ( x)  f ' ( x)  g' ( x)
+
+              verschilregel                     v( x)  f ( x)  g ( x)        v' ( x)  f ' ( x)  g' ( x)
+
+              productregel                      p ( x)  f ( x)  g ( x)        p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                            f ( x)                         f ' ( x)  g ( x)  f ( x)  g' ( x)
+              quotiëntregel                     q( x)                         q' ( x) 
+                                                            g ( x)                                      ( g ( x))2
+                                                                               k' ( x)  f ' ( g ( x))  g' ( x) of
+              kettingregel                      k ( x )  f ( g ( x ))         dk df dg
+                                                                                         
+                                                                               d x dg d x
+
+
+            Logaritmen
+             regel                                                       voorwaarde
+              g
+                   log  a   g log  b   g log  ab                 g > 0, g  1, a > 0, b > 0
+
+                                                   a
+              g
+                   log  a   g log  b   g log                     g > 0, g  1, a > 0, b > 0
+                                                   b
+              g
+                        
+                   log a p  p  g log  a                              g > 0, g  1, a > 0
+                               p
+                                   log  a 
+              g
+                   log  a   p                                         g > 0, g  1, a > 0, p > 0, p  1
+                                   log  g 
+
+
+
+
+VW-1024-a-23-2-o                                             2 / 13                                            lees verder ►►►
+       Herbouwkosten in Amsterdam
+
+            De herbouwkosten zijn de kosten waarvoor een woning na afbraak
+            opnieuw gebouwd kan worden. De herbouwkosten zijn voornamelijk
+            afhankelijk van het vloeroppervlak, dat is het totale oppervlak van alle
+            verdiepingen met een stahoogte van ten minste 1,5 meter.
+
+            De gemeente Amsterdam gebruikt voor verschillende woningtypen
+            verschillende rekenmodellen om de herbouwkosten te berekenen1).
+
+            twee-onder-een-kapwoningen
+            Voor twee-onder-een-kapwoningen hanteert Amsterdam het volgende
+            lineaire model:
+                     H twee  5,63V  2366,67 met 30  V  250
+            Hierin zijn H twee de herbouwkosten voor een twee-onder-een-kapwoning
+            in euro’s per m2 vloeroppervlak en is V het vloeroppervlak van de woning
+            in m2.
+
+2p     1    Toon aan dat de herbouwkosten van een twee-onder-een-kap-woning met
+            een vloeroppervlak van 180 m2 (afgerond) 243 600 euro zijn.
+
+            portiekflats
+            Voor portiekflats met 30  V  180 wordt ook een lineair model voor de
+            herbouwkosten per m2 vloeroppervlak ( H portiek ) gehanteerd. Dit model is
+            gebaseerd op de volgende gegevens:
+
+            V (in m2)                         50          90
+            H portiek (in euro’s per m2)     2429        2080
+
+
+5p     2    Bereken met behulp van deze gegevens de maximale herbouwkosten
+            voor een portiekflat met 30  V  180 . Geef je antwoord in honderden
+            euro’s.
+
+
+
+     noot 1 In deze opgave wordt uitgegaan van de regels die in 2017 in Amsterdam golden.
+
+
+
+
+VW-1024-a-23-2-o                                3 / 13                                lees verder ►►►
+            hoekwoningen
+            Voor hoekwoningen bestaan de herbouwkosten per m2 vloeroppervlak uit
+            een vast bedrag van 1375 euro, met daarbovenop een variabel bedrag dat
+            exponentieel afneemt naarmate het vloeroppervlak groter wordt. Zie de
+            figuur.
+
+            figuur
+
+
+
+
+            De formule die wordt gebruikt is van de vorm H hoek  b  g V  1375 met
+             30  V  250 .
+
+            Op de grafiek in de figuur liggen de punten (30, 3480) en (250, 1387).
+4p    3     Bereken de waarden van b en g die uit deze gegevens volgen. Geef de
+            waarde van b in gehelen en de waarde van g in vier decimalen.
+
+            In de regelgeving hanteert men ook de volgende (nauwkeuriger) formule
+            voor hoekwoningen:
+
+                     H hoek  e0,02359V 8,36  1375 met 30  V  250
+            Hierin zijn H hoek de herbouwkosten voor een hoekwoning in euro’s per m2
+            vloeroppervlak en is V het vloeroppervlak van de woning in m2.
+
+            De herbouwkosten van een hoekwoning zijn soms lager dan die van een
+            twee-onder-een-kapwoning met hetzelfde vloeroppervlak.
+4p    4     Bereken voor welke vloeroppervlakken in gehele m 2 dit het geval is.
+
+
+
+
+VW-1024-a-23-2-o                               4 / 13                         lees verder ►►►
+            De formule H hoek  e 0,02359V 8,36  1375 is te herleiden tot de vorm
+             H hoek  b  g V  1375 .
+3p    5     Geef deze herleiding. Geef de waarde van b in gehelen en de waarde van
+            g in vier decimalen.
+
+            tussenwoningen
+            De formule die men voor tussenwoningen gebruikt, is:
+
+                      H tussen  e0,02398V 8,144  1144 met 30  V  250
+            Hierin zijn H tussen de herbouwkosten voor een tussenwoning in euro’s per
+            m2 vloeroppervlak en is V weer het vloeroppervlak van de woning in m2.
+
+            In elk model gaat men ervan uit dat de herbouwkosten per m2 afnemen
+            naarmate het vloeroppervlak groter is. De mate waarin de herbouwkosten
+            per m2 afnemen, verschilt per model.
+4p    6     Stel de afgeleiden van H hoek en H tussen op en onderzoek met behulp van
+            een schets van beide afgeleiden bij welke van deze twee woningtypen de
+            mate van afname het grootst is. Licht je antwoord toe.
+
+
+
+
+VW-1024-a-23-2-o                                5 / 13                            lees verder ►►►
+      Groeimodellen
+
+            In de 18e eeuw werd algemeen aangenomen dat de toename van een
+            populatie dieren kan worden beschreven met behulp van een
+            meetkundige rij. Een model uit die tijd is:
+
+                        Pn  r  Pn1
+                                                       model 1
+                        P0  c
+
+            In dit model geldt:
+             Pn is de populatiefractie na n jaar. Dat is de grootte van de populatie
+                   als deel van de maximale populatie. Pn is dus een getal tussen 0 en 1.
+                  c is de startpopulatiefractie. Ook dit getal wordt uitgedrukt als een
+                   deel van de maximale populatie (en dus geldt 0  c  1 ).
+                  r is de reproductiefactor: een getal dat aangeeft hoe snel een
+                   populatie zich per jaar uitbreidt.
+
+            Neem aan dat in een bepaald bosrijk gebied een populatie van
+            165 vossen leeft. De reproductiefactor van de vossen in dit gebied is 1,28
+            en in het gebied is plaats voor maximaal 500 vossen.
+3p    7     Bereken met behulp van model 1 na hoeveel jaar dit maximale aantal
+            bereikt zal zijn.
+
+            In model 1 wordt ervan uitgegaan dat een populatie altijd even snel groeit.
+            Dit komt echter niet overeen met de werkelijkheid: als de populatie groeit
+            wordt de ruimte per dier namelijk steeds kleiner, waardoor het moeilijker
+            wordt om voedsel te vinden. Hierdoor zal een populatie steeds minder
+            snel gaan groeien naarmate deze toeneemt.
+
+            Een verbeterde versie van model 1 is het logistische model:
+
+                        Pn  r  Pn1  (1  Pn1 )
+                                                       model 2
+                        P0  c
+
+            De variabelen in dit model hebben dezelfde betekenis als in model 1.
+
+
+
+
+VW-1024-a-23-2-o                                       6 / 13                     lees verder ►►►
+            De Oostvaardersplassen is een natuurgebied in de buurt van Lelystad. In
+            2020 leefden er in dit gebied een groot aantal edelherten. Door dit grote
+            aantal konden andere diersoorten, voornamelijk vogels, zich niet meer
+            goed ontwikkelen. Mede daarom wordt sinds 2021 de populatie door het
+            afschieten van de dieren stabiel gehouden op 500 edelherten.
+
+            Neem aan dat er maximaal 2000 edelherten in de Oostvaardersplassen
+            kunnen leven. Er geldt vanaf 2021 dat r  1,58 en c  0, 25 .
+3p    8     Bereken met behulp van model 2 hoeveel edelherten er in de periode
+            2021-2023 bij zouden komen als er geen dieren zouden worden
+            afgeschoten.
+
+            In de rest van deze opgave gaan we bekijken hoe model 2 zich gedraagt
+            bij verschillende waarden van r.
+
+            Als je voor r een getal tussen de 0 en 1 invult, dan nadert Pn voor iedere
+            startwaarde c (met 0  c  1 ) naar 0. Je kunt dat beredeneren met de
+            formule voor Pn .
+3p    9     Geef een redenering waaruit blijkt dat wanneer r tussen de 0 en 1 is, Pn
+            altijd naar 0 nadert.
+
+            Voor waarden van r groter dan 1 wordt het model erg onvoorspelbaar.
+
+            figuur
+
+
+
+
+            In de figuur is de grafiek getekend voor r  3,15 en c  0, 25 . Er is te zien
+            dat de waarde van Pn op den duur heen en weer gaat springen tussen
+            twee vaste waarden.
+3p   10     Onderzoek tussen welke twee waarden Pn heen en weer gaat springen
+            voor r  3,15 en c  0, 25 . Geef deze waarden in twee decimalen.
+
+
+
+
+VW-1024-a-23-2-o                              7 / 13                             lees verder ►►►
+      Unieke woorden
+
+            Teksten bestaan uit woorden (en leestekens, maar die laten we in deze
+            opgave buiten beschouwing). Deze woorden zijn niet allemaal
+            verschillend. Dat wil zeggen dat ze niet allemaal uniek zijn. Hoe meer
+            unieke woorden je naar verhouding tegenkomt, hoe moeilijker de tekst is.
+
+            In deze opgave kijken we naar het percentage unieke woorden in een
+            tekst. Dit percentage wordt bepaald aan de hand van twee grootheden:
+
+            U: het aantal unieke woorden in een stuk tekst;
+            T: het totaal aantal woorden in dat stuk tekst.
+
+            We bekijken de eerste twee zinnen van deze opgave:
+
+            Teksten bestaan uit woorden (en leestekens, maar die laten we in deze
+            opgave buiten beschouwing). Deze woorden zijn niet allemaal
+            verschillend.
+
+
+2p   11     Bepaal het percentage unieke woorden in de eerste twee zinnen van deze
+            opgave samen. Geef je antwoord als geheel getal.
+
+            Van het boek On The Origin of Species van Charles Darwin is het
+            verband tussen U en T bepaald. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+VW-1024-a-23-2-o                           8 / 13                           lees verder ►►►
+            In figuur 1 is op beide assen een logaritmische schaal gebruikt. De
+            gestippelde lijn geeft een benadering van het verband tussen U en T.
+            Figuur 1 staat ook vergroot op de uitwerkbijlage.
+
+            On The Origin of Species bevat in totaal 191 740 woorden en er komen
+            8842 unieke woorden in voor. Naarmate je verder leest, kom je steeds
+            minder nieuwe unieke woorden tegen. Als je een kwart van dit boek hebt
+            gelezen, ben je al meer dan de helft van het totaal aantal unieke woorden
+            tegengekomen.
+5p   12     Bereken met behulp van de gestippelde lijn in de figuur op de
+            uitwerkbijlage hoeveel procent van het totaal aantal unieke woorden je
+            dan al bent tegengekomen. Geef je antwoord als geheel getal.
+
+            De taalkundige Gustav Herdan ontdekte een algemeen verband tussen U
+            en T voor grotere teksten. Dit verband werd door Harold Stanley Heap
+            bekendgemaakt en wordt de wet van Herdan-Heap genoemd.
+
+            De internationale nieuwsdienst Reuters heeft een database – de
+            zogeheten RCV1 – beschikbaar gesteld ten behoeve van taalonderzoek.
+            Onderzoekers hebben voor RCV1 het verband tussen U en T bepaald.
+            Zie figuur 2, waarin log(U ) tegen log(T ) is uitgezet.
+
+            figuur 2
+
+
+
+
+            De grafiek in figuur 2 geeft het werkelijke verband tussen U en T in RCV1
+            en de gestippelde lijn geeft een benadering volgens de wet van Herdan-
+            Heap.
+
+
+
+
+VW-1024-a-23-2-o                           9 / 13                           lees verder ►►►
+            Iemand leest een tekst die bestaat uit de eerste 7432 woorden uit RCV1.
+
+2p   13     Ga met behulp van figuur 2 na of deze tekst voldoet aan de wet van
+            Herdan-Heap.
+
+            Een formule voor de gestippelde lijn in figuur 2 is
+                    log(U )  0, 49 log(T )  1, 64
+3p   14     Benader met behulp van deze formule het aantal unieke woorden in de
+            eerste 1 000 000 woorden in RCV1. Geef je antwoord in duizenden.
+
+            De formule log(U )  0, 49 log(T )  1, 64 kan worden herleid tot de vorm
+            U  c  T n . Na afronding van c op gehelen geldt U  44  T 0,49 .
+
+4p   15     Geef deze herleiding en bepaal daarmee c in één decimaal.
+
+            Naarmate je vanaf het begin onafgebroken verder leest in RCV1, komen
+            er steeds minder unieke woorden bij. Vanaf een bepaald totaal aantal
+            woorden komt er (gemiddeld) minder dan één uniek woord per 50
+            woorden bij.
+
+4p   16     Onderzoek bij welk totaal aantal woorden dit het geval is. Geef je
+            antwoord in duizenden.
+
+
+
+
+VW-1024-a-23-2-o                                10 / 13                           lees verder ►►►
+      London Eye
+
+            De London Eye is een reuzenrad in            foto
+            Londen. Zie de foto.
+
+            Een toerist heeft een kaartje gekocht
+            waarmee hij zelf een dagprogramma
+            kan samenstellen. Zo’n dagprogramma
+            bestaat uit een bezoek aan de London
+            Eye en aan nog twee andere attracties.
+            Die twee andere attracties mag hij
+            kiezen uit vijf bekende attracties in
+            Londen. De toerist mag zelf bepalen in welke volgorde hij de
+            drie attracties bezoekt.
+3p   17     Bereken hoeveel verschillende dagprogramma’s de toerist kan maken.
+
+            De London Eye heeft 32 gondels, waarin de bezoekers plaatsnemen.
+            Eén rondgang van een gondel duurt precies 30 minuten.
+            De grafiek in de figuur hoort bij de hoogte van een van de gondels.
+
+            figuur
+
+
+
+
+            Bij deze grafiek hoort de formule h  75  60  sin(0, 209t ) . Hierbij is h de
+            hoogte van de gondel boven de grond in meters en t de tijd in minuten
+            met t  0 om 11.00 uur ’s ochtends.
+            Deze grafiek hoort echter niet bij de gondel die zich om 11.00 uur bij het
+            instapplatform in het laagste punt bevindt. De grafiek van de gondel die
+            zich om 11.00 uur in het laagste punt bevindt, heeft een formule van de
+            vorm h  75  60  sin(0, 209(t  d )) .
+2p   18     Bereken een mogelijke waarde van d.
+
+
+
+VW-1024-a-23-2-o                              11 / 13                              lees verder ►►►
+            De gondels draaien met een dusdanig lage constante snelheid dat bij het
+            in- en uitstappen het reuzenrad niet hoeft te worden stilgezet. Deze
+            constante snelheid is even groot als de maximale snelheid waarmee h
+            toeneemt of afneemt.
+5p   19     Bereken deze constante snelheid in km/uur. Geef je antwoord in twee
+            decimalen.
+
+            Hoe hoger je in het reuzenrad komt, hoe verder je kunt kijken. Met de
+            formule a  h 2  12742000h , waarbij a de maximale kijkafstand in
+            meters is en h de hoogte boven de grond in meters, kun je benaderen hoe
+            ver je kunt kijken vanaf een bepaalde hoogte boven de grond.
+
+            Windsor Castle ligt hemelsbreed 40 kilometer van de London Eye
+            vandaan. Op een heldere dag kun je vanuit de London Eye Windsor
+            Castle zien liggen.
+5p   20     Bereken hoelang je per rondgang vanuit de London Eye op een heldere
+            dag Windsor Castle kunt zien. Geef je antwoord in gehele minuten.
+
+
+
+
+VW-1024-a-23-2-o                           12 / 13                          lees verder ►►►
+      NS Flex
+
+            Voor reizigers met het openbaar vervoer verkoopt de NS de zogenaamde
+            NS Flex-abonnementen. Je kunt dan voor elke maand opnieuw het
+            abonnement kiezen waarmee je in die maand in totaal de laagste kosten
+            hebt.
+            Drie van deze Flex-abonnementen zijn Dal Voordeel, Altijd Voordeel en
+            Dal Vrij. In de tabel staan voor deze abonnementen de kosten per maand
+            aangegeven en de kortingen die bij deze abonnementen gegeven worden.
+            In deze opgave beperken we ons tot deze drie abonnementen.
+
+            tabel
+          Dal Voordeel                         Altijd Voordeel                      Dal Vrij
+          € 5,- per maand                      € 23,- per maand                     € 105,- per maand
+          40% korting in het                   40% korting in het                   onbeperkt reizen in het
+          weekend                              weekend                              weekend
+          40% korting buiten de                40% korting buiten de                onbeperkt reizen buiten
+          spits                                spits                                de spits
+          geen korting in de spits             20% korting in de spits              geen korting in de spits
+
+            Eefje woont in Enschede en werkt in Deventer. Ze reist altijd met de trein
+            naar haar werk. Het aantal dagen dat ze per maand moet reizen is
+            verschillend. Eefje wil een schema maken waaruit ze voor elk mogelijk
+            aantal reisdagen per maand kan aflezen welk abonnement voor haar het
+            voordeligst is.
+
+            Voor het maken van dit schema moet rekening gehouden worden met de
+            volgende gegevens:
+             Eefjes werkdagen zijn van maandag tot en met donderdag.
+             Eefjes heenreis is met de trein van 6.16 uur vanuit Enschede.
+             Eefjes terugreis is met de trein van 17.30 uur vanuit Deventer.
+             Eefje reist altijd 2e klas en via de goedkoopste route.
+             Eefje reist alleen voor haar werk met de trein.
+             De spits is op werkdagen van 6.30 tot 9.00 uur en van 16.00 tot
+                18.30 uur.
+             Het tijdstip waarop je incheckt, bepaalt de korting die wordt berekend
+                voor de hele reis.
+             Een enkele reis Enschede-Deventer vol tarief 2e klas kost € 12,10.
+
+7p   21     Maak met behulp van berekeningen een schema waaruit Eefje voor elk
+            mogelijk aantal reisdagen per maand kan aflezen welk abonnement voor
+            haar het voordeligst is.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-23-2-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

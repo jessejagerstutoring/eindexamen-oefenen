@@ -1,0 +1,500 @@
+                                                                 Examen VWO
+
+                                                                     2021
+                                                                            tijdvak 2
+                                                                      vrijdag 18 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-21-2-o
+      Aankoop en verkoop van woningen
+
+            In de zomer van 2007 ontstond de wereldwijde kredietcrisis. Ten gevolge
+            van de kredietcrisis is de gemiddelde huizenprijs van koopwoningen in
+            Nederland in de periode 2008-2013 flink gedaald. Zie de figuur.
+            figuur
+
+
+
+
+            In de figuur kun je zien dat het hoogtepunt van de huizenprijzen in
+            augustus 2008 was en dat het dieptepunt in juni 2013 was.
+2p    1     Bereken met hoeveel procent de gemiddelde huizenprijs in deze periode
+            is gedaald. Geef je antwoord in één decimaal.
+
+            Op de uitwerkbijlage zie je de procentuele verandering van de gemiddelde
+            prijs van woningen in Nederland ten opzichte van het jaar ervoor.
+            Bijvoorbeeld –6% op 1-1-2013 betekent dat tussen 1-1-2012 en 1-1-2013
+            de gemiddelde prijs van een woning in Nederland met 6% is gedaald.
+4p    2     Bereken met behulp van de figuur op de uitwerkbijlage met hoeveel
+            procent de gemiddelde prijs van woningen in Nederland tussen 1-1-2012
+            en 1-1-2017 is toegenomen. Geef je antwoord in hele procenten.
+
+            Om ervoor te zorgen dat meer mensen met lage inkomens een
+            koopwoning kunnen betalen, werd in 2004 in Nederland de zogeheten
+            Koopgarantregeling of kortweg Koopgarant ontwikkeld.
+            Bij Koopgarant verkoopt een woningcorporatie een woning aan een
+            particulier, die dan bij de aankoop korting krijgt op de marktwaarde van de
+            woning.
+            Woningcorporatie Prowonen in de gemeente Berkelland in de Achterhoek
+            verkocht in 2012 met Koopgarant een hoekwoning met een marktwaarde
+            van € 191 000. De particuliere koper kreeg een korting van 10% op de
+            marktwaarde. De koper leende voor het kopen van de woning het destijds
+            maximaal haalbare bedrag ter grootte van 108% van de marktwaarde van
+            de woning.
+
+3p    3     Bereken hoeveel euro de koper hierdoor meer leende dan hij voor de
+            koop van het huis nodig had.
+
+
+
+VW-1026-a-21-2-o                            2 / 13                            lees verder ►►►
+            Als de particulier na een aantal jaren wil verhuizen, koopt Prowonen de
+            woning weer terug. De terugkoopprijs wordt altijd berekend met de
+            formule:
+                    P  p  M  V  q  (T  V  M )
+            Hierin is:
+            P      de terugkoopprijs;
+            M      de marktwaarde bij de aankoop van de woning;
+            V      de bij terugkoop getaxeerde waarde van de verbeteringen die de
+                   particulier heeft aangebracht;
+            T      de marktwaarde van de woning bij terugkoop;
+            p      het deel van de marktwaarde dat de particulier betaalde bij de
+                   aankoop;
+            q      het deel van de veranderde marktwaarde dat bij terugkoop
+                   verrekend wordt.
+
+            Alle bedragen zijn in euro.
+
+            In 2019 kocht Prowonen de eerder genoemde hoekwoning terug. De
+            veranderde marktwaarde werd voor 85% verrekend in de terugkoopprijs,
+            dus q  0,85 .
+            De particulier gaf in totaal € 41 000 uit voor verbeteringen aan het huis.
+            Een deel van de € 41 000 heeft in de loop der jaren zijn waarde verloren,
+            want bij de terugkoop in 2019 werd de marktwaarde van deze hoekwoning
+            getaxeerd op € 212 500. Zonder de verbeteringen werd de marktwaarde
+            getaxeerd op € 194 000.
+
+            De particulier kreeg minder voor deze hoekwoning terugbetaald dan hij
+            voor de aankoopprijs en verbeteringen had uitgegeven.
+4p    4     Bereken met behulp van de formule voor de terugkoopprijs hoeveel euro
+            hij minder terugbetaald kreeg.
+
+            Prowonen bood in 2012 ook tussenwoningen aan met Koopgarant. Voor
+            deze tussenwoningen werd een korting van 15% op de marktwaarde op
+            het moment van aankoop gegeven. Bij de terugkoop zal 77,5% van de
+            veranderde marktwaarde worden verrekend in de terugkoopprijs.
+
+3p    5     Stel de formule op van de terugkoopprijs P voor tussenwoningen en
+            herleid deze tot de vorm P  a  M  b  T  c  V .
+
+
+
+
+VW-1026-a-21-2-o                               3 / 13                        lees verder ►►►
+      Insectenafname
+
+            In oktober 2017 publiceerde PLOS One1) een onderzoek2) naar de afname
+            van insecten in natuurgebieden in Duitsland.
+            In de periode 1989-2016 zijn in diverse Duitse natuurgebieden insecten in
+            vallen gevangen. De insecten werden niet geteld, maar de onderzoekers
+            noteerden dagelijks het gewicht van alle insecten in zo’n val. Vervolgens
+            hebben de onderzoekers voor elk jaar het gemiddelde gewicht per val per
+            dag berekend. Aan de hand van dit gemiddelde gewicht konden de
+            onderzoekers een uitspraak doen over de toename of afname van het
+            aantal insecten.
+            In deze opgave is het gemiddeld gewicht G steeds het gemiddeld gewicht
+            per val per dag in gram. In figuur 1 zijn de resultaten van het onderzoek
+            weergegeven. Figuur 1 staat vergroot op de uitwerkbijlage.
+            figuur 1
+
+
+
+
+            In figuur 1 is G uitgezet tegen de tijd t in jaren, met t  0 in 1989.
+
+            De schaalverdeling op de verticale as is logaritmisch. Je kunt in de figuur
+            op de uitwerkbijlage bijvoorbeeld aflezen dat in 1989 het gemiddeld
+            gewicht G gelijk was aan 8,4 gram.
+
+
+   noot 1 PLOS One is een internationaal online tijdschrift.
+   noot 2 Er is veel kritiek geweest op de uitvoering van het onderzoek van PLOS One, omdat er
+          gebruikgemaakt zou zijn van incomplete data. In deze opgave gaan we toch uit van de
+          resultaten op basis van het onderzoek.
+
+
+
+
+VW-1026-a-21-2-o                              4 / 13                                 lees verder ►►►
+            In een krant stond dat de hoeveelheid insecten in de Duitse
+            natuurgebieden in 27 jaar met ruim 75% afgenomen is.
+4p    6     Onderzoek met behulp van de figuur op de uitwerkbijlage of een afname
+            van ruim 75% in de periode 1989-2016 te verdedigen is.
+
+            In figuur 2 zijn de resultaten van het onderzoek nogmaals weergegeven.
+            Er is een trendlijn toegevoegd.
+            figuur 2
+
+
+
+
+            Een formule voor de trendlijn in figuur 2 is:
+                    log(G )   0, 028t  0,924
+            Hierin is G het gemiddeld gewicht in gram en t de tijd in jaren, met t  0
+            in 1989.
+
+            Als het onderzoek na 2016 voortgezet zou zijn en als G zich volgens
+            dezelfde trend blijft ontwikkelen, zal G op een gegeven moment minder
+            dan 0,5 gram zijn.
+3p    7     Bereken in welk jaar dat volgens de gegeven formule voor het eerst het
+            geval is.
+
+            De trendlijn in figuur 2 hoort bij een exponentieel model voor de afname
+            van het gewicht G. De formule van de trendlijn is te herleiden tot
+                    G  100,028t 0,924
+3p    8     Herleid deze formule tot de vorm G  b  g t en bepaal hiermee, zonder
+            getallen in te vullen, de jaarlijkse procentuele afname. Geef je antwoord in
+            één decimaal.
+
+
+
+
+VW-1026-a-21-2-o                                  5 / 13                       lees verder ►►►
+      Kaartenhuis
+
+            Door speelkaarten op elkaar te stapelen,             foto 1
+            kan je een kaartenhuis bouwen.
+            Op foto 1 zie je een kaartenhuis van drie
+            lagen.
+
+            Het kaartenhuis op foto 1 is gebouwd
+            volgens de zogeheten
+            driehoeksconstructie. Bij de
+            driehoeksconstructie ga je als volgt te
+            werk:
+             Zet steeds naast elkaar twee kaarten
+                schuin tegen elkaar (de zwarte
+                lijnstukken in de figuur hieronder).
+             Leg een kaart op de toppen (de
+                gestippelde lijnstukken in de figuur).
+             Ga door tot het kaartenhuis af is.
+            In de figuur is dit schematisch weergegeven voor een kaartenhuis van vier
+            lagen.
+            figuur
+
+
+
+
+            In deze opgave beschouwen we kaartenhuizen die volgens de
+            driehoeksconstructie zijn gebouwd.
+            Zowel het aantal staande kaarten als het aantal liggende kaarten in een
+            laag vormt een rij behorend bij een lineair verband. Door voor beide
+            aantallen een directe formule op te stellen, kan een directe formule voor
+            het totaal aantal kaarten in een laag gevonden worden.
+            Deze formule is K ( n )  3n  1 , met K ( n ) het totaal aantal kaarten in de
+            n-de laag. De liggende kaarten horen bij de laag waarop ze liggen, dus de
+            bovenste liggende kaart in de figuur hoort bij laag 2.
+
+2p    9     Stel voor zowel de staande kaarten als voor de liggende kaarten in de
+            n-de laag een directe formule op en toon daarmee aan dat K ( n)  3n  1 .
+
+
+
+
+VW-1026-a-21-2-o                             6 / 13                              lees verder ►►►
+            Een pakje speelkaarten, inclusief jokers, bestaat uit 54 kaarten. Met de
+            kaarten van één pakje speelkaarten wordt een zo hoog mogelijk
+            kaartenhuis gebouwd. Met de kaarten die overblijven wordt daarna een
+            tweede zo hoog mogelijk kaartenhuis gebouwd. Zo gaat men door totdat
+            alle kaarten op zijn of totdat er te weinig kaarten over zijn om nog een
+            kaartenhuis te bouwen.
+5p   10     Onderzoek met een berekening welke kaartenhuizen gebouwd zullen
+            worden.
+
+            De driehoeken van drie kaarten in het vooraanzicht van het kaartenhuis
+            hebben allemaal drie even lange zijden.
+
+            De kaarten van het kaartenhuis op foto 1 zijn 63 mm breed en 88 mm
+            lang. We verwaarlozen de dikte van de kaarten.
+            Met kaarten van deze afmetingen wordt een kaartenhuis gebouwd dat
+            minimaal 1 meter hoog is.
+3p   11     Bereken uit hoeveel lagen dit kaartenhuis dan minimaal moet bestaan.
+
+            De kunstenares Lisa Greenfield heeft het kunstwerk House of Cards II
+            ontworpen. Zie foto 2.
+
+            foto 2
+
+
+
+
+            Op de uitwerkbijlage is een begin gemaakt van een perspectieftekening
+            van dit kunstwerk. De twee meest linker staande kaarten onderaan zijn
+            getekend. Bovendien is de onderrand van een van de twee staande
+            kaarten direct ernaast getekend.
+5p   12     Teken in de tekening op de uitwerkbijlage de twee staande kaarten direct
+            naast de staande kaarten die al getekend zijn.
+
+
+
+
+VW-1026-a-21-2-o                           7 / 13                            lees verder ►►►
+      Volvo Ocean Race
+
+            De Volvo Ocean Race (VOR) is een zeilwedstrijd rond de wereld die om
+            de drie jaar gevaren wordt. Aan de editie van 2017-2018 namen zeven
+            teams deel.
+
+            De VOR bestaat uit etappes en havenraces. De etappes gaan van de ene
+            havenplaats naar de andere en duren meerdere dagen. De havenraces
+            zijn wedstrijden van enkele uren dicht bij de kust.
+
+            Zowel voor de etappes als voor de havenraces zijn punten te verdienen.
+            De tussenstand na tien etappes en negen havenraces staat in de tabel. Er
+            moeten dan nog één etappe en twee havenraces worden gevaren.
+
+            tabel
+                                                       punten voor    punten voor
+              plaats team
+                                                       de etappes    de havenraces
+                   1   MAPFRE (M)                          65               56
+                   2   Team Brunel (B)                     65               41
+                   3   Dongfeng Race Team (D)              64               49
+                   4   Team AkzoNobel (A)                  53               39
+                   5   Vestas 11th Hour Racing (V)         38               26
+                   6   Team Sun Hung                       30               21
+                       Kai/Scallywag (S)
+                   7   Turn the Tide on Plastic (T)        29               17
+
+            Voor de havenraces geldt de volgende puntentelling: de winnaar van een
+            wedstrijd krijgt 7 punten, het tweede team krijgt 6 punten, het derde team
+            5 punten, enzovoort. Een team dat de finish niet haalt, krijgt 0 punten.
+
+3p   13     Beredeneer of het mogelijk is dat in één van de reeds gevaren
+            havenraces drie of meer teams de finish niet haalden.
+
+            In het klassement zijn de punten voor de etappes belangrijker dan de
+            punten voor de havenraces. De eindwinnaar van de VOR is het team dat
+            aan het einde de meeste punten voor de etappes behaald heeft.
+
+            Als twee teams evenveel punten voor de etappes hebben, wordt gekeken
+            naar de punten voor de havenraces om te bepalen welk team hoger in het
+            klassement staat. In de tussenstand in de tabel is bijvoorbeeld te zien dat
+            team M en team B allebei 65 punten hebben voor de etappes en dat
+            team M op de eerste plaats staat, omdat team M meer punten heeft voor
+            de havenraces.
+
+
+
+
+VW-1026-a-21-2-o                              8 / 13                             lees verder ►►►
+            Voor de laatste etappe zijn nog de volgende punten te verdienen:
+             De winnaar van de laatste etappe krijgt 8 punten, het tweede team
+               krijgt 6 punten, het derde team 5 punten, enzovoort (steeds 1 punt
+               minder). Een team dat de finish niet haalt, krijgt 0 punten.
+             Het team dat de snelste totale tijd over alle etappes heeft gevaren
+               krijgt een bonuspunt bij de totale punten voor de etappes. Op basis
+               van hun prestaties op de eerdere etappes is nu al bekend dat dit punt
+               naar team D gaat.
+
+3p   14     Leg uit dat voor de teams die nu in de top 3 staan, geldt dat de laatste
+            twee havenraces alleen nog van invloed zijn op de einduitslag als ten
+            minste twee van de top 3-teams uitvallen in de laatste etappe.
+
+            Met nog één etappe en twee havenraces te varen, staat ook voor de
+            overige vier teams de einduitslag nog niet vast.
+            We voeren de volgende notatie in:
+                H        ‘de havenraces zijn nodig om de einduitslag te bepalen’
+            Verder voegen we extra informatie toe, tussen haakjes, over de uitslag in
+            de laatste etappe. Bijvoorbeeld:
+             V (5)      ‘team V wordt vijfde in de laatste etappe’
+             T (F )     ‘team T haalt de finish in de laatste etappe’
+
+            Er geldt bijvoorbeeld:
+            Als in de laatste etappe team S vierde wordt en team T derde, dan zijn de
+            havenraces nodig om de einduitslag te bepalen.
+2p   15     Schrijf deze zin met behulp van bovenstaande afkortingen en met logische
+            symbolen.
+
+            Er geldt ook: T (2)  ( S (1)  S (3))   H
+3p   16     Vertaal deze bewering in een gewone zin.
+
+            In de tabel lijkt team V zeker te zijn van een vijfde plaats. Dat is echter
+            niet zo. Er is een uitslag van de laatste etappe mogelijk waarbij de
+            havenraces nodig zijn om de einduitslag te bepalen.
+3p   17     Onderzoek welke uitslag van de laatste etappe dat is en beschrijf dit
+            vervolgens met behulp van bovenstaande afkortingen en met logische
+            symbolen.
+
+
+
+
+VW-1026-a-21-2-o                               9 / 13                            lees verder ►►►
+      Bevolkingsgroei
+
+            Er bestaan veel modellen voor het voorspellen van de groei van de
+            wereldbevolking. De voorspellingen kunnen per model behoorlijk
+            uiteenlopen. In de figuur staan een lage, een gemiddelde en een hoge
+            voorspelling voor de totale wereldbevolking. Deze voorspellingen lopen tot
+            en met het jaar 2100.
+
+            figuur
+
+
+
+
+            De grafiek van de lage voorspelling kan benaderd worden met behulp van
+            de formule
+                     Wlaag  0, 0000513t 4  0,0196t 3  1,8607t 2  19,825t  2595,5
+
+            Hierin is Wlaag de wereldbevolking in miljoenen volgens de lage
+            voorspelling en t het aantal jaren na 1 juli 1950.
+
+
+
+
+VW-1026-a-21-2-o                                10 / 13                                 lees verder ►►►
+            Volgens de grafiek van de lage voorspelling bereikt de wereldbevolking
+            eerder dan in het jaar 2100 een maximumwaarde.
+3p   18     Bereken met behulp van de formule voor Wlaag deze maximale grootte van
+            de wereldbevolking. Geef je antwoord in gehele miljoenen.
+
+            De grafiek van de hoge voorspelling kan benaderd worden met behulp
+            van de formule
+                   Whoog  0,1927t 2  64,866t  2313, 4
+
+            Hierin is Whoog de wereldbevolking in miljoenen volgens de hoge
+            voorspelling en t het aantal jaren na 1 juli 1950.
+
+            De hoge en lage voorspelling lopen nogal uiteen. Nog voor het jaar 2100
+            zal de hoge voorspelling zelfs meer dan twee keer zo groot zijn als de
+            lage voorspelling.
+3p   19     Bereken in welk jaar de hoge voorspelling voor het eerst meer dan twee
+            keer zo groot is als de lage voorspelling.
+
+            De meeste deskundigen gaan uit van de grafiek van de gemiddelde
+            voorspelling. De grafiek van de gemiddelde voorspelling staat vergroot op
+            de uitwerkbijlage. De gemiddelde voorspelling gaat uit van een eerst
+            steeds sneller groeiende wereldbevolking en vervolgens een steeds
+            langzamer groeiende wereldbevolking. Er is dus een moment volgens de
+            gemiddelde voorspelling waarop de wereldbevolking het snelst groeit.
+
+3p   20     Bepaal met behulp van de grafiek op de uitwerkbijlage met hoeveel
+            mensen per jaar de wereldbevolking op dat moment groeit.
+
+            De grafiek van deze gemiddelde voorspelling kan benaderd worden met
+            behulp van de formule
+                                      30 000
+                   Wmiddel 
+                               2,5  9,6625  0,973t
+            Hierin is Wmiddel de wereldbevolking in miljoenen volgens de gemiddelde
+            voorspelling en t het aantal jaren na 1 juli 1950.
+
+            Volgens de formule van Wmiddel bereikt de wereldbevolking na het jaar
+            2100 op den duur de grenswaarde van 12 miljard.
+5p   21     Leg uit hoe die grenswaarde uit deze formule volgt en bereken in welk
+            jaar de wereldbevolking volgens deze formule voor het eerst minder dan
+            10% verschilt van de grenswaarde.
+
+
+
+
+VW-1026-a-21-2-o                                11 / 13                       lees verder ►►►
+      Het Rembrandt Lokaal
+
+            De ontwerpers Maarten Kolk en Guus Kusters deden onderzoek naar het
+            kleurgebruik van Rembrandt. De resultaten van hun onderzoek werden in
+            2016 tentoongesteld in Het Rembrandt Lokaal in Leiden, in het pand waar
+            de jonge Rembrandt ooit zijn eerste schilderlessen kreeg.
+            Rembrandt mengde zijn verf niet, maar schilderde verschillende kleuren in
+            laagjes over elkaar. Doordat de verf niet dekkend was, hadden ook de
+            onderste lagen nog invloed op de uiteindelijke kleur. De volgorde waarin
+            de laagjes werden aangebracht, was hierin ook belangrijk. Tot slot
+            leverden meerdere laagjes van dezelfde kleur een verdieping op van de
+            kleur, en daarmee dus steeds een andere kleur.
+
+            In zijn latere jaren schilderde Rembrandt met slechts 6 verschillende
+            basiskleuren. Daarmee kon hij veel meer kleuren maken dan de 120
+            kleuren die in de meest uitgebreide schilderskist met olieverf zitten die je
+            tegenwoordig in de winkel kunt kopen.
+3p   22     Bereken hoeveel laagjes verf Rembrandt minimaal moest gebruiken om
+            meer dan 120 kleuren te kunnen maken.
+
+            De ontwerpers hebben geprobeerd de kleuren van Rembrandt na te
+            bootsen. Ze ontdekten dat Rembrandt voor elke kleur altijd precies 4 of 5
+            laagjes verf gebruikte.
+            Je ziet op foto 1 Rembrandts schilderij De anatomische les van
+            Dr. Nicolaes Tulp. Op de trap ervoor staan gekleurde torentjes. De foto
+            staat vergroot op de uitwerkbijlage.
+
+            foto 1
+
+
+
+
+VW-1026-a-21-2-o                            12 / 13                             lees verder ►►►
+            Bij vijf verschillende kleuren die in het schilderij voorkomen, zijn op de
+            trap achter elkaar 4 of 5 torentjes geplaatst. Op deze torentjes is de
+            opbouw van een kleur in het schilderij te zien. Het voorste torentje is
+            volledig beschilderd met de kleur van de ondergrond. Hiervoor koos
+            Rembrandt uit de kleuren wit, bruin of rood. Daarachter staan altijd 3 of 4
+            torentjes, iedere keer met een extra laag verf, maar wel zodanig dat de
+            laag of lagen eronder zichtbaar blijven. Vanaf laag 2 is gekozen uit de
+            12 verschillende basiskleuren die Rembrandt in zijn jonge jaren gebruikte.
+            De bovenste kleurencombinatie op het achterste torentje komt overeen
+            met de kleur in het schilderij.
+            Op foto 2 staan vijf torentjes die de opbouw van een kleurencombinatie
+            met 5 lagen verf laten zien.
+
+            foto 2
+
+
+
+
+            Voorafgaand aan de analyse van het schilderij hebben de ontwerpers de
+            torentjes van alle mogelijke kleurencombinaties gemaakt volgens
+            bovenstaand voorschrift. Zij hebben hier 4 maanden aan gewerkt. Ga uit
+            van 20 werkdagen per maand.
+3p   23     Bereken hoeveel kleurencombinaties de ontwerpers gemiddeld per
+            werkdag hebben gemaakt.
+
+            De horizontale vlakken van de trappen waarop de torentjes staan, zijn
+            rechthoekig en allemaal gelijk.
+2p   24     Laat met behulp van de foto op de uitwerkbijlage zien dat de traptreden
+            ook allemaal even hoog zijn.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1026-a-21-2-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

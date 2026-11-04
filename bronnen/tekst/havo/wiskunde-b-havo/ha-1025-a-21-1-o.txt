@@ -1,0 +1,447 @@
+                                                                 Examen HAVO
+
+                                                                      2021
+                                                                             tijdvak 1
+                                                                    woensdag 26 mei
+                                                                    13.30 - 16.30 uur
+
+
+                                                                     wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter dit examen is een erratum opgenomen.
+
+
+
+
+Dit examen bestaat uit 17 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+ HA-1025-a-21-1-o
+      Gebroken functie en wortelfunctie
+
+            De functie f wordt gegeven door:
+                                    3
+                   f ( x)  1 
+                                  4x  3
+            De grafiek van f gaat door de oorsprong O. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    1     Bereken exact de helling van de grafiek van f in O.
+
+            Het functievoorschrift van f is ook anders te schrijven, namelijk:
+                         4x
+                   f ( x) 
+                       4x  3
+            De functie g wordt gegeven door g ( x)  x .
+
+            De grafieken van f en g hebben twee punten gemeenschappelijk, O en B.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+6p    2     Bereken exact de x-coördinaat van B.
+
+
+
+
+HA-1025-a-21-1-o                             2 / 15                              lees verder ►►►
+            De grafiek van f heeft een horizontale en een verticale asymptoot.
+            Het punt S is het snijpunt van deze twee asymptoten.
+            De grafiek van g snijdt de verticale asymptoot van f in het punt R.
+            Zie figuur 3, waarin de asymptoten van f gestippeld zijn.
+
+            figuur 3
+
+
+
+
+4p    3     Bereken exact de afstand tussen R en S.
+
+
+
+
+HA-1025-a-21-1-o                            3 / 15                            lees verder ►►►
+      Twee cirkels en twee lijnen
+
+            De cirkel c1 wordt gegeven door:
+
+                   x 2  4 x  y 2  6 y  8
+            De lijn k wordt gegeven door:
+                   y  12 x  4 12
+
+            Lijn k raakt cirkel c1 .
+3p    4     Bewijs dit.
+
+            Het punt M is het middelpunt van c1 . De lijn l gaat door M en staat
+            loodrecht op k. Het punt S is het snijpunt van l met de y-as. De cirkel c2 is
+            de cirkel door M met middelpunt S. Zie de figuur.
+
+            figuur
+
+
+
+
+6p    5     Stel op exacte wijze een vergelijking op van c2 .
+
+
+
+
+HA-1025-a-21-1-o                                4 / 15                          lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-21-1-o                        5 / 15   lees verder ►►►
+      Oppervlakte onder een grafiek
+
+            De functie f is gegeven door f ( x )  14 x 2  x  1 .
+            De grafiek van f is een parabool.
+2p    6     Bewijs dat de top van de parabool op de x-as ligt.
+
+            De lijn m is de verticale lijn met vergelijking x  p , met p  0 .
+            We kijken naar het gebied dat aan de bovenkant wordt begrensd door de
+            grafiek van f, aan de onderkant door de x-as, aan de linkerkant door de
+            y-as en aan de rechterkant door lijn m.
+            In figuren 1 en 2 is dit gebied grijs gemaakt: in figuur 1 voor de
+            situatie p  1 , in figuur 2 voor de situatie p  2 .
+
+            figuur 1                                      figuur 2
+
+
+
+
+            De oppervlakte van dit grijze gebied noemen we A. De waarde van A
+            hangt dus af van de keuze van p. Een formule voor A is:
+
+                   A  23  12 p  1  32
+                                    3
+
+
+
+            Zo is bijvoorbeeld A  4 23 als p  2 en dus is de oppervlakte van het
+            grijze gebied in figuur 2 gelijk aan 4 23 .
+
+            Voor een bepaalde waarde van p is de oppervlakte van het grijze gebied
+            gelijk aan 42.
+4p    7     Bereken exact deze waarde van p.
+
+
+
+
+HA-1025-a-21-1-o                                 6 / 15                       lees verder ►►►
+            Zonder de voorgaande formule te gebruiken kun je toch een goede
+            benadering vinden van de oppervlakte. In de rest van de opgave doen we
+            dit voor het geval p  1 .
+
+            De benadering van de oppervlakte van het grijze gebied in figuur 1 gaat
+            als volgt:
+                                                                                9
+             De lijn l is de raaklijn aan de grafiek van f in het punt R 12 , 116.
+                  K is het snijpunt van lijn l met de y-as.
+                  M is het snijpunt van lijn l en lijn m.
+                  S is het punt met coördinaten (1, 0) .
+                  De oppervlakte van vierhoek OSMK is de benadering.
+
+            Zie figuur 3, waarin de oppervlakte van vierhoek OSMK grijs is gemaakt.
+
+            figuur 3
+
+
+
+
+            Een vergelijking van l is y  1 14 x  16
+                                                   15 .
+
+
+
+3p    8     Bewijs dat y  1 14 x  16
+                                    15 inderdaad een vergelijking van l is.
+
+
+
+            De oppervlakte van de grijs gemaakte vierhoek OSMK in figuur 3 wijkt een
+            beetje af van de oppervlakte van het grijze gebied in figuur 1.
+5p    9     Bereken algebraïsch hoeveel procent deze afwijking is. Geef je
+            eindantwoord in één decimaal.
+
+
+
+HA-1025-a-21-1-o                                 7 / 15                           lees verder ►►►
+      Roeien
+
+            In sportscholen vind je apparaten waarmee je een roeibeweging
+            simuleert. Zo’n apparaat wordt een roei-ergometer genoemd.
+            Zie de foto.
+
+            foto
+
+
+
+
+            In figuur 1 zie je een serie zijaanzichten van de beweging van een roeier
+            op een roei-ergometer.
+
+            figuur 1
+            moment 1     moment 2      moment 3      moment 4    moment 5
+
+
+
+
+            Doordat het voetenbord vast zit, blijven de voeten vast op één punt.
+            Wanneer de roeier de benen strekt en weer buigt, beweegt het zitje
+            horizontaal van voor naar achter en weer terug. De roeibeweging begint
+            op moment 1, waarna de roeier zijn benen strekt (momenten 2 en 3).
+            Daarna worden de benen weer gebogen (momenten 4 en 5).
+
+
+
+
+HA-1025-a-21-1-o                            8 / 15                           lees verder ►►►
+            In figuur 2 zie je een model van een roeier op de momenten 1 en 3. Deze
+            figuur staat ook op de uitwerkbijlage. Het punt V is de voet, K is de knie
+            en H is de heup (die in dit model samenvalt met het zitje).
+
+            figuur 2
+
+
+
+
+            In dit model geldt:
+             De lengte van het bovenbeen is 48 cm.
+             De lengte van het onderbeen is 42 cm.
+             Het hoogteverschil tussen heup en voet is 15 cm.
+             Tussen de momenten 1 en 3 schuift het zitje 45 cm naar voren.
+             De hoek tussen bovenbeen en onderbeen op moment 1 is 60 .
+             A is het punt recht onder de heup, op dezelfde hoogte als de voet.
+             Met A1 wordt de positie van A op moment 1 bedoeld enzovoorts.
+
+            Op moment 1 is de afstand tussen de heup en de voet ( H1V ) ongeveer
+            45,3 cm. Deze afstand kan exact berekend worden.
+
+2p    10    Bereken exact de afstand in cm tussen de heup en de voet op moment 1.
+            Je kunt hierbij de figuur op de uitwerkbijlage gebruiken.
+
+            Ga bij het volgende onderdeel uit van H1V  45,3 .
+            Op moment 3 is het been bijna gestrekt, dus hoek H3K3V is bijna 180°.
+            Om deze hoek te berekenen, is het handig om gebruik te maken van de
+            driehoeken AVH
+                        1  1 en A3VH 3 .
+5p    11    Bereken hoek H3K3V . Je kunt hierbij de figuur op de uitwerkbijlage
+            gebruiken. Geef je eindantwoord in gehele graden.
+
+
+HA-1025-a-21-1-o                            9 / 15                            lees verder ►►►
+      Een sinusoïde en nog een sinusoïde
+
+
+                                                              
+            De functie f wordt gegeven door f ( x)  3sin 14 x .
+            Het punt A is het eerste snijpunt van de grafiek van f met de positieve
+            x-as. Het punt B is de derde top rechts van de y-as.
+            De lijn k gaat door A en B. In figuur 1 is de hoek  aangegeven die lijn k
+            met de x-as maakt.
+
+            figuur 1
+
+
+
+
+6p    12    Bereken algebraïsch hoe groot hoek  is. Geef je eindantwoord in gehele
+            graden.
+
+
+
+
+HA-1025-a-21-1-o                            10 / 15                           lees verder ►►►
+            In figuur 2 is de grafiek van f getekend en ook de lijn met vergelijking
+             y  1 12 . Deze lijn heeft oneindig veel snijpunten met de grafiek van f. Het
+            eerste snijpunt rechts van de y-as is K, het vierde is L.
+
+            In figuur 2 is met een stippellijn nog een sinusoïde weergegeven.
+            Voor deze sinusoïde geldt:
+             De eerste top rechts van de y-as valt samen met K.
+             De derde top rechts van de y-as valt samen met L.
+             De sinusoïde raakt de lijn met vergelijking y  1 .
+
+            figuur 2
+
+
+
+
+            De functie g die bij de gestippelde grafiek hoort, heeft een
+            functievoorschrift van de volgende vorm:
+                   g ( x )  a  cos(b ( x  c ))  d
+            Hierin zijn a, b, c en d getallen.
+7p    13    Bereken exact voor elk van deze vier getallen een mogelijke waarde.
+
+
+
+
+HA-1025-a-21-1-o                                        11 / 15                   lees verder ►►►
+      Driehoek met maximale oppervlakte
+
+            De functie f wordt gegeven door f ( x )  3 x  2 x  1 .
+            Het punt T is de top van de grafiek van f. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    14    Bereken exact de coördinaten van T.
+
+            Op het deel van de grafiek van f dat boven de x-as ligt, wordt een punt P
+            gekozen.
+            Het punt A ligt op de x-as en heeft dezelfde x-coördinaat als P.
+
+            In figuur 2 en figuur 3 is de situatie voor twee posities van P geschetst.
+            In figuur 3 is de oppervlakte van driehoek OAP groter dan in figuur 2.
+
+ figuur 2                                        figuur 3
+
+
+
+
+            Er is een positie van P op de grafiek van f zo dat de oppervlakte van
+            driehoek OAP maximaal is.
+            Deze positie van P kun je vinden door de oppervlakte van driehoek OAP
+            in x uit te drukken, waarbij x de lengte van zijde OA is.
+4p    15    Bereken de maximale oppervlakte van driehoek OAP. Geef je
+            eindantwoord in drie decimalen.
+
+
+
+
+HA-1025-a-21-1-o                             12 / 15                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-21-1-o                       13 / 15   lees verder ►►►
+      De invloed van leeftijd op hardloopprestaties
+
+            Gemiddeld leveren langeafstandslopers de beste prestaties op een leeftijd
+            van ongeveer 30 jaar. Daarna nemen de prestaties met de jaren af.
+            Er bestaan meerdere modellen om de prestaties van langeafstandslopers
+            van verschillende leeftijden met elkaar te vergelijken. In deze opgave
+            komen twee van zulke modellen aan bod.
+
+            Model 1
+            Dit model gaat ervan uit dat tussen 35 en 55 jaar de gemiddelde snelheid
+            van langeafstandslopers bij wedstrijden met 0,8% per levensjaar afneemt.
+
+            De halve marathon is een hardloopwedstrijd over een afstand van
+            21,0975 km. De Nederlandse hardloper Aart Stigter heeft meerdere keren
+            aan de halve marathon van Egmond deelgenomen.
+            In 1993 liep hij op 36-jarige leeftijd deze halve marathon met een
+            gemiddelde snelheid van 19,5 km per uur. Precies 12 jaar later, in 2005,
+            liep hij dezelfde halve marathon in een tijd van 1 uur, 10 minuten en
+            4 seconden.
+            Uitgaande van zijn gemiddelde snelheid in 1993 en een afname van die
+            gemiddelde snelheid met 0,8% per levensjaar, heeft Aart Stigter in 2005
+            sneller gelopen dan model 1 voorspelt.
+5p    16    Bereken hoeveel seconden sneller. Geef je eindantwoord als geheel
+            getal.
+
+            Model 2
+            Dit model maakt gebruik van correctiegetallen voor de tijd.
+            De World Master Athletics-bond (WMA) heeft tabellen uitgegeven met
+            correctiegetallen om prestaties van hardlopers van verschillende leeftijden
+            met elkaar te kunnen vergelijken. Met deze correctiegetallen kun je de tijd
+            van elke hardloper omrekenen naar een tijd die hoort bij een 30-jarige met
+            een gelijkwaardige prestatie.
+
+            In de tabel zie je de correctiegetallen voor 36-jarigen   tabel
+            en 49-jarigen op de halve marathon. Door de tijd van
+            een 36-jarige hardloper met 0,9920 te
+            vermenigvuldigen krijg je de tijd die hoort bij een
+            30-jarige hardloper met een gelijkwaardige prestatie.
+            Neem aan dat de correctiegetallen voor de leeftijden
+            tussen 36 en 49 jaar bij benadering exponentieel
+            afnemen met de leeftijd.
+
+
+
+
+HA-1025-a-21-1-o                            14 / 15                           lees verder ►►►
+            Bij de NK halve marathon 2019 was de 47-jarige Marcel Laros met een
+            tijd van 4279 seconden de snelste in de categorie 45-49 jaar. Bij diezelfde
+            halve marathon was de 36-jarige Wynfrith Meijwes de snelste in de
+            categorie 35-39 met een tijd van 4130 seconden.
+6p    17    Onderzoek op algebraïsche wijze welke van deze twee hardlopers de
+            beste prestatie heeft geleverd volgens model 2.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1025-a-21-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+ erratumblad                                                              2021-1
+
+wiskunde B havo
+
+Centraal examen havo
+
+Tijdvak 1
+
+Opgaven
+
+
+
+
+Aan de secretarissen van het eindexamen van de scholen voor havo,
+
+Bij het centraal examen wiskunde B havo op woensdag 26 mei, aanvang 13.30 uur,
+moeten de kandidaten de volgende mededeling ontvangen. Deze mededeling moet bij
+het begin van de zitting worden voorgelezen en/of aan de kandidaten worden uitgereikt.
+
+Op pagina 9, in de tekst onder figuur 2, moet de zin bij het vierde
+opsommingsstreepje
+
+Tussen de momenten 1 en 3 schuift het zitje 45 cm naar voren.
+
+vervangen worden door:
+
+Tussen de momenten 1 en 3 schuift het zitje 45 cm naar achteren.
+
+Namens het College voor Toetsen en Examens,
+
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+HA-1025-a-21-1-o-E
+

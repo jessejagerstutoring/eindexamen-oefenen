@@ -1,0 +1,326 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2023
+                                                                        tijdvak 1
+                                                               maandag 15 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 68 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-23-1-o
+            Ga verder op de volgende pagina.
+
+
+
+
+GT-0153-a-23-1-o                        2 / 12   lees verder ►►►
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-23-1-o                             3 / 12                 lees verder ►►►
+      Tuimelaar
+
+
+
+
+            Je ziet links een tuimelaar. Dit is een speelgoedpoppetje met een
+            bolvormige onderkant. Bushra wil zelf tuimelaars maken met een
+            3D-printer. De tuimelaars worden massief, dus niet hol van binnen.
+            Haar ontwerp zie je rechts. De tuimelaar bestaat uit een kegel en een
+            halve bol. De diameter en de hoogte van de kegel zijn beide 10 cm.
+
+2p    1     Laat met een berekening zien dat de inhoud van de kegel afgerond
+            262 cm3 is.
+
+3p    2     Bereken hoeveel cm3 de inhoud van de halve bol is. Schrijf je berekening
+            op.
+
+3p    3     Bushra verpakt de tuimelaars in doorzichtige cilinders. Rechts zie je het
+            bovenaanzicht getekend op schaal 1 : 2.
+
+
+
+
+             Teken het vooraanzicht van de cilinder met daarin de tuimelaar op
+              dezelfde schaal.
+
+
+GT-0153-a-23-1-o                            4 / 12                            lees verder ►►►
+4p    4     Bushra kan met haar 3D-printer tuimelaars maken met een diameter van
+            6 cm tot 16 cm. De hoogte van de kegel is steeds gelijk aan de diameter.
+            De formule voor de inhoud van de tuimelaar is:
+
+                   inhoud tuimelaar = 61  π  diameter3
+
+            Hierin is inhoud in cm3 en diameter in cm. De grafiek bij deze formule
+            staat hieronder getekend.
+
+
+
+
+            Bushra heeft 1,35 dm3 kunststof waarvan ze een zo groot mogelijke
+            tuimelaar wil maken.
+             Bereken hoeveel cm de diameter van de tuimelaar wordt. Schrijf je
+                berekening op en geef je antwoord in één decimaal.
+
+
+
+
+GT-0153-a-23-1-o                              5 / 12                          lees verder ►►►
+      Digitale munt
+
+            Je kunt beleggen met digitaal geld, bijvoorbeeld in het project Ethereum.
+            De digitale munt in dit project is de ether.
+
+            Op 1 januari 2018 was de waarde van de ether 1104 dollar.
+
+2p    5     Op 1 januari 2018 kon je voor één euro 1,2378 dollar kopen.
+             Bereken hoeveel euro de waarde van de ether was op 1 januari 2018.
+               Schrijf je berekening op en rond je antwoord af op twee decimalen.
+
+3p    6     In 2017 is de ether flink in waarde gestegen. Op 1 januari 2017 was de
+            waarde van de ether nog 10 dollar.
+             Bereken hoeveel procent de ether in waarde is gestegen in 2017.
+                Schrijf je berekening op.
+
+            In de linker grafiek zie je de stijging en daling van de waarde van de ether
+            in dollars vanaf 1 januari 2017 tot begin april 2018. De stijging lijkt op een
+            grafiek van een exponentiële formule en de daling lijkt op een grafiek van
+            een lineaire formule. Zie de rechter grafiek.
+
+
+
+
+            De formule die bij de stijging hoort, is:
+
+                   E = 10  1,48t
+
+            Hierin is E de waarde van de ether in dollars en t het aantal maanden na
+            1 januari 2017.
+
+1p    7     Met hoeveel procent steeg volgens de formule de waarde van de ether
+            per maand in 2017?
+
+2p    8     Laat met een berekening zien dat de waarde van de ether op
+            1 december 2017 volgens deze formule afgerond 746 dollar was.
+
+
+GT-0153-a-23-1-o                              6 / 12                             lees verder ►►►
+3p    9     Bereken in de loop van welke maand in 2017 de waarde van de ether
+            volgens de formule voor het eerst meer dan 250 dollar was. Schrijf je
+            berekening op.
+
+4p    10    Op 15 januari 2018 was de waarde van de ether gelijk aan 1350 dollar.
+            Daarna daalde de waarde lineair tot 370 dollar op 5 april 2018.
+             Maak een formule voor de waarde van de ether in dollars in deze
+               periode. Gebruik de letters E voor de waarde in dollars en d voor het
+               aantal dagen met d = 0 op 15 januari 2018.
+
+5p    11    Op 1 mei 2018 was de waarde van de ether gelijk aan 680 dollar. Je kan
+            de koers vanaf 1 mei 2018 tot 1 juli 2019 berekenen met de formule:
+
+                   E = 7,5t2 – 135t + 680
+
+            Hierin is E de waarde van de ether in dollars en t het aantal maanden met
+            t = 0 op 1 mei 2018.
+
+            Op de uitwerkbijlage staan een tabel en een assenstelsel getekend.
+             Teken in het assenstelsel de grafiek die bij deze formule hoort. Vul
+               eerst de tabel in. Maak zelf een juiste verdeling bij de verticale as.
+
+
+
+
+GT-0153-a-23-1-o                             7 / 12                             lees verder ►►►
+      Ocean Cleanup
+
+            In het noordelijk deel van de Stille Oceaan, tussen de Verenigde Staten
+            en Hawaï, drijft een grote hoeveelheid plastic. Dit wordt de plasticsoep
+            genoemd. De oppervlakte hiervan is 1,6 miljoen km2.
+
+2p    12    De oppervlakte van Nederland is 41,5 duizend km2.
+             Bereken hoeveel keer zo groot de oppervlakte van de plasticsoep is
+               als de oppervlakte van Nederland. Schrijf je berekening op.
+
+
+            De Nederlander Boyan Slat bedacht de
+            Ocean Cleanup om plastic uit de oceaan
+            te verzamelen.
+            Hierbij drijft een lange buis met daaronder
+            een scherm in het water. Een schip trekt
+            deze buis voort door het water.
+
+
+2p    13    Er drijven naar schatting 1800 miljard stukken plastic in deze plasticsoep.
+            Daarvan kan 92% met de Ocean Cleanup verzameld worden.
+             Bereken hoeveel stukken plastic met de Ocean Cleanup kunnen
+                worden verzameld. Schrijf je berekening op.
+
+            Op de uitwerkbijlage zie je een kaart van een deel van de Stille Oceaan
+            met daarop het midden M van de plasticsoep.
+
+1p    14    Op 8 september 2018 vertrok het schip vanuit San Francisco naar het
+            midden M. De route is getekend op de kaart op de uitwerkbijlage.
+             Hoeveel graden is de koershoek van San Francisco naar punt M?
+
+
+
+
+GT-0153-a-23-1-o                            8 / 12                            lees verder ►►►
+            Hierboven zie je een schematische weergave van de buis. AC is een deel
+            van een cirkelboog met middelpunt B en straal 153 m.
+
+4p    15    Tussen punt A en punt C van de buis hangt onder water een rechthoekig
+            scherm FGCA waarmee het plastic wordt verzameld. Het scherm is 3,2 m
+            hoog.
+             Bereken hoeveel m2 de oppervlakte van het scherm FGCA is. Schrijf
+               je berekening op.
+
+4p    16    Bereken, zonder te meten, hoeveel meter lijnstuk AC in driehoek ABC is.
+            Schrijf je berekening op.
+
+
+
+
+GT-0153-a-23-1-o                           9 / 12                          lees verder ►►►
+      Waterglijbaan
+
+            Je ziet een foto van een waterglijbaan. Een bootje glijdt een aantal keer
+            heen en weer in de glijbaan.
+
+
+
+
+2p    17    Het bootje op de foto is 1,20 meter lang.
+             Bereken met behulp van de foto de hoogte van de starttoren in
+               meters. Schrijf je berekening op.
+
+            De hoogte van de glijbaan kun je berekenen met de formule:
+
+                   h = 0,2a2 – 2a + 5
+
+            Hierin is h de hoogte in meters en a de horizontale afstand in meters
+            vanaf punt P.
+
+            Hieronder zie je de grafiek die bij de formule hoort.
+
+
+
+
+2p    18    Bereken hoeveel meter de hoogte van punt P is volgens de formule.
+            Schrijf je berekening op.
+
+
+GT-0153-a-23-1-o                            10 / 12                           lees verder ►►►
+3p    19    In het midden, onderin de glijbaan, staat een laagje water. De breedte van
+            het laagje water is 1 meter. Hieronder zie je een vergroting van de
+            situatie.
+
+
+
+
+             Bereken met behulp van de formule hoeveel cm de hoogte van het
+              laagje water is. Schrijf je berekening op.
+
+
+            Het bootje glijdt heen en weer. Elke keer komt het bootje een beetje
+            minder hoog. Hieronder zie je de grafiek van de eerste keren heen en
+            weer. De grafiek staat ook op de uitwerkbijlage.
+
+
+
+
+            Na 6 seconden is de hoogte van het bootje 3,2 meter. De hoogte neemt
+            iedere 3 seconden met 20% af.
+
+1p    20    Laat met een berekening zien dat na 9 seconden de hoogte 2,56 meter is.
+
+3p    21    Teken op de uitwerkbijlage de grafiek verder af tot 9 seconden.
+
+
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-23-1-o                           11 / 12                            lees verder ►►►
+      Tankopslag
+
+            Op een tankopslagplaats bij Rotterdam wordt olie in grote tanks
+            opgeslagen. De tanks hebben de vorm van een cilinder.
+
+
+
+
+3p    22    Op de uitwerkbijlage zie je een luchtfoto van de tankopslagplaats.
+             Bereken de schaal van deze foto. Schrijf je berekening op.
+
+            De hoogte van een cilindervormige tank is 22 meter en de inhoud is
+            110 000 m3.
+
+3p    23    Bereken hoeveel hele meter de straal van deze tank is. Schrijf je
+            berekening op.
+
+3p    24    Er staan in totaal 39 van deze tanks op de tankopslagplaats.
+             Bereken hoeveel liter olie in totaal in deze tanks kan worden
+                opgeslagen. Schrijf je berekening op en geef je antwoord in de
+                wetenschappelijke notatie.
+
+3p    25    Op een bepaald tijdstip is de schaduw van een tank 17 meter lang. Je ziet
+            een schematische tekening van de tank met de schaduw.
+
+
+
+
+             Bereken hoeveel graden de hoek is die de zonnestralen op dit tijdstip
+              met de grond maken. Schrijf je berekening op.
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-23-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,274 @@
+                                                   Examen VMBO-GL en TL
+
+                                                                       2021
+                                                                              tijdvak 2
+                                                                       dinsdag 15 juni
+                                                                     13.30 - 15.30 uur
+
+
+                                                      wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 68 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-21-2-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-21-2-o                             2/9                    lees verder ►►►
+      Schaap
+
+
+
+
+2p    1     Een volwassen Fries melkschaap levert bij het melken gemiddeld 2,4 liter
+            melk per dag. Om 1 kg kaas te produceren is 10 liter melk nodig.
+             Bereken hoeveel dagen een schaap gemolken moet worden om een
+               kaas van 12 kg te produceren. Schrijf je berekening op.
+
+            De energiebehoefte van een schaap is te berekenen met de formule
+
+                   E = 145    s
+
+            Hierin is E de energiebehoefte van een schaap in kcal (kilocalorieën) en
+            s het gewicht van het schaap in kg.
+
+1p    2     Waarom is in de formule geen sprake van een lineair verband? Leg je
+            antwoord uit.
+
+5p    3     Op de uitwerkbijlage staan een tabel en een assenstelsel getekend.
+             Teken in het assenstelsel de grafiek die bij de formule hoort. Vul eerst
+               de tabel in. Maak zelf een juiste verdeling bij de verticale as.
+
+3p    4     Bereken bij hoeveel hele kg de energiebehoefte van een schaap voor het
+            eerst hoger is dan 1000 kcal. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-21-2-o                            3/9                              lees verder ►►►
+      Glazen tafel
+
+            Je ziet een tafel met een glazen tafelblad.
+
+
+
+
+            Het glazen tafelblad heeft de vorm van een cilinder met een straal van
+            42 cm. De dikte van het tafelblad is 0,8 cm.
+
+4p    5     Het glas weegt 2,5 gram per cm3.
+             Bereken hoeveel kg het glazen tafelblad weegt. Schrijf je berekening
+               op.
+
+3p    6     Het onderstel van de tafel wordt vastgemaakt bij de punten A, B en C, zie
+            de foto hierboven. Op de uitwerkbijlage is het bovenaanzicht van het
+            tafelblad op schaal getekend met middelpunt M. De punten A, B en C zijn
+            de hoekpunten van de gelijkzijdige driehoek ABC en liggen op de
+            gestippelde cirkel met middelpunt M. Punt A is al getekend.
+             Teken driehoek ABC verder af.
+
+4p    7     Hieronder zie je een vereenvoudigd wiskundig model van het zijaanzicht
+            van een van de drie poten van de tafel. De ronding in de hoek is er in de
+            tekening uitgehaald.
+
+
+
+
+            Hoek P is 105°. De lengte van FP is 36 cm.
+             Bereken, zonder te meten, hoeveel cm de hoogte h is. Schrijf je
+               berekening op.
+
+
+
+GT-0153-a-21-2-o                             4/9                              lees verder ►►►
+      Exoplaneet
+
+
+
+
+            Exoplaneten zijn planeten die draaien om een andere ster dan de zon.
+            De exoplaneet op de afbeelding draait in 18 uur om een ster.
+
+3p    8     Bereken hoe vaak deze exoplaneet in 1 jaar om de ster draait. Schrijf je
+            berekening op.
+
+            Deze exoplaneet heeft de vorm van een bol met een diameter van
+            25 484 km.
+
+2p    9     Laat met een berekening zien dat de inhoud van deze bol afgerond
+            8,7  1012 km3 is.
+
+3p    10    1 m3 van deze exoplaneet weegt 10 800 kg.
+             Bereken hoeveel kg deze exoplaneet in totaal weegt. Schrijf je
+               berekening op en geef je antwoord in de wetenschappelijke notatie.
+
+2p    11    De diameter van de aarde is 2 keer zo klein als die van de exoplaneet. Ga
+            ervan uit dat de aarde ook de vorm van een bol heeft.
+             Hoeveel keer zo klein is de inhoud van de aarde vergeleken met de
+               inhoud van de exoplaneet? Laat zien hoe je aan je antwoord komt.
+
+
+
+
+GT-0153-a-21-2-o                            5/9                              lees verder ►►►
+      Tafeltennistafel
+
+            Een tafeltennistafel is 152,5 cm breed en
+            274 cm lang. Je ziet rechts het bovenaanzicht
+            van de tafeltennistafel.
+
+
+
+
+2p    12    Laat met een berekening zien dat de diagonaal van de tafel (AC) afgerond
+            314 cm is.
+
+            Een speler slaat een bal zo over de tafeltennistafel dat de bal eerst bij
+            punt A stuitert en dan in de richting van punt C gaat.
+            Een deel van het zijaanzicht van de baan van de bal zie je hieronder.
+
+
+
+
+            De formule die bij deze baan van de bal hoort is
+
+                   h = –0,0008a2 + 0,255a
+
+            Hierin is h de hoogte in cm van de bal boven de tafeltennistafel en a de
+            horizontale afstand in cm van de bal vanaf punt A. Het net heeft een
+            hoogte van 15,25 cm.
+
+4p    13    Bereken hoeveel cm de afstand van de bal boven het net is volgens de
+            formule. Schrijf je berekening op en rond je antwoord af op één decimaal.
+
+
+
+
+GT-0153-a-21-2-o                             6/9                                lees verder ►►►
+2p    14    Stuitert deze bal ook een tweede keer op de tafel volgens de formule?
+            Leg je antwoord uit met een berekening.
+
+3p    15    De snelst geslagen bal bij tafeltennis had een snelheid van 69,9 mijl per
+            uur. 1 mijl = 1,609 km.
+             Bereken de snelheid van deze bal in meters per seconde. Schrijf je
+               berekening op. Rond je antwoord af op één decimaal.
+
+
+
+
+GT-0153-a-21-2-o                             7/9                              lees verder ►►►
+      Tegels in Marrakesh
+
+
+
+
+            In de stad Marrakesh liggen rechthoekige tegels met in het midden van de
+            tegel een ster, zie de foto rechts. Deze ster is lijnsymmetrisch en
+            draaisymmetrisch.
+
+1p    16    Hoeveel symmetrie-assen heeft de ster?
+
+2p    17    Bereken hoeveel graden de kleinste hoek is waarover de ster
+            draaisymmetrisch is. Schrijf je berekening op.
+
+            In de tegel is ook een gelijkzijdige driehoek te herkennen.
+
+
+
+
+5p    18    De zijden van de gelijkzijdige driehoek zijn 25 cm lang.
+             Bereken, zonder te meten, hoeveel cm2 de oppervlakte van deze
+               driehoek is. Schrijf je berekening op.
+
+
+
+
+3p    19    In elk hoekpunt van deze gelijkzijdige driehoek is een vlieger te zien.
+            Hoek A = hoek C = 90°.
+             Bereken de grootte van hoek B. Schrijf je berekening op.
+
+
+GT-0153-a-21-2-o                             8/9                               lees verder ►►►
+      Plantengroei
+
+
+
+
+3p    20    Bij een school is een vijver aangelegd, zie de tekening.
+            De vijver is 6,2 meter breed.
+             Laat met een berekening zien dat het wateroppervlak van de vijver
+                afgerond 667 m2 is.
+
+            In de vijver groeien planten, die ervoor zorgen dat de waterkwaliteit op
+            den duur achteruit gaat. Op 1 juli 2016 heeft de beheerder alle planten uit
+            de vijver verwijderd. Na 1 jaar is 164 m2 van het wateroppervlak weer
+            bedekt met planten.
+
+2p    21    Hoeveel procent van het wateroppervlak is na 1 jaar weer bedekt met
+            planten? Schrijf je berekening op en rond je antwoord af op één decimaal.
+
+            De volgende jaren neemt de plantengroei met een vast percentage per
+            jaar toe. Het bedekte wateroppervlak is te benaderen met de formule
+
+                   W = 164  1,31t
+
+            Hierin is W het bedekte wateroppervlak in m2 en t de tijd in jaren met t = 0
+            op 1 juli 2017.
+
+2p    22    Hoeveel m2 van het wateroppervlak is volgens de formule op 1 juli 2019
+            bedekt? Schrijf je berekening op.
+
+4p    23    Op de uitwerkbijlage staan een tabel en een assenstelsel getekend.
+             Teken in het assenstelsel de grafiek die bij de formule hoort. Vul eerst
+               de tabel in.
+
+3p    24    Als het wateroppervlak helemaal bedekt is, moet de beheerder de vijver
+            schoonmaken.
+             In welk jaar moet de beheerder de vijver weer schoonmaken volgens
+                de formule? Schrijf je berekening op.
+
+
+
+GT-0153-a-21-2-o                             9/9                               lees verdereinde
+                                                                                            ►►► 
+

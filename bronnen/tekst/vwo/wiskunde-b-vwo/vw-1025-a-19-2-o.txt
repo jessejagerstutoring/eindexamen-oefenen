@@ -1,0 +1,600 @@
+                                                                 Examen VWO
+
+                                                                     2019
+                                                                            tijdvak 2
+                                                                   woensdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 17 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-19-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t ) cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-19-2-o                                        2 / 15                        lees verder ►►►
+      Minimale lengte
+
+            De functie f wordt gegeven door f ( x)  x( x  3) 2  2 . Op de grafiek van f
+            ligt het punt P. Verder is gegeven het punt A (7, 0) . Zie de figuur.
+
+            De lengte van lijnstuk AP hangt af van de positie van P. In de figuur is P
+            zó gekozen dat de lengte van lijnstuk AP minimaal is.
+
+            figuur
+               y
+
+
+
+
+                          f
+
+
+
+
+                               P
+
+
+
+
+                                                       A
+                   O                                          x
+
+
+
+4p    1     Bereken deze minimale lengte. Geef je eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-19-2-o                              3 / 15                              lees verder ►►►
+      Bewegend punt
+
+            De beweging van een punt P wordt beschreven door de volgende
+            bewegingsvergelijkingen:
+                    x(t )  cos(2t )  sin(2t )
+                                                  met 0  t  2
+                    y (t )  sin(2t )  sin(t )
+
+            Op verschillende tijdstippen                    figuur 1
+            bevindt P zich op de x-as. Op                              y
+            een van die tijdstippen bevindt P
+            zich links van de y-as.
+            Zie figuur 1, waarin de positie
+            van P op dit tijdstip is
+            aangegeven.
+4p    2     Bereken exact de x-coördinaat
+            van P op dit tijdstip.
+
+                                                            P
+                                                                       O            x
+
+
+
+
+            Op de tijdstippen t  0 en t                  figuur 2
+            bevindt P zich in hetzelfde punt.                          y
+            Dit punt is met een stip
+            aangegeven in figuur 2.
+            Ook zijn de snelheidsvector van P
+            op tijdstip t  0 en de
+            snelheidsvector van P op
+            tijdstip t   aangegeven.
+
+
+
+                                                                           P
+                                                                       O            x
+
+
+
+
+6p    3     Bereken algebraïsch de hoek in graden tussen deze twee
+            snelheidsvectoren. Geef je eindantwoord in één decimaal.
+
+
+VW-1025-a-19-2-o                                   4 / 15                      lees verder ►►►
+      Raaklijn in knikpunt
+
+            De functie f wordt gegeven door:
+                   f ( x)  x  2   12 x  2   1
+
+            De grafiek van f heeft een knik in het punt A. Dit punt verdeelt de grafiek
+            in twee delen. De lijn l is de raaklijn in A aan het linkerdeel van de grafiek.
+            Zie de figuur.
+
+            figuur
+                                    y
+
+
+
+
+                       f
+
+
+                                            A
+                                   O                        x
+
+
+                                                       l
+
+
+
+5p    4     Stel op exacte wijze een vergelijking van lijn l op.
+
+
+
+
+VW-1025-a-19-2-o                                           5 / 15                lees verder ►►►
+      Optimale snijsnelheid
+
+            In de metaalindustrie worden met een boormachine gaten in harde
+            materialen geboord. Zie de foto.
+            foto
+
+
+
+
+            De levensduur van een boor is afhankelijk van de (snij)snelheid: dit is de
+            snelheid waarmee de buitenkant van de boor door het metaal snijdt. Bij
+            een hoge snelheid zal de boor snel slijten waardoor de levensduur kort is.
+
+            Rond 1900 stelde F.W. Taylor het volgende verband vast:
+                   V T m  C
+            Hierin is:
+            – V de (snij)snelheid van de boor (in meter per minuut (m/min))
+               (V ligt vaak tussen de 5 en 150 m/min),
+            – T de levensduur (in minuten),
+            – m een constante die afhangt van het materiaal waarvan de boor is
+               gemaakt,
+            – C een constante die afhangt van het materiaal waarin wordt geboord.
+
+            De waarden van m en C worden experimenteel bepaald.
+            De resultaten van een meting in een bepaalde situatie zijn:
+             Bij een snelheid van 20 m/min is de levensduur 116 minuten.
+             Bij een snelheid van 30 m/min is de levensduur 40 minuten.
+4p    5     Bereken algebraïsch de waarden van m en C in deze situatie. Geef m in
+            twee decimalen en C als geheel getal.
+
+            In een fabriek boort één boormachine 24 uur per dag dezelfde soort
+            gaten. Het is belangrijk de snelheid van de boor goed in te stellen: een
+            hoge snelheid betekent dat het boren van een gat minder tijd kost. Maar
+            daar staat tegenover dat de boor sneller vervangen moet worden.
+            Men wil berekenen bij welke snelheid V het aantal geboorde gaten A per
+            24 uur maximaal is.
+
+
+VW-1025-a-19-2-o                            6 / 15                           lees verder ►►►
+            Om A uit te kunnen drukken in V doen we de volgende aannames:
+            a Het aantal gaten N dat in één minuut geboord kan worden, is recht
+              evenredig met de snelheid V van de boor. Bij een snelheid van
+              20 m/min boort deze boor 6 gaten in één minuut.
+            b Met behulp van de formule van Taylor is te berekenen na hoeveel
+              minuten boren de boor vervangen moet worden. Voor het boorproces
+              in deze fabriek geldt C  150 en m  0, 25 , dus V  T 0,25  150 .
+            c Het vervangen van een boor kost telkens 2 minuten. De boormachine
+              is dus maar een deel van de tijd bezig met boren.
+              Voor dit deel d geldt: d  TT 2
+            d      Voor het aantal geboorde gaten A per 24 uur geldt: A  1440  N  d
+
+            Met de aannames a, b, c en d kun je voor A de volgende formule
+            opstellen:
+                            432V
+                   A
+                           2
+                             4
+                               V 4  1
+                         150
+
+5p    6     Leid deze formule voor A af uit de aannames a, b, c en d.
+
+            In de figuur is de grafiek van A weergegeven voor 5  V  150 .
+
+            figuur
+
+                30 000
+            A
+
+
+                20 000
+
+
+
+                10 000
+
+
+
+
+                     O                    50        100             150
+                                                                          V
+
+            Uit de grafiek blijkt dat er een snelheid is waarbij het aantal geboorde
+            gaten per 24 uur maximaal is.
+5p    7     Bereken algebraïsch deze snelheid in m/min. Geef je eindantwoord in
+            één decimaal.
+
+
+
+
+VW-1025-a-19-2-o                               7 / 15                            lees verder ►►►
+      Oppervlakte onder een sinusgrafiek
+
+            De functie f met domein [0, ] wordt gegeven door f ( x )  2sin( x ) .
+
+            We bekijken het gebied dat begrensd wordt door de grafiek van f, de x-as,
+            de lijn met vergelijking x  p en de lijn met vergelijking x    p . Hierin is
+             0  p  12  . In figuur 1 is dit gebied grijs. De oppervlakte van het gebied
+            is A( p ) .
+
+            figuur 1
+            y
+            2
+                                      f
+
+
+            1
+
+
+
+
+            O        p                    π−p       π       x
+
+            Er geldt: A( p )  4cos( p ) .
+
+4p    8     Bewijs dat deze formule voor A( p ) juist is.
+
+            De lijn met vergelijking x  p snijdt de grafiek van f in het punt P.
+            De lijn met vergelijking x    p snijdt de grafiek van f in het punt Q.
+            De horizontale lijn door P en Q verdeelt het grijze gebied in twee delen.
+            Het deel boven deze lijn is V, het deel onder deze lijn is W. Zie figuur 2.
+
+            figuur 2
+                y
+                2
+                                          f
+                               V
+                       P                       Q
+
+                1
+                               W
+
+
+                O        p                    π−p       π       x
+
+            Er is één waarde van p waarvoor de oppervlakten van V en W aan elkaar
+            gelijk zijn.
+4p    9     Bereken deze waarde van p. Geef je eindantwoord in twee decimalen.
+
+
+
+VW-1025-a-19-2-o                                        8 / 15                     lees verder ►►►
+      Horizontale en verticale asymptoot
+
+            De functie f wordt gegeven door:
+                            e 2 x  1000
+                   f ( x) 
+                               e x  10
+            De grafiek van f heeft een horizontale asymptoot en een verticale
+            asymptoot. In de figuur is de grafiek van f met de beide asymptoten
+            weergegeven. De twee asymptoten snijden elkaar in het punt B.
+            Het punt A is het snijpunt van de horizontale asymptoot en de y-as.
+            Het punt C is het snijpunt van de horizontale asymptoot en de grafiek
+            van f.
+
+            figuur
+                   y
+
+
+
+
+                                               f
+
+
+
+
+                       A           B       C
+
+                   O                                    x
+
+
+
+7p   10     Bewijs dat B het midden is van lijnstuk AC.
+
+
+
+
+VW-1025-a-19-2-o                               9 / 15                        lees verder ►►►
+      Wind aan zee
+
+            Wind heeft een richting en een snelheid. Daarom kan wind als een vector
+            worden weergegeven. In de figuren bij deze opgave wordt een wind met
+            een snelheid van 1 m/s weergegeven als een vector van 1 cm.
+
+            Op een warme zomerdag worden aan de kust de windrichting en de
+            windsnelheid door twee processen bepaald:
+                      de luchtstroming van een gebied met hoge luchtdruk naar een gebied
+                                                       
+                       met lage luchtdruk: dit is wind wd .
+                      de luchtstroming die ontstaat doordat de temperatuur boven zee
+                                                             
+                       anders is dan boven land: dit is wind wz . We gaan er in deze opgave
+                       van uit dat deze wind loodrecht op de kustlijn staat en richting het land
+                       waait.
+                                                                                   
+            In figuur 1 is een voorbeeldsituatie getekend waarbij wind wd in westelijke
+            richting waait.
+
+            figuur 1
+                   N
+
+             W          O
+                                                        ku
+                   Z                   zee                stli
+                                                              jn
+                                                                        land
+
+                            wd                   O
+
+
+                                                                   wz
+                             zee           wr
+                                                     land
+
+                                             
+            De resulterende wind wr is de wind zoals die wordt ervaren door iemand
+                                                                                 
+            die zich aan de kust in punt O bevindt. Er geldt: wr  wz  wd .
+
+            Op de uitwerkbijlage is een deel van een kust getekend. Er geldt:
+                                
+                      De wind wz waait met een snelheid van 4 m/s landinwaarts.
+                                
+                      De wind wd waait met een snelheid van 6 m/s.
+                                            
+                      De resulterende wind wr waait evenwijdig met de kustlijn.
+
+            Op basis van bovenstaande drie gegevens zijn er twee mogelijkheden
+                 
+            voor wd .
+                                                                          
+4p   11     Teken op de uitwerkbijlage deze twee vectoren wd . Neem daarbij punt O
+                                       
+            als beginpunt van wd . Licht je aanpak toe.
+
+
+
+VW-1025-a-19-2-o                                     10 / 15                           lees verder ►►►
+            Op een plek langs de Nederlandse kust (in figuur 2 het punt O) maakt de
+            kustlijn een hoek van 30° met het noorden. Op zekere dag waait de
+                   
+            wind wd met een snelheid van 5 m/s in zuidwestelijke richting. De
+                           
+            wind wz heeft een snelheid van 3 m/s en staat loodrecht op de kustlijn.
+            In figuur 2 zijn de lijn noord-zuid en de lijn oost-west de assen van het
+                                                          
+            assenstelsel. De lijn door O waar vector wd op ligt, is gestippeld
+            getekend; die maakt dus een hoek van 45 met het noorden.
+            Figuur 2 staat ook op de uitwerkbijlage.
+
+            figuur 2
+                   N
+
+             W         O
+                   Z                                        kus
+                                                               tlij
+                                                                   n
+                                                     45º
+                               zee
+                                               30º
+
+
+
+                                                           90º
+                                           O
+
+
+                                                      wz
+                                 wd
+
+
+                                      wr                               land
+
+
+
+
+5p   12     Bereken algebraïsch de snelheid in m/s van de resulterende wind. Geef je
+            eindantwoord in één decimaal. Je kunt bij deze vraag de uitwerkbijlage
+            gebruiken.
+
+
+
+
+VW-1025-a-19-2-o                                     11 / 15                    lees verder ►►►
+      Twee logaritmische functies
+
+            De functies f en g worden gegeven door:
+
+                       f ( x)  log    x  en                  
+                                                 g ( x)  log x x  1
+            De lijn met vergelijking y  q snijdt de grafiek van f in het punt A en de
+            grafiek van g in het punt B. Zie figuur 1.
+
+            figuur 1
+                   y
+
+
+
+
+                             y=q            A
+                                                       B
+
+
+                   O                                                    x
+                         f
+                                       g
+
+
+
+
+            Er zijn waarden van q waarvoor A links van B ligt en de lengte van lijnstuk
+            AB gelijk is aan 3.
+4p   13     Bereken deze waarden van q. Geef je eindantwoorden in twee decimalen.
+
+
+
+
+VW-1025-a-19-2-o                                     12 / 15                    lees verder ►►►
+            Het snijpunt van de twee grafieken ligt bij x  10 .
+            Gegeven is p  10 . De lijn met vergelijking x  p ligt dan rechts van het
+            snijpunt van de twee grafieken.
+            De lijn met vergelijking x  p snijdt de grafiek van f in het punt C, de
+            grafiek van g in het punt D en de x-as in het punt E.
+            Doordat p  10 , ligt D boven C. Zie figuur 2.
+
+            figuur 2
+                   y
+
+                                                                           x=p
+
+                                                                       D
+
+                                                                       C
+
+
+
+
+               O                                      10               E          x
+                         f
+                                 g
+
+
+
+
+            De verhouding tussen de lengte van lijnstuk CD en de lengte van lijnstuk
+            CE hangt af van p. Er geldt:
+                       CD 2log( p )  2
+                          
+                       CE   log( p )
+
+                                           CD
+3p   14     Bewijs dat deze formule voor      juist is.
+                                           CE
+
+                                                                CD
+            Als p onbegrensd toeneemt, nadert de verhouding        tot een
+                                                                CE
+            grenswaarde.
+2p   15     Bereken exact deze grenswaarde.
+
+
+
+
+VW-1025-a-19-2-o                            13 / 15                              lees verder ►►►
+      Parabool en cirkel met variabele straal
+
+            Gegeven is de parabool met vergelijking y  x 2 en een punt M (0, r ) op
+            de positieve y-as. We bekijken de cirkel met middelpunt M en straal r.
+            Het punt O (0, 0) ligt op deze cirkel en op de gegeven parabool.
+
+            Afhankelijk van de waarde van r hebben de cirkel en de parabool één
+            gemeenschappelijk punt of drie gemeenschappelijke punten.
+            In figuur 1 is de situatie met r  20
+                                               9 getekend, waarbij er één
+
+            gemeenschappelijk punt is. In figuur 2 is de situatie met r  1 getekend,
+            met drie gemeenschappelijke punten.
+
+            figuur 1    r  20
+                            9                          figuur 2   r 1
+
+                          y                                       y
+
+
+
+
+                                                                      M
+                              M
+
+                         O               x                                        x
+                                                                  O
+
+
+5p   16     Bereken exact voor welke waarden van r de cirkel en de parabool drie
+            gemeenschappelijke punten hebben.
+
+
+
+
+VW-1025-a-19-2-o                             14 / 15                          lees verder ►►►
+            In de rest van deze opgave gaan we uit van de situatie waarin de cirkel en
+            de parabool alleen punt O gemeenschappelijk hebben.
+
+            De lijn k gaat door M en is evenwijdig aan de x-as.
+            V is het gebied rechts van de y-as dat wordt ingesloten door de cirkel,
+            de parabool en lijn k. In figuur 3 is dit gebied lichtgrijs gemaakt.
+            W is het gebied rechts van de y-as dat wordt ingesloten door de cirkel,
+            de y-as en lijn k. In figuur 3 is dit gebied donkergrijs gemaakt.
+
+            figuur 3
+                                                     y
+
+
+
+
+                                                 M                                    k
+
+
+                                                         W       V
+
+
+                                                     O                                    x
+
+
+            Wanneer de cirkel wordt gewenteld om de y-as, ontstaat een bol met
+            inhoud 43 r 3 .
+
+            De gebieden V en W worden gewenteld om de y-as.
+            Er is een waarde van r waarvoor de inhoud van de omwentelingslichamen
+            van V en W aan elkaar gelijk zijn.
+5p   17     Bereken exact deze waarde van r.
+
+
+
+
+VW-1025-a-19-2-o                           15 / 15                            lees verdereinde
+                                                                                           ►►► 
+

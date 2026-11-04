@@ -1,0 +1,468 @@
+                                                                Examen HAVO
+
+                                                                     2019
+                                                                            tijdvak 2
+                                                                   woensdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-19-2-o
+      Een logaritmische en een exponentiële functie
+
+            De functies f en g worden gegeven door:
+
+                       f ( x)  4 x 1  3   en                         
+                                                  g ( x)  8  2 log 4 x  1 12    
+            Op de grafiek van f ligt een punt met y-coördinaat 13. Dat is het punt A.
+            Op de grafiek van g ligt ook een punt met y-coördinaat 13. Dat is het
+            punt B.
+            Zie de figuur, waarin het lijnstuk AB vet weergegeven is.
+
+            figuur
+                            y
+
+                                  A                             B
+                          13
+
+
+
+                   g
+
+                                   f
+
+
+
+
+                            O                                       x
+
+
+
+
+6p    1     Bereken exact de lengte van lijnstuk AB.
+
+            De grafiek van g ontstaat uit de grafiek van de standaardfunctie
+            y  2 log ( x) door een horizontale en een verticale translatie.
+            Door het functievoorschrift van g te herleiden tot de vorm
+            g ( x)  2 log ( x  a )  b kun je op exacte wijze berekenen om welke
+            horizontale en verticale translatie het gaat.
+3p    2     Bereken op exacte wijze door welke horizontale en verticale translatie de
+            grafiek van g ontstaat uit de grafiek van de standaardfunctie y  2 log ( x) .
+
+
+
+
+HA-1025-a-19-2-o                                       2 / 12                            lees verder ►►►
+      Hoe lang is DE ?
+
+            Gegeven is driehoek ABC met AB  11 , BC  8 en AC  5 .
+            Het punt D ligt op zijde AB, zo dat lijnstuk CD loodrecht op zijde AB staat.
+            Het punt E ligt op zijde AC, zo dat lijnstuk DE evenwijdig is met zijde BC.
+            Zie de figuur.
+
+            figuur
+                                     C
+
+
+
+                                                              8
+                         5
+
+                     E
+
+
+
+             A                        D                                                 B
+                                                 11
+
+6p    3     Bereken algebraïsch de lengte van lijnstuk DE. Geef je eindantwoord in
+            twee decimalen.
+
+
+
+
+HA-1025-a-19-2-o                             3 / 12                            lees verder ►►►
+      Viscositeit
+
+            Er wordt veel onderzoek gedaan naar de
+            viscositeit van vloeistoffen.
+            De viscositeit van een vloeistof is een getal
+            dat aangeeft hoe stroperig die vloeistof is:
+            hoe groter de viscositeit, hoe stroperiger die
+            vloeistof.
+
+            Suiker kun je in water oplossen. De
+            concentratie suiker bepaalt de viscositeit
+            van de vloeistof die zo ontstaat. Aan het
+            begin van de twintigste eeuw is het
+            volgende theoretische verband afgeleid tussen de concentratie suiker en
+            de viscositeit:
+                        1  0,5C
+                   V
+                        (1  C ) 4
+            Hierin is V de viscositeit en C de concentratie suiker.
+            Hierbij wordt met een concentratie van bijvoorbeeld C  0,3 bedoeld dat
+            het volume van de suiker 30% van het totale volume van de vloeistof is.
+
+            Tessa heeft een glas water gekregen waarin suiker is opgelost.
+            De concentratie suiker in het water is 0,17. Vervolgens voegt ze nog meer
+            suiker toe. Na deze toevoeging blijkt de viscositeit verdubbeld te zijn.
+4p    4     Bereken de concentratie suiker in het water na deze toevoeging. Geef je
+            eindantwoord in twee decimalen.
+
+            Ongeveer gelijktijdig met de vondst van de formule voor V stelde de
+            scheikundige Emil Hatschek een lineaire formule op voor het verband
+            tussen de viscositeit en de concentratie suiker:
+                   Vlin  a  C  b
+            Hierin is Vlin een benadering van V.
+            Voor dit lineaire verband geldt: a  V ' (0) en b  V (0) .
+            De waarde van V ' (0) kan benaderd worden door het differentiequotiënt
+             V
+                op een heel klein interval.
+             C
+3p    5     Stel met behulp van het differentiequotiënt op het interval  0; 0,001 een
+            formule op voor Vlin . Geef de getallen in je eindantwoord zo nodig in
+            één decimaal.
+
+
+
+
+HA-1025-a-19-2-o                              4 / 12                            lees verder ►►►
+      Twee toppen en twee evenwijdige lijnen
+
+            De functie f wordt gegeven door f ( x)  (2 x  3)3  3 x 2  6 x  4 .
+            Voor de afgeleide functie van f geldt: f ' ( x)  24 x 2  78 x  60 .
+
+
+4p    6     Bewijs dat inderdaad geldt: f ' ( x)  24 x 2  78 x  60 .
+
+            De grafiek van f heeft twee             figuur
+            toppen. Dit zijn de punten                   y
+            A en B. De lijn k is de lijn                                       l                    k
+            door A en B.
+                                                                                       B
+            Het punt P (1, 2) ligt op de grafiek
+            van f .
+            De lijn l is evenwijdig aan lijn k en                                               f
+            gaat door P.
+                                                                      P
+            Lijn k snijdt de x-as in punt K en
+            de y-as in punt M.
+            Lijn l snijdt de x-as in punt L en
+            de y-as in punt N.
+                                                                           A
+
+            Vanwege de evenwijdigheid van
+            lijn k en lijn l is driehoek OKM
+            gelijkvormig met driehoek OLN.
+
+            Zie de figuur.                               O
+                                                             L    K                                     x
+                                                             N
+
+
+
+
+                                                             M
+
+
+
+
+            Lijnstuk KM is z keer zo lang als lijnstuk LN.
+7p    7     Bereken exact de waarde van z.
+
+
+
+
+HA-1025-a-19-2-o                                5 / 12                                     lees verder ►►►
+      NK Tegenwindfietsen
+
+            Om tegen de wind in te fietsen, moet je flink hard trappen.
+
+            In deze opgave gaan we ervan uit dat de snelheid van een fietser
+            constant is en dat de snelheid van de tegenwind constant is.
+
+            Als je op een vlakke weg tegen de wind in fietst, moet je vermogen
+            leveren. Je kunt dit vermogen als volgt berekenen:
+
+                   Pvlak  0,00386  v   v  vwind 
+                                                         2
+
+
+            Hierin is Pvlak het vermogen in watt (W), v de snelheid van de fietser
+            in km/uur en vwind de snelheid van de tegenwind in km/uur.
+            Zowel v als vwind zijn positief.
+
+            Elk jaar wordt – als het hard genoeg waait – het NK (Nederlands
+            Kampioenschap) Tegenwindfietsen georganiseerd. Hierbij fietsen de
+            deelnemers 8,5 km tegen de wind in.
+
+            foto 1
+
+
+
+
+            In 2016 werd het NK Tegenwindfietsen gewonnen door Teun Sweere in
+            een tijd van 22 minuten en 30 seconden bij een tegenwind met een
+            snelheid van 80 km/uur.
+
+            Stel dat Sweere bij een toekomstige deelname aan het
+            NK Tegenwindfietsen een tegenwind heeft met een snelheid die 5% groter
+            is dan in 2016, maar dat hij met dezelfde snelheid wil fietsen als in 2016.
+            Hij zal dan een groter vermogen moeten leveren dan tijdens de wedstrijd
+            in 2016.
+5p    8     Bereken hoeveel procent méér vermogen hij dan zou moeten leveren.
+            Geef je eindantwoord als een heel getal.
+
+
+
+HA-1025-a-19-2-o                                         6 / 12                lees verder ►►►
+            Wanneer je bergop fietst, moet je ook flink wat vermogen leveren. We
+            gaan er in de rest van de opgave vanuit dat er bij bergop fietsen geen
+            wind is. Ook nemen we aan dat de berg overal even steil is.
+
+            foto 2
+
+
+
+
+            Het vermogen dat een fietser moet leveren bij bergop fietsen, kun je dan
+            als volgt berekenen:
+                   Pbergop  0,0273  m  h  v
+
+            Hierin is Pbergop het vermogen in watt (W), m de totale massa van de
+            fietser en zijn fiets in kg, h het hellingspercentage van de weg en v de
+            snelheid van de fietser in km/uur.
+
+            In Zuid-Limburg ligt de Keutenberg. De weg naar de top is 1,2 km lang en
+            heeft een hellingspercentage van 5,9%. Ibrahim is een
+            amateurwielrenner. Hij legt de weg naar de top van de Keutenberg af met
+            een vermogen van 210 W. De massa van Ibrahim en zijn fiets is
+            in totaal 72 kg.
+4p    9     Bereken hoe lang Ibrahim over de beklimming doet. Geef je eindantwoord
+            in gehele minuten.
+
+            De Alpe d’Huez is een berg in Frankrijk die zeer bekend is van de Tour de
+            France. De weg naar de top heeft een lengte van 13,4 km en een
+            hellingspercentage van 8,4%.
+
+            Tom wil de Alpe d’Huez met zijn racefiets beklimmen. Hij heeft zich als
+            doel gesteld om dat met een snelheid van 19 km/uur te gaan doen.
+            Als onderdeel van zijn training neemt hij deel aan het
+            NK Tegenwindfietsen, waarbij de wind een snelheid heeft van 70 km/uur.
+            Hij wil daarbij evenveel vermogen leveren als hij bij de rit op de
+            Alpe d’Huez moet leveren om zijn doel te halen. Tom en zijn racefiets
+            hebben samen een massa van 78 kg.
+3p    10    Bereken de snelheid waarmee Tom moet fietsen bij het
+            NK Tegenwindfietsen in km/uur. Geef je eindantwoord in één decimaal.
+
+
+
+HA-1025-a-19-2-o                                  7 / 12                       lees verder ►►►
+      Een cirkel en functies met een wortel
+
+            De functie f wordt gegeven door f ( x)  1  4 x .
+            De lijn l is de raaklijn aan de grafiek van f in het punt A (4, 9) .
+            Verder is gegeven de cirkel c met vergelijking ( x  2) 2  ( y  1) 2  8 .
+            Zie figuur 1.
+
+            figuur 1
+                                y
+
+
+
+                                                A
+
+
+
+
+                            l        f
+
+
+
+
+                                O                           x
+
+
+
+                   c
+
+
+
+
+            Lijn l en cirkel c raken elkaar.
+6p    11    Bewijs dit.
+
+
+
+
+HA-1025-a-19-2-o                                8 / 12                                lees verder ►►►
+            Cirkel c heeft twee snijpunten met de y-as. Een van die twee punten ligt
+            onder de x-as. Dit is het punt S. Zie figuur 2.
+            De functie g heeft een functievoorschrift van de vorm g ( x )  p x  q .
+            De grafiek van g heeft S als randpunt en gaat bovendien door A.
+            In figuur 2 is ook de grafiek van g weergegeven.
+
+            figuur 2
+                            y
+
+
+
+                                          A
+
+
+
+
+                                    g
+
+
+
+
+                            O                          x
+
+
+
+                   c            S
+
+
+
+5p    12    Bereken exact de waarden van p en q.
+
+
+
+
+HA-1025-a-19-2-o                              9 / 12                          lees verder ►►►
+      Sinusoïde en lijn
+
+            De functie f wordt gegeven door f ( x)  1  sin(2 x  16 ) . De grafiek van f
+             is in figuur 1 weergegeven.
+
+            figuur 1
+                   y
+
+
+
+                   O                   π           x
+
+
+                                           f
+
+
+
+
+            Er zijn vier waarden van x in het interval 0  x  2 waarvoor
+            geldt f ( x)   12 .
+6p    13    Bereken exact deze vier waarden van x.
+
+            De grafiek van f raakt de x-as in oneindig veel punten. Van deze
+            raakpunten is het punt A het punt met de kleinste positieve x-coördinaat.
+            Door A gaat een stijgende lijn l die een hoek van 75° met de x-as maakt.
+            Punt B is het snijpunt van lijn l met de y-as. Zie figuur 2.
+
+            figuur 2
+                   y
+
+
+                               A 75º
+                   O                   π            x
+
+
+                                           f
+
+                           l
+
+
+
+
+                       B
+
+
+5p    14    Bereken de afstand tussen A en B. Geef je eindantwoord in
+            twee decimalen.
+
+
+
+
+HA-1025-a-19-2-o                               10 / 12                            lees verder ►►►
+            We bekijken nu de functie g. Deze heeft de volgende eigenschappen:
+                   De grafiek van g is een sinusoïde.
+                   De periode van de grafiek van g is drie keer zo klein is als de periode
+                    van de grafiek van f.
+                   De amplitude van de grafiek van g is vier keer zo klein als de
+                    amplitude van de grafiek van f.
+                   Een laagste punt van de grafiek van g valt samen met het snijpunt van
+                    de grafiek van f met de y-as. Zie figuur 3.
+
+            figuur 3
+                y
+
+              O                         π        x
+                               f
+                        g
+
+
+
+
+            Functie g heeft een functievoorschrift van de volgende vorm:
+                    g ( x)  d  a  cos(bx)
+            Hierin zijn a, b en d getallen.
+5p    15    Bereken exact voor elk van deze drie getallen een mogelijke waarde.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1025-a-19-2-o                                11 / 12                           lees verder ►►►
+      Viaduc de Garabit
+
+            Het Viaduc de Garabit is een spoorbrug die tussen 1880 en 1884 over de
+            rivier de Truyère in Frankrijk is gebouwd. Zie de foto.
+
+            foto
+
+
+
+
+            De onderste boog is bij benadering een deel van een parabool.
+            We plaatsen de parabool in een assenstelsel, zodanig dat het beginpunt
+            van de boog zich in de oorsprong bevindt. Zie de figuur.
+            Verder is de afstand tussen beginpunt en eindpunt van de boog 165,00 m
+            en bevindt de top van de onderste boog zich 51,858 m boven de x-as.
+
+            figuur
+
+
+
+
+            De parabool is te beschrijven met een formule van de vorm y  ax 2  bx .
+5p    16    Bereken algebraïsch de waarden van a en b. Geef je eindantwoord in
+            vier decimalen.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1025-a-19-2-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

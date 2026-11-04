@@ -1,0 +1,412 @@
+                                                      Examen VMBO-BB
+
+                                                                 2023
+                                                                        tijdvak 1
+                                                               maandag 15 mei
+                                                               13.30 - 15.00 uur
+
+
+                                                        wiskunde CSE BB
+
+
+
+
+Naam kandidaat __________________________       Kandidaatnummer ____________
+
+
+
+Beantwoord alle vragen in dit opgavenboekje.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 59 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+BB-0153-a-23-1-o
+      Fotolijsten
+
+             Ghena heeft meerdere fotolijsten aan een muur in de kamer hangen.
+
+
+
+
+2p    1      Je ziet een tabel met verschillende maten van fotolijsten.
+              Zijn deze fotolijsten vierkant (of niet)? Omcirkel in de tabel bij elke
+                fotolijst het juiste antwoord.
+
+               maten (cm)              vierkant                   maten (cm)               vierkant
+                   9 × 13               ja / nee                      30 × 30               ja / nee
+                   10 × 15              ja / nee                      30 × 40               ja / nee
+                   18 × 24              ja / nee                      40 × 40               ja / nee
+                   20 × 30              ja / nee                      40 × 60               ja / nee
+
+
+3p    2      Ghena heeft zes fotolijsten gekocht om in de gang op te hangen.
+
+
+
+
+             Ghena wil 6 dezelfde fotolijsten ophangen in de gang, zo dat er overal
+             evenveel ruimte tussen de fotolijsten zit. Alle fotolijsten zijn 30 cm breed.
+             De muur van de gang is 290 cm lang. Aan beide kanten van de muur wil
+             ze 20 cm ruimte openlaten.
+              Bereken hoeveel cm de ruimte tussen twee fotolijsten steeds wordt.
+                Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+BB-0153-a-23-1-o                                             2 / 13                                             lees verder ►►►
+2p    3      Ghena heeft ook een fotolijst in de vorm van een gelijkbenige driehoek,
+             waarvan de bovenste hoek 50 graden is.
+
+
+
+
+              Bereken hoeveel graden de hoek met het vraagteken is. Schrijf je
+               berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                             3 / 13                                             lees verder ►►►
+      Looping
+
+             Op de foto zie je een achtbaan met een looping. Een looping is een ronde
+             lus in een achtbaan, waarbij je over de kop gaat.
+
+
+
+
+             Het eerste gedeelte van deze achtbaan zie je op de tekening. De karretjes
+             gaan vanaf A omhoog naar B.
+
+3p    4      De schaal van de tekening is 1 : 1250.
+              Bereken hoeveel meter de hoogte van B in werkelijkheid is. Schrijf je
+                berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+             Je ziet hieronder een schets van de achtbaan met twee dezelfde loopings
+             achter elkaar.
+
+
+
+
+BB-0153-a-23-1-o                                             4 / 13                                             lees verder ►►►
+3p    5      Een karretje legt van A naar D een afstand af van 1575 meter. De
+             gemiddelde snelheid is 17,5 meter per seconde.
+              Bereken hoeveel minuten en seconden de rit van A naar D duurt.
+                Schrijf je berekening op. Je mag de tabel gebruiken.
+
+
+
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+1p    6      De diameter van één looping is 18 meter. Je kan de lengte van één
+             looping berekenen met de woordformule:
+
+                   lengte looping = 3,14 × diameter
+
+              Laat met een berekening zien dat de lengte van één looping afgerond
+               56,5 meter is.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+3p    7      Je ziet een tekening van de twee loopings.
+
+
+
+
+             De afstand die een karretje aflegt van C naar D is 157 meter.
+              Bereken, zonder te meten, hoeveel meter de afstand EF is tussen de
+                twee loopings. Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+BB-0153-a-23-1-o                                             5 / 13                                             lees verder ►►►
+      Prikken
+
+             In 2021 werden in Nederland prikken gezet met een vaccin tegen corona.
+
+
+
+
+             In de eerste drie maanden van 2021 zijn er 2,7 miljoen prikken gezet.
+
+3p    8      Laat met een berekening zien dat er 30 000 prikken per dag zijn gezet in
+             deze drie maanden.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+3p    9      Voor de eerste drie maanden van 2021 is er een verband tussen het
+             totaal aantal gezette prikken en het aantal dagen dat er prikken zijn gezet.
+              Maak een woordformule die bij dit verband hoort.
+
+             .................................................................................................................
+
+             Op 6 april 2021 waren er in Nederland 3 miljoen prikken gezet. Vanaf die
+             datum kan je het totaal aantal gezette prikken na een aantal weken
+             berekenen met de woordformule:
+
+                   totaal aantal gezette prikken = 3 + 1,09 × aantal weken
+
+             Hierin is totaal aantal gezette prikken in miljoenen.
+
+2p    10     Bereken met de woordformule hoeveel miljoen prikken er na 7 weken in
+             totaal zijn gezet. Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+BB-0153-a-23-1-o                                             6 / 13                                             lees verder ►►►
+4p    11     Teken de grafiek bij de gegeven woordformule. Je mag de tabel
+             gebruiken. Maak zelf een juiste verdeling voor de verticale as.
+
+              aantal weken
+              totaal aantal gezette
+              prikken (in miljoenen)
+
+
+
+
+3p    12     Bereken na hoeveel hele weken er voor het eerst meer dan 10 miljoen
+             prikken zijn gezet. Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                             7 / 13                                             lees verder ►►►
+      Cannelloni
+
+             Cannelloni is een Italiaans pastagerecht waarbij je een pastavorm vult
+             met bijvoorbeeld een gehaktsaus.
+
+
+
+
+1p    13     Welke wiskundige ruimtefiguur herken je in de pastavorm? Schrijf je
+             antwoord op.
+
+             .................................................................................................................
+
+             De opening van een cannelloni heeft de vorm van een cirkel met een
+             diameter van 3 cm. De cannelloni hebben een lengte van 12 cm.
+
+
+
+
+             De oppervlakte van een cirkel kan je berekenen met de woordformule:
+
+                   oppervlakte cirkel = 3,14 × straal × straal
+
+3p    14     Bereken hoeveel cm2 de oppervlakte van de opening van een cannelloni
+             is. Schrijf je berekening op en rond af op hele cm2.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                             8 / 13                                             lees verder ►►►
+4p    15     Tim heeft 1,2 liter gehaktsaus om de cannelloni te vullen.
+
+
+
+
+             Je kan de inhoud van een cannelloni berekenen met de woordformule:
+
+                   inhoud cannelloni = 7 × lengte cannelloni
+
+             Hierbij is inhoud cannelloni in cm3, 7 in cm2 en lengte cannelloni in cm.
+
+              Bereken hoeveel cannelloni Tim maximaal met de gehaktsaus kan
+               vullen. Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+2p    16     Tim legt één laag cannelloni in een ovenschaal.
+             De cannelloni hebben een diameter van 3 cm en
+             een lengte van 12 cm. Je ziet een foto van de
+             ovenschaal met de binnenmaten.
+
+              Bereken hoeveel cannelloni Tim maximaal naast elkaar in deze
+               ovenschaal kan leggen. Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                             9 / 13                                             lees verder ►►►
+      Wintersport
+
+             Het skigebied Hochzillertal in Oostenrijk heeft drie soorten pistes om
+             vanaf te skiën: blauwe, rode en zwarte. Dit skigebied heeft in totaal
+             84 kilometer piste, waarvan 35,7% blauwe.
+
+3p    17     Bereken hoeveel kilometer blauwe piste er is in dit skigebied. Schrijf je
+             berekening op. Je mag de tabel gebruiken.
+
+
+
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+2p    18     De kleur van de piste hangt af van hoe steil de helling is. Dat wordt
+             bepaald door de grootte van de hellingshoek.
+
+              hellingshoek A                   kleur piste
+                    5° tot 10°                    blauw
+                   10° tot 17°                    rood
+                   17° tot 45°                    zwart
+
+
+
+
+             Je ziet een tekening van een piste. Michel staat boven aan de piste in
+             punt C en skiet naar punt A.
+              Gaat hij van een blauwe, rode of zwarte piste? Leg je antwoord uit.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                            10 / 13                                             lees verder ►►►
+4p    19     De afdaling is in werkelijkheid 700 meter lang. Michel skiet in
+             40 seconden van deze afdaling.
+              Bereken hoeveel kilometer per uur de gemiddelde snelheid van Michel
+                is. Schrijf je berekening op. Je mag de tabel gebruiken.
+
+
+
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                            11 / 13                                             lees verder ►►►
+      Klassenfeest
+
+             Julia organiseert een klassenfeest voor haar klas met 24 leerlingen. Ze
+             weet niet hoeveel leerlingen er zullen komen. Ze heeft 6 flessen frisdrank
+             gekocht met elk een inhoud van 1,5 liter.
+
+3p    20     Julia schenkt in ieder glas 0,25 liter frisdrank.
+              Bereken hoeveel glazen frisdrank elke leerling kan drinken als er
+                 18 leerlingen op het klassenfeest komen. Schrijf je berekening op.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+             Julia koopt voor het klassenfeest 12 zakken chips. Je kan berekenen
+             hoeveel chips elke leerling kan eten met de woordformule:
+
+                   aantal zakken chips = 12 : aantal leerlingen
+
+
+1p    21     Laat met een berekening zien dat als er 16 leerlingen op het klassenfeest
+             komen elke leerling 0,75 zak chips kan eten.
+
+             .................................................................................................................
+
+             .................................................................................................................
+
+
+
+
+BB-0153-a-23-1-o                                            12 / 13                                             lees verder ►►►
+4p    22     Teken de grafiek bij de woordformule. Vul eerst de tabel in.
+
+              aantal leerlingen                  1          2          4          8         12         16         24
+              aantal zakken chips                                                                    0,75
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+BB-0153-a-23-1-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

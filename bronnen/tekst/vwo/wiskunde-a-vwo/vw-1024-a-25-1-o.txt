@@ -1,0 +1,544 @@
+                                                                 Examen VWO
+
+                                                                     2025
+                                                                            tijdvak 1
+                                                                   woensdag 14 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 23 vragen.
+ Voor dit examen zijn maximaal 78 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-25-1-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+            naam van de regel                functie                      afgeleide
+
+            somregel                         s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+            verschilregel                    v( x )  f ( x )  g ( x )   v' ( x)  f ' ( x)  g' ( x)
+
+            productregel                     p ( x)  f ( x)  g ( x)     p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                       f ( x)                         f ' ( x)  g ( x)  f ( x)  g' ( x)
+            quotiëntregel                    q( x)                       q' ( x) 
+                                                       g ( x)                                      ( g ( x))2
+                                                                          k' ( x)  f ' ( g ( x))  g' ( x) of
+            kettingregel                     k ( x)  f ( g ( x))         dk df dg
+                                                                                    
+                                                                          dx dg dx
+
+
+            Logaritmen
+            regel                                                    voorwaarde
+             g
+                 log  a   g log  b  g log  ab                g > 0, g  1, a > 0, b > 0
+
+                                                 a
+             g
+                 log  a   g log  b   g log                   g > 0, g  1, a > 0, b > 0
+                                                 b
+             g
+                      
+                 log a p  p  g log  a                            g > 0, g  1, a > 0
+                             p
+                                 log  a 
+             g
+                 log  a   p                                       g > 0, g  1, a > 0, p > 0, p  1
+                                 log  g 
+
+
+
+
+VW-1024-a-25-1-o                                            2 / 18                                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-25-1-o                        3 / 18   lees verder ►►►
+      Energiebehoefte van vogels
+
+            Vogels hebben voor al hun normale activiteiten elke dag een bepaalde
+            hoeveelheid energie nodig. In de figuur is deze dagelijkse
+            energiebehoefte E (in kilojoule, kJ) voor een aantal vogels uitgezet tegen
+            het lichaamsgewicht G (in gram). Deze figuur staat ook op de
+            uitwerkbijlage.
+            De stippellijn in de figuur geeft bij benadering het verband tussen E en G
+            weer.
+
+            figuur
+
+
+
+
+            De duif heeft in vergelijking met de meeste andere vogels voor zijn
+            gewicht veel energie nodig.
+3p    1     Bereken hoeveel procent de dagelijkse energiebehoefte van een duif
+            meer is dan de dagelijkse energiebehoefte die volgens de stippellijn bij
+            zijn lichaamsgewicht hoort. Geef je antwoord in hele procenten.
+
+
+
+
+VW-1024-a-25-1-o                            4 / 18                            lees verder ►►►
+            Het verband tussen E en G volgens de stippellijn wordt gegeven door de
+            formule:
+                      E  5,0  G 0,75
+            Hierin is E in kJ en G in gram.
+
+3p    2     Bereken aan de hand van deze formule het gewicht van een vogel die
+            dagelijks 1000 kJ energie nodig heeft. Geef je antwoord in hele grammen.
+
+            Vogels met een groter lichaamsgewicht hebben volgens de formule ook
+            een grotere dagelijkse energiebehoefte.
+3p    3     Beredeneer aan de hand van een formule van de afgeleide van E, zonder
+            getallen in te vullen of een schets te maken, of de dagelijkse
+            energiebehoefte toenemend of afnemend stijgend is.
+
+            Je kunt de formule E  5,0  G 0,75 herleiden tot de vorm
+             ln  E   a  b  ln  G  .
+4p    4     Geef deze herleiding en geef daarbij de waarden van a en b in twee
+            decimalen.
+
+            De stippellijn die in de figuur het verband aangeeft tussen E en G gaat
+            over vogels die normale activiteiten verrichten zoals vliegen, voedsel
+            zoeken, enzovoort. Vogels die niet deze activiteiten verrichten, verbruiken
+            veel minder energie. De minimale dagelijkse energiebehoefte noemen
+            we M.
+            We nemen aan dat de minimale dagelijkse energiebehoefte M steeds
+            40% is van de normale dagelijkse energiebehoefte E. Ook de grafiek die
+            bij benadering het verband weergeeft tussen M en het lichaamsgewicht G
+            wordt in de figuur een rechte lijn.
+4p    5     Teken in de figuur op de uitwerkbijlage de grafiek die bij benadering het
+            verband weergeeft tussen M en G. Licht je werkwijze toe.
+
+
+
+
+VW-1024-a-25-1-o                              5 / 18                          lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-25-1-o                        6 / 18   lees verder ►►►
+      Golven in de Nieuw-Zeelandse economie
+
+            De economische historicus Keith Rankin modelleerde in 1998 de
+            schommelingen in de ontwikkeling van de economie van Nieuw-Zeeland
+            op basis van drie periodieke processen oftewel cycli. Hij ging ervan uit dat
+            de zogeheten voorraadcyclus, investeringscyclus en prijzencyclus de
+            economische groei beïnvloeden. Hij baseerde zijn onderzoek op
+            historische gegevens over de economie in de periode 1948–1998.
+
+            In figuur 1 zijn de invloeden van de drie cycli afzonderlijk weergegeven.
+            Hierbij is de invloed in procenten per jaar ten opzichte van een jaar eerder
+            uitgezet tegen de tijd.
+
+            figuur 1
+
+
+
+
+            Het valt in figuur 1 op dat de periodes van de drie cycli nogal van elkaar
+            verschillen. Zo duurt de cyclus met de langste periode vele malen langer
+            dan de cyclus met de kortste periode.
+2p    6     Bepaal met behulp van figuur 1 hoeveel keer zo lang. Geef je antwoord in
+            gehelen.
+
+
+
+
+VW-1024-a-25-1-o                            7 / 18                             lees verder ►►►
+            De invloed van de voorraadcyclus kan worden beschreven met de
+            formule:
+                   V (t )  0,8  sin(2, 445(t  0,024))
+            Hierin is V de (voorspelde) economische groei door de voorraadcyclus in
+            procenten per jaar ten opzichte van het voorgaande jaar en t de tijd in
+            jaren met t  0 op 1 januari 1948.
+
+            In figuur 1 kun je zien dat de voorraadcyclus op 1 september 1948 zorgde
+            voor een maximale economische groei van 1,8% ten opzichte van het jaar
+            ervoor. Verder geldt dat de minimale economische groei die veroorzaakt
+            wordt door de voorraadcyclus gelijk is aan -0,2% ten opzichte van het jaar
+            ervoor. De voorraadcyclus heeft een periode van 2,57 jaar.
+3p    7     Licht toe hoe de formule voor V uit deze gegevens volgt.
+
+            De formule voor V geeft de economische groei door de voorraadcyclus in
+            procenten per jaar ten opzichte van het voorgaande jaar, zoals eerder
+            aangegeven. Zo betekent V (74)  0,17 bijvoorbeeld dat op 1 januari
+            2022 de voorraadcyclus zorgt voor (ongeveer) –0,17% economische groei
+            ten opzichte van 1 januari 2021. Er was dus sprake van negatieve
+            economische groei.
+
+            Op 1 januari 2023 was de economische groei door de voorraadcyclus ten
+            opzichte van 1 januari 2022 weer positief.
+4p    8     Bereken de totale economische groei door de voorraadcyclus op
+            1 januari 2023 ten opzichte van 1 januari 2021. Geef je antwoord in
+            procenten in één decimaal.
+
+
+
+
+VW-1024-a-25-1-o                                 8 / 18                      lees verder ►►►
+            De investeringscyclus en de prijzencyclus uit figuur 1 kunnen beschreven
+            worden met de formules:
+                   I (t )  1,6  1,6sin(0,604(t  2,933)) en P(t )  sin(0,126(t  5,083))
+            Hierin is I de economische groei door de investeringscyclus in procenten
+            per jaar ten opzichte van het voorgaande jaar, P de economische groei
+            door de prijzencyclus in procenten per jaar ten opzichte van het
+            voorgaande jaar en t de tijd in jaren met t  0 op 1 januari 1948.
+
+            In 1998 vergeleek Rankin een theoretisch patroon op basis van de som
+            van de drie cycli met de werkelijke economische groei in de periode
+            1978–1998. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Ondanks de verschillen tussen het theoretische patroon en het werkelijke
+            patroon, vond Rankin dat er voldoende overeenkomsten waren om
+            voorspellingen te doen. Hij voorspelde bijvoorbeeld dat na een periode
+            van flinke groei in de jaren vóór 2008, de groei daarna sterk zou afnemen.
+            Deze voorspelling bleek uit te komen.
+
+            Het theoretische patroon van Rankin ontstaat door de invloeden van de
+            drie cycli bij elkaar op te tellen. Volgens dit patroon zal de economische
+            groei ergens in de periode 2025–2035 negatief zijn. Er is dan sprake van
+            krimp.
+            In de periode 2025–2035 is er een jaar waarin de krimp maximaal is.
+4p    9     Bereken deze maximale krimp. Geef je antwoord in procenten per jaar in
+            twee decimalen.
+
+
+
+
+VW-1024-a-25-1-o                               9 / 18                                lees verder ►►►
+      De slimste mens
+
+            ‘De slimste mens’ is een televisiequiz. In elke aflevering van deze quiz
+            strijden drie kandidaten tegen elkaar. In verschillende rondes moet
+            geprobeerd worden zoveel mogelijk seconden te verdienen door juiste
+            antwoorden te geven. De kandidaat die aan het einde de meeste
+            seconden heeft, is 'De slimste van de dag'.
+
+            Van deze quiz worden per jaar twee seizoenen uitgezonden, één in de
+            zomer en één in de winter. Elk seizoen bevat 30 of 35 afleveringen. Alleen
+            het 11e seizoen bevatte slechts 5 afleveringen.
+
+            In de zomer van 2020 werd het 17e seizoen uitgezonden. De 30e
+            aflevering van dit seizoen was de 500e aflevering van deze quiz.
+3p   10     Bereken hoeveel van de seizoenen vóór dit 17e seizoen uit
+            35 afleveringen bestonden.
+
+            Bij de eerste ronde van de quiz start iedere kandidaat met 60 seconden.
+            In deze ronde kunnen vijf keer 10 seconden worden verdiend. Een
+            mogelijke stand na de eerste ronde is: kandidaat A heeft 70 seconden,
+            kandidaat B heeft 80 seconden en kandidaat C heeft 70 seconden. In
+            totaal zijn er dan 40 seconden verdiend in deze ronde.
+4p   11     Bereken hoeveel verschillende standen er na de eerste ronde mogelijk
+            zijn als er in deze ronde in totaal 40 seconden worden verdiend.
+
+            In de tweede ronde worden er door drie bekende Nederlanders vragen
+            aan de kandidaten gesteld. Een bekende Nederlander mag in meerdere
+            afleveringen een vraag stellen. In een seizoen met 30 afleveringen is voor
+            elke aflevering een ander drietal bekende Nederlanders nodig.
+3p   12     Onderzoek hoeveel bekende Nederlanders er minimaal nodig zijn om in
+            elk van de 30 afleveringen een ander drietal te kunnen vormen.
+
+
+
+
+VW-1024-a-25-1-o                            10 / 18                            lees verder ►►►
+      Bandenspanning en aquaplaning
+
+            Vliegtuigen die landen op een zeer natte landingsbaan, kunnen te maken
+            krijgen met aquaplaning. Hierbij vormt zich een laagje water tussen de
+            vliegtuigband en de landingsbaan, waardoor het vliegtuig gaat glijden en
+            onbestuurbaar wordt. Het risico op aquaplaning neemt toe bij een te lage
+            bandenspanning.
+
+            Om de minimale snelheid te berekenen waarbij aquaplaning kan optreden
+            bij vliegtuigen gebruikt men de formule van Horne:
+                    Svliegtuig  63,5  P   (formule 1)
+
+            Hierin is Svliegtuig de laagste snelheid van een vliegtuig in km/uur waarbij
+            aquaplaning kan optreden en P de bandenspanning van de banden in bar.
+
+3p   13     Bereken in één decimaal de minimale bandenspanning die een vliegtuig
+            met een landingssnelheid van 223 km/uur moet hebben, om bij een
+            landing op een zeer natte landingsbaan géén last te krijgen van
+            aquaplaning.
+
+            Het is voor de veiligheid dus van groot belang dat de bandenspanning van
+            vliegtuigbanden voldoende hoog blijft. Gemiddeld verliezen banden 2%
+            aan spanning per dag. De bandenspanning mag maximaal 5% lager zijn
+            dan de aanbevolen bandenspanning. Banden worden vaak iets harder
+            opgepompt dan aanbevolen.
+
+            We gaan ervan uit dat de bandenspanning elke ochtend gecontroleerd
+            wordt en dat de vliegtuigband weer wordt opgepompt op de dag voordat
+            de bandenspanning te laag zal zijn.
+4p   14     Bereken na hoeveel dagen een vliegtuigband met een 4% hogere
+            bandenspanning dan aanbevolen, weer opgepompt moet worden.
+
+
+
+
+VW-1024-a-25-1-o                             11 / 18                            lees verder ►►►
+            Ook bij auto’s kan aquaplaning optreden. Bij personenauto’s is de laagste
+            snelheid waarbij aquaplaning kan ontstaan afhankelijk van hoe zwaar de
+            auto is beladen. De mate van belading heeft invloed op de verhouding V
+            tussen de lengte l en de breedte b van het contactoppervlak van de band
+            met de weg. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+                   licht beladen auto                 zwaar beladen auto
+
+            Voor de verhouding V geldt:
+                        b
+                   V                      (formule 2)
+                        l
+            Voor personenauto’s geldt een aangepaste variant van de formule van
+            Horne. Deze formule luidt:
+                                     P
+                   S auto  55,5          (formule 3)
+                                     V
+            In deze formule is S auto de laagste snelheid in km/uur van een auto
+            waarbij aquaplaning kan ontstaan, P de bandenspanning in bar en V de
+            verhouding uit formule 2.
+
+            Bij een zwaar beladen auto is l in verhouding tot b groter dan bij een licht
+            beladen auto.
+3p   15     Beredeneer met behulp van formules 2 en 3 of de laagste snelheid
+            waarbij aquaplaning bij een zwaar beladen auto kan ontstaan hoger of
+            juist lager is dan bij een licht beladen auto met dezelfde bandenspanning.
+
+
+
+
+VW-1024-a-25-1-o                            12 / 18                            lees verder ►►►
+            De zwaarte van de belading van een auto heeft – behalve invloed op de
+            mate van aquaplaning – meer effecten. Bij een zwaar beladen auto slijten
+            de banden sneller. Bovendien neemt het rijcomfort af, doordat de banden
+            meer geluid maken tijdens het rijden. Sommige bandenfabrikanten
+            adviseren daarom het V-getal (de V uit formule 2) niet kleiner te laten
+            worden dan 1,05.
+
+            figuur 2
+
+
+
+
+            In figuur 2 is voor een standaard testband het verband weergegeven
+            tussen het gewicht dat één band draagt en het V-getal.
+
+            In figuur 2 is ook een trendlijn getekend. Deze trendlijn gaat door de
+            punten (0,9; 507) en (1, 4; 214) .
+
+            Een bepaald type personenauto weegt 1200 kg. Neem aan dat voor het
+            verband tussen het V-getal en het gewicht per band de trendlijn uit de
+            figuur van toepassing is. Ga er verder van uit dat het gewicht van de auto
+            met lading gelijkmatig verdeeld is over de autobanden.
+4p   16     Stel een formule op voor de trendlijn en bereken hiermee hoeveel gehele
+            kilogrammen de totale lading van deze auto maximaal mag zijn zodat het
+            V-getal minimaal 1,05 is.
+
+
+
+
+VW-1024-a-25-1-o                            13 / 18                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-25-1-o                       14 / 18   lees verder ►►►
+      Myopie
+
+            Myopie is een veelvoorkomende oogafwijking die beter bekend staat als
+            bijziendheid. Iemand die lijdt aan myopie ziet objecten dichtbij scherp,
+            terwijl objecten verder weg wazig zijn.
+
+            Myopie onder kinderen is enorm toegenomen, met name doordat kinderen
+            met hun ogen steeds vaker dicht bij schermen van tablets en telefoons
+            zitten. Naar aanleiding van een onderzoek van het Erasmus Medisch
+            Centrum Rotterdam (Erasmus MC) waarschuwde de Nederlandse
+            Vereniging van Optiekbedrijven in 2018 dat als dit gedrag zo blijft, het
+            percentage Nederlanders met myopie flink zou stijgen: van 20% in 2018
+            naar 50% in 2050.
+
+            In 2018 waren er 17,2 miljoen Nederlanders. Men neemt aan dat het
+            aantal inwoners van Nederland tot 2050 exponentieel zal toenemen met
+            0,36% per jaar.
+
+            Neem aan dat de voorspelling van de Nederlandse Vereniging voor
+            Optiekbedrijven uitkomt en dat het aantal Nederlanders met myopie
+            tussen 2018 en 2050 elk jaar met hetzelfde aantal toeneemt.
+3p   17     Bereken hoeveel Nederlanders die lijden aan myopie er tussen 2018 en
+            2050 jaarlijks gemiddeld bijkomen. Geef je antwoord in een geheel aantal
+            duizendtallen.
+
+            Er bestaan meerdere vormen van myopie. In het vervolg van deze opgave
+            gaat het alleen over as-myopie. Bij iemand met deze vorm van myopie
+            heeft de oogbol een grotere as-lengte dan bij iemand met normaal zicht.
+            De as-lengte is de afstand van de pupil tot aan de achterkant van het
+            netvlies. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+VW-1024-a-25-1-o                           15 / 18                          lees verder ►►►
+            De grafieken in figuur 2 komen uit het onderzoek van het Erasmus MC. In
+            figuur 2 staat de gemiddelde as-lengte bij jongens en meisjes van
+            verschillende leeftijden.
+
+            figuur 2
+
+
+
+
+            Figuur 2 is gebaseerd op meetwaarden op vier leeftijden: 5, 10, 15 en
+            20 jaar. De onderzoekers hebben de as-lengtes bij de tussenliggende
+            leeftijden geschat door de meetpunten te verbinden.
+
+            Het is ook mogelijk om de as-lengtes bij de tussenliggende leeftijden te
+            schatten door een formule op te stellen die goed bij de vier meetwaarden
+            past. Voor de jongens luidt deze formule:
+                   J  0,5646  ln(t  4)  21,7
+            Hierin is J de gemiddelde as-lengte bij jongens in millimeters en t de
+            leeftijd in jaren.
+
+3p   18     Bereken voor jongens met een leeftijd van 7 jaar en 3 maanden het
+            verschil tussen de schatting in figuur 2 en de schatting volgens de
+            formule. Geef je antwoord in millimeters in één decimaal.
+
+            De grafiek voor de meisjes is te benaderen met de formule:
+                   M  0,7112  ln(t  4)  21,9
+            Hierin is M de gemiddelde as-lengte bij meisjes in millimeters en t de
+            leeftijd in jaren.
+
+
+
+
+VW-1024-a-25-1-o                               16 / 18                         lees verder ►►►
+            Bij kinderen die aan myopie lijden, wordt regelmatig gecontroleerd of en
+            hoeveel de as-lengte van het oog is toegenomen. Eventueel kunnen er
+            dan voorzorgsmaatregelen genomen worden om verdere verslechtering
+            van het zicht tegen te gaan.
+
+            Volgens een deskundige is het oog stabiel als de snelheid waarmee de
+            as-lengte toeneemt, minder dan 0,05 mm per jaar is. Verdere controles
+            zijn dan niet meer nodig. Volgens de formules voor J en M is dat bij
+            jongens eerder het geval dan bij meisjes.
+4p   19     Bereken met behulp van de formules voor J en M hoeveel jaar eerder het
+            oog stabiel is bij jongens. Geef je antwoord in één decimaal.
+
+            Op basis van het onderzoek van het Erasmus MC is van een bepaalde
+            groep kinderen met myopie bekend dat ze een grote kans hebben om als
+            volwassene te maken te krijgen met ernstige myopie. Deze groep
+            kinderen heeft gemiddeld op 6-jarige leeftijd een as-lengte van 23,4 mm.
+            Vier jaar later is deze lengte toegenomen tot 24,4 mm.
+
+            In deze groep kinderen zijn de gegevens van jongens en meisjes samen
+            genomen, dus de formules voor J en M kunnen niet meer gebruikt worden.
+            We nemen nu aan dat de as-lengte van deze groep benaderd kan worden
+            met een formule van de vorm
+                   A  p  ln(t  4)  q
+            Hierin is A de as-lengte in millimeter en t de leeftijd in jaren.
+
+            Met behulp van de gegevens voor een 6-jarige met een as-lengte van
+            23,4 mm volgt hieruit na afronding op drie decimalen:
+                   q  23, 4  0, 693 p        (formule 1)
+2p   20     Toon dit aan.
+
+            Met behulp van de gegevens voor een 10-jarige met een as-lengte van
+            24,4 mm geldt na afronding op drie decimalen:
+                   q  24, 4  1, 792 p        (formule 2)
+            Met behulp van formules (1) en (2) kunnen de waarden van p en q
+            bepaald worden zodat de formule voor A opgesteld kan worden. Op twee
+            decimalen afgerond geldt p  0,91 en q  22, 77 .
+
+3p   21     Bereken de waarden voor p en q in drie decimalen.
+
+            Als de as-lengte groter is dan 26 mm, spreekt men van ernstige myopie.
+3p   22     Bereken op welke leeftijd de kinderen in de genoemde groep gemiddeld
+            last krijgen van ernstige myopie. Geef je antwoord in een geheel aantal
+            jaren.
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+VW-1024-a-25-1-o                              17 / 18                           lees verder ►►►
+      Amnesty-monument
+
+            In het Oranjepark in Vlaardingen staat het Amnesty-monument, ontworpen
+            door Joop van Dorp en Cor Maarleveld. Zie de foto.
+
+            foto                                         figuur
+
+
+
+
+            Het monument bestaat uit een gedenksteen omringd door metalen buizen
+            die met cement gevuld zijn. Deze opgave gaat over die buizen.
+
+            In de figuur staat een bovenaanzicht van het monument, met een aantal
+            van deze buizen. Hierin is te zien dat de buizen op de rand van een
+            vierkant staan, waarbij er bij het hoekpunt rechtsonder (op de foto
+            rechtsvoor) een kleine opening is, omdat daar geen buizen zijn geplaatst.
+
+            De buizen zijn allemaal even dik, maar hebben verschillende lengtes. De
+            rechter buis in de onderste rij uit de figuur is de kleinste buis en die is
+            30 cm hoog. Vanaf hier met de klok mee is elke buis steeds hetzelfde
+            aantal centimeters hoger dan de buis daarvoor. De langste buis heeft een
+            hoogte van 270 cm.
+
+            De hoeveelheid cement die in een buis gaat, is evenredig met de hoogte
+            van die buis. Voor de kleinste buis, met een hoogte van 30 cm, is
+            6030 cm3 cement nodig.
+6p   23     Bereken hoeveel liter cement er in totaal nodig is om de buizen van dit
+            monument volledig te vullen. Geef je antwoord in gehele liters.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-25-1-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

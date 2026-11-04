@@ -1,0 +1,300 @@
+                                                      Examen VMBO-KB
+
+                                                                 2024
+                                                                        tijdvak 1
+                                                                 dinsdag 21 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                        wiskunde CSE KB
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 23 vragen.
+ Voor dit examen zijn maximaal 69 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+KB-0153-a-24-1-o
+             OVERZICHT FORMULES:
+
+
+
+             omtrek cirkel =   diameter
+
+
+             oppervlakte cirkel =   straal 2
+
+
+             inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+             inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+             inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud bol = 34    straal 3
+
+
+
+
+KB-0153-a-24-1-o                              2 / 11                 lees verder ►►►
+      Plantenbak
+
+             Plantenbakken zijn er in diverse soorten en maten. In deze opgave kijken
+             we naar verschillende plantenbakken die 45 cm hoog zijn.
+
+
+
+
+             Een plantenbak heeft een vierkante bodem van a bij a cm en is 45 cm
+             hoog. De zijwanden zijn rechthoeken. De plantenbak is van boven open.
+
+1p    1      Sofia heeft een plantenbak met a = 30 cm. Deze plantenbak heeft de
+             vorm van een wiskundige ruimtefiguur.
+              Wat is de naam van deze wiskundige ruimtefiguur?
+
+             De inhoud van zo’n plantenbak kan je berekenen met de formule:
+
+                   inhoud = 45  a2
+
+             Hierin is a in cm en inhoud in cm3.
+
+2p    2      Bereken hoeveel cm3 de inhoud van de plantenbak van Sofia is met
+             a = 30 cm. Schrijf je berekening op.
+
+4p    3      Een andere plantenbak heeft een inhoud van 27 liter.
+              Bereken hoeveel cm de lengte van a bij deze plantenbak is. Schrijf je
+                berekening op en geef je antwoord in één decimaal.
+
+
+
+
+KB-0153-a-24-1-o                             3 / 11                           lees verder ►►►
+      Vulkaan
+
+             Bij een uitbarsting van een vulkaan stroomt er gloeiend hete lava uit de
+             krater.
+
+
+
+
+             Bij de vulkaan Piton de la Fournaise is op het moment van de uitbarsting
+             de temperatuur van de uitstromende lava 1000 °C. Een uur na de
+             uitbarsting is de temperatuur van deze lava met 600 °C gedaald. Ga ervan
+             uit dat de lava elke minuut evenveel graden daalt.
+
+3p    4      Geef de formule die hierbij hoort. Neem L voor de lavatemperatuur in °C
+             en t voor de tijd in minuten na het moment van de uitbarsting.
+
+3p    5      De Piton de la Fournaise is een van de meest actieve vulkanen ter
+             wereld. Sinds het jaar 1640 zijn er 153 uitbarstingen geregistreerd.
+              Bereken hoeveel jaar er gemiddeld tussen elke uitbarsting zit. Schrijf
+                je berekening op en rond je antwoord af op één decimaal.
+
+             Op de uitwerkbijlage zie je een kaart van het gebied rond de vulkaan.
+             Punt P is het middelpunt van de vulkaan. Bij punt Z is een
+             informatiecentrum. In werkelijkheid is de afstand PZ 9 kilometer.
+
+3p    6      Laat met een berekening zien dat de schaal van de kaart 1 : 150 000 is.
+
+
+
+
+KB-0153-a-24-1-o                             4 / 11                            lees verder ►►►
+3p    7      Binnen een straal van 3 kilometer van punt P van de vulkaan is alles
+             bedekt met lava van de laatste uitbarsting.
+              Kleur in de kaart op de uitwerkbijlage het gebied dat met lava is
+                bedekt.
+
+3p    8      Vanuit het informatiecentrum is de vulkaan met een verrekijker te zien.
+             Punt P ligt 2,6 km hoger dan punt Z.
+
+
+
+
+              Bereken hoeveel graden hoek Z is. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-24-1-o                             5 / 11                           lees verder ►►►
+      Kokosnoot
+
+             Aan de binnenkant van de harde bruine bast van een kokosnoot zit het
+             witte vruchtvlees, de kokos. In de ruimte daarbinnen zit het kokoswater.
+
+
+
+
+             In deze opgave gaan we ervan uit dat de kokosnoot de vorm van een bol
+             heeft. Van een kokosnoot met een diameter van 15 cm is de harde bruine
+             bast 0,5 cm dik. Het witte vruchtvlees is 2 cm dik.
+
+3p    9      Laat met een berekening zien dat de kokosnoot ongeveer 524 cm3
+             kokoswater kan bevatten.
+
+3p    10     Bereken hoeveel cm3 de inhoud van het witte vruchtvlees is. Schrijf je
+             berekening op.
+
+
+
+
+KB-0153-a-24-1-o                             6 / 11                           lees verder ►►►
+             De harde bast bestaat uit kokosvezel. Voor elke kokosnoot kan je de
+             hoeveelheid kokosvezel berekenen met de formule:
+
+                   hoeveelheid kokosvezel = 1,6  d 2 – 1,6  d – 6
+
+             Hierin is hoeveelheid kokosvezel in cm3 en d de diameter van de
+             kokosnoot in cm.
+
+
+
+
+1p    11     Laat met een berekening zien dat bij een kokosnoot met een diameter van
+             12 cm de hoeveelheid kokosvezel afgerond 205 cm 3 is.
+
+4p    12     Kokosnoten worden geplukt als ze een diameter hebben tussen 12 en
+             20 cm.
+              Teken op de uitwerkbijlage de grafiek die bij de formule hoort. Vul
+                eerst de tabel in.
+
+
+
+
+KB-0153-a-24-1-o                               7 / 11                          lees verder ►►►
+      Tennis
+
+             Je ziet de plattegrond van een tennisbaan met daarin de maten in meters.
+             Het net in het midden verdeelt de tennisbaan in twee gelijke delen.
+
+
+
+
+2p    13     Bereken hoeveel meter de afstand van punt P tot punt Q is. Schrijf je
+             berekening op.
+
+             Patrick staat in punt P en raakt de bal boven hem in punt S. Je ziet het
+             zijaanzicht van deze situatie.
+
+
+
+
+             De bal gaat in een rechte lijn van punt S naar punt Q. Hoek Q is 9°. De
+             afstand van punt Q tot het net is 6,40 meter. Het net is 0,91 meter hoog.
+
+5p    14     Bereken, zonder te meten, hoeveel cm boven het net de bal erover gaat.
+             Schrijf je berekening op.
+
+3p    15     De bal legt een afstand van 18,5 meter af in 0,5 seconden.
+              Bereken hoeveel km per uur de snelheid van de bal is. Schrijf je
+                berekening op.
+
+
+
+
+KB-0153-a-24-1-o                             8 / 11                            lees verder ►►►
+3p    16     Bij dubbelspel zijn er 4 spelers op de hele tennisbaan. Je ziet een
+             bovenaanzicht van een tennisbaan met daarin de maten in meters.
+
+
+
+
+              Bereken hoeveel m2 oppervlakte elke speler bij dubbelspel heeft.
+               Schrijf je berekening op.
+
+
+
+
+KB-0153-a-24-1-o                             9 / 11                           lees verder ►►►
+      IJsplateau
+
+             In 2020 is een groot deel van ijsplateau Milne afgebroken en in de
+             Noordelijke IJszee gestort.
+
+
+
+
+3p    17     Nadat een groot deel van het ijsplateau was afgebroken, was er van de
+             290 km2 nog 165 km2 over.
+              Bereken hoeveel procent er is afgebroken. Schrijf je berekening op.
+
+             De oppervlakte van het overgebleven ijsplateau Milne neemt verder af.
+             Hierbij hoort de formule:
+
+                   O = 165  0,96t
+
+             Hierin is O de oppervlakte in km2 en t de tijd in jaren met t = 0 op
+             1 januari 2020.
+
+2p    18     Laat met een berekening zien dat ijsplateau Milne volgens de formule op
+             1 januari 2040 een oppervlakte heeft van afgerond 73 km2.
+
+5p    19     Teken op de uitwerkbijlage de grafiek die bij de formule hoort. Vul eerst
+             de tabel in en maak een juiste verdeling op de verticale as.
+
+4p    20     Volgens de formule wordt de oppervlakte van het ijsplateau elk jaar
+             kleiner.
+              Bereken op 1 januari van welk jaar er voor het eerst minder dan de
+                 helft van die 165 km2 over is. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-24-1-o                              10 / 11                               lees verder ►►►
+      Partytent
+
+             Floor en Tom huren een partytent. De partytent is 12-hoekig. Je ziet een
+             foto van de partytent. In de tekening zie je hoe het tentdoek eruitziet als
+             het plat op de grond ligt.
+
+
+
+
+             Als je de punten B, D, F, H, J en L verbindt, krijg je een regelmatige
+             zeshoek, zie de tekening op de uitwerkbijlage.
+
+2p    21     Teken op de uitwerkbijlage alle symmetrieassen van de zeshoek.
+
+
+
+
+             In de tekening hiernaast zie je vlieger ABML.
+
+             Driehoek BML is een gelijkzijdige driehoek,
+             BM = ML = LB = 3,7 m en AM = 4 m.
+
+
+
+
+3p    22     Laat met een berekening zien dat MS afgerond 3,2 meter is.
+
+4p    23     Tom wil een snoer met lampjes om de rand van het tentdoek hangen.
+              Hoeveel meter is de totale omtrek van het tentdoek? Schrijf je
+                berekening op.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+KB-0153-a-24-1-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

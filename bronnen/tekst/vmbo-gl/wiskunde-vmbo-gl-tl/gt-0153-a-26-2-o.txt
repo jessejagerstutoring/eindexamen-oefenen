@@ -1,0 +1,306 @@
+                                               Examen VMBO-GL en TL
+
+                                                                 2026
+                                                                        tijdvak 2
+                                                              donderdag 18 juni
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 22 vragen.
+ Voor dit examen zijn maximaal 68 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+GT-0153-a-26-2-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 13  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 13  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-26-2-o                             2 / 10                 lees verder ►►►
+      Top 2000
+
+            De Top 2000 is een jaarlijks terugkerend radioprogramma waarin de
+            2000 populairste muzieknummers aller tijden worden gedraaid. Deze
+            nummers zijn gekozen door de uitgebrachte stemmen van de
+            Nederlandse luisteraars.
+
+
+
+
+2p    1     In 2023 had de popgroep Queen de meeste nummers in de Top 2000.
+            Van de 2000 nummers waren 36 nummers van Queen.
+             Bereken hoeveel procent van de nummers in de Top 2000 van Queen
+                was. Schrijf je berekening op.
+
+4p    2     In 2023 zijn er in de vier grote steden van Nederland 2 546 160 stemmen
+            uitgebracht. Van deze stemmen ging 15% naar de nummer 1 van de lijst.
+            Van de stemmen op de nummer 1 van de lijst werd 38% uitgebracht door
+            een vrouw.
+             Bereken hoeveel vrouwen in de vier grote steden van Nederland
+                gestemd hebben op de nummer 1. Schrijf je berekening op en rond je
+                antwoord af op een duizendtal.
+
+4p    3     Op 25 december 0.00 uur begint op de radio de Top 2000. Het eindigt op
+            31 december om 24.00 uur. Via Spotify is de Top 2000 ook te beluisteren
+            zonder onderbrekingen (praten, reclame en nieuws). De Top 2000 duurt
+            op Spotify 144,5 uur.
+             Bereken hoeveel minuten aan onderbrekingen gemiddeld elk uur op
+               de radio zijn tijdens de Top 2000. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-26-2-o                           3 / 10                          lees verder ►►►
+      Schaakbord
+
+            Volgens een verhaal is het schaakspel rond de vijfde eeuw in India
+            uitgevonden. De uitvinder mocht van de koning een beloning kiezen.
+
+            De uitvinder vroeg het volgende: één rijstkorrel voor het eerste vakje van
+            het schaakbord, twee rijstkorrels voor het tweede, vier voor het derde,
+            acht voor het vierde, enzovoort. Het schaakbord heeft in totaal 64 vakjes.
+
+
+
+
+            Het aantal rijstkorrels dat op een vakje ligt, kun je berekenen met de
+            formule:
+                   a = 0,5  2 n
+            Hierin is a het aantal rijstkorrels dat op een vakje ligt en n het nummer
+            van het vakje.
+
+1p    4     Laat met een berekening zien dat er 256 rijstkorrels liggen op vakje
+            nummer 9.
+
+4p    5     Teken op de uitwerkbijlage de grafiek die bij deze formule hoort. Vul eerst
+            de tabel in. Maak zelf een juiste verdeling bij de verticale as.
+
+3p    6     Bereken het nummer van het vakje waar het aantal rijstkorrels voor het
+            eerst meer dan 1 miljoen is. Schrijf je berekening op.
+
+3p    7     Het gewicht van 100 rijstkorrels is 2 gram.
+             Bereken hoeveel kg rijstkorrels er ligt op het vakje met nummer 64
+               volgens de formule. Schrijf je berekening op. Geef je antwoord in de
+               wetenschappelijke notatie en rond af op één decimaal.
+
+
+
+
+GT-0153-a-26-2-o                             4 / 10                            lees verder ►►►
+      Piramide in kubus
+
+            In kubus ABCD EFGH met zijden van 4 cm is piramide E ABCD getekend.
+
+
+
+
+4p    8     Laat met een berekening zien dat EC afgerond 6,93 cm is.
+
+3p    9     Bereken hoeveel graden hoek C in driehoek ACE is. Schrijf je berekening
+            op.
+
+4p    10    Op de uitwerkbijlage is een begin gemaakt met het tekenen van de uitslag
+            van piramide E ABCD.
+             Maak deze uitslag verder af.
+
+
+
+
+GT-0153-a-26-2-o                           5 / 10                          lees verder ►►►
+      Ladybower Reservoir
+
+            Het Ladybower Reservoir is een groot stuwmeer in Engeland, dat gebruikt
+            wordt om water in op te slaan. Zie de linker foto.
+
+            Als het stuwmeer te vol wordt, stroomt het water weg via grote
+            afvoerputten. Op de foto rechts zie je een afvoerput bij laag water.
+
+
+
+
+            De afvoerputten hebben een diameter van 24,4 m. Bij laag water zie je de
+            gehele gemetselde rand van de afvoerput van 4,6 m hoog.
+
+3p    11    Op de uitwerkbijlage zie je het bovenaanzicht van de afvoerput. De schaal
+            is 1 : 200.
+             Teken eronder een zijaanzicht van de afvoerput op dezelfde schaal.
+
+
+
+
+GT-0153-a-26-2-o                            6 / 10                             lees verder ►►►
+            Je ziet de grafiek van de waterhoogte vanaf de bovenkant van de
+            afvoerput van het stuwmeer in 2018.
+
+
+
+
+            Van 1 mei tot begin september 2018 kun je de waterhoogte benaderen
+            met de formule:
+
+                   W = –0,42t 2 – 0,2t – 0,6
+
+            Hierin is W de waterhoogte in meters (gemeten vanaf de bovenkant van
+            de afvoerput) en t de tijd in maanden met t = 0 op 1 mei 2018.
+
+2p    12    Laat met een berekening zien dat de waterhoogte volgens de formule op
+            1 september 2018 lager dan –8 m was.
+
+4p    13    De gemeten waterhoogte op 15 juni 2018 was –1,81 m. De waterhoogte
+            die met de formule is berekend, wijkt af van de gemeten waterhoogte.
+            Bereken hoeveel centimeter. Schrijf je berekening op.
+
+            In 2021 daalde de waterhoogte van 1 juni tot 1 september bij benadering
+            lineair, zie de grafiek hieronder.
+
+
+
+
+4p    14    Op 1 juni was de waterhoogte –0,5 m en op 1 september was dat –5 m.
+             Stel een formule op voor de waterhoogte in deze periode. Gebruik
+               W voor de waterhoogte in meters en t voor de tijd in maanden met
+               t = 0 op 1 juni 2021.
+
+
+
+
+GT-0153-a-26-2-o                               7 / 10                         lees verder ►►►
+      Korfboog
+
+            Een korfboog is een gemetselde versiering die boven ramen wordt
+            gebruikt. Op de foto zie je een voorbeeld van een korfboog.
+
+
+
+
+            In de schematische tekening hieronder zie je dat de binnenrand van de
+            korfboog bestaat uit drie cirkelbogen: EF, FH en HI.
+
+
+
+
+            Driehoek ABC is gelijkzijdig. A en B zijn de middelpunten van de kleine
+            cirkels met een straal van 36 cm. AF = BH = 36 cm. C is het middelpunt
+            van de grote cirkel, die deels getekend is.
+
+2p    15    Leg uit, zonder te meten, dat hoek A in driehoek AFE gelijk is aan
+            60 graden.
+
+3p    16    Bereken hoeveel cm de lengte van cirkelboog EF is. Schrijf je berekening
+            op.
+
+
+
+
+GT-0153-a-26-2-o                            8 / 10                           lees verder ►►►
+            Hieronder zie je een deel van het raam met de binnenrand van de
+            korfboog. De ruimte tussen het raam en de binnenrand is opgevuld met
+            bakstenen.
+
+
+
+
+            FH is 61 deel van een cirkel met middelpunt C en straal 108 cm.
+            Driehoek ABC is een gelijkzijdige driehoek met zijden van 72 cm. De
+            oppervlakte van driehoek ABC is 2245 cm2. De oppervlakte van
+            cirkeldeel AEF (en van cirkeldeel BIH) is 679 cm2.
+
+4p    17    Bereken hoeveel cm2 de oppervlakte van het totale gedeelte met
+            bakstenen is. Schrijf je berekening op.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-26-2-o                           9 / 10                             lees verder ►►►
+      Kindertheater
+
+            Een theatergroep geeft iedere
+            zaterdag een kindervoorstelling in
+            een theater.
+
+            De toegangsprijs is 12,50 euro per
+            persoon. In het theater zijn
+            90 plaatsen. Op de eerste zaterdag
+            van de maand hebben alle kinderen
+            onder de tien jaar gratis toegang.
+
+2p    18    Op de eerste zaterdag van de maand is de voorstelling uitverkocht. Er
+            zitten 72 kinderen onder de tien jaar in de zaal.
+             Bereken hoeveel euro de opbrengst is. Schrijf je berekening op.
+
+3p    19    De opbrengst op deze eerste zaterdagen van de maand is te laag. De
+            directie van het theater besluit dat er per volwassene maximaal
+            twee kinderen onder de tien jaar gratis mee naar binnen mogen.
+             Bereken hoeveel euro de minimale opbrengst wordt bij een volle zaal.
+               Schrijf je berekening op.
+
+            Op de andere zaterdagen moeten kinderen onder de tien jaar 2 euro
+            betalen. De lineaire formule voor de opbrengst per voorstelling is:
+
+                   O = 2k + 12,5  (90 – k)
+
+            Hierin is O de opbrengst in euro’s en k het aantal kinderen onder de tien
+            jaar.
+
+4p    20    Teken op de uitwerkbijlage de grafiek die bij deze formule hoort. Maak
+            zelf een juiste verdeling bij de verticale as. Je mag de tabel gebruiken.
+
+3p    21    Bij een opbrengst van 350 euro zijn de kosten voor het kindertheater
+            terugverdiend.
+             Bereken hoeveel kinderen onder de tien jaar er volgens de formule
+                maximaal mogen komen om de kosten terug te verdienen. Schrijf je
+                berekening op.
+
+2p    22    Na een grote verbouwing zijn er 120 plaatsen in het kindertheater. De
+            prijs voor een kind onder de tien jaar wordt 4 euro en voor een
+            volwassene 15 euro.
+             Maak met deze gegevens een nieuwe formule voor de opbrengst.
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-26-2-o                                         10 / 10                                          lees verdereinde
+                                                                                                                       ►►► 
+

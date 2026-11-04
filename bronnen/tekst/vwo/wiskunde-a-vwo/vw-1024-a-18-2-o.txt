@@ -1,0 +1,524 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 2
+                                                                     dinsdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 80 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-18-2-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+              naam van de regel                functie                    afgeleide
+
+              somregel                         s ( x)  f ( x)  g ( x)   s' ( x)  f ' ( x)  g' ( x)
+
+              verschilregel                    s ( x)  f ( x)  g ( x)   s' ( x)  f ' ( x)  g' ( x)
+
+              productregel                     p ( x)  f ( x)  g ( x)   p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                         f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+              quotiëntregel                    q( x)                     q' ( x) 
+                                                         g ( x)                                    ( g ( x)) 2
+                                                                          k' ( x)  f ' ( g ( x))  g' ( x) of
+              kettingregel                     k ( x)  f ( g ( x))       dk df dg
+                                                                                    
+                                                                          dx dg dx
+
+
+            Logaritmen
+              regel                                       voorwaarde
+              g
+                   log(a )  g log(b)  g log( ab)         g > 0, g  1, a > 0, b > 0
+              g
+                   log(a )  g log(b)  g log( ba )        g > 0, g  1, a > 0, b > 0
+              g
+                   log(a p )  p  g log(a )               g > 0, g  1, a > 0
+                              p
+                                  log(a )
+              g
+                   log(a )  p                             g > 0, g  1, a > 0, p > 0, p  1
+                                  log( g )
+
+
+
+
+VW-1024-a-18-2-o                                          2 / 14                                          lees verder ►►►
+            Ga verder naar de volgende pagina.
+
+
+
+
+VW-1024-a-18-2-o                        3 / 14   lees verder ►►►
+      Knab
+
+            Knab is een tamelijk nieuwe bank, gestart in 2012 als onderdeel van
+            Aegon. In het begin groeide Knab maar langzaam: eind 2013 had de bank
+            nog maar 4500 klanten. Daarom besloot de bank in 2014 de zaken anders
+            aan te pakken. Dit leverde direct resultaat op, want het aantal klanten is in
+            2014 tien keer zo groot geworden.
+            Zie de figuur. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur
+
+             aantal 50000
+            klanten
+                    45000
+
+                     40000
+
+                     35000
+
+                     30000
+
+                     25000
+
+                     20000
+
+                     15000
+
+                     10000
+
+                      5000
+
+                          0
+                              1   4   7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52
+                                                                          weeknummer
+
+            In de figuur zijn door middel van staven de aantallen klanten om de drie
+            weken weergegeven. Bovendien is de grafiek getekend van een
+            exponentieel model dat de werkelijke aantallen goed benadert.
+            Het exponentiële model wordt gegeven door de formule:
+                   N  4500  e0,0463t
+            Hierin is t de tijd in weken sinds het begin van 2014 met t  0 in week 1
+            en N het aantal klanten.
+
+            In week 43 lijkt het verschil tussen het aantal klanten volgens het model
+            en het werkelijke aantal klanten het grootst.
+3p    1     Bereken dit verschil in week 43. Je kunt hierbij gebruikmaken van de
+            figuur op de uitwerkbijlage. Rond je antwoord af op honderdtallen.
+
+
+
+VW-1024-a-18-2-o                                  4 / 14                           lees verder ►►►
+            Zoals gezegd is het aantal klanten in het jaar 2014 vertienvoudigd. Dat
+            lijkt inderdaad precies een jaar geduurd te hebben.
+3p    2     Bereken met behulp van de formule het gehele aantal weken dat in het
+            model nodig is voor een vertienvoudiging.
+
+            De snelheid waarmee het aantal klanten per week groeit, kun je
+            benaderen door de helling van de grafiek op het betreffende tijdstip te
+            bepalen.
+4p    3     Benader met behulp van de grafiek in de figuur op de uitwerkbijlage de
+            snelheid waarmee het aantal klanten per week groeit in week 31 van
+            2014. Rond je antwoord af op honderdtallen.
+
+            Je kunt de formule N  4500  e0,0463t zó herschrijven, dat bij een gegeven
+            aantal klanten berekend wordt in welke week dat aantal bereikt wordt.
+            Dat verband is van de vorm:
+                   t  a  ln(b  N )
+3p    4     Bereken a en b. Rond de waarde van a af op twee decimalen en de
+            waarde van b op vijf decimalen.
+
+
+
+
+VW-1024-a-18-2-o                            5 / 14                             lees verder ►►►
+      Blikstapelingen
+
+                                                                            foto
+            Bij het spel blikgooien krijgt de speler één of meer ballen
+            waarmee hij of zij moet proberen zoveel mogelijk blikken                1
+            van een toren af te gooien. Zo’n toren is altijd op
+            dezelfde manier opgebouwd: op de onderste laag staat                2       3
+            een aantal blikken en op de lagen erboven steeds één
+            minder. Op de foto zie je een toren met zes blikken.            4       5       6
+
+            We nemen in deze opgave aan dat, als een bal de toren raakt, de
+            onderste laag in zijn geheel blijft staan. Neem aan dat een geraakt blik
+            ook werkelijk van de toren afvalt en nooit “mooi” op een lager gelegen
+            laag terechtkomt en ook dat blikken niet blijven staan als één of meer
+            blikken eronder wegvallen.
+
+            Lars gooit één bal naar een toren met zes blikken, zoals op de foto.
+            Na zijn worp blijft de onderste laag van drie blikken staan. Er zijn nu vijf
+            mogelijkheden voor de overgebleven toren. Drie van deze mogelijkheden
+            zijn in figuur 1a, 1b en 1c schematisch getekend.
+
+            figuur 1a                 figuur 1b                 figuur 1c
+
+
+
+
+2p    5     Teken de andere twee mogelijkheden.
+
+            We gaan in deze opgave deze situatie wat theoretischer bekijken. We
+            tellen het aantal mogelijke stapelingen van blikken op een onderste laag
+            van n blikken. Hierbij staat vanaf de tweede laag ieder blik steeds boven
+            op twee onderliggende blikken. We nemen steeds aan dat er één keer
+            gegooid is en dat de hele onderste laag is blijven staan.
+
+            Voor n  1 is er maar één blik, dus is er ook één mogelijke stapeling.
+            Voor n  2 zijn er twee mogelijke stapelingen. Zie figuur 2.
+
+
+
+
+VW-1024-a-18-2-o                             6 / 14                                 lees verder ►►►
+            figuur 2
+
+
+
+
+            Je kunt nu met een redenering nagaan dat het aantal mogelijke
+            stapelingen voor n  3 gelijk is aan 5. Deze redenering gaat als volgt:
+             Er is één manier met 3 blikken op de onderste laag en 0 blikken op de
+               tweede laag.
+             Er zijn twee manieren met 3 blikken op de onderste laag en 1 blik op
+               de tweede laag.
+             Er is één manier met 3 blikken op de onderste laag en 2 blikken op de
+               tweede laag (figuur 1b).
+             Er is één manier met 3 blikken op de onderste laag, 2 blikken op de
+               tweede laag en 1 blik op de derde laag (figuur 1a).
+            Dat is samen 1 + 2 + 1 + 1 = 5 mogelijkheden.
+
+            Voor n  4 is het aantal mogelijke stapelingen gelijk aan 14.
+
+4p    6     Toon dit aan.
+
+            De Belgische wiskundige Charles Catalan ontdekte in de 19e eeuw de
+            volgende formule:
+                   Cn  C0  Cn1  C1  Cn2  C2  Cn3  ...  Cn2  C1  Cn1  C0 met C0  1
+            Hierin is Cn het aantal mogelijke stapelingen met n blikken op de
+            onderste laag.
+3p    7     Bereken met behulp van bovenstaande formule C5 .
+
+            Voor deze rij getallen, de zogenaamde Catalan-getallen, bestaat geen
+            directe formule. Wel bestaat er een formule die voor grote waarden van n
+            de Catalan-getallen benadert. Deze formule is Bn  0,564  e1,386n  n 1,5 ,
+            waarbij Bn een benadering is van het ne Catalan-getal ( Cn ).
+
+            De getallen voor Bn worden snel groter. Hoe snel dit gaat, is te
+            berekenen met behulp van de afgeleide van Bn . Er geldt (bij benadering):
+
+                   Bn'  0,782  e1,386n  n 1,5  0,846  e1,386n  n 2,5
+4p    8     Toon dit aan.
+
+            Vanaf een bepaald aantal blikken zal het aantal mogelijke stapelingen met
+            meer dan 500 000 toenemen als de onderste laag met één blik toeneemt.
+3p    9     Onderzoek met behulp van de afgeleide van Bn vanaf welk aantal blikken
+            op de onderste laag dit is.
+
+
+VW-1024-a-18-2-o                                         7 / 14                            lees verder ►►►
+      Kaarten schudden
+
+            Na het schudden begint een kaartspel meestal met het gelijk verdelen van
+            de kaarten onder een aantal spelers. Neem aan dat bij een bepaald spel
+            16 verschillende kaarten gelijk verdeeld worden onder vier spelers A, B, C
+            en D. Spelers A, B, C en D krijgen ieder dus vier kaarten.
+
+            We bekijken een stapel kaarten bestaand uit 16 verschillende kaarten.
+            Deze kaarten kunnen op circa 2,1 1013 verschillende volgordes liggen.
+
+            Het aantal volgordes waarin de kaarten kunnen liggen, is veel groter dan
+            het aantal mogelijkheden om de kaarten onder de vier spelers A, B, C en
+            D te verdelen.
+4p   10     Bereken hoeveel keer zo groot dit aantal is. Rond af op tienduizendtallen.
+
+            In 1992 publiceerden de Amerikaanse         foto
+            wiskundigen Bayer en Diaconis een
+            artikel over het schudden van kaarten.
+            Voor dit artikel hadden zij de meest
+            gebruikte manier van schudden
+            onderzocht, de zogeheten Riffle Shuffle
+            (zie de foto).
+
+            Zij kwamen tot de conclusie dat het met deze schudtechniek niet mogelijk
+            is een stapel kaarten écht willekeurig te maken, zoals bijvoorbeeld een
+            computer dat wel kan.
+            Voor het spelen van een kaartspel is het goed genoeg als de kaarten
+            “voldoende willekeurig” geschud zijn.
+
+            Bayer en Diaconis ontdekten tijdens hun onderzoek dat het aantal keren
+            dat een stapel kaarten minstens geschud moet worden om als “voldoende
+            willekeurig” bestempeld te worden, kan worden benaderd met de formule:
+                   A  1,5  2 log(n)
+            In deze formule is A het aantal keren dat een stapel van n kaarten
+            minstens geschud moet worden om als “voldoende willekeurig”
+            bestempeld te worden. A wordt naar boven afgerond op een geheel getal.
+
+
+
+
+VW-1024-a-18-2-o                            8 / 14                           lees verder ►►►
+            Het kaartspel jokeren wordt gespeeld met twee sets van 52 speelkaarten,
+            aangevuld met in totaal 4 zogeheten jokers.
+2p   11     Bereken hoe vaak de kaarten bij jokeren minstens geschud moeten
+            worden volgens de formule van Bayer en Diaconis.
+
+            Als het aantal te schudden kaarten toeneemt, neemt ook het aantal keren
+            dat er minstens geschud moet worden toe. Dit aantal neemt echter steeds
+                                                               dA
+            langzamer toe. Je kunt dit zien aan de afgeleide      .
+                                                               dn
+                                                  dA
+4p   12     Stel de formule op van de afgeleide      en beredeneer aan de hand van
+                                                  dn
+            deze formule, dus zonder getallen in te vullen of een schets te maken, dat
+            A afnemend stijgend is.
+
+            In de meeste casino’s kun je het spel blackjack spelen. Dat wordt over
+            het algemeen gespeeld met vier spellen kaarten (totaal 208 kaarten).
+            Het aantal keer dat zo’n groot aantal kaarten minstens geschud moet
+            worden is helemaal niet zo groot: volgens de formule van Bayer en
+            Diaconis slechts 12 keer. Dat is maar drie keer schudden meer dan bij
+            één spel kaarten.
+
+            Volgens de formule van Bayer en Diaconis geldt in het algemeen:
+            als het aantal kaarten vier keer zo groot wordt, hoeft er maar drie keer
+            extra geschud te worden.
+4p   13     Toon dit aan met behulp van de formule voor A en de rekenregels voor
+            logaritmen zonder gebruik te maken van getallenvoorbeelden.
+
+
+
+
+VW-1024-a-18-2-o                            9 / 14                            lees verder ►►►
+      Zeepbellen
+
+            Op de foto zie je een dubbele zeepbel: twee bolvormige zeepbellen die
+            aan elkaar vastzitten. Beide zeepbellen zijn een deel van een bol.
+            Het scheidingsvlies tussen deze zeepbellen is ook een deel van een bol.
+            Men heeft ontdekt dat voor elke dubbele zeepbel de volgende
+            formule geldt:
+                   1 1 1
+                     
+                   c b a
+            In deze formule is a de straal van de grootste zeepbel, b de straal van de
+            kleinste zeepbel en c de straal van het bolvormige scheidingsvlies.
+            In de figuur is dit schematisch weergegeven.
+
+            foto                                      figuur
+
+
+
+
+                                                                                a
+                                                                    b
+                                                               c
+
+
+
+
+            De dubbele zeepbel op de foto bestaat uit een zeepbel met een straal van
+            2,5 cm en een zeepbel met een straal van 4 cm.
+3p   14     Bereken met behulp van bovenstaande formule de straal van het
+            scheidingsvlies. Rond je antwoord af op hele millimeters.
+
+            Neem nu aan dat de grootste zeepbel een vaste straal heeft van 3 cm
+            (dus a  3 ). We vragen ons af wat er gebeurt als de straal van de kleinste
+            zeepbel steeds kleiner wordt: wordt het scheidingsvlies dan steeds platter
+            of steeds boller?
+            Met andere woorden: neemt c toe of af?
+
+4p   15     Beredeneer aan de hand van bovenstaande formule of c toeneemt of
+            afneemt als de straal van de kleinste zeepbel steeds kleiner wordt.
+
+
+
+
+VW-1024-a-18-2-o                            10 / 14                           lees verder ►►►
+            Als de stralen a en b bekend zijn, kun je c snel en rechtstreeks berekenen
+                              1 1 1                      ab
+            door de formule      te herleiden tot c       .
+                              c b a                     a b
+3p   16     Geef deze herleiding.
+
+            Het antwoord op de vraag of het scheidingsvlies steeds platter of boller
+            wordt als de kleinste zeepbel steeds kleiner wordt, kunnen we ook vinden
+            met behulp van de afgeleide van c.
+
+            We nemen opnieuw een grootste zeepbel met een vaste straal van 3 cm.
+                             ab                 3b
+            De formule c        wordt dan c        met 0  b  3 .
+                            ab                3b
+                              dc          3b
+5p   17     Stel de afgeleide    van c        op en beredeneer aan de hand van de
+                              db         3b
+            formule van deze afgeleide of c toeneemt of afneemt als de straal van de
+            kleinste zeepbel kleiner wordt.
+
+
+
+
+VW-1024-a-18-2-o                              11 / 14                        lees verder ►►►
+      Schildpadden
+
+            Sommige mensen hebben een schildpad als huisdier. Bepaalde soorten
+            houden onder natuurlijke omstandigheden een winterslaap. De eigenaar
+            kan ervoor kiezen om zijn schildpad ook in winterslaap te laten gaan,
+            omdat hij anders de hele winter extra licht en warmte moet geven aan zijn
+            huisdier. Een schildpad moet een gezond gewicht hebben bij het begin
+            van zijn winterslaap, anders is er een kans dat hij het niet overleeft. Om
+            vast te stellen of de schildpad een gezond gewicht heeft, wordt vaak de
+            Jackson Ratio gebruikt.
+                                                                    G
+            De Jackson Ratio R wordt berekend met de formule R        .
+                                                                    L3
+            Hierin is G het gewicht van de schildpad in gram en L de lengte van
+            het schild van de schildpad in cm.
+            Voor de Griekse landschildpad geldt de volgende vuistregel: een
+            schildpad kan veilig aan een winterslaap beginnen als zijn Jackson Ratio
+            tussen 0,18 en 0,22 ligt.
+
+            Jesse heeft een Griekse landschildpad met een schildlengte van 15 cm en
+            wil hem een winterslaap laten houden.
+3p   18     Bereken in hele grammen nauwkeurig tussen welke waarden zijn gewicht
+            dan mag liggen volgens de vuistregel.
+
+            De lengte van het schild moet recht gemeten worden, bijvoorbeeld door
+            de schildpad met ingetrokken kop tussen een schuifmaat te zetten (zie
+            foto 1). Veronderstel dat iemand toch de lengte over het schild heen meet
+            (zie foto 2).
+
+            foto 1                                   foto 2
+
+
+
+
+3p   19     Beredeneer of een schildpad door op die manier te meten een grotere of
+            een kleinere Jackson Ratio krijgt dan hij in werkelijkheid heeft.
+
+
+
+
+VW-1024-a-18-2-o                           12 / 14                           lees verder ►►►
+            Op een Engelse website staat het volgende: als je het gewicht meet in
+            Engelse ponden (lbs) en de schildlengte in inches, kun je de Jackson
+                                                        W
+            Ratio berekenen met de formule R  c  3 .
+                                                        l
+            Hierin is W het gewicht in Engelse ponden en l de schildlengte in inches.
+            1 Engels pond (lb)  454 gram en 1 inch  2,54 cm.
+            De Jackson Ratio moet dan ook weer dezelfde waarde opleveren.
+3p   20     Bereken de waarde van c in deze formule. Rond je antwoord af op één
+            decimaal.
+
+            Een andere manier om te bepalen of een Griekse landschildpad veilig aan
+            een winterslaap kan beginnen, is met behulp van de grafiek in
+            onderstaande figuur. De grafiek geeft het gewicht van gezonde
+            schildpadden als functie van de schildlengte. Als een schildpad met zijn
+            lengte en gewicht in de buurt van deze grafiek zit, is het veilig om hem in
+            winterslaap te laten gaan.
+            figuur
+                           4000
+                  G
+            (in grammen)
+                           3500
+
+                           3000
+
+                           2500
+
+                           2000
+
+                           1500
+
+                           1000
+
+                            500
+
+                             0
+                              10   12   14   16   18    20   22   24     26
+                                                                  L (in cm)
+            We vragen ons af of de grafiek van de figuur bij benadering overeenstemt
+            met de eerder genoemde vuistregel. Om dit te onderzoeken kunnen we in
+            de figuur de grafieken tekenen van de onder- en de bovengrens die horen
+            bij de eerder genoemde vuistregel en vervolgens het gebied dat hoort bij
+            die vuistregel in de figuur aangeven. De figuur staat ook op de
+            uitwerkbijlage.
+6p   21     Geef in de figuur op de uitwerkbijlage het gebied aan waarin een
+            schildpad zich volgens de vuistregel met zijn schildlengte en gewicht moet
+            bevinden om veilig aan een winterslaap te kunnen beginnen.
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+VW-1024-a-18-2-o                              13 / 14                         lees verder ►►►
+      Grotere windmolens
+
+            Met behulp van windmolens wordt windenergie omgezet in elektriciteit.
+            De afgelopen tientallen jaren zijn steeds grotere windmolens geplaatst,
+            want hoe groter een windmolen, hoe groter de elektriciteitproductie door
+            die windmolen. In deze opgave kijken we naar de toenemende opbrengst
+            van windmolens bij toenemende grootte.
+                                                                    figuur
+            In de figuur zie je een schematische tekening van
+            een windmolen met hierin aangegeven de
+            ashoogte h en de ‘rotordiameter’ D.                           D
+            De maximale hoeveelheid elektriciteit die men met
+            een windmolen kan produceren, noemt men het
+            vermogen van de windmolen. Dit vermogen P
+            wordt uitgedrukt in MW (megawatt).                                       h
+            Het vermogen van een windmolen hangt onder
+            andere af van de ashoogte. Doordat er op grotere
+            hoogte meer wind is en doordat de wind daar
+            constanter is, neemt het vermogen voor elke meter
+            extra ashoogte met een bepaald percentage toe.
+            Er geldt: bij gelijkblijvende rotordiameter neemt voor elke meter extra
+            ashoogte het vermogen met 0,68% toe.
+            Het vermogen van een windmolen hangt naast de ashoogte ook af van de
+            rotordiameter. Deze twee factoren spelen tegelijkertijd een rol. Dat komt
+            tot uiting in de formule voor het vermogen:
+                   P  2, 21 104  g h  D 2
+            Hierin is P het vermogen in MW, g de groeifactor per extra meter
+            ashoogte, h de ashoogte in meter en D de rotordiameter in meter.
+            In een windmolenpark staan 40 windmolens met elk een vermogen van
+            0,75 MW. De molens hebben een rotordiameter van 50 meter en een
+            ashoogte van 45 meter. De windmolens in dit park zijn aan vervanging
+            toe. Men wil deze windmolens vervangen door tien gelijke windmolens
+            van een groter type. Men hanteert als vuistregel dat een windmolen van
+            dit type € 25 000,- per meter ashoogte kost. Bij de huidige windmolens is
+            de verhouding tussen ashoogte en rotordiameter gelijk aan 50 45  0,9 .
+
+            Deze verhouding zal ook gelden voor het grotere type windmolen, dus
+            voor dit type geldt: h  0,9 D .
+            Het totale vermogen van het park moet met de nieuwe windmolens
+            minstens even groot worden als het met de huidige windmolens is.
+7p   22     Bereken de minimale investering die gedaan zal moeten worden voor de
+            bouw van de nieuwe windmolens. Rond je antwoord af op miljoenen
+            euro’s.
+
+
+
+
+VW-1024-a-18-2-o                                 14 / 14                     lees verdereinde
+                                                                                          ►►► 
+

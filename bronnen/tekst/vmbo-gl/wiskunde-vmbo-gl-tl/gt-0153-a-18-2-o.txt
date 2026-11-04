@@ -1,0 +1,417 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2018
+                                                                        tijdvak 2
+                                                               maandag 18 juni
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-18-2-o
+GT-0153-a-18-2-o   2 / 13   lees verder ►►►
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-18-2-o                             3 / 13                 lees verder ►►►
+      Sprong
+
+
+
+
+            Op 14 oktober 2012 sprong de Oostenrijker Felix Baumgartner vanaf een
+            hoogte van 39 kilometer uit een capsule. In de grafiek hieronder kan je
+            zien op welke hoogte Felix zich op elk moment tijdens zijn sprong bevond.
+
+              hoogte 40
+            (×1000 m)
+                      35
+
+                     30
+
+                     25
+
+                     20
+
+                     15
+
+                     10
+
+                      5
+
+                      0
+                           0   50   100   150   200     250    300   350   400 450 500
+                                                                              tijd (seconden)
+
+
+2p    1     Na hoeveel minuten en seconden was Felix Baumgartner op een hoogte
+            van 5 kilometer? Schrijf op hoe je aan je antwoord komt.
+
+4p    2     Baumgartner bereikte extreme snelheden. Hij bereikte zijn topsnelheid
+            tussen tijd = 30 en tijd = 50 (seconden). Hij daalde in deze tijd van een
+            hoogte van 34 500 meter naar een hoogte van 28 000 meter.
+             Bereken hoeveel kilometer per uur de topsnelheid van Baumgartner
+               was. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-18-2-o                                      4 / 13                                    lees verder ►►►
+3p    3     Na ruim vier minuten vrije val opent Felix Baumgartner zijn parachute.
+            Hieronder zie je de grafiek die het verband weergeeft tussen de hoogte in
+            meter en de tijd in seconden van het laatste gedeelte van zijn sprong, na
+            het openen van zijn parachute.
+
+                     3000
+            hoogte
+             (m)
+                     2500 A
+
+
+                     2000
+
+
+                     1500
+
+
+                     1000
+
+
+                      500
+
+                                                              B
+                            0   50       100            150   200           250
+                                                               tijd (seconden)
+
+
+            Van het punt A (0, 2400) tot het punt B (200, 200) mag je ervan uitgaan
+            dat er een lineair verband is tussen hoogte in meter en tijd in seconden.
+             Geef een formule die bij dit verband hoort.
+
+
+
+
+GT-0153-a-18-2-o                               5 / 13                             lees verder ►►►
+      Appels
+
+
+
+
+            Groenteman Rinus verkoopt appels. Hij weet dat de hoeveelheid
+            verkochte appels lager wordt als de prijs hoger wordt. Hij wil de prijs zo
+            vaststellen, dat hij zoveel mogelijk winst maakt.
+
+2p    4     Rinus heeft 400 kg appels ingekocht voor 65 cent per kg. Hij verwacht al
+            deze appels in één dag te verkopen.
+             Hoeveel euro winst maakt Rinus als hij al deze appels voor 105 cent
+               per kg verkoopt? Schrijf je berekening op.
+
+            Rinus gebruikt de volgende formule om uit te rekenen bij welke
+            verkoopprijs per kg hij de meeste winst zal maken
+                   W = –0,038p2 + 10,47p – 520
+            Hierin is W de winst in euro en p de verkoopprijs in centen per kg.
+
+3p    5     Op de uitwerkbijlage staat de tabel voor de winst bij verschillende
+            verkoopprijzen per kg.
+             Vul de tabel op de uitwerkbijlage verder in. Geef hierbij de waarden
+               van W in twee decimalen.
+
+4p    6     Bereken met behulp van de formule bij welke prijs in centen per kg de
+            winst zo hoog mogelijk is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-18-2-o                             6 / 13                             lees verder ►►►
+      Kunstwerk
+
+            In figuur 1 zie je een kunstwerk van Colin de Rover, dat bestaat uit
+            betonnen elementen.
+
+            figuur 1                                 figuur 2
+
+
+
+
+            Het kunstwerk van figuur 1 heeft een lengte, een breedte en een hoogte
+            van 50 cm. Het kunstwerk bestaat uit twee elementen. In figuur 2 zie je
+            één element. Dit element heeft de vorm van een cilinder waaruit een
+            kwart deel is weggehaald.
+
+2p    7     Bereken hoeveel cm2 de oppervlakte van de twee grijze vlakken uit
+            figuur 2 samen is. Schrijf je berekening op.
+
+4p    8     Teken het vooraanzicht van het kunstwerk van figuur 1 op schaal 1:10.
+
+4p    9     Met zes kleinere betonnen elementen, zie figuur 3 voor één element,
+            bouwt Colin het kunstwerk zoals te zien is in figuur 4.
+
+            figuur 3                                 figuur 4
+
+
+
+                               10 cm
+
+
+
+
+                       20 cm
+
+
+
+
+             Bereken hoeveel cm3 beton voor dit kunstwerk is gebruikt. Schrijf je
+              berekening op.
+
+
+
+
+GT-0153-a-18-2-o                            7 / 13                            lees verder ►►►
+      Carport
+
+            Carin wil een carport bouwen. Voordat ze begint, maakt ze eerst op de
+            computer een ontwerp en een schets van het vooraanzicht.
+
+                                                     E
+
+
+
+
+                                                     D                      20º            C
+                                                                400 cm
+
+
+                                                                             220 cm
+
+
+
+
+                                                     A                                 B
+                                                             vooraanzicht
+
+            In de schets van het vooraanzicht is de breedte 4 meter en de inrijhoogte
+            2,2 meter. Hoek C = 20°.
+
+1p    10    Bereken hoeveel graden hoek E is. Schrijf je berekening op.
+
+4p    11    Bereken, zonder te meten, hoeveel cm de hoogte AE is. Schrijf je
+            berekening op.
+
+             D                              C
+                   G
+               F
+
+
+
+
+4p    12    Bij de hoeken C en D plaatst Carin hoeksteunen voor de stevigheid. In de
+            afbeelding is FG zo´n hoeksteun. DF = DG = 60 cm.
+             Bereken, zonder te meten, hoeveel cm de lengte van hoeksteun FG is.
+                Schrijf je berekening op en rond je antwoord af op hele cm.
+
+
+
+
+GT-0153-a-18-2-o                            8 / 13                                lees verder ►►►
+      Babyflesje
+
+
+
+
+                     250 ml   250 ml
+                       240    240
+                              220
+                       210    200
+                       180    180
+                              160
+                       150
+                              140
+                       120    120
+                        90    100
+                              80
+                        60    60
+                              40
+                        30
+
+
+
+
+            Twee maanden geleden is het zusje van Pieter geboren. Om voor haar
+            een flesje babymelk te maken, wordt eerst water gekookt. Pieter heeft
+            onderzocht hoe lang het duurt voordat het water voldoende is afgekoeld.
+            De temperatuur van het water kan worden berekend met de formule
+                   Temperatuur = 100  0,85tijd
+            Hierin is Temperatuur in °C en tijd in minuten.
+
+1p    13    Met hoeveel procent neemt de temperatuur volgens de formule per minuut
+            af?
+
+5p    14    Vul de tabel op de uitwerkbijlage in en teken op de uitwerkbijlage de
+            grafiek die bij de formule hoort. Zorg hierbij voor een juiste
+            schaalverdeling langs de verticale as.
+
+3p    15    De temperatuur van het water in het flesje moet lager zijn dan 36 °C
+            voordat de melkpoeder erbij mag. Pieter wil weten hoelang dit duurt.
+             Bereken in één decimaal nauwkeurig hoeveel minuten het duurt totdat
+               het water in het flesje voldoende is afgekoeld. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-18-2-o                                  9 / 13                      lees verder ►►►
+      Waaier
+
+
+
+
+            In Indonesië worden grote beschilderde waaiers verkocht. De waaiers
+            worden gemaakt van bamboelatten waarop een vel rijstpapier is geplakt.
+            Op de foto zie je een voorbeeld.
+
+            In de schets zijn a en b twee stevige basislatten, die in draaipunt P aan
+            elkaar vastgemaakt zijn. De waaier heeft verder 15 dunnere latten die ook
+            aan P vastgemaakt zijn. Als de waaier helemaal is uitgeklapt, liggen de
+            latten a en b op één lijn. De afmetingen staan in de schets hieronder.
+            Het bruine gedeelte is rijstpapier.
+
+
+
+
+                       a                 P                  b
+                                               0,3 m       0,6 m
+
+
+2p    16    Als de waaier helemaal is uitgeklapt, zijn de hoeken tussen de latten
+            allemaal even groot. We houden geen rekening met de dikte van de
+            latten.
+             Bereken hoeveel graden de hoek tussen twee naast elkaar liggende
+                latten is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-18-2-o                             10 / 13                        lees verder ►►►
+3p    17    Het rijstpapier (het bruine gedeelte van de waaier) is aan één kant
+            beschilderd.
+             Laat met een berekening zien dat de beschilderde oppervlakte van het
+               rijstpapier afgerond 1,13 m 2 is.
+
+3p    18    Het benodigde rijstpapier voor de waaier wordt uit rechthoekige vellen
+            rijstpapier van 90 cm breed en 350 cm lang geknipt. Uit één vel van dit
+            rijstpapier kunnen twee waaiers geknipt worden.
+            Op de uitwerkbijlage is een vel van dit rijstpapier op schaal getekend met
+            alvast een van de waaiers.
+             Teken op de uitwerkbijlage de tweede waaier erbij.
+
+
+
+
+GT-0153-a-18-2-o                           11 / 13                            lees verder ►►►
+      Ogen
+
+
+
+
+3p    19    Er zijn drie hoofdkleuren voor ogen: bruin, blauw en groen. In totaal leven
+            er ongeveer 7,5 miljard mensen op de wereld, waarvan 8% blauwe ogen
+            heeft.
+             Bereken het aantal mensen op de wereld dat blauwe ogen heeft.
+                Schrijf je berekening op.
+
+3p    20    Van de 17 miljoen Nederlanders zijn 7,3 miljoen mensen bijziend. Zij
+            kunnen niet goed in de verte zien. Neem aan dat deze verhouding
+            bijzienden voor de hele wereldbevolking van 7,5 miljard mensen geldt.
+             Bereken hoeveel mensen op de wereld dan bijziend zijn. Schrijf je
+                berekening op. Geef je antwoord in de wetenschappelijke notatie en
+                rond af op één decimaal.
+
+3p    21    Gemiddeld knippert een mens overdag elke zes seconden met zijn ogen.
+            Neem aan dat een Nederlandse man gemiddeld 79 jaar oud wordt en elke
+            nacht 8 uur zijn ogen dicht heeft.
+             Hoe vaak knippert een man dan gemiddeld met zijn ogen in een heel
+               leven? Schrijf je berekening op.
+
+3p    22    Van alle mannen is 8% kleurenblind. Bij de vrouwen is dat één op de 250.
+             Zijn er naar verhouding meer mannen of vrouwen kleurenblind? Schrijf
+               je berekening op.
+
+
+
+
+GT-0153-a-18-2-o                            12 / 13                           lees verder ►►►
+      Wortelverband
+
+            Je ziet de grafiek getekend die hoort bij de formule y = 20 – 2,5 x . De
+            grafiek staat ook op de uitwerkbijlage.
+
+            y 40
+
+
+               30
+
+               20
+
+               10
+
+
+                   O   10   20   30   40   50      60     70   80
+                                                                x
+              -10
+
+
+2p    23    Een punt van de grafiek heeft als x-waarde 6.
+             Bereken de waarde van y voor dit punt. Schrijf je berekening op.
+
+3p    24    Bereken de x-waarde van het punt op de grafiek waarvan de y-waarde 12
+            is. Schrijf je berekening op en geef je antwoord in één decimaal.
+
+4p    25    Gegeven is ook de formule y = 10 + 2,5 x .
+             Vul de tabel op de uitwerkbijlage in en teken in het assenstelsel de
+              grafiek die bij deze nieuwe formule hoort.
+
+
+
+
+GT-0153-a-18-2-o                                13 / 13                       lees verdereinde
+                                                                                           ►►► 
+

@@ -1,0 +1,109 @@
+       wiskunde CSE KB                                                                                   2019-1
+
+       uitwerkbijlage
+
+Naam kandidaat ____________________________                                Kandidaatnummer ____________
+
+      Stopafstand
+
+      7
+
+
+                   snelheid          stopafstand         reactieafstand        remafstand
+                   (km/uur)              (m)                   (m)                (m)
+                     40                   21,4                 11,1                 10,3
+                     80                   63,4                 22,2
+                     120                  125,9                33,3
+
+
+                     140
+             afstand
+               (m) 130
+                                                                                        stopafstand
+                      120
+
+                      110
+
+                      100
+
+                       90
+
+                       80
+
+                       70
+
+                       60
+
+                       50
+
+                       40
+                                                                                        reactieafstand
+                       30
+
+                       20
+
+                       10
+
+                        0
+                            0   10   20   30   40   50   60   70   80   90 100 110 120
+                                                                         snelheid (km/uur)
+
+
+
+
+KB-0153-a-19-1-u                                          1/2                                            lees verder ►►►
+      Drinkpakje
+
+      8
+                                                           4 cm
+
+
+
+
+                                                                                                      6,5 cm
+
+
+             4 cm                                                                             4 cm
+
+
+
+
+                                                         12 cm
+
+
+
+      Kabelbaan
+
+      21
+
+
+             tijd (seconden)               0         1             2          3           4
+             hoogte (meters)                                                2,6
+
+                        4,00
+              hoogte
+             (meters)
+                        3,75
+
+                        3,50
+
+                        3,25
+
+                        3,00
+
+                        2,75
+
+                        2,50
+
+                        2,25
+
+                        2,00
+
+                          0
+                               0   0,5   1,0   1,5   2,0     2,5       3,0 3,5 4,0
+                                                                        tijd (seconden)
+
+                    VERGEET NIET DEZE UITWERKBIJLAGE IN TE LEVEREN
+KB-0153-a-19-1-u                                         2/2                                  lees verdereinde
+                                                                                                           ►►► 
+

@@ -1,0 +1,356 @@
+                                                                Examen HAVO
+
+                                                                     2025
+                                                                            tijdvak 1
+                                                                     dinsdag 20 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 18 vragen.
+Voor dit examen zijn maximaal 73 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-25-1-o
+      Een parabool
+
+            De functie f wordt gegeven door f ( x)  2 x 2  3x  4 . De lijn l met
+            vergelijking y  2 x  1 snijdt de grafiek van f in de punten A en B.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+4p    1     Bereken exact de coördinaten van A en B.
+
+            Het punt P ligt op de grafiek van f. De raaklijn k aan de grafiek van f in
+            het punt P staat loodrecht op lijn l.
+3p    2     Bereken exact de x-coördinaat van P.
+
+            De grafiek van f wordt eerst vermenigvuldigd met -1 ten opzichte van de
+            x-as en daarna vermenigvuldigd met -1 ten opzichte van de y-as.
+            Zo ontstaat de grafiek van de functie g.
+3p    3     Onderzoek op exacte wijze of het punt (  14 , 3) op de grafiek van g ligt.
+
+
+
+
+HA-1025-a-25-1-o                              2 / 15                              lees verder ►►►
+            Op de grafiek van f liggen twee punten C en D met dezelfde y-coördinaat.
+            De afstand tussen C en D is 2 12 . Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Het punt T is de top van de grafiek van f.
+5p    4     Bereken exact de afstand van T tot lijnstuk CD.
+
+
+
+
+HA-1025-a-25-1-o                           3 / 15                          lees verder ►►►
+       Watertemperatuur
+
+            De temperatuur van het zeewater vlak bij het strand ‘Playa de San Juan’
+            bij het Spaanse Alicante varieert door het jaar heen. Zie de figuur.
+            Om deze figuur te kunnen maken, is ruim twintig jaar1) lang op dezelfde
+            plek dagelijks de watertemperatuur gemeten. Daarna is van elke dag in
+            het jaar de gemiddelde watertemperatuur berekend. Dit geeft 365 punten
+            in een assenstelsel. Door deze punten kan bij benadering een sinusoïde
+            worden getekend. Deze sinusoïde staat in de figuur.
+
+            figuur
+
+
+
+
+            Bij de sinusoïde past een formule van de volgende vorm:
+                   W  d  a sin(b (t  c ))                   (formule 1)
+            Hierin is W de watertemperatuur in °C en t het dagnummer, met t  0 op
+            1 januari.
+
+            De minimale watertemperatuur is 14°C en deze wordt op 13 februari
+            bereikt ( t  43 ). De maximale watertemperatuur is 26°C en deze wordt op
+            15 augustus ( t  226 ) bereikt.
+4p     5    Bereken mogelijke waarden van a, b, c en d. Geef a, c en d als gehele
+            getallen en b in vijf decimalen.
+
+
+
+
+     noot 1 We gaan er in deze opgave van uit dat elk jaar 365 dagen heeft.
+
+
+
+HA-1025-a-25-1-o                                 4 / 15                       lees verder ►►►
+            Iemand beschrijft de temperatuur van het zeewater in het Nederlandse
+            Bergen aan Zee met de volgende formule:
+                   Z  12  6sin(0, 0172(t  150))        (formule 2)
+            Hierin is Z de watertemperatuur in °C en t het dagnummer, met t  0 op
+            1 januari.
+
+            Bij het zwemonderdeel van een triatlon zijn deelnemers verplicht een
+            wetsuit te dragen als de watertemperatuur lager dan 16°C is.
+
+            Stel dat in Bergen aan Zee een triatlon wordt georganiseerd. Je kunt dan
+            berekenen wat volgens de formule de eerste dag van het jaar is waarop
+            deelnemers aan deze triatlon bij het zwemonderdeel géén wetsuit meer
+            hoeven te dragen.
+4p    6     Bereken met formule 2 het dagnummer van die dag.
+
+
+
+
+HA-1025-a-25-1-o                                 5 / 15                     lees verder ►►►
+      Drie punten op een grafiek
+
+            De functie f wordt gegeven door:
+                               1
+                   f ( x) 
+                              6x  2
+            De grafiek van f heeft een horizontale asymptoot met vergelijking y  0 .
+            Dit kun je beredeneren met behulp van het functievoorschrift van f.
+2p    7     Geef deze beredenering. Het geven van een getallenvoorbeeld of een
+            verwijzing naar een grafiek is niet voldoende.
+
+            Het punt P ligt op de grafiek van f. De y-coördinaat van P is 2.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+3p    8     Bereken exact de x-coördinaat van P.
+
+
+
+
+HA-1025-a-25-1-o                             6 / 15                            lees verder ►►►
+            Het punt Q ( 12 , 1) ligt op de grafiek van f. De lijn l is de raaklijn aan de
+            grafiek van f in Q. Lijn l snijdt de x-as in het punt A en de y-as in het
+            punt B. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+7p    9     Bereken exact de oppervlakte van driehoek OAB.
+
+            Op de grafiek van f ligt één punt R waarvoor geldt dat de y-coördinaat
+            gelijk is aan het kwadraat van de x-coördinaat.
+3p    10    Bereken de x-coördinaat van R. Geef je eindantwoord in twee decimalen.
+
+
+
+
+HA-1025-a-25-1-o                                7 / 15                               lees verder ►►►
+      Een cirkel met rakende en snijdende lijnen
+
+            De cirkel c heeft vergelijking ( x  4) 2  ( y  4) 2  16 .
+            De lijn j is de verticale lijn door het middelpunt van c.
+            De lijn k heeft vergelijking y   23 x  8 .
+            Het punt S is het snijpunt van lijn k en lijn j.
+
+            De lijn l heeft vergelijking y  8 .
+            De lijn m gaat door O en S en snijdt lijn l in het punt Q.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De x-coördinaat van Q is 6.
+
+5p    11    Bewijs dat de x-coördinaat van Q inderdaad gelijk is aan 6.
+
+
+
+
+HA-1025-a-25-1-o                                8 / 15                      lees verder ►►►
+            Het punt P (12, 0) is het snijpunt van k met de x-as.
+            De lijn n is de lijn door P en Q.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+5p    12    Bewijs dat lijn n cirkel c raakt.
+
+
+
+
+HA-1025-a-25-1-o                                9 / 15              lees verder ►►►
+      De veldleeuwerik
+
+            Het aantal veldleeuweriken in Nederland
+            wordt jaarlijks bijgehouden. In de figuur is
+            voor elk jaar in de periode 1990-2014 met
+            een stip het percentage veldleeuweriken
+            aangeven als percentage van het aantal
+            in 1990.
+            Bij 1990 is dus een stip op hoogte 100
+            getekend. In deze figuur is bijvoorbeeld af
+            te lezen dat in 2005 het aantal
+            veldleeuweriken 40% van het aantal
+            veldleeuweriken in 1990 bedroeg.
+
+            figuur
+
+
+
+
+            Het verloop van het percentage veldleeuweriken kan met een
+            exponentieel verband worden benaderd. In de figuur is de grafiek bij dit
+            exponentiële verband getekend. Hierbij wordt uitgegaan van een jaarlijkse
+            afname van het percentage veldleeuweriken met 5%.
+
+            Een vogelbeschermer beweert dat volgens dit model in het jaar 2040
+            minder dan 4% over zal zijn van het aantal veldleeuweriken in 1990.
+3p    13    Onderzoek of de uitspraak van de vogelbeschermer juist is.
+
+
+
+
+HA-1025-a-25-1-o                             10 / 15                        lees verder ►►►
+            De metingen voor de periode 1990-2014 kunnen ook worden benaderd
+            met een kwadratisch verband waarvan de grafiek door het punt (0,100)
+                                                                       2
+            gaat. Een formule bij dit verband is dus van de vorm P  at  bt  100 .
+            Hierin is P het percentage veldleeuweriken ten opzichte van 1990 en t het
+            aantal jaren na 1990.
+
+            Andere punten op de grafiek van dit kwadratisch verband zijn
+            (10 ; 58,66) en (20 ; 36,52) . Je kunt hieruit afleiden dat a  0,10 en
+            b  5,09 . Deze twee waarden zijn afgerond, en kunnen nauwkeuriger
+            worden berekend.
+
+4p    14    Bereken algebraïsch de waarden van a en b in drie decimalen.
+
+
+
+
+HA-1025-a-25-1-o                           11 / 15                           lees verder ►►►
+      Dezelfde y-coördinaat
+
+                                                        3 x 2 6 x
+            De functie f wordt gegeven door f ( x)  8  2      .
+            Het punt S is het snijpunt van de grafiek van f met de y-as.
+            Het punt A is een ander punt op de grafiek van f en heeft dezelfde
+            y-coördinaat als S. Zie de figuur.
+
+            figuur
+
+
+
+
+4p    15    Bereken exact de x-coördinaat van A.
+
+
+
+
+HA-1025-a-25-1-o                           12 / 15                          lees verder ►►►
+      Driehoeken
+
+            Gegeven is de driehoek ABC met C  25 en BC  7 . Het punt D ligt op
+            zijde BC zó dat BD  1 en CAD  90 . Zie de figuur.
+
+            figuur
+
+
+
+
+6p    16    Bereken BAD in graden. Geef je eindantwoord als een geheel getal.
+
+
+
+
+HA-1025-a-25-1-o                         13 / 15                         lees verder ►►►
+      Waterleiding
+
+            Een waterleiding is van een
+            bepaald materiaal gemaakt. De
+            sterkte van dit materiaal, de
+            materiaalsterkte, neemt door de
+            druk van het water in de
+            waterleiding in de loop van de tijd
+            af. Bij het ontwerp van een
+            waterleiding rekent men daarom
+            met de materiaalsterkte die een
+            leiding na 50 jaar gebruik nog
+            heeft. Deze materiaalsterkte wordt
+            aangegeven met S50 .
+
+            Voor de materiaalsterkte van een bepaalde kunststof waterleiding geldt de
+            volgende formule:
+                   St  0,427 log(t )  12,9 met t  1
+            Hierin is:
+             t het aantal jaar dat de leiding in gebruik is;
+             St de materiaalsterkte na t jaar gebruik in N/mm2.
+
+            De eerste onderhoudsinspectie vindt plaats zodra de materiaalsterkte is
+            afgenomen tot een waarde die 20% hoger ligt dan S50 .
+4p    17    Bereken algebraïsch na hoeveel jaar gebruik de eerste
+            onderhoudsinspectie plaatsvindt. Geef je eindantwoord in één decimaal.
+
+
+
+
+HA-1025-a-25-1-o                                  14 / 15                   lees verder ►►►
+            De wand van een waterleiding moet dik genoeg zijn om tegen de
+            maximale waterdruk in de waterleiding bestand te zijn.
+            In de figuur is een dwarsdoorsnede van een cilindervormige waterleiding
+            weergegeven, waarin aangegeven is wat met buitendiameter,
+            binnendiameter en wanddikte bedoeld wordt.
+
+            figuur
+
+
+
+
+            De minimale wanddikte van een bepaalde cilindervormige waterleiding
+            kan berekend worden met de volgende formule:
+                         PD
+                   w
+                        14  P
+            Hierin is:
+             w de minimale wanddikte in mm;
+             D de buitendiameter in mm;
+             P de maximale waterdruk in N/mm2.
+
+            Voor deze waterleiding gelden bij een nieuwbouwproject de volgende
+            ontwerpeisen:
+             De maximale waterdruk is 1,75 N/mm2.
+             De binnendiameter is 312,9 mm.
+4p    18    Bereken in dit geval de minimale wanddikte w van de waterleiding in hele
+            millimeters.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-25-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

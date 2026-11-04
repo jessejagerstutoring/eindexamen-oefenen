@@ -1,0 +1,565 @@
+                                                                    Examen VWO
+
+                                                                        2021
+                                                                               tijdvak 2
+                                                                         vrijdag 18 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       wiskunde A
+
+
+
+
+ Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+ opgenomen.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 80 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-21-2-o
+OVERZICHT FORMULES
+
+
+
+Differentiëren
+ naam van de regel                 functie                       afgeleide
+
+ somregel                          s( x)  f ( x)  g ( x)       s' ( x)  f ' ( x)  g' ( x)
+
+ verschilregel                     s( x)  f ( x)  g ( x)       s' ( x)  f ' ( x)  g' ( x)
+
+ productregel                      p( x)  f ( x)  g ( x)        p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                             f ( x)                           f ' ( x )  g ( x )  f ( x )  g' ( x )
+ quotiëntregel                     q( x)                        q' ( x ) 
+                                             g ( x)                                         ( g ( x )) 2
+                                                                 k' ( x)  f ' ( g ( x))  g' ( x) of
+ kettingregel                      k ( x)  f ( g ( x))          dk df dg
+                                                                            
+                                                                 dx dg dx
+
+
+Logaritmen
+ regel                                                voorwaarde
+  g
+      log  a  g log  b  g log  ab                 g > 0, g  1, a > 0, b > 0
+
+                                      a
+  g
+      log  a   g log  b   g log                   g > 0, g  1, a > 0, b > 0
+                                      b
+  g
+           
+      log a p  p  g log  a                            g >0, g  1, a >0
+                   p
+                       log  a 
+  g
+      log  a   p                                       g >0, g  1, a >0, p >0, p  1
+                       log  g 
+
+
+
+
+VW-1024-a-21-2-o                                             2 / 15                                                 lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-21-2-o                        3 / 15   lees verder ►►►
+      Kopgroep
+
+            Vlakke etappes van grote meerdaagse
+            wielerwedstrijden, zoals de Tour de
+            France, voltrekken zich vaak volgens
+            hetzelfde patroon. Een groep wielrenners,
+            de vluchters, vertrekt vroeg in de etappe
+            voor een aanval en blijft daarna een
+            aantal uren voor de rest van de
+            wielrenners, het peloton, uit rijden.
+            Deze opgave gaat uitsluitend over
+            vlakke etappes.
+
+            Op zeker moment in een bepaalde etappe is er een groep vluchters die
+            met een snelheid van 50 km/uur rijdt. De vluchters zijn op dat moment op
+            25 km van de eindstreep. Het peloton rijdt met een snelheid van
+            53 km/uur en is op datzelfde moment nog 28 km van de eindstreep.
+3p    1     Haalt het peloton de vluchters in voordat zij bij de eindstreep zijn, ervan
+            uitgaand dat zowel de vluchters als het peloton niet harder of langzamer
+            gaan rijden? Licht je antwoord toe.
+
+            In het laatste uur van de etappe gaan de wielrenners in het peloton vaak
+            jagen: ze gaan dan nog wat harder fietsen om de vluchters in te halen.
+
+            De wiskundige Hendrik Van Maldeghem heeft een formule ontwikkeld
+            waarmee voor vlakke etappes berekend kan worden hoeveel kilometer het
+            peloton nodig heeft om een groep vluchters in te halen.
+
+            Als de vluchters een constante snelheid hebben van 50 km/uur, ziet de
+            formule er als volgt uit:
+                                         6  a  p2
+                    K
+                         3( p  50)  6  a  p  c  9( p  50) 2
+            Hierin is:
+            K       het aantal kilometers voor de eindstreep waarop het peloton moet
+                    beginnen te jagen om de achterstand nog in te lopen;
+            a       de achterstand van het peloton op het moment dat het jagen moet
+                    beginnen, uitgedrukt in uren;
+            p       de snelheid van het peloton tijdens het jagen in km/uur, met p
+                    tussen 50 en 75 km/u;
+            c       hangt af van het aantal vluchters s:
+                        als s  1 0 , dan geldt c  1 0  s ,
+                        als s  1 0 , dan geldt c  0 .
+
+            Bij deze formule wordt ervan uitgegaan dat het peloton tijdens het jagen
+            met dezelfde constante snelheid blijft rijden.
+
+
+
+VW-1024-a-21-2-o                                      4 / 15                   lees verder ►►►
+            We gaan er in deze opgave steeds van uit dat de vluchters een constante
+            snelheid hebben van 50 km/uur.
+
+            Op een gegeven moment heeft een groep van 8 vluchters 10 minuten
+            voorsprong.
+            De afstand van het peloton tot de aankomst is op dat moment nog 80 km.
+            Het peloton begint op dat moment te jagen.
+3p    2     Bereken met de formule de minimale snelheid waarmee het peloton moet
+            gaan jagen om de vluchters te kunnen inhalen. Geef je antwoord in een
+            geheel aantal km/uur.
+
+            Voor groepen vluchters die uit 10 of meer wielrenners bestaan, en
+            waarvoor de achterstand van het peloton 6 minuten is, is de formule te
+                              0,1  p 2
+            herleiden tot K            .
+                               p  50
+            Ook hier nemen we aan dat het peloton altijd rijdt met snelheden tussen
+            50 en 75 km/uur.
+                                dK        dK 0,1  p  ( p  100)
+            Voor de afgeleide      geldt:                        .
+                                dp        dp     ( p  50) 2
+
+4p    3     Toon aan dat deze formule van de afgeleide volgt uit de formule van K.
+
+            De afstand K, benodigd om de vluchters in te halen, wordt steeds kleiner
+            als de snelheid p van het peloton hoger wordt.
+                                                                        dK
+3p    4     Toon dit aan met behulp van een schets van de grafiek van      .
+                                                                        dp
+
+
+
+
+VW-1024-a-21-2-o                              5 / 15                           lees verder ►►►
+      Dichtheidshoogte
+
+            De prestaties van een vliegtuig zijn afhankelijk van vele factoren, zoals de
+            luchtdruk, de temperatuur en de hoogte waarop het vliegtuig vliegt.
+            Voor en tijdens een vlucht worden er allerlei berekeningen gemaakt,
+            bijvoorbeeld om te bepalen hoeveel brandstof het vliegtuig nodig heeft en
+            hoe steil het vliegtuig kan stijgen en dalen.
+
+            Om onder allerlei verschillende omstandigheden dezelfde
+            (veiligheids)richtlijnen te kunnen hanteren, ontwikkelde de Internationale
+            Burgerluchtvaartorganisatie het model van de zogeheten
+            standaardatmosfeer.
+            Dit model geldt slechts beperkt, want in werkelijkheid blijft de temperatuur
+            vanaf een bepaalde hoogte constant op –56,5 °C.
+
+            In het model gelden de volgende formules:
+             Voor de temperatuur: T  15  0,0065h met T de temperatuur
+                in °C en h de hoogte in meter (m).
+                                                               5,2561
+                                                      0,0065h 
+                  Voor de luchtdruk: L  1013, 25  1             met L de luchtdruk
+                                                         288,15 
+                   in hectopascal (hPa) en h de hoogte in meter (m).
+
+            De luchtdruk L is nooit kleiner dan nul. Vanaf een bepaalde hoogte geeft
+            de formule voor L geen uitkomsten meer.
+3p    5     Onderzoek vanaf welke hoogte dat is. Geef je antwoord in hele
+            kilometers.
+
+            In het model neemt de temperatuur af bij toenemende hoogte.
+3p    6     Bereken volgens het model de luchtdruk op de hoogte waar de
+            temperatuur –56,5 °C is. Geef je antwoord in hPa en in één decimaal.
+
+            De luchtdruk neemt af bij toenemende hoogte, dus de grafiek van L is
+            dalend.
+5p    7     Beredeneer aan de hand van een formule van de afgeleide van L, zonder
+            getallen in te vullen of een schets/tekening te maken, of de luchtdruk
+            toenemend of afnemend daalt als h toeneemt.
+
+
+
+
+VW-1024-a-21-2-o                              6 / 15                           lees verder ►►►
+            In werkelijkheid zal een vliegtuig zelden in een standaardatmosfeer
+            vliegen. Daarom worden de werkelijke omstandigheden waarin het
+            vliegtuig zich bevindt, omgerekend naar de standaardatmosfeer. Het
+            resultaat van deze berekening is de zogenoemde dichtheidshoogte (D).
+            Dit is de theoretische hoogte waarop het vliegtuig zich zou bevinden in de
+            standaardatmosfeer. Met de berekende dichtheidshoogte kan de piloot
+            volgens de richtlijnen de veilige landingssnelheid bepalen.
+
+            Het berekenen van de dichtheidshoogte D gaat als volgt:
+            1 Meet de werkelijke luchtdruk en bereken met behulp van de formule
+               voor L de bijbehorende theoretische hoogte. Deze hoogte wordt de
+               drukhoogte ( hP ) (in m) genoemd.
+            2 Bereken de theoretische temperatuur ( TP ) die volgens het model van
+                   de standaardatmosfeer hoort bij deze drukhoogte.
+            3      Meet de werkelijke temperatuur ( TW ).
+            4      Nu geldt voor de dichtheidshoogte: D  hP  36,576  (TW  TP ) ,
+                   met D en hP in m, TW en TP in °C.
+
+            De piloot van een vliegtuig wil haar landing inzetten.
+            De luchtdrukmeter geeft 990 hPa aan, de temperatuur is 21,4 °C.
+4p    8     Bereken de dichtheidshoogte die hierbij hoort. Geef je antwoord in hele
+            meters.
+
+            Er bestaat een vuistregel om de drukhoogte hP te bepalen. Deze
+            vuistregel is op grote hoogte niet bruikbaar, maar is wel geschikt als een
+            vliegtuig op een lagere hoogte vliegt.
+            De vuistregel luidt: hP  8, 23  (1013, 25  M ) met M de gemeten luchtdruk
+            in hPa en hP in m.
+            Door deze formule voor de drukhoogte in te vullen in de formule voor de
+            temperatuur in het model van de standaardatmosfeer, kan een lineair
+            verband worden opgesteld tussen M en TP .
+            Dit verband heeft de vorm TP  a  M  b met M in hPa en TP in °C.
+3p    9     Bereken de waarden van a en b. Geef a en b in drie decimalen.
+
+
+
+
+VW-1024-a-21-2-o                                7 / 15                                 lees verder ►►►
+      Beweging
+
+            In Utrecht staat het kunstwerk Beweging van de kunstenaar
+            Lolke van der Bij. Het is opgebouwd uit drie even grote golvende stalen
+            balken die onder gelijke hoeken tegen elkaar staan. Zie de foto.
+            foto                                            bovenaanzicht
+
+
+
+
+            Zoals je in het bovenaanzicht kunt zien, kijk je bij de foto recht naar de
+            linker balk. Je ziet slechts twee balken, want de derde balk bevindt zich
+            precies achter de rechter balk op de foto. Op de foto is de breedte van de
+            rechter balk precies de helft van die van de linker balk.
+
+            In de figuur is in een assenstelsel een verkleind model van de situatie op
+            de foto weergegeven. De randen van de linker en rechter balk zijn
+            sinusoïden.
+            figuur
+
+
+
+
+            Door het midden van het kunstwerk loopt een denkbeeldige verticale lijn
+            waarop de balken elkaar raken. Deze lijn is de x-as in het model.
+            In het verkleinde model zijn de x- en y-waarden de afmetingen in mm.
+            Een formule voor de bovenste sinusoïde in de figuur is:
+                                                     
+                   y  5, 70  1,90 sin     ( x  33) 
+                                         22           
+
+
+
+
+VW-1024-a-21-2-o                                   8 / 15                     lees verder ►►►
+            Zoals eerder vermeld, is op de foto de breedte van de rechter balk precies
+            de helft van die van de linker balk. De formule van de onderste sinusoïde
+                                                        
+            in de figuur heeft de vorm y  a  bsin c(x  d ) . 
+4p   10     Bereken mogelijke waarden voor a, b, c en d in deze formule. Geef a, b en
+            c in twee decimalen en d in gehelen.
+
+                                                         
+            De formule y  5, 70  1,90 sin     ( x  33)  hoort bij de bovenste
+                                             22           
+            sinusoïde in de figuur, dus bij de buitenrand van de linker balk op de foto.
+            De sinusoïde daaronder in de figuur hoort bij de binnenrand van de linker
+            balk op de foto.
+
+            In werkelijkheid zijn de afmetingen van het kunstwerk 80 keer zo groot als
+            die van het model.
+5p   11     Stel een formule op voor de werkelijke afstand in cm tussen de
+            binnenrand van de linker balk en de denkbeeldige verticale lijn door het
+            midden van het kunstwerk uitgedrukt in x, de hoogte vanaf de grond
+            in cm.
+
+            Op zonnige dagen werpt het kunstwerk een schaduw op het grasveld. De
+            lengte van deze schaduw is afhankelijk van de hoogte van de zon op dat
+            moment.
+            De maximale hoogte waarop de zon op een bepaalde dag in 2021 staat,
+            wordt bij benadering gegeven door de formule:
+                       H  38,0  23,5sin(0,0172(t  80))
+            Hierin is H de hoogte van de zon boven de horizon in graden en t de
+            betreffende dag in het jaar met t  0 op 1 januari 2021.
+
+            Als de maximale hoogte van de zon op een dag 45 graden is, wordt de
+            schaduw van het kunstwerk op dat moment even lang als het kunstwerk
+            zelf. Dit gebeurt op twee dagen in 2021, op 8 april voor het eerst.
+3p   12     Bereken op welke andere dag in 2021 dit voor de tweede keer gebeurt. Je
+            kunt hierbij de tabel gebruiken.
+            tabel
+            datum 1 jan       1 feb   1 mrt   1 apr     1 mei 1 jun
+                   t   0      31      59      90        120   151
+
+            datum 1 jul       1 aug 1 sep 1 okt         1 nov 1 dec
+                   t   181    212     243     273       304   334
+
+
+
+
+VW-1024-a-21-2-o                               9 / 15                          lees verder ►►►
+      Kaartenhuis
+
+            Door speelkaarten op elkaar te stapelen,          foto
+            kan je een kaartenhuis bouwen.
+            Op de foto zie je een kaartenhuis van drie
+            lagen.
+
+            Het kaartenhuis op de foto is gebouwd
+            volgens de zogeheten driehoeksconstructie.
+            Bij de driehoeksconstructie ga je als volgt te
+            werk:
+             Zet steeds naast elkaar twee kaarten
+                schuin tegen elkaar (de zwarte lijnstukken
+                in de figuur hieronder).
+             Leg een kaart op de toppen (de
+                gestippelde lijnstukken in de figuur).
+             Ga door tot het kaartenhuis af is.
+            In de figuur is dit schematisch weergegeven voor een kaartenhuis van vier
+            lagen.
+            figuur
+
+
+
+
+            In deze opgave beschouwen we kaartenhuizen die volgens de
+            driehoeksconstructie zijn gebouwd.
+            Zowel het aantal staande kaarten als het aantal liggende kaarten in een
+            laag vormt een rekenkundige rij. Door voor beide aantallen een directe
+            formule op te stellen, kan een directe formule voor het totaal aantal
+            kaarten in een laag gevonden worden.
+            Deze formule is K (n)  3n  1 , met K (n) het totaal aantal kaarten in de
+            n-de laag. De liggende kaarten horen bij de laag waarop ze liggen, dus de
+            bovenste liggende kaart in de figuur hoort bij laag 2.
+
+2p   13     Stel voor zowel de staande kaarten als voor de liggende kaarten in de
+            n-de laag een directe formule op en toon daarmee aan dat K (n)  3n  1 .
+
+
+
+
+VW-1024-a-21-2-o                           10 / 15                           lees verder ►►►
+            Het totaal aantal kaarten in een kaartenhuis van n lagen noemen we
+            T ( n) . Een directe formule hiervoor is T (n)  32 n2  12 n .
+
+            Omdat T ( n) de somrij is van K (n) moet gelden: T (n)  T (n  1)  K (n) .
+4p   14     Toon met behulp van de formules van K (n) en T ( n) aan dat inderdaad
+            geldt dat T (n)  T (n  1)  K (n) .
+
+            Een pakje speelkaarten, inclusief jokers, bestaat uit 54 kaarten.
+
+3p   15     Bereken hoeveel pakjes speelkaarten nodig zijn voor het kaartenhuis
+            waarbij voor de onderste laag zoveel mogelijk kaarten van één pakje
+            speelkaarten zijn gebruikt.
+
+            Met de kaarten van drie pakjes speelkaarten wordt een zo hoog mogelijk
+            kaartenhuis gebouwd. Met de kaarten die overblijven wordt daarna een
+            tweede zo hoog mogelijk kaartenhuis gebouwd. Zo gaat men door totdat
+            alle kaarten op zijn of totdat er te weinig kaarten over zijn om nog een
+            kaartenhuis te bouwen.
+4p   16     Onderzoek met een berekening welke kaartenhuizen gebouwd zullen
+            worden.
+
+                                                                              2
+            De formule voor T ( n) is te herleiden tot T (n)  32 (n  16 )  24
+                                                                              1
+                                                                                 .
+            Omdat je bij het bouwen van een kaartenhuis met de n-de laag begint,
+            moet je van tevoren weten uit hoeveel lagen een kaartenhuis bestaat als
+            je weet hoeveel speelkaarten je gebruikt. Daarvoor is het handig om een
+            formule te hebben waarin n wordt uitgedrukt in T.
+                                  2
+3p   17     Herleid T  32 (n  16 )  24
+                                       1
+                                          tot een formule van de vorm n          aT  b  c .
+            Geef de waarden van a, b en c in twee decimalen.
+
+
+
+
+VW-1024-a-21-2-o                                11 / 15                                 lees verder ►►►
+      Bevolkingsgroei
+
+            Deze opgave gaat over een algemeen model voor de bevolkingsgroei
+            waarbij men gebruikmaakt van de populatiegroei-ratio. Dit is een maat
+            voor de bevolkingsgroei. De populatiegroei-ratio is als volgt gedefinieerd:
+                                   W (t ) 
+                               ln 
+                                   W (0) 
+                    r  1000 
+                                     t
+            Hierin is r de populatiegroei-ratio, W (0) de wereldbevolking in miljoenen
+            op een bepaald tijdstip en W (t ) de wereldbevolking in miljoenen t jaar
+            later.
+            Door verschillende aannames voor de populatiegroei-ratio te doen, komt
+            men tot verschillende voorspellingen voor de grootte van de
+            wereldbevolking.
+
+            Op 1 juli 2015 was de wereldbevolking 7383 miljoen en op 1 juli 2020 was
+            dat 7834 miljoen.
+            Men wil de wereldbevolking op 1 juli 2025 berekenen met behulp van de
+            populatiegroei-ratio uit de periode 2015-2020. Neem aan dat deze ratio in
+            de toekomst gelijk blijft.
+4p   18     Bereken met behulp van deze aanname de wereldbevolking op
+            1 juli 2025. Geef je antwoord in gehele miljoenen.
+
+            De formule voor de populatiegroei-ratio kan worden herleid tot een
+            formule van de vorm:
+                     W ( t )  W (0)  e 0,001r t
+3p   19     Geef deze herleiding.
+
+            Als de populatiegroei-ratio over twee even lange aaneengesloten
+            perioden bekend is, kan de populatiegroei-ratio over de twee perioden
+            samen als volgt worden berekend:
+                         r r
+                     r  1 2 ofwel r1  r2  2r .
+                           2
+            Hierin is r1 de populatiegroei-ratio over de eerste periode, r2 de
+            populatiegroei-ratio over de tweede periode en r de populatiegroei-ratio
+            over de twee perioden samen.
+                                 W (t )                    W (2t )                    W (2t ) 
+                             ln                        ln                         ln 
+                                 W (0)                     W (t )                     W (0) 
+            Neem r1  1000                , r2  1000                 en r  1000                 .
+                                   t                           t                            2t
+
+4p   20     Toon met behulp van de rekenregels voor logaritmen aan dat r1  r2  2r .
+
+
+
+
+VW-1024-a-21-2-o                                      12 / 15                              lees verder ►►►
+            In het algemeen geldt:
+
+                   Als r1 , r2 , …, rn de populatiegroei-ratio’s over n aaneengesloten even
+                   lange perioden zijn, dan is de populatiegroei-ratio r over de totale
+                                          r  r2  ...  rn
+                   periode gelijk aan r  1                 .
+                                                 n
+
+            In de tabel zijn populatiegroei-ratio’s gegeven over periodes van vijf
+            aaneengesloten jaren in de periode 2020-2050. Deze waarden horen bij
+            een bepaalde voorspelling van de wereldbevolking.
+
+            tabel
+                            periode
+                             2020-    2025-     2030-       2035-      2040-   2045-
+                             2025     2030      2035        2040       2045    2050
+            populatie-
+            groei-            12,4     11,8      10,7           10,0    9,8     9,6
+            ratio
+
+            Met behulp van de populatiegroei-ratio’s uit de tabel en de eerder
+            genoemde formule W ( t )  W (0)  e 0,001r t kun je berekenen met hoeveel
+            procent de wereldbevolking volgens deze voorspelling groeit in de totale
+            periode 2020-2050.
+4p   21     Bereken dit percentage. Geef je antwoord in hele procenten.
+
+
+
+
+VW-1024-a-21-2-o                                 13 / 15                               lees verder ►►►
+      Einduitslag van de Volvo Ocean Race
+
+            De Volvo Ocean Race (VOR) is een zeilwedstrijd rond de wereld die om
+            de drie jaar gevaren wordt. Aan de editie van 2017-2018 namen zeven
+            teams deel.
+
+            De VOR bestaat uit etappes en havenraces. De etappes gaan van de ene
+            havenplaats naar de andere en duren meerdere dagen. De havenraces
+            zijn wedstrijden van enkele uren dicht bij de kust.
+
+            Zowel voor de etappes als voor de havenraces zijn punten te verdienen.
+            De tussenstand na tien etappes en negen havenraces staat in de tabel.
+
+            tabel
+                                                          punten voor     punten voor
+            plaats     team
+                                                          de etappes     de havenraces
+                   1   MAPFRE (M)                              65               56
+                   2   Team Brunel (B)                         65               41
+                   3   Dongfeng Race Team (D)                  64               49
+                   4   Team AkzoNobel (A)                      53               39
+                   5   Vestas 11th Hour Racing (V)             38               26
+                   6   Team Sun Hung Kai/Scallywag (S)         30               21
+                   7   Turn the Tide on Plastic (T)            29               17
+
+            In het klassement zijn de punten voor de etappes belangrijker dan de
+            punten voor de havenraces. De eindwinnaar van de VOR is het team dat
+            aan het einde de meeste punten voor de etappes behaald heeft.
+
+            Als twee teams evenveel punten voor de etappes hebben, wordt gekeken
+            naar de punten voor de havenraces om te bepalen welk team hoger in het
+            klassement staat. In de tussenstand in de tabel is bijvoorbeeld te zien dat
+            team M en team B allebei 65 punten hebben voor de etappes en dat
+            team M op de eerste plaats staat, omdat team M meer punten heeft voor
+            de havenraces.
+
+            Als aan het einde van de VOR twee teams evenveel punten voor de
+            etappes hebben en ook evenveel punten voor de havenraces, dan wordt
+            op basis van de gezeilde tijd in de etappes bepaald wie hoger staat in de
+            einduitslag.
+
+
+
+
+VW-1024-a-21-2-o                             14 / 15                          lees verder ►►►
+            De tussenstand in de tabel geeft de situatie weer waarin er nog één
+            etappe en twee havenraces moeten worden gevaren.
+
+            Voor de laatste etappe zijn nog de volgende punten te verdienen:
+             De winnaar van de laatste etappe krijgt 8 punten, het tweede team
+               krijgt 6 punten, het derde team 5 punten, enzovoort (steeds 1 punt
+               minder). Een team dat de finish niet haalt, krijgt 0 punten.
+             Het team dat de snelste totale tijd over alle etappes heeft gevaren
+               krijgt een bonuspunt bij de totale punten voor de etappes. Op basis
+               van hun prestaties op de eerdere etappes is nu al bekend dat dit punt
+               naar team D gaat.
+
+            Voor de havenraces geldt de volgende puntentelling: De winnaar van een
+            wedstrijd krijgt 7 punten, het tweede team krijgt 6 punten, het derde team
+            5 punten, enzovoort. Een team dat de finish niet haalt, krijgt 0 punten.
+
+6p   22     Onderzoek hoeveel verschillende einduitslagen er mogelijk zijn op basis
+            van bovenstaande gegevens.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1024-a-21-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

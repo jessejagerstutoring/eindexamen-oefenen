@@ -1,0 +1,400 @@
+                                                                Examen HAVO
+
+                                                                     2026
+                                                                            tijdvak 1
+                                                                     dinsdag 19 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 17 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-26-1-o
+      Hoeken
+
+            De cirkel c met middelpunt M is gegeven door de vergelijking:
+
+                   x2  y2 10x  6 y  135
+            De lijn k heeft vergelijking y  2 x .
+            De lijn l is de lijn door de punten O en M. Zie figuur 1.
+            figuur 1
+
+
+
+
+4p    1     Onderzoek op exacte wijze of k en l elkaar loodrecht snijden.
+
+            Lijn k snijdt het deel van de cirkel boven de x-as in het punt P. Het punt
+            Q (0, 15) is het snijpunt van c met de positieve y-as. Zie figuur 2.
+            figuur 2
+
+
+
+
+            In figuur 2 is de hoek aangegeven die de lijn door P en Q met de x-as
+            maakt.
+7p    2     Bereken algebraïsch deze hoek in graden. Geef je eindantwoord als
+            geheel getal.
+
+
+HA-1025-a-26-1-o                              2 / 12                           lees verder ►►►
+      Exponentiële functies
+
+                                                                     3 x2
+            De functie f wordt gegeven door f ( x)  2                       en de functie g wordt
+
+                                     12 
+                                             2 x   2
+
+            gegeven door g ( x)                        .
+
+            De grafieken van f en g hebben twee snijpunten. Beide snijpunten hebben
+            dezelfde y-coördinaat.
+4p    3     Bereken exact deze y-coördinaat. Schrijf je antwoord in de vorm a met
+            a een geheel getal.
+
+            De functie h wordt gegeven door h( x)  f ( x)  g ( x) .
+            De grafiek van h heeft drie toppen, waaronder het punt T op de y-as. Zie
+            de figuur.
+            figuur
+
+
+
+
+            Op de grafiek van h liggen links van de y-as twee punten waarin de
+            raaklijn helling 2 heeft; het punt dat het dichtst bij de y-as ligt, is het
+            punt A. De hoogte van A is kleiner dan de hoogte van T.
+5p    4     Bereken het verschil tussen deze hoogtes. Geef je eindantwoord in drie
+            decimalen.
+
+
+HA-1025-a-26-1-o                                            3 / 12                              lees verder ►►►
+      Hyperbool
+
+                                                    3
+            De functie f wordt gegeven door f ( x )   2 . De grafiek van f is een
+                                                    x
+            hyperbool. Op deze hyperbool ligt het punt P(2, 3 12 ) . De lijn k raakt de
+            hyperbool in P. Zie figuur 1.
+            figuur 1
+
+
+
+
+            Een vergelijking van k is y   34 x  5 .
+
+4p    5     Bewijs dit.
+
+            De lijn l met vergelijking y   34 x  1 raakt de hyperbool in het punt
+             Q(2, 12 ) . Lijn l snijdt de y-as in het punt A. Zie figuur 2.
+            In deze figuur is ook de horizontale asymptoot van de hyperbool
+            gestippeld weergegeven. Lijn k snijdt deze asymptoot in het punt B.
+            figuur 2
+
+
+
+
+            Het lijkt of de lijnstukken AB en PQ even lang zijn.
+5p    6     Onderzoek op exacte wijze of AB en PQ even lang zijn.
+
+
+
+HA-1025-a-26-1-o                                 4 / 12                           lees verder ►►►
+            De functie g ontstaat uit de functie f door een logaritme van f te nemen:
+
+                                  3    
+                   g ( x)  2 log   2 
+                                  x    
+            De grafiek van g snijdt de x-as in het punt C.
+            De y-as is een verticale asymptoot van de grafiek van g. Links van de y-as
+            is er nog een verticale asymptoot. Deze asymptoot snijdt de x-as in het
+            punt D. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+4p    7     Bereken exact de lengte van het lijnstuk CD.
+
+                                                       2           2
+            De functie h wordt gegeven door h( x)  log(2 x)  log( x  1 12 ) . In figuur 4
+            is de grafiek van h weergegeven. Het deel van de grafiek van g dat rechts
+            van de y-as ligt, is ook weergegeven.
+
+            figuur 4
+
+
+
+
+            Bewering: als de grafiek van h 1 12 naar links wordt verschoven, dan valt
+            de verschoven grafiek samen met het rechterdeel van de grafiek van g.
+3p    8     Onderzoek op exacte wijze of deze bewering juist is.
+
+
+
+
+HA-1025-a-26-1-o                              5 / 12                              lees verder ►►►
+      Temperatuur in de grond
+
+            Gedurende de dag verandert de temperatuur van de buitenlucht. Meestal
+            is het in de nacht kouder dan overdag en is het in de middag het warmst.
+            De temperatuur van de grond op verschillende diepten zal zich aanpassen
+            aan de temperatuur van de buitenlucht. Die aanpassing loopt in de tijd wat
+            achter ten opzichte van de temperatuur van de buitenlucht.
+
+            We kijken eerst naar gemeten temperaturen op verschillende diepten in
+            veengrond. We doen dat voor een bepaalde periode van twee dagen.
+            Op basis van de meetresultaten op de grond (0 cm diep) en op twee
+            verschillende diepten (5 cm diep en 10 cm diep) zijn in een model drie
+            sinusoïden getekend. Zie de figuur.
+            Hierbij is T de temperatuur in graden Celsius en t het aantal uren na het
+            begin van de twee dagen, met t  0 om 0.00 uur.
+            De figuur staat vergroot op de uitwerkbijlage.
+
+            figuur
+
+
+
+
+            In deze figuur is bijvoorbeeld af te lezen dat de temperatuur op de grond
+            in de loop van de middag maximaal is. De maximale temperaturen op een
+            diepte van 5 cm en 10 cm worden op een later tijdstip bereikt.
+
+            Bij elke grafiek hoort een formule van de vorm T  a  b  sin(c(t  d )) .
+4p    9     Bepaal de waarden van a, b, c en d voor de grafiek op de grond. Geef a, b
+            en d als geheel getal en geef c in één decimaal. Gebruik de figuur op de
+            uitwerkbijlage.
+
+
+
+
+HA-1025-a-26-1-o                              6 / 12                             lees verder ►►►
+            Naarmate je dieper in de grond meet, worden de verschillen tussen de
+            maximale en minimale temperatuur kleiner. Dit is in de figuur aan de
+            amplitudes van de grafieken te zien. In het model neemt de amplitude van
+            de grafiek exponentieel af met de diepte.
+            De amplitude van de grafiek van 5 cm diepte is 5,5. De amplitude van de
+            grafiek van 10 cm diepte is 2,3. Met behulp van deze amplitudes kan de
+            groeifactor van de amplitude per 5 cm diepte worden berekend. Hieruit
+            volgt de procentuele afname per 1 cm diepte.
+3p    10    Bereken algebraïsch deze procentuele afname van de amplitude per 1 cm
+            diepte. Geef je eindantwoord in gehele procenten.
+
+            Tijdens een periode van vorst bevriest de grond. Om te weten hoe diep de
+            vorst in de grond zit, wordt dagelijks de vorstindex bepaald. Hiervoor
+            worden de gemiddelde dagtemperaturen (in C ) vanaf het begin van de
+            vorstperiode opgeteld. De vorstindex I is het tegengestelde van de
+            uitkomst van deze optelling. Er geldt dus:
+             I   (somvan degemiddeldedagtemperaturen vanaf het begin van de vorstperiode)
+
+            Voor drie opeenvolgende dagen op een bepaalde plaats staat hieronder
+            een voorbeeld van de berekening van de vorstindex I, waarbij het op
+            dag 1 begint te vriezen.
+
+            voorbeeld
+            dagnummer         gemiddelde        som van de gemiddelde        vorstindex I
+                            dagtemperatuur     dagtemperaturen vanaf het
+                                               begin van de vorstperiode
+                    1            4,5C                    4,5                  4,5
+                    2            7,5C             4,5  7,5  12            12
+                    3             2C              4,5  7,5  2  10         10
+
+            Op een plaats met lichte kleigrond willen we bepalen tot hoe diep de vorst
+            in de grond zit. Deze diepte wordt in een vereenvoudigd wiskundig model
+            benaderd met de formule:
+                   z  4 I , met z de diepte in cm en I de vorstindex
+            Op deze plaats geldt na een aantal dagen flinke vorst dat de vorst tot
+            20 cm in de grond zit.
+            De weersvoorspelling is dat op de dagen die volgen, de gemiddelde
+            dagtemperatuur elke dag 6 graden Celsius boven 0 is.
+            Met die weersvoorspelling is te berekenen na hoeveel dagen de vorst op
+            deze plaats voor het eerst helemaal uit de grond is verdwenen.
+4p    11    Bereken met behulp van de formule voor z na hoeveel hele dagen de
+            vorst voor het eerst helemaal uit de grond is verdwenen.
+
+
+
+
+HA-1025-a-26-1-o                               7 / 12                           lees verder ►►►
+      Een wortelfunctie benaderen
+
+            De functie f wordt gegeven door f ( x )  1  2 4  x .
+            De functie g wordt gegeven door g ( x )  a  x3  b  x 2  c  x  d . Hierin zijn
+            a, b, c en d constanten.
+
+            In de figuur is de grafiek van f weergegeven.
+            Ook is voor een keuze van de waarden van a, b, c en d de grafiek van g
+            gestippeld weergegeven.
+            In de buurt van x  0 benadert de grafiek van g de grafiek van f.
+
+            figuur
+
+
+
+
+            Voor de weergegeven grafieken geldt: f (0)  g (0) en f '(0)  g '(0) .
+
+            Uit f (0)  g (0) volgt d  5 .
+
+            De waarde van c volgt uit f '(0)  g '(0) .
+            Er geldt: c   12 .
+
+
+4p    12    Bewijs dat c   12 .
+
+                                                                    1 en b   1 .
+            Voor de grafiek van g in de figuur geldt verder: a   256        32
+                                                                 1 x3  1 x 2  1 x  5 .
+            Daarmee wordt de functie g gegeven door g ( x )   256     32      2
+            De grafiek van f ligt nergens boven de grafiek van g.
+
+            Hoe verder x van 0 afwijkt, des te groter is de verticale afstand tussen de
+            twee grafieken.
+3p    13    Bereken voor welke twee waarden van x de verticale afstand gelijk is aan
+            0,05. Geef je eindantwoorden in twee decimalen.
+
+
+
+
+HA-1025-a-26-1-o                                 8 / 12                                 lees verder ►►►
+      Gelijkvormige driehoeken
+
+            Gegeven zijn de gelijkvormige driehoeken ABS en CDS. De zijden AB en
+            CD zijn evenwijdig. Het punt S is het snijpunt van de lijnstukken AC en
+            BD.
+
+            Het punt E ligt op het lijnstuk AB en het punt F ligt op het lijnstuk AS
+            zodanig dat het lijnstuk EF evenwijdig is met het lijnstuk BS.
+
+            Verder geldt dat BS  11 , DS  4 , CD  5 , EB  2 en CSD  60 .
+            Zie de figuur.
+
+            figuur
+
+
+
+
+7p    14    Bereken de lengte van het lijnstuk AF. Geef je eindantwoord in één
+            decimaal.
+
+
+
+
+HA-1025-a-26-1-o                             9 / 12                              lees verder ►►►
+      Komeetbanen
+
+            Kometen zijn relatief kleine hemellichamen die vaak in een baan om een
+            ster draaien. In deze opgave bekijken we komeetbanen rondom onze zon.
+            Zo’n baan heeft twee symmetrieassen, een lange en een korte as, die
+            loodrecht op elkaar staan. Het snijpunt van deze assen is het midden van
+            de baan. De zon Z bevindt zich op de lange as, maar niet in het midden.
+            De afstand van de komeet tot het middelpunt van de zon varieert. Als de
+            komeet zich op de lange as bevindt, worden de grootste afstand g en de
+            kleinste afstand k bereikt.
+
+            In figuur 1 zijn twee voorbeelden van een komeetbaan met zijn
+            symmetrieassen getekend.
+
+            figuur 1
+
+
+
+
+            Komeetbanen hebben verschillende vormen. De vorm hangt samen met g
+            en k. Hoe kleiner het verschil tussen g en k, hoe meer de baan op een
+            cirkel gaat lijken. Een maat voor de vorm van de baan is de
+            excentriciteit.
+            De excentriciteit e wordt berekend met de formule:
+                        g k
+                   e
+                        gk
+            Voor twee komeetbanen met een verschillende waarde voor g en ook voor
+            k geldt dat afstand g vier keer zo groot is als afstand k.
+3p    15    Onderzoek op exacte wijze of beide banen dezelfde excentriciteit hebben.
+            Bij dit onderzoek is het gebruik van getallenvoorbeelden onvoldoende.
+
+
+
+
+HA-1025-a-26-1-o                          10 / 12                           lees verder ►►►
+            Kometen worden aangeduid met een nummer gevolgd door een letter.
+            In figuur 2 is de baan van komeet 53P weergegeven. Figuur 2 is vergroot
+            weergegeven op de uitwerkbijlage.
+
+            figuur 2
+
+
+
+
+            Voor deze baan geldt:
+             de lengte van de lange as op de uitwerkbijlage is gelijk aan 10 cm;
+             de excentriciteit is 0,553.
+
+            Met een stelsel van vergelijkingen kan de plaats van de zon op de lange
+            as in de tekening worden bepaald. Ga ervan uit dat de zon zich rechts van
+            het midden bevindt.
+5p    16    Bereken de waarde van g (of k) in één decimaal en teken vervolgens de
+            plaats van de zon op de uitwerkbijlage.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1025-a-26-1-o                           11 / 12                          lees verder ►►►
+            De omlooptijd T is de tijd die een komeet er over doet om één keer om de
+            zon te draaien. De lengte van de halve lange as van de baan is a.
+
+            In figuur 3 is voor de kometen 53P, 54P, 56P en 57P a 3 uitgezet tegen
+             T 2 . De omlooptijd T is in jaren en de lengte a in miljarden kilometer.
+            Tussen a en T bestaat een verband: er geldt dat a 3 recht evenredig is
+                     2
+            met T . In figuur 3 is door middel van een lijn het recht evenredige
+            verband weergegeven.
+            Figuur 3 staat vergroot op de uitwerkbijlage.
+
+            figuur 3
+
+
+
+
+            De komeet 55P draait in 33,2226 jaar om de zon. Het bijbehorende punt
+            ligt buiten figuur 3.
+5p    17    Bereken de lengte a van de halve as van de baan van komeet 55P. Voor
+            het bepalen van de evenredigheidsconstante kun je de figuur op de
+            uitwerkbijlage gebruiken. Geef je eindantwoord in miljarden kilometer in
+            twee decimalen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1025-a-26-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

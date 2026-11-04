@@ -1,0 +1,538 @@
+                                                                 Examen VWO
+
+                                                                     2025
+                                                                            tijdvak 2
+                                                                   woensdag 18 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+ Dit examen bestaat uit 22 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-25-2-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+            naam van de regel                functie                       afgeleide
+
+            somregel                          s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+            verschilregel                    v( x )  f ( x )  g ( x )    v' ( x)  f ' ( x)  g' ( x)
+
+            productregel                      p( x)  f ( x)  g ( x)       p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                          f ( x)                        f ' ( x)  g ( x)  f ( x )  g' ( x )
+            quotiëntregel                    q( x)                        q' ( x ) 
+                                                          g ( x)                                     ( g ( x )) 2
+                                                                           k' ( x)  f ' ( g ( x))  g' ( x) of
+            kettingregel                     k ( x)  f ( g ( x))          dk df dg
+                                                                                     
+                                                                           dx dg dx
+
+
+            Logaritmen
+            regel                                                    voorwaarde
+             g
+                 log  a   g log  b   g log  ab               g > 0, g  1, a > 0, b > 0
+
+                                                 a
+             g
+                 log  a   g log  b   g log                   g > 0, g  1, a > 0, b > 0
+                                                 b
+             g
+                      
+                 log a p  p  g log  a                            g > 0, g  1, a > 0
+                             p
+                                 log  a 
+             g
+                 log  a   p                                       g > 0, g  1, a > 0, p > 0, p  1
+                                 log  g 
+
+
+
+
+VW-1024-a-25-2-o                                            2 / 16                                             lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-25-2-o                        3 / 16   lees verder ►►►
+       CO2 in de atmosfeer
+
+            In deze opgave kijken we naar het verloop van de concentratie CO2 in de
+            atmosfeer. Onderzoekers hebben geconstateerd dat de natuurlijke
+            concentratie CO 2 eeuwenlang stabiel is gebleven rond de 280 ppm (parts
+            per million). De toename van de concentratie CO2 sinds de industriële
+            revolutie wordt met name veroorzaakt door massaproductie van goederen
+            en voedsel.
+            In de figuur zie je het verloop van de concentratie CO2 in de periode
+            1800–2009.
+
+            figuur
+
+
+
+
+            De toename verloopt exponentieel. Het verloop van de concentratie CO2
+            kan worden benaderd met het model:
+
+                     C  280  g t
+            Hierbij is C de concentratie CO2 in ppm en t de tijd in jaren met t  0 op
+            1 januari 1800. De waarde 280 staat in dit model voor de constante
+            natuurlijke concentratie CO 2.
+
+            Op 1 januari 2002 was de concentratie CO 2 370 ppm. Met dit gegeven en
+            met behulp van bovenstaande gegevens is te berekenen dat de waarde
+            van g, afgerond op vier decimalen, gelijk is aan 1,0225.
+3p    1     Bereken de waarde van g in vijf decimalen.
+
+
+
+
+VW-1024-a-25-2-o                             4 / 16                            lees verder ►►►
+3p    2     Bereken in welk jaar de concentratie CO2 verdubbeld zal zijn ten opzichte
+            van de natuurlijke concentratie.
+
+            Zoals je in de figuur kunt zien is de grafiek toenemend stijgend. De
+                                      t
+            formule C  280  1,0225 benadert deze stijging.
+
+            Vanaf 1800 duurde het 150 jaar totdat de concentratie CO2 met
+            (ongeveer) 10% was toegenomen. Vanaf 1950 duurde het veel korter
+            totdat de volgende 10% stijging van de concentratie CO 2 werd gemeten.
+4p    3     Bereken hoeveel gehele jaren hiervoor nodig waren.
+
+
+
+
+VW-1024-a-25-2-o                            5 / 16                            lees verder ►►►
+      Domino-effect
+
+            Een rij dominostenen wordt achter elkaar
+            gezet. Vervolgens wordt de eerste
+            dominosteen omgeduwd, waarna de rest van
+            de rij (als het goed is) ook omvalt. Dit wordt het
+            domino-effect genoemd, waarbij kleine
+            dominostenen ook grotere kunnen omduwen.
+            Deze opgave gaat over dit domino-effect,
+            waarbij we dominostenen bekijken die telkens
+            1,5 keer zo hoog zijn als de voorgaande steen.
+            Een Amerikaan beweert dat wanneer de 13e dominosteen 1 meter hoog
+            is, de 29e dominosteen hoger is dan het Empire State Building.
+            Het Empire State Building is een wolkenkrabber in New York, met een
+            hoogte van 381 meter.
+2p    4     Ga met een berekening na of deze Amerikaan gelijk heeft.
+
+            In figuur 1 zie je een zijaanzicht van drie figuur 1
+            dominostenen. We nemen in het vervolg
+            van deze opgave het volgende aan:
+             De hoogte van de eerste dominosteen
+                 is 48 mm.
+             De dikte van de eerste dominosteen
+                 is 7,5 mm.
+             Iedere volgende dominosteen is
+                 1,5 keer zo hoog en 1,5 keer zo dik
+                 als de voorgaande.
+             Iedere dominosteen valt tegen het
+                 midden van de volgende dominosteen.
+             Als de dominostenen op een rij worden gezet, dan krijgt de kleinste
+                 steen nummer 1, de volgende steen nummer 2, enzovoorts.
+
+            Doordat de eerste dominosteen tegen het midden              figuur 2
+            van de tweede steen moet vallen, ligt de afstand L1
+            vast. Zie figuur 2.
+            Voor de dominostenen 1 en 2 is deze afstand te
+            berekenen met de formule L1       h12  (0,5  h 2 ) 2 .
+            Hierbij is L1 de afstand tussen dominostenen 1 en 2,
+             h1 de hoogte van dominosteen 1 en h 2 de hoogte
+            van dominosteen 2, alle in mm.
+
+2p    5     Bereken de afstand tussen dominosteen 1 en 2 in gehele mm.
+
+
+
+
+VW-1024-a-25-2-o                             6 / 16                                lees verder ►►►
+            Voor de hoogte van dominosteen 2 geldt h 2  1,5  h1 .
+
+            Door dit in te vullen in de formule L1       h12  (0,5  h 2 ) 2 is de afstand L1
+            ook te schrijven als L1  a  h1 .
+            De waarde van a is afgerond op twee decimalen 0,66.
+3p    6     Herleid de formule L1        h12  (0,5  h 2 ) 2 tot L1  a  h1 en geef de waarde
+            van a in drie decimalen.
+
+                                                                   figuur 3
+
+            In figuur 3 zie je de algemene situatie.
+            Er geldt (voor n  2 ):
+                  hn  48 1,5n1 , met hn de hoogte in mm
+                  dn  7,5 1,5n1 , met d n de dikte in mm
+                   Ln  0, 66  hn , met Ln de afstand in mm
+                   tussen dominosteen n en de dominosteen
+                   links daarvan
+                  An  Ln1  d n
+
+            Uit bovenstaande gegevens volgt (voor n  2 ):
+
+                      An  19,08 1,5n
+3p    7     Toon dit aan.
+
+
+            In het televisieprogramma MythBusters      foto
+            werd een experiment bedacht waarbij na
+            het omduwen van de eerste dominosteen
+            uiteindelijk dominosteen nummer 12 op
+            een auto valt. Om het experiment uit te
+            voeren werd een 15 meter lange
+            parkeerplaats gebruikt.
+4p    8     Onderzoek of deze parkeerplaats lang
+            genoeg is om het experiment uit te voeren.
+
+
+
+
+VW-1024-a-25-2-o                                 7 / 16                                lees verder ►►►
+      Scheepsgolven
+
+            Golven op het water kunnen op verschillende manieren ontstaan,
+            bijvoorbeeld door wind of door schepen. In deze opgave bekijken we
+            golven die ontstaan door een varend schip. De golflengte is de afstand
+            tussen twee opeenvolgende golftoppen. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Golven verplaatsen zich over het water. De snelheid waarmee een golf
+            zich over het water verplaatst, is afhankelijk van de golflengte. Het
+            verband tussen de golflengte en de snelheid waarmee een golf zich
+            verplaatst, wordt gegeven door de volgende formule:
+                   V  1, 25  L            (formule 1)
+            Hierbij is L de golflengte in meters en V de snelheid waarmee de golf zich
+            verplaatst in meter per seconde.
+            Als L toeneemt, dan neemt ook V toe. De grafiek van V is dus stijgend.
+
+4p    9     Stel een formule op voor de afgeleide van V en beredeneer met behulp
+            hiervan of de stijging afnemend of toenemend is.
+
+            Als de golflengte twee keer zo groot wordt, dan neemt de snelheid van de
+            golf met een vaste factor toe.
+
+2p   10     Bereken, zonder een getallenvoorbeeld te gebruiken, deze factor. Geef je
+            antwoord in twee decimalen.
+
+            Een schip en de golf die door dat varende schip ontstaat, verplaatsen zich
+            met gelijke snelheid (samen) door het water. Als een schip langzaam
+            vaart, dan ontstaat er langs het schip een golf zoals in figuur 2. Er zijn
+            dan meerdere toppen van de golf zichtbaar langs de zijkant van het schip.
+            In figuur 2 is tevens een assenstelsel toegevoegd.
+
+
+
+
+VW-1024-a-25-2-o                            8 / 16                           lees verder ►►►
+            figuur 2
+
+
+
+
+            De voorkant van het schip valt samen met een top van de golf. Omdat het
+            schip en de golf samen dezelfde kant op bewegen, blijft die top tijdens het
+            varen samenvallen met de voorkant van het schip.
+
+            Een schip van 30 meter lang vaart met een snelheid van 3 meter per
+            seconde. De golf die door het varen ontstaat heeft een amplitude van
+            15 centimeter. De golf is te beschrijven met de formule:
+                   h  15  sin(a( x  b))   (formule 2)
+            Hierbij is h de hoogte ten opzichte van de evenwichtsstand in centimeters
+            en x de afstand vanaf de voorkant van het schip in meters, met 0  x  30 .
+            De waarden van a en b in formule 2 zijn te berekenen door gebruik te
+            maken van formule 1.
+5p   11     Bereken a en b in formule 2. Geef a en b in twee decimalen.
+
+            Om de hoogte van de golven van een schip te verkleinen, is de
+            bulbsteven uitgevonden. De bulbsteven is een uitstekende bult aan de
+            voorkant van een schip. Zie de foto.
+
+            foto
+
+
+
+
+VW-1024-a-25-2-o                             9 / 16                           lees verder ►►►
+            Normaal gesproken bevindt de bulbsteven zich (grotendeels) onder water.
+            Omdat het schip op de foto geen lading vervoert, is de bulbsteven boven
+            water zichtbaar.
+
+            Zowel het schip als de bulbsteven veroorzaken een golf. De golf van de
+            bulbsteven dempt de golf van het schip gedeeltelijk. Een schip met een
+            lengte van 100 meter veroorzaakt bij een bepaalde vaarsnelheid een golf
+            met de formule:
+                   hschip ( x)  50  sin(15π ( x  7,5))
+
+            en de bulbsteven van het schip veroorzaakt een golf met de formule:
+                   hbulb ( x)  30  sin(15
+                                          π ( x  6))
+
+
+            Hierbij zijn hschip en hbulb de hoogtes ten opzichte van de evenwichtsstand
+            in centimeters en is x de afstand vanaf de voorkant van het schip in
+            meters met 0  x  100 .
+
+            De formule die hoort bij de gecombineerde golf van het schip en de
+            bulbsteven wordt verkregen door hschip en hbulb op te tellen. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            De amplitude van de gecombineerde golf is kleiner dan de amplitude van
+            de golf van het schip zonder de bulbsteven.
+4p   12     Bereken hoeveel de amplitude van de gecombineerde golf kleiner is dan
+            de amplitude van de golf van het schip zonder de bulbsteven. Geef je
+            antwoord in gehele centimeters.
+
+
+
+
+VW-1024-a-25-2-o                                    10 / 16                    lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-25-2-o                       11 / 16   lees verder ►►►
+       Batterijspanning
+
+            In het dagelijks leven worden er veel batterijen gebruikt om apparaten te
+            laten werken. Een batterij werkt door het verschil in spanning tussen de
+            pluspool en de minpool. Dit spanningsverschil noemen we de totale
+            spanning van de batterij. Deze totale spanning wordt lager als je de
+            batterij enige tijd hebt gebruikt. Hierdoor gaat bijvoorbeeld een fietslamp
+            met een batterij op een gegeven moment minder fel branden.
+
+            Een van de eerste batterijen werd in 1836 uitgevonden
+            door de Britse scheikundige Daniell. Bij deze batterij werd
+            bij de pluspool koper en bij de minpool zink gebruikt.
+            Deze opgave gaat over zo’n batterij.
+
+            De spanningen van de polen van deze batterij zijn te
+            berekenen met de volgende formules:
+
+                    V plus  0,34  0,0296  log(k )
+
+                    V min   0, 76  0, 0296  log( z )
+
+            Hierin zijn V plus en Vmin de spanningen van de polen in volt en k en z de
+            concentraties van koper en zink in molair1).
+
+            De totale spanning van de batterij, Vbatterij , is het verschil tussen de
+            spanningen van beide polen:
+
+                    Vbatterij  Vplus  Vmin
+
+            Bij de batterij geldt in het begin dat k en z allebei 1 molair zijn. De totale
+            spanning is dan 1,1 volt. Door het gebruik van de batterij neemt k af en
+            neemt z toe. Als deze batterij enige tijd stroom heeft geleverd geldt
+            k  0,7 en z  1,3 .
+3p    13    Bereken met hoeveel procent de totale spanning van de batterij in dit
+            geval is gedaald. Geef je antwoord in twee decimalen.
+
+3p    14    Bereken, zonder gebruik te maken van een getallenvoorbeeld, met
+            hoeveel volt de spanning van de pluspool afneemt als k halveert. Geef je
+            antwoord in vier decimalen.
+
+
+
+
+     noot 1 molair is een maat voor het aantal deeltjes per liter
+
+
+
+VW-1024-a-25-2-o                                   12 / 16                         lees verder ►►►
+            Uit Vbatterij  V plus  Vmin en de gegeven formules voor V plus en Vmin kan de
+            volgende formule worden herleid:
+                                                   k
+                   Vbatterij  1,10  0,0296  log  
+                                                   z
+3p   15     Voer deze herleiding uit.
+
+            Het is mogelijk om voor Vbatterij een formule op te stellen waarin alleen z
+            voorkomt:
+                   Vbatterij  1,10  0, 0296  log(2 z  1  1) , met 1  z  2
+
+
+            Doordat z, de concentratie van het zink, toeneemt tijdens het gebruik van
+            de batterij, daalt de totale spanning van de batterij. Dit kan worden
+            aangetoond door te kijken naar de afgeleide functie van Vbatterij . Er geldt
+            (na afronding):
+                   d Vbatterij        0,0257
+                                 
+                       dz             2z  z2
+                                                    d Vbatterij
+4p   16     Toon aan dat deze formule voor                        juist is.
+                                                        dz
+
+                                                   d Vbatterij
+4p   17     Onderzoek met een schets van                          of de daling van de totale
+                                                       dz
+            spanning tijdens het gebruik van de batterij toenemend of afnemend is.
+
+
+
+
+VW-1024-a-25-2-o                                  13 / 16                                 lees verder ►►►
+      Raad het getal
+
+            Raad het getal is een spel voor twee personen waarbij iemand één
+            geheel getal bedenkt, dat de ander vervolgens gaat raden. Diegene die
+            het getal bedenkt, noemen we de bedenker en diegene die gaat raden de
+            speler.
+
+            Het spel werkt als volgt:
+            De bedenker kiest een getal van maximaal vier cijfers, waarbij het eerste
+            cijfer geen 0 mag zijn. Het getal kan dus bijvoorbeeld 7 zijn, of 60, of 544,
+            of 9328.
+
+            Vaak kiest de bedenker een viercijferig getal dat makkelijk te onthouden
+            is. Dat is een getal dat
+             bestaat uit vier dezelfde cijfers, of
+             bestaat uit vier opeenvolgende cijfers, die in oplopende of aflopende
+                volgorde staan (bijvoorbeeld 2345 of 4321).
+4p   18     Bereken hoeveel verschillende makkelijk te onthouden getallen er zijn.
+
+            Het getal dat de bedenker bedenkt, noemen we het bedachte getal. De
+            getallen die de speler noemt, noemen we genoemde getallen.
+            Omdat het lang kan duren voordat de speler het bedachte getal noemt,
+            geeft de bedenker feedback. Deze feedback bestaat uit een van de
+            volgende drie mogelijkheden:
+             ‘Goed geraden’ (bedachte getal = genoemde getal).
+             ‘Hoger’ (bedachte getal > genoemde getal).
+             ‘Lager’ (bedachte getal < genoemde getal).
+
+            Het noemen van een getal en het geven van feedback herhaalt zich totdat
+            de bedenker de feedback ‘Goed geraden’ geeft en het spel stopt. Het
+            aantal keer dat de speler een getal noemt en vervolgens feedback krijgt,
+            noemen we het aantal beurten.
+            We bekijken eerst een vereenvoudigde versie van het spel, waarbij de
+            speler aan het begin van het spel weet dat het bedachte getal minimaal 1
+            is en maximaal 9. De speler kan in elke beurt het aantal nog mogelijke
+            getallen in ieder geval halveren door de volgende strategie toe te passen:
+             Is het aantal nog mogelijke getallen oneven, noem dan het middelste
+                nog mogelijke getal.
+             Is het aantal mogelijke getallen even, noem dan een van de twee
+                middelste nog mogelijke getallen.
+            De bedenker kiest het getal 8. De speler volgt bovenstaande strategie.
+            Het aantal beurten waarin de speler het bedachte getal raadt, ligt dan nog
+            niet vast.
+4p   19     Onderzoek welke aantallen beurten mogelijk zijn waarin de speler het
+            bedachte getal 8 kan raden.
+
+
+
+VW-1024-a-25-2-o                            14 / 16                             lees verder ►►►
+            In het vervolg van deze opgave bekijken we een versie van het spel,
+            waarbij we de eis dat het bedachte getal uit maximaal vier cijfers moet
+            bestaan, loslaten. We kijken naar getallen tussen 0 en n, waarbij n een
+            geheel getal groter dan 1 is. Hierdoor kan het bedachte getal elk getal
+            vanaf 1 tot en met n  1 zijn.
+
+            Het aantal beurten dat nodig is om het bedachte getal te raden, hangt
+            mede af van de gevolgde strategie. Als de eerder beschreven strategie
+            toegepast wordt, dan geldt:
+                   n  1  2m1
+            Hierbij is m het maximaal aantal beurten dat nodig is om het bedachte
+            getal te noemen.
+
+            Twee personen spelen het spel met n  26 . Volgens de formule is de
+            kleinst mogelijke waarde van m dan gelijk aan 6.
+
+2p   20     Toon dit met behulp van de formule n  1  2m1 aan.
+
+            De waarde 6 die de formule geeft voor n  26 gaat uit van het ‘slechtste’
+            geval: dat steeds precies de helft van het aantal mogelijke getallen
+            overblijft. Het blijkt echter dat voor n  26 de speler het bedachte getal
+            altijd in maximaal 5 beurten kan noemen.
+
+4p   21     Bepaal het maximaal aantal overblijvende getallen per beurt en laat
+            daarmee zien dat de speler in maximaal 5 beurten het bedachte getal kan
+            noemen voor n  26 .
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-25-2-o                            15 / 16                           lees verder ►►►
+      Recordpoging triatlon
+
+            Een triatlon is een sport waarbij zwemmen, fietsen en hardlopen
+            gecombineerd worden. In het najaar van 2022 kreeg de triatleet Adrian
+            Kostera bekendheid met zijn voornemen om met het uitvoeren van een
+            extreem lange triatlon in het boek Guiness World Records (GWR) te
+            komen.
+
+            Adrian Kostera wilde voor zijn recordpoging een triatlon afleggen met een
+            totale afstand van 40 170 km (zwemmen, fietsen en hardlopen samen). Dit
+            is ongeveer gelijk aan de omtrek van de aarde.
+
+            Het GWR heeft bepaald hoe Kostera de 40 170 km moest verdelen over
+            de drie verschillende onderdelen: hij moest 3% van de totale afstand
+            zwemmen, 77,5% fietsen en 19,5% hardlopen.
+
+            Kostera legde vanaf 1 juni 2023 tot en met 31 mei 2024 (366 dagen) elke
+            dag een stukje van deze triatlon af, waarbij het zijn streven was om elke
+            dag evenveel tijd aan deze extreem lange triatlon te besteden. Van het
+            GWR moest hij eerst de gehele zwemafstand afleggen, daarna de gehele
+            fietsafstand en als laatste de gehele loopafstand.
+
+            Kostera ging dus:
+             a dagen x km per dag zwemmen
+             b dagen y km per dag fietsen
+             c dagen z km per dag hardlopen
+
+            Om te weten hoe lang hij over elk onderdeel zou doen, heeft hij vooraf
+            een schatting gemaakt van zijn gemiddelde tempo per onderdeel. Zie de
+            tabel.
+
+            tabel
+            onderdeel               geschat gemiddeld tempo
+            zwemmen                2 min en 40 seconden per 100 meter
+            fietsen                25 km/uur
+            hardlopen              8 min en 45 seconden per km
+
+            Op basis hiervan kon vooraf berekend worden hoeveel dagen Kostera
+            tijdens deze recordpoging bezig zou zijn met zwemmen, hoeveel dagen
+            met fietsen en hoeveel dagen met hardlopen.
+
+7p   22     Onderzoek hoeveel gehele dagen Kostera per onderdeel (zwemmen,
+            fietsen en hardlopen) naar verwachting nodig had.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-25-2-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

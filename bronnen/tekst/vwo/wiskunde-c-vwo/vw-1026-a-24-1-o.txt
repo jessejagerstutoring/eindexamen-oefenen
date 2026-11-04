@@ -1,0 +1,474 @@
+                                                                 Examen VWO
+
+                                                                     2024
+                                                                            tijdvak 1
+                                                                  donderdag 23 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-24-1-o
+      Van A tot Z
+
+            Op de Oude Groenmarkt in Haarlem staat het beeld Van A tot Z van de
+            Nederlandse beeldhouwer en landschapskunstenaar Marinus Boezem, uit
+            2007. Het is een monument voor de Haarlemse tekstdichter Lennaert
+            Nijgh (1945–2002). Het kunstwerk bestaat uit twee massief marmeren
+            letters A en Z. Zie de foto.
+
+            foto
+
+
+
+
+            De marmeren letters A en Z symboliseren volgens Boezem de letters die
+            schrijvers en dichters gebruiken om hun creaties te maken. In de A was
+            oorspronkelijk een klein fonteintje aangebracht en de liggende Z dient als
+            zitbank. Hiermee krijgt het werk behalve een esthetisch karakter ook een
+            praktisch nut.
+
+
+
+
+VW-1026-a-24-1-o                            2 / 13                           lees verder ►►►
+            In de figuur staat een bovenaanzicht van de letter Z met daarin ook
+            enkele afmetingen (in cm). De zithoogte is 40 cm.
+
+            figuur
+
+
+
+
+4p    1     Bereken hoeveel dm 3 marmer er is gebruikt voor de letter Z.
+
+            Op de uitwerkbijlage is een begin gemaakt van een zijaanzicht van het
+            kunstwerk, gezien vanaf links. De letter Z is al in het zijaanzicht op de
+            uitwerkbijlage getekend. De letters A en Z zijn even dik en ze staan
+            loodrecht ten opzichte van elkaar (zie de foto).
+            De letter A is 120 cm hoog en de afstand tussen de A en de Z is 140 cm.
+3p    2     Teken in het zijaanzicht op de uitwerkbijlage de letter A erbij.
+
+            De foto staat ook op de uitwerkbijlage.
+            Zoals eerder vermeld is de zithoogte van de letter Z 40 cm.
+4p    3     Bereken op welke hoogte deze foto genomen is. Geef je antwoord in
+            gehele centimeters.
+
+
+
+
+VW-1026-a-24-1-o                            3 / 13                           lees verder ►►►
+      Veldleeuweriken
+
+            De laatste tientallen jaren is het in Nederland voor veel weidevogels
+            lastiger geworden om geschikte broedplaatsen te vinden. Dit komt doordat
+            landbouwgrond steeds intensiever en gevarieerder wordt gebruikt, en
+            doordat steden voortdurend verder uitbreiden.
+
+            Grasland is het voornaamste broedgebied voor weidevogels. Uit een
+            onderzoek van Sovon Vogelonderzoek Nederland blijkt dat in de jaren
+            vanaf 1990 tot en met 2014 ruim 150 000 hectare grasland verloren is
+            gegaan. Dat is een daling van 14 procent.
+
+2p    4     Bereken hoeveel hectare grasland er nog was in Nederland in 2014. Geef
+            je antwoord in duizenden hectares.
+
+            Een van de weidevogelsoorten die het meest in aantal is afgenomen, is
+            de veldleeuwerik. In de jaren vanaf 1990 tot en met 2000 bleef de
+            procentuele afname per jaar ten opzichte van het jaar ervoor nagenoeg
+            gelijk. Dit gold ook voor de jaren vanaf 2001 tot en met 2005. In figuur 1
+            zijn deze jaarlijkse procentuele afnames voor deze twee periodes
+            weergegeven voor drie verschillende soorten gebieden: duingebieden,
+            heidegebieden en agrarische gebieden.
+
+            figuur 1 - jaarlijkse afname aantal veldleeuweriken in %
+
+
+
+                                                 duingebieden
+
+                                                 heidegebieden
+
+                                                 agrarische gebieden
+
+
+            In de figuur is bijvoorbeeld te zien dat in de jaren vanaf 2001 tot en met
+            2005 het aantal veldleeuweriken in duingebieden jaarlijks met 7,8% afnam.
+4p    5     Bereken met behulp van figuur 1 hoeveel procent minder veldleeuweriken
+            er in duingebieden waren in 2005 ten opzichte van het aantal in 1989.
+            Geef je antwoord in gehele procenten.
+
+
+
+
+VW-1026-a-24-1-o                             4 / 13                            lees verder ►►►
+            In figuur 2 zie je voor heel Nederland hoe het percentage veldleeuweriken
+            zich in de jaren vanaf 1990 tot en met 2014 ontwikkelde ten opzichte van
+            het totale aantal veldleeuweriken in 1990.
+
+            figuur 2
+
+
+
+
+            We voeren de variabelen P en t in. Hierin is P het percentage
+            veldleeuweriken ten opzichte van het totale aantal veldleeuweriken in
+            1990 in Nederland en is t de tijd in jaren met t  0 in het jaar 1990.
+
+            Ondanks de schommelingen kan het verband tussen P en t in de jaren
+            vanaf 1990 tot en met 2005 goed benaderd worden met een rij die hoort
+            bij een exponentieel verband.
+
+            Uit figuur 2 valt af te lezen dat het totale aantal veldleeuweriken in
+            Nederland in 2005 nog maar 40% was van het totale aantal
+            veldleeuweriken in 1990.
+4p    6     Stel met behulp van dit gegeven een recursieve formule op voor de rij.
+            Geef de getallen in je antwoord zo nodig in drie decimalen.
+
+
+
+
+VW-1026-a-24-1-o                            5 / 13                            lees verder ►►►
+            Sovon deed niet alleen onderzoek naar het aantal veldleeuweriken in
+            Nederland, maar ving ook regelmatig jonge veldleeuweriken om ze te
+            meten en te wegen. In figuur 3 is van 265 gevangen jonge
+            veldleeuweriken het gewicht uitgezet tegen de zogeheten tarsuslengte1),
+            dat is de lengte van het onderbeen.
+
+            figuur 3
+
+
+
+
+            In figuur 3 is ook een kromme weergegeven die het verband tussen het
+            gewicht en de tarsuslengte benadert. Deze kromme kan worden
+            beschreven met de formule:
+                                  22
+                   G                           9
+                        1  1420  2,720,307T
+            Hierin is G het gewicht in grammen en T de tarsuslengte in millimeters.
+
+            Het gewicht van een jonge veldleeuwerik heeft een grenswaarde.
+4p     7    Beredeneer aan de hand van de formule voor G, dus zonder gebruik te
+            maken van getallenvoorbeelden, hoe groot deze grenswaarde is.
+
+            Het gewicht van jonge veldleeuweriken neemt in het begin steeds sneller
+            toe naarmate de tarsuslengte toeneemt. Op een bepaald moment is deze
+            toenamesnelheid maximaal.
+            Op de uitwerkbijlage is de grafiek van G uit figuur 3 vergroot
+            weergegeven.
+4p     8    Bepaal met behulp van de figuur op de uitwerkbijlage de maximale
+            toenamesnelheid van het gewicht. Licht je antwoord toe en geef je
+            antwoord in gehele grammen per mm.
+
+     noot 1 Men meet de tarsuslengte als een maat voor de leeftijd van de jonge veldleeuwerik
+            omdat de leeftijd zelf moeilijk te bepalen valt.
+
+
+
+
+VW-1026-a-24-1-o                                     6 / 13                            lees verder ►►►
+      Rechtspraak
+
+            We kijken naar de volgende redenering:          figuur
+                  Rechters zijn eerlijk.
+                  Maarten is rechter.
+                  Dus Maarten is eerlijk.
+            Om na te gaan of deze redenering correct is,
+            kan een venndiagram zoals in de figuur
+            gebruikt worden.
+            Nu bekijken we de volgende redenering:
+             Rechters zijn eerlijk.
+             Docenten zijn eerlijk.
+             Dus alle docenten zijn rechter.
+
+3p    9     Leg uit met behulp van een venndiagram of deze redenering correct is.
+
+            We voeren de volgende logische symbolen in:
+             R: je bent rechter
+             E: je bent eerlijk
+            Nu bekijken we de volgende uitspraak: ‘Als je rechter bent, dan ben je
+            eerlijk.’
+            We kunnen deze uitspraak met behulp van logische symbolen als volgt
+            weergeven: R  E
+            Volgens de logica kan hieruit nu de volgende uitspraak volgen:
+            ‘Als je niet eerlijk bent, dan …’
+
+2p   10     Maak de zin hierboven volgens de logica af en schrijf de uitspraak in
+            logische symbolen.
+
+            Gegeven zijn de volgende twee beweringen:
+            I     ER
+            II    E  R
+2p   11     Beschrijf deze beide beweringen in gewoon Nederlands en geef bij elke
+            bewering aan of deze volgt uit de bewering R  E .
+
+            In een rechtszaak zijn drie zussen de verdachten: Alicia, Bahija en Cecile.
+            Uit DNA-onderzoek is gebleken dat slechts een van de drie zussen op de
+            plaats van de misdaad is geweest. Het enige wat ze zeggen is het
+            volgende:
+             Alicia: Ik was daar niet aanwezig.
+             Bahija: Ik was daar niet aanwezig.
+             Cecile: Slechts een van ons drieën spreekt de waarheid.
+            Hieruit is te concluderen wie op de plaats van de misdaad is geweest.
+4p   12     Leg uit wie er op de plaats van de misdaad is geweest.
+
+
+
+VW-1026-a-24-1-o                             7 / 13                           lees verder ►►►
+      Vetpercentage
+
+            Om te bepalen of je een gezond gewicht hebt, kun je je vetpercentage
+            berekenen. Het vetpercentage is de hoeveelheid lichaamsvet als
+            percentage van het lichaamsgewicht.
+
+            De hoeveelheid lichaamsvet kan gemeten worden met speciale
+            apparatuur. Deze kostbare apparatuur is echter niet altijd voorhanden. De
+            onderzoekster Dympna Gallagher stelde daarom een formule op om de
+            vetvrije massa te benaderen. De vetvrije massa (VVM) is het
+            lichaamsgewicht zonder het lichaamsvet.
+            Voor mannen wordt de formule van Gallagher gegeven door:
+                   VVM  0, 446  G  0,00087  j  G  9, 438  L2     (formule 1)
+            Hierbij is G het lichaamsgewicht in kg, j de leeftijd in jaren en L de lengte
+            in meters.
+
+            Volgens Gallagher neemt bij gelijkblijvend gewicht en gelijkblijvende
+            lengte het vetpercentage van een man toe naarmate hij ouder wordt.
+
+3p   13     Beredeneer dit, zonder gebruik te maken van een getallenvoorbeeld, met
+            behulp van bovenstaande gegevens.
+
+            Voor het vetpercentage V geldt:
+                         G  VVM
+                    V           100                                 (formule 2)
+                            G
+            Met behulp van formule 2 en formule 1 kan voor 33-jarige mannen een
+            formule worden opgesteld waarin het vetpercentage V wordt uitgedrukt in
+            de lengte L in meters en het lichaamsgewicht G in kg:
+                                           L2
+                   V  58, 271  943,8                               (formule 3)
+                                           G
+
+3p   14     Toon dit aan.
+
+
+
+
+VW-1026-a-24-1-o                                 8 / 13                          lees verder ►►►
+            Cristiano Ronaldo wordt gezien als een van de meest fitte voetballers ter
+            wereld ooit. Op 33-jarige leeftijd had de voetballer een gemeten
+            vetpercentage van 7 met een hoeveelheid lichaamsvet van 5,88 kg bij een
+            lengte van 1,87 m.
+
+            De formule van Gallagher, en dus ook formule 3, geeft voor topsporters
+            een veel hoger berekend vetpercentage dan de werkelijke gemeten
+            waarde.
+
+3p   15     Bereken met behulp van formule 3 het verschil tussen beide
+            vetpercentages voor Ronaldo. Geef je antwoord als een geheel getal.
+
+            Zowel een te hoog als een te laag vetpercentage is niet gezond. Voor
+            gezonde 33-jarige mannen geldt dat zij een vetpercentage hebben tussen
+            de 8 en de 20. Het gezonde lichaamsgewicht bij een bepaalde lengte
+            heeft dus een boven- en een ondergrens.
+
+            Voor de bovengrens en ondergrens van het gezonde lichaamsgewicht van
+            mannen kunnen formules worden opgesteld waarbij het lichaamsgewicht
+            G in kg uitgedrukt wordt in de lengte L in meters.
+
+            Op de uitwerkbijlage staat een assenstelsel met daarin op de horizontale
+            as de lengte (in meters) van 33-jarige mannen en verticaal hun
+            lichaamsgewicht (in kg). Hierin is met behulp van formule 3 de grafiek van
+            de bovengrens van het gezonde lichaamsgewicht al getekend. Deze
+            grafiek is geen rechte lijn.
+
+4p   16     Teken in de figuur op de uitwerkbijlage de grafiek van de ondergrens van
+            het gezonde lichaamsgewicht en arceer vervolgens het gebied van de
+            gezonde lichaamsgewichten.
+
+
+
+
+VW-1026-a-24-1-o                            9 / 13                           lees verder ►►►
+      Rubiks kubussen
+
+            Rubiks kubussen zijn er in verschillende maten. De bekendste is de kubus
+            waar negen vierkantjes zichtbaar zijn op elk zijvlak (de middelste kubus in
+            foto 1). Dit is de klassieke Rubiks kubus, die in de jaren zeventig van de
+            vorige eeuw door de Hongaar Ernő Rubik is ontwikkeld.
+
+            foto 1
+
+
+
+
+                        n=2                n=3                       n=4
+
+            In deze opgave wordt het getal n gebruikt voor het kubusnummer. Bij
+            kubusnummer n bestaat een zijvlak van de Rubiks kubus uit n bij n
+            vierkantjes, dus n2 in totaal.
+
+            foto 2
+
+
+
+
+            Het oplossen van de Rubiks kubus is het terugbrengen van een door
+            elkaar gedraaide kubus (zie foto 2) naar de opgeloste toestand. In de
+            opgeloste toestand hebben alle vierkantjes op een zijvlak dezelfde kleur.
+            In totaal heeft de Rubiks kubus zes verschillende kleuren.
+
+
+
+
+VW-1026-a-24-1-o                           10 / 13                            lees verder ►►►
+            Er worden regelmatig wedstrijden gehouden waarbij Rubiks kubussen zo
+            snel mogelijk moeten worden opgelost. In de tabel staan de
+            wereldrecords1) voor het oplossen van Rubiks kubussen. Hierbij is n het
+            kubusnummer en Tn de wereldrecordtijd in seconden behorende bij
+            kubusnummer n.
+
+            tabel
+
+                   n       Tn
+                   2      0,49
+                   3      3,47
+                   4     18,42
+                   5     37,28
+                   6     73,82
+                   7     107,89
+
+            In de tabel is te zien dat hoe groter de n is, hoe langer de tijd is die nodig
+            is om de Rubiks kubus op te lossen.
+
+2p    17    Toon aan dat er in de tabel geen sprake is van een lineair of exponentieel
+            verband tussen n en Tn .
+
+            De gegevens in de tabel worden redelijk benaderd door de formule
+            Tn  0, 026  n 4,4 . We nemen aan dat deze formule geldt voor alle waarden
+            van n groter dan of gelijk aan 2.
+
+3p    18    Bereken met behulp van de formule vanaf welk kubusnummer het
+            wereldrecord boven het uur zal liggen.
+
+            De grootste kubus die er is, is een kubus met kubusnummer 33.
+
+3p    19    Bereken wat volgens de formule het wereldrecord is voor een kubus met
+            kubusnummer 33. Geef je antwoord in hele dagen, uren en minuten.
+
+            Als n verdubbelt, dan wordt Tn met een factor vermenigvuldigd.
+
+3p    20    Bepaal die factor. Geef je antwoord in één decimaal.
+
+
+
+
+     noot 1 De gegeven wereldrecords zijn van maart 2019.
+
+
+
+VW-1026-a-24-1-o                               11 / 13                           lees verder ►►►
+       Meerlingen
+
+            Een vrouw bevalt na een zwangerschap meestal van één kind. Een
+            meerling, dat zijn twee of meer kinderen die uit één zwangerschap
+            geboren worden, komt van nature weinig voor.
+
+            Een drieling is een meerling van drie kinderen. Een drieling kan op drie
+            manieren ontstaan:
+             uit één eitje: in dat geval zijn de drie kinderen van een drieling
+               genetisch identiek en dus van hetzelfde geslacht. We spreken dan van
+               een eeneiige drieling.
+             uit twee eitjes: in dat geval zijn twee kinderen genetisch identiek en
+               dus van hetzelfde geslacht, maar het derde kind is genetisch
+               verschillend (en kan van hetzelfde of verschillend geslacht zijn). We
+               spreken dan van een twee-eiige drieling.
+             uit drie eitjes: in dat geval zijn alle drie de kinderen onderling
+               genetisch verschillend. We spreken dan van een drie-eiige drieling.
+
+            We gaan er in deze opgave verder van uit dat een kind bij de geboorte
+            altijd een jongen of een meisje is.
+
+4p    21    Onderzoek hoeveel verschillende samenstellingen er voor een drieling
+            bestaan als je let op geslacht en op de drie manieren waarop een drieling
+            kan ontstaan. Licht je antwoord toe.
+
+            Bij de opkomst van de zogeheten IVF-techniek1) eind jaren tachtig van de
+            vorige eeuw werden vaak meerdere bevruchte eicellen teruggeplaatst om
+            de slagingskans van IVF te vergroten. Hierdoor nam in verhouding het
+            aantal drie(-plus)lingen (een meerling van drie of meer kinderen) ook toe.
+
+            In 1980 waren er in Nederland 180 517 geboorten, waarvan slechts 25
+            van een drie(-plus)ling. In 1991 waren er in Nederland van de 196 698
+            geboorten 124 drie(-plus)linggeboorten.
+3p    22    Bereken met hoeveel procent het percentage drie(-plus)lingen in 1991 is
+            toegenomen ten opzichte van het percentage drie(-plus)lingen in 1980.
+            Geef je antwoord in gehele procenten.
+
+
+
+
+     noot 1 Bij de IVF-techniek worden eicellen in het laboratorium bevrucht en vervolgens in de
+            baarmoeder teruggeplaatst.
+
+
+
+VW-1026-a-24-1-o                                 12 / 13                                 lees verder ►►►
+            De Duitse onderzoeker Hellin voorspelde al in 1895 het volgende voor
+            meerlingen bij natuurlijke zwangerschappen:
+             gemiddeld 1 op de 89 geboorten is de geboorte van een tweeling;
+             gemiddeld 1 op de 892 geboorten is de geboorte van een drieling;
+             gemiddeld 1 op de 893 geboorten is de geboorte van een vierling;
+             gemiddeld 1 op de 894 geboorten is de geboorte van een vijfling;
+            Dit werd later door andere wetenschappers de wet van Hellin genoemd.
+
+            In 2002 waren in Nederland 199 205 geboorten, waarvan 3707
+            tweelinggeboorten. Dat waren de meeste tweelinggeboorten ooit in
+            Nederland in een jaar. Van deze tweelingen was (afgerond) 22 procent
+            door middel van IVF (of een verwante techniek) verwekt. In 2002 waren er
+            in totaal 3270 geboorten na IVF (of een verwante techniek). Uit deze
+            gegevens volgt dat er in 2002 in Nederland meer tweelingen na een
+            natuurlijke zwangerschap zijn geboren dan de wet van Hellin voorspelt.
+3p   23     Bereken hoeveel meer.
+
+            Zoals eerder vermeld waren er in het jaar 1991 van de 196 698 geboorten
+            124 drie(-plus)linggeboorten. Neem aan dat de drie(-plus)lingen in 1991
+            hooguit uit vijf kinderen bestonden.
+            Het percentage drie(-plus)linggeboorten ten opzichte van het totale aantal
+            geboorten was in dat jaar vele malen groter dan volgens de wet van
+            Hellin, waarbij we uitgaan van 196 698 natuurlijke zwangerschappen.
+3p   24     Bereken op basis van bovenstaande informatie hoeveel keer zo groot.
+            Geef je antwoord als een geheel getal.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1026-a-24-1-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

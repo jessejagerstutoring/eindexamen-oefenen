@@ -1,0 +1,991 @@
+{
+ "niveaus": {
+  "havo": "Havo",
+  "vwo": "Vwo"
+ },
+ "vakken": {
+  "wiskunde-a-havo": {
+   "niveau": "havo",
+   "naam": "Wiskunde A",
+   "vragen": 345,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "ha-1024-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "ha-1024-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "ha-1024-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "ha-1024-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "ha-1024-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "ha-1024-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "ha-1024-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "ha-1024-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "ha-1024-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "ha-1024-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "ha-1024-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "ha-1024-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "ha-1024-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "ha-1024-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "ha-1024-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "ha-1024-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Algebra en rekenen",
+     "onderwerpen": [
+      {
+       "id": "rekenen",
+       "naam": "Rekenen: procenten, verhoudingen en eenheden",
+       "code": "B1",
+       "omschrijving": "Procentuele verandering, indexcijfers, omrekenen en afronden.",
+       "vragen": 42,
+       "punten": 182
+      },
+      {
+       "id": "algebra",
+       "naam": "Formules herleiden",
+       "code": "B2",
+       "omschrijving": "Een formule omwerken tot een gevraagde vorm.",
+       "vragen": 21,
+       "punten": 70
+      }
+     ]
+    },
+    {
+     "naam": "Verbanden",
+     "onderwerpen": [
+      {
+       "id": "tabellen",
+       "naam": "Tabellen",
+       "code": "C1",
+       "omschrijving": "Gegevens uit een tabel halen, aanvullen en interpoleren.",
+       "vragen": 4,
+       "punten": 12
+      },
+      {
+       "id": "grafieken",
+       "naam": "Grafieken, vergelijkingen en ongelijkheden",
+       "code": "C2",
+       "omschrijving": "Grafieken aflezen en tekenen, vergelijkingen en ongelijkheden oplossen.",
+       "vragen": 53,
+       "punten": 190
+      },
+      {
+       "id": "formules",
+       "naam": "Formules met meer variabelen",
+       "code": "C3",
+       "omschrijving": "Formules gebruiken, opstellen en beredeneren zonder getallenvoorbeelden.",
+       "vragen": 72,
+       "punten": 226
+      },
+      {
+       "id": "lineair",
+       "naam": "Lineaire verbanden",
+       "code": "C4",
+       "omschrijving": "Rechte lijnen: richtingscoëfficiënt, formule opstellen, extrapoleren.",
+       "vragen": 26,
+       "punten": 103
+      },
+      {
+       "id": "exponentieel",
+       "naam": "Exponentiële verbanden",
+       "code": "C5",
+       "omschrijving": "Groeifactor, groeipercentage, verdubbelings- en halveringstijd.",
+       "vragen": 42,
+       "punten": 170
+      }
+     ]
+    },
+    {
+     "naam": "Statistiek",
+     "onderwerpen": [
+      {
+       "id": "data-presentatie",
+       "naam": "Data presenteren en beoordelen",
+       "code": "E1",
+       "omschrijving": "Diagrammen lezen, kiezen en beoordelen.",
+       "vragen": 14,
+       "punten": 47
+      },
+      {
+       "id": "data-verwerken",
+       "naam": "Data verwerken",
+       "code": "E2",
+       "omschrijving": "Soorten variabelen, centrum- en spreidingsmaten, frequenties en kwartielen.",
+       "vragen": 17,
+       "punten": 49
+      },
+      {
+       "id": "verdelingen",
+       "naam": "Verdelingen en de normale verdeling",
+       "code": "E3",
+       "omschrijving": "Vorm van een verdeling, vuistregels van de normale verdeling.",
+       "vragen": 8,
+       "punten": 21
+      },
+      {
+       "id": "verschil",
+       "naam": "Verschil tussen twee groepen",
+       "code": "E4",
+       "omschrijving": "Effectgrootte, phi, max Vcp en boxplots met het formuleblad.",
+       "vragen": 23,
+       "punten": 87
+      },
+      {
+       "id": "steekproef",
+       "naam": "Steekproeven en betrouwbaarheidsintervallen",
+       "code": "E4",
+       "omschrijving": "Onderzoeksopzet, representativiteit en 95%-betrouwbaarheidsintervallen.",
+       "vragen": 23,
+       "punten": 70
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-b-havo": {
+   "niveau": "havo",
+   "naam": "Wiskunde B",
+   "vragen": 282,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "ha-1025-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "ha-1025-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "ha-1025-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "ha-1025-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "ha-1025-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "ha-1025-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "ha-1025-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "ha-1025-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "ha-1025-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "ha-1025-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "ha-1025-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "ha-1025-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "ha-1025-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "ha-1025-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "ha-1025-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "ha-1025-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Functies, grafieken en vergelijkingen",
+     "onderwerpen": [
+      {
+       "id": "standaardfuncties",
+       "naam": "Standaardfuncties en transformaties",
+       "code": "B1",
+       "omschrijving": "Machts-, wortel- en gebroken functies, translaties en vermenigvuldigingen.",
+       "vragen": 37,
+       "punten": 136
+      },
+      {
+       "id": "exp-log",
+       "naam": "Exponentiële en logaritmische functies",
+       "code": "B1",
+       "omschrijving": "Exacte vergelijkingen met machten en logaritmen, rekenregels.",
+       "vragen": 52,
+       "punten": 200
+      },
+      {
+       "id": "vergelijkingen",
+       "naam": "Vergelijkingen en ongelijkheden",
+       "code": "B2",
+       "omschrijving": "Exact en met de GR oplossen, snijpunten berekenen.",
+       "vragen": 25,
+       "punten": 96
+      },
+      {
+       "id": "evenredigheid",
+       "naam": "Evenredigheidsverbanden",
+       "code": "B3",
+       "omschrijving": "Recht en omgekeerd evenredig, machtsverbanden in een context.",
+       "vragen": 17,
+       "punten": 64
+      },
+      {
+       "id": "periodiek",
+       "naam": "Periodieke functies",
+       "code": "B4",
+       "omschrijving": "Sinusoïden: evenwichtsstand, amplitude, periode en exacte oplossingen.",
+       "vragen": 31,
+       "punten": 144
+      }
+     ]
+    },
+    {
+     "naam": "Meetkundige berekeningen",
+     "onderwerpen": [
+      {
+       "id": "afstanden-hoeken",
+       "naam": "Afstanden en hoeken",
+       "code": "C1",
+       "omschrijving": "Sinus- en cosinusregel, goniometrie in driehoeken.",
+       "vragen": 26,
+       "punten": 124
+      },
+      {
+       "id": "coordinaten",
+       "naam": "Meetkunde met coördinaten",
+       "code": "C2",
+       "omschrijving": "Lijnen, cirkels, loodrecht staan, afstanden en raken.",
+       "vragen": 34,
+       "punten": 179
+      }
+     ]
+    },
+    {
+     "naam": "Toegepaste analyse",
+     "onderwerpen": [
+      {
+       "id": "veranderingen",
+       "naam": "Veranderingen",
+       "code": "D1",
+       "omschrijving": "Differentiequotiënt en helling uit een grafiek.",
+       "vragen": 5,
+       "punten": 17
+      },
+      {
+       "id": "afgeleide",
+       "naam": "Afgeleide functies",
+       "code": "D2/D3",
+       "omschrijving": "Differentiëren met de regels, helling in een punt.",
+       "vragen": 15,
+       "punten": 62
+      },
+      {
+       "id": "toepassing",
+       "naam": "Toepassingen van de afgeleide",
+       "code": "D4",
+       "omschrijving": "Raaklijnen, extreme waarden en optimaliseren.",
+       "vragen": 40,
+       "punten": 184
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-a-vwo": {
+   "niveau": "vwo",
+   "naam": "Wiskunde A",
+   "vragen": 343,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "vw-1024-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "vw-1024-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "vw-1024-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "vw-1024-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "vw-1024-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "vw-1024-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "vw-1024-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "vw-1024-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "vw-1024-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "vw-1024-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "vw-1024-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "vw-1024-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "vw-1024-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "vw-1024-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "vw-1024-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "vw-1024-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Algebra en tellen",
+     "onderwerpen": [
+      {
+       "id": "algebra",
+       "naam": "Algebra: herleiden en rekenregels",
+       "code": "B1",
+       "omschrijving": "Formules omwerken, rekenregels voor machten en logaritmen.",
+       "vragen": 33,
+       "punten": 114
+      },
+      {
+       "id": "tellen",
+       "naam": "Telproblemen",
+       "code": "B2",
+       "omschrijving": "Combinaties, permutaties, rooster- en boomdiagrammen.",
+       "vragen": 30,
+       "punten": 123
+      }
+     ]
+    },
+    {
+     "naam": "Verbanden",
+     "onderwerpen": [
+      {
+       "id": "lin-kwadr",
+       "naam": "Lineaire en kwadratische functies",
+       "code": "C1",
+       "omschrijving": "Rechte lijnen en parabolen in een context.",
+       "vragen": 18,
+       "punten": 75
+      },
+      {
+       "id": "machts",
+       "naam": "Machtsfuncties en evenredigheid",
+       "code": "C1",
+       "omschrijving": "Machtsverbanden, gebroken formules, recht en omgekeerd evenredig.",
+       "vragen": 22,
+       "punten": 70
+      },
+      {
+       "id": "exp-log",
+       "naam": "Exponentiële en logaritmische functies",
+       "code": "C1",
+       "omschrijving": "Groeimodellen, e-machten, ln en log, logaritmische schaal.",
+       "vragen": 59,
+       "punten": 191
+      },
+      {
+       "id": "periodiek",
+       "naam": "Periodieke functies",
+       "code": "C1",
+       "omschrijving": "Sinusoïden opstellen en gebruiken.",
+       "vragen": 34,
+       "punten": 137
+      },
+      {
+       "id": "vergelijkingen",
+       "naam": "Formules, vergelijkingen en ongelijkheden",
+       "code": "C2",
+       "omschrijving": "Formules opstellen en gebruiken, oplossen met of zonder GR.",
+       "vragen": 77,
+       "punten": 295
+      }
+     ]
+    },
+    {
+     "naam": "Verandering",
+     "onderwerpen": [
+      {
+       "id": "rijen",
+       "naam": "Rijen",
+       "code": "D1",
+       "omschrijving": "Rekenkundige en meetkundige rijen, recursieve en directe formules.",
+       "vragen": 25,
+       "punten": 83
+      },
+      {
+       "id": "helling",
+       "naam": "Helling en veranderingssnelheid",
+       "code": "D2",
+       "omschrijving": "Helling uit een grafiek, toename- en afnamediagrammen.",
+       "vragen": 4,
+       "punten": 14
+      },
+      {
+       "id": "afgeleide",
+       "naam": "Afgeleide en extreme waarden",
+       "code": "D3",
+       "omschrijving": "Differentiëren, toenemend/afnemend stijgend, maximum en minimum.",
+       "vragen": 41,
+       "punten": 160
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-b-vwo": {
+   "niveau": "vwo",
+   "naam": "Wiskunde B",
+   "vragen": 268,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "vw-1025-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "vw-1025-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "vw-1025-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "vw-1025-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "vw-1025-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "vw-1025-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "vw-1025-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "vw-1025-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "vw-1025-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "vw-1025-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "vw-1025-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "vw-1025-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "vw-1025-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "vw-1025-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "vw-1025-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "vw-1025-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Functies, grafieken en vergelijkingen",
+     "onderwerpen": [
+      {
+       "id": "formules",
+       "naam": "Formules en functies",
+       "code": "B1",
+       "omschrijving": "Formules uit een context gebruiken en herleiden.",
+       "vragen": 18,
+       "punten": 73
+      },
+      {
+       "id": "standaardfuncties",
+       "naam": "Standaardfuncties en transformaties",
+       "code": "B2/B3",
+       "omschrijving": "Grafieken van standaardfuncties en transformaties.",
+       "vragen": 4,
+       "punten": 13
+      },
+      {
+       "id": "exp-log",
+       "naam": "Exponentiële en logaritmische functies",
+       "code": "B2",
+       "omschrijving": "e-machten, ln en logaritmen exact.",
+       "vragen": 22,
+       "punten": 107
+      },
+      {
+       "id": "inverse",
+       "naam": "Inverse functies",
+       "code": "B4",
+       "omschrijving": "Inverse opstellen en gebruiken.",
+       "vragen": 4,
+       "punten": 12
+      },
+      {
+       "id": "vergelijkingen",
+       "naam": "Vergelijkingen en ongelijkheden",
+       "code": "B5",
+       "omschrijving": "Exact oplossen, ook met absolute waarde en parameters.",
+       "vragen": 7,
+       "punten": 34
+      },
+      {
+       "id": "asymptoten",
+       "naam": "Asymptoten, limieten en perforaties",
+       "code": "B6",
+       "omschrijving": "Horizontale, verticale en scheve asymptoten, limietgedrag.",
+       "vragen": 21,
+       "punten": 92
+      }
+     ]
+    },
+    {
+     "naam": "Differentiaal- en integraalrekening",
+     "onderwerpen": [
+      {
+       "id": "afgeleide",
+       "naam": "Afgeleide: raaklijnen en extremen",
+       "code": "C1",
+       "omschrijving": "Raaklijnen, raken, extreme waarden en buigpunten.",
+       "vragen": 43,
+       "punten": 213
+      },
+      {
+       "id": "differentieren",
+       "naam": "Technieken voor differentiëren",
+       "code": "C2",
+       "omschrijving": "Product-, quotiënt- en kettingregel, een afgeleide bewijzen.",
+       "vragen": 5,
+       "punten": 20
+      },
+      {
+       "id": "integraal",
+       "naam": "Integraalrekening",
+       "code": "C3",
+       "omschrijving": "Primitiveren, oppervlakte en inhoud van omwentelingslichamen.",
+       "vragen": 33,
+       "punten": 160
+      }
+     ]
+    },
+    {
+     "naam": "Goniometrische functies",
+     "onderwerpen": [
+      {
+       "id": "goniometrie",
+       "naam": "Goniometrische functies",
+       "code": "D",
+       "omschrijving": "Sinus en cosinus, exacte vergelijkingen, formules met periode.",
+       "vragen": 17,
+       "punten": 69
+      }
+     ]
+    },
+    {
+     "naam": "Meetkunde met coördinaten",
+     "onderwerpen": [
+      {
+       "id": "meetkunde",
+       "naam": "Meetkunde: lijnen, cirkels en hoeken",
+       "code": "E1/E2",
+       "omschrijving": "Cirkelvergelijkingen, afstanden, hoeken, bewijzen met coördinaten.",
+       "vragen": 37,
+       "punten": 178
+      },
+      {
+       "id": "vectoren",
+       "naam": "Vectoren en inproduct",
+       "code": "E3",
+       "omschrijving": "Vectorvoorstellingen, inproduct, hoeken tussen vectoren, zwaartepunt.",
+       "vragen": 22,
+       "punten": 106
+      },
+      {
+       "id": "beweging",
+       "naam": "Bewegingsvergelijkingen",
+       "code": "E4",
+       "omschrijving": "Banen, snelheid en snelheidsvectoren bij een bewegend punt.",
+       "vragen": 35,
+       "punten": 138
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-c-vwo": {
+   "niveau": "vwo",
+   "naam": "Wiskunde C",
+   "vragen": 364,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "vw-1026-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "vw-1026-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "vw-1026-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "vw-1026-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "vw-1026-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "vw-1026-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "vw-1026-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "vw-1026-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "vw-1026-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "vw-1026-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "vw-1026-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "vw-1026-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "vw-1026-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "vw-1026-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "vw-1026-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "vw-1026-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Algebra en tellen",
+     "onderwerpen": [
+      {
+       "id": "rekenen-algebra",
+       "naam": "Rekenen en algebra",
+       "code": "B1",
+       "omschrijving": "Procenten, verhoudingen, eenheden en formules herleiden.",
+       "vragen": 57,
+       "punten": 184
+      },
+      {
+       "id": "tellen",
+       "naam": "Telproblemen",
+       "code": "B2",
+       "omschrijving": "Combinaties, permutaties en systematisch tellen.",
+       "vragen": 22,
+       "punten": 73
+      }
+     ]
+    },
+    {
+     "naam": "Verbanden",
+     "onderwerpen": [
+      {
+       "id": "lin-kwadr",
+       "naam": "Lineaire en kwadratische verbanden",
+       "code": "C",
+       "omschrijving": "Rechte lijnen, parabolen en lineair extrapoleren.",
+       "vragen": 22,
+       "punten": 77
+      },
+      {
+       "id": "machts",
+       "naam": "Machtsverbanden",
+       "code": "C",
+       "omschrijving": "Machtsformules en evenredigheid in een context.",
+       "vragen": 14,
+       "punten": 40
+      },
+      {
+       "id": "exp-log",
+       "naam": "Exponentiële en logaritmische verbanden",
+       "code": "C",
+       "omschrijving": "Groeifactoren, logaritmische schaal, log-formules.",
+       "vragen": 62,
+       "punten": 215
+      },
+      {
+       "id": "periodiek",
+       "naam": "Periodieke verschijnselen",
+       "code": "C",
+       "omschrijving": "Periode, frequentie en sinusvormige verbanden.",
+       "vragen": 3,
+       "punten": 9
+      },
+      {
+       "id": "vergelijkingen",
+       "naam": "Formules en vergelijkingen",
+       "code": "C",
+       "omschrijving": "Formules gebruiken en vergelijkingen oplossen in een context.",
+       "vragen": 42,
+       "punten": 140
+      }
+     ]
+    },
+    {
+     "naam": "Veranderingen",
+     "onderwerpen": [
+      {
+       "id": "rijen",
+       "naam": "Rijen",
+       "code": "D",
+       "omschrijving": "Recursieve en directe formules, somrijen.",
+       "vragen": 35,
+       "punten": 115
+      },
+      {
+       "id": "veranderingen",
+       "naam": "Veranderingen",
+       "code": "D",
+       "omschrijving": "Toenemend en afnemend stijgen, helling uit een grafiek.",
+       "vragen": 8,
+       "punten": 29
+      }
+     ]
+    },
+    {
+     "naam": "Logisch redeneren",
+     "onderwerpen": [
+      {
+       "id": "logica",
+       "naam": "Logisch redeneren",
+       "code": "F",
+       "omschrijving": "Logische symbolen, Venn-diagrammen en sluitende redeneringen.",
+       "vragen": 57,
+       "punten": 166
+      }
+     ]
+    },
+    {
+     "naam": "Vorm en ruimte",
+     "onderwerpen": [
+      {
+       "id": "ruimte",
+       "naam": "Vorm en ruimte",
+       "code": "G",
+       "omschrijving": "Aanzichten, perspectief, verdwijnpunten en ruimtelijke berekeningen.",
+       "vragen": 42,
+       "punten": 166
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

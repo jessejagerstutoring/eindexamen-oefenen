@@ -1,0 +1,572 @@
+                                                                 Examen VWO
+
+                                                                     2024
+                                                                            tijdvak 1
+                                                                  donderdag 23 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 21 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-24-1-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+             naam van de regel                 functie                       afgeleide
+
+              somregel                          s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+              verschilregel                     v( x)  f ( x)  g ( x)      v' ( x)  f ' ( x)  g' ( x)
+
+              productregel                      p ( x)  f ( x)  g ( x)      p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                            f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+              quotiëntregel                     q( x)                       q' ( x) 
+                                                            g ( x)                                    ( g ( x))2
+                                                                             k' ( x)  f ' ( g ( x))  g' ( x) of
+              kettingregel                      k ( x)  f ( g ( x))         dk df dg
+                                                                                       
+                                                                             dx dg dx
+
+
+            Logaritmen
+             regel                                                     voorwaarde
+              g
+                   log  a   g log  b   g log  ab               g >0, g  1, a >0, b >0
+
+                                                   a
+              g
+                   log  a   g log  b   g log                   g >0, g  1, a >0, b >0
+                                                   b
+              g
+                        
+                   log a p  p  g log  a                            g > 0, g  1, a > 0
+                               p
+                                   log  a 
+              g
+                   log  a   p                                       g > 0, g  1, a > 0, p > 0, p  1
+                                   log  g 
+
+
+
+
+VW-1024-a-24-1-o                                             2 / 16                                          lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-24-1-o                        3 / 16   lees verder ►►►
+      Horen
+
+            Het ene geluid klinkt zachter dan het andere. We zeggen dan dat het
+            geluidsniveau in decibel (dB) lager is. Een spreekstem bijvoorbeeld heeft
+            een geluidsniveau van 60 dB en in een discotheek is het geluidsniveau
+            ongeveer 100 dB.
+            Sommige geluiden zijn zo zacht dat het menselijk oor ze niet meer kan
+            waarnemen. Deze geluiden zijn zachter dan de zogenoemde
+            gehoordrempel. Andere geluiden zijn zo hard dat ze een onverdraagbaar
+            pijngevoel veroorzaken: ze liggen boven de zogenoemde pijngrens.
+            De hoogte van gehoordrempel en pijngrens hangen niet alleen af van het
+            geluidsniveau maar ook van de toonhoogte van het geluid. De figuur
+            hieronder geeft hier informatie over. Langs de verticale as staat het
+            geluidsniveau in dB. Langs de horizontale as staat, met een logaritmische
+            schaalverdeling, de toonhoogte; deze wordt uitgedrukt in hertz (Hz).
+
+            figuur
+
+
+
+
+            In de figuur kun je zien dat geluid met een toonhoogte van 100 Hz en een
+            niveau van 130 dB op de pijngrens ligt en dus erg onaangenaam is voor
+            het menselijk oor.
+
+            In de figuur kun je ook zien dat er bij een geluidsniveau van 10 dB
+            geluiden met verschillende toonhoogtes zijn die precies op de
+            gehoordrempel liggen.
+3p    1     Bepaal met behulp van de figuur welke toonhoogtes hier worden bedoeld.
+
+
+
+
+VW-1024-a-24-1-o                           4 / 16                           lees verder ►►►
+            Bij popconcerten en in discotheken is er vaak een erg hoog
+            geluidsniveau. In een artikel over gehoorschade bij jongeren staan de tips
+            en tricks zoals vermeld in onderstaande tekst.
+
+            Tips & Tricks
+             De vuistregel is dat je acht uur lang zonder problemen 80 dB op je
+               oren kunt hebben. Bij een toename van het geluidsniveau van 3 dB
+               halveert de tijd. Dus: vier uur lang bij 83 dB, twee uur lang bij 86 dB,
+               enzovoort.
+             Goede oordoppen kunnen het geluid tijdens een dancefeest of concert
+               dempen tot een geluidsniveau van 80 dB. Het geluidsniveau tijdens
+               zulke gelegenheden is vaak zo hoog dat een aantal minuten zonder
+               doppen al schade kan opleveren.
+
+            Uit bovengenoemde vuistregel volgt het exponentiele verband
+            T  8  g D  80 tussen de maximale tijd T in uren die je zonder
+            gehoorschade ergens kunt zijn en het geluidsniveau D in dB. De
+            groeifactor g is bij benadering 0,79.
+
+3p    2     Bereken deze groeifactor in drie decimalen.
+
+            In een discotheek is het geluidsniveau ongeveer 100 dB. Een verblijf van
+            een paar minuten zonder oordoppen kan dan al gehoorschade opleveren.
+3p    3     Bereken met behulp van de formule T  8  0, 79 D  80 hoeveel gehele
+            minuten je maximaal zonder oordoppen in een discotheek met een
+            geluidsniveau van 100 dB aanwezig kunt zijn zonder dat dat
+            gehoorschade oplevert.
+
+            Door het trillen van de lucht hoor je geluid. Deze trillingen veroorzaken
+            een kleine variatie in de luchtdruk. Deze variatie in luchtdruk wordt
+            geluidsdruk p genoemd. Het is mogelijk om de geluidsdruk te meten en
+            hiermee het bijbehorende geluidsniveau D vast te stellen. Daarvoor wordt
+            gebruikgemaakt van de volgende formule:
+                   D  20  log  p   26, 02
+            In deze formule is p de geluidsdruk, gemeten in Pa (micropascal), en D
+            weer het geluidsniveau in dB.
+
+3p    4     Bereken de geluidsdruk die hoort bij een geluid met een geluidsniveau
+            van 70 dB. Geef je antwoord in hele duizendtallen.
+
+            Iemand doet de volgende bewering:
+            “Volgens de formule D  20  log  p   26, 02 geldt: wanneer de geluidsdruk
+            verdubbelt, neemt het geluidsniveau toe met (ongeveer) 6 dB.”
+3p    5     Toon met behulp van de rekenregels voor logaritmen aan dat deze
+            bewering klopt.
+
+
+
+VW-1024-a-24-1-o                                 5 / 16                        lees verder ►►►
+      Water bottle flip
+
+            Bij ‘water bottle flipping’ gooit men een plastic
+            flesje dat gedeeltelijk met water is gevuld in de
+            lucht. Hierbij is het de bedoeling om het flesje
+            in de lucht te laten draaien en op de bodem te
+            laten landen, zodanig dat het flesje rechtop
+            blijft staan.
+
+            Vijf studenten natuurkunde van de Universiteit Twente hebben onderzocht
+            wat de optimale vullingsgraad van een plastic flesje is voor een goede flip.
+            De optimale vullingsgraad is het gewicht aan water (in gram) dat in het
+            flesje zit gedeeld door het totale gewicht aan water (in gram) dat in het
+            flesje kan, waarbij de flip zo goed mogelijk lukt.
+            Voor het berekenen van de optimale vullingsgraad V van een flesje
+            hebben de studenten de volgende formules opgesteld:
+                        1 M 1         w
+                   V           met M 
+                          M             f
+            Hierin is
+             V de optimale vullingsgraad
+             w het totale gewicht aan water in gram dat in het flesje kan
+             f het gewicht van het lege flesje in gram
+
+            Een klein leeg plastic flesje weegt 17 gram. Dit flesje kan gevuld worden
+            met in totaal 330 gram water.
+3p    6     Bereken, gebruikmakend van bovenstaande formules voor V en M,
+            hoeveel gram water in dit flesje gedaan moet worden voor de optimale
+            vulling. Geef je antwoord in een geheel aantal grammen.
+
+            Veel plastic flesjes kunnen gevuld worden met in totaal 500 gram water.
+            Voor deze flesjes geldt voor het gewicht in gram G dat nodig is voor de
+            optimale vulling: G  500 V . Voor deze flesjes kan met behulp van
+            bovenstaande formules voor V en M een formule opgesteld worden,
+            waarmee G direct berekend kan worden als het gewicht van het lege
+            flesje ( f ) bekend is. Een formule voor G is:
+
+                                500
+                   G  f  1       f
+                                 f
+
+3p    7     Geef de herleiding van deze formule voor G uit de gegeven formules voor
+            V en M en G  500 V .
+
+
+
+
+VW-1024-a-24-1-o                             6 / 16                           lees verder ►►►
+            In een grote plastic fles kan meer water ten opzichte van het gewicht van
+            de fles dan in een klein plastic flesje. Hierdoor neemt M toe naarmate de
+            grootte van de fles toeneemt.
+
+            De optimale vullingsgraad van kleine plastic flessen kan vergeleken wor-
+                                                                                dV
+            den met die van grote plastic flessen met behulp van de afgeleide      .
+                                                                                dM
+
+                                    dV
+4p    8     Schets de grafiek van      en beredeneer aan de hand van deze schets
+                                    dM
+            of de optimale vullingsgraad toeneemt of afneemt naarmate de grootte
+            van de fles toeneemt.
+
+
+
+
+VW-1024-a-24-1-o                            7 / 16                           lees verder ►►►
+       Meerlingen
+
+            Een vrouw bevalt na een zwangerschap meestal van één kind. Een
+            meerling, dat zijn twee of meer kinderen die uit één zwangerschap
+            geboren worden, komt van nature weinig voor.
+
+            Een drieling is een meerling van drie kinderen. Een drieling kan op drie
+            manieren ontstaan:
+             uit één eitje: in dat geval zijn de drie kinderen van een drieling
+               genetisch identiek en dus van hetzelfde geslacht. We spreken dan van
+               een eeneiige drieling.
+             uit twee eitjes: in dat geval zijn twee kinderen genetisch identiek en
+               dus van hetzelfde geslacht, maar het derde kind is genetisch
+               verschillend (en kan van hetzelfde of verschillend geslacht zijn). We
+               spreken dan van een twee-eiige drieling.
+             uit drie eitjes: in dat geval zijn alle drie de kinderen onderling
+               genetisch verschillend. We spreken dan van een drie-eiige drieling.
+
+            We gaan er in deze opgave verder van uit dat een kind bij de geboorte
+            altijd een jongen of een meisje is.
+
+4p     9    Onderzoek hoeveel verschillende samenstellingen er voor een drieling
+            bestaan als je let op geslacht en op de drie manieren waarop een drieling
+            kan ontstaan. Licht je antwoord toe.
+
+            Bij de opkomst van de zogeheten IVF-techniek1) eind jaren tachtig van de
+            vorige eeuw werden vaak meerdere bevruchte eicellen teruggeplaatst om
+            de slagingskans van IVF te vergroten. Hierdoor nam in verhouding het
+            aantal drie(-plus)lingen (een meerling van drie of meer kinderen) ook toe.
+
+            In 1980 waren er in Nederland 180 517 geboorten, waarvan slechts 25
+            van een drie(-plus)ling. In 1991 waren er in Nederland van de 196 698
+            geboorten 124 drie(-plus)linggeboorten.
+3p    10    Bereken met hoeveel procent het percentage drie(-plus)lingen in 1991 is
+            toegenomen ten opzichte van het percentage drie(-plus)lingen in 1980.
+            Geef je antwoord in gehele procenten.
+
+
+
+
+     noot 1 Bij de IVF-techniek worden eicellen in het laboratorium bevrucht en vervolgens in de
+            baarmoeder teruggeplaatst.
+
+
+
+VW-1024-a-24-1-o                                  8 / 16                                 lees verder ►►►
+            Algemeen wordt aangenomen dat de grootste meerling die op natuurlijke
+            wijze kan ontstaan een negenling is. De Duitse onderzoeker Hellin
+            voorspelde al in 1895 het volgende voor meerlingen bij natuurlijke
+            zwangerschappen:
+             Gemiddeld 1 op de 89 geboorten is de geboorte van een tweeling.
+             Gemiddeld 1 op de 892 geboorten is de geboorte van een drieling.
+             Gemiddeld 1 op de 893 geboorten is de geboorte van een vierling.
+             …..
+             Gemiddeld 1 op de 898 geboorten is de geboorte van een negenling.
+
+            Dit werd later door andere wetenschappers de wet van Hellin genoemd.
+
+            De getallen (1 op de) 89, 892, 893, …, 898 in de wet van Hellin vormen
+            een rij. Deze rij kan worden gebruikt om een formule op te stellen voor de
+            rij P(n) , waarbij P(n) het percentage n-ling-geboorten ten opzichte van
+            het totale aantal geboorten is.
+            Een recursieve formule voor P(n) is:
+                           1 P(n  1) , met P(2)  100 . Hierbij is n  2 .
+                   P(n)  89                        89
+
+            Er kan ook een directe formule voor P(n) opgesteld worden.
+                                                                                     n
+3p   11     Stel een directe formule op voor P(n) . Geef deze in de vorm P(n)  b  r .
+
+            Er zijn tegenwoordig wetenschappers die aannemen dat bij een
+            natuurlijke zwangerschap gemiddeld 1 op de 80 geboorten de geboorte
+            van een tweeling is, 1 op de 802 de geboorte van een drieling, …, 1 op de
+            808 de geboorte van een negenling. We nemen hierbij aan dat de grootst
+            mogelijke meerling een negenling is.
+4p   12     Bereken hoeveel procent van de geboorten in dat geval de geboorte van
+            een eenling is. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1024-a-24-1-o                               9 / 16                         lees verder ►►►
+      Veldleeuweriken
+
+            De laatste tientallen jaren is het in Nederland voor veel weidevogels
+            lastiger geworden om geschikte broedplaatsen te vinden. Dit komt doordat
+            landbouwgrond steeds intensiever en gevarieerder wordt gebruikt, en
+            doordat steden voortdurend verder uitbreiden.
+
+            Grasland is het voornaamste broedgebied voor weidevogels. Uit een
+            onderzoek van Sovon Vogelonderzoek Nederland blijkt dat in de jaren
+            vanaf 1990 tot en met 2014 ruim 150 000 hectare grasland verloren is
+            gegaan. Dat is een daling van 14 procent.
+
+2p   13     Bereken hoeveel hectare grasland er nog was in Nederland in 2014. Geef
+            je antwoord in duizenden hectares.
+
+            Een van de weidevogelsoorten die het meest in aantal is afgenomen, is
+            de veldleeuwerik. In de jaren vanaf 1990 tot en met 2000 bleef de
+            procentuele afname per jaar ten opzichte van het jaar ervoor nagenoeg
+            gelijk. Dit gold ook voor de jaren vanaf 2001 tot en met 2005. In figuur 1
+            zijn deze jaarlijkse procentuele afnames voor deze twee periodes
+            weergegeven voor drie verschillende soorten gebieden: duingebieden,
+            heidegebieden en agrarische gebieden.
+
+            figuur 1 - jaarlijkse afname aantal veldleeuweriken in %
+
+
+
+
+            In de figuur is bijvoorbeeld te zien dat in de jaren vanaf 2001 tot en met
+            2005 het aantal veldleeuweriken in duingebieden jaarlijks met 7,8% afnam.
+4p   14     Bereken met behulp van figuur 1 hoeveel procent minder veldleeuweriken
+            er in duingebieden waren in 2005 ten opzichte van het aantal in 1989.
+            Geef je antwoord in gehele procenten.
+
+
+
+
+VW-1024-a-24-1-o                            10 / 16                            lees verder ►►►
+            In figuur 2 zie je voor heel Nederland hoe het percentage veldleeuweriken
+            zich in de jaren vanaf 1990 tot en met 2014 ontwikkelde ten opzichte van
+            het totale aantal veldleeuweriken in 1990.
+
+            figuur 2
+
+
+
+
+            We voeren de variabelen P en t in. Hierin is P het percentage
+            veldleeuweriken ten opzichte van het totale aantal veldleeuweriken in
+            1990 in Nederland en is t de tijd in jaren met t  0 in het jaar 1990.
+
+            Ondanks de schommelingen kan het verband tussen P en t in de jaren
+            vanaf 1990 tot en met 2005 goed benaderd worden met een
+            meetkundige rij.
+
+            Uit figuur 2 valt af te lezen dat het totale aantal veldleeuweriken in
+            Nederland in 2005 nog maar 40% was van het totale aantal
+            veldleeuweriken in 1990.
+4p   15     Stel met behulp van dit gegeven een recursieve formule op voor de rij.
+            Geef de getallen in je antwoord zo nodig in drie decimalen.
+
+
+
+
+VW-1024-a-24-1-o                           11 / 16                            lees verder ►►►
+            Sovon deed niet alleen onderzoek naar het aantal veldleeuweriken in
+            Nederland, maar ving ook regelmatig jonge veldleeuweriken om ze te
+            meten en te wegen. In figuur 3 is van 265 gevangen jonge
+            veldleeuweriken het gewicht uitgezet tegen de zogeheten tarsuslengte1),
+            dat is de lengte van het onderbeen.
+
+            figuur 3
+
+
+
+
+            In figuur 3 is ook een kromme weergegeven die het verband tussen het
+            gewicht en de tarsuslengte benadert. Deze kromme kan worden
+            beschreven met de formule:
+                               22
+                   G                         9
+                        1  1420  e 0,307T
+            Hierin is G het gewicht in grammen en T de tarsuslengte in millimeters.
+
+            Het gewicht van een jonge veldleeuwerik heeft een grenswaarde.
+4p    16    Beredeneer aan de hand van de formule voor G, dus zonder gebruik te
+            maken van getallenvoorbeelden, hoe groot deze grenswaarde is.
+
+            Het gewicht van jonge veldleeuweriken neemt in het begin steeds sneller
+            toe naarmate de tarsuslengte toeneemt. Op een bepaald moment is deze
+            toenamesnelheid maximaal.
+4p    17    Bereken met behulp van de formule voor de afgeleide van G de maximale
+            toenamesnelheid van het gewicht. Geef je antwoord in grammen per mm
+            in één decimaal.
+
+
+
+
+     noot 1 Men meet de tarsuslengte als een maat voor de leeftijd van de jonge veldleeuwerik
+            omdat de leeftijd zelf moeilijk te bepalen valt.
+
+
+
+VW-1024-a-24-1-o                                   12 / 16                              lees verder ►►►
+      Honkbalsalarissen
+
+            Honkbal is een van de populairste sporten in de Verenigde Staten.
+
+            Omdat honkbal vooral een tactische sport is en kracht en snelheid minder
+            belangrijk zijn dan bij veel andere sporten, kunnen professionele
+            honkballers normaal gesproken tot rond hun veertigste jaar aan de top
+            meespelen. Naarmate een speler ouder wordt en meer seizoenen mee
+            heeft gespeeld, zal deze speler meer ervaring opdoen en beter worden,
+            en zijn salaris zal dus ook stijgen.
+
+            In figuur 1 staan de gemiddelde salarissen van alle honkballers uit de
+            belangrijkste Amerikaanse competities tussen 1995 en 2018.
+
+            figuur 1
+
+
+
+
+            In de grafiek kun je bijvoorbeeld aflezen dat honkballers van 21 jaar
+            gemiddeld 0,4 miljoen dollar per jaar verdienen en honkballers van 28 jaar
+            gemiddeld 2,6 miljoen dollar.
+
+            Uit de figuur blijkt dat het salaris tussen de 21 en 28 jaar nagenoeg
+            exponentieel toeneemt. Het is, uitgaande van exponentiële groei, mogelijk
+            een formule op te stellen van het verband tussen de leeftijd en het
+            gemiddelde jaarsalaris van honkballers.
+
+4p   18     Stel met behulp van de gegevens van 21- en 28-jarige spelers een
+            formule op voor het gemiddelde jaarsalaris S in duizenden dollars van
+            honkballers van t jaar oud. Geef de getallen in je antwoord zo nodig in
+            drie decimalen.
+
+
+
+
+VW-1024-a-24-1-o                           13 / 16                            lees verder ►►►
+            Zo’n exponentiële benadering gaat ervan uit dat de salarissen steeds
+            maar blijven stijgen, maar in de grafiek is duidelijk te zien dat de
+            exponentiële stijging niet doorzet.
+
+            Een andere benadering van de salarissen van honkballers is de formule:
+                               5500
+                   W
+                        1  1600000  0,598t
+            Hierbij is W het gemiddelde jaarsalaris in duizenden dollars en t de leeftijd
+            in jaren.
+
+            Volgens de formule voor W zal het salaris naar een grenswaarde toe
+            stijgen. In werkelijkheid nemen de salarissen vanaf een leeftijd van
+            (ongeveer) 36 jaar juist weer af. Professionele honkballers van 39 jaar
+            verdienen gemiddeld 4,54 miljoen dollar per jaar.
+
+4p   19     Bereken hoeveel procent lager dit salaris is dan de grenswaarde van W.
+            Geef je antwoord in één decimaal.
+
+            De WAR-waarde van een honkballer is een getal dat aangeeft hoe
+            belangrijk deze honkballer voor een team is.
+
+            Voor een honkballer wordt elke wedstrijd zijn WAR-waarde berekend. In
+            een seizoen worden deze WAR-waarden opgeteld tot zijn totale WAR-
+            waarde. Uit deze totale WAR-waarde en het aantal wedstrijden dat deze
+            honkballer speelde, is zijn gemiddelde WAR-waarde per wedstrijd te
+            berekenen.
+            In figuur 2 zijn de gemiddelde WAR-waarden per wedstrijd in de
+            Amerikaanse competitie van 2019 weergegeven voor honkballers van
+            verschillende leeftijden.
+
+
+
+
+VW-1024-a-24-1-o                               14 / 16                          lees verder ►►►
+            figuur 2
+
+
+
+
+            In de praktijk is de gemiddelde WAR-waarde per wedstrijd een getal
+            tussen de 0 en de 1, waarbij een 0 betekent dat de honkballer geen
+            enkele bijdrage heeft geleverd en een 1 betekent dat een honkballer een
+            zeer grote bijdrage leverde.
+
+            Met behulp van de gegevens uit figuur 2 kan worden berekend hoeveel
+            een honkballer gemiddeld per WAR-punt aan salaris ontvangt.
+
+            Voorbeeld
+            Honkballers van 30 jaar oud verdienen gemiddeld 4,1 miljoen dollar.
+            In figuur 2 is af te lezen dat deze honkballers een WAR-gemiddelde
+            hebben van 0,30. Het gemiddelde salaris per WAR-punt is dan
+              4,1
+                   13,67 miljoen.
+             0,30
+
+            Cody Bellinger was een van de best presterende honkballers in de
+            Amerikaanse competitie van 2019. Cody was toen 24 jaar oud en had een
+            WAR-gemiddelde van 0,76. Hij was daarmee destijds de meest
+            waardevolle honkballer van de competitie. Zijn salaris was in dat seizoen
+            $ 605 000 per jaar en dat is minder dan het gemiddelde van zijn
+            leeftijdgenoten; dat was namelijk $ 660 000.
+
+3p   20     Bereken met behulp van bovenstaande gegevens en figuur 2 hoeveel
+            salaris Cody had moeten krijgen zodat zijn salaris per WAR-punt
+            hetzelfde was als het gemiddelde van zijn leeftijdgenoten. Geef je
+            antwoord in miljoenen dollars en rond in je antwoord af op twee
+            decimalen.
+            Let op: de laatste vragen van dit examen staat op de volgende pagina.
+
+
+VW-1024-a-24-1-o                           15 / 16                          lees verder ►►►
+      Getij
+
+            Getij ontstaat door de aantrekkingskracht die de zon en de maan hebben
+            op het zeewater. De zeewaterstand gaat hierdoor afwisselend omhoog en
+            omlaag. Er zijn verschillende manieren om deze waterstand te benaderen.
+            Manus en Jan Willem bepalen bij Nes op Ameland de waterstanden bij
+            laag- en hoogwater. Bij laagwater is de waterstand –123 centimeter ten
+            opzichte van NAP (Normaal Amsterdams Peil). Zes uur later is het
+            hoogwater, en de waterstand is dan +87 centimeter ten opzichte van NAP.
+            Manus benadert de waterstand tussen de tijdstippen van laag- en
+            hoogwater met een sinusfunctie en Jan Willem benadert de waterstand
+            met de twaalfdelenregel.
+            Bij de twaalfdelenregel wordt de waterstand benaderd door lijnstukken
+            (delen van een rechte lijn) met elkaar te verbinden. De tijd tussen laag- en
+            hoogwater wordt in zes gelijke delen verdeeld. Beginnend op het tijdstip
+            van laagwater gaat de verandering van de waterstand bij de
+            twaalfdelenregel als volgt:
+             Gedurende het eerste, tweede en derde deel stijgt de waterstand
+                respectievelijk 1/6, 2/6 en 3/6 deel van de amplitude.
+             Gedurende het vierde, vijfde en zesde deel stijgt de waterstand
+                respectievelijk 3/6, 2/6 en 1/6 deel van de amplitude.
+
+            figuur
+
+
+
+
+            In de figuur zijn de benaderingen van de waterstanden met de
+            twaalfdelenregel en de sinusfunctie weergegeven met respectievelijk een
+            doorgetrokken en een gestippelde kromme. Deze figuur staat vergroot op
+            de uitwerkbijlage. Het grootste verschil tussen beide benaderingen treedt
+            op vlak voor en vlak na laagwater en vlak voor en vlak na hoogwater.
+
+9p   21     Onderzoek wat het maximale verschil is tussen de manieren waarop
+            Manus en Jan Willem de waterstand benaderen. Geef je antwoord in hele
+            millimeters.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-24-1-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

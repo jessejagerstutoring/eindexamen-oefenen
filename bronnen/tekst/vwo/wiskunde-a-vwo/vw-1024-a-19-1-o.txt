@@ -1,0 +1,605 @@
+                                                                   Examen VWO
+
+                                                                       2019
+                                                                              tijdvak 1
+                                                                     maandag 20 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 20 vragen.
+Voor dit examen zijn maximaal 79 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-19-1-o
+            OVERZICHT FORMULES
+
+
+
+            Differentiëren
+              naam van de regel                functie                       afgeleide
+
+              somregel                          s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+              verschilregel                     s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+              productregel                      p ( x)  f ( x)  g ( x)      p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                            f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+              quotiëntregel                     q( x)                       q' ( x) 
+                                                            g ( x)                                    ( g ( x)) 2
+                                                                             k' ( x)  f ' ( g ( x))  g' ( x) of
+              kettingregel                      k ( x)  f ( g ( x))         dk df dg
+                                                                                       
+                                                                             dx dg dx
+
+
+            Logaritmen
+              regel                                                    voorwaarde
+              g
+                   log  a   g log  b   g log  ab               g > 0, g  1, a > 0, b > 0
+
+                                                   a
+              g
+                   log  a   g log  b   g log                   g > 0, g  1, a > 0, b > 0
+                                                   b
+              g
+                        
+                   log a p  p  g log  a                            g > 0, g  1, a > 0
+                               p
+                                   log  a 
+              g
+                   log  a   p                                       g > 0, g  1, a > 0, p > 0, p  1
+                                   log  g 
+
+
+
+
+VW-1024-a-19-1-o                                             2 / 14                                          lees verder ►►►
+      Goudplevieren
+
+            Een goudplevier (zie foto) is een vogel die niet in              foto
+            Nederland broedt, maar tijdens zijn trektochten wel in
+            Nederland te vinden is. Er zijn grote verschillen in
+            aantallen goudplevieren tussen de verschillende jaren.
+            In figuur 1 zijn de aantallen goudplevieren in
+            Nederland in de jaren 1975 tot en met 2012
+            weergegeven als zwarte stippen.
+
+            figuur 1
+                                            Goudplevier
+                     50 000
+            aantal
+                     40 000
+
+                     30 000
+
+                     20 000
+
+                     10 000
+
+                         0
+                          ’75   ’80   ’85    ’90   ’95    ’00   ’05   ’10
+                                                                      jaar
+
+            In figuur 1 is ook een kromme getekend die de trend aangeeft. We nemen
+            aan dat vanaf 2003 deze trend een rechte lijn is en dat dit ook na 2012 zo
+            blijft.
+4p    1     Bereken hoeveel goudplevieren er volgens de trendlijn zijn in 2020. Geef
+            je antwoord in gehele duizendtallen.
+
+
+
+
+VW-1024-a-19-1-o                                    3 / 14                          lees verder ►►►
+            Tijdens hun verblijf in Nederland bouwen de goudplevieren een reserve
+            op voor de komende trektochten. Hierdoor nemen ze toe in gewicht.
+
+            In figuur 2 zie je het resultaat van een onderzoek naar deze
+            gewichtstoename: van een aantal op verschillende tijdstippen gevangen
+            goudplevieren is het gewicht en/of de hoeveelheid vet bepaald. De open
+            stippen horen bij waarnemingen in het najaar en de dichte stippen bij
+            waarnemingen in het voorjaar. Ook zijn de trendlijnen getekend.
+
+
+            figuur 2
+                                   260
+            lichaamsgewicht (g)                        trend voorjaar
+                                   240
+                                                                    dag
+                                   220                        0,6 g/
+                                                  trend najaar
+                                   200
+
+                                   180
+
+                                   80
+             hoeveelheid vet (g)
+                                   70
+                                   60                            trend najaar
+                                   50
+                                                                      /dag
+                                   40                           0,6 g
+                                   30
+                                   20                               trend voorjaar
+                                   10
+                                    0
+
+                                         0   10   20     30       40     50     60
+                                     dagen na het begin van gewichtstoename
+
+            Op grond van specifieke biologische kenmerken kunnen de onderzoekers
+            bepalen wanneer de gewichtstoename van een goudplevier begint.
+            Aan de hand van de trendlijnen in figuur 2 kun je onderzoeken of de
+            volgende stellingen waar zijn.
+            I In het voorjaar is de gemiddelde gewichtstoename per dag van een
+                goudplevier ongeveer 2 keer zo groot als in het najaar.
+            II De gewichtstoename in het voorjaar bestaat niet uit vet.
+
+4p    2     Onderzoek voor elk van beide stellingen of deze waar is.
+
+
+
+
+VW-1024-a-19-1-o                                       4 / 14                        lees verder ►►►
+            Het vetpercentage van een vogel is de hoeveelheid lichaamsvet als
+            percentage van het totale gewicht van de vogel. Met behulp van de
+            trendlijnen in het voorjaar van zowel lichaamsgewicht als vethoeveelheid
+            leiden de onderzoekers het volgende verband af:
+                                    1600
+                   Pvoorjaar 
+                                 2,3  t  198
+            Hierbij is Pvoorjaar het vetpercentage van de vogel in het voorjaar en t de tijd
+            in dagen na het begin van de gewichtstoename.
+
+5p    3     Laat zien, gebruikmakend van de punten (0, 198) en (20, 244), hoe deze
+            formule is af te leiden uit de gegevens in de figuur.
+
+3p    4     Beredeneer uitsluitend met behulp van de formule, zonder getallen in te
+            vullen of een schets te maken, of het vetpercentage in het voorjaar
+            toeneemt of juist afneemt.
+
+            Voor het vetpercentage in het najaar gaan we uit van de volgende
+            formule:
+                               2300  60t
+                   Pnajaar 
+                               207  0,6t
+            Hierin is Pnajaar het vetpercentage van de vogel in het najaar en t de tijd in
+            dagen na het begin van de gewichtstoename.
+
+            Met behulp van de afgeleide van Pnajaar kan men onderzoeken of het
+            vetpercentage Pnajaar afnemend stijgend is.
+6p    5     Stel de formule van de afgeleide van Pnajaar op en onderzoek daarmee of
+             Pnajaar afnemend stijgend is.
+
+
+
+
+VW-1024-a-19-1-o                                 5 / 14                            lees verder ►►►
+      Kentekens
+
+            Tussen mei 2008 en februari 2013 werd     foto
+            voor personenauto’s de kentekenserie
+            gebruikt die door de Rijksdienst voor het
+            Wegverkeer sidecode 7 genoemd wordt.
+            Op de foto staat een van de eerste
+            kentekens uit deze serie.
+
+            De kentekens bestaan uit twee cijfers, gevolgd door drie letters en
+            tenslotte nog één cijfer.
+            Als we ervan uitgaan dat er geen beperkingen zijn aan de te gebruiken
+            cijfers en letters, dan zijn er bijna 18 miljoen verschillende kentekens te
+            maken met sidecode 7.
+
+3p    6     Bereken het aantal verschillende kentekens met sidecode 7. Geef je
+            antwoord in gehele honderdduizendtallen.
+
+            In deze opgave gaan we echter van de volgende beperkingen uit:
+             Een kenteken mag niet met 00 beginnen
+             De eerste letter is G, H, J, K, L, N, P, R, S, T, X of Z
+             Klinkers (A, E, I, O, U, Y) worden niet gebruikt
+             De letters C en Q worden niet gebruikt
+             Bepaalde drielettercombinaties (zoals NSB) kunnen als
+                aanstootgevend worden gezien en als gevolg daarvan zijn 82
+                drielettercombinaties uitgesloten.
+
+            Een verslaggever van een autotijdschrift schrijft in een artikel dat door al
+            deze beperkingen minder dan 20% van alle mogelijke kentekens
+            uiteindelijk op een personenauto terecht zal komen.
+5p    7     Ga met een berekening na of de verslaggever gelijk heeft.
+
+            Vanaf 1 maart 2013 werd voor kentekens de serie sidecode 8 gebruikt.
+            Sidecode 8 bevat eerst een cijfer, dan drie letters en tenslotte twee cijfers.
+            Sidecode 8 lijkt dus erg op sidecode 7 maar omdat er andere beperkingen
+            gelden, zijn in totaal 1,46 miljoen kentekens beschikbaar voor
+            personenauto’s.
+
+            In oktober 2013 vraagt de verslaggever zich af tot wanneer deze serie
+            (ongeveer) mee zal gaan. Hij maakt zelf een grafiek met daarin de
+            verkoop van nieuwe personenauto’s vanaf 2011. Ook maakt hij als
+            bijpassend model een trendlijn met een afname van de verkoop van
+            375 nieuwe auto’s per maand.
+
+
+
+
+VW-1024-a-19-1-o                             6 / 14                             lees verder ►►►
+            figuur
+                            Autoverkoop januari 2011 - september 2013
+            70.000
+
+            60.000
+
+            50.000
+
+            40.000
+
+            30.000
+
+            20.000
+
+            10.000
+
+                    0       rt -
+                    11   se
+                         no ei
+                           ju
+                          ja
+                                11
+                               -1
+                              l-1
+                             p-
+                             v-
+                             n- 11
+                                11
+                                121
+                                  1
+                   n-    m
+                         m
+                         se
+                         no rt-
+                            ei
+                           ju   12
+                               -1
+                              l-1
+                             p-
+                             v- 122
+                                  2
+                   ja   mm
+                         mja
+                         se mn-
+                            rt -
+                            ei
+                           ju   12
+                                13
+                                13
+                               -1
+                              l-1
+                             p- 133
+                                  3
+
+                        Legenda:
+                             autoverkoop
+                             trend
+
+            De formule die bij dit model hoort, is:
+                         An  375n  37 250
+
+            Hierbij is An het aantal verkochte nieuwe auto’s in maand n met n = 0
+            voor maart 2013, de eerste maand waarin sidecode 8 gebruikt wordt.
+
+            Het model geeft voor mei 2013 een hoger aantal verkochte nieuwe auto’s
+            dan er volgens de grafiek werden verkocht.
+3p    8     Bereken hoeveel procent hoger de uitkomst van het model is. Geef je
+            antwoord in gehele procenten.
+
+            Er is ook een recursieve formule op te stellen bij dit model.
+3p    9     Stel deze recursieve formule op.
+
+
+
+
+VW-1024-a-19-1-o                                      7 / 14                 lees verder ►►►
+      Verpakkingen
+
+            Om een verpakking in de vorm van een balk te maken, wordt een karton
+            van 30x40 cm gebruikt. In de afbeeldingen hieronder zie je links een
+            verpakking en rechts hoe de uitslag daarvan uit het karton geknipt wordt.
+            Hierbij is h de hoogte, b de breedte en l de lengte van de verpakking in
+            cm. De uitslag eindigt precies bij de randen van het karton. Zie de figuur.
+
+            figuur
+                                                          30 cm
+
+
+
+
+                                                                               40 cm
+
+            h
+                                                        grondvlak    l
+                     grondvlak
+                                    l
+                      b
+                                                h           b
+
+
+
+            Van een bepaalde verpakking is de hoogte gelijk aan 3 cm.
+3p   10     Bepaal de lengte en breedte van deze verpakking en bereken daarmee
+            vervolgens de inhoud van deze verpakking.
+
+            De formule voor de inhoud V in cm3 van de verpakking uitgedrukt in de
+            hoogte h in cm is:
+            V  2h3  70h2  600h
+
+4p   11     Toon, zonder getallenvoorbeelden, aan dat deze formule juist is.
+
+            Met behulp van deze formule is vast te stellen voor welke hoogte h (met
+            h  15 ) de inhoud maximaal is.
+3p   12     Bereken met behulp van differentiëren bij welke hoogte de inhoud
+            maximaal is. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1024-a-19-1-o                             8 / 14                            lees verder ►►►
+            Efficiëntie van een verpakking
+            Bedrijven willen zo efficiënt mogelijk omgaan met verpakkingsmateriaal.
+            Meestal is er een vaststaande inhoud en wil men dat de oppervlakte van
+            de verpakking zo klein mogelijk wordt, maar je kunt het ook andersom
+            bekijken: bij een bepaalde oppervlakte wil je een verpakking met zo groot
+            mogelijke inhoud. De maximale inhoud krijg je als je een bol neemt, maar
+            een bol als verpakkingsmateriaal is vaak niet handig.
+
+            Om de efficiëntie E van een verpakking met een inhoud V en een
+            oppervlakte A te weten te komen, vergelijk je de inhoud V van die
+            verpakking met de inhoud van een bol met diezelfde oppervlakte A.
+
+            Er geldt:
+                                 inhoud V van verpakking met oppervlakte A
+            formule 1:    E=
+                                      inhoud van bol met oppervlakte A
+
+
+            Voor een bol geldt het volgende:
+            formule 2:    Oppervlakte bol = 12,57 r 2
+            formule 3:    Inhoud bol = 4,19r 3
+
+            In deze formules is r de straal van de bol.
+
+            Uitgaande van de formules 1, 2 en 3 geldt voor de efficiëntie van een
+            verpakking de volgende formule:
+                                  V
+                   E=
+                                 0,08 A 
+                                             3
+                         4,19
+
+
+4p   13     Toon met de formules 1, 2 en 3 aan dat deze laatste formule juist is.
+
+
+
+
+VW-1024-a-19-1-o                                 9 / 14                       lees verder ►►►
+VW-1024-a-19-1-o   10 / 14   lees verder ►►►
+      Groningse aardbevingen
+
+            In de provincie Groningen vinden, als gevolg van gasproductie, regelmatig
+            aardbevingen plaats. In 2013 is daar grootschalig onderzoek naar
+            gedaan. Zo werd er gekeken naar het verband tussen de gasproductie en
+            aardbevingen. Enkele resultaten daarvan staan in figuur 1. Deze figuur
+            staat ook, vergroot, op de uitwerkbijlage. Hier zie je bijvoorbeeld dat er in
+            1993 zeven aardbevingen zijn geweest en er in datzelfde jaar 42 miljard
+            kubieke meter gas is geproduceerd.
+
+            figuur 1
+                               60                                                   60 gasproductie
+            jaarlijks aantal
+             aardbevingen                                                              in miljarden m3
+                               50                                                   50     per jaar
+
+                               40                                                   40
+
+                               30                                                   30
+
+                               20                                                   20
+
+                               10                                                   10
+
+                               0                                                        0
+                                    ’89 ’91 ’93 ’95 ’97 ’99 ’01 ’03 ’05 ’07 ’09 ’11
+                                                                                 jaar
+                                     Legenda:
+                                          jaarlijks aantal aardbevingen
+                                          jaarlijkse gasproductie
+
+            We bekijken de volgende drie beweringen:
+            1 De gasproductie en het aantal aardbevingen zijn over de gehele
+                periode 2000-2011 procentueel evenveel gestegen.
+            2 Als na 2000 de gasproductie daalt, dan heeft dat altijd een jaar later
+                ook een daling van het aantal aardbevingen tot gevolg.
+            3 In de periode 2005-2011 is de gemiddelde stijging per jaar van het
+                aantal aardbevingen groter dan in de periode 1998-2004.
+5p   14     Geef van elke bewering aan of deze waar is of niet. Gebruik in je
+            toelichting gegevens uit figuur 1 en gebruik daarbij eventueel de figuur op
+            de uitwerkbijlage.
+
+            De magnitude, de kracht van een aardbeving, wordt uitgedrukt in een
+            getal op de schaal van Richter.
+            In figuur 2 zijn de Groningse aardbevingen vanaf 1994 verzameld en
+            ingedeeld naar sterkte. Dat geeft bij een logaritmische schaalverdeling
+            langs de verticale as een opvallend patroon: alle grafieken zijn bij
+            benadering evenwijdige rechte lijnen.
+
+
+
+
+VW-1024-a-19-1-o                                     11 / 14                                lees verder ►►►
+            Elke stip in deze figuur stelt een aardbeving van een zekere magnitude
+            voor: zo kun je zien dat er vlak voor juli 2009 een aardbeving van
+            magnitude > 3,0 heeft plaatsgevonden: die aardbeving zie je dus ook
+            terug bij de aardbevingen van de klassen > 2,5; > 2,0 en > 1,5.
+
+            figuur 2
+                    1000
+        totaal aantal
+       aardbevingen ≥
+         magnitude
+                                                                                           ≥ 1,5
+                        100
+                                                                                           ≥ 2,0
+
+
+                                                                                           ≥ 2,5
+
+                         10
+                                                                                           ≥ 3,0
+
+
+                                                                                           ≥ 3,5
+                          1
+                                                                              tijd in maanden
+
+                        t=0                                t = 117                   t = 220
+                    (april 1994)                       (januari 2004)            (augustus 2012)
+
+                                      t = 51                              t = 183
+                                   (juli 1998)                          (juli 2009)
+
+            In het onderzoek werden alleen aardbevingen bekeken die schade
+            zouden kunnen veroorzaken. Omdat aardbevingen met een magnitude
+            van minder dan 1,5 geen schade aanrichten, zijn deze niet in figuur 2
+            opgenomen.
+
+3p   15     Bereken voor augustus 2012 hoeveel procent van het aantal
+            aardbevingen van magnitude > 2,0 een magnitude van 2,5 of hoger heeft.
+            Geef je antwoord in gehele procenten.
+
+            Het feit dat de grafieken in figuur 2 evenwijdige rechte lijnen zijn, betekent
+            dat het aantal aardbevingen van elke klasse exponentieel toeneemt met
+            dezelfde groeifactor. Het totaal aantal aardbevingen A voor
+            magnitudes > 1,5 is te beschrijven met de volgende formule:
+                   A  12  e0,013t met t  0 voor april 1994 en t in maanden.
+
+4p   16     Bereken door middel van differentiëren de waarde van de afgeleide van A
+            voor t = 117. Geef je antwoord in één decimaal en leg uit wat de
+            betekenis van deze waarde is in deze situatie.
+
+
+
+VW-1024-a-19-1-o                                 12 / 14                              lees verder ►►►
+            De formules van de overige lijnen in figuur 2 kunnen worden afgeleid van
+            die voor de magnitudes > 1,5. Bekijk de grafiek voor de magnitudes > 2,0.
+            Deze grafiek is 85 maanden later op dezelfde hoogte als de grafiek voor
+            magnitudes > 1,5.
+
+            Hieronder staan vier formules. Een van de vier is juist voor de
+            magnitudes > 2,0:
+            A     A2,0  12  e0,013(t 85) met t  0 voor april 1994
+            B      A2,0  12  e0,013(t 85) met t  0 voor april 1994
+            C      A2,0  12  e0,013t 85 met t  0 voor april 1994
+            D      A2,0  12  e0,013t 85 met t  0 voor april 1994
+3p   17     Beredeneer welke van de vier formules juist is.
+
+            In een rapport van het Staatstoezicht op de Mijnen wordt geconstateerd
+            dat er een duidelijk verband is tussen de magnitude en het percentage
+            aardbevingen boven die magnitude. In figuur 3 is dat verband
+            weergegeven.
+
+            figuur 3
+                           100
+              percentage    90
+             aardbevingen 80
+            boven bepaalde
+            magnitude (N) 70
+                            60
+                            50
+                            40
+                            30
+                            20
+                            10
+                             0
+                                 0       0,5         1,0          1,5         2,0          2,5
+                                                 magnitude aardbeving op de schaal van Richter (M)
+
+            Zo is bijvoorbeeld af te lezen dat 10% van de aardbevingen een
+            magnitude boven de 1,0 heeft.
+            Bij deze grafiek hoort de volgende formule:
+                   N  10a M
+            Hierbij is M de magnitude en N het percentage van de aardbevingen
+            boven magnitude M.
+3p   18     Laat met een berekening zien dat geldt: a  2 .
+
+            Omgekeerd kun je je ook afvragen welke magnitude de (bijvoorbeeld)
+            20% zwaarste aardbevingen minstens hadden. Om vragen als deze te
+            beantwoorden, is het handig de formule te herschrijven.
+            De formule N  102 M is te herleiden tot M  p  q  log(N ) .
+3p   19     Bereken p en q.
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+VW-1024-a-19-1-o                                 13 / 14                                  lees verder ►►►
+      Zandpad
+
+            Langs het Zandpad in Utrecht staat een hek dat bestaat uit twee
+            sinusoïden, die elkaar raken. Zie de foto.
+
+            foto
+
+
+
+
+            In de figuur hieronder zijn de twee sinusoïden in het hek schematisch
+            weergegeven.
+
+            figuur
+hoogte
+
+
+
+
+            O
+                                                                                               x
+
+
+            De formule die bij de onderste sinusoïde hoort, luidt:
+                                             
+                     Sonderste  100  50sin( x)
+                                             3
+            Hierbij is Sonderste de hoogte in centimeters en x de afstand tot het
+            beginpunt op de evenwichtsstand in meters.
+            De toppen van de onderste sinusoïde liggen op de evenwichtsstand van
+            de bovenste sinusoïde. De amplitudes van beide sinusoïden zijn gelijk.
+            Verder is gegeven dat de twee sinusoïden elkaar bij x  12 en ook bij
+            x  6 12 raken.
+8p   20     Geef de formule voor de bovenste sinusoïde en licht toe hoe je je
+            antwoord gevonden hebt.
+
+
+
+
+VW-1024-a-19-1-o                                   14 / 14                          lees verdereinde
+                                                                                                 ►►► 
+

@@ -1,0 +1,551 @@
+                                                                 Examen VWO
+
+                                                                     2026
+                                                                            tijdvak 1
+                                                                   woensdag 13 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+ Dit examen bestaat uit 20 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-26-1-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+            naam van de regel                functie                    afgeleide
+
+            somregel                         s ( x)  f ( x)  g ( x)   s' ( x)  f ' ( x)  g' ( x)
+
+            verschilregel                    v( x)  f ( x)  g ( x)    v' ( x)  f ' ( x)  g' ( x)
+
+            productregel                     p ( x)  f ( x)  g ( x)    p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                       f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+            quotiëntregel                    q( x)                     q' ( x) 
+                                                       g ( x)                                    ( g ( x))2
+                                                                        k' ( x)  f ' ( g ( x))  g' ( x) of
+            kettingregel                     k ( x)  f ( g ( x))       dk df dg
+                                                                                  
+                                                                        dx dg dx
+
+
+            Logaritmen
+            regel                                                   voorwaarde
+             g
+                 log  a   g log  b  g log  ab               g > 0, g  1, a > 0, b > 0
+
+                                                 a
+             g
+                 log  a   g log  b   g log                  g > 0, g  1, a > 0, b > 0
+                                                 b
+             g
+                      
+                 log a p  p  g log  a                           g > 0, g  1, a > 0
+                             p
+                                 log  a 
+             g
+                 log  a   p                                      g > 0, g  1, a > 0, p > 0, p  1
+                                 log  g 
+
+
+
+
+VW-1024-a-26-1-o                                           2 / 16                                           lees verder ►►►
+      Schaakprogramma's
+
+            Het schaakspel is een eeuwenoud bordspel waarbij twee spelers om en
+            om een schaakstuk mogen verzetten. Hierbij heeft de ene speler witte
+            schaakstukken en de andere zwarte schaakstukken. De speler met de
+            witte stukken begint. De spelregels van het schaakspel zijn relatief
+            eenvoudig. Toch lukt het al eeuwen niet om een winnende strategie te
+            vinden.
+            In deze opgave laten we de spelregels verder buiten beschouwing.
+
+            De opeenvolging van zetten tijdens een schaakspel noemen we het
+            spelverloop. Een belangrijke oorzaak waardoor een winnende strategie
+            nog niet is gevonden, is het grote aantal verschillende spelverlopen dat
+            voor kan komen. De Amerikaanse wiskundige Claude Shannon beschreef
+            dit in 1950 als eerste in zijn publicatie 'Programming a Computer for
+            Playing Chess'.
+
+            In zijn publicatie deed Shannon een ruwe schatting van het aantal
+            mogelijke spelverlopen met 10 zetten. Bij deze schatting nam hij aan dat
+            iedere keer dat een speler een schaakstuk verzet er 30 mogelijke
+            spelverlopen ontstaan.
+            De schatting van Shannon bleek veel te hoog.
+            Als bijvoorbeeld wit en zwart beide 5 keer een schaakstuk verzetten, zijn
+            er in werkelijkheid 6,93  1013 verschillende spelverlopen mogelijk met
+            deze 10 zetten.
+
+2p    1     Onderzoek hoeveel keer zo groot de schatting voor het aantal mogelijke
+            spelverlopen met 10 zetten is als het werkelijke aantal spelverlopen. Geef
+            je antwoord in één decimaal.
+
+            Al jaren wordt er ook tegen schaakprogramma’s geschaakt. Maar zelfs
+            een schaakprogramma kan niet alle mogelijke spelverlopen tot aan het
+            eind van het spel doorrekenen. Daarom rekenen schaakprogramma’s een
+            aantal zetten vooruit en beslissen op basis daarvan steeds wat de beste
+            zet is.
+
+
+
+
+VW-1024-a-26-1-o                            3 / 16                           lees verder ►►►
+            Hoe goed een schaakprogramma is in het berekenen van de beste zetten
+            en hoeveel zetten het vooruit kan rekenen bepaalt de speelsterkte van
+            het schaakprogramma. De speelsterkte wordt uitgedrukt in een geheel
+            getal.
+
+            In de periode 1985-1995 nam de speelsterkte van het sterkste
+            schaakprogramma lineair toe. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Het bedrijf IBM haalde in 1996 het nieuws met het inmiddels
+            legendarische schaakprogramma Deep Blue. Dit schaakprogramma had
+            in dat jaar een speelsterkte van 2853 en had daarmee volgens kenners
+            jaren voorsprong op andere schaakprogramma’s.
+
+4p    2     Bereken met behulp van figuur 1 in welk jaar een speelsterkte van 2853
+            verwacht had kunnen worden als de genoemde lineaire groei zich ook na
+            1995 voortzette.
+
+            Een ander bekend schaakprogramma is Stockfish. Dit had op 1 januari
+            2009 een speelsterkte van 3097. Door constante verbeteringen aan
+            Stockfish nam de speelsterkte daarna (bij benadering) lineair toe met 39
+            per jaar.
+
+
+
+
+VW-1024-a-26-1-o                           4 / 16                            lees verder ►►►
+            Begin 2010 kwam de Vlaamse programmeur Robert Houdart met het
+            schaakprogramma Houdini. Dit was op dat moment het sterkste
+            schaakprogramma ter wereld. Houdart bleef in de jaren erna
+            verbeteringen aan zijn schaakprogramma aanbrengen, waardoor de
+            speelsterkte in de eerste jaren toenam volgens de formule:
+                   RH  92,1  log(t  1)  3190
+            Hierin is RH de speelsterkte van Houdini en t de tijd in jaren met t  0 op
+            1 januari 2010.
+            De speelsterkte van Houdini nam in de jaren na 2010 langzamer toe dan
+            die van Stockfish. Daardoor was Stockfish na enkele jaren weer het
+            betere schaakprogramma.
+
+4p    3     Bereken hoelang na het uitkomen van Houdini de speelsterkte van
+            Stockfish weer gelijk was aan die van Houdini. Geef je antwoord in gehele
+            maanden.
+
+            Door een slimme nieuwe techniek slaagde Houdart erin de speelsterkte
+            van zijn schaakprogramma enorm te verbeteren. Hierdoor was op
+            1 januari 2016 de speelsterkte van Houdini 121 punten hoger dan op
+            basis van de formule voor RH verwacht mocht worden. Daarna nam de
+            speelsterkte weer veel langzamer toe tot 3433 op 1 januari 2019.
+            Deze ontwikkeling is schematisch weergegeven in figuur 2.
+
+            figuur 2
+
+
+
+
+            Met behulp van bovenstaande gegevens kan voor het deel van de grafiek
+            vanaf 2016 een formule worden opgesteld van de vorm R  a  log(t  1)  c
+            met t de tijd in jaren met t  0 op 1 januari 2016.
+4p    4     Stel deze formule op. Geef a in één decimaal en c als een geheel getal.
+
+
+
+VW-1024-a-26-1-o                                   5 / 16                      lees verder ►►►
+      De vergeetcurve
+
+            De Duitse psycholoog Hermann Ebbinghaus deed eind 19e eeuw veel
+            onderzoek naar het geheugen. Hij ontdekte dat mensen nieuwe informatie
+            goed kunnen onthouden, maar dat ze informatie ook weer snel vergeten
+            als ze er verder niets meer mee doen.
+
+            Zijn onderzoek resulteerde in de zogeheten vergeetcurve van
+            Ebbinghaus. In de figuur is de vergeetcurve weergegeven.
+
+            figuur
+
+
+
+
+            In de figuur is bijvoorbeeld af te lezen dat 1 uur na het leren van nieuwe
+            informatie nog maar 44% van die nieuw geleerde informatie onthouden is.
+
+            De horizontale as heeft een bijzondere schaalverdeling: een ‘hokje’ stelt
+            niet steeds evenveel tijd voor. Hierdoor suggereert de grafiek in de figuur
+            dat er bij benadering sprake zou zijn van exponentiële afname van het
+            percentage informatie dat onthouden is. Op internet circuleren dan ook
+            artikelen die beweren dat de vergeetcurve volgens een exponentiële
+            afname verloopt. Dit is echter niet waar.
+
+2p    5     Toon met behulp van een berekening aan dat er volgens de gegevens in
+            de figuur geen sprake kan zijn van exponentiële afname.
+
+
+
+
+VW-1024-a-26-1-o                            6 / 16                             lees verder ►►►
+            Tegenwoordig wordt ook wel gebruikgemaakt van de formule:
+                       31,7
+                   P  0,127 , met t  0
+                      t
+            Hierin is P het percentage informatie dat onthouden is en t het aantal
+            dagen dat verstreken is sinds het leren van de informatie.
+
+4p    6     Bereken met behulp van de formule voor P na hoeveel gehele minuten
+            iemand de helft van de nieuw geleerde informatie weer is vergeten.
+
+            Volgens de formule voor P is de snelheid waarmee je informatie vergeet
+            op het moment dat er een uur verstreken is, vele malen groter dan op het
+            moment dat er een week verstreken is.
+4p    7     Bereken met behulp van de formule van de afgeleide van P hoeveel keer
+            zo groot. Geef je antwoord in gehelen.
+
+
+
+
+VW-1024-a-26-1-o                            7 / 16                            lees verder ►►►
+      Hitte-eiland
+
+            Gebouwen, huizen, wegen en stenen houden veel warmte vast waardoor
+            het in steden, vooral in warme perioden, warmer wordt dan in de nabije
+            omgeving. Een stad waar de temperatuur hoger is dan de temperatuur in
+            de nabije omgeving van die stad wordt een hitte-eiland genoemd. Dat er
+            verschil in temperatuur ontstaat, wordt het stedelijk hitte-eiland effect
+            genoemd. Algemeen geldt: hoe groter een stad, hoe groter het
+            temperatuurverschil als gevolg van het stedelijk hitte-eiland effect. Hierbij
+            wordt het inwonersaantal van een stad als maat voor de grootte van een
+            stad gebruikt.
+
+            In figuur 1 is op een kaart het stedelijk hitte-eiland effect in de Randstad
+            weergegeven. De lichte vlekken op kaart die door het RIVM is uitgegeven,
+            geven de hitte-eilanden weer.
+
+            figuur 1
+
+
+
+
+            In het voorjaar van 2013 werd in het Duitse tijdschrift Meteorologische
+            Zeitschrift een onderzoek naar hitte-eilanden in Europa gepubliceerd.
+            Volgens dit onderzoek geldt voor Europese steden:
+                   Vmax  2,01  log( P)  4,06            (formule 1)
+
+            Hierin is P het inwonersaantal van de stad en Vmax het grootst mogelijke
+            verschil tussen de temperatuur van een hitte-eiland en de (lagere)
+            temperatuur in de nabije omgeving van dat hitte-eiland in graden Celsius.
+
+            Tijdens een hittegolf in de zomer van 2019 meldden diverse media dat het
+            in sommige steden in Nederland ‘wel 13 graden Celsius warmer’ zou
+            kunnen worden dan in hun nabije omgeving.
+3p    8     Bereken hoeveel inwoners een stad volgens formule 1 zou moeten
+            hebben om een temperatuurverschil van 13 graden Celsius mogelijk te
+            maken en leg daarmee uit waarom zo’n groot verschil in Nederland niet
+            reëel is.
+
+
+
+
+VW-1024-a-26-1-o                                  8 / 16                        lees verder ►►►
+            Het inwonersaantal is niet de enige factor die meespeelt bij het stedelijk
+            hitte-eiland effect. Twee andere belangrijke factoren zijn de bewolking en
+            de wind. Door deze factoren zal het werkelijke verschil tussen de
+            temperatuur van een hitte-eiland en de temperatuur in de nabije omgeving
+            meestal kleiner zijn dan Vmax . Er geldt:
+
+                   V  Vmax  C  W                            (formule 2)
+
+            Hierin is V het verschil tussen de temperatuur van een hitte-eiland en de
+            temperatuur in de nabije omgeving van dat hitte-eiland in graden Celsius,
+            C de bewolkingsfactor en W de windfactor.
+
+            In figuur 2 is geschetst hoe de mate van               figuur 2
+            bewolking N en de bewolkingsfactor C
+            samenhangen. Hierbij betekent N  0
+            dat het onbewolkt is en N  8 dat er
+            sprake is van volledige bewolking.
+
+            We bekijken de situatie dat op een dag
+            de mate van bewolking toeneemt en de
+            windfactor constant blijft. Als dan de
+            temperatuur in de nabije omgeving
+            constant blijft, daalt de temperatuur in
+            de stad.
+3p    9     Beredeneer met behulp van figuur 2 en formule 2 dat dit juist is.
+
+            Hoe harder het waait, hoe kleiner het temperatuurverschil als gevolg van
+            het stedelijk hitte-eiland effect. Hierbij heeft wind in kleine steden een
+            grotere remmende werking op het temperatuurverschil als gevolg van het
+            stedelijk hitte-eiland effect dan in grote steden. De onderzoekers spreken
+            daarom over de windlimiet. Dat is de maximale windsnelheid waarbij er
+            nog sprake is van het stedelijk hitte-eiland effect. Volgens de
+            onderzoekers geldt:
+                   L  (0,567  log( P )  0,513) 2                  (formule 3)
+            Hierin is P het inwonersaantal van de stad en L de windlimiet in m/s.
+
+            Berlijn is de grootste stad van Duitsland. In 2018 had Berlijn 3 600 000
+            inwoners. Hamburg, de tweede stad van Duitsland, had toen 1 830 700
+            inwoners. De windlimiet voor Berlijn was toen groter dan de windlimiet
+            voor Hamburg.
+3p   10     Bereken hoeveel procent groter. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1024-a-26-1-o                                      9 / 16                       lees verder ►►►
+            Voor de in figuur 2 weergegeven samenhang tussen de mate van
+            bewolking N en de bewolkingsfactor C geldt de formule:
+                   C  0,65  0,35  sin( 18 π( N  4))      (formule 4)
+
+            Voor de windfactor W stelden de onderzoekers de volgende formule op:
+                   W  0,5  0,5  sin(π( L1  v  0,5))     (formule 5)
+
+            Hierin is v de windsnelheid in m/s en L weer de windlimiet in m/s.
+
+            De warmste dag in de zomer van 2019 was 24 juli. In de nabije omgeving
+            van Eindhoven was het die dag 36,4 graden Celsius bij een windsnelheid
+            van 3 m/s en een mate van bewolking van 3.
+            Eindhoven had toen 230 000 inwoners.
+5p   11     Bereken met behulp van de vijf gegeven formules de maximum
+            temperatuur in Eindhoven op 24 juli 2019. Geef je antwoord in één
+            decimaal.
+
+
+
+
+VW-1024-a-26-1-o                                   10 / 16                       lees verder ►►►
+      Rubik’s Race
+
+            De Rubiks kubus is een puzzel in de vorm van een            foto 1
+            kubus die zelf weer kubusvormige blokjes bevat.
+            De meest bekende Rubiks kubus is de kubus die je
+            ziet op foto 1.
+
+            Er bestaan ook andere Rubiks kubussen.
+            Zie foto 2.
+
+            foto 2
+
+
+
+
+            In deze opgave wordt het getal n gebruikt voor het kubusnummer.
+            Op foto 2 zie je kubusnummers 2, 4 en 5.
+
+            Het aantal blokjes A van kubusnummer n kan worden berekend met een
+            formule van de vorm:
+                   A( n)  p  ( n  1) 2  q             (formule 1)
+            Alleen aan de buitenkant van een Rubiks kubus zitten blokjes. Zo bevat
+            de kleinste Rubiks kubus met kubusnummer 2 (zie foto 2), 8 blokjes en de
+            kubus met kubusnummer 3 bevat 26 blokjes (zie foto 1).
+3p   12     Bepaal met behulp van bovenstaande gegevens de waarden van p en q.
+            Licht je antwoord toe.
+
+            De formule voor A( n ) kan ook geschreven worden in de vorm:
+
+                   A( n)  6n 2  12n  8       (formule 2)
+3p   13     Bereken vanaf welke n een kubus meer dan 250 blokjes bevat.
+
+
+
+
+VW-1024-a-26-1-o                                11 / 16                          lees verder ►►►
+            Rubik’s Race is een spel voor twee spelers dat is geïnspireerd op de
+            Rubiks kubus. Het spel bevat tegels in zes verschillende kleuren. Elke
+            speler heeft vier tegels van elke kleur en een speelveld met vijfentwintig
+            vakjes. De speelvelden van de spelers zitten aan elkaar vast en kunnen
+            daarom niet gedraaid worden. Zie foto 3.
+
+            foto 3
+
+
+
+
+            Aan het begin van het spel plaatst elke speler zijn vierentwintig tegels op
+            het eigen speelveld. Eén van de vijfentwintig vakjes blijft dus leeg. Het
+            maakt niet uit welk vakje dat is. Zo ontstaat bij elke speler een
+            kleurenpatroon met één leeg vakje. Zie foto 3.
+
+4p   14     Bereken hoeveel verschillende kleurenpatronen er voor een speler
+            mogelijk zijn. Geef je antwoord in de vorm a 1016 met a in twee
+            decimalen.
+
+
+
+
+VW-1024-a-26-1-o                            12 / 16                            lees verder ►►►
+            De spelers verschuiven vervolgens tijdens het spel met behulp van het
+            lege vakje hun tegels, totdat er in het midden een gegeven
+            kleurenpatroon ontstaat. Degene die dit het snelst doet, is de winnaar. Op
+            foto 4 zie je een kleurenpatroon en daarnaast de speelvelden met in het
+            midden precies hetzelfde kleurenpatroon.
+
+            foto 4 – kleurenpatroon en speelvelden
+
+
+
+
+            Elke speler heeft tegels in zes verschillende kleuren. Van elke kleur heeft
+            hij vier tegels. De spelers maken daarmee een kleurenpatroon van negen
+            tegels, zoals in foto 4 te zien is.
+
+            In totaal zijn er met zes kleuren 69 verschillende kleurenpatronen van 9
+            tegels mogelijk. Er is bekend dat 68 676 van deze kleurenpatronen zes of
+            meer tegels van dezelfde kleur bevatten. In het kleurenpatroon dat de
+            speler kan maken, zitten echter nooit meer dan vier tegels van dezelfde
+            kleur.
+5p   15     Bereken hoeveel procent van alle mogelijke kleurenpatronen van 9 tegels
+            een speler kan maken. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1024-a-26-1-o                            13 / 16                           lees verder ►►►
+      Warmtepompen
+
+            In 2019 werd een deel     figuur 1
+            van de aardgasvrije
+            woningen in Nederland
+            verwarmd met behulp van
+            een warmtepomp. Een
+            warmtepomp is een
+            duurzaam alternatief voor
+            een cv-ketel op gas.
+            Warmtepompen zijn met
+            een grote opmars bezig.
+            Zie figuur 1.
+
+
+
+
+            Eind 1994 waren er 1700 warmtepompen geïnstalleerd in Nederlandse
+            woningen. Dit aantal nam bij benadering exponentieel toe tot 412 000
+            geïnstalleerde warmtepompen eind 2019.
+
+3p   16     Bereken met behulp van deze gegevens met hoeveel procent per jaar het
+            aantal geïnstalleerde warmtepompen in de periode 1994-2019 toenam.
+            Geef je antwoord in één decimaal.
+
+            De grafiek in figuur 1 kan worden benaderd met de formule:
+                   W  1700  e0,22t
+            Hierin is W het totaal aantal geïnstalleerde warmtepompen en t de tijd in
+            gehele jaren met t  0 aan het eind van 1994.
+
+            Veronderstel dat de formule voor W ook na 2019 geldt.
+4p   17     Bereken in welk jaar de jaarlijkse toename aan geïnstalleerde
+            warmtepompen voor het eerst groter is dan 200 000.
+
+
+
+
+VW-1024-a-26-1-o                           14 / 16                            lees verder ►►►
+                                                  figuur 2
+
+            In het vervolg van de opgave
+            bekijken we warmtepompen
+            die aan een buitenmuur
+            gemonteerd worden.
+            Zie figuur 2.
+
+
+
+
+            Een nadeel van warmtepompen is het geluid dat ze maken.
+            Voor warmtepompen die gemonteerd zijn zoals in de situatie in figuur 2,
+            kan het geluidsniveau op een bepaalde afstand van de warmtepomp
+            worden benaderd met de formule:
+                   L  Lmax  10  log(πr 2 ) met r  0,8
+            Hierin is L het geluidsniveau in dB (decibel) van de warmtepomp dat op
+            r meter afstand van de warmtepomp wordt waargenomen en Lmax is het
+            maximale geluidsniveau van de warmtepomp in dB.
+
+            Vanwege mogelijke geluidsoverlast is wettelijk vastgelegd dat het
+            geluidsniveau van een warmtepomp tussen 19:00 uur en 7:00 uur
+            hoogstens 40 decibel mag bedragen op de dichtstbijzijnde grens met de
+            buren.
+
+            Peter wil een warmtepomp aan een buitenmuur monteren in een situatie
+            zoals in figuur 2 waarbij hij aan de wettelijke eis wil voldoen. Het
+            maximale geluidsniveau van de warmtepomp is 53 dB.
+3p   18     Bereken in gehele decimeters de minimale afstand tussen de
+            warmtepomp en de dichtstbijzijnde grens met de buren waarbij aan de
+            wettelijke eis wordt voldaan.
+
+            Als je bij een warmtepomp vandaan loopt, neemt het geluidsniveau in het
+            begin relatief sterk af, maar vervolgens steeds minder.
+            Een daling van het geluidsniveau met minder dan 1 dB per meter kan het
+            menselijk oor niet waarnemen.
+5p   19     Bereken met behulp van de formule van de afgeleide van L vanaf welke
+            afstand, het menselijk oor de daling van het geluidsniveau niet meer kan
+            waarnemen. Geef je antwoord in meters in één decimaal.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-26-1-o                               15 / 16                      lees verder ►►►
+      Inkomsten uit apps
+
+            Al jaren groeit het gebruik van smartphones. Tegelijkertijd wordt er door
+            bedrijven die apps voor smartphones ontwikkelen meer en meer verdiend
+            aan de verkoop van die apps.
+            Toen de smartphone net in opmars was, werd er voornamelijk verdiend
+            aan spelletjes voor op je smartphone. Newzoo, een bedrijf dat de
+            spelletjesmarkt analyseert, voorspelde in 2017 in hun "Global Mobile
+            Market Report" dat de inkomsten uit overige apps, dat zijn apps die geen
+            spelletjes zijn, flink zouden gaan toenemen. Zie de figuur.
+
+            figuur
+
+
+
+
+            In het jaar 2017 waren de totale wereldwijde inkomsten uit de verkoop van
+            alle apps – dus van spelletjes en overige apps samen – gelijk aan
+            56,4 miljard dollar. Hiervan was 10,3 miljard dollar uit overige apps.
+            Newzoo voorspelde dat de totale inkomsten zouden toenemen tot
+            85 miljard dollar in het jaar 2020, waarvan 20 miljard dollar uit overige
+            apps.
+            Newzoo gebruikte twee lineaire modellen voor deze voorspellingen.
+            Newzoo ging er namelijk vanuit dat de totale inkomsten lineair zouden
+            toenemen, maar ook dat het percentage inkomsten uit overige apps ten
+            opzichte van de totale inkomsten lineair zou toenemen.
+            Veronderstel dat de modellen van Newzoo ook na 2020 zijn blijven
+            gelden. In 2020 waren de inkomsten uit de verkoop van spelletjes gelijk
+            aan 65 miljard dollar en uit de verkoop van overige apps 20 miljard dollar.
+7p   20     Onderzoek vanaf welk jaar de inkomsten uit de verkoop van overige apps
+            minstens 65 miljard dollar zullen zijn.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1024-a-26-1-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,572 @@
+                                                                 Examen HAVO
+
+                                                                      2021
+                                                                             tijdvak 2
+                                                                      dinsdag 22 juni
+                                                                    13.30 - 16.30 uur
+
+
+                                                                     wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+ HA-1024-a-21-2-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                               a b                          ad  bc
+              22 kruistabel        , met phi 
+                               c d              ( a  b )( a  c )(b  d )(c  d )
+
+                  als phi   0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”,
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp ) (met voor beide
+              groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                    X1  X 2
+              Effectgrootte E  1                , met X 1 en X 2 de steekproefgemiddelden
+                                     (
+                                   2 1
+                                       S  S 2 )
+              ( X 1  X 2 ), S1 en S2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0,4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0,4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+
+   noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-21-2-o                                  2 / 17                                      lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p (1  p )
+               p  2              , met p de steekproefproportie en n de steekproefomvang.
+                            n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-21-2-o                              3 / 17                            lees verder ►►►
+      Lichaamslengte
+
+            We bekijken een wiskundig model dat het verband geeft tussen de leeftijd
+            van Nederlandse jongens en hun (gemiddelde) lengte op die leeftijd.
+            Dit model gaat uit van drie fases: de kleutertijd (0-3 jaar), de kindertijd
+            (3-10 jaar) en de puberteit (vanaf 10 jaar). Zie de figuur.
+
+            figuur   lengte jongens
+
+
+
+
+            Tijdens de kindertijd neemt de lengte nagenoeg lineair toe. Je kunt dus
+            voor de kindertijd een formule geven waarbij je de lengte L (in centimeter)
+            uitdrukt in de leeftijd t (in jaren).
+4p    1     Stel deze formule op. Geef de getallen in je formule in één decimaal.
+
+
+
+
+HA-1024-a-21-2-o                            4 / 17                            lees verder ►►►
+            In de puberteit verloopt de groei niet meer lineair. De lengte van
+            Nederlandse jongens in de puberteit kan worden beschreven met de
+            formule:
+                                50,9
+                   Lj                        134
+                          1  1289,5  0,57t
+            Hierin is t de leeftijd in jaren en Lj de lengte in centimeters.
+
+            Rond het negentiende levensjaar, aan het eind van de puberteit, is een
+            jongen bijna uitgegroeid. De formule is echter ook te gebruiken voor de
+            jaren na de puberteit.
+4p    2     Bereken hoeveel centimeter jongens volgens de formule nog groeien
+            vanaf de dag dat ze 19 jaar worden. Geef je antwoord in één decimaal.
+
+            Er is ook een wiskundig model voor de lengte van Nederlandse meisjes in
+            de puberteit:
+                                48,3
+                   Lm                        122,6
+                          1  245, 4  0,59t
+            Hierin is t de leeftijd in jaren en Lm de lengte in centimeters.
+
+            Het is bekend dat meisjes in de eerste jaren van de puberteit gemiddeld
+            genomen langer zijn dan jongens. Ergens tussen de tiende en dertiende
+            verjaardag is het verschil in lengte tussen jongens en meisjes maximaal.
+3p    3     Bereken dit maximale lengteverschil in centimeters. Geef je antwoord in
+            één decimaal.
+
+
+
+
+HA-1024-a-21-2-o                                       5 / 17                  lees verder ►►►
+      Veiligheidsmonitor
+
+            Hoe ervaren Nederlanders de leefbaarheid van hun woonomgeving?
+            Voelen zij zich er veilig? Hoe vaak zijn ze slachtoffer van criminaliteit en
+            wat vinden ze van het functioneren van de politie? Op dit soort vragen
+            geeft de Veiligheidsmonitor antwoord. De Veiligheidsmonitor is een
+            enquête onder de Nederlandse bevolking, die jaarlijks wordt afgenomen
+            door middel van een representatieve steekproef. In 2015 waren er
+            111 000 respondenten.
+
+            In tabel 1 staat welk percentage in de steekproef het (helemaal) eens was
+            met bepaalde stellingen.
+
+            tabel 1
+                                                                                (helemaal)
+                                                                                   eens
+              In de buurt is het buiten goed verlicht.                             76%
+              In de buurt zijn wegen, paden en pleintjes goed onderhouden.         69%
+              In de buurt zijn perken, plantsoenen en parken goed
+                                                                                   67%
+              onderhouden.
+              In de buurt zijn goede speelplekken voor kinderen.                   62%
+              In de buurt zijn goede voorzieningen voor jongeren.                  26%
+
+            Met bovenstaande gegevens kun je het 95%-betrouwbaarheidsinterval
+            berekenen voor de proportie van de populatie die het (helemaal) eens is
+            met de stelling dat er in de buurt goede voorzieningen zijn voor jongeren.
+3p    4     Bereken dit 95%-betrouwbaarheidsinterval. Geef je antwoord in drie
+            decimalen.
+
+            De respondenten hebben een rapportcijfer gegeven voor de leefbaarheid
+            van hun woonomgeving. De resultaten staan in tabel 2, uitgesplitst naar
+            geslacht en naar herkomst. Hierin staan het gemiddelde rapportcijfer dat
+            elke groep heeft gegeven en de bijbehorende marge. Deze marge is gelijk
+                    S
+            aan 2     , waarin S de standaardafwijking van de gegeven rapportcijfers
+                     n
+            binnen de betreffende groep is en n de omvang van die groep in de
+            steekproef.
+
+
+
+
+HA-1024-a-21-2-o                                6 / 17                           lees verder ►►►
+            tabel 2
+
+                                         gemiddelde         marge
+                                         rapportcijfer    (afgerond)
+              geslacht
+              man                             7,4             0,0
+              vrouw                           7,4             0,0
+
+
+              herkomst
+              autochtoon                      7,5             0,0
+              westers allochtoon              7,4             0,0
+              niet-westers allochtoon         7,0             0,0
+
+
+              gehele steekproef               7,4             0,0
+
+            Doordat alle groepen behoorlijk groot zijn, is de bijbehorende marge
+            telkens heel klein. In tabel 2 zie je dat voor elke groep de marge, afgerond
+            op één decimaal, gelijk is aan 0,0.
+
+            Neem aan dat de helft van de respondenten man was.
+5p    5     Bereken hoe groot de standaardafwijking van de gegeven rapportcijfers
+            van de groep mannen maximaal was. Geef je antwoord in één decimaal.
+
+            Als je kijkt naar de uitsplitsing naar herkomst en je berekent het
+            gemiddelde van de cijfers 7,5 en 7,4 en 7,0 dan kom je uit op 7,3.
+            Dit komt niet overeen met het gemiddelde rapportcijfer van 7,4 van de
+            gehele steekproef.
+2p    6     Geef hiervan de oorzaak.
+
+
+
+
+HA-1024-a-21-2-o                            7 / 17                            lees verder ►►►
+            De respondenten gaven ook aan of zij wel of geen sociale overlast
+            ervaren. Denk hierbij bijvoorbeeld aan overlast door dronken mensen op
+            straat, drugsgebruik of rondhangende jongeren. De resultaten zijn in
+            tabel 3 in vijf groepen uitgesplitst naar de mate van stedelijkheid van de
+            woonplaats van de respondenten.
+
+            tabel 3
+
+              mate van               aantal            aantal dat sociale
+              stedelijkheid      respondenten           overlast ervaart
+              zeer sterk             25 222                  4590
+              sterk                  27 581                  3751
+              matig                  19 219                  1768
+              weinig                 19 496                  1267
+              niet                   19 482                  1052
+
+            We bekijken nu de groep respondenten van wie de woonplaats zeer sterk
+            stedelijk is en de groep respondenten van wie de woonplaats niet stedelijk
+            is.
+            Tussen deze twee groepen is er verschil in het wel of niet ervaren van
+            sociale overlast.
+3p    7     Bereken met behulp van het formuleblad of dit verschil groot, middelmatig
+            of gering is.
+
+
+
+
+HA-1024-a-21-2-o                              8 / 17                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-21-2-o                        9 / 17   lees verder ►►►
+      Verdubbelingstijd van geld
+
+            In plaats van geld sparen, kun je ook geld beleggen. Dit brengt wel een
+            risico met zich mee: het kan niet alleen winst opleveren, maar ook verlies.
+
+            Iemand stort eenmalig een bedrag in een beleggingsfonds. We gaan er in
+            deze opgave van uit dat dit bedrag exponentieel groeit. Het percentage
+            waarmee het bedrag jaarlijks groeit is het rendement.
+
+3p    8     Bereken de verdubbelingstijd in jaren als het rendement gelijk is
+            aan 1,5%. Geef je antwoord in twee decimalen.
+
+            In de tabel staat de verdubbelingstijd V in jaren voor enkele
+            rendementen P in procenten.
+
+            tabel
+              P      2,0     2,5     3,0     3,5        4,0     4,5     5,0
+              V     35,00   28,07   23,45   20,15      17,67   15,75   14,21
+
+            Het lukt Jan niet om de verdubbelingstijd bij een rendement van 2,9%
+            precies te berekenen. Hij besluit gebruik te maken van lineair interpoleren
+            en de waarden in de tabel. Zo zal hij een benadering van de
+            verdubbelingstijd vinden.
+4p    9     Bereken de benadering van de verdubbelingstijd in jaren die hij op deze
+            manier vindt. Geef je antwoord in twee decimalen.
+
+            Jans benadering van de verdubbelingstijd bij een rendement van 2,9%
+            komt hoger uit dan de precieze verdubbelingstijd. Ook bij elk ander
+            rendement kom je met lineaire interpolatie hoger uit.
+3p    10    Laat dit zien met behulp van een schets.
+
+            Er lijkt sprake te zijn van een omgekeerd evenredig verband tussen
+            P en V. Toch is er niet precies sprake van een omgekeerd evenredig
+            verband.
+2p    11    Toon aan dat er inderdaad niet precies sprake is van een omgekeerd
+            evenredig verband.
+
+
+
+
+HA-1024-a-21-2-o                             10 / 17                            lees verder ►►►
+            In het boek Mijn vermogen van de Consumentenbond staat een
+            eenvoudige vuistregel om de verdubbelingstijd bij een gegeven
+            rendement te schatten:
+
+            “Deel het getal 69 door het rendement. De uitkomst is het aantal jaren dat
+            nodig is om het vermogen te verdubbelen.”
+
+            Het verschil tussen de verdubbelingstijd uit de tabel en de
+            verdubbelingstijd volgens de vuistregel blijkt niet zo heel groot te zijn.
+3p    12    Bereken bij een rendement van 3,0% het verschil tussen de
+            verdubbelingstijd uit de tabel en die volgens de vuistregel. Geef je
+            antwoord in gehele maanden.
+
+            Met de vuistregel in het kader boven vraag 12 kun je de verdubbelingstijd
+            schatten bij een gegeven rendement. Sommige mensen willen een
+            vuistregel hebben om het omgekeerde te doen: zij willen weten welk
+            rendement nodig is bij een gegeven verdubbelingstijd.
+2p    13    Geef een vuistregel in woorden om het rendement te schatten bij een
+            gegeven verdubbelingstijd in jaren.
+
+
+
+
+HA-1024-a-21-2-o                             11 / 17                             lees verder ►►►
+      Online dating met wiskunde
+
+            Sommige mensen proberen een nieuwe relatie te vinden door gebruik te
+            maken van een datingsite. Veel datingsites gebruiken wiskundige
+            technieken om te bepalen in hoeverre twee personen bij elkaar passen.
+            Daarvoor moeten de deelnemers vragenlijsten invullen. Hierin geven zij
+            hun wensen aan, verdeeld over verschillende onderwerpen zoals
+            opleidingsniveau, leeftijd en rookgedrag van de partner.
+
+            Voor elk van de verschillende onderwerpen wordt een score berekend. De
+            score op een onderwerp noemt men de aantrekkingskracht op dit
+            onderwerp. Deze score is minimaal 0 (geen aantrekkingskracht) en
+            maximaal 10 (maximale aantrekkingskracht); het hoeft geen geheel getal
+            te zijn.
+
+
+            Om de aantrekkingskracht op het onderwerp ‘leeftijd’ te berekenen wordt
+            formule 1 gebruikt voor personen die het liefst een even oude partner
+            hebben:
+                              2
+                   A  101cL               (formule 1)
+            Hierin is A de aantrekkingskracht op het onderwerp ‘leeftijd’, L het
+            leeftijdsverschil in jaren en c een positief getal dat afhangt van hoe
+            vervelend iemand het vindt als de partner toch wat in leeftijd verschilt.
+
+            Elsemieke van 35 jaar heeft het liefst een even oude partner. Voor haar
+            geldt c  0,02 . Elsemieke heeft de keuze uit twee mogelijke partners: een
+            partner van 32 jaar en een partner van 37 jaar. Je kunt nu voor Elsemieke
+            het verschil berekenen in aantrekkingskracht op het onderwerp ‘leeftijd’
+            tussen deze twee mogelijke partners.
+3p    14    Bereken dit verschil. Geef je antwoord in één decimaal.
+
+            Voor Madeleine, die ook het liefst een partner heeft die even oud is, geldt
+            c  0,03 , dus
+                                  2
+                   A  1010,03L            (formule 2)
+            Naarmate het leeftijdsverschil groter wordt, wordt voor Madeleine de
+            aantrekkingskracht op het onderwerp ‘leeftijd’ kleiner. Je kunt
+            beredeneren dat formule 2 daarmee in overeenstemming is.
+3p    15    Geef deze redenering zonder getallen in te vullen of een schets/tekening
+            van de grafiek van A te maken.
+
+            Voor Madeleine is het verband tussen L en A niet exponentieel.
+3p    16    Laat dit met berekeningen zien.
+
+
+
+
+HA-1024-a-21-2-o                            12 / 17                             lees verder ►►►
+            Harry heeft zich ingeschreven bij datingsite MatchingMe. Deze site
+            gebruikt de aantrekkingskracht op tien onderwerpen (zoals ‘leeftijd’ en
+            ‘rookgedrag’) om voor elke mogelijke partner één eindscore te berekenen.
+            Hoe hoger de eindscore, hoe aantrekkelijker de persoon in zijn geheel
+            wordt gevonden.
+
+            MatchingMe twijfelt tussen twee formules om de eindscore E te
+            berekenen:
+                   E  101 ( A1  A2  A3  A4  A5  A6  A7  A8  A9  A10 )            (formule 3)
+                                                                             1
+                   E  ( A1  A2  A3  A4  A5  A6  A7  A8  A9  A10 )10              (formule 4)
+
+            Hierin zijn A1 tot en met A10 de aantrekkingskrachten op de tien
+            onderwerpen.
+
+            Harry ziet Bianca op MatchingMe. Haar leeftijd vindt hij perfect, omdat zij
+            even oud is als hij. Maar Bianca rookt en dat vindt hij erg onaantrekkelijk.
+            De aantrekkingskracht op het onderwerp ‘rookgedrag’ is daarom 0.
+
+            Bij het gebruik van een van de twee formules zal blijken dat Bianca zeker
+            geen geschikte partner voor Harry is.
+3p    17    Bij welke van de twee formules is dat het geval? Licht je antwoord toe met
+            een berekening.
+
+            In de tabel zie je hoe voor Harry de aantrekkingskracht van twee andere
+            vrouwen, Lizette en Sarah, op elk van de tien onderwerpen is. Ook zie je
+            de standaardafwijking van de scores van Lizette.
+
+            tabel
+
+                                          A3             A5       A6     A7      A8   A9   A10   standaard-
+                           A1     A2              A4                                              afwijking
+
+              Lizette      1       1       1      1       1       9      9       9    9    9         4
+              Sarah        5       5       5      5       5       5      5       5    5    5         …
+
+
+            Neem aan dat MatchingMe formule 4 gebruikt om de eindscore E te
+            bepalen.
+3p    18    Laat zien dat degene met de kleinste standaardafwijking in het geheel de
+            aantrekkelijkste is voor Harry.
+
+
+
+
+HA-1024-a-21-2-o                                        13 / 17                                  lees verder ►►►
+      Bevolkingsgroei
+
+            De afgelopen eeuwen is het aantal mensen op aarde sterk toegenomen.
+            Sinds enkele decennia is deze toename aan het afnemen.
+            Een mogelijke verklaring voor het afnemen van de toename is het feit dat
+            het gemiddelde aantal kinderen per vrouw in de loop der tijd kleiner is
+            geworden. Zo kregen vrouwen in 1965 gedurende hun leven gemiddeld
+            5,0 kinderen, in 2018 was dat aantal afgenomen tot 2,4 kinderen.
+
+            Neem aan dat in de periode 1965-2018 het gemiddelde aantal kinderen
+            per vrouw afnam volgens een exponentieel verband en dat die afname
+            zich daarna op dezelfde wijze voortzet.
+4p    19    Bereken het gemiddelde aantal kinderen per vrouw in 2035. Geef je
+            antwoord in één decimaal.
+
+            In figuur 1 zie je de groei van de wereldbevolking sinds 1950 en een
+            voorspelling voor de rest van de eenentwintigste eeuw.
+
+            figuur 1
+
+
+
+
+            In figuur 2 zie je het jaarlijkse aantal geboorten wereldwijd, inclusief een
+            voorspelling tot 2050.
+
+            figuur 2
+
+
+
+
+HA-1024-a-21-2-o                             14 / 17                             lees verder ►►►
+            Hoewel de wereldbevolking toeneemt, is het jaarlijks aantal geboorten de
+            afgelopen jaren redelijk stabiel. Het geboortecijfer, het aantal geboorten
+            per jaar per 1000 mensen, neemt dus af.
+
+            De figuren 1 en 2 staan vergroot op de uitwerkbijlage.
+3p    20    Bereken met behulp van de figuren op de uitwerkbijlage hoe groot het
+            geboortecijfer in het jaar 2020 was. Geef je antwoord als een geheel
+            getal.
+
+            Het sterftecijfer is het aantal overledenen per jaar per 1000 mensen.
+
+            De sterke bevolkingsgroei van de afgelopen 100 jaar kan verklaard
+            worden door het feit dat mensen langer zijn gaan leven door verbeterde
+            levensomstandigheden. Hierdoor is het sterftecijfer gedaald, waardoor er
+            minder mensen stierven dan er geboren werden.
+            Men verwacht echter over een aantal jaren wel weer een lichte toename
+            van het sterftecijfer. In de tabel zie je voor de jaren 2060 en 2080 de
+            verwachte geboortecijfers en sterftecijfers.
+
+            tabel
+
+              jaar              2060 2080
+              geboortecijfer    14,0   12,8
+              sterftecijfer      9,8   10,6
+
+            Neem aan dat het geboortecijfer vanaf 2060 lineair afneemt en het
+            sterftecijfer vanaf 2060 lineair toeneemt.
+5p    21    Bereken in welk jaar de bevolkingsgroei dan naar verwachting zal
+            stoppen.
+
+
+
+
+HA-1024-a-21-2-o                           15 / 17                            lees verder ►►►
+      Regenpijpen: dunne of dikke?
+
+            Regenwater dat op een dak valt, komt in de dakgoot terecht en daarna in
+            verticale regenpijpen. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Ook bij hevige regenval moet het water goed afgevoerd kunnen worden.
+            Je kunt daarvoor bijvoorbeeld meerdere regenpijpen plaatsen en/of kiezen
+            voor dikkere regenpijpen.
+
+            Om te berekenen hoe groot de hoeveelheid regen is die de regenpijpen
+            per dakdeel moeten kunnen afvoeren, gebruikt men de volgende formule:
+                   H  1, 8  A f
+            Hierin is H de hoeveelheid af te voeren regen in liters/minuut,
+            A de oppervlakte van het dakdeel in m2 en f een factor die afhangt van de
+            hellingshoek van het dakdeel.
+
+            In de tabel staat de factor f voor verschillende hellingshoeken.
+
+            tabel
+              hellingshoek van het dakdeel     0°-45°    46°-60°      61°-85°      86°-90°
+              factor f                            1        0,8          0,6          0,3
+
+
+            Boer Pietersma heeft een schuur gebouwd met afmetingen zoals
+            aangegeven in figuur 2. De twee dakdelen, met hellingshoeken van 70°
+            en 30°, zijn rechthoekig van vorm. De dikke verticale lijnstukken stellen
+            regenpijpen voor, maar het ligt nog niet vast hoeveel regenpijpen er
+            moeten komen. De grijze lijnstukken zijn de dakgoten.
+
+
+
+HA-1024-a-21-2-o                             16 / 17                            lees verder ►►►
+            figuur 2       voorbeeld met 2 regenpijpen links en 3 regenpijpen rechts
+
+
+
+
+            Pietersma moet kiezen voor ofwel allemaal dunne regenpijpen ofwel
+            allemaal dikke regenpijpen. De dunne pijpen hebben een diameter van
+            70 mm, de dikke hebben een diameter van 100 mm. Een dunne pijp kost
+            € 9 per meter, een dikke kost € 13 per meter.
+
+            Je kunt uitrekenen hoeveel water één regenpijp per minuut kan afvoeren.
+            Deze hoeveelheid water heet de capaciteit van de regenpijp. De dikke
+            pijpen hebben uiteraard een grotere capaciteit dan de dunne. Je kunt de
+            capaciteit van een pijp berekenen met de volgende formule:
+                   C  0,02  D 2
+            Hierin is D de diameter (in mm) en C de capaciteit (in liters/minuut).
+
+            Er is nog een voorschrift waarmee rekening gehouden moet worden. Om
+            het regenwater via de dakgoot snel genoeg af te kunnen voeren, zijn er
+            eisen aan het minimale aantal regenpijpen:
+                  Bij gebruik van dunne pijpen geldt: voor elke 10 m dakgoot moet
+                   minimaal één pijp worden aangesloten.
+                  Bij gebruik van dikke pijpen geldt: voor elke 20 m dakgoot moet
+                   minimaal één pijp worden aangesloten.
+            Pietersma houdt zich aan de genoemde voorschriften en wil regenpijpen
+            kiezen die zorgen voor de laagste kosten: ofwel allemaal dunne ofwel
+            allemaal dikke.
+9p    22    Onderzoek welk type pijp Pietersma dan moet kiezen: het dunne type of
+            het dikke type.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1024-a-21-2-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

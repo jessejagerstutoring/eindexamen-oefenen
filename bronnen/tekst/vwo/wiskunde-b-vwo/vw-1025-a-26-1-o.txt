@@ -1,0 +1,318 @@
+                                                                 Examen VWO
+
+                                                                     2026
+                                                                            tijdvak 1
+                                                                   woensdag 13 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+ Dit examen bestaat uit 17 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-26-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t )cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-26-1-o                                        2 / 10                        lees verder ►►►
+      Een punt en een lijn
+
+            Gegeven is het punt P (7, 24) en de lijn k met vergelijking 3x  4 y  0 .
+
+            De cirkel c heeft middelpunt O en gaat door punt P. Cirkel c snijdt lijn k
+            rechts van de y-as in het punt S. In figuur 1 is deze situatie weergegeven.
+
+            figuur 1
+
+
+
+
+4p    1     Bereken exact de coördinaten van S.
+
+            Het punt A ligt op lijn k met vergelijking 3x  4 y  0 . Het punt B is de
+            loodrechte projectie van punt A op de y-as. Punt A kan zo worden
+            gekozen dat de bissectrice (deellijn) van hoek OAB door punt P (7, 24)
+            gaat. In figuur 2 is deze bissectrice gestippeld weergegeven.
+
+            figuur 2
+
+
+
+
+5p    2     Bereken algebraïsch de coördinaten van A.
+
+
+
+
+VW-1025-a-26-1-o                              3 / 10                             lees verder ►►►
+      Twee snijpunten
+
+            De functie f wordt voor 0  x  2 gegeven door:
+                                             3
+                     f ( x )  2 ln( x )       1
+                                             2x
+            Op de grafiek van f ligt het punt P met xP  12 . De lijn k raakt de grafiek
+            van f in P. De lijn m staat loodrecht op lijn k en raakt de grafiek van f in
+            het punt Q. Zie de figuur.
+
+            figuur
+
+
+
+
+6p    3     Bereken exact de x-coördinaat van Q.
+
+            De functie g wordt gegeven door:
+                                             3
+                     g ( x)  2 ln(2 x )       1
+                                             4x
+            Het is mogelijk de grafiek van g te laten ontstaan uit de grafiek van f door
+            middel van één transformatie.
+2p    4     Geef deze transformatie.
+
+            De grafieken van f en g snijden elkaar in het punt S.
+4p    5     Bereken exact de x-coördinaat van S.
+
+
+
+
+VW-1025-a-26-1-o                                     4 / 10                      lees verder ►►►
+      Perforatie en oppervlakte
+
+            De functie f p wordt gegeven door:
+
+                                  x2  p
+                     f p ( x) 
+                                   x 1
+            Voor één waarde van p heeft de grafiek van f p een perforatie.
+5p    6     Bereken exact de coördinaten van deze perforatie.
+
+            Het functievoorschrift van f 0 kan voor x  1 worden geschreven als:
+
+                                       1
+                     f0 ( x)  1 
+                                     x 1
+            In de figuur is de grafiek hiervan weergegeven.
+
+            figuur
+
+
+
+
+            Het punt (2, 0) is het snijpunt van de grafiek van f 0 met de x-as.
+            V is het vlakdeel dat wordt ingesloten door de grafiek van f 0 , de x-as en
+            de lijn met vergelijking x  5 . Dit vlakdeel is in de figuur grijs gemaakt.
+3p    7     Bereken exact de oppervlakte van V.
+
+
+
+
+VW-1025-a-26-1-o                             5 / 10                               lees verder ►►►
+      Stuiterbal
+
+            In deze opgave bekijken we een vereenvoudigd model van de situatie
+            waarin iemand een stuiterbal recht omlaag laat vallen.
+            Deze bal zal dan een aantal keer stuiteren. Het moment waarop de bal de
+            grond raakt noemen we stuit. Na elke stuit komt de stuiterbal minder
+            hoog dan na de voorgaande stuit.
+
+            De hoogte van de stuiterbal tussen twee opeenvolgende keren stuiten
+            wordt steeds beschreven door een kwadratische functie van de tijd t.
+            Vanaf het loslaten tot aan de eerste stuit heet de functie h0 , tussen de
+            eerste en de tweede stuit heet de functie h1 , vervolgens h2 enzovoorts.
+            De grafieken van deze functies zijn delen van parabolen.
+
+            In deze opgave bekijken we een stuiterbal die wordt losgelaten vanaf een
+            hoogte van 1 meter op tijdstip t  0 . De eerste stuit is na 0,45 seconden.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Er geldt (bij benadering) h0 (t )  4,9t 2  1 , met t in seconden en h0 de
+            hoogte in meters.
+2p    8     Bereken algebraïsch de snelheid in m/s waarmee de stuiterbal voor het
+            eerst de grond raakt. Geef je eindantwoord in één decimaal.
+
+
+
+
+VW-1025-a-26-1-o                              6 / 10                              lees verder ►►►
+            Tussen twee opeenvolgende stuiten bereikt de stuiterbal een hoogste
+            punt. Iedere keer is de hoogte van dat hoogste punt 64% van de hoogte
+            van het voorgaande hoogste punt.
+
+            figuur 2
+
+
+
+
+            In de figuur hierboven is te zien dat de tijdsduur tussen twee
+            opeenvolgende stuiten steeds korter wordt. Deze tijdsduur Tn is in
+            seconden. We geven deze tijdsduur in seconden aan met Tn . Zo is
+            T1  0,72 de tijdsduur tussen de eerste en de tweede stuit, T2 de tijdsduur
+            tussen de tweede en derde stuit enzovoorts. T3 loopt van tijdstip K tot
+            tijdstip L.
+
+            Een formule voor Tn is:
+
+                   Tn  0,9  0,8n met n  1.
+7p    9     Stel met bovenstaande gegevens een functievoorschrift op van h3 .
+            Geef de getallen in je eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-26-1-o                                7 / 10                       lees verder ►►►
+      Lus
+
+            Het punt P beweegt volgens de bewegingsvergelijkingen
+                    x(t )  t 2 (2  t )
+                                             met 0  t  2 en t in seconden.
+                     y (t )  2t (2  t )
+
+                                                             4t  3t 2 
+            De snelheidsvector op tijdstip t is v                      .
+                                                               4  4t   
+
+            De baansnelheid van P is op één tijdstip t minimaal.
+3p   10     Bereken deze waarde van t. Geef je eindantwoord in twee decimalen.
+
+            De baan die P doorloopt is in figuur 1                            figuur 1
+            weergegeven. De pijl geeft de richting aan waarin
+            het punt de baan doorloopt.
+
+            Het punt Q doorloopt dezelfde baan als punt P.
+            Q loopt steeds 1 seconde achter op punt P en
+            beweegt in dezelfde richting als P.
+
+            Er is één tijdstip t waarop de punten P en Q op
+            gelijke hoogte liggen. In figuur 1 is deze situatie
+            weergegeven.
+4p   11     Bereken exact de lengte van lijnstuk PQ in deze
+            situatie.
+
+            De bewegingsvergelijkingen van een ander punt                     figuur 2
+            zijn gegeven door:
+                    x(t )  t 2 (2  t )
+                    
+                     y (t )  at (2  t )
+            Hierin is a een constante, waarbij a  0 .
+
+            Punt A is het punt van de baan waarbij de
+            x-coördinaat maximaal is; punt B is het punt van de
+            baan waarbij de y-coördinaat maximaal is.
+
+            Er is een waarde van a waarvoor de
+            richtingscoëfficiënt van de lijn door A en B gelijk is
+            aan  1 . In figuur 2 is deze situatie weergegeven.
+6p   12     Bereken exact deze waarde van a.
+
+
+
+
+VW-1025-a-26-1-o                                    8 / 10                               lees verder ►►►
+      Gebroken gonio
+
+            De functie f wordt gegeven door:
+                                1  2sin( x)
+                     f ( x)                 voor 0  x   en   x  3
+                                1  cos( x)
+            De lijn met vergelijking y  1 snijdt de grafiek van f in de punten A, B en
+            C, met x A  xB  xC . Zie de figuur. Hierin zijn de twee verticale
+            asymptoten gestippeld weergegeven.
+
+            figuur
+
+
+
+
+3p   13     Toon op algebraïsche wijze aan dat AB  BC .
+
+            De grafiek van f heeft een top T. Deze ligt onder de x-as. Zie de figuur.
+                                                            2
+            Voor de x-coördinaat van T geldt: 5cos ( x)  8cos( x)  3  0
+
+6p   14     Bewijs dat dit juist is.
+
+5p   15     Bereken algebraïsch de y-coördinaat van T.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1025-a-26-1-o                                   9 / 10                       lees verder ►►►
+      Begrensde inhoud
+
+                                                                                   figuur 1
+            De functie f wordt gegeven door
+                        f ( x )  e  x  e 2 x .
+            In figuur 1 is de grafiek van f weergegeven.
+            De grafiek snijdt de x-as in de oorsprong.
+            Ook is voor een waarde van p  0 de lijn met
+            vergelijking x  p weergegeven.
+            We bekijken het gebied dat wordt begrensd
+            door de lijn met vergelijking x  p , de x-as en
+            de grafiek van f.
+            Dit gebied is in figuur 1 met grijs weergegeven.
+
+            Het grijze gebied wordt gewenteld om de x-as.
+            Zo ontstaat een omwentelingslichaam.
+            Zie figuur 2.                                                          figuur 2
+
+            De inhoud van het omwentelingslichaam
+            is L p . Hiervoor geldt:
+
+                                    
+                      L p  121 π 1  6e2 p  8e3 p  3e4 p      
+6p   16     Bewijs dat bovenstaande formule voor L p
+            juist is.
+
+            Als p onbegrensd toeneemt, nadert L p tot
+            een limietwaarde L. Er is een waarde van p
+            waarvoor L p gelijk is aan de helft van de
+            limietwaarde L.
+4p   17     Bereken deze waarde van p.
+            Rond je eindantwoord af op twee decimalen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-26-1-o                                         10 / 10                                          lees verdereinde
+                                                                                                                       ►►► 
+

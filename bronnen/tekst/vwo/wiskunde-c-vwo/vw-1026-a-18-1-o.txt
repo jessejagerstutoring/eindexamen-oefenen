@@ -1,0 +1,423 @@
+                                                                 Examen VWO
+
+                                                                     2018
+                                                                            tijdvak 1
+                                                                   maandag 14 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-18-1-o
+      Windenergie
+
+            In een krant stond eind 2013 bij een artikel over de toekomst van
+            windenergie de onderstaande figuur. In de figuur wordt de kostprijs voor
+            het produceren van windenergie vergeleken met de kosten voor het
+            produceren van energie in een traditionele kolencentrale (de marktprijs).
+
+            figuur
+                                  20                                                           Legenda:
+            kostprijs windenergie
+                en marktprijs                                                                       wind op zee
+                                  18                                                                wind op land
+              in cent per kWh
+                                                                                                    marktprijs
+                                  16
+                                                       kz
+                                  14
+
+                                  12
+
+                                  10
+                                                       kl
+                                     8
+
+                                     6
+                                                       km
+                                     4
+
+                                     2
+                                     0
+                                     9     ’1         3         5        7        9        1
+                                  ’0
+                                 1-       1- 1    ’1
+                                                 1-
+                                                            ’1
+                                                            1-      1-
+                                                                        ’1    ’1
+                                                                             1-
+                                                                                       ’2
+                                                                                      1-
+                                1-       1-      1-       1-        1-       1-       1-
+
+            De grafieken zijn gebaseerd op een model van de werkelijkheid. Met
+            behulp van dit model is het mogelijk om op ieder willekeurig tijdstip de
+            kostprijs van energie uit te rekenen.
+
+            De formule voor de marktprijs km luidt:
+                   km  0, 28  t  4,3
+            De formule voor de kostprijs van windenergie kl van windmolens op land
+            luidt:
+                   kl  0,31  t  10,0
+            Voor beide formules geldt: k is de prijs in cent per kWh (kilowattuur) en t
+            is de tijd in jaren met t = 0 op 1 januari 2009.
+
+            We nemen in deze opgave aan dat de prijzen zich ook na 2020 volgens
+            deze lineaire verbanden blijven ontwikkelen.
+
+            Door de duurdere windmolens op zee is de kostprijs van windenergie van
+            die windmolens op dit moment nog steeds hoger dan die van windmolens
+            op land. Maar door de voortdurende innovaties gaat dat veranderen.
+
+
+
+VW-1026-a-18-1-o                                               2 / 11                                              lees verder ►►►
+5p    1     Stel met behulp van de figuur een formule op voor de kostprijs k z van
+            windenergie van windmolens op zee en bereken daarmee in welk jaar de
+            windenergie van land en die van zee evenveel kosten.
+
+            Rond 2011 was de kostprijs van windenergie van windmolens op land nog
+            tweemaal zo hoog als de marktprijs.
+4p    2     Bereken in welk jaar de marktprijs tweemaal zo hoog zal zijn als de
+            kostprijs van windenergie van windmolens op land.
+
+            In de provincie Flevoland staan veel windmolens en er zijn daar veel
+            huishoudens die voorzien worden van windenergie van windmolens op
+            land. Er wordt in deze provincie daarom vaak gebruikgemaakt van de
+            gemiddelde prijs van windenergie en 'traditionele' energie, dus het
+            gemiddelde van kl en km . Voor deze gemiddelde prijs k g kan een formule
+            worden opgesteld van de vorm k g  at  b .
+3p    3     Bereken de waarden van a en b in twee decimalen nauwkeurig.
+
+            In 2013 werd door alle windmolens op zee in totaal gemiddeld
+            228 000 kWh per uur opgewekt. De windmolens zijn per dag maar
+            gemiddeld 5 uur in bedrijf.
+
+            Neem aan dat een huishouden in Nederland jaarlijks ongeveer 3500 kWh
+            verbruikt.
+3p    4     Bereken hoeveel huishoudens in Nederland er geheel 2013 van energie
+            konden worden voorzien met energie van windmolens op zee. Rond je
+            antwoord af op honderdtallen.
+
+            In 2013 was de totale productie van energie door alle windmolens (op
+            land en op zee) in Nederland gelijk aan 5,95 miljard kWh. Hiermee kon in
+            5% van de landelijke energiebehoefte worden voorzien. Er werd toen
+            voorspeld dat tien jaar later windmolens, met een totale energieproductie
+            van 23 miljard kWh, in 15% van de landelijke energiebehoefte zouden
+            voorzien.
+4p    5     Bereken met hoeveel procent de totale landelijke energiebehoefte volgens
+            deze voorspelling tussen 2013 en 2023 zou toenemen. Rond je antwoord
+            af op gehele procenten.
+
+
+
+
+VW-1026-a-18-1-o                            3 / 11                            lees verder ►►►
+      Francis Bacon
+
+            Op de foto zie je een schilderij van Francis        foto
+            Bacon. Deze foto staat ook vergroot op de
+            uitwerkbijlage. Een man bevindt zich voor een
+            ruimte met donkere wanden. Het plafond en
+            de vloer zijn in iets lichtere kleuren afgebeeld.
+            Als je aanneemt dat deze ruimte balkvormig is,
+            kun je zien dat de kunstenaar deze ruimte niet
+            precies volgens de regels van het perspectief
+            heeft getekend.
+
+3p    6     Leg met behulp van de foto op de
+            uitwerkbijlage uit hoe je dit kunt zien.
+
+
+            Op de uitwerkbijlage zie je het begin van een juiste perspectieftekening
+            van een model van de balkvormige ruimte op het schilderij. Alleen de
+            achterwand en de vloer zijn aangegeven.
+3p    7     Maak deze perspectieftekening correct af.
+
+            De man op het schilderij staat voor de balkvormige         figuur
+            ruimte. Stel dat het Bacons bedoeling was om de man
+            midden voor de balkvormige ruimte te plaatsen op een       bovenaanzicht
+            afstand die de helft is van de diepte van de ruimte. In     A             B
+            de figuur zie je een bovenaanzicht van de balkvormige
+            ruimte waarin een punt P is getekend. De afstand van
+            P tot de voorkant van de ruimte is de helft van de
+            diepte van deze ruimte, dus MP  0,5  AC .
+4p    8     Teken dit punt P in de perspectieftekening op de
+                                                                         C      M     D
+            uitwerkbijlage.
+
+                                                                                P
+
+
+
+
+VW-1026-a-18-1-o                              4 / 11                            lees verder ►►►
+      Vermenigvuldigen op de handen
+
+            In Rusland en Polen gebruikten boeren vroeger soms hun handen om
+            twee getallen tussen 5 en 10 met elkaar te vermenigvuldigen.
+            De methode werkt als volgt:                  figuur
+            Je wilt bijvoorbeeld 8 maal 9 uitrekenen.
+             Steek aan beide handen vijf vingers
+                op;
+             8  5  3 , buig aan de ene hand
+                drie vingers om: zie de figuur;
+             9  5  4 , buig aan de andere hand
+                vier vingers om;
+             tel de omgebogen vingers op en
+                vermenigvuldig het antwoord met 10, dus (3  4) 10  70 ;
+               vermenigvuldig de opgestoken vingers, 2 op de ene hand en 1 op de
+                andere hand, met elkaar: 2 1  2 ;
+             tel nu de antwoorden van de vorige twee stappen bij elkaar op:
+                 70  2  72 .
+            Bij deze methode hoef je alleen maar de tafels van vermenigvuldiging van
+            de getallen van 1 tot en met 5 en van 10 uit het hoofd te kennen.
+
+3p    9     Ga na of deze methode ook het goede antwoord oplevert bij de
+            vermenigvuldiging 5 maal 5.
+
+            De methode is geldig voor alle gehele getallen tussen 5 en 10. Om dit aan
+            te tonen noemen we de getallen die we met elkaar willen
+            vermenigvuldigen x en y. Het aantal omgebogen vingers op de linkerhand
+            is nu x  5 . In het voorbeeld van de figuur: 8  5  3 . Omdat het aantal
+            omgebogen en opgestoken vingers op één hand samen 5 is, is het aantal
+            opgestoken vingers op de linkerhand in het voorbeeld
+            5  (8  5)  5  3  2 .
+
+3p   10     Leg, zonder getallenvoorbeelden te gebruiken, uit waarom als er x  5
+            vingers aan de linkerhand omgebogen zijn het aantal opgestoken vingers
+            op deze hand gelijk is aan 10  x .
+
+            Op dezelfde manier is het aantal opgestoken vingers op de rechterhand
+            gelijk aan 10  y .
+            Uit deze methode van vermenigvuldigen op de handen volgt dat een
+            uitkomst op de volgende manier berekend kan worden:
+            omgebogen vingers × 10 + opgestoken vingers ene hand × opgestoken
+            vingers andere hand
+            Oftewel: ( x  5  y  5) 10  (10  x)(10  y ) .
+4p   11     Werk de haakjes weg en laat door verder herleiden zien dat dit gelijk is
+            aan x  y .
+
+
+VW-1026-a-18-1-o                                 5 / 11                       lees verder ►►►
+      Grauwe ganzen
+
+            Grauwe ganzen eten gras en kunnen daardoor schade aan weilanden
+            veroorzaken. Om die reden wordt er veel onderzoek gedaan naar de
+            toename van het aantal grauwe ganzen in Nederland en de
+            mogelijkheden om die toename te beperken.
+
+            figuur
+                     10 000
+              aantal
+            broedparen
+
+                         1000
+
+
+
+                          100
+
+
+
+                          10
+                           1970          1980            1990           2000
+                                                                         jaar
+
+
+            In de figuur, die ook op de uitwerkbijlage staat, is het aantal broedparen
+            van de grauwe gans in Nederland weergegeven voor de jaren 1971 tot en
+            met 1998. Je ziet dat het aantal broedparen snel gegroeid is in deze
+            periode. De verticale as in de figuur heeft een logaritmische
+            schaalverdeling. Het derde punt van de grafiek, horend bij het jaar 1973,
+            ligt tussen 10 en 100.
+3p   12     Bereken met behulp van de figuur het aantal broedparen in 1973.
+
+            Voor de periode 1983-1998 kan de grafiek benaderd worden met een
+            rechte lijn. Omdat de verticale as een logaritmische schaalverdeling heeft,
+            betekent dit dat het aantal broedparen in die periode in werkelijkheid bij
+            benadering exponentieel groeide. Het aantal broedparen van de grauwe
+            gans nam toe van 220 broedparen in 1983 tot 5000 in 1998. Na 1998 nam
+            het aantal verder toe: in 2012 waren er 83 000 broedparen. We vragen
+            ons af of de exponentiële groei in de periode 1983-1998 zich na 1998 op
+            dezelfde wijze voortgezet heeft.
+4p   13     Onderzoek of het aantal van 83 000 in 2012 past bij een gelijkblijvende
+            exponentiële groei.
+
+
+
+
+VW-1026-a-18-1-o                            6 / 11                              lees verder ►►►
+            In het vervolg van de opgave gaat het niet meer over alleen de
+            broedparen van de grauwe gans, maar over alle grauwe ganzen.
+
+            Onderzoekers hebben een aantal jaren geleden een model gemaakt om
+            de kosten van de schade te berekenen die door grauwe ganzen wordt
+            veroorzaakt. Ze zijn hierbij uitgegaan van het aantal van 190 000 grauwe
+            ganzen in de zomer van 2009: de zomerganzen.
+            In de winter zijn er in Nederland twee soorten grauwe ganzen. Van de
+            zomerganzen blijft 85% ook in de winter erna. Daar komen de grauwe
+            ganzen bij die alleen in de winter in Nederland verblijven: de
+            winterganzen.
+            Het aantal zomerganzen groeit volgens dit model met 19% per jaar en het
+            aantal winterganzen met 4% per jaar. In de winter van 2009/2010 waren
+            er 301 800 winterganzen.
+
+            De totale schade in de winter van 2009/2010 bedroeg € 2 690 000. We
+            nemen aan dat de schade in een winter recht evenredig is met het totale
+            aantal grauwe ganzen in die winter.
+5p   14     Bereken het totale schadebedrag in de winter van 2017/2018 volgens dit
+            model. Rond je antwoord af op duizenden euro's.
+
+            In verband met de hoge kosten van de schade werden met ingang van het
+            jaar 2013 maatregelen getroffen om het aantal grauwe ganzen te
+            beperken, vooral de zomerganzen. Door deze maatregelen nam ná 2013
+            het aantal zomerganzen met 14% per jaar af. Het streven was om het
+            aantal zomerganzen terug te brengen tot 100 000.
+4p   15     Bereken in de zomer van welk jaar er voor het eerst minder dan 100 000
+            zomerganzen zullen zijn.
+
+
+
+
+VW-1026-a-18-1-o                           7 / 11                            lees verder ►►►
+      Het Cyrillische alfabet
+
+            Het Cyrillische alfabet is het alfabet van diverse Oost-Europese landen.
+            Het wordt onder andere gebruikt in Servië, Bulgarije en Rusland.
+
+            Hoewel er officieel maar één Cyrillisch alfabet is, hebben deze drie landen
+            elk hun eigen variant. Er geldt:
+             In deze drie landen samen worden 39 verschillende letters gebruikt.
+             Van deze 39 letters komen er 24 voor in alle drie de landen.
+             Er zijn 3 letters die alleen in Rusland voorkomen.
+             Het Bulgaarse alfabet heeft 30 letters.
+             Alle letters in het Bulgaarse alfabet komen ook voor in het Russische
+                alfabet.
+             Het Servische alfabet heeft 6 unieke letters, die dus niet in het
+                Russische of Bulgaarse alfabet voorkomen.
+
+4p   16     Onderzoek hoeveel letters het Servische alfabet heeft.
+
+            Net als ons eigen alfabet (het Latijnse alfabet) is ook het Russische
+            alfabet afgeleid van het Griekse alfabet. Het is dan ook niet verwonderlijk
+            dat er veel letters zijn die in meerdere alfabetten voorkomen. In
+            onderstaande figuur zijn alle letters uit het Latijnse, Griekse en Russische
+            alfabet weergegeven in een Venn-diagram.
+
+            figuur
+
+
+
+
+VW-1026-a-18-1-o                             8 / 11                            lees verder ►►►
+            Met behulp van logische symbolen kunnen we beschrijven in welke
+            alfabetten de letters voorkomen. We gebruiken daarvoor de volgende
+            afkortingen:
+                  G: de letter komt voor in het Griekse alfabet.
+                  R: de letter komt voor in het Russische alfabet.
+                  L: de letter komt voor in het Latijnse alfabet.
+                  A: de letter komt voor in alle drie de alfabetten.
+            De letter  behoort tot de letters waarvoor geldt: R  G
+
+            Voor een aantal letters geldt: G  L   A
+2p   17     Geef aan voor welke letters dit geldt. Licht je antwoord toe.
+
+            Iemand schrijft de volgende bewering op: ( R  G   A)  L
+3p   18     Vertaal deze logische symbolen naar een Nederlandse zin en onderzoek
+            of de bewering waar is.
+
+
+
+
+VW-1026-a-18-1-o                                 9 / 11                     lees verder ►►►
+      Toren van achtvlakken
+
+            Op de afbeelding zie je een kunstwerk van         afbeelding
+            Elt de Boer: een toren van regelmatige
+            achtvlakken op een voet. Het bovenste deel
+            van de voet is de helft van een regelmatig
+            achtvlak met daaronder een kubus waarvan de
+            ribbe dezelfde lengte heeft als die van het
+            halve achtvlak. Daarboven zie je negen hele
+            achtvlakken die naar boven toe steeds kleiner
+            worden.
+
+
+
+
+            Een regelmatig achtvlak, zie de figuur, heeft      figuur
+            12 ribben die allemaal even lang zijn. De ribbe
+            van de voet is 20 cm en die van het bovenste        ribbe
+            achtvlak is 4 cm.
+
+            De achtvlakken worden naar boven toe steeds                            hoogte
+            kleiner. De kunstenaar kan ervoor kiezen de
+            ribbe van de achtvlakken steeds met een vaste
+            factor r te vermenigvuldigen. Afgerond op twee
+            decimalen geldt dan:
+                   r  0,84
+3p   19     Bereken de waarde van r in drie decimalen nauwkeurig.
+
+
+
+
+VW-1026-a-18-1-o                           10 / 11                         lees verder ►►►
+            De kunstenaar had er ook voor kunnen kiezen om de ribbe met een vaste
+            lengte te laten afnemen. De lengten van de ribben van de opeenvolgende
+            achtvlakken vormen dan een rij die hoort bij een lineair verband. Deze rij
+            kan benaderd worden met de directe formule:
+                   un  20  1,78n
+            Hierin is n het nummer van het achtvlak. In de formule is un de lengte in
+            cm van de ribbe van het n-de achtvlak. Bij n = 0 hoort de lengte van de
+            ribbe van de voet.
+3p   20     Laat zien hoe de formule un  20  1,78n afgeleid kan worden uit de
+            gegevens.
+
+            De twee methoden zullen in het algemeen verschillende lengtes geven
+            voor de ribben van de achtvlakken uit de serie.
+4p   21     Onderzoek bij welk achtvlak uit de serie dit verschil maximaal is en geef
+            ook aan hoe groot dat verschil is. Rond je antwoord af op gehele
+            millimeters.
+
+            In de figuur op de vorige bladzijde zie je de hoogte van een achtvlak
+            aangegeven. Deze hoogte is (bij benadering) gelijk aan 1,4142 maal de
+            ribbe. Dit gegeven kun je gebruiken bij de volgende vraag.
+
+            Op de foto zie je de voet van het kunstwerk, met een     foto
+            ribbe van 20 cm. In de figuur op de uitwerkbijlage is
+            een begin gemaakt van een aanzicht van de voet van
+            het kunstwerk op schaal 1:4. Als kijkrichting is de
+            richting van de pijl op de foto genomen.
+4p   22     Maak het aanzicht op de uitwerkbijlage af. Licht je
+            werkwijze toe.
+
+
+
+
+VW-1026-a-18-1-o                            11 / 11                           lees verdereinde
+                                                                                           ►►► 
+

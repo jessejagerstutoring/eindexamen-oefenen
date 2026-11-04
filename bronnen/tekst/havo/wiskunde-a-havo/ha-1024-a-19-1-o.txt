@@ -1,0 +1,667 @@
+                                                                     Examen HAVO
+
+                                                                           2019
+                                                                                  tijdvak 1
+                                                                         donderdag 9 mei
+                                                                         13.30 - 16.30 uur
+
+
+                                                                          wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 23 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-19-1-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                               a b                      ad  bc
+              22 kruistabel       , met phi 
+                               c d             (a  b)(a  c)(b  d )(c  d )
+
+                  als phi  0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”,
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp ) (met
+              steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1              , met X 1 en X 2 de steekproefgemiddelden
+                                   (
+                                  2 1
+                                     S  S 2 )
+              ( X 1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+
+   noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-19-1-o                                  2 / 17                                      lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1  p)
+               p  2            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-19-1-o                              3 / 17                           lees verder ►►►
+      Stil asfalt
+
+            Wie naast een snelweg woont, heeft bijna altijd
+            te maken met overlast door de
+            geluidsintensiteit van het verkeer. De laatste
+            jaren probeert men deze overlast te beperken,
+            onder andere door het aanleggen van
+            zogenaamd stil asfalt.
+            Met de volgende formule kan de
+            geluidsintensiteit I worden berekend als
+            bekend is hoeveel decibel (dB) geluid er wordt geproduceerd.
+
+                   I  100,1d 9
+
+            Hierin is d de hoeveelheid geproduceerd geluid in dB en is I de
+            geluidsintensiteit in milliwatt per m2.
+
+            Een weggedeelte wordt opnieuw geasfalteerd, waarbij het oude asfalt
+            wordt vervangen door stil asfalt. De hoeveelheid geproduceerd geluid
+            daalt daardoor van 80 dB naar 74 dB.
+4p    1     Bereken met hoeveel procent de geluidsintensiteit afneemt. Geef je
+            antwoord in hele procenten.
+
+            Uit metingen blijkt dat de hoeveelheid geproduceerd geluid op stil asfalt
+            door de jaren heen stijgt. Dit komt onder andere door slijtage van het
+            asfalt. In de figuur zijn de resultaten van een aantal metingen
+            weergegeven.
+
+            figuur
+                   80
+              d
+            (dB)
+                   78
+
+                   76
+
+                   74
+
+                   72
+
+                    0
+                        0   12     24    36    48     60     72       84
+                                    t (maanden na aanleg van stil asfalt)
+
+
+
+
+HA-1024-a-19-1-o                                          4 / 17              lees verder ►►►
+            De meetgegevens liggen op en rond de lijn die door de punten  0; 73,7 
+            en  84; 77,0  gaat. De formule van deze lijn is d  a  t  73,7 . Hierin is
+            d de hoeveelheid geproduceerd geluid in dB, t de tijd in maanden na het
+            aanleggen van stil asfalt en a een constant getal.
+
+            Afgerond op twee decimalen geldt a  0,04 . De waarde van a kan
+            nauwkeuriger berekend worden.
+2p    2     Bereken a met behulp van de gegeven punten. Geef je antwoord in drie
+            decimalen.
+
+            Je kunt de formule van d invullen in de formule van I. Dan ontstaat een
+            nieuwe formule waarin de geluidsintensiteit I uitgedrukt is in het aantal
+            maanden t na het aanleggen van stil asfalt. Deze formule luidt:
+
+                   I  100,1(0,04t 73,7)9
+
+            Stil asfalt moet volgens planning worden vervangen als de
+            geluidsintensiteit I volgens de formule groter wordt dan 0,058 milliwatt
+            per m2.
+3p    3     Bereken met behulp van de laatste formule hoeveel hele maanden stil
+            asfalt volgens planning meegaat.
+
+
+
+
+HA-1024-a-19-1-o                               5 / 17                               lees verder ►►►
+      Homeopathische middelen
+
+            Homeopathische middelen worden
+            gemaakt uit grondstoffen die worden
+            gehaald uit planten, dieren of mineralen.
+            Uit deze grondstoffen wordt allereerst een
+            basisstof gemaakt, de zogenoemde
+            oertinctuur.
+            Oertinctuur is echter nog niet geschikt
+            voor gebruik. Daarvoor moet deze een
+            aantal keren verdund worden. Na deze verdunningen ontstaat dan een
+            homeopathisch middel dat gereed is voor gebruik.
+
+            Voor het verdunnen worden verschillende verdunningsreeksen gebruikt.
+            Zie de tabel.
+
+            tabel
+              D-reeks    verdunningen van 1 : 10
+              C-reeks    verdunningen van 1 : 100
+              LM-reeks   verdunningen van 1 : …
+
+            Om aan te geven welke verdunningen een oertinctuur ondergaan heeft,
+            voegt men aan de Latijnse naam van het homeopathische middel een
+            letter en een getal toe. Zo bestaat bijvoorbeeld het middel Arnica D3.
+            De toevoeging D3 geeft aan dat de oertinctuur Arnica driemaal een
+            verdunning van 1 : 10 heeft ondergaan. Het homeopathisch middel
+            Arnica D3 bestaat dus voor 1/1000e deel uit de oertinctuur Arnica.
+
+3p    4     Bereken welk deel van het homeopathisch middel Sulphur C6 uit de
+            oertinctuur Sulphur bestaat.
+
+
+
+
+HA-1024-a-19-1-o                           6 / 17                           lees verder ►►►
+            Naast de D-reeks zijn er ook de C-reeks en de LM-reeks.
+            In de C-reeks is er sprake van verdunningen waarin bij elke
+            verdunningsstap de hoeveelheid oertinctuur in het middel 99% minder
+            wordt.
+            In de LM-reeks is er sprake van verdunningen waarin bij elke
+            verdunningsstap de hoeveelheid oertinctuur in het middel 99,998% minder
+            wordt.
+3p    5     Bereken welk getal er in de tabel op de puntjes moet komen te staan.
+
+            In de D-reeks wordt het percentage oertinctuur in een homeopathisch
+            middel bij elke verdunning tien keer zo klein. Er geldt dus:
+                                      n
+                              1
+                   P  100   
+                              10 
+            Hierin is P het percentage oertinctuur in een homeopathisch middel in de
+            D-reeks en n het aantal verdunningen dat de oertinctuur ondergaan heeft.
+
+            Je kunt de formule van P herleiden tot de volgende formule:
+                   P  102n
+3p    6     Geef deze herleiding.
+
+            Iemand beweert dat de verdunning van de hoeveelheid
+            oertinctuur in Arnica montana D12 gelijk is aan de verhouding
+            van het volume van één waterdruppel tot het volume van
+            20 olympische zwembaden.
+
+            Een waterdruppel bevat ongeveer 0,05 milliliter en een olympisch
+            zwembad heeft een inhoud van ongeveer 2,5 miljoen liter water.
+4p    7     Laat zien dat de bewering klopt.
+
+
+
+
+HA-1024-a-19-1-o                           7 / 17                              lees verder ►►►
+      Examenanalyse
+
+            Ieder jaar worden de resultaten van de examens door Cito geanalyseerd.
+            In deze opgave bekijken we de resultaten van twee examens havo 2014
+            eerste tijdvak, namelijk het examen filosofie en het examen Engels.
+            Het examen filosofie werd door ongeveer 1500 kandidaten gemaakt.
+            Cito heeft de resultaten van 950 kandidaten binnengekregen en
+            geanalyseerd. De resultaten van de analysegroep staan in figuur 1 en in
+            de tabel op de uitwerkbijlage.
+
+            figuur 1
+                                                       examen havo filosofie 2014 eerste tijdvak
+                          80
+             frequentie
+                          70
+
+                          60
+
+                          50
+
+                          40
+
+                          30
+
+                          20
+
+                          10
+
+                           0
+                               0 1 2 3 4 5 6 7 8 910       15        20      25       30       35      40      44
+                                                                                                    aantal scorepunten
+
+
+            Voor het examen filosofie konden maximaal 44 scorepunten behaald
+            worden. Zowel in de figuur als in de tabel op de uitwerkbijlage kun je zien
+            dat de twee zwakste kandidaten in de analysegroep slechts 1 scorepunt
+            behaalden en dat de beste kandidaat 40 scorepunten behaalde.
+
+            Het examen filosofie had een gemiddelde score van 22,5 met een
+            standaardafwijking van 6,9. We bekijken de zwakste kandidaten in de
+            analysegroep, met een score die meer dan tweemaal de
+            standaardafwijking lager ligt dan het gemiddelde.
+
+            Als de scores normaal verdeeld zouden zijn, zou je met behulp van een
+            vuistregel van de normale verdeling kunnen berekenen hoeveel
+            kandidaten met zo’n score er in de analysegroep waren. De scores zijn
+            echter niet normaal verdeeld. Het aantal kandidaten met zo’n lage score
+            in de analysegroep blijkt toch ongeveer gelijk te zijn aan het aantal dat je
+            op grond van de normale verdeling zou verwachten.
+4p    8     Toon dit aan.
+
+
+HA-1024-a-19-1-o                                                8 / 17                                   lees verder ►►►
+            Van het examen Engels, dat door ruim 56 000 kandidaten is gemaakt, zijn
+            de resultaten van 45 813 kandidaten geanalyseerd. Deze resultaten staan
+            in figuur 2 en ook in de tabel op de uitwerkbijlage. Voor dit examen
+            konden maximaal 47 scorepunten behaald worden. De gemiddelde score
+            was 35,6 en de standaardafwijking 5,7.
+
+            figuur 2
+                                                    examen havo Engels 2014 eerste tijdvak
+                     4000
+             frequentie
+                     3500
+
+                    3000
+
+                    2500
+
+                    2000
+
+                    1500
+
+                    1000
+
+                     500
+
+                       0
+                            0 1 2 3 4 5 6 7 8 910      15        20     25       30      35      40       45 47
+                                                                                              aantal scorepunten
+
+
+            Door gebruik te maken van figuur 2 en de tabel voor Engels op de
+            uitwerkbijlage kun je berekenen hoe groot het verschil is tussen de modus
+            en de mediaan van het aantal scorepunten voor het examen Engels.
+4p    9     Bereken dit verschil. Licht je werkwijze toe.
+
+            Voor het examen filosofie behaalde 22,8% van de kandidaten in de
+            analysegroep een onvoldoende (een cijfer lager dan 5,5).
+3p    10    Laat zien dat het percentage onvoldoendes voor het examen Engels iets
+            meer dan de helft daarvan was.
+
+3p    11    Bereken het 95%-betrouwbaarheidsinterval voor het percentage
+            kandidaten met een onvoldoende voor filosofie. Geef de grenzen in één
+            decimaal.
+
+            Een Cito-medewerker wil de samenhang tussen de scores van de
+            examens filosofie en Engels onderzoeken. Zij vraagt zich af of een hoge
+            score voor filosofie ook een hoge score voor Engels betekent.
+3p    12    Welke grafische weergave is daarvoor het meest geschikt en welke extra
+            informatie is nodig om die grafische weergave te kunnen maken?
+
+
+
+
+HA-1024-a-19-1-o                                            9 / 17                                 lees verder ►►►
+                   Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-19-1-o             10 / 17                  lees verder ►►►
+      File voorkomen
+
+            Veel verkeersongevallen worden veroorzaakt door auto’s die te dicht op
+            elkaar rijden. Om ongevallen te voorkomen moeten automobilisten een
+            minimale afstand tot hun voorganger houden. Men noemt dit de veilige
+            afstand. Zie de figuur.
+
+            figuur
+
+
+
+
+              lengte auto = 4,50 meter   veilige afstand A tot de voorganger in meters
+
+                    hoeveelheid benodigd wegdek W per automobilist in meters
+
+
+            De veilige afstand tussen een auto en zijn voorganger hangt af van de
+            snelheid waarmee gereden wordt. Als beide auto’s even snel rijden, geldt:
+                           v          
+                   A  v       0,14 
+                           188        
+            Hierin is v de snelheid van beide auto’s in km per uur en A de veilige
+            afstand in meters.
+
+            Twee auto’s rijden achter elkaar met een snelheid van 93 km per uur. De
+            afstand tussen de twee auto’s is 50 meter.
+3p    13    Onderzoek of de achterste automobilist minimaal de veilige afstand tot
+            zijn voorganger aanhoudt.
+
+            De veilige afstand wordt groter als de snelheid toeneemt.
+3p    14    Beredeneer, zonder getallenvoorbeelden te gebruiken, dat de formule
+            hiermee in overeenstemming is.
+
+            Je kunt de formule van A herleiden tot een vorm zonder haakjes. Met
+            behulp van de informatie in de figuur kun je vervolgens een formule
+            opstellen van de hoeveelheid wegdek W in meters die een automobilist
+            nodig heeft als hij de veilige afstand aanhoudt. We gaan ervan uit dat de
+            lengte van een auto 4,50 meter is.
+            De formule van W is te schrijven in de vorm W  ...  v 2  ...  v  ...
+3p    15    Stel de formule van W op en herleid de formule tot de bovenstaande
+            vorm, waarbij op de puntjes getallen staan. Geef deze getallen in twee
+            decimalen.
+
+
+
+
+HA-1024-a-19-1-o                                        11 / 17                          lees verder ►►►
+            Wegbeheerder Rijkswaterstaat heeft voor een bepaald stuk snelweg een
+            formule opgesteld voor het maximale aantal auto’s dat in een bepaalde
+            tijd over dit stuk snelweg kan rijden, de zogenaamde capaciteit C. Deze
+            formule luidt:
+
+                                 1000v
+                   C
+                        4,5  0,09v  0,0035v 2
+
+            In deze formule is v de snelheid in km per uur en C de capaciteit in aantal
+            auto’s per uur.
+
+            Het blijkt dat volgens de formule de grootste waarde van C op dit stuk
+            snelweg bereikt wordt bij een vrij lage snelheid.
+3p    16    Bereken bij welke snelheid hiervan sprake is. Geef je antwoord in hele km
+            per uur.
+
+            Als er meer automobilisten van dit stuk snelweg gebruik willen maken dan
+            volgens de capaciteit C mogelijk is, ontstaat er een file. Dit kan
+            voorkomen worden als iedereen tijdig zijn snelheid aanpast.
+
+            Op matrixborden boven de snelweg geeft Rijkswaterstaat dan een
+            maximumsnelheid aan (in hele km per uur). Dit is de hoogste snelheid die
+            voorkomt dat een file ontstaat.
+
+            Op dit stuk snelweg moet in de avondspits de capaciteit minimaal
+            2500 auto’s per uur zijn om een file te voorkomen.
+4p    17    Bereken welke maximumsnelheid Rijkswaterstaat in deze situatie op de
+            matrixborden aangeeft.
+
+
+
+
+HA-1024-a-19-1-o                                  12 / 17                     lees verder ►►►
+            Rijkswaterstaat heeft op dit stuk snelweg gedurende één maandagmorgen
+            metingen verricht en bijgehouden hoeveel auto’s er passeerden. In de
+            tabel zie je de resultaten gedurende één uur. Op dit stuk snelweg is een
+            maximumsnelheid van 130 km per uur toegestaan.
+
+            tabel
+                      aantal                         aantal                       aantal
+ tijdsinterval        auto’s     tijdsinterval       auto’s   tijdsinterval       auto’s
+ 7.00-7.05 uur          73       7.20-7.25 uur        174     7.40-7.45 uur        235
+ 7.05-7.10 uur         104       7.25-7.30 uur        198     7.45-7.50 uur        267
+ 7.10-7.15 uur         142       7.30-7.35 uur        220     7.50-7.55 uur        282
+ 7.15-7.20 uur         189       7.35-7.40 uur        224     7.55-8.00 uur        265
+
+            We nemen aan dat het aantal auto’s per tijdsinterval gelijkmatig over het
+            tijdsinterval verdeeld is. Je kunt dan met behulp van de formule van C
+            bij benadering vaststellen vanaf welk moment de automobilisten vanwege
+            de capaciteit een lagere snelheid dan 130 km per uur moesten gaan
+            aanhouden.
+3p    18    Bereken binnen welk tijdsinterval de automobilisten voor het eerst een
+            lagere snelheid moesten gaan aanhouden.
+
+
+
+
+HA-1024-a-19-1-o                           13 / 17                            lees verder ►►►
+      Pasteurisatie
+
+            Sommige levensmiddelen kunnen langer houdbaar worden gemaakt door
+            ze te verhitten. Door verhitting zullen de meeste bacteriën in deze
+            levensmiddelen afsterven. Hoe langer er wordt verhit, hoe meer bacteriën
+            er afsterven.
+            Bij een bepaald type worst is in figuur 1 het aantal levende bacteriën per
+            gram worst uitgezet tegen de verhittingstijd in minuten. Daarbij is de
+            verhittingstemperatuur 70 °C. In deze figuur, die vergroot op de
+            uitwerkbijlage staat, is op de verticale as een logaritmische
+            schaalverdeling gebruikt.
+            figuur 1
+                          109
+            aantal levende
+              bacteriën
+                          108
+              per gram
+                worst
+                          107
+
+                         106
+
+                         105
+
+                         104
+
+                         103
+
+                         102
+
+                         101
+
+                         100
+                                0   1   2     3       4      5      6
+                                            verhittingstijd (minuten)
+
+
+            In figuur 1 kun je bijvoorbeeld aflezen dat er bij aanvang van de verhitting
+            300 000 000 levende bacteriën per gram worst aanwezig zijn. Na
+            6 minuten verhitting is dit aantal gedaald tot 300.
+3p    19    Bepaal na hoeveel minuten verhitting 90% van de bacteriën is
+            afgestorven. Je kunt hierbij de uitwerkbijlage gebruiken.
+
+            Vaak worden worsten veel langer dan een paar minuten verhit. Als een
+            verhitting onder de 100 °C heeft plaatsgevonden, noemt men dit
+            pasteurisatie. De onderzoeksorganisatie TNO heeft richtlijnen opgesteld
+            voor het pasteurisatieproces. Hiermee kan een slager die zelf worst
+            maakt, bepalen welke verhittingstemperatuur en verhittingstijd nodig zijn.
+            In figuur 2 zie je de verhittingstemperaturen en verhittingstijden van
+            worsten met diameters d van 40 tot en met 140 mm met tussenstappen
+            van 20 mm. Deze figuur staat ook op de uitwerkbijlage.
+
+
+HA-1024-a-19-1-o                                  14 / 17                      lees verder ►►►
+            figuur 2
+                              400
+            verhittingstijd
+              (minuten)
+                              350
+
+                              300
+                                                                    d = 140
+                              250
+
+                                                                    d = 120
+                              200
+
+                              150                                   d = 100
+
+                                                                    d = 80
+                              100
+                                                                    d = 60
+                               50
+                                                                    d = 40
+
+                                0
+                                 70   71   72   73    74       75     76      77   78       79      80    81     82
+                                                                                        verhittingstemperatuur (°C)
+
+
+            In de figuur op de uitwerkbijlage kun je aflezen dat een worst met een
+            diameter van 100 mm bij een verhittingstemperatuur van 80 °C een
+            verhittingstijd van 145 minuten nodig heeft.
+
+            Een veelgebruikte verhittingstemperatuur is 75 °C.
+4p    20    Teken in het assenstelsel op de uitwerkbijlage met behulp van figuur 2
+            een grafiek waarin de verhittingstijd is uitgezet tegen de diameter bij een
+            verhittingstemperatuur van 75 °C.
+
+            In plaats van figuur 2 gebruiken sommige slagers ook wel formules om de
+            verhittingstijd te berekenen. Bij een verhittingstemperatuur van 78 °C
+            berekent men de verhittingstijd V dan met de formule:
+                   V  0,7 d  0,0089d 2
+            Hierin is V de verhittingstijd in minuten en d de diameter van de worst
+            in mm.
+
+3p    21    Bereken met de formule de verhittingstijd van een worst met een diameter
+            van 4,5 cm bij een verhittingstemperatuur van 78 °C. Geef je antwoord in
+            hele minuten.
+
+            Een slager maakt worsten met verschillende diameters en kiest bij het
+            pasteuriseren altijd voor een verhittingstemperatuur van 78 °C. Hij wil het
+            pasteurisatieproces niet langer dan 2,5 uur laten duren.
+4p    22    Bereken met de formule welke diameter deze worsten maximaal mogen
+            hebben. Geef je antwoord in hele mm.
+
+
+
+
+HA-1024-a-19-1-o                                     15 / 17                                          lees verder ►►►
+      Autodiefstal
+
+            Elk jaar wordt een percentage van de auto’s in Nederland gestolen. Dit
+            percentage is aan het begin van deze eeuw flink gedaald. In de figuur is
+            voor de jaren 1995 tot en met 2013 zowel het percentage gestolen
+            personenauto’s (kromme) als het aantal gestolen personenauto’s
+            (staafdiagram) weergegeven.
+
+            figuur          gestolen personenauto’s Nederland 1995-2013
+                          0,60                                               30 000
+             percentage                                                               aantal
+                          0,55                                               27 500
+
+                          0,50                                               25 000
+
+                          0,45                                               22 500
+
+                          0,40                                               20 000
+
+                          0,35                                               17 500
+
+                          0,30                                               15 000
+
+                          0,25                                               12 500
+
+                          0,20                                               10 000
+
+                          0,15                                               7500
+
+                          0,10                                               5000
+
+                          0,05                                               2500
+
+                          0,00   1995
+                                 1996
+                                 1997
+                                 1998                                        0
+                                 1999
+                                 2000
+                                 2001
+                                 2002
+                                 2003
+                                 2004
+                                 2005
+                                 2006
+                                 2007
+                                 2008
+                                 2009
+                                 2010
+                                 2011
+                                 2012
+                                 2013
+                                                                      jaar
+
+
+            In de figuur is te zien dat in de laatste weergegeven jaren het percentage
+            gestolen personenauto’s ongeveer gelijk aan 0,15% bleef.
+            Ook als dit de volgende jaren zo zou blijven, dan nog neemt het aantal
+            gestolen personenauto’s toe, omdat het aantal personenauto’s in
+            Nederland toeneemt. In de tabel is voor een aantal jaren het aantal
+            personenauto’s in Nederland weergegeven.
+
+
+
+
+HA-1024-a-19-1-o                              16 / 17                               lees verder ►►►
+            tabel
+            jaar                        2001         2004   2007      2010        2013
+            aantal personenauto's
+            in Nederland (in            6,55         6,90   7,24      7,59        7,93
+            miljoenen)
+
+            Uit de tabel is af te leiden dat het aantal personenauto’s bij benadering
+            lineair toeneemt. Neem aan dat de komende jaren het percentage
+            gestolen personenauto’s blijft zoals in 2013 en dat het aantal
+            personenauto’s lineair blijft toenemen zoals in de tabel.
+6p    23    Bereken in welk jaar er voor het eerst weer meer personenauto’s gestolen
+            zullen worden dan in 2005.
+
+
+
+
+HA-1024-a-19-1-o                           17 / 17                           lees verdereinde
+                                                                                          ►►► 
+

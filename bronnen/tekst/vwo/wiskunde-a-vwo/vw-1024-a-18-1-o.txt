@@ -1,0 +1,526 @@
+                                                                      Examen VWO
+
+                                                                           2018
+                                                                                  tijdvak 1
+                                                                         maandag 14 mei
+                                                                         13.30 - 16.30 uur
+
+
+                                                                          wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-18-1-o
+            OVERZICHT FORMULES
+
+
+
+            Differentiëren
+              naam van de regel                functie                       afgeleide
+
+              somregel                          s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+              verschilregel                     s ( x)  f ( x)  g ( x)     s' ( x)  f ' ( x)  g' ( x)
+
+              productregel                      p ( x)  f ( x)  g ( x)      p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                            f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+              quotiëntregel                     q( x)                       q' ( x) 
+                                                            g ( x)                                    ( g ( x)) 2
+                                                                             k' ( x)  f ' ( g ( x))  g' ( x) of
+              kettingregel                      k ( x)  f ( g ( x))         dk df dg
+                                                                                       
+                                                                             dx dg dx
+
+
+            Logaritmen
+              regel                                                    voorwaarde
+              g
+                   log  a   g log  b   g log  ab               g > 0, g  1, a > 0, b > 0
+
+                                                   a
+              g
+                   log  a   g log  b   g log                   g > 0, g  1, a > 0, b > 0
+                                                   b
+              g
+                        
+                   log a p  p  g log  a                            g > 0, g  1, a > 0
+                               p
+                                   log  a 
+              g
+                   log  a   p                                       g > 0, g  1, a > 0, p > 0, p  1
+                                   log  g 
+
+
+
+
+VW-1024-a-18-1-o                                             2 / 15                                          lees verder ►►►
+VW-1024-a-18-1-o   3 / 15   lees verder ►►►
+      Windenergie
+
+            In een krant stond eind 2013 bij een artikel over de toekomst van
+            windenergie de onderstaande figuur. In de figuur wordt de kostprijs voor
+            het produceren van windenergie vergeleken met de kosten voor het
+            produceren van energie in een traditionele kolencentrale (de marktprijs).
+
+            figuur
+                                  20                                                           Legenda:
+            kostprijs windenergie
+                en marktprijs                                                                       wind op zee
+                                  18                                                                wind op land
+              in cent per kWh
+                                                                                                    marktprijs
+                                  16
+                                                       kz
+                                  14
+
+                                  12
+
+                                  10
+                                                       kl
+                                     8
+
+                                     6
+                                                       km
+                                     4
+
+                                     2
+                                     0
+                                     9     ’1         3         5        7        9        1
+                                  ’0
+                                 1-       1- 1    ’1
+                                                 1-
+                                                            ’1
+                                                            1-      1-
+                                                                        ’1    ’1
+                                                                             1-
+                                                                                       ’2
+                                                                                      1-
+                                1-       1-      1-       1-        1-       1-       1-
+
+            De grafieken zijn gebaseerd op een model van de werkelijkheid. Met
+            behulp van dit model is het mogelijk om op ieder willekeurig tijdstip de
+            kostprijs van energie uit te rekenen.
+
+            De formule voor de marktprijs km luidt:
+                   km  0, 28  t  4,3
+            De formule voor de kostprijs van windenergie kl van windmolens op land
+            luidt:
+                   kl  0,31  t  10,0
+            Voor beide formules geldt: k is de prijs in cent per kWh (kilowattuur) en t
+            is de tijd in jaren met t = 0 op 1 januari 2009.
+
+            We nemen in deze opgave aan dat de prijzen zich ook na 2020 volgens
+            deze lineaire verbanden blijven ontwikkelen.
+
+            Door de duurdere windmolens op zee is de kostprijs van windenergie van
+            die windmolens op dit moment nog steeds hoger dan die van windmolens
+            op land. Maar door de voortdurende innovaties gaat dat veranderen.
+
+
+
+VW-1024-a-18-1-o                                               4 / 15                                              lees verder ►►►
+5p    1     Stel met behulp van de figuur een formule op voor de kostprijs k z van
+            windenergie van windmolens op zee en bereken daarmee in welk jaar de
+            windenergie van land en die van zee evenveel kosten.
+
+            Rond 2011 was de kostprijs van windenergie van windmolens op land nog
+            tweemaal zo hoog als de marktprijs.
+4p    2     Bereken in welk jaar de marktprijs tweemaal zo hoog zal zijn als de
+            kostprijs van windenergie van windmolens op land.
+
+            In 2009 werd er in totaal 23,4 miljoen MWh energie door kolencentrales
+            geproduceerd (1 MWh is 1 megawattuur, dat is 1000 kWh). De overheid
+            heeft als doelstelling dat op den duur alle energie duurzaam moet worden
+            geproduceerd. Energie die in kolencentrales wordt geproduceerd valt niet
+            onder duurzaam geproduceerde energie.
+
+            We willen nu een model maken voor de totale kosten TK van de door
+            kolencentrales geproduceerde energie in de jaren 2009-2050. Daarvoor
+            doen we twee aannames:
+            1 De totale hoeveelheid energie TE die per jaar door kolencentrales
+                geproduceerd wordt, neemt lineair af van 23,4 miljoen MWh in 2009
+                tot 0 MWh in 2050. Er geldt dan:
+                                      23, 4
+                       TE  23, 4          j
+                                       41
+                   In deze formule is TE in miljoenen MWh en j in jaren met j  0 het
+                   jaar 2009. Bovendien is j een geheel getal.
+            2      Om de totale kosten TK van energie te berekenen in een bepaald jaar,
+                   gebruiken we de gemiddelde marktprijs g m in euro per MWh in dat
+                   jaar. Er geldt:
+                       g m  2,8  j  44, 4
+                   In deze formule is g m in euro per MWh en j in jaren met j  0 het jaar
+                   2009. Ook nu is j een geheel getal.
+
+            De totale kosten TK in een bepaald jaar zijn te berekenen door de
+            door kolencentrales geproduceerde energie te vermenigvuldigen met de
+            gemiddelde marktprijs in dat jaar. De formule voor TK is te schrijven als
+            TK  a  j 2  b  j  c .
+            In deze formule is TK in miljoenen euro’s en j in jaren met j  0 het jaar
+            2009 en is j een geheel getal.
+4p    3     Bereken de waarden van a, b en c in deze formule. Rond je antwoorden af
+            op één decimaal.
+
+
+
+
+VW-1024-a-18-1-o                                 5 / 15                           lees verder ►►►
+VW-1024-a-18-1-o   6 / 15   lees verder ►►►
+      Shannon-index
+
+            De Shannon-index H is een maat voor de diversiteit (verscheidenheid)
+            van een dieren- of plantenpopulatie in een gebied. Hoe hoger de
+            Shannon-index, hoe groter de diversiteit.
+            We kijken naar een gebied met twee soorten bomen. De formule voor de
+            Shannon-index is dan:
+                   H  ( p1 ln( p1 )  p2 ln( p2 ))
+            waarin p1 en p2 de aandelen van elke soort binnen het gebied zijn. Er
+            geldt bijvoorbeeld dat p1  0,37 als 37% van de bomen uit soort 1
+            bestaat.
+
+            Bos A bestaat voor 70% uit eiken en voor 30% uit beuken en bos B
+            bestaat voor 90% uit eiken en voor 10% uit beuken.
+3p    4     Onderzoek met de formule voor H van welk van beide bossen de
+            Shannon-index het grootst is.
+
+            In een bos met twee soorten bomen, eiken en beuken, geldt: als p het
+            aandeel eiken is, is het aandeel beuken gelijk aan 1 – p. De formule voor
+            de Shannon-index kan dan geschreven worden als:
+                   H  ( p ln( p )  (1  p ) ln(1  p ))
+3p    5     Onderzoek met de grafische rekenmachine tot welke waarde de Shannon-
+            index nadert als het aandeel eiken in het bos steeds kleiner wordt.
+
+            Met behulp van de afgeleide van H kunnen we onderzoeken bij welke
+            verhouding eiken en beuken de Shannon-index maximaal is.
+            Er geldt:
+                   dH
+                        ln( p )  ln(1  p )
+                   dp
+                                              dH
+4p    6     Bereken met behulp van               voor welke percentages eiken en beuken de
+                                              dp
+            Shannon-index H van het bos maximaal is.
+
+
+
+
+VW-1024-a-18-1-o                                       7 / 15                     lees verder ►►►
+      Bitcoins
+
+            De bitcoin is een digitale munteenheid die alleen online bestaat. Hij
+            bestaat sinds 1 januari 2009 en kan worden gebruikt om te betalen in
+            webwinkels of voor andere online diensten.
+
+            Bitcoins worden niet, zoals normaal geld, door een centrale bank in
+            omloop gebracht. In plaats daarvan zijn alle bitcoins die in omloop zijn,
+            gecreëerd door computers mee te laten werken aan oplossingen van
+            geselecteerde wiskundige problemen. Dat werkt als volgt:
+            Iedereen kan op zijn of haar computer speciale software laten draaien die
+            meewerkt aan het oplossen van zo'n wiskundig probleem. De eigenaar
+            van de computer die de oplossing voor een probleem vindt, krijgt daarvoor
+            25 (nieuw gecreëerde) bitcoins als beloning. Omdat er in 2014 iedere
+            10 minuten zo'n probleem werd opgelost, werden er op deze manier
+            iedere 10 minuten 25 bitcoins in omloop gebracht.
+
+            Op 1 januari 2014 waren er (ongeveer) 12,2 miljoen bitcoins in omloop.
+3p    7     Bereken uitgaande hiervan in welk jaar het aantal bitcoins in omloop
+            boven de 18 miljoen uitstijgt als de snelheid waarmee bitcoins in omloop
+            gebracht worden niet verandert.
+
+            In werkelijkheid blijft de snelheid waarmee bitcoins in omloop worden
+            gebracht niet gelijk aan 25 bitcoins per 10 minuten. Deze snelheid neemt
+            namelijk af. Gedurende de eerste vier jaar, van 1 januari 2009 tot
+            1 januari 2013, was de beloning per oplossing nog 50 bitcoins. De
+            beloning voor het vinden van een oplossing wordt elke vier jaar
+            gehalveerd: van 1 januari 2013 tot 1 januari 2017 is de beloning per
+            oplossing 25 bitcoins, voor de vier jaar erna 12,5 bitcoins per oplossing
+            enzovoorts.
+
+4p    8     Bereken vanaf welk jaar de beloning per oplossing minder dan één bitcoin
+            zal zijn.
+
+            Het totale aantal bitcoins dat in omloop gebracht kan worden, is begrensd.
+            Dat is een gevolg van (onder andere) het feit dat de beloning per
+            oplossing steeds gehalveerd wordt. Het totale aantal bitcoins dat in
+            omloop is, kan worden benaderd met de formule:
+                   C  21  21  0,50,25t
+            Hierin is C het totale aantal bitcoins in miljoenen en t de tijd in jaren met
+            t  0 op 1 januari 2009.
+
+3p    9     Bepaal met behulp van een redenering aan de hand van de formule de
+            grenswaarde van het totale aantal bitcoins dat in omloop is.
+
+
+
+
+VW-1024-a-18-1-o                              8 / 15                              lees verder ►►►
+            Om het totale aantal bitcoins dat in omloop is te reguleren, wordt niet
+            alleen het aantal bitcoins per oplossing kleiner gemaakt, maar wordt ook
+            de moeilijkheidsgraad van de wiskundige problemen steeds groter
+            gemaakt. Er zijn namelijk steeds meer mensen die hun computers mee
+            laten rekenen.
+            De moeilijkheidsgraad van de problemen stijgt exponentieel volgens de
+            formule D  3,65  e0,533t .
+            Hierin is D een maat voor de moeilijkheidsgraad en t de tijd in maanden
+            met t  0 op 1 januari 2013. Hierbij geldt dat hoe groter D is, hoe
+            moeilijker het op te lossen probleem is.
+
+4p   10     Stel de formule van de afgeleide van D op en beredeneer hoe je aan deze
+            formule kunt zien dat de grafiek van D toenemend stijgend is.
+
+            De formule kan zó worden herschreven dat je een moeilijkheidsgraad kunt
+            invullen en zo de tijd in maanden kunt berekenen die nodig is om die
+            moeilijkheidsgraad te bereiken.
+4p   11     Herschrijf de formule D  3,65  e0,533t zó dat t wordt uitgedrukt in D.
+
+
+
+
+VW-1024-a-18-1-o                           9 / 15                            lees verder ►►►
+      Jaarringen
+
+            Op de foto zie je een doorgezaagde boomstam.         foto
+            Hierin zijn zogenaamde jaarringen te zien. Deze
+            ontstaan doordat de boom in de zomer snel
+            groeit: dan wordt er licht gekleurd hout gevormd.
+            In de winter groeit de boom langzaam en wordt er
+            donker gekleurd hout gevormd. Zo komt er elk
+            jaar een ring bij, die uit een licht en een donker
+            gedeelte bestaat: een jaarring.
+
+            In deze opgave kijken we eerst naar de
+            groeisnelheid van de diameter (G) van een grove
+            den. Omdat een boom afwisselend snel en langzaam groeit, kun je deze
+            groeisnelheid modelleren met behulp van sinusoïden.
+
+            Voor de groeisnelheid van de diameter van een grove den gelden de
+            volgende eigenschappen:
+             de groeisnelheid is drie maanden na het ontkiemen van het zaadje
+                maximaal;
+             de groeisnelheid is negen maanden na het ontkiemen minimaal;
+             dit patroon herhaalt zich elk jaar;
+             de maximale groeisnelheid is 2,1 cm per jaar;
+             de minimale groeisnelheid is 0,3 cm per jaar.
+            Voor de groeisnelheid van de grove den kun je op basis van deze
+            eigenschappen een formule opstellen van de vorm G  a  b sin(c(t  d )) .
+            Hierin is G de groeisnelheid in cm per jaar en t de tijd in jaren na het
+            ontkiemen.
+4p   12     Bereken de waarden van a, b, c en d in deze formule. Licht je antwoord
+            toe.
+
+            Nu bekijken we de diameter van de stam van deze grove den. Daarbij kan
+            de volgende formule worden opgesteld:
+                   D  1, 2t  0,14  0,14sin(2π(t  0, 25))
+            Hierin is D de diameter van de stam in cm en t de tijd in jaren na het
+            ontkiemen met t  0 op het moment van ontkiemen.
+
+            De grafiek van D is in de figuur getekend. De grafiek staat ook vergroot
+            op de uitwerkbijlage.
+
+
+
+
+VW-1024-a-18-1-o                                  10 / 15                      lees verder ►►►
+            figuur
+
+              D 7
+            in cm
+                  6
+
+                   5
+
+                   4
+
+                   3
+
+                   2
+                                 A
+                   1
+
+                   0
+                       0   0,5       1,0   1,5   2,0   2,5   3,0   3,5   4,0   4,5    5,0     5,5
+                                                                                     t in jaren
+
+
+3p   13     Bereken met behulp van de formule op welk tijdstip de diameter een dikte
+            van 5 cm bereikt. Rond je antwoord af op hele maanden.
+
+            In de grafiek is te zien dat de diameter schommelt rondom een lijn. De
+            formule van deze lijn is T =1,2t+0,14.
+            In plaats van de diameter te berekenen met de formule voor D is deze ook
+            te benaderen met behulp van de formule van de lijn. Deze benadering zal
+            in de meeste gevallen iets afwijken van de diameter volgens de formule
+            van D.
+3p   14     Onderzoek hoe groot deze afwijking maximaal kan zijn.
+
+            De diameter van de grove den groeit in de eerste zes maanden na het
+            ontkiemen meer dan in de tweede zes maanden na het ontkiemen. Dat
+            wisselen van groeisnelheid herhaalt zich zo in de jaren daarna.
+3p   15     Bereken met behulp van de formule van D hoeveel procent van de
+            jaarlijkse groei in de eerste helft van het jaar plaatsvindt. Rond je
+            antwoord af op gehele procenten.
+
+            In het begin van deze opgave staat vermeld dat de groeisnelheid van de
+            diameter G na negen maanden ( t  0,75 ) minimaal is, namelijk
+            0,3 cm per jaar. De minimale groeisnelheid bij t  0,75 die met de formule
+            van D berekend wordt (zie punt A in de grafiek), is niet precies gelijk aan
+            0,3 cm per jaar.
+3p   16     Geef in de grafiek van D op de uitwerkbijlage nog een ander punt dan
+            punt A aan waar de groeisnelheid volgens de formule van D minimaal is
+            en bereken de minimale groeisnelheid in cm/jaar met de grafische
+            rekenmachine. Rond je antwoord af op twee decimalen.
+
+
+
+
+VW-1024-a-18-1-o                                        11 / 15                                     lees verder ►►►
+      Toren van achtvlakken
+
+            Op de afbeelding zie je een kunstwerk van         afbeelding
+            Elt de Boer: een toren van regelmatige
+            achtvlakken op een voet. Het bovenste deel
+            van de voet is de helft van een regelmatig
+            achtvlak met daaronder een kubus waarvan de
+            ribbe dezelfde lengte heeft als die van het
+            halve achtvlak. Daarboven zie je negen hele
+            achtvlakken die naar boven toe steeds kleiner
+            worden.
+
+            De kunstenaar maakt de voet zwart en van de
+            9 achtvlakken maakt hij 3 achtvlakken rood, 3
+            oranje en 3 geel.
+4p   17     Bereken op hoeveel manieren de kunstenaar
+            dit kan doen.
+
+
+
+
+            Een regelmatig achtvlak, zie de figuur, heeft     figuur
+            12 ribben die allemaal even lang zijn. De ribbe
+            van de voet is 20 cm en die van het bovenste       ribbe
+            achtvlak is 4 cm.
+                                                                                  hoogte
+            De achtvlakken worden naar boven toe steeds
+            kleiner. De kunstenaar kan ervoor kiezen de
+            ribbe van de achtvlakken steeds met een vaste
+            factor r te vermenigvuldigen. Afgerond op twee
+            decimalen geldt dan:
+                   r  0,84
+3p   18     Bereken de waarde van r in drie decimalen nauwkeurig.
+
+
+
+
+VW-1024-a-18-1-o                           12 / 15                         lees verder ►►►
+            De kunstenaar had er ook voor kunnen kiezen om de ribbe met een vaste
+            lengte te laten afnemen. De lengten van de ribben van de opeenvolgende
+            achtvlakken vormen dan een rekenkundige rij. Deze rij kan benaderd
+            worden met de directe formule in de vorm van een lineaire formule:
+                   un  20  1,78n
+            Hierin is n het nummer van het achtvlak. In de formule is un de lengte in
+            cm van de ribbe van het n-de achtvlak. Bij n = 0 hoort de lengte van de
+            ribbe van de voet.
+3p   19     Laat zien hoe de lineaire formule un  20  1,78n afgeleid kan worden uit
+            de gegevens.
+
+            De twee methoden zullen in het algemeen verschillende lengtes geven
+            voor de ribben van de achtvlakken uit de serie.
+4p   20     Onderzoek bij welk achtvlak uit de serie dit verschil maximaal is en geef
+            ook aan hoe groot dat verschil is. Rond je antwoord af op gehele
+            millimeters.
+
+
+
+
+VW-1024-a-18-1-o                            13 / 15                           lees verder ►►►
+      Sprinttrein
+
+            Veel wielerwedstrijden worden beslist in een massasprint. Er zijn ploegen
+            die zich hierin hebben gespecialiseerd. Zij stellen een zogenaamde
+            sprinttrein van zes wielrenners samen, die ervoor moet zorgen dat hun
+            ploeg de wedstrijd wint.
+
+            De ploeg Giant-Shimano, met de Duitse sprinter Marcel Kittel, heeft op
+            deze wijze een aantal etappes gewonnen in de Tour de France van 2014.
+
+            Een sprinttrein werkt als volgt: vanaf drie kilometer voor de finish gaan
+            zes renners van de ploeg om beurten aan kop rijden. Daarbij voeren ze
+            geleidelijk de snelheid op, waarna de zesde renner de taak heeft de
+            massasprint te winnen.
+
+            In een krant stond de volgende figuur (deze figuur staat ook vergroot op
+            de uitwerkbijlage). Hierin is weergegeven welk vermogen en welke
+            snelheid de renners bereiken wanneer zij aan kop rijden.
+
+            figuur
+                            Opbouw van de sprint van een team (Giant-Shimano)
+                     2000                                                                              80
+            Vermogen                                            renner 6 (de ‘afmaker’)                      Snelheid
+             in watt 1800                                                                                   in km/uur
+                                                                                                       70
+                     1600                                     renner 5 (de ‘lead out’)
+                                                                                                       60
+                     1400
+                                                                                                       50
+                     1200
+
+                     1000                                                    renner 4                  40
+                                                                renner 3
+                      800                         renner 2                                             30
+                                renner 1
+                      600
+                                                                                                       20
+                      400
+                                                                                                       10
+                      200
+
+                       0                                                                               0
+                       3000          2500       2000         1500      1000         500           0
+                     Start sprint                                                              Finish
+                                                                        afstand tot finish in meters
+                            Legenda
+                                    Vermogen in watt van de renner aan kop
+                                    Snelheid in km/uur
+
+
+
+
+VW-1024-a-18-1-o                                         14 / 15                                                  lees verder ►►►
+            Met de gegevens uit de figuur is voor iedere renner de geleverde arbeid te
+            berekenen. De arbeid van een renner is gelijk aan het vermogen
+            vermenigvuldigd met de tijdsduur in seconden.
+            Een wielerliefhebber wil onderzoeken of een renner aan kop aan het eind
+            van de sprint meer, dezelfde of minder arbeid levert dan een renner aan
+            kop aan het begin van de sprint.
+7p   21     Voer dit onderzoek uit door vermogens en snelheden te kiezen bij de door
+            jou gekozen renners en maak daarbij gebruik van de uitwerkbijlage.
+
+
+
+
+VW-1024-a-18-1-o                           15 / 15                           lees verdereinde
+                                                                                          ►►► 
+

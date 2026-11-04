@@ -1,0 +1,441 @@
+                                                                Examen HAVO
+
+                                                                     2026
+                                                                            tijdvak 2
+                                                                   woensdag 17 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-26-2-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                         ad  bc
+              22-kruistabel        , met phi                                  ,
+                              c d                (a  b)(a  c)(b  d )(c  d )
+              waarin a, b, c en d absolute aantallen zijn
+
+                  als phi  0,4 of phi  0, 4 , dan zeggen we “het verschil is groot”
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”
+
+
+
+                                    X1  X 2
+              Effectgrootte E  1                , met X 1 en X 2 de steekproefgemiddelden
+                                  2
+                                    ( S1  S 2 )
+              ( X1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”
+                  als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”
+                  als E  0, 4 , dan zeggen we “het verschil is gering”
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”
+                  in alle andere gevallen zeggen we “het verschil is gering”
+
+  noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-25-1-o                                  2 / 13                                     lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p (1  p )
+               p  2              , met p de steekproefproportie en n de steekproefomvang.
+                            n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-26-2-o                               3 / 13                           lees verder ►►►
+      Plasticafval
+
+            Jaarlijks produceren wij een grote hoeveelheid plasticafval. Een groot
+            deel hiervan wordt ingezameld en daarna gerecycled, verbrand of op een
+            afvalberg gestort. Het deel dat niet wordt ingezameld, wordt niet verwerkt.
+
+            In de figuur zie je voor Europa welk deel van het plasticafval in 2005 en in
+            2019 werd gerecyled, verbrand, gestort of niet verwerkt.
+
+            figuur    plasticafval in Europa
+
+
+
+
+            In 2005 werd er in Europa in totaal 12,26 miljoen ton plasticafval
+            geproduceerd. In 2019 was dit gestegen naar 15,26 miljoen ton.
+3p    1     Bereken hoeveel miljoen ton plasticafval in 2019 meer werd gerecycled
+            dan in 2005. Geef je antwoord in twee decimalen.
+
+            In de figuur is te zien dat in 2005 in Europa 62% van het plasticafval werd
+            gestort. In 2019 was dit percentage gedaald naar 44%. We nemen aan
+            dat het percentage gestort plasticafval in de periode 2005 - 2019 lineair is
+            gedaald.
+4p    2     Bereken hoeveel procent van het plasticafval in 2011 werd gestort. Geef
+            je antwoord als geheel getal.
+
+
+
+
+HA-1024-a-26-2-o                             4 / 13                            lees verder ►►►
+            Het gewicht aan plasticafval dat jaarlijks wereldwijd wordt geproduceerd
+            neemt exponentieel toe. Elke 15 jaar komt er 132% bij.
+4p    3     Bereken de procentuele toename per jaar. Geef je antwoord in één
+            decimaal.
+
+            De afgelopen decennia nam wereldwijd het percentage verbrand
+            plasticafval Pb toe. Het percentage gestort plasticafval Ps en het
+            percentage niet verwerkt plasticafval Pnv namen wereldwijd juist af.
+            Bij benadering geldt:
+                   Pb  0, 42  t  13,17                (formule 1)
+
+                   Ps   0, 47  t  55, 73             (formule 2)
+
+                   Pnv  0, 24  t  25,95              (formule 3)
+
+            Hierin is t het aantal jaren na 2005.
+
+            In 2005 was Pb kleiner dan Ps . Volgens formule 1 en 2 komt er echter
+            een moment waarop Pb groter zal zijn dan Ps .
+3p    4     Bereken hoeveel gehele jaren na 2005 dit voor het eerst zo is.
+
+            Voor de toekomst zijn we vooral geïnteresseerd in het percentage
+            wereldwijd gerecyled plasticafval Pr . Omdat de vier percentages Pb , Ps ,
+             Pnv en Pr samen 100% moeten zijn, kun je met behulp van formule 1, 2
+            en 3 een formule opstellen voor Pr . Deze formule is van de vorm:
+
+                   Pr  ...  t  ...                    (formule 4)
+
+            Hierin is t het aantal jaren na 2005.
+
+            Op de puntjes in formule 4 moeten getallen staan.
+4p    5     Bereken de getallen die op de puntjes in formule 4 moeten staan. Geef je
+            antwoorden in twee decimalen.
+
+
+
+
+HA-1024-a-26-2-o                               5 / 13                            lees verder ►►►
+      Huisartsen
+
+            Een groot deel van de huisartsen in Nederland heeft een eigen praktijk of
+            werkt op vaste basis in de praktijk van een andere huisarts. Het andere
+            (kleinere) deel van de huisartsen vervangt op flexibele basis collega-
+            huisartsen. Deze huisartsen worden wisselende waarnemers genoemd.
+
+            Het aantal wisselende waarnemers H W stijgt snel en kan benaderd
+            worden met de volgende formule:
+                   HW  1983  1, 0576t                   (formule 1)
+
+            Hierin is t het aantal jaren, met t  0 op 1 januari 2015.
+
+3p    6     Bereken hoeveel gehele jaren het volgens formule 1 minimaal duurt
+            voordat het aantal wisselende waarnemers is verdubbeld.
+
+            Het totaal aantal huisartsen stijgt ook, maar minder snel. Tussen
+            1 januari 2006 en 1 januari 2015 is het totaal aantal huisartsen lineair
+            gestegen tot 11 622. Dit was een toename van 20%. Uit deze gegevens is
+            af te leiden dat in deze periode het totaal aantal huisartsen jaarlijks
+            toenam met 215 huisartsen (afgerond op gehelen). De berekening van
+            deze jaarlijkse toename op basis van de gegevens geeft een resultaat met
+            meer cijfers achter de komma.
+3p    7     Voer deze berekening uit en geef je antwoord in één decimaal.
+
+            We nemen aan dat de toename van het totaal aantal huisartsen zich na
+            2015 op dezelfde wijze voortzet. Voor het totaal aantal huisartsen H Totaal
+            geldt dan bij benadering:
+                   H Totaal  215  t  11 622            (formule 2)
+
+            Hierin is t het aantal jaren, met t  0 op 1 januari 2015.
+
+4p    8     Bereken met behulp van formule 1 en 2 in welk jaar op 1 januari het
+            aantal wisselende waarnemers voor het eerst meer is dan de helft van het
+            totaal aantal huisartsen.
+
+
+
+
+HA-1024-a-26-2-o                                 6 / 13                        lees verder ►►►
+            Ondanks het stijgende aantal huisartsen is er een tekort. Daarom is het
+            belangrijk dat voldoende geneeskundestudenten voor het beroep van
+            huisarts kiezen.
+
+            Aan geneeskundestudenten is gevraagd of ze huisarts willen worden.
+            In de figuur zie je de resultaten bij deze vraag.
+
+            figuur    resultaten bij de vraag ‘Zou je huisarts willen worden?’
+
+
+
+
+            In de figuur is te zien dat er een verschil is in de mate waarin
+            geneeskundestudenten uit het eerste studiejaar en uit het zesde
+            studiejaar een voorkeur hebben om huisarts te worden.
+4p    9     Onderzoek met behulp van het formuleblad of dit verschil groot,
+            middelmatig of gering is.
+
+            De vraag ‘Zou je huisarts willen worden?’ is slechts aan een deel van de
+            geneeskundestudenten in het zesde studiejaar gesteld. Het gaat dus om
+            een steekproef. Van de geneeskundestudenten uit het zesde studiejaar
+            die deelnamen aan de steekproef gaf 19% het antwoord ‘ja’. Op basis van
+            de steekproefomvang is berekend dat het 95%-betrouwbaarheidsinterval
+            voor het percentage geneeskundestudenten uit het zesde studiejaar dat
+            ‘ja’ heeft geantwoord [13,91;24,09] is.
+4p    10    Bereken met behulp van het formuleblad de steekproefomvang onder de
+            geneeskundestudenten in het zesde studiejaar.
+
+
+
+
+HA-1024-a-26-2-o                           7 / 13                              lees verder ►►►
+      Spanwijdte en lichaamslengte
+
+            Bij de meeste mensen is de spanwijdte van de armen S net iets groter dan
+            de lichaamslengte L. Zie figuur 1.
+                                                         figuur 1
+            Met de volgende formule kun je de
+            verhouding V tussen S en L berekenen:
+
+                         S
+                   V        met S en L in meter
+                         L
+
+            Het vermoeden bestaat dat de grootte van
+            de verhouding V van invloed is op de
+            prestatie van sporters binnen de vechtsport.
+
+
+            In 2019 vochten de twee Nederlandse vechters Rico Verhoeven en
+            Badr Hari tegen elkaar. Rico was 1,96 m lang met V  1, 071 en Badr was
+            1,98 m lang met V  1, 079 .
+3p    11    Bereken het verschil in spanwijdte tussen deze twee vechters. Geef je
+            antwoord in hele centimeters.
+
+            Onder andere bij de vechtsport MMA (mixed martial arts) is onderzocht of
+            de verhouding V van invloed is op de prestatie van de vechters. In het
+            onderzoek kwamen een laagste en een hoogste waarde van V voor:
+                  vechter A had de laagste waarde van V
+                  vechter B had de hoogste waarde van V
+            Stel dat vechter A en vechter B dezelfde spanwijdte hebben.
+2p    12    Leg uit welke van de twee vechters dan de grootste lichaamslengte heeft.
+
+            In het onderzoek kwam ook een vechter voor met een spanwijdte die
+            2,5 cm langer was dan zijn lichaamslengte. Voor deze vechter geldt dus
+             S  L  0, 025 . De verhouding V die bij de vechter hoort is V  1, 01445 .
+3p    13    Bereken de lichaamslengte van deze vechter in meter. Geef je antwoord
+            in twee decimalen.
+
+
+
+
+HA-1024-a-26-2-o                              8 / 13                            lees verder ►►►
+            De UFC, de grootste MMA-organisatie ter wereld, verdeelt de vechters in
+            acht verschillende gewichtsklassen. In 2018 is per gewichtsklasse
+            onderzoek gedaan naar de verhouding V van de vechters. In de tabel zijn
+            de resultaten te zien van een steekproef onder de vechters uit de vier
+            lichtste gewichtsklassen.
+            tabel
+                                                       verhouding V
+            gewichtsklasse     minimum    gemiddelde       maximum    standaardafwijking
+            vlieggewicht         0,984       1,010          1,067           0,021
+            bantamgewicht        0,956       1,023          1,077           0,028
+            vedergewicht         0,942       1,022          1,075           0,027
+            lichtgewicht         0,985       1,029          1,058           0,028
+
+3p    14    Onderzoek met behulp van het formuleblad of het verschil in de
+            verhouding V tussen de gewichtsklassen ‘vlieggewicht’ en ‘lichtgewicht’
+            groot, middelmatig of gering is.
+
+            In figuur 2 is voor de vier zwaarste gewichtsklassen de verdeling van de
+            verhouding V met boxplots weergegeven. Met een zwarte stip is voor elke
+            gewichtsklasse de waarde van de verhouding V voor de kampioen
+            aangegeven.
+            figuur 2
+
+
+
+
+            Op basis van figuur 2 worden drie uitspraken gedaan:
+            I      De kampioen in elk van de vier gewichtsklassen behoort tot de
+                   25% vechters met de hoogste waarde van V in die gewichtsklasse.
+            II     De meerderheid van de vechters in elk van de vier gewichtsklassen
+                   heeft een verhouding V met een waarde groter dan 1,025.
+            III Op basis van de vuistregels op het formuleblad is het verschil tussen
+                elk tweetal gewichtsklassen gering, als we kijken naar de verdeling
+                van de verhouding V.
+3p    15    Leg van elke uitspraak uit of deze juist is.
+
+
+HA-1024-a-26-2-o                              9 / 13                             lees verder ►►►
+      Levensduur van apparaten
+
+            Een apparaat, zoals een vaatwasser of een stofzuiger, gaat na verloop
+            van tijd een keer kapot. Het apparaat is dan aan het einde van zijn
+            levensduur.
+
+            Een fabrikant heeft jarenlang onderzoek gedaan naar de levensduur van
+            twee van zijn vaatwassers: type A en type B. De onderzoeksresultaten
+            zijn verwerkt in de figuur.
+
+            figuur   percentage kapotte vaatwassers na t gebruiksjaren
+
+
+
+
+            In de figuur kun je bijvoorbeeld aflezen dat van beide typen vaatwassers
+            80% nog werkte na ongeveer 5,5 gebruiksjaren.
+
+            Het aantal gebruiksjaren t waarbij 25% van de vaatwassers nog werkte, is
+            voor type A en type B verschillend.
+3p    16    Bepaal het verschil in jaren tussen deze twee aantallen gebruiksjaren.
+            Geef je antwoord in één decimaal en licht je antwoord toe.
+
+
+
+
+HA-1024-a-26-2-o                           10 / 13                           lees verder ►►►
+            Fabrikanten gebruiken formules om het percentage P van de apparaten
+            dat kapot is na t gebruiksjaren te schatten. Zo’n formule is van de vorm:
+                                      t v 
+                                       
+                                       
+                   P  100  1  0,368 s  
+                                                               (formule 1)
+                                            
+                                           
+                                             
+            Hierin zijn s en v vaste waarden, die horen bij een bepaald apparaat.
+
+            Een fabrikant gebruikt formule 1 voor de levensduur van zijn
+            broodroosters. Bij de broodroosters horen s  4 en v  2 . Formule 1 is
+            dan te herleiden tot:
+                                                      2
+                   P  100  100  0,3680, 0625  t             (formule 2)
+            Met P het percentage van de apparaten dat kapot is na t gebruiksjaren.
+
+4p    17    Geef deze herleiding.
+
+3p    18    Bereken hoeveel procent van de broodroosters volgens formule 2
+            gedurende het derde gebruiksjaar kapot zal gaan. Geef je antwoord in
+            hele procenten.
+
+            Op den duur gaan alle broodroosters een keer kapot.
+3p    19    Beredeneer dit met behulp van formule 2, zonder gebruik te maken van
+            getallenvoorbeelden.
+
+            Een fabrikant gebruikt formule 1 voor de levensduur van zijn stofzuigers.
+            Bij de stofzuigers hoort v  3. Uit een marktonderzoek is bekend dat 736
+            van de 920 verkochte stofzuigers kapot waren na zes gebruiksjaren.
+4p    20    Bereken met behulp van formule 1 de waarde van s die bij deze
+            stofzuigers hoort. Geef je antwoord in één decimaal.
+
+
+
+
+HA-1024-a-26-2-o                                      11 / 13                 lees verder ►►►
+      Eitje koken op vakantie
+
+            Richard gaat in de zomer op kampeervakantie, eerst naar
+            de Zuid-Franse kust op zeeniveau en later naar de
+            Franse Alpen op 2000 meter boven zeeniveau. Op beide
+            plaatsen gaat hij dagelijks een ei koken met dezelfde
+            gasbrander, dezelfde pan en evenveel water met dezelfde
+            begintemperatuur. Hij vraagt zich af op welke plaats het
+            bereiden van het ei het langst zal duren.
+
+            Om het ei te bereiden, warmt Richard eerst het water van 10 °C op tot de
+            kooktemperatuur. De opwarming verloopt op beide plaatsen lineair met
+            een snelheid van 14,5 °C per minuut. Zodra het water kookt, legt hij er
+            een ei in en laat dit net zo lang in het kokende water liggen tot het
+            hardgekookt is.
+
+            De luchtdruk in de bergen is lager dan op zeeniveau. Zie figuur 1, waarin
+            het verband is weergegeven tussen de luchtdruk en de hoogte boven
+            zeeniveau.
+
+            figuur 1
+
+
+
+
+HA-1024-a-26-2-o                           12 / 13                           lees verder ►►►
+            Door de lagere luchtdruk in de bergen, kookt water daar bij een lagere
+            temperatuur dan op zeeniveau. Zie figuur 2, waarin het verband is
+            weergegeven tussen de luchtdruk en de temperatuur waarbij water kookt.
+
+            figuur 2
+
+
+
+
+            Het duurt in de bergen dus korter om het water aan de kook te brengen.
+            Maar door de lagere kooktemperatuur moet een ei op 2000 meter boven
+            zeeniveau 2 minuten langer in het kokende water liggen dan op zeeniveau
+            tot het hardgekookt is. De totale tijd die nodig is om water aan de kook te
+            brengen en om het ei te koken tot het hardgekookt is, noemen we de
+            bereidingstijd.
+
+7p    21    Onderzoek of de bereidingstijd van een ei op 2000 meter boven
+            zeeniveau langer of korter is dan op zeeniveau en bereken het verschil in
+            bereidingstijd. Geef je antwoord in hele seconden.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1024-a-26-2-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

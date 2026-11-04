@@ -1,0 +1,334 @@
+                                                      Examen VMBO-KB
+
+                                                                 2021
+                                                                        tijdvak 2
+                                                               maandag 21 juni
+                                                               13.30 - 15.30 uur
+
+
+                                                        wiskunde CSE KB
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 68 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+KB-0153-a-21-2-o
+             OVERZICHT FORMULES:
+
+
+
+             omtrek cirkel =   diameter
+
+
+             oppervlakte cirkel =   straal 2
+
+
+             inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+             inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+             inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud bol = 34    straal 3
+
+
+
+
+KB-0153-a-21-2- o                             2 / 13                 lees verder ►►►
+       Anne Frank Huis
+
+
+
+
+             Het Anne Frank Huis staat in Amsterdam en is in 1635 gebouwd.
+
+1p     1     Hoeveel jaar geleden is dit huis gebouwd?
+
+             In het jaar 1998 kwamen er 600 000 bezoekers naar het Anne Frank Huis.
+             Dit aantal is gestegen tot 1 200 000 bezoekers in 2018.
+
+2p     2     Bereken met hoeveel procent het aantal bezoekers deze 20 jaar is
+             toegenomen. Schrijf je berekening op.
+
+3p     3     In 2018 kwamen er 1 200 000 bezoekers naar het Anne Frank Huis. Van
+             deze bezoekers kwam 95% uit het buitenland. Van deze buitenlandse
+             bezoekers was 38% jonger dan 30 jaar.
+              Bereken hoeveel buitenlandse bezoekers jonger dan 30 jaar het
+                 Anne Frank Huis in 2018 hebben bezocht. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-2- o                          3 / 13                            lees verder ►►►
+       Waterberging
+
+             Onder de parkeergarage van het Museumpark in Rotterdam is een grote
+             waterberging gebouwd. Deze waterberging vangt regenwater op. De
+             waterberging is 60 meter lang, 30 meter breed en 7 meter diep.
+
+
+
+
+3p     4     Bereken hoeveel miljoen liter regenwater de waterberging kan opvangen.
+             Schrijf je berekening op. Geef je antwoord in één decimaal.
+
+             Als het hard regent, kan in 25 minuten 10 miljoen liter water de
+             waterberging instromen. Er is een verband tussen W (de hoeveelheid
+             water) in miljoenen liters en t (de tijd) in minuten.
+
+2p     5     Op de uitwerkbijlage zie je een grafiek van de hoeveelheid water in de
+             waterberging.
+              Maak een formule bij deze grafiek.
+
+4p     6     Na een regenbui zit er 9,4 miljoen liter water in de waterberging. Het
+             water wordt uit de waterberging het riool ingepompt met 0,9 miljoen liter
+             per uur.
+              Teken in het assenstelsel op de uitwerkbijlage de grafiek van de
+                hoeveelheid water in de waterberging tijdens het leegpompen tot de
+                waterberging leeg is. Maak zelf een juiste schaalverdeling langs de
+                horizontale as.
+
+
+
+
+KB-0153-a-21-2- o                            4 / 13                            lees verder ►►►
+             Er is ook een andere waterberging in Rotterdam. Het dak van deze
+             waterberging steunt op 22 440 pvc-buizen die volgestort zijn met beton.
+
+
+
+
+5p     7     De pvc-buizen hebben een binnendiameter van 11 cm en zijn 49 cm hoog.
+              Hoeveel m3 beton is er gebruikt voor het vullen van de pvc-buizen?
+                Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-2- o                           5 / 13                           lees verder ►►►
+       Molen
+
+
+
+
+             Je ziet een foto van een molen met daarnaast een tekening van de
+             vier wieken. De vier wieken zijn even groot en maken een rechte hoek
+             met elkaar.
+
+1p     8     Is de tekening lijnsymmetrisch? Zo ja, hoeveel symmetrieassen heeft de
+             tekening?
+
+2p     9     Is de tekening draaisymmetrisch? Zo ja, hoeveel graden is de kleinste
+             draaihoek?
+
+             De afstand tussen punt A en punt C is 28 meter.
+
+
+
+
+2p    10     Bereken hoeveel meter punt A heeft afgelegd na één keer ronddraaien.
+             Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-2- o                           6 / 13                           lees verder ►►►
+             Op een feestdag worden de uiteinden van de wieken met elkaar
+             verbonden door één lint met vlaggetjes. Het lint begint bij punt A in de
+             wiek en gaat via de punten B, C en D helemaal rond. Je ziet hieronder
+             een schets, in werkelijkheid zitten er meer vlaggetjes aan het lint.
+
+
+
+
+5p    11     Laat met een berekening en zonder te meten zien dat de lengte van het
+             lint afgerond 79,2 meter is.
+
+
+
+
+5p    12     Aan het lint zitten 120 vlaggetjes. De ruimte tussen de vlaggetjes is
+             15 cm. Het lint begint en eindigt met een heel vlaggetje.
+              Bereken, zonder te meten, de breedte in centimeters van
+                één vlaggetje. Schrijf je berekening op.
+
+             Het lint heeft een patroon dat zich herhaalt. Dit patroon bestaat uit deze
+             vijf vlaggetjes.
+
+
+
+
+2p    13     Het lint begint met een gestreept vlaggetje.
+              Hoeveel van de 120 vlaggetjes zijn zwart? Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-2- o                             7 / 13                            lees verder ►►►
+       Radiator
+
+             Amir heeft een nieuw huis gekocht. Hij gaat radiatoren kopen om de
+             kamers in zijn huis te verwarmen.
+
+
+
+
+             De maximale warmte die een radiator kan afgeven is de warmtecapaciteit.
+
+             De benodigde warmtecapaciteit van de radiator hangt af van de
+             aanbevolen temperatuur en van de inhoud van de kamer.
+
+             Op een internetpagina van een bedrijf dat radiatoren verkoopt, ziet Amir
+             de volgende tabel:
+
+             type radiator        warmtecapaciteit        prijs
+                                      in watt           in euro’s
+             Plana Integrale 12          1251           € 189,85
+             Plana Integrale 13          2390           € 283,51
+             Plana Integrale 14          2988           € 336,76
+             Plana Integrale 15          3586           € 382,55
+             Plana Integrale 16          4183           € 430,19
+
+3p    14     Amir wil in zijn woonkamer twee radiatoren ophangen die samen minstens
+             6053 watt aan warmtecapaciteit leveren.
+              Bereken hoeveel euro Amir minimaal moet betalen voor de
+                twee radiatoren. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-21-2- o                            8 / 13                           lees verder ►►►
+             In onderstaande tabel staat de aanbevolen temperatuur per kamer.
+
+             kamer                          aanbevolen temperatuur
+             woonkamer                      22 °C
+             slaapkamer                     18 °C
+             badkamer                       24 °C
+             keuken                         20 °C
+
+             Om de benodigde warmtecapaciteit te berekenen, gebruikt Amir de
+             volgende woordformule:
+
+                    warmtecapaciteit = temperatuur  3,86  inhoud
+
+             Hierbij is warmtecapaciteit in watt, temperatuur is de aanbevolen
+             temperatuur in °C en inhoud is de inhoud van de kamer in m3.
+
+2p    15     De woonkamer van Amir is 4 m bij 6,6 m en 2,7 m hoog.
+              Laat met een berekening zien dat de benodigde warmtecapaciteit voor
+                Amirs woonkamer afgerond 6053 watt is.
+
+             Amir heeft een designradiator gezien die hij voor zijn badkamer wil kopen.
+
+
+
+
+             De inhoud van de badkamer is 32 m3 en de designradiator levert
+             2988 watt aan warmtecapaciteit.
+
+3p    16     Bereken hoeveel °C de temperatuur in de badkamer van Amir is met deze
+             designradiator. Schrijf je berekening op en geef je antwoord in
+             één decimaal.
+
+
+
+
+KB-0153-a-21-2- o                              9 / 13                            lees verder ►►►
+       Ademhalen
+
+             Je ziet de grafiek van een normale ademhaling van Daphne. De grafiek
+             geeft het verband weer tussen de tijd in seconden en de hoeveelheid
+             lucht in liters in de longen van Daphne.
+
+
+
+
+1p    17     Wat is de wiskundige naam van dit verband?
+
+3p    18     Laat met een berekening zien dat Daphne 7,5 liter lucht per minuut
+             inademt.
+
+3p    19     Ingeademde lucht bestaat voor 21% uit zuurstof.
+              Bereken hoeveel liter zuurstof Daphne per 24 uur inademt. Schrijf je
+                berekening op.
+
+4p    20     Daphne gaat trainen. Haar ademhaling gaat 2 keer zo snel. Ze ademt per
+             keer evenveel lucht in als in rust.
+              Teken op de uitwerkbijlage de grafiek van twee ademhalingen van
+                Daphne tijdens het trainen. Begin bij 12 seconden met een inademing.
+
+
+
+
+KB-0153-a-21-2- o                           10 / 13                          lees verder ►►►
+             Ga verder op de volgende pagina.
+
+
+
+
+KB-0153-a-21-2- o                       11 / 13   lees verder ►►►
+       Prikkeldraad
+
+
+
+
+             Een boer gaat een rechthoekig deel van zijn land afzetten met 120 meter
+             prikkeldraad. Aan één kant grenst het land aan een sloot, daar is geen
+             prikkeldraad nodig.
+
+
+
+
+3p    21     Bereken hoeveel m2 de oppervlakte O van het afgezette rechthoekige stuk
+             land is als de breedte b = 15 meter is. Schrijf je berekening op.
+
+1p    22     Leg uit waarom b niet 70 meter kan zijn.
+
+
+
+
+KB-0153-a-21-2- o                           12 / 13                         lees verder ►►►
+             De boer heeft 120 meter prikkeldraad. Hij weet dat hij de oppervlakte van
+             de afgebakende rechthoek kan berekenen met de formule:
+
+                    O = 120b – 2b2
+
+             Hierin is O de oppervlakte in m2 en b de breedte in meters.
+
+2p    23     Bereken, met behulp van de formule, hoeveel m2 de oppervlakte is bij
+             b = 30 meter. Schrijf je berekening op.
+
+             Op de uitwerkbijlage is de grafiek van deze formule getekend.
+
+3p    24     Vul op de uitwerkbijlage de tabel in die bij bovenstaande formule hoort en
+             maak bij de grafiek zelf een juiste schaalverdeling bij de verticale as.
+
+3p    25     De boer wil dat het rechthoekige stuk land een oppervlakte heeft van
+             1750 m2. Bij een breedte van 25 meter is de oppervlakte 1750 m2.
+              Bij welke breedte in meters is de oppervlakte van het afgebakende
+                stuk land ook 1750 m2? Laat zien hoe je aan je antwoord komt.
+
+
+
+
+KB-0153-a-21-2- o                           13 / 13                           lees verdereinde
+                                                                                           ►►► 
+

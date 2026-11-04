@@ -1,0 +1,403 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2019
+                                                                        tijdvak 2
+                                                               maandag 17 juni
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 70 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-19-2-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-19-2-o                             2 / 12                 lees verder ►►►
+      Konijnenhok
+
+            Je ziet op de foto een konijnenhok op een grasveld staan.
+
+
+
+
+1p    1     Het konijnenhok heeft de vorm van een wiskundige ruimtefiguur.
+             Wat is de naam van deze wiskundige ruimtefiguur?
+
+            Met de dikte van de planken hoef je in deze opgave geen rekening te
+            houden. Het konijnenhok is 2,28 m lang en 76 cm breed. Het konijn kan
+            op 54 deel van het hok gras eten.
+
+3p    2     Op hoeveel m2 kan het konijn gras eten? Schrijf je berekening op en rond
+            je antwoord af op één decimaal.
+
+            De voor- en de achterkant van het konijnenhok hebben de vorm van een
+            gelijkbenige driehoek. AB = 76 cm. Hoek A = hoek B = 40°.
+
+
+
+
+                                                                 C
+
+
+
+
+                                               A                                     B
+                                                               76 cm
+
+
+4p    3     Bereken, zonder te meten, hoeveel cm AC is. Schrijf je berekening op.
+
+
+
+GT-0153-a-19-2-o                           3 / 12                            lees verder ►►►
+      Kubus
+
+            Elke kubus van een reeks bestaat uit witte en grijze kubusjes. De
+            kubusjes op de randen en hoekpunten zijn grijs. De rest van elke kubus is
+            gevuld met witte kubusjes. Nummer 1, 2 en 3 van de reeks zijn hieronder
+            getekend.
+
+
+
+
+                   n=1
+                                     n=2
+
+                                                            n=3
+
+
+2p    4     Nummer 14 van de reeks is getekend op de uitwerkbijlage.
+             Hoeveel van deze kubusjes zijn grijs? Leg uit hoe je aan je antwoord
+              komt.
+
+2p    5     Op de uitwerkbijlage staat in een tabel het aantal witte en grijze kubusjes
+            van nummer 1, 2 en 3 van de reeks. In de tabel is ook aangegeven dat
+            nummer 4 uit 81 witte kubusjes bestaat.
+             Vul de ontbrekende waarden in voor nummer 4.
+
+            Tussen het aantal witte kubusjes a en het nummer n uit de reeks bestaat
+            het volgende verband
+
+                   a = n3 + 3n2 – 9n + 5
+
+3p    6     Bereken wat het nummer van de grootste kubus uit de reeks is, die je kunt
+            maken met 1000 witte kubusjes. Schijf je berekening op.
+
+3p    7     Tussen het aantal grijze kubusjes en het nummer n uit de reeks bestaat
+            een lineair verband.
+             Geef een formule die hoort bij dit verband.
+
+
+
+
+GT-0153-a-19-2-o                            4 / 12                             lees verder ►►►
+      Vulkaan
+
+            In 2010 kwam een vulkaan op IJsland tot uitbarsting. De vulkaan stootte
+            heel veel as uit. De aswolk ging door de wind richting Amsterdam.
+
+
+
+
+            Op de uitwerkbijlage zie je een kaart waarop de vulkaan en Amsterdam
+            aangegeven zijn met een punt.
+
+1p    8     Hoeveel graden is de koershoek van de vulkaan richting Amsterdam?
+
+4p    9     De aswolk ging met een gemiddelde snelheid van 65 kilometer per uur
+            richting Amsterdam.
+             Bereken hoeveel uur het duurde voordat de aswolk bij Amsterdam
+                was. Schrijf je berekening op.
+
+3p    10    Door de aswolk was er in een groot deel van Europa 8 dagen een
+            vliegverbod. De luchtvaartmaatschappijen hadden samen een verlies aan
+            inkomsten van 1,26 miljard euro. Door niet te vliegen was er wel een
+            besparing op brandstof van 100 miljoen euro per dag.
+             Hoeveel euro heeft het vliegverbod de luchtvaartmaatschappijen
+                gekost? Schrijf je berekening op en geef je antwoord in de
+                wetenschappelijke notatie.
+
+4p    11    Uit de vulkaan kwam gedurende 8 dagen ook een grote lavastroom met
+            een hoeveelheid van 290 m3 lava per seconde. IJsland heeft een
+            oppervlakte van 100 000 km2.
+             Bereken hoeveel mm de laag met lava zou zijn als de totale
+                hoeveelheid lava heel IJsland gelijkmatig zou bedekken. Schrijf je
+                berekening op.
+
+
+
+
+GT-0153-a-19-2-o                           5 / 12                           lees verder ►►►
+      Hanglamp
+
+            Je ziet een foto van een hanglamp. Deze lamp is in hoogte te verstellen.
+
+
+
+
+            Hieronder zie je een tekening van het rechtergedeelte van de lamp. Het
+            snoer in dit gedeelte heeft een lengte van 200 cm en loopt vanaf A via B
+            en C naar D.
+
+                   5 cm                                      5 cm
+                          A
+                                                     C
+
+
+
+
+                              70 cm       70 cm          60 cm
+
+
+
+
+                                                         D
+                                      B
+                                                     lamp
+
+
+            In deze tekening zit A op dezelfde hoogte als C en zit B op dezelfde
+            hoogte als D. D ligt recht onder C.
+
+4p    12    Laat met een berekening zien, zonder te meten, dat de afstand AC
+            afgerond 72 cm is.
+
+3p    13    Bereken hoeveel graden de aangegeven hoek C is. Schrijf je berekening
+            op.
+
+
+
+
+GT-0153-a-19-2-o                            6 / 12                           lees verder ►►►
+            De lamp wordt lager gehangen, de lengte van het snoer blijft gelijk. Nu is
+            de afstand CD 120 cm. De afstand AC is 72 cm. AB is gelijk aan BC.
+
+                                     72 cm
+                   5 cm                                       5 cm
+                          A                           C
+
+
+
+
+                                       B
+
+
+
+
+                                                          120 cm
+
+
+
+
+                                                          D
+
+                                                      lamp
+
+
+5p    14    Bereken in deze situatie, zonder te meten, hoeveel cm de afstand tussen
+            B en het plafond is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-2-o                             7 / 12                           lees verder ►►►
+      Trekkershut
+
+            Op de foto zie je een trekkershut voor vier personen op een camping.
+
+
+
+
+            De rand van de voorkant van de trekkershut heeft de vorm van een
+            parabool. Hieronder zie je een assenstelsel met daarin deze parabool
+            getekend.
+
+            h (meter)
+
+
+
+
+                                                 b (meter)
+
+
+            De formule die bij deze parabool hoort is
+
+                   h = – 0,48b2 + 2,4b
+
+            Hierin is h de hoogte in meters en b de breedte in meters.
+
+2p    15    Laat met een berekening zien dat volgens de formule de breedte van de
+            trekkershut 5 meter is. Schrijf je berekening op.
+
+2p    16    Bereken hoeveel meter de hoogte van de trekkershut volgens de formule
+            is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-2-o                            8 / 12                          lees verder ►►►
+2p    17    In zo’n trekkershut worden twee stapelbedden geplaatst. De stapelbedden
+            hebben elk een breedte van 1 meter. Tussen de zijkant van de trekkershut
+            en elk stapelbed zit 73 cm, zie de tekening.
+
+
+
+
+                           ?
+
+
+
+
+                   73 cm            73 cm
+
+
+             Bereken, zonder te meten, hoeveel cm de ruimte tussen de twee
+              stapelbedden is. Schrijf je berekening op.
+
+
+
+
+2p    18    Op de foto zie je naast een trekkershut voor twee personen ook een
+            verkleind hutje waarin de hond kan slapen. De afmetingen van het
+            hondenhutje zijn 3 keer zo klein als de afmetingen van de trekkershut. De
+            vloeroppervlakte van de trekkershut is 15 m 2.
+             Bereken hoeveel m2 de vloeroppervlakte van het hondenhutje is.
+                Schrijf je berekening op en rond je antwoord af op twee decimalen.
+
+
+
+
+GT-0153-a-19-2-o                            9 / 12                           lees verder ►►►
+      Suikerbus
+
+            Op de foto zie je een suikerbus waarin zakjes suiker worden bewaard.
+
+
+
+
+            Het grondvlak van de suikerbus is een vierkant met afgeronde hoeken. De
+            zijden van het vierkant zijn 21 cm. De afgeronde hoeken hebben de vorm
+            van een kwartcirkel met een straal van 1,5 cm.
+
+
+
+
+                                                                         1,5 cm
+
+                     21 cm                               21 cm
+
+
+4p    19    Bereken hoeveel cm2 de oppervlakte van het grondvlak van de suikerbus
+            is. Schrijf je berekening op.
+
+
+
+
+GT-0153-a-19-2-o                          10 / 12                          lees verder ►►►
+            Aan de voorkant van de suikerbus zit een klep die opengeklapt kan
+            worden om de zakjes suiker eruit te pakken.
+
+
+
+
+            Als de klep helemaal openstaat, is de hoek tussen de klep en de
+            suikerbus 50°. De twee zijkanten van de klep zijn een deel van een cirkel
+            met een straal van 10 cm. De klep begint bij punt S op 4 cm hoogte. De
+            hele suikerbus is 24 cm hoog.
+
+3p    20    Op de uitwerkbijlage is het zijaanzicht van de suikerbus zonder de klep op
+            schaal getekend.
+             Teken op de uitwerkbijlage het zijaanzicht van de klep erbij.
+
+3p    21    Bereken hoeveel cm2 de oppervlakte van één zijkant van de klep is.
+            Schrijf je berekening op.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-19-2-o                           11 / 12                           lees verder ►►►
+      Wortelverband
+
+            In het assenstelsel is de grafiek van de formule y = 2  ( x  3) getekend.
+
+                   6
+            y
+                   5
+
+                   4                            A
+
+                   3
+
+                   2
+
+                   1
+
+
+                   O   1    2    3   4   5     6       7   8   9   10
+                                                                        x
+
+
+1p    22    De grafiek gaat door het punt A (6,2 ; 3,6). De y-coördinaat van punt A is
+            afgerond op één decimaal.
+             Geef de y-coördinaat van punt A afgerond op twee decimalen.
+
+2p    23    De grafiek gaat door het punt (x , 8).
+             Geef de x-coördinaat van dit punt. Schrijf je berekening op.
+
+3p    24    Lucy beweert dat je niet alle getallen voor x kunt invullen.
+             Heeft Lucy gelijk? Leg je antwoord uit.
+
+4p    25    De gegeven formule y = 2  ( x  3) verandert in de nieuwe formule
+            y = 2  ( x  2) .
+             Teken op de uitwerkbijlage in hetzelfde assenstelsel de grafiek die bij
+              de nieuwe formule hoort. Vul eerst de tabel in.
+
+
+
+
+GT-0153-a-19-2-o                             12 / 12                           lees verdereinde
+                                                                                            ►►► 
+

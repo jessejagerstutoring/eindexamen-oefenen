@@ -1,0 +1,447 @@
+                                                                   Examen VWO
+
+                                                                       2022
+                                                                              tijdvak 1
+                                                                        vrijdag 20 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-22-1-o
+      Sjinkie
+
+              Begin 2015 werd Sjinkie Knegt
+              in Dordrecht voor de tweede
+              maal in zijn carrière Europees
+              kampioen shorttrack. Zo'n
+              kampioenschap bestaat uit het
+              schaatsen van de vier
+              afstanden 500 m, 1000 m,
+              1500 m en 3000 m. Per afstand
+              kun je punten verdienen.
+              Degene met de meeste punten
+              na vier afstanden is de winnaar.
+              De beste acht deelnemers per afstand krijgen de volgende aantallen
+              punten:
+               de eerste plaats krijgt 34 punten;
+               de tweede plaats krijgt 21 punten;
+               de derde plaats krijgt het aantal punten van de eerste plaats
+                  verminderd met het aantal punten van de tweede plaats, dus
+                  34  21  13 punten;
+               de vierde plaats krijgt het aantal punten van de tweede plaats
+                  verminderd met het aantal punten van de derde plaats, dus
+                  21  13  8 punten;
+               zo gaat het verder, tot 1 punt voor de achtste plaats.
+              Op die manier ontstaat een deel van de rij van Fibonacci.
+
+              Deelnemers die op plaats 9 of lager eindigen, krijgen voor die afstand
+              geen punten.
+              In werkelijkheid kunnen er op sommige afstanden extra punten worden
+              behaald in tussensprints. Deze laten we voor deze opgave buiten
+              beschouwing.
+
+2p    1       Bereken hoeveel punten de zesde plaats oplevert.
+
+              Een deelnemer staat na drie van de vier afstanden op de derde plaats met
+              6 punten voorsprong op degene die op de vierde plaats staat, nummer
+              vier dus. Nummer twee is niet meer in te halen. Nummer drie overweegt
+              daarom als tactiek voor de vierde afstand om precies achter de nummer
+              vier te blijven en te finishen.
+3p    2       Is dit een veilige tactiek om de derde plaats te behouden? Licht je
+              antwoord toe.
+
+
+
+
+VW-1026-a-o                                  2 / 14                           lees verder ►►►
+              De organisatie overweegt om in een andere shorttrackwedstrijd dezelfde
+              structuur in de puntentelling toe te passen. Nu wil men echter aan de
+              eerste twaalf plaatsen per afstand punten toekennen, waarbij plaats
+              twaalf 1 punt krijgt en plaats elf 2 punten en elke volgende plaats de som
+              van de vorige twee puntenaantallen.
+
+              Dit is weergegeven in de volgende recursieve formule, die geldt
+              voor n  10 :
+                     un  un1  un 2 met u12  1 en u11  2
+              Hierin is un het aantal punten dat plaats n krijgt.
+3p    3       Bereken hoeveel punten de eerste plaats in deze puntentelling krijgt.
+
+              Sjinkie Knegt won de 1500 m tijdens het toernooi in Dordrecht in een tijd
+              van 2 minuten en 14,065 seconden. Een jaar later reed Sjinkie een
+              wereldrecord op deze afstand, met een tijd van 2 minuten en 7,943
+              seconden.
+4p    4       Bereken hoeveel procent zijn gemiddelde snelheid groter was toen hij het
+              wereldrecord reed dan toen hij in Dordrecht reed. Geef je antwoord in één
+              decimaal.
+
+
+
+
+VW-1026-a-o                                    3 / 14                           lees verder ►►►
+              Ga verder op de volgende pagina.
+
+
+
+
+VW-1026-a-o                               4 / 14   lees verder ►►►
+      Vacuümgaren
+
+              In restaurants en bij hobbykoks is het zogeheten vacuümgaren, een
+              methode voor het gaar laten worden van voedsel, steeds meer in opmars.
+              Bij vacuümgaren wordt, bijvoorbeeld, vlees in een vacuümzak gegaard in
+              een warmwaterbak, ook wel sous-vide genoemd.
+
+              foto 1: sous-vide                        foto 2: vlees in vacuümzak
+
+
+
+
+              De bak waarin het water zit, heeft bij benadering de vorm van een balk
+              met binnenafmetingen van 27,5 bij 19,5 bij 12,0 cm (respectievelijk lengte,
+              breedte en hoogte). In de bak zit 2,0 cm onder de rand een maatstreepje.
+              Als het vlees in de vacuümzak in de waterbak ligt, mag de waterspiegel
+              niet boven dit maatstreepje uitkomen.
+
+              Op foto 2 is een entrecote in een vacuümzak afgebeeld die in de
+              sous-vide van foto 1 gegaard wordt. Foto's 1 en 2 zijn niet op dezelfde
+              schaal afgebeeld.
+
+              De entrecote op foto 2 is 3,5 cm dik. Het boven- en onderoppervlak van
+              de entrecote zijn gelijk, met elk een oppervlakte van ongeveer 120 cm2.
+              Het volume van de vacuümzak mag worden verwaarloosd.
+3p    5       Bereken hoeveel liter water maximaal in de sous-vide gedaan mag
+              worden. Geef je antwoord in één decimaal.
+
+              Hoelang vlees in een sous-vide gegaard moet worden, hangt af van het
+              soort vlees en van de dikte. Hoe dikker een stuk vlees, hoe langer dit
+              gegaard zal moeten worden.
+
+              In de rest van de opgave bekijken we de gaartijd van een entrecote. Dat
+              is de minimale tijd die nodig is om een entrecote in een sous-vide te
+              garen. Deze is gaar als de kern ervan een temperatuur van 56 °C bereikt
+              heeft.
+              De Engelse fabrikant van een bepaald merk sous-vide heeft een tabel
+              gemaakt voor het verband tussen de gaartijd van een entrecote en de
+              dikte in inches (1 inch = 2,54 cm). In de volgende tabel is een deel
+              hiervan weergegeven.
+
+
+VW-1026-a-o                                   5 / 14                            lees verder ►►►
+              tabel
+              dikte (inches)   gaartijd (uren:minuten)
+                      0,25                 0:23
+                      0,5                  0:31
+                       1                   1:00
+                    …                       …
+              De fabrikant heeft daarbij de volgende opmerking geplaatst:
+
+              Als de dikte van het vlees toeneemt, neemt de gaartijd exponentieel toe.
+
+              Uit de waarden in de tabel volgt echter dat dit geen exponentieel verband
+              is.
+3p    6       Toon dit met een berekening aan.
+
+              De fabrikant geeft naast de tabel ook een grafiek voor het verband tussen
+              de dikte en de gaartijd. Zie de figuur.
+
+              figuur
+
+
+
+
+              Bij het maken van de tabel en de figuur blijkt de fabrikant uit te zijn
+              gegaan van een kwadratisch verband tussen de dikte en de gaartijd. Dit
+              verband wordt gegeven door de formule:
+                 T  0,5916d 2  0,0689d  0,3329 met d  0,5
+              Hierin is d de dikte van de entrecote in inches. T is de gaartijd in uren.
+              Er zijn koks die als vuistregel hanteren dat een entrecote met een dikte
+              van een inch een gaartijd van een uur heeft en dat de gaartijd
+              recht evenredig is met de dikte. Een entrecote met een dikte van,
+              bijvoorbeeld, 1,5 inch heeft dan dus een gaartijd van 1,5 uur.
+              Voor een entrecote van 1,3 inch is de gaartijd volgens de vuistregel van
+              de kok korter dan de gaartijd volgens de formule.
+
+
+
+VW-1026-a-o                                    6 / 14                            lees verder ►►►
+3p    7       Bereken hoeveel minuten korter die gaartijd volgens de vuistregel is. Geef
+              je antwoord in gehele minuten.
+
+              Nadat een entrecote in een sous-vide gegaard is, wordt die ook nog kort
+              op een grill of in een pan aangebakken. Hierdoor zal de entrecote nog iets
+              verder garen.
+              Daarom is het bij het bereiden van niet al te dikke entrecotes geen
+              probleem dat de benadering van de gaartijd volgens de vuistregel meestal
+              iets te laag uitvalt. Bij het bereiden van dikkere entrecotes is dat wel een
+              probleem, omdat de kern dan nog te rauw kan blijven. Het verschil tussen
+              de gaartijd volgens de formule en de gaartijd volgens de vuistregel loopt
+              namelijk snel op.
+4p    8       Bereken vanaf welke dikte het verschil in gaartijd minstens een kwartier
+              is. Geef je antwoord in inches in één decimaal.
+
+
+
+
+VW-1026-a-o                                   7 / 14                             lees verder ►►►
+      Support
+
+              Softwarebedrijven maken nieuwe software maar moeten ook aandacht
+              besteden aan het geven van support aan hun klanten. Het geven van
+              deze support kost bij veel softwarebedrijven steeds meer tijd. Als een
+              softwarebedrijf vervolgens geen nieuw personeel wil aannemen, gaat de
+              toenemende tijd die besteed wordt aan support ten koste van de tijd voor
+              het ontwikkelen van nieuwe software.
+
+              Bij softwarebedrijf X-tent-O is geconstateerd dat men, als gevolg van deze
+              toenemende vraag naar support, elke maand minder tijd dan in de maand
+              daarvoor besteedt aan het ontwikkelen van nieuwe software.
+
+              Alleen voor de volgende vraag gaan we ervan uit dat er door de
+              toenemende vraag naar support elke maand 2% minder tijd aan
+              ontwikkelen besteed wordt dan in de maand daarvoor. Ga er ook van uit
+              dat er in de beginsituatie geen tijd besteed wordt aan support.
+4p    9       Bereken hoeveel procent van de tijd er dan na drie jaar nog aan het
+              ontwikkelen van nieuwe software wordt besteed. Geef je antwoord in
+              gehele procenten.
+
+              Vanaf nu veronderstellen we echter dat er door de toenemende vraag
+              naar support elke maand 3% minder tijd aan het ontwikkelen van nieuwe
+              software wordt besteed dan in de maand daarvoor. Zie de figuur.
+
+              figuur
+
+
+
+
+              Als er elke maand 3% van de beschikbare werktijd afgaat voor support,
+              dan kun je het percentage werktijd P dat aan support wordt besteed, met
+              de volgende formule berekenen:
+                           
+                  P  100  1  0,694t   
+              Hierin is t de tijd in jaren vanaf de start van het bedrijf.
+
+
+
+VW-1026-a-o                                      8 / 14                        lees verder ►►►
+              Uit de figuur blijkt dat na twee jaar meer dan de helft van de tijd aan
+              support wordt besteed en dat er na vijf jaar nog maar (ongeveer) 16% van
+              de beschikbare werktijd aan nieuwe software besteed wordt.
+3p   10       Bereken met behulp van de formule de procentuele toename van het
+              percentage werktijd dat aan support wordt besteed tussen twee en vijf
+              jaar na de start van het bedrijf. Geef je antwoord in gehele procenten.
+
+              Het percentage werktijd dat aan support wordt besteed heeft, zoals ook in
+              de figuur te zien is, een grenswaarde (van 100%). Dat percentage stijgt
+              afnemend naar die grenswaarde.
+4p   11                                                                      
+              Beredeneer aan de hand van de formule P  100  1  0,694t , zonder
+              getallen in te vullen of een schets te maken, dat het percentage werktijd
+              dat aan support wordt besteed inderdaad afnemend stijgt.
+
+
+                                            
+              Je kunt het verband P  100  1  0,694t    ook zó herschrijven, dat je bij
+              een gegeven percentage dat aan support wordt besteed, kunt berekenen
+              na hoeveel jaren dat percentage wordt bereikt. Dat verband is van de
+              vorm t  a log(b  c  P ) .
+3p   12       Bereken a, b en c.
+
+
+
+
+VW-1026-a-o                                     9 / 14                              lees verder ►►►
+      Wereldrecord kratten stapelen
+
+              Het wereldrecord kratten stapelen             foto
+              stond in 2005 op naam van het
+              dorpje Limmen in Noord-
+              Holland. De inwoners van
+              Limmen stapelden een piramide
+              van 63 365 kratten.
+              De piramide was als volgt
+              opgebouwd: de bovenste laag
+              noemen we de eerste laag en
+              bevat één krat. De laag
+              daaronder is de tweede laag en
+              bevat twee bij twee, dus vier kratten.        figuur
+              De hoekpunten van de bovenste krat
+              liggen steeds op de middens van de
+              kratten eronder. De derde laag heeft
+              drie bij drie, dus negen kratten,
+              enzovoort. Zie de foto
+              en de schematische figuur.
+
+
+              Op de uitwerkbijlage zie je een perspectieftekening van de tweede laag
+              van de piramide.
+5p   13       Teken boven op deze tweede laag op de uitwerkbijlage de krat van de
+              eerste laag.
+
+              Voor het totale aantal kratten Tn van een dergelijke piramide geldt de
+              volgende formule:
+
+                        n(n  1)(2n  1)
+                 Tn 
+                               6
+              Hierbij is n het aantal lagen.
+
+              Zoals je op de foto kunt zien, worden de lagen vanaf de onderkant
+              opgebouwd.
+5p   14       Bereken met welke laag, vanaf de onderkant geteld, men bezig was toen
+              men 20% van de 63 365 kratten geplaatst had.
+
+                                 n(n  1)(2n  1)
+              De formule Tn                      kan herleid worden tot de vorm
+                                        6
+              Tn  an3  bn 2  cn .
+3p   15       Laat deze herleiding zien en laat a, b en c als breuk staan.
+
+
+
+
+VW-1026-a-o                                    10 / 14                             lees verder ►►►
+              In 2011 moest Nederland het wereldrecord afstaan aan Duitsland, waar
+              men met 105 995 kratten een piramide heeft gebouwd.
+              Elin beweert dat de Duitse piramide niet op dezelfde manier kan zijn
+              opgebouwd als de Nederlandse piramide.
+4p   16       Onderzoek of Elin gelijk heeft.
+
+
+
+
+VW-1026-a-o                                 11 / 14                         lees verder ►►►
+      Safari Hide & Seek
+
+              Het spel Safari Hide & Seek wordt gespeeld op een bord met vier velden
+              en vier aparte speelstukken.
+
+              Het bord en de speelstukken staan afgebeeld op foto 1 en foto 2.
+
+              foto 1: bord                              foto 2: de vier speelstukken
+
+
+
+
+              Op de uitwerkbijlage zie je dezelfde foto's nog eens, maar dan voorzien
+              van rasters en van letters bij de velden en nummers bij de speelstukken.
+
+                 Elk van de vier velden A, B, C en D op het bord bestaat uit negen
+                  vakjes. Op elk van die vakjes kan een olifant, zebra, antilope, leeuw of
+                  neushoorn staan. Een vakje kan ook leeg zijn.
+                 Van de speelstukken is er één dat zes vakjes van een veld op het
+                  speelbord bedekt (speelstuk 1) en zijn er drie die elk zeven vakjes
+                  bedekken (speelstukken 2, 3 en 4).
+
+              De bedenkers van het spel hebben op vijf van de negen vakjes van veld D
+              een dier geplaatst. Deze dieren zijn allemaal verschillend. Vijf
+              verschillende dieren kun je op heel veel manieren over de negen vakjes
+              van veld D verdelen.
+3p   17       Bereken op hoeveel manieren dat kan.
+
+
+
+
+VW-1026-a-o                                   12 / 14                            lees verder ►►►
+              Doel van het spel is om de speelstukken zó op de vier velden te plaatsen
+              dat een vooraf bepaald aantal olifanten, zebra's, antilopen, leeuwen en/of
+              neushoorns zichtbaar is. Hierbij mogen de speelstukken ook gedraaid
+              worden. Zie foto's 3 en 4 voor twee voorbeelden. In de foto's zijn de
+              nummers van de speelstukken ook aangegeven.
+
+              foto 3                                    foto 4
+
+
+
+
+              Op foto 3 zijn de speelstukken zó neergelegd dat alle zes antilopen
+              zichtbaar zijn. Door de speelstukken 2 en 4 te verwisselen en speelstuk 1
+              een kwartslag te draaien, ontstaat de situatie op foto 4 waarop één olifant,
+              twee antilopen, twee neushoorns en twee leeuwen zichtbaar zijn.
+
+              De afbeeldingen van het water en de planten op de speelstukken doen er
+              voor het spel niet toe. Deze afbeeldingen laten we in deze opgave dan
+              ook buiten beschouwing. Speelstuk 3 in de vorm van de letter 'H' kan
+              maar op twee manieren neergelegd worden: staand of liggend.
+
+              Ga ervan uit dat alle speelstukken gebruikt worden.
+4p   18       Bereken op hoeveel verschillende manieren de vier speelstukken op het
+              bord geplaatst kunnen worden.
+
+
+              Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1026-a-o                                   13 / 14                            lees verder ►►►
+              Bij het spel zit ook een boekje waarin verschillende 'spelopdrachten'
+              staan. Het is bij het spelen van het spel de bedoeling deze
+              spelopdrachten te maken.
+
+              In het vervolg van deze opgave gaan we een van deze spelopdrachten
+              oplossen met behulp van logisch redeneren.
+              Daarvoor spreken we eerst een notatie af:
+                  B2 betekent "speelstuk 2 moet op veld B worden geplaatst".
+              Voor de overige speelstukken en velden gelden vergelijkbare notaties.
+
+              Spelopdracht 19 uit het boekje is het plaatsen van de speelstukken
+              zodanig dat er vijf zebra's en twee olifanten zichtbaar zijn en verder geen
+              enkel ander dier.
+
+              Volgens spelopdracht 19 moeten er dus vijf zebra's zichtbaar zijn.
+              Daaruit volgt de conclusie dat speelstuk 3 op veld A moet liggen, dus
+              gebruikmakend van bovenstaande notatie moet gelden: A3 .
+
+3p   19       Leg uit hoe je tot deze conclusie kunt komen.
+
+              Op veld C staat de zebra in een hoek, dus speelstuk 4 kan daar niet
+              liggen.
+              De volgende stappen in de redenering zijn:
+                 ( A3   C4 )  (C1  C2 )
+                 C1  C2
+4p   20       Vertaal deze logische redenering in gewone Nederlandse zinnen en leg
+              uit hoe C1  C2 uit spelopdracht 19 volgt.
+
+              Op de uitwerkbijlage is in foto 5 al gearceerd hoe speelstuk 3 op veld A
+              moet liggen voor de juiste oplossing van spelopdracht 19.
+6p   21       Beredeneer wat de oplossing van spelopdracht 19 moet zijn en geef op
+              de uitwerkbijlage door middel van arcering aan hoe de andere
+              speelstukken geplaatst moeten worden voor de oplossing van de
+              spelopdracht.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1026-a-o                                              14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,534 @@
+                                                                     Examen HAVO
+
+                                                                           2018
+                                                                                  tijdvak 1
+                                                                        donderdag 24 mei
+                                                                         13.30 - 16.30 uur
+
+
+                                                                          wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 18 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-18-1-o
+      Macht van 2
+
+            De functie f is gegeven door f ( x)  4  2 0,3 x 2 .
+
+            Op de grafiek van f ligt een punt R. De y-coördinaat van R is 2.
+3p    1     Bereken exact de x-coördinaat van R.
+
+            De grafiek van f snijdt de x-as in het punt Q.
+            Verder zijn gegeven het punt P  0, 5  en de lijn l door P en Q.
+            Lijn l en de grafiek van f snijden elkaar behalve in Q ook in het punt S.
+            Zie de figuur.
+
+            figuur
+                   y
+
+                       P
+
+                               S
+                                               f
+                                           l
+                                                            Q
+                   O                                                 x
+
+
+
+
+6p    2     Bereken de coördinaten van S. Rond deze coördinaten af op twee
+            decimalen.
+
+            De grafiek van f wordt 20 naar links en 10 omhoog geschoven.
+            Hierdoor ontstaat de grafiek van een functie g.
+            De functie g kan geschreven worden in de vorm g ( x)  a  b  2 0,3 x .
+3p    3     Bereken de waarden van a en b.
+
+
+
+
+HA-1025-a-18-1-o                                   2 / 12                          lees verder ►►►
+      Afstand 5
+
+            De lijn l is gegeven door de vergelijking y  34 x  11
+                                                                  4
+                                                                    . Verder is gegeven
+            het punt P (6, 1) .
+
+            De afstand tussen l en P is 5.
+6p    4     Bewijs dit.
+
+            De cirkel c met middelpunt M is gegeven door x 2  y 2  28 x  32 y  308 .
+            In de figuur zijn punt P en cirkel c met middelpunt M weergegeven.
+
+            figuur
+              y
+
+
+                                                       c
+
+
+
+
+                                      M
+
+
+
+
+                          P
+
+             O                                                   x
+
+
+            De afstand tussen c en P is ook 5.
+            De afstand tussen M en P is groter dan de afstand tussen M en de x-as.
+4p    5     Bereken exact het verschil tussen deze twee afstanden.
+
+
+
+
+HA-1025-a-18-1-o                              3 / 12                             lees verder ►►►
+      Hardlopen
+
+            Hardlopers die regelmatig een bepaalde afstand lopen, zijn vaak
+            nieuwsgierig naar hun eindtijd op een andere afstand.
+
+            De Amerikaanse onderzoeker Pete Riegel stelde in 1977 de volgende
+            formule op:
+                                      0,06
+                             s 
+                   v2  v1   1 
+                              s2 
+            Hiermee kan met behulp van de bekende gemiddelde snelheid v1 op een
+            bepaalde afstand s1 , de te verwachten gemiddelde snelheid v2 op een
+            andere afstand s2 worden uitgerekend.
+
+            Hardlopers gebruiken vaak de volgende vuistregel: als de afstand
+            verdubbelt, dan neemt je gemiddelde snelheid met 6% af.
+3p    6     Onderzoek of de bovenstaande formule aan deze vuistregel voldoet.
+
+            In de onderstaande tabel staan de wereldrecords hardlopen op de weg
+            bij de heren op een aantal afstanden zoals ze in het jaar 2015 waren.
+
+            tabel
+                                                              wereldrecordtijd in 2015
+                                               afstand
+                   wedstrijd                 (in meters)    uren    minuten   seconden
+             10 km                             10 000                 26         44
+             15 km                             15 000                 41         13
+             10 mijl                           16 093                 44         23
+             20 km                             20 000                 55         21
+             halve marathon                    21 097                 58         23
+             25 km                             25 000         1       11         18
+             30 km                             30 000         1       27         37
+             marathon                          42 195         2       02         57
+
+            In de hardloopsport wordt vaak gekeken naar de tijd die een hardloper
+            gemiddeld over een kilometer doet. Dit wordt het looptempo genoemd.
+
+3p    7     Bereken het looptempo van het wereldrecord op de marathon in het jaar
+            2015. Geef je eindantwoord in hele minuten en seconden nauwkeurig.
+
+
+
+
+HA-1025-a-18-1-o                                           4 / 12                        lees verder ►►►
+            In onderstaande figuur is de logaritme van de tijd t in uren tegen de
+            logaritme van de afstand s in kilometers van de wereldrecords op de
+            afstanden uit de tabel uitgezet. Deze punten liggen bij benadering op een
+            rechte lijn, die ook in de figuur is getekend.
+            Deze figuur staat ook vergroot op de uitwerkbijlage.
+
+            figuur
+                        0,5
+            log ( t )
+                        0,4
+
+                        0,3
+
+                        0,2
+
+                        0,1
+
+                         0
+                              0   0,2   0,4   0,6   0,8   1,0      1,2   1,4   1,6   1,8   2,0   log (s)
+
+                    -0,1
+
+                    -0,2
+
+                    -0,3
+
+                    -0,4
+
+
+5p    8     Bepaal met behulp van de lijn in de figuur op de uitwerkbijlage het te
+            verwachten wereldrecord hardlopen op een afstand van 50 kilometer.
+            Geef je eindantwoord in hele uren en minuten nauwkeurig.
+
+
+      De helling
+
+            De functie f is gegeven door f ( x)  23 ( x  1)3  12 x .
+
+6p    9     Bereken exact voor welke waarden van x de helling van de grafiek van f
+            groter is dan 3 12 .
+
+
+
+
+HA-1025-a-18-1-o                                          5 / 12                                    lees verder ►►►
+      Horizonafstand
+
+            Als men vanaf bijvoorbeeld een hoog gebouw of een berg vrij zicht heeft
+            tot aan de horizon, is de horizon verder weg dan wanneer er vanaf de
+            grond naar de horizon gekeken wordt.
+
+            Het kijken naar de horizon gebeurt       figuur 1
+            vanuit het oog O in een rechte lijn naar                                                 O
+            een punt P op de horizon.                                                        a       h
+            De hoogte waarop het oog zich bevindt
+            noemen we de kijkhoogte.                                                     P
+            De afstand OP tot aan de horizon
+            noemen we de horizonafstand.
+            De horizonafstand a in meters hangt af
+            van de kijkhoogte h in meters boven de
+                                                                                             aarde
+            grond. Zie figuur 1.
+
+            Hoe groter de kijkhoogte, hoe groter de horizonafstand.
+            De horizonafstand a is bij benadering evenredig met h .
+
+            In figuur 2 is dit evenredige verband tussen a en h door middel van een
+            rechte lijn weergegeven. Bovendien zijn van een aantal punten op deze
+            lijn de coördinaten gegeven.
+
+            figuur 2
+                    60 000
+            a (m)                                                          (15,75; 58 907)
+                    50 000
+                                                                (12,45; 46 570)
+                    40 000
+
+                    30 000
+                                                  (7,88; 29 454)
+                    20 000
+                                            (5,57; 20 827)
+
+                    10 000
+                                 (1,76; 6586)
+                        0
+                             0          5             10              15            20
+                                                                                    √h
+
+
+            Figuur 2 staat ook vergroot op de uitwerkbijlage.
+3p    10    Bepaal met behulp van de figuur op de uitwerkbijlage welke kijkhoogte
+            hoort bij een horizonafstand van 40 km. Geef je eindantwoord in hele
+            meters nauwkeurig.
+
+
+
+
+HA-1025-a-18-1-o                                             6 / 12                                  lees verder ►►►
+            Bij benadering geldt:
+                   a  3741 h
+            Hierin is a weer de horizonafstand in m en h weer de kijkhoogte in m.
+            De horizonafstand kan ook in kilometers uitgedrukt worden. Het verband
+            tussen de horizonafstand k in kilometers en h kan worden beschreven met
+            een formule van de vorm k  c  h .
+3p    11    Bereken algebraïsch de waarde van c. Geef je eindantwoord in helen
+            nauwkeurig.
+
+            Het licht van de Lange Jaap, een vuurtoren bij Den Helder, reikt 30
+            zeemijl ver. Een zeemijl is 1852 m.
+            De lamp van de Lange Jaap bevindt zich op een hoogte van 57 m. Vanaf
+            een kijkhoogte van 2 m is het licht van de Lange Jaap op een afstand van
+            30 zeemijl niet (rechtstreeks) te zien, omdat de vuurtoren zich dan achter
+            de horizon bevindt.
+
+            De maximale afstand d waarop het licht van een vuurtoren een
+            waarnemer (rechtstreeks) kan bereiken is afhankelijk van de hoogte H
+            waarop de lamp van een vuurtoren zich bevindt, en van de kijkhoogte h
+            van de waarnemer. Zie figuur 3.
+
+            figuur 3
+                                                  h
+                                            waarnemer
+                                   d
+
+
+
+
+                                           aarde
+                   H       vuurtoren
+
+
+
+
+            Bij benadering geldt:
+
+                   d  3,74     H  h
+            Hierin is d de maximale afstand in km waarop het licht van een vuurtoren
+            een waarnemer (rechtstreeks) kan bereiken, H de hoogte van het licht van
+            de vuurtoren in m en h nog steeds de kijkhoogte in m.
+
+            Wanneer het licht van de Lange Jaap op een afstand van 30 zeemijl vanaf
+            een kijkhoogte van 2 m wel (rechtstreeks) zichtbaar zou zijn, zou de lamp
+            zich een stuk hoger moeten bevinden.
+5p    12    Bereken hoeveel keer zo hoog de lamp zich dan minstens zou moeten
+            bevinden. Geef je eindantwoord in één decimaal nauwkeurig.
+
+
+
+HA-1025-a-18-1-o                              7 / 12                         lees verder ►►►
+      Raaklijnen door de oorsprong
+
+                                                        1
+            De functie f is gegeven door f ( x)              x 1.
+                                                      2x  3
+
+            De lijn k raakt de grafiek van f in het punt A 1, 3 . Zie figuur 1.
+
+            figuur 1
+
+                                 y
+
+
+                    k
+
+                                                          f
+
+
+
+
+                                O                                                           x
+
+
+
+                                             A
+
+
+
+
+            Lijn k gaat door de oorsprong.
+5p    13    Bewijs dit met behulp van differentiëren.
+
+
+
+
+HA-1025-a-18-1-o                                 8 / 12                              lees verder ►►►
+            De lijn l met vergelijking y   11
+                                              9
+                                                x raakt de rechtertak van de grafiek van f
+            in het punt B. Zie figuur 2.
+
+            figuur 2
+
+                                y
+
+
+
+
+                                                       f
+                   l
+
+
+
+                                O                                                       x
+
+
+
+
+                                                                    B
+
+
+
+
+            Lijn l snijdt de linkertak van de grafiek van f niet.
+
+6p    14    Bewijs dit.
+
+
+
+
+HA-1025-a-18-1-o                              9 / 12                             lees verder ►►►
+      Hoogwerker
+
+            Met behulp van een hoogwerker kan een             foto
+            monteur bepaalde werkzaamheden op hoogte
+            uitvoeren. Zie de foto.
+            Hierbij staat de monteur in een bak, die is
+            bevestigd aan twee scharnierende draagarmen.
+            De twee draagarmen draaien ten opzichte van
+            elkaar en ten opzichte van het wagentje waaraan
+            de onderste draagarm bevestigd is.
+
+            In deze opgave bekijken we een vereenvoudigd
+            2-dimensionaal model van de situatie.
+            Zie figuur 1, waarin dit is weergegeven.
+
+            figuur 1
+                           300 cm
+              C                                B
+                                      50º
+
+
+
+                                    250 cm
+
+
+
+
+                           A
+
+
+
+            Punt A is het scharnierpunt op het wagentje, punt B het scharnierpunt van
+            de twee draagarmen en punt C het einde van de bovenste draagarm
+            waaraan de bak bevestigd is.
+             De lengte van draagarm AB is 250 cm.
+             De lengte van draagarm BC is 300 cm.
+            In de situatie zoals weergegeven in figuur 1 geldt dat BC horizontaal is.
+            Hoek ABC is dan 50 graden.
+
+
+
+
+HA-1025-a-18-1-o                             10 / 12                        lees verder ►►►
+            In figuur 2 is ook het punt D weergegeven. D is de loodrechte projectie
+            van A op de verticale lijn door C. Deze verticale lijn is in figuur 2
+            gestippeld weergegeven. Figuur 2 staat ook op de uitwerkbijlage.
+
+            figuur 2
+                            300 cm
+              C                                     B
+                                          50º
+
+
+
+                                         250 cm
+
+
+
+
+              D             A
+
+
+
+            De afstand AD is ongeveer 139 cm.
+
+3p    15    Toon dit aan. Je kunt hierbij gebruikmaken van de figuur op de
+            uitwerkbijlage.
+
+            Wanneer de monteur de bak recht omhoog verplaatst, zal hoek ABC
+            toenemen. Zie figuur 3. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 3
+                      C
+                                     300 cm
+
+
+                                                            B
+
+
+             292 cm
+                                         250 cm
+
+
+
+
+                      D   139 cm     A
+
+
+
+            De monteur verplaatst de bak recht omhoog tot CD  292 cm.
+4p    16    Bereken in dit geval de toename van hoek ABC in hele graden
+            nauwkeurig. Je kunt hierbij gebruikmaken van de figuur op de
+            uitwerkbijlage.
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+HA-1025-a-18-1-o                                  11 / 12                    lees verder ►►►
+      (Co)sinus
+
+            Op het domein  0, 2 is de functie f gegeven door:
+
+                                       
+                   f ( x)  2  3sin   x  14      
+            Verder is de lijn l gegeven door de vergelijking y  72 . Zie figuur 1.
+
+            figuur 1
+              y
+
+                                                  l
+
+
+                                                                f
+
+             O                                                      2 x
+
+
+            Op het gegeven domein snijden l en de grafiek van f elkaar in twee
+            punten.
+4p    17    Bereken exact de x-coördinaten van deze punten.
+
+            Een functie g heeft een functievoorschrift van de vorm:
+                   g ( x)  p  q  cos  r  x  s  
+
+            Er geldt:
+             De periode van g is 4.
+             Het hoogste punt van de grafiek van g valt samen met het hoogste
+                punt van de grafiek van f.
+             De amplitude van de grafiek van g is twee keer zo groot als de
+                amplitude van de grafiek van f.
+            Zie figuur 2.
+            figuur 2
+             y
+
+
+
+
+                                                               f
+
+             O                                                      2 x
+
+
+
+
+                                                               g
+
+
+
+
+5p    18    Bereken mogelijke exacte waarden van p, q, r en s.
+
+
+HA-1025-a-18-1-o                                          12 / 12                 lees verdereinde
+                                                                                               ►►► 
+

@@ -1,0 +1,649 @@
+                                                                   Examen VWO
+
+                                                                          2019
+                                                                              tijdvak 2
+                                                                       dinsdag 18 juni
+                                                                     13:30 - 16:30 uur
+
+
+                                                                      wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter dit examen en achter de uitwerkbijlage is een erratum opgenomen.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 83 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1024-a-19-2-o
+            OVERZICHT FORMULES
+
+
+            Differentiëren
+              naam van de regel                functie                    afgeleide
+
+              somregel                         s ( x)  f ( x)  g ( x)   s' ( x)  f ' ( x)  g' ( x)
+
+              verschilregel                    s ( x)  f ( x)  g ( x)   s' ( x)  f ' ( x)  g' ( x)
+
+              productregel                     p ( x)  f ( x)  g ( x)   p' ( x)  f ' ( x)  g ( x)  f ( x)  g' ( x)
+
+                                                         f ( x)                       f ' ( x)  g ( x)  f ( x)  g' ( x)
+              quotiëntregel                    q( x)                     q' ( x) 
+                                                         g ( x)                                    ( g ( x)) 2
+                                                                          k' ( x)  f ' ( g ( x))  g' ( x) of
+              kettingregel                     k ( x)  f ( g ( x))       dk df dg
+                                                                                    
+                                                                          dx dg dx
+
+
+            Logaritmen
+              regel                                       voorwaarde
+              g
+                   log(a )  g log(b)  g log( ab)         g > 0, g  1, a > 0, b > 0
+              g
+                   log(a)  g log(b)  g log( ba )         g > 0, g  1, a > 0, b > 0
+              g
+                   log(a p )  p  g log(a )               g > 0, g  1, a > 0
+                              p
+                                  log(a )
+              g
+                   log(a )  p                             g > 0, g  1, a > 0, p > 0, p  1
+                                  log( g )
+
+
+
+
+VW-1024-a-19-2-o                                          2 / 16                                          lees verder ►►►
+VW-1024-a-19-2-o   3 / 16   lees verder ►►►
+      Continu Vakantie Onderzoek
+
+            Het Centraal Bureau voor de Statistiek (CBS) doet sinds 1990 jaarlijks
+            onderzoek naar het vakantiegedrag van Nederlanders. Dit onderzoek
+            wordt het Continu Vakantie Onderzoek (CVO) genoemd.
+            Bij dit onderzoek gaat het CBS niet uit van alle Nederlanders. Mensen die
+            niet op vakantie kunnen doordat ze bijvoorbeeld in een instelling zitten,
+            doen niet mee in het onderzoek. De onderzochte populatie wordt de CVO-
+            populatie genoemd. Deze is dus kleiner dan de hele Nederlandse
+            populatie.
+
+            Uit het CVO blijkt dat 80,7% van de CVO-populatie in 2016 ten minste één
+            keer op vakantie is geweest. Deze 80,7% ging maar liefst 35,5 miljoen
+            keer op vakantie: een gemiddelde van 2,78 vakanties per persoon.
+            Met behulp van deze gegevens is de omvang van de CVO-populatie
+            in 2016 te berekenen.
+3p    1     Bereken de omvang van de CVO-populatie in 2016. Geef je antwoord in
+            gehele duizendtallen.
+
+            In het vervolg van deze opgave zullen we de CVO-populatie gewoon
+            ‘Nederlanders’ noemen. Uit het CVO blijkt dat het aantal vakanties naar
+            het buitenland in de loop van de jaren behoorlijk veranderd is. In figuur 1
+            is het verloop van het aantal buitenlandse vakanties weergegeven.
+
+            figuur 1                   aantal buitenlandse vakanties
+                              19 000
+
+
+
+             aantal (x1000)
+                              18 000
+
+                              17 000
+
+                              16 000
+
+                              15 000
+
+                              14 000
+
+                              13 000
+
+                              12 000
+
+                              11 000
+
+                              10 000
+                                   0
+                                  90   1992   1994   1996   1998   2000   2002   2004   2006   2008   2010   2012   2014
+                                19
+                                                                                                                           jaar
+
+
+
+VW-1024-a-19-2-o                                                     4 / 16                                         lees verder ►►►
+            In figuur 1 is bovendien de trendlijn voor het verloop van het aantal
+            buitenlandse vakanties met een stippellijn in de periode tot en met 2001
+            weergegeven.
+
+            Hoewel het CVO pas sinds 1990 plaatsvindt, is er, gebruikmakend van de
+            trendlijn tot en met 2001, toch een uitspraak te doen over het aantal
+            buitenlandse vakanties in de periode voorafgaand aan 1990.
+
+4p    2     Bereken met behulp van lineair extrapoleren het aantal buitenlandse
+            vakanties in 1985.
+
+            In figuur 1 is te zien dat de lineaire trend die er tot en met 2001 was,
+            eindigt. In 2002 is er een forse toename. Die is te verklaren doordat het
+            CBS sinds 2002 één of meer overnachtingen bij familie in het buitenland
+            ook als een vakantie telt, terwijl dat in de jaren ervoor niet het geval was.
+
+            In figuur 2 is nogmaals het aantal buitenlandse vakanties weergegeven.
+            Verder is ook het verloop van het totaal aantal vakanties (in binnen- en
+            buitenland samen) weergegeven. Bovendien is voor beide een model
+            opgesteld en weergegeven. Die modellen komen pas na de volgende
+            vraag aan de orde.
+
+            figuur 2                      aantal vakanties in binnen- en buitenland
+                              40 000
+
+
+
+             aantal (x1000)
+                              35 000
+
+                              30 000
+
+                              25 000
+
+                              20 000
+
+                              15 000
+
+                              10 000
+
+                                  0
+                                  90     1992   1994   1996   1998   2000   2002   2004   2006   2008   2010   2012   2014
+                                 19
+                                                                                                                             jaar
+                                       Legenda:
+                                            totaal aantal vakanties                       model totaal aantal vakanties
+                                            aantal vakanties buitenland                   model aantal vakanties buitenland
+
+3p    3     Onderzoek met behulp van de werkelijke aantallen in figuur 2 of het
+            percentage buitenlandse vakanties als percentage van het totaal aantal
+            vakanties in de periode 2002–2016 is toe- of afgenomen.
+
+
+
+
+VW-1024-a-19-2-o                                                      5 / 16                                          lees verder ►►►
+            Bij de modellen in figuur 2 horen de volgende formules:
+                   B  10,1t ²  587t  10 200 en T  20,3t ²  951t  24 800
+            In dit model is B het aantal buitenlandse vakanties per jaar, T het totaal
+            aantal vakanties per jaar en t de tijd in jaren met t  0 in het jaar 1990.
+            B en T zijn beide in duizenden.
+
+            Volgens bovenstaand model had het aantal binnenlandse vakanties ook
+            een maximum.
+4p    4     Bereken in welk jaar dat was.
+
+            Het CBS onderzoekt ook hoe lang mensen op vakantie gaan. Hoewel
+            Nederlanders steeds vaker op vakantie gaan, worden deze vakanties
+            steeds korter.
+
+            Een model dat het aantal vakanties per jaar en de lengte van deze
+            vakanties beschrijft, is:
+                   A  0,0136t  2, 43 en L  0,024t  9,3
+            In dit model is A het gemiddelde aantal vakanties per jaar per
+            Nederlander, L de gemiddelde lengte van een vakantie in dagen, en t is
+            weer de tijd in jaren met t  0 in het jaar 1990.
+
+            Volgens dit laatste model blijft het aantal dagen per jaar dat een
+            Nederlander gemiddeld op vakantie gaat, de rest van deze eeuw stijgen.
+4p    5     Bereken vanaf welk jaar een Nederlander gemiddeld minstens 25 dagen
+            op vakantie gaat per jaar.
+
+
+
+
+VW-1024-a-19-2-o                              6 / 16                              lees verder ►►►
+                   Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-19-2-o              7 / 16                  lees verder ►►►
+      Lengtegroei bij jongens
+
+            In deze opgave bekijken we de (gemiddelde) lengte van Nederlandse
+            jongens tot 21 jaar. Met ‘lengte’ wordt in de hele opgave de gemiddelde
+            lengte bedoeld.
+            We gebruiken in deze opgave een veelgebruikt model uit de
+            kindergeneeskunde, het zogenaamde KKP-model. In dit model bestaat de
+            lengte uit drie componenten L1, L2 en L3. Bij elkaar opgeteld geven deze
+            drie componenten de lengte van Nederlandse jongens. In figuur 1 staan
+            de drie componenten L1, L2 en L3 en is ook de som van de drie getekend.
+
+            figuur 1
+
+                      200
+             lengte
+            (in cm)                                                                  L1 + L2 + L3
+                      180
+
+                      160
+
+                      140
+
+                      120
+
+                      100
+                                                                                     L2
+                       80                                                            L1
+
+                       60
+
+                       40
+
+                       20                                                            L3
+
+                        0
+                            0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+                                                                   leeftijd (in jaren)
+
+            In het eerste half jaar is de bijdrage van de componenten L2 en L3 voor de
+            lengte verwaarloosbaar en is L1 alleen een goede benadering voor de
+            lengte. De formule voor L1 is:
+
+                   L1  76, 4  19, 4  0,9704w met L1 in cm en w de leeftijd in weken
+
+            De formule die hoort bij L1 heeft een grenswaarde.
+4p    6     Bereken na hoeveel weken de waarde van L1 10 cm van deze
+            grenswaarde verwijderd is. Geef je antwoord in gehele weken.
+
+
+
+
+VW-1024-a-19-2-o                                   8 / 16                                lees verder ►►►
+3p    7     Bereken met behulp van de afgeleide van L1 de groeisnelheid in cm/week
+            van een jongen een half jaar na zijn geboorte, dus als w  26 . Geef je
+            antwoord in twee decimalen.
+
+            Na het eerste halfjaar is de bijdrage van de component L2 niet meer te
+            verwaarlozen. De formule voor L2 is:
+
+                   L2  0, 235t 2  9,5t  4,7 met L2 in cm en t de leeftijd in jaren
+            Deze formule speelt verderop in deze opgave nog een rol.
+
+            De component L3 is de extra lengte als gevolg van de groeispurt die
+            jongens in de pubertijd ondergaan. De formule voor L3 is:
+                        16,1
+                   L3             met L3 in cm en t de leeftijd in jaren
+                    1  e16,41,2t
+            Voor de afgeleide van L3 geldt:
+                           19,32  e16,41,2t
+                   L3 
+                           1  e            
+                                                 2
+                                 16,41,2t
+
+
+
+3p    8     Toon aan dat de bovenstaande formule van de afgeleide juist is.
+
+            Met behulp van de afgeleide van L3 kun je op elk moment in de pubertijd
+            berekenen hoe groot de extra groeisnelheid als gevolg van die
+            groeispurt is.
+3p    9     Bereken met behulp van die afgeleide hoe groot de extra groeisnelheid in
+            cm/jaar maximaal is. Geef je antwoord in één decimaal.
+
+            De som van L1, L2 en L3 levert de lengte L van een jongen. L kan met de
+            volgende formule beschreven worden:
+                                                                          16,1
+                   L  19, 4  0, 2096t 0, 235t 2  9,5t  71,7 
+                                                                      1  e16,41,2t
+            Hierbij is L in cm en t de leeftijd in jaren.
+
+4p   10     Laat zien hoe deze formule met behulp van de drie genoemde
+            componenten kan worden opgesteld.
+
+
+
+
+VW-1024-a-19-2-o                                     9 / 16                            lees verder ►►►
+            In figuur 2 zijn voor de leeftijden van 1 jaar tot en met 21 jaar zowel de
+            modellengte volgens de KKP-formule (de vloeiende kromme) als de echte
+            groeigegevens, gebaseerd op de gemiddelde (werkelijke) lengte van
+            jongens, (de stippen) weergegeven. Zoals je kunt zien, past het KKP-
+            model behoorlijk goed bij de werkelijkheid; de stippen passen nagenoeg
+            perfect op de kromme.
+            Omdat het verschil tussen de echte groeigegevens en die van het model
+            zo klein is, is die afwijking tussen de echte groeigegevens en de lengte
+            volgens het model nog eens weergegeven als de gestippelde,
+            onregelmatige grafiek. Hierbij moet de rechter verticale as gebruikt
+            worden. Zo is uit figuur 2 bijvoorbeeld af te lezen dat de werkelijke lengte
+            op 8-jarige leeftijd 0,15 cm afwijkt van de lengte volgens het model.
+
+            figuur 2
+
+                   245,00                                                                 0,5
+     echte lengte; 235,00                                                                    afwijking
+     KKP-formule 225,00                                                                   0,4 (in cm)
+     (beide in cm)
+                   215,00
+                   205,00                                                                 0,3
+                   195,00
+                   185,00                                                                 0,2
+                   175,00
+                   165,00                                                                 0,1
+                   155,00
+                   145,00                                                                 0
+                   135,00
+                   125,00                                                                 −0,1
+                   115,00
+                   105,00                                                                 −0,2
+                    95,00
+                    85,00                                                                 −0,3
+                    75,00
+                    65,00                                                                 −0,4
+                        0
+                            1    3    5     7     9    11   13   15    17     19     21
+                                                                      lengte (in jaren)
+                            Legenda:
+                                 werkelijkheid
+                                 model
+                                 afwijking
+
+            In figuur 2 is af te lezen bij welke leeftijd de absolute afwijking van de
+            berekende gemiddelde lengte met de KKP-formule ten opzichte van de
+            echte groeigegevens het grootst is.
+            De figuur staat ook, vergroot, op de uitwerkbijlage.
+5p   11     Bepaal met behulp van de figuur op de uitwerkbijlage bij welke leeftijd die
+            afwijking relatief het grootst is. Licht je antwoord toe.
+
+
+
+
+VW-1024-a-19-2-o                                 10 / 16                                      lees verder ►►►
+                   Ga verder op de volgende pagina.
+
+
+
+
+VW-1024-a-19-2-o             11 / 16                  lees verder ►►►
+      Wetmatige beweging
+
+            Ruim 50 jaar geleden maakte de kunstenaar      figuur 1
+            Peter Struycken het werk ‘Wetmatige beweging’.
+            Dit kunstwerk is opgebouwd uit 625 zwarte
+            vormen: vierkanten en andere rechthoeken, die
+            met een bepaalde regelmaat verdeeld zijn over
+            een wit vlak.
+            Zie figuur 1.
+
+
+            Elk van de 625 zwarte vormen is gemaakt op
+            basis van een 3×3-rooster van 9 vierkanten.
+            Hierbij gelden de volgende voorwaarden:
+             het middelste vierkant in zo’n 3×3-rooster is altijd zwart;
+             een vorm bestaat uit 1, 2, 3, 4, 6 of 9 zwarte vierkanten;
+             een vorm is een rechthoek (en kan dus ook een vierkant zijn).
+            Zie figuur 2 voor vier voorbeelden.
+
+            figuur 2
+
+
+
+
+            De twee vierkante vormen in figuur 2 worden als verschillende vormen
+            opgevat, omdat ze op verschillende plaatsen in het 3×3-rooster staan.
+
+5p   12     Bereken hoeveel verschillende vormen de kunstenaar op deze manier kan
+            maken.
+
+            In deze opgave gaan we ervan uit dat de hokjes in het 3×3-rooster
+            allemaal 1 cm bij 1 cm zijn.
+
+            Om de totale oppervlakte te berekenen van de 625 gebruikte zwarte
+            vormen, verdelen we het werk in 9 delen. Zie de uitwerkbijlage. In elk deel
+            komt slechts één type vorm voor.
+             Het middelste deel bestaat uit één vorm met oppervlakte 4 cm2.
+             Er zijn 4 delen die elk uit 12 dezelfde vormen bestaan.
+             Er zijn 4 driehoekige delen met elk evenveel vormen.
+
+4p   13     Bereken de totale oppervlakte in cm2 van de 625 gebruikte zwarte vormen
+            door uitsluitend gebruik te maken van bovenstaande gegevens en de
+            figuur op de uitwerkbijlage.
+
+
+
+VW-1024-a-19-2-o                           12 / 16                            lees verder ►►►
+            In het midden van het kunstwerk staat dus één vorm met oppervlakte
+            4 cm2. Dat is tevens de enige vorm met oppervlakte 4 cm2 die in het
+            kunstwerk voorkomt. Je kunt het kunstwerk opgebouwd zien vanuit het
+            midden door vanuit dat midden naar de rand van het kunstwerk te ‘lopen’.
+            Je komt dan steeds een volgende zogeheten schil tegen, een
+            rechthoekige rand van vormen. Zie ook figuur 3. Vanuit het midden is het
+            werk opgebouwd uit 12 schillen.
+
+            In het vervolg van deze opgave bekijken we delen van dit kunstwerk,
+            waarbij het aantal schillen variabel is. Het aantal schillen noemen we n.
+            Voor het originele kunstwerk geldt dus n  12 .
+
+            Met bijvoorbeeld n  2 krijgen we het deel van het                            figuur 3
+            kunstwerk zoals in figuur 3. In figuur 3 zie je ook
+            de 2 verschillende schillen plus de middenvorm
+            met oppervlakte 4 cm2.
+
+
+            In figuur 3 zijn in totaal 24 vormen rondom de vorm met oppervlakte 4 cm2
+            in het midden gerangschikt. Deze 24 vormen zijn als volgt onderverdeeld:
+
+                  vier keer , vier keer         , vier keer     en vier keer         ;
+                  twee keer     , twee keer , twee keer               en twee keer           .
+
+            Stel je voor dat je deze 24 vormen weghaalt van hun huidige posities en
+            ze daarna willekeurig over de zo vrijgekomen posities gaat herverdelen
+            zonder de vormen te draaien. De middenvorm met oppervlakte 4 cm2 blijft
+            daarbij dus op zijn plaats.
+4p   14     Bereken hoeveel verschillende figuren je zo kunt krijgen.
+
+            De totale oppervlakte in cm2 van de gebruikte vormen bij n schillen
+            noemen we O(n) .
+            Voor O (n) is een formule opgesteld:
+
+            (1) O (n)  1  4  n  (2  2  6  6)  12 n  (1  2n  1)  (1  3  3  9)
+            Deze formule is te herschrijven als:
+            (2) O ( n)  (4n  2) 2
+
+3p   15     Laat zien dat beide formules (1) en (2) te herleiden zijn tot dezelfde
+            formule.
+
+            Formule (2) is een directe formule. We kunnen deze formule ook
+            gebruiken om een recursieve formule op te stellen voor O(n) .
+            Zo’n formule heeft de vorm:
+                  O (n  1)  O( n)  an  b met O (0)  4
+4p   16     Bereken de waarden van a en b.
+
+
+
+VW-1024-a-19-2-o                                     13 / 16                                      lees verder ►►►
+      De bankenformule
+
+            Binnen de economie spelen rentepercentages en de bijbehorende
+            verdubbelingstijden een grote rol. De verdubbelingstijd is de tijd die nodig
+            is om een bedrag te verdubbelen.
+
+            In de praktijk wordt er binnen de economie vaak gebruikgemaakt van
+            vuistregels om bij een gegeven rentepercentage de verdubbelingstijd te
+            schatten.
+
+            Twee voorbeelden van zo’n vuistregel zijn de zogeheten 72-regel en de
+            zogeheten bankenformule:
+                                                    72
+                  volgens de 72-regel geldt: T       ;
+                                                     p
+                                                           70
+                  volgens de bankenformule geldt: T         .
+                                                            p
+            In beide vuistregels is p het rentepercentage per jaar en is T de
+            verdubbelingstijd in jaren.
+
+            Een bank biedt een spaarrekening met een rente van 1,00% per jaar aan.
+            Met behulp van de bankenformule kan geschat worden welke
+            verdubbelingstijd hierbij geldt. Om met de 72-regel tot dezelfde
+            verdubbelingstijd te komen, zou er een iets hoger rentepercentage
+            moeten gelden.
+3p   17     Bereken dit percentage. Geef je antwoord in twee decimalen.
+
+            De schatting van de verdubbelingstijd volgens de 72-regel valt altijd hoger
+            uit dan de schatting volgens de bankenformule. Hoe hoger het
+            rentepercentage echter is, hoe kleiner het verschil in verdubbelingstijd
+            wordt tussen beide vuistregels.
+3p   18     Bereken vanaf welk rentepercentage de schattingen ten hoogste een
+            maand van elkaar verschillen.
+
+            Het werkelijke verband tussen p en T is (1  0,01 p )T  2 .
+
+            Van de twee genoemde vuistregels wijkt de schatting volgens de
+            bankenformule bij lage rentepercentages het minst af van de werkelijke
+            verdubbelingstijd.
+
+            Bij een rentepercentage van 1,10% per jaar is het verschil tussen de
+            schatting van de verdubbelingstijd volgens de bankenformule en de
+            werkelijke verdubbelingstijd slechts enkele maanden.
+4p   19     Bereken dit verschil. Geef je antwoord in gehele maanden.
+
+
+
+
+VW-1024-a-19-2-o                              14 / 16                           lees verder ►►►
+            De schatting volgens de 72-regel en de schatting volgens de
+            bankenformule worden beide gegeven door een formule van de
+            vorm p  T  c met c  72 bij de 72-regel en c  70 bij de bankenformule.
+            Deze waarden voor c zijn onder andere zo gekozen om het rekenwerk te
+            vergemakkelijken.
+            Door in de formule p  T  c met een andere waarde van c te rekenen, kan
+            er een nauwkeurigere schatting van de verdubbelingstijd gegeven
+            worden.
+
+            Hiervoor bekijken we nogmaals het werkelijke verband tussen p en T.
+            Dit verband kan ook geschreven worden als:
+
+                                   
+                   ln (1  0,01 p )T  ln(2)
+
+            Bij economen is bovendien bekend dat – voor de gangbare waarden van p
+            die in de economie gelden – de volgende benadering gebruikt mag
+            worden:
+                   ln(1  0,01 p )  0,01 p
+
+                                                                
+            Met behulp van het verband ln (1  0,01 p )T  ln(2) en de aanname
+             ln(1  0,01 p )  0,01 p kan nu een nauwkeurigere waarde van c berekend
+            worden.
+4p   20                                                     
+            Onderzoek met behulp van ln (1  0,01 p )T  ln(2) en
+            ln(1  0,01 p )  0,01 p of deze nauwkeurigere waarde hoger of lager is dan
+            de gekozen waarde c  70 in de bankenformule.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1024-a-19-2-o                                   15 / 16                     lees verder ►►►
+      Kantwerk
+
+            Aan de rand van het dorp Olst in Overijssel is in 2008 het kunstwerk
+            'Kantwerk' geplaatst van de Belgische kunstenaar Marc de Roover.
+            Zie de foto.
+
+            foto
+
+
+
+
+            Het kunstwerk stelt de golvende rivier de IJssel voor. De voorkant van het
+            kunstwerk kan door een sinusoïde benaderd worden.
+
+            Op de website van de betreffende gemeente is te lezen dat er voor dit
+            kunstwerk 3200 latten zijn gebruikt en dat het een lengte heeft van
+            100 meter. Telwerk leverde op dat iedere hele periode is opgebouwd
+            uit 60 latten.
+            De uiteindes van de laagste en de hoogste latten liggen respectievelijk
+            17 cm en 70 cm boven het gras.
+
+            Annemarie en Floortje willen een      figuur
+            paar mooie foto’s voor hun
+            profielwerkstuk maken. Hiervoor
+            willen ze een soort bankje creëren
+                                                            plank
+            door een plank horizontaal in de golf
+            neer te leggen. Zie de schets in de
+            figuur.
+
+            Annemarie neemt hiervoor een plank met een lengte van één meter mee.
+            Floortje neemt een plank mee met een andere lengte. De zithoogte van
+            het bankje van Floortje komt uit op 50 cm boven het gras.
+
+9p   21     Onderzoek of Annemarie hoger of lager dan Floortje zit.
+
+
+
+
+VW-1024-a-19-2-o                           16 / 16                           lees verdereinde
+                                                                                          ►►► 
+ erratumblad                                                            2019-2
+
+wiskunde A vwo
+
+Centraal examen vwo
+
+Tijdvak 2
+
+Opgaven en uitwerkbijlage
+
+
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen wiskunde A vwo op dinsdag 18 juni aanvang 13.30 uur, moeten
+de kandidaten de volgende mededeling ontvangen. Deze mededeling moet bij het begin
+van de zitting worden voorgelezen en/of aan de kandidaten worden uitgereikt.
+
+
+In het opgavenboekje, op pagina 10, bij vraag 11,
+en
+in de uitwerkbijlage, op pagina 2, bij vraag 11,
+
+moet in figuur 2 onder de horizontale as
+
+lengte
+
+vervangen worden door:
+
+leeftijd
+
+
+
+Namens het College voor Toetsen en Examens,
+
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+VW-1024-a-19-2-ou-E
+

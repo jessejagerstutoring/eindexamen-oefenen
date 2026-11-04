@@ -1,0 +1,326 @@
+                                                                 Examen VWO
+
+                                                                     2025
+                                                                            tijdvak 1
+                                                                   woensdag 14 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 18 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-25-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t ) sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t ) sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t ) sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t ) sin(u )
+
+             sin(2t )  2 sin(t ) cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2 cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-25-1-o                                              2 / 11                   lees verder ►►►
+      Vierdegraadsfunctie
+
+            De vierdegraadsfunctie f wordt gegeven door f ( x)  x 4  30 x 2 .
+            De grafiek van f heeft twee buigpunten met dezelfde y-coördinaat.
+
+            De y-coördinaat van de buigpunten is 125 .
+
+4p    1     Bewijs dat de y-coördinaat van de buigpunten 125 is.
+
+            De lijn door de buigpunten B en C snijdt de grafiek van f in twee andere
+            punten, A en D. Zie de figuur.
+
+            figuur
+
+
+
+
+4p    2     Bereken exact de lengte van AD.
+
+
+
+
+VW-1025-a-25-1-o                            3 / 11                           lees verder ►►►
+      Druppel
+
+            De kromme K wordt gegeven door de volgende bewegingsvergelijkingen:
+
+                      x(t )  sin(t )   cos(t )  1
+                                                                  met 0  t  2π
+                      y (t )  cos(t )
+
+            Deze kromme is weergegeven in de figuur.
+
+            figuur
+
+
+
+
+            In drie punten van deze kromme loopt de raaklijn aan de kromme verticaal.
+6p    3     Bereken exact de coördinaten van deze drie punten.
+
+            Voor de punten op kromme K geldt:
+                     x2   y 4  2 y3  2 y  1
+4p    4     Bewijs dit.
+
+            Kromme K sluit een vlakdeel in dat symmetrisch is in de y-as. Door dit
+            vlakdeel te wentelen om de y-as ontstaat een omwentelingslichaam in de
+            vorm van een druppel.
+4p    5     Bereken exact de inhoud van dit omwentelingslichaam.
+
+
+
+
+VW-1025-a-25-1-o                                          4 / 11                    lees verder ►►►
+      Cirkels in een cirkel
+
+            Gegeven is de cirkel c1 met middelpunt M en straal 3.
+            Verder zijn gegeven de cirkels c2 , c3 en c4 , zó dat geldt:
+                  Cirkels c2 , c3 en c4 raken cirkel c1 .
+                  Cirkel c2 heeft middelpunt N en straal 2.
+                  Cirkel c3 heeft middelpunt P en straal r.
+                  Cirkel c4 heeft middelpunt Q en straal r.
+                  Cirkel c3 en c4 raken elkaar in punt S.
+                  Cirkels c3 en c4 raken c2 .
+
+            Zie de figuur. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur
+
+
+
+
+            Er geldt: MS  9  6r
+
+3p    6     Bewijs dit. Je kunt hierbij gebruikmaken van de figuur op de
+            uitwerkbijlage.
+
+            Er geldt verder dat MN  1 .
+
+6p    7     Bereken exact de waarde van r. Je kunt hierbij gebruikmaken van de
+            figuur op de uitwerkbijlage.
+
+
+
+
+VW-1025-a-25-1-o                                   5 / 11                  lees verder ►►►
+      Een wortelfunctie en haar inverse
+
+            Voor x  0 worden de functies f en g gegeven door f ( x)        1
+                                                                             2   x 2  1 en
+
+             g ( x)  2 x 2  2 . De functies f en g zijn elkaars inverse.
+
+3p    8     Bewijs dat f en g elkaars inverse zijn.
+
+            Lijn k met vergelijking y   x  a , met a  2 , snijdt de grafiek van f in
+            punt P en de grafiek van g in punt Q. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De lengte van lijnstuk PQ is afhankelijk van a.
+            Er geldt: PQ  3a 2  4 a 2  1
+
+            Er is een waarde van a waarvoor de lengte van lijnstuk PQ minimaal is.
+5p    9     Bereken exact deze waarde van a.
+
+
+
+
+VW-1025-a-25-1-o                                6 / 11                                lees verder ►►►
+            In figuur 2 zijn opnieuw de grafieken van f , g en k weergegeven, nu voor
+            a  17 . Lijn k snijdt de grafiek van f in het punt 10, 7  .
+            Vlakdeel V is het gebied dat begrensd wordt door de grafieken van f en g,
+            de x-as, de y-as en lijn k. In figuur 2 is V grijs gemaakt.
+
+            figuur 2
+
+
+
+
+6p   10     Bereken de oppervlakte van V. Geef je eindantwoord in twee decimalen.
+
+
+
+
+VW-1025-a-25-1-o                            7 / 11                           lees verder ►►►
+      Op en neer
+
+            Twee leerlingen doen als volgt een onderzoek voor hun profielwerkstuk:
+
+            Een metalen blokje hangt       figuur 1
+            aan een lange veer die is
+            bevestigd aan een plafond
+            op een hoogte van 350 cm.
+            Het blokje wordt recht naar
+            beneden getrokken en op
+            t  0 losgelaten. Het blokje
+            beweegt vervolgens op en
+            neer. Zie figuur 1.
+
+            De afmetingen van het
+            blokje en de wrijvingskracht
+            worden verwaarloosd.
+
+
+
+
+            Zowel het blokje als de veer heeft een zwaartepunt. In deze opgave
+            bekijken we eerst de zwaartepunten van het blokje en de veer apart.
+
+            De hoogte van het zwaartepunt van het blokje wordt benaderd door het
+            volgende model: Z blokje (t )  150  100 cos(4t )
+            Hierbij is Z blokje de hoogte van het zwaartepunt van het blokje in cm en
+            t de tijd in seconden.
+
+            Het zwaartepunt van de veer bevindt zich op elk moment in het midden
+            van de veer.
+
+3p   11     Laat met behulp van het gegeven model van het blokje en figuur 1 zien
+            dat voor de hoogte van het zwaartepunt van de veer in cm geldt: de
+            amplitude is 50 en de evenwichtsstand is 250.
+
+
+
+
+VW-1025-a-25-1-o                             8 / 11                             lees verder ►►►
+            Op het moment dat het blokje in het laagste punt wordt losgelaten, is zijn
+            snelheid 0. Daarna neemt de snelheid toe tot de maximale snelheid, om
+            vervolgens weer af te nemen, totdat in het hoogste punt de snelheid weer 0
+            is. In figuur 2 is de grafiek van de snelheid v tijdens de opgaande beweging
+            weergegeven.
+
+            figuur 2
+
+
+
+
+            Tijdens de opgaande beweging zijn er twee hoogtes waarop de snelheid
+            van het blokje gelijk is aan 255 cm/seconde.
+3p   12     Bereken deze twee hoogtes. Geef je eindantwoord in centimeters
+            nauwkeurig.
+
+            De hoogte van het zwaartepunt van de veer wordt benaderd door het
+            volgende model: Z veer (t )  250  50 cos(4t )
+            Hierbij is Z veer de hoogte van het zwaartepunt van de veer in cm en t de tijd
+            in seconden.
+
+            Er kan ook gekeken worden naar het zwaartepunt van het blokje en de veer
+            samen. De massa van de veer is 600 gram en de massa van het blokje is
+            1000 gram. Z totaal is de hoogte van het zwaartepunt van blokje en veer
+            samen.
+3p   13     Stel een formule op van Z totaal in de vorm Z totaal (t )  a  b cos(4t ) . Licht je
+            werkwijze toe.
+
+
+
+
+VW-1025-a-25-1-o                                   9 / 11                                  lees verder ►►►
+      Een raaklijn met twee cirkels
+
+            Gegeven zijn de punten A ( 6,  6) en B ( 18,  2) .
+                                                      x  0   1 
+            Lijn k is de lijn met vectorvoorstelling       t   .
+                                                      y   20   1
+            Er bestaan twee cirkels c1 en c2 die voldoen aan de volgende eisen:
+                  Punt A en punt B liggen op de cirkel.
+                  De cirkel raakt aan lijn k.
+            Cirkel c1 heeft middelpunt M 1 en raakt aan lijn k in het punt R1 .
+            Cirkel c2 heeft middelpunt M 2 en raakt aan lijn k in het punt R2 .
+            Zie de figuur. In de figuur is c2 vanwege de grootte slechts gedeeltelijk
+            weergegeven. Middelpunt M 2 valt buiten de figuur.
+            figuur
+
+
+
+
+            Voor een willekeurig punt P op de middelloodlijn van AB geldt:
+            P ( p, 3 p  32)
+            De loodrechte projectie van punt P op lijn k is P' . Zie de figuur.
+            De coördinaten van P' zijn (  p  6, p  26) .
+
+4p   14     Bewijs dat de coördinaten van P' juist zijn.
+
+            M 1 en M 2 liggen, net als P, op de middelloodlijn van AB. Als P samenvalt
+            met M 1 , dan geldt dat PP' gelijk is aan de straal van de bijbehorende
+            cirkel en dus ook gelijk aan PB en PA. Met behulp hiervan kunnen de
+            coördinaten van M 1 en M 2 worden berekend.
+5p   15     Bereken exact de coördinaten van M 1 en M 2 .
+
+
+
+VW-1025-a-25-1-o                               10 / 11                            lees verder ►►►
+      Logaritmische functies
+
+            De functie f wordt gegeven door f ( x)  ln( x  1) .
+            De functie g p wordt gegeven door g p ( x )  ln( px ) voor 0  p  1 .
+            De grafiek van g p ligt geheel onder de grafiek van f.
+
+            In figuur 1 is de grafiek van f weergegeven. figuur 1
+            Ook is voor een waarde van p de grafiek
+            van g p weergegeven.
+
+            De lijn met vergelijking x  a (met a  0 )
+            snijdt de grafieken van f en g p in de
+            punten A en B.
+
+            Voor p  1 is er een waarde van a
+            waarvoor geldt: OB  OA  2
+4p   16     Bereken deze waarde van a. Geef je
+            eindantwoord in twee decimalen.
+
+            Voor een bepaalde waarde van p geldt:
+            als a onbegrensd toeneemt, nadert de afstand AB tot 1.
+4p   17     Bereken exact deze waarde van p.
+
+            De functie hq wordt gegeven door                                 figuur 2
+             hq ( x )  12 ln(  x )  q .
+            In figuur 2 is voor een bepaalde waarde van
+            q de grafiek van hq weergegeven. Voor
+            deze waarde van q raakt de grafiek van hq
+            de grafiek van f links van de y-as.
+6p   18     Bereken algebraïsch deze waarde van q.
+            Geef je eindantwoord in twee decimalen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-25-1-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

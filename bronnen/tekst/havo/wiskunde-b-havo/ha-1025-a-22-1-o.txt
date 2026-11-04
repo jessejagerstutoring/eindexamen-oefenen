@@ -1,0 +1,390 @@
+                                                                   Examen HAVO
+
+                                                                         2022
+                                                                                tijdvak 1
+                                                                          vrijdag 13 mei
+                                                                       13.30 - 16.30 uur
+
+
+                                                                       wiskunde B
+
+
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-22-1-o
+Ga verder op de volgende pagina.
+
+
+
+
+HA-1025-a-o                        2 / 13   lees verder ►►►
+      Raaklijn aan cirkel
+
+              De cirkel c is gegeven door de vergelijking x 2  y 2  6 x  6 y  13 . De lijn l
+              met vergelijking y  2 x  2 raakt de cirkel in het punt A. Zie figuur 1.
+
+              figuur 1
+
+
+
+
+4p    1       Bereken exact de coördinaten van A.
+
+              l snijdt de x-as in het punt S en de y-as in het punt T.
+              Cirkel d is de cirkel met middellijn ST. Zie figuur 2.
+
+              figuur 2
+
+
+
+
+5p    2       Bewijs dat d door O gaat.
+
+
+
+
+HA-1025-a-o                                       3 / 13                               lees verder ►►►
+      Versturen van data
+
+              Data kan via verschillende kanalen verstuurd worden, bijvoorbeeld via
+              een kabel of draadloos.
+
+              Bij het versturen van data is het belangrijk dat deze foutloos verstuurd
+              wordt. Data kan foutloos verstuurd worden als de zogeheten
+              kanaalcapaciteit groot genoeg is.
+
+              De kanaalcapaciteit is de maximale hoeveelheid data die per seconde
+              over een kanaal overgedragen kan worden.
+              Een formule waarmee de kanaalcapaciteit bepaald kan worden, is
+                    C  B  2 log 1  R     (formule 1)
+
+              Hierin is
+               C de kanaalcapaciteit in bits per seconde (bps);
+               B de bandbreedte in hertz (Hz);
+               R de signaal-ruisverhouding.
+              Deze signaal-ruisverhouding is de verhouding tussen de sterkte van het
+              gewenste signaal en de sterkte van de aanwezige ruis.
+
+              Met de formule
+                    S  10  10 log  R      (formule 2)
+
+              kan R omgerekend worden naar decibel (dB).
+
+
+              In 2016 had een goed werkende draadloos-internetverbinding vaak een
+              bandbreedte van 20 106 Hz en een waarde van S van 40 dB.
+5p    3       Bereken met behulp van de bovenstaande formules de kanaalcapaciteit
+              van deze verbinding. Geef je eindantwoord in miljoenen bps.
+
+
+
+
+HA-1025-a-o                                   4 / 13                             lees verder ►►►
+              Als de ruis (veel) sterker is dan het signaal, dan is R (erg) klein. Voor
+              zulke kleine waarden van R werkt men in de praktijk met de volgende
+              benadering voor C:
+                    C  1, 44  B  R   (formule 3)
+              In figuur 1 zijn voor B  1000 de grafieken van formules 1 en 3
+              weergegeven, waarbij de grafiek van formule 3 gestippeld is.
+
+              figuur 1
+
+
+
+
+              In figuur 1 is te zien dat voor groter wordende R de benadering steeds
+              slechter wordt. Men vindt deze benadering acceptabel als het verschil
+              tussen de waarde van C volgens formule 3 en de waarde van C volgens
+              formule 1 maximaal 1% is van de waarde van C volgens formule 1.
+3p    4       Bereken in het geval dat B  1000 tot welke waarde van R dit het geval is.
+              Rond de door jou gevonden waarde van R af op drie decimalen.
+
+
+
+
+HA-1025-a-o                                    5 / 13                              lees verder ►►►
+              Ook als het signaal veel sterker is dan de ruis, dat wil zeggen voor grote
+              waarden van R, wordt er in de praktijk vaak met een benadering voor C
+              gewerkt.
+
+              Voor grote waarden van R geldt 1  R  R . In dat geval kan formule 1
+              benaderd worden door:
+                    C  B  2 log  R    (formule 4)
+
+              In figuur 2 zijn voor een bepaalde waarde van B de grafieken van de
+              formules 1 en 4 weergegeven, waarbij de grafiek van formule 4 gestippeld
+              is.
+
+              figuur 2
+
+
+
+
+              Met behulp van formules 2 en 4 kan voor grote waarden van R de
+              volgende formule voor C opgesteld worden:
+                    C  0,332  B  S
+              Het getal 0,332 in deze formule is een afgerond getal.
+4p    5       Toon de juistheid van deze formule aan.
+
+
+
+
+HA-1025-a-o                                     6 / 13                           lees verder ►►►
+      Wortelfunctie en transformatie
+
+              De functie f is gegeven door f  x   8  2 3 x  9 .
+              De grafiek van f snijdt de y-as in het punt A. De lijn l raakt de grafiek van
+              f in A. De lijn l snijdt de x-as in het punt B. Zie figuur 1.
+
+              figuur 1
+
+
+
+
+              Er geldt OA  OB .
+6p    6       Bewijs dit.
+
+              De grafiek van de functie g ontstaat uit de grafiek van f door middel van
+              een vermenigvuldiging ten opzichte van de x-as met een positieve
+              factor a.
+              Het punt M is het randpunt van de grafiek van g en het punt C is het
+              snijpunt van de grafieken van f en g met de x-as. Zie figuur 2.
+              De lengte van het lijnstuk MC is 6 23 .
+
+              figuur 2
+
+
+
+
+7p    7       Bereken exact de waarde van a.
+
+
+
+HA-1025-a-o                                     7 / 13                            lees verder ►►►
+      Windmolens
+
+              Een windmolen kan de bewegingsenergie van de wind omzetten in
+              elektrische energie. De hoeveelheid elektrische energie die een
+              windmolen produceert, is afhankelijk van de windsnelheid. Hoe harder het
+              waait, hoe meer elektrische energie een windmolen kan produceren.
+
+              Omdat er energie uit de wind gehaald is en omgezet is in elektrische
+              energie, is de bewegingsenergie van de wind achter een windmolen
+              kleiner dan ervoor. Dus is de windsnelheid achter de windmolen ook
+              kleiner dan de windsnelheid vóór de windmolen.
+
+              De energie in joule (J) die een windmolen per seconde produceert, wordt
+              gegeven door de formule:
+                                        w  w   w 
+                                               3  2
+                 E  14  c  v3  1              (formule 1)
+                                      v   v   v  
+                                
+              Hierin is
+               E de energie die de molen per seconde produceert in J;
+               c een (positieve) constante die hoort bij de windmolen, deze constante
+                 is onder andere afhankelijk van de grootte en vorm van de wieken;
+               v de snelheid van de wind vóór de windmolen in m/s;
+               w de snelheid van de wind achter de windmolen in m/s.
+
+              Bij een wind met een snelheid van 10 m/s vóór de             foto
+              windmolen produceert de windmolen Amstelvogel in
+              Ouderkerk aan de Amstel, zie de foto, elke seconde
+              1,21 miljoen J. De waarde van c die hoort bij deze
+              windmolen is 5116.
+3p    8       Bereken de snelheid van de wind achter de
+              windmolen in m/s. Geef je eindantwoord in één
+              decimaal.
+
+
+
+
+HA-1025-a-o                                        8 / 13                         lees verder ►►►
+              We gaan nu weer kijken naar windmolens in het algemeen.
+              Een windmolen kan niet alle energie uit de wind halen, want dan zou de
+              lucht achter de windmolen stilstaan. Het blijkt dat de maximale
+              hoeveelheid energie die een windmolen uit de wind kan halen alleen
+              afhangt van de verhouding tussen de windsnelheden vóór en achter de
+              molen, dus de verhouding tussen v en w.
+
+                        w
+              Stel p       , dan kan formule 1 geschreven worden als:
+                         v
+                                            
+                  E  14  c  v3  1  p3  p 2  p  (formule 2)
+
+
+              Bij een constante waarde van v is E maximaal als 1  p 3  p 2  p
+              maximaal is.
+
+              Voor elke constante c en v wordt de maximale waarde voor E bereikt bij
+              p  13 .
+
+4p    9       Bewijs dat deze maximale waarde voor E inderdaad bereikt wordt bij
+              p  13 .
+
+              De maximale waarde voor E noemen we Emax .
+
+              De energie van wind met een snelheid v die per seconde wordt
+              opgevangen door een windmolen waarvan c de constante is, wordt
+              gegeven door:
+                    Ewind  12  c  v 3
+
+              Het maximale percentage van de energie die een windmolen uit de wind
+                             Emax
+              kan halen is         100% .
+                             Ewind
+3p   10       Bereken dit percentage. Geef je eindantwoord in hele procenten.
+
+
+
+
+HA-1025-a-o                                      9 / 13                            lees verder ►►►
+      Hyperbool
+
+                                1,                                             1
+              Op het domein     2
+                                      is de functie f gegeven door f ( x)          .
+                                                                              2x 1
+              De lijn l met richtingscoëfficiënt −2 raakt de grafiek van f. Zie figuur 1.
+
+              figuur 1
+
+
+
+
+8p   11       Bereken exact het snijpunt van l met de y-as.
+
+              Het punt A met x-coördinaat a is een willekeurig punt op de grafiek van f.
+              Het punt B ligt op de x-as en heeft ook x-coördinaat a. Bij elke waarde van
+              a hoort een driehoek OAB. Zie figuur 2 en figuur 3 voor twee
+              mogelijkheden.
+
+              figuur 2                                   figuur 3
+
+
+
+
+4p   12       Bereken de minimale lengte van lijnstuk OA. Geef je eindantwoord in één
+              decimaal.
+
+
+
+HA-1025-a-o                                    10 / 13                                  lees verder ►►►
+      Parabolen en sinusoïde
+
+              Op domein  0,  is gegeven de functie f  x   ax 2  a met a  0 .
+              In figuur 1 is in één assenstelsel voor een aantal waarden van a de
+              grafiek van f getekend.
+
+              figuur 1
+
+
+
+
+              De grafiek van f gaat voor elke waarde van a door het punt 1, 0  .
+
+2p   13       Bewijs dit.
+
+              Op hetzelfde domein is de functie g gegeven door g  x   sin  2x  .
+              In figuur 2 is de grafiek van g aan figuur 1 toegevoegd.
+
+              figuur 2
+
+
+
+
+              Het punt T is de eerste top van de grafiek van g met x-coördinaat groter
+              dan 1. Zie figuur 2.
+              Er is een waarde van a waarvoor de grafiek van f door T gaat.
+5p   14       Bereken exact deze waarde van a.
+
+
+HA-1025-a-o                                    11 / 13                              lees verder ►►►
+      Fiets
+
+              Het comfort en het rijgedrag van een fiets worden in belangrijke mate
+              bepaald door de framegeometrie. Naast de lengte van de verschillende
+              buizen waaruit een frame bestaat, gaat het bij de framegeometrie ook om
+              de hoeken waaronder de verschillende buizen staan.
+
+              In figuur 2 is een tekening van het frame van de fiets van figuur 1
+              gegeven.
+
+              figuur 1
+
+
+
+
+              figuur 2
+
+
+
+
+              De bijbehorende maten zijn:
+               de liggende achtervork: AB  425 mm;
+               de staande achtervork: AF  542 mm;
+               de hoek die de liggende en de staande achtervork met elkaar maken:
+                 BAF  58 ;
+               de hoek die het verlengde van de stuurbuis DE met het verlengde van
+                 AB maakt: BCE  71 .
+
+              De zitbuis BF en de stuurbuis DE zijn bijna evenwijdig. Als ze evenwijdig
+              zouden zijn dan zou de hoek die BF met de lijn door AB maakt even groot
+              moeten zijn als BCE . Deze hoeken verschillen echter.
+6p   15       Bereken dit verschil. Geef je eindantwoord in hele graden.
+
+
+
+
+HA-1025-a-o                                   12 / 13                               lees verder ►►►
+              Een crank is het verbindingsstuk tussen                                  figuur 3
+              de trap-as van de fiets en het pedaal.
+              Zie figuur 3.
+
+              Cranks bestaan in verschillende lengtes. Een
+              fietser met lange benen heeft baat bij een
+              langere crank.
+              Zo wordt aan iemand met een binnenbeenlengte
+              van 75 cm een cranklengte van 166 mm
+              geadviseerd. Aan iemand met een
+              binnenbeenlengte van 97 cm wordt een cranklengte van 180 mm
+              geadviseerd.
+
+              Er is een verband tussen de binnenbeenlengte B in cm en de
+              geadviseerde cranklengte L in mm. Dit verband is te benaderen met een
+              formule van de vorm L  a  B n . Met de bovenstaande gegevens bij
+              binnenbeenlengtes 75 cm en 97 cm zijn de waarden van a en n te
+              bepalen.
+6p   16       Bereken volgens deze formule de geadviseerde cranklengte in mm bij een
+              binnenbeenlengte van 86 cm. Geef je eindantwoord in hele mm.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1025-a-o                                                 13 / 13                                                 einde 
+                                                                                                             lees verder ►►►
+

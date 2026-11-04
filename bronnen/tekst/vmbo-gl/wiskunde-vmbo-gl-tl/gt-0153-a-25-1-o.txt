@@ -1,0 +1,321 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2025
+                                                                        tijdvak 1
+                                                              donderdag 15 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                 wiskunde CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 68 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0153-a-25-1-o
+            OVERZICHT FORMULES:
+
+
+
+            omtrek cirkel =   diameter
+
+
+            oppervlakte cirkel =   straal 2
+
+
+            inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+            inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+            inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+            inhoud bol = 34    straal 3
+
+
+
+
+GT-0153-a-25-1-o                             2 / 10                 lees verder ►►►
+      Saint-Tropez
+
+            Micha gaat met zijn familie op vakantie naar Saint-Tropez.
+
+
+
+
+            Ze vertrekken vanuit Utrecht met de auto en moeten 1300 km rijden om in
+            Saint-Tropez te komen.
+
+3p    1     Volgens de routeplanner doen ze 12 uur en 47 minuten over de autoreis.
+             Bereken hoeveel km per uur de gemiddelde snelheid dan is. Schrijf je
+               berekening op.
+
+2p    2     Er blijken veel files te zijn op het stuk dat ze moeten rijden. Micha
+            verwacht dat ze een gemiddelde snelheid van 60 km per uur zullen
+            hebben.
+             Bereken hoelang de autoreis dan gaat duren. Schrijf je berekening op
+                en geef je antwoord in uren en minuten.
+
+3p    3     De routeplanner geeft de tolkosten en de brandstofkosten aan. Zie de
+            figuur hieronder.
+
+
+              Reiskosten
+
+              Tolkosten
+
+              Personenauto, opties en details, € 76,90
+
+
+              Brandstofkosten
+              Diesel B7, aanpassen, € 138,98
+
+
+             Bereken hoeveel procent van de totale kosten uit tolkosten bestaat.
+              Schrijf je berekening op.
+
+
+
+
+GT-0153-a-25-1-o                                  3 / 10                   lees verder ►►►
+      Waterverbruik
+
+            Je ziet een grafiek van het waterverbruik van de inwoners van Delfland
+            tijdens een werkdag.
+
+
+
+
+            Bij deel A van de grafiek hoort de formule:
+
+                   w = 85  0,71t
+
+            Hierin is w het waterverbruik in m3 per uur en t de tijd in uren met t = 0 om
+            0.00 uur.
+
+1p    4     Met hoeveel procent neemt het waterverbruik volgens de formule per uur
+            af?
+
+            Van 3.00 uur tot 8.30 uur (deel B) stijgt het waterverbruik exponentieel
+            volgens de formule:
+
+                   w = 9,88  1,448t
+
+            Hierin is w het waterverbruik in m3 per uur en t de tijd in uren met t = 0 om
+            0.00 uur.
+
+2p    5     Laat met behulp van de formule zien dat om 8.30 uur het waterverbruik
+            afgerond 230 m3 per uur is.
+
+
+
+
+GT-0153-a-25-1-o                             4 / 10                            lees verder ►►►
+            Van 8.30 uur tot 15.00 uur (deel C) daalt het waterverbruik lineair van
+            230 m3 per uur tot 120 m3 per uur.
+
+4p    6     Geef de formule die bij deze dalende lijn hoort. Gebruik w voor het
+            waterverbruik in m3 per uur en t voor de tijd in uren met t = 0 om 8.30 uur.
+
+3p    7     Bereken met hoeveel procent het waterverbruik van 8.30 uur tot 15.00 uur
+            is afgenomen. Schrijf je berekening op.
+
+            Bij deel D van de grafiek (van 15.00 uur tot 23.00 uur) hoort de formule:
+
+                   w = –5t2 + 190t – 1605
+
+            Hierin is w het waterverbruik in m3 per uur en t de tijd in uren met t = 0 om
+            0.00 uur.
+
+4p    8     Teken op de uitwerkbijlage de grafiek bij de formule. Vul eerst de tabel in.
+
+
+
+
+GT-0153-a-25-1-o                             5 / 10                            lees verder ►►►
+      Pyramide van Austerlitz
+
+            De Pyramide van Austerlitz is een monument op de Utrechtse Heuvelrug.
+            Boven op het monument staat een gedenkteken. Naast de foto zie je een
+            wiskundig model van het monument.
+
+
+
+
+            In het wiskundige model is ABCD een vierkant met zijden van 43,6 m.
+            EFGH is een vierkant met zijden van 6,2 m.
+            Verder geldt dat AE = BF = CG = DH.
+
+4p    9     Teken op schaal 1 : 500 het bovenaanzicht van het wiskundige model.
+
+2p    10    Het gedenkteken staat op 19,2 m hoogte.
+            Om bij het gedenkteken te komen, kunnen
+            bezoekers een trap van 81 treden
+            beklimmen.
+             Hoeveel cm hoog is één trede? Schrijf je
+               berekening op en rond je antwoord af op
+               een geheel getal.
+
+5p    11    Hieronder zie je een tekening van een dwarsdoorsnede PQGF van de
+            piramide.
+
+
+
+
+             Bereken hoeveel graden hoek P van vierhoek PQGF is. Schrijf je
+              berekening op.
+
+
+
+GT-0153-a-25-1-o                          6 / 10                          lees verder ►►►
+            De piramide staat in het midden van een cirkelvormig grasveld met een
+            straal van 75 m. Zie het bovenaanzicht hieronder. Het grasveld moet
+            opnieuw ingezaaid worden.
+
+
+
+
+4p    12    10 gram graszaad is voldoende voor 1 m2.
+             Bereken hoeveel kg graszaad er nodig is voor het hele grasveld.
+               Schrijf je berekening op.
+
+5p    13    Het veld wordt in vier delen ingezaaid. Er wordt steeds een kwart van het
+            veld afgezet met twee linten vanaf een hoek van de piramide naar de
+            cirkelrand.
+
+
+
+
+             Bereken, zonder te meten, hoeveel meter één zo’n lint moet zijn.
+              Schrijf je berekening op en rond je antwoord af op één decimaal.
+
+
+
+
+GT-0153-a-25-1-o                            7 / 10                           lees verder ►►►
+      Winkelwagenstalling
+
+            Bij een supermarkt staan de
+            winkelwagens geparkeerd in een
+            winkelwagenstalling met een
+            gebogen dak.
+
+
+
+
+            In het assenstelsel hieronder zie je een schematisch vooraanzicht van de
+            winkelwagenstalling.
+
+
+
+
+            De hoogte van een punt op boog BC is te berekenen met de formule:
+
+                   h = 135 +   ( s 2  228  s )
+
+            Hierin is h de hoogte in cm en is s de horizontale afstand vanaf punt A
+            in cm.
+
+            De winkelwagenstalling is symmetrisch en 228 cm breed.
+
+1p    14    Laat met een berekening zien dat punt C volgens de formule op een
+            hoogte van 135 cm ligt.
+
+
+GT-0153-a-25-1-o                                    8 / 10                    lees verder ►►►
+2p    15    Bereken hoeveel cm de maximale hoogte van de winkelwagenstalling is.
+            Schrijf je berekening op.
+
+4p    16    Aan de voorkant van de winkelwagenstalling hangt een bord. Het bord
+            zit vast bij de punten P en Q op een hoogte van afgerond 201 cm.
+             Bereken met behulp van de formule hoeveel cm de afstand tussen
+                 punt P en Q is. Schrijf je berekening op en rond af op een geheel
+                 getal.
+
+5p    17    Op de winkelwagenstalling worden flexibele zonnepanelen geplaatst om
+            energie op te wekken.
+
+
+
+
+            De zonnepanelen worden tussen de punten H en I geplaatst. Boog BC is
+            een halve cirkel met straal 114 cm en middelpunt M. De punten H en I
+            liggen op de cirkel. Hoek M is 45°.
+            De wanden van de winkelwagenstalling zijn gemaakt van 5 gebogen
+            kunststofplaten van 1 meter breed. Op elke gebogen kunststofplaat komt
+            een zonnepaneel.
+             Bereken hoeveel m2 zonnepaneel er op de winkelwagenstalling komt.
+                Schrijf je berekening op.
+
+
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0153-a-25-1-o                           9 / 10                            lees verder ►►►
+      Lichtintensiteit
+
+            De felheid van licht noem je de lichtintensiteit. De
+            lichtintensiteit wordt minder als je verder van een
+            lamp af staat.
+
+            Je kan de lichtintensiteit van een bouwlamp van
+            100 watt (W) benaderen met de formule:
+
+                   L=       100
+                        (4    k 2 )
+
+            Hierin is L de lichtintensiteit in watt per m2 (W/m2)
+            en k de kijkafstand tot de lamp in meters.
+
+1p    18    Laat met behulp van de formule zien dat bij een kijkafstand van 3 meter
+            de lichtintensiteit afgerond 0,9 W/m2 is.
+
+5p    19    Teken op de uitwerkbijlage de grafiek die hoort bij deze formule. Vul eerst
+            de tabel in en rond je antwoorden af op één decimaal. Maak zelf een
+            juiste verdeling bij de verticale as.
+
+            Wanneer de lichtintensiteit van de lamp minder is dan 0,5 W/m2, kan je
+            veilig in deze lamp kijken. Vincent kijkt naar de bouwlamp en zijn kijkhoek
+            is 25°. Zie de schets hieronder.
+
+
+
+
+5p    20    Bereken, zonder te meten, of Vincent veilig in de lamp kan kijken. Schrijf
+            je berekening op.
+
+3p    21    Om een bouwtekening te kunnen lezen heeft Vincent een lichtintensiteit
+            nodig van minimaal 1,6 W/m2.
+             Op hoeveel meter kijkafstand kan Vincent de bouwtekening nog net
+               lezen? Schrijf je berekening op en geef je antwoord in één decimaal.
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0153-a-25-1-o                                         10 / 10                                          lees verdereinde
+                                                                                                                       ►►► 
+

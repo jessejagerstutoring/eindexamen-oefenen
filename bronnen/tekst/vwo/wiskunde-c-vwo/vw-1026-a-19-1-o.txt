@@ -1,0 +1,561 @@
+                                                                   Examen VWO
+
+                                                                       2019
+                                                                              tijdvak 1
+                                                                     maandag 20 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde C
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter dit examen is een erratum opgenomen.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 80 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+      Mondriaan
+
+            Piet Mondriaan (1872-1944) was een Nederlandse kunstschilder die
+            algemeen wordt gezien als één van de grondleggers van de abstracte
+            kunst.
+            Vooral zijn latere werk, schilderijen bestaand uit zwarte lijnen en rode,
+            gele, blauwe en witte vlakken, is wereldberoemd.
+
+                                                Een kunstenaar wil een schilderij
+                                                maken dat lijkt op een schilderij van
+                                                Piet Mondriaan. Hij wil daarbij voor de
+                                                vlakken de drie kleuren rood, blauw en
+                                                wit gebruiken. De kunstenaar vindt het
+                                                niet erg als twee naast elkaar liggende
+                                                vlakken dezelfde kleur hebben.
+
+
+
+
+            Het aantal manieren waarop hij zijn schilderij in kan kleuren, het aantal
+            mogelijke kleuringen dus, hangt af van het aantal vlakken waaruit het
+            schilderij bestaat. Het verband tussen het aantal mogelijke kleuringen M
+            en het aantal vlakken V is: M  3V .
+
+            De kunstenaar wil minimaal vijf miljoen mogelijkheden hebben om het
+            schilderij in te kleuren.
+3p    1     Bereken hoeveel vlakken het schilderij dan minstens moet hebben.
+
+            Een vriend van de kunstenaar beweert dat, als je in het algemeen het
+            aantal mogelijke kleuringen wilt verdubbelen, je gewoon het aantal
+            vlakken moet verdubbelen.
+3p    2     Onderzoek of dat het geval is.
+
+            Uiteindelijk kiest de kunstenaar voor een schilderij met 17 vlakken, zoals
+            weergegeven in de figuur. De figuur staat ook, vergroot, op de
+            uitwerkbijlage.
+                                                         figuur
+            De kunstenaar wil het schilderij van de     1       4 7     11     15
+            figuur inkleuren met de drie eerder
+            genoemde kleuren: rood, blauw en wit.                  8
+            Daarnaast besluit hij, bij nader inzien,                    12
+            toch dat twee aan elkaar grenzende          2 3 5 9
+                                                                               16
+            vlakken niet dezelfde kleur mogen                           13
+            hebben.
+                                                                          14
+                                                                     10
+                                                                 6              17
+
+
+
+VW-1026-a-19-1-o                             2 / 13                             lees verder ►►►
+            We kunnen de kleuring van de verschillende vlakken weergeven met de
+            volgende notatie: W5 betekent “vlak nummer 5 is wit gekleurd” en B12
+            betekent “vlak nummer 12 is blauw gekleurd”.
+
+            De kunstenaar begint met vlak nummer 1 rood te kleuren. Tegen zijn
+            vriend zegt hij “Vlak nummer 1 is rood, dus vlak nummer 4 is blauw of
+            wit”.
+
+2p    3     Vertaal de uitspraak van de kunstenaar in logische symbolen, gebruik
+            makend van bovenstaande notatie.
+
+            De kunstenaar kiest ervoor om vlak nummer 4 wit te kleuren. Het gevolg
+            daarvan voor een deel van de rest van het schilderij kan worden
+            weergegeven met de volgende logische redenering, bestaande uit vier
+            redeneerstappen:
+             ( R1  W4 )  B3
+              B3  (B5  B2 )
+              ( R1  B2 )  W2
+              (W2  B3 )  R6
+
+4p    4     Geef de vier stappen van deze redenering in gewone zinnen.
+
+            Voor de rest van de opgave gaan we ervan uit dat kunstenaar blijft bij
+            bovenstaande keuze.
+
+3p    5     Geef een redenering, weergegeven met de hierboven beschreven notatie
+            en logische symbolen, bestaande uit een aantal redeneerstappen, voor
+            vlak nummer 5 en leg daarmee uit waarom de kunstenaar er niet in zal
+            slagen vlak nummer 5 een kleur te geven.
+
+            De kunstenaar heeft dus een vierde kleur nodig en kiest ervoor om vlak
+            nummer 5 geel te kleuren. Het is mogelijk om de rest van het kunstwerk in
+            te kleuren zonder een tweede keer de kleur geel in te hoeven zetten. De
+            figuur staat ook, vergroot, op de uitwerkbijlage.
+4p    6     Geef op de uitwerkbijlage aan hoe het kunstwerk ingekleurd moet worden,
+            uitgaande van het bovenstaande.
+
+
+
+
+VW-1026-a-19-1-o                            3 / 13                           lees verder ►►►
+      Groningse aardbevingen
+
+            In de provincie Groningen vinden, als gevolg van gasproductie, regelmatig
+            aardbevingen plaats. In 2013 is daar grootschalig onderzoek naar
+            gedaan. Zo werd er gekeken naar het verband tussen de gasproductie en
+            aardbevingen. Enkele resultaten daarvan staan in figuur 1. Deze figuur
+            staat ook, vergroot, op de uitwerkbijlage. Hier zie je bijvoorbeeld dat er in
+            1993 zeven aardbevingen zijn geweest en er in datzelfde jaar 42 miljard
+            kubieke meter gas is geproduceerd.
+
+            figuur 1
+                               60                                                   60 gasproductie
+            jaarlijks aantal
+             aardbevingen                                                              in miljarden m3
+                               50                                                   50     per jaar
+
+                               40                                                   40
+
+                               30                                                   30
+
+                               20                                                   20
+
+                               10                                                   10
+
+                                0                                                       0
+                                    ’89 ’91 ’93 ’95 ’97 ’99 ’01 ’03 ’05 ’07 ’09 ’11
+                                                                                 jaar
+                                     Legenda:
+                                          jaarlijks aantal aardbevingen
+                                          jaarlijkse gasproductie
+
+            We bekijken de volgende drie beweringen:
+            1 De gasproductie en het aantal aardbevingen zijn over de gehele
+                periode 2000-2011 procentueel evenveel gestegen.
+            2 Als na 2000 de gasproductie daalt, dan heeft dat altijd een jaar later
+                ook een daling van het aantal aardbevingen tot gevolg.
+            3 In de periode 2005-2011 is de gemiddelde stijging per jaar van het
+                aantal aardbevingen groter dan in de periode 1998-2004.
+5p    7     Geef van elke bewering aan of deze waar is of niet. Gebruik in je
+            toelichting gegevens uit figuur 1 en gebruik daarbij eventueel de figuur op
+            de uitwerkbijlage.
+
+            De magnitude, de kracht van een aardbeving, wordt uitgedrukt in een
+            getal op de schaal van Richter.
+            In figuur 2 zijn de Groningse aardbevingen vanaf 1994 verzameld en
+            ingedeeld naar sterkte. Dat geeft bij een logaritmische schaalverdeling
+            langs de verticale as een opvallend patroon: alle grafieken zijn bij
+            benadering evenwijdige rechte lijnen.
+
+
+
+
+VW-1026-a-19-1-o                                        4 / 13                                lees verder ►►►
+            Elke stip in deze figuur stelt een aardbeving van een zekere magnitude
+            voor: zo kun je zien dat er vlak voor juli 2009 een aardbeving van
+            magnitude > 3,0 heeft plaatsgevonden: die aardbeving zie je dus ook
+            terug bij de aardbevingen van de klassen > 2,5; > 2,0 en > 1,5.
+
+            figuur 2
+                    1000
+        totaal aantal
+       aardbevingen ≥
+         magnitude
+                                                                                          ≥ 1,5
+                        100
+                                                                                          ≥ 2,0
+
+
+                                                                                          ≥ 2,5
+
+                        10
+                                                                                          ≥ 3,0
+
+
+                                                                                          ≥ 3,5
+                         1
+                                                                             tijd in maanden
+
+                       n=0                                n = 117                   n = 220
+                    (april 1994)                      (januari 2004)            (augustus 2012)
+
+                                     n = 51                              n = 183
+                                   (juli 1998)                         (juli 2009)
+
+
+            In het onderzoek werden alleen aardbevingen bekeken die schade
+            zouden kunnen veroorzaken. Omdat aardbevingen met een magnitude
+            van minder dan 1,5 geen schade aanrichten, zijn deze niet in figuur 2
+            opgenomen.
+
+3p    8     Bereken voor augustus 2012 hoeveel procent van het aantal
+            aardbevingen van magnitude > 2,0 een magnitude van 2,5 of hoger heeft.
+            Geef je antwoord in gehele procenten.
+
+            Het feit dat de grafieken in figuur 2 evenwijdige rechte lijnen zijn, betekent
+            dat het aantal aardbevingen van elke klasse exponentieel toeneemt met
+            dezelfde groeifactor. Het totaal aantal aardbevingen An voor
+            magnitudes > 1,5 tot en met maand n is daardoor te beschrijven als een
+            meetkundige rij. Uit figuur 2 kunnen we dan aflezen: A0  12 en
+            A220  200 .
+
+4p    9     Stel de recursieve formule voor An op.
+
+
+
+
+VW-1026-a-19-1-o                                 5 / 13                              lees verder ►►►
+            In een rapport van het Staatstoezicht op de Mijnen wordt geconstateerd
+            dat er een duidelijk verband is tussen de magnitude en het percentage
+            aardbevingen boven die magnitude. In figuur 3 is dat verband
+            weergegeven.
+
+            figuur 3
+                           100
+              percentage    90
+             aardbevingen 80
+            boven bepaalde
+            magnitude (N) 70
+                            60
+                            50
+                            40
+                            30
+                            20
+                            10
+                             0
+                                 0   0,5       1,0          1,5         2,0          2,5
+                                           magnitude aardbeving op de schaal van Richter (M)
+
+            Zo is bijvoorbeeld af te lezen dat 10% van de aardbevingen een
+            magnitude boven de 1,0 heeft.
+            Bij deze grafiek hoort de volgende formule:
+                   N  10a M
+            Hierbij is M de magnitude en N het percentage van de aardbevingen
+            boven magnitude M.
+3p   10     Laat met een berekening zien dat geldt: a  2 .
+
+
+
+
+VW-1026-a-19-1-o                            6 / 13                                  lees verder ►►►
+      Goudplevieren
+
+            Een goudplevier (zie foto) is een vogel die niet in              foto
+            Nederland broedt, maar tijdens zijn trektochten wel in
+            Nederland te vinden is. Er zijn grote verschillen in
+            aantallen goudplevieren tussen de verschillende jaren.
+            In figuur 1 zijn de aantallen goudplevieren in
+            Nederland in de jaren 1975 tot en met 2012
+            weergegeven als zwarte stippen.
+
+            figuur 1
+                                            Goudplevier
+                     50 000
+            aantal
+                     40 000
+
+                     30 000
+
+                     20 000
+
+                     10 000
+
+                         0
+                          ’75   ’80   ’85    ’90   ’95    ’00   ’05   ’10
+                                                                      jaar
+
+            In figuur 1 is ook een kromme getekend die de trend aangeeft. We nemen
+            aan dat vanaf 2003 deze trend een rechte lijn is en dat dit ook na 2012 zo
+            blijft.
+4p   11     Bereken hoeveel goudplevieren er volgens de trendlijn zijn in 2020. Geef
+            je antwoord in gehele duizendtallen.
+
+
+
+
+VW-1026-a-19-1-o                                    7 / 13                          lees verder ►►►
+            Tijdens hun verblijf in Nederland bouwen de goudplevieren een reserve
+            op voor de komende trektochten. Hierdoor nemen ze toe in gewicht.
+
+            In figuur 2 zie je het resultaat van een onderzoek naar deze
+            gewichtstoename: van een aantal op verschillende tijdstippen gevangen
+            goudplevieren is het gewicht en/of de hoeveelheid vet bepaald. De open
+            stippen horen bij waarnemingen in het najaar en de dichte stippen bij
+            waarnemingen in het voorjaar. Ook zijn de trendlijnen getekend.
+
+
+            figuur 2
+                                   260
+            lichaamsgewicht (g)                        trend voorjaar
+                                   240
+                                                                    dag
+                                   220                        0,6 g/
+                                                  trend najaar
+                                   200
+
+                                   180
+
+                                   80
+             hoeveelheid vet (g)
+                                   70
+                                   60                            trend najaar
+                                   50
+                                                                      /dag
+                                   40                           0,6 g
+                                   30
+                                   20                               trend voorjaar
+                                   10
+                                    0
+
+                                         0   10   20     30       40     50     60
+                                     dagen na het begin van gewichtstoename
+
+            Op grond van specifieke biologische kenmerken kunnen de onderzoekers
+            bepalen wanneer de gewichtstoename van een goudplevier begint.
+            Aan de hand van de trendlijnen in figuur 2 kun je onderzoeken of de
+            volgende stellingen waar zijn.
+            I In het voorjaar is de gemiddelde gewichtstoename per dag van een
+                goudplevier ongeveer 2 keer zo groot als in het najaar.
+            II De gewichtstoename in het voorjaar bestaat niet uit vet.
+
+4p   12     Onderzoek voor elk van beide stellingen of deze waar is.
+
+
+
+
+VW-1026-a-19-1-o                                       8 / 13                        lees verder ►►►
+            Het vetpercentage van een vogel is de hoeveelheid lichaamsvet als
+            percentage van het totale gewicht van de vogel. Er geldt dus:
+                                       hoeveelheid vet (in gram)
+                   vetpercentage                                 100
+                                        totale gewicht (in gram)
+            Met behulp van de trendlijnen (in figuur 2) is een formule op te stellen
+            voor Pvoorjaar , het vetpercentage in het voorjaar. Als je dat doet met de
+            punten (0, 198) en (20, 244) uit de grafiek voor het totale
+                                                                    1600
+            lichaamsgewicht, dan ontstaat de formule Pvoorjaar                met t de tijd
+                                                                 2,3  t  198
+            in dagen na het begin van de gewichtstoename.
+
+5p   13     Laat zien, gebruikmakend van de grafieken in figuur 2 en de punten
+            (0, 198) en (20, 244), dat deze formule inderdaad uit de gegevens volgt.
+
+3p   14     Beredeneer uitsluitend met behulp van de formule voor Pvoorjaar , zonder
+            getallen in te vullen of een schets te maken, of het vetpercentage in het
+            voorjaar toeneemt of juist afneemt.
+
+            Voor het vetpercentage in het najaar gaan we uit van de volgende
+            formule:
+                               2300  60t
+                   Pnajaar 
+                               207  0,6t
+            Hierin is Pnajaar het vetpercentage van de vogel in het najaar en t de tijd in
+            dagen na het begin van de gewichtstoename.
+
+            Als je de grafiek van Pnajaar zou tekenen, zou je zien dat deze stijgt. Het is
+            echter vrij moeilijk te zien of dit een toenemende of afnemende stijging is.
+            Met berekeningen is dit wel te onderzoeken. Je mag er hierbij van uitgaan
+            dat de grafiek of voortdurend toenemend stijgend is of voortdurend
+            afnemend stijgend.
+4p   15     Onderzoek of de grafiek van Pnajaar toenemend stijgend of afnemend
+            stijgend is.
+
+
+
+
+VW-1026-a-19-1-o                                    9 / 13                          lees verder ►►►
+      Gangnam Style
+
+            Het nummer Gangnam Style van de Zuid-Koreaanse zanger Psy is de
+            eerste YouTube-video die vaker dan 1 miljard keer bekeken is; die grens
+            werd bereikt op 21 december 2012.
+
+            Op de foto staat rechts onderaan de teller van 12 januari 2015, rond vier
+            uur ’s middags: toen was de video ruim 2,2 miljard maal bekeken.
+
+            foto
+
+
+
+
+            Er wordt veel tijd besteed aan het kijken naar de 4 minuten en
+            12 seconden durende video. Ga er bij de volgende vraag van uit dat
+            iedereen de video van begin tot einde bekeek.
+
+3p   16     Bereken hoeveel tijd in jaren er in totaal tot 12 januari 2015, vier uur
+            ’s middags, al was besteed aan het kijken naar de video. Geef je
+            antwoord in gehele honderdtallen.
+
+            Je kunt op YouTube statistieken opvragen over de video. Zie figuur 1.
+
+            figuur 1
+            15.000.000
+
+            10.000.000
+
+             5.000.000
+
+                    0
+                            Jan 2013    Jul 2013         Jan 2014   Jul 2014   Jan 2015
+
+
+
+
+VW-1026-a-19-1-o                               10 / 13                                lees verder ►►►
+            De grafiek in figuur 1 geeft het aantal views per dag weer. Dat aantal is
+            dus ook de dagelijkse verandering van het totale aantal views van
+            Gangnam Style.
+            Met behulp van de gegevens uit figuur 1 zou je ook een totaalgrafiek, een
+            grafiek van het totale aantal views, kunnen maken. De pieken laten we
+            dan voor het gemak buiten beschouwing. Over het stijgen en dalen van de
+            totaalgrafiek worden de volgende beweringen gedaan:
+            I de totaalgrafiek is eerst toenemend stijgend en daarna afnemend
+                dalend;
+            II de totaalgrafiek is eerst afnemend stijgend en daarna toenemend
+                stijgend;
+            III de totaalgrafiek is eerst toenemend stijgend en daarna afnemend
+                stijgend.
+
+3p   17     Leg uit welke van de drie beweringen de juiste is.
+
+            In figuur 2 staat de grafiek van het dagelijkse aantal views opnieuw. Er is
+            nu ook een trendkromme getekend.
+
+            figuur 2
+                                      10,4 miljoen                           770.000
+            15.000.000
+
+            10.000.000
+
+             5.000.000
+
+                    0
+                                   Jan 2013      Jul 2013         Jan 2014     Jul 2014   Jan 2015
+
+                     10 oktober 2012                        1 januari 2014
+
+
+            Aan de trendkromme in figuur 2 is te zien dat op 10 oktober 2012 een
+            dalende trend werd ingezet. Op die datum was het aantal views nog groot,
+            met 10,4 miljoen views per dag. Op 1 januari 2014, 64 weken later, was
+            het dagelijkse aantal views nog maar 770 000.
+            Als we aannemen dat deze afname exponentieel is, dan geldt:
+                         V  10, 4  0,96t
+            In deze formule is V het dagelijkse aantal views in miljoenen en t het
+            aantal weken sinds 10 oktober 2012. De groeifactor is hierbij afgerond op
+            twee decimalen.
+
+3p   18     Bereken de groeifactor per week in drie decimalen.
+
+4p   19     Bereken met de formule in welke maand van welk jaar het aantal views
+            per dag onder de 100 000 zakte.
+
+
+
+
+VW-1026-a-19-1-o                                        11 / 13                                  lees verder ►►►
+      Triangular Lodge
+
+            Nabij Rushton in Engeland staat een bijzonder gebouw: Triangular Lodge.
+            Voor de ontwerper van het gebouw had het getal 3 zoveel betekenis dat
+            alles van dit gebouw in het teken staat van 3.
+
+            foto
+
+
+
+
+            Het grondvlak van het gebouw is een gelijkzijdige driehoek waarvan de
+            zijden 33 feet lang zijn. Eén foot is gelijk aan 30,48 cm.
+            De oppervlakte van dat grondvlak is 471,55 square feet. Dat is ongeveer
+            44 m2.
+
+4p   20     Bereken, uitgaande van een oppervlakte van 471,55 square feet, de
+            oppervlakte in m2. Geef je antwoord in één decimaal.
+
+            Bovenstaande foto staat ook vergroot op de uitwerkbijlage. De hoogte aan
+            de buitenkant tot aan de dakrand is 8,22 meter.
+4p   21     Bereken met behulp van de foto op de uitwerkbijlage op welke hoogte de
+            fotograaf de foto heeft genomen. Geef je antwoord in gehele cm.
+
+            De buitenmuren zijn erg dik. Daardoor is de binnenruimte een gelijkzijdige
+            driehoek met zijden van 8,22 m. Deze ruimte wordt door drie dunnere
+            muren verdeeld in een regelmatige zeshoek en drie gelijkzijdige
+            driehoeken. Zie de figuur.
+
+            figuur
+
+
+
+
+VW-1026-a-19-1-o                           12 / 13                           lees verder ►►►
+            Op de uitwerkbijlage is het grondvlak van het gebouw, de gelijkzijdige
+            driehoek dus, in perspectief getekend. Je ziet ook de horizon in de
+            tekening.
+            Een van de zijden is, zoals je ziet, evenwijdig met de horizon getekend.
+            Wat nog niet getekend is, is de regelmatige zeshoek (de zeshoekige
+            kamer waarvan hierboven sprake was).
+5p   22     Teken de regelmatige zeshoek in de driehoek. Je mag daarbij de dikte
+            van de muren verwaarlozen. Licht je werkwijze toe.
+
+
+
+
+VW-1026-a-19-1-o                           13 / 13                            lees verdereinde
+                                                                                           ►►► 
+ erratumblad                                                                 2019-1
+
+wiskunde C vwo
+
+Centraal examen vwo
+
+Tijdvak 1
+
+Opgaven
+
+
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen wiskunde C vwo op maandag 20 mei, aanvang 13.30 uur,
+moeten de kandidaten de volgende mededeling ontvangen. Deze mededeling moet bij
+het begin van de zitting worden voorgelezen en/of aan de kandidaten worden uitgereikt.
+
+
+Op pagina 5, in de alinea voorafgaand aan vraag 9 wordt de term 'een meetkundige rij'
+gebruikt. Hierbij moet 'een meetkundige rij' gelezen worden als 'een rij behorend bij een
+exponentieel verband'.
+
+
+
+Namens het College voor Toetsen en Examens,
+
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+VW-1026-a-19-1-o-E
+

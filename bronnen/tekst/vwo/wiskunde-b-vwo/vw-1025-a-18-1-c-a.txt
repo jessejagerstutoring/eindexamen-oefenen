@@ -1,0 +1,46 @@
+     aanvulling op het correctievoorschrift                                              2018-1
+
+    wiskunde B vwo
+
+    Centraal examen vwo
+
+    Tijdvak 1
+
+    Correctievoorschrift
+
+
+    Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+    Bij het centraal examen wiskunde B vwo:
+
+
+    Op pagina 6, bij vraag 4 moet het gegeven antwoord geschrapt worden. Het gehele
+    antwoord moet vervangen worden door:
+
+
+4   maximumscore 3
+    •    (Er moet gelden: Fa' ( x)  f a ( x) ;) de afgeleide van e a x is e a x  a       1
+                           1              1            1
+    •    De afgeleide van 2 e a x is 2 e a x  a  e a x                                   1
+                          a              a             a
+                                                             1       1               1
+    •    Toepassen van de productregel geeft Fa' ( x)  ea x  x  ae a x  e a x  xe a x
+                                                             a       a               a
+         (  f a ( x) )                                                                    1
+
+    Opmerking
+    Als een kandidaat bij het differentiëren de kettingregel beide keren niet of niet correct heeft
+    toegepast, dan geen scorepunten toekennen voor het eerste en tweede antwoordelement.
+
+
+    Ik verzoek u dit bericht door te geven aan de correctoren wiskunde B vwo.
+    Namens het College voor Toetsen en Examens,
+
+    drs. P.J.J. Hendrikse,
+    voorzitter
+
+
+
+
+    VW-1025-a-18-1-c-A
+

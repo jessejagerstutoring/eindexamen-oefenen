@@ -1,0 +1,513 @@
+                                                                Examen HAVO
+
+                                                                     2019
+                                                                            tijdvak 1
+                                                                   donderdag 9 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 18 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1025-a-19-1-o
+      Formule van Wilson
+
+            De geluidssnelheid in zeewater kan worden benaderd met de formule van
+            Wilson:
+                                                                          D
+                   v  1449, 2  4,623T  0,0546T 2  1,391 Z  35  
+                                                                          60
+            Hierin is
+             v de geluidssnelheid in m/s;
+             T de watertemperatuur in ºC;
+             Z het zoutgehalte van het zeewater in promille (‰);
+             D de waterdiepte in m.
+
+            In enkele gesloten zeeën (zoals de Kaspische Zee en de Dode Zee) wijkt
+            het zoutgehalte sterk af van het zoutgehalte van open zeeën. Zo is het
+            zoutgehalte van de Dode Zee met 337‰ ongeveer 10 keer zo hoog als
+            het zoutgehalte van gewoon zeewater.
+            De Kaspische Zee is met een gemiddeld zoutgehalte van 12‰ veel
+            minder zout dan gewoon zeewater.
+3p    1     Bereken bij gelijke watertemperatuur (T ) en gelijke waterdiepte (D) het
+            verschil tussen de geluidssnelheid in de Dode Zee en in de Kaspische
+            Zee. Geef je eindantwoord in een geheel aantal m/s.
+
+            Bij een bepaalde watertemperatuur zal de geluidssnelheid in zeewater
+            maximaal zijn. Deze watertemperatuur is onafhankelijk van de waterdiepte
+            en het zoutgehalte. Daarom mogen Z en D als constanten worden
+            beschouwd bij het berekenen van deze watertemperatuur.
+3p    2     Bereken algebraïsch de temperatuur in graden Celsius waarbij de
+            geluidssnelheid in zeewater maximaal is. Geef je eindantwoord in
+            één decimaal.
+
+            Vanuit een onderzeeboot kan men door middel van een sonarapparaat
+            afstanden bepalen. Hiervoor zendt de onderzeeboot een geluidssignaal
+            uit. Door een ander object in het water wordt dit signaal teruggekaatst.
+            Men meet het tijdsverschil tussen het moment van uitzenden van het
+            signaal en het moment waarop het teruggekaatste signaal weer
+            ontvangen wordt.
+
+            Een onderzeeboot en een object bevinden zich op 20 meter diepte in
+            zeewater van 10 ºC met een zoutgehalte van 35‰. De onderzeeboot
+            zendt een geluidssignaal uit, dat door het object wordt teruggekaatst;
+            12,45 seconden nadat het is uitgezonden wordt het teruggekaatste
+            signaal weer opgevangen.
+3p    3     Bereken hoe ver het object van de onderzeeboot verwijderd is. Geef je
+            eindantwoord in honderden meters.
+
+
+
+
+HA-1025-a-19-1-o                               2 / 12                          lees verder ►►►
+      Ingeklemd
+
+            De functie f is gegeven door f ( x)  3  3 x .
+            Het punt A  4, 3 ligt op de grafiek van f.
+
+
+            Verder is de lijn l met vergelijking y  34 x gegeven.
+
+            Lijn l raakt de grafiek van f in A.
+4p    4     Bewijs dit.
+
+            De cirkel c heeft middelpunt M met xM  5 .
+            Bovendien raakt lijn l cirkel c in punt A. Zie de figuur.
+
+            figuur
+                   y
+
+
+
+
+                                            A
+                                                               c
+
+                                                         M
+
+
+                        l
+                            f
+
+                                                         5         x
+                   O
+
+
+
+
+5p    5     Bewijs dat c de x-as raakt.
+
+
+
+
+HA-1025-a-19-1-o                                3 / 12                  lees verder ►►►
+      Twee exponentiële functies
+
+                                                                    1
+                                                                        x 3
+            De functies f en g zijn gegeven door f ( x)  2 2  en g ( x)  4 x .
+            Het punt A is het snijpunt van de grafieken van f en g. Zie de figuur.
+
+            figuur
+                           y
+
+
+                                                                               A
+
+
+
+
+                                        f
+
+
+
+
+                                            g
+
+
+
+                           O                                                       x
+
+
+
+4p    6     Bereken exact de coördinaten van A.
+
+                                                         1
+                                                             x 3
+            Bij de grafiek van f hoort de formule y  2 2 .
+            Deze formule kan worden herschreven zodat x wordt uitgedrukt in y.
+3p    7     Druk x uit in y.
+
+
+
+
+HA-1025-a-19-1-o                                4 / 12                                 lees verder ►►►
+      In of uit
+
+            Bij tennis is het net aan de zijkanten         foto
+            hoger dan in het midden. Zie de foto.
+
+            De bovenrand van het net hangt aan
+            de zijkanten op een hoogte van
+            1,07 meter en in het midden op een
+            hoogte van 0,91 meter.
+            Het net is 10,06 meter breed.
+
+            We plaatsen dit net in een assenstelsel met het midden van het net op de
+            y-as en de onderkant van het net op de x-as. Zie figuur 1.
+
+            figuur 1
+                                        y
+                                        1
+
+
+               –5   –4   –3   –2   –1   O     1        2    3     4   5 x
+
+            De hoogte y van een willekeurig punt op de bovenrand van het net is te
+            benaderen door een parabool met een formule van de vorm y  p x 2  q
+            met 5,03  x  5,03 . Hierbij zijn x en y in meters.
+
+4p    8     Bereken de waarden van p en q die uit de gegevens volgen. Geef p in drie
+            decimalen en q in twee decimalen.
+
+
+
+
+HA-1025-a-19-1-o                              5 / 12                        lees verder ►►►
+            Bij tennis is het soms moeilijk om te beoordelen of een bal binnen of
+            buiten de lijnen de grond raakt. Vaak wordt met behulp van camera’s
+            vastgesteld waar een bal de grond raakt.
+
+            Om een idee te krijgen hoe zo’n systeem werkt, bekijken we een sterk
+            vereenvoudigd tweedimensionaal model met twee camera’s. In figuur 2 is
+            een bovenaanzicht van één helft van het rechthoekige speelveld
+            weergegeven. Bovendien zijn in deze figuur enkele maten gegeven. Alle
+            maten zijn in meters.
+            Ook zijn de witte lijnen op het speelveld aangegeven. In het vervolg van
+            deze opgave verwaarlozen we de breedte van deze lijnen. De bal
+            beschouwen we als een punt.
+
+            figuur 2
+                      D       4,115    Q         C
+
+
+
+
+                   6,40
+
+
+
+
+                          R              P                 11,89
+
+
+
+
+             A                                         B
+                                      10,97
+
+            In figuur 2 geldt:
+             de stippellijn door CD geeft de plaats van het net aan;
+             de lengte van de achterlijn AB is 10,97 m;
+             de afstand van de achterlijn tot aan het net is 11,89 m;
+             DQ  4,115 m en DR  6, 40 m;
+             rechthoek PQDR is het servicevak, waarin de bal volgens de regels
+                 van het spel na de eerste slag op de grond moet komen.
+
+
+
+
+HA-1025-a-19-1-o                              6 / 12                         lees verder ►►►
+            In figuur 3 is hetzelfde speelveld als in figuur 2 nogmaals weergegeven.
+            De camera’s zijn boven de punten A en B gemonteerd.
+
+            figuur 3
+
+
+
+
+                               T
+
+
+
+
+             A                                       B
+
+            In figuur 3 geldt:
+             A is de positie van camera 1 en B is de positie van camera 2;
+             het punt T is de plaats waar de bal na de eerste slag op de grond
+                 komt;
+             A is de hoek ten opzichte van de achterlijn waaronder camera 1 de
+                 bal waarneemt;
+             B is de hoek ten opzichte van de achterlijn waaronder camera 2 de
+                 bal waarneemt;
+             In de situatie zoals weergeven in figuur 3 is de bal nog net in het
+                 servicevak PQDR op de grond gekomen.
+
+            We bekijken nu een andere situatie, waarbij A  45, 4 en B  44, 2 .
+6p    9     Onderzoek met behulp van een berekening of in deze situatie de bal in
+            rechthoek PQDR op de grond is gekomen.
+
+
+
+
+HA-1025-a-19-1-o                            7 / 12                           lees verder ►►►
+      Grafiek van een derdegraadsfunctie en een lijn
+
+
+                                                      12 x  2  . Zie figuur 1.
+                                                              3
+            De functie f is gegeven door f ( x) 
+
+            figuur 1
+               y
+                                                 f
+
+
+
+
+                                    A
+              O                                      x
+
+
+
+
+            De functie g is gegeven door g ( x )  x 3 . De grafiek van f ontstaat uit de
+            grafiek van g door twee transformaties na elkaar toe te passen.
+3p    10    Geef aan welke twee transformaties dit kunnen zijn en in welke volgorde
+            ze moeten worden toegepast.
+
+            De grafiek van f snijdt de x-as in het punt A. Zie figuur 1.
+
+            De grafiek van f heeft een horizontale raaklijn in A.
+5p    11    Bewijs dit.
+
+            De lijn l met vergelijking y  12 x  2 snijdt de grafiek van f behalve in
+            punt A ook in de punten P en Q. Zie figuur 2.
+
+            figuur 2
+               y
+                                                 f
+
+                                             Q
+
+                                    A
+              O                                      x
+
+                        P
+                   l
+
+
+
+
+3p    12    Bereken de lengte van PQ. Geef je eindantwoord in twee decimalen.
+
+
+
+
+HA-1025-a-19-1-o                              8 / 12                                lees verder ►►►
+      Sinusoïden
+
+            Op het domein  0, 2 is de functie f gegeven door:
+
+                       f ( x)  1  2cos  2 x  13  
+
+            De grafiek van f snijdt de x-as achtereenvolgens in de punten P, Q, R en
+            S. Zie de figuur.
+
+            figuur
+                   y
+
+
+
+
+                                            f
+
+
+
+
+                   O       P            Q                 R        S           x
+
+
+
+
+            De afstand PS is a keer zo groot als de afstand QR.
+5p    13    Bereken de waarde van a.
+
+            Op hetzelfde domein  0, 2 is functie g gegeven door:
+
+                                                   
+                   g ( x)  f ( x)  2  5cos 2  x  14     
+            De grafiek van g is ook een sinusoïde. Met andere woorden: g heeft een
+                                                                          
+            functievoorschrift van de vorm g ( x)  p  q  cos r  x  s  .
+5p    14    Bereken mogelijke waarden van p, q, r en s. Geef deze waarden zo nodig
+            in drie decimalen.
+
+
+
+
+HA-1025-a-19-1-o                                          9 / 12                   lees verder ►►►
+      Schaal van Richter
+
+            Charles Richter heeft in 1935 een schaal opgesteld die de kracht van een
+            aardbeving in een getal uitdrukt. Dit wordt de schaal van Richter
+            genoemd.
+
+            De plaats waar een aardbeving ontstaat heet het epicentrum. Het is
+            mogelijk om op een bepaalde afstand tot het epicentrum de kracht van
+            een aardbeving te bepalen. Hiervoor wordt de grootte van de beweging
+            van de aardkorst in verticale richting gemeten. Deze verticale uitwijking is
+            de zogeheten amplitude.
+
+            De kracht van een aardbeving kan bepaald worden met behulp van een
+            nomogram. Hierbij wordt de afstand van de plaats van meting tot het
+            epicentrum als punt op de as ‘afstand’ in het nomogram aangegeven. De
+            gemeten amplitude wordt als punt op de as ‘amplitude’ in het nomogram
+            aangegeven. Het snijpunt van de lijn door deze twee punten met de
+            middelste as (kracht) geeft de kracht van de aardbeving.
+            Zie hieronder.
+
+            nomogram
+                             500
+                             400                            100
+                                            6               50
+                             300
+                                            5               20
+
+
+
+                                                                  amplitude (mm)
+                             200                            10
+
+              afstand (km)
+                                            4               5
+                             100   kracht                   2
+                              60            3
+                                                            1
+                              40
+                                            2               0,5
+                                            1               0,2
+                             20
+                                                            0,1
+                              5             0               0,05
+
+                              0
+
+
+            In het nomogram zie je bijvoorbeeld dat als op een afstand van ongeveer
+            220 km vanaf het epicentrum de amplitude 20 mm is, er een aardbeving
+            heeft plaatsgevonden met een kracht van 5 op de schaal van Richter.
+
+            Er geldt: als de amplitude van de ene aardbeving tien keer zo groot is als
+            de amplitude van een andere aardbeving, dan is de kracht van de
+            zwaarste beving 1,0 groter dan de kracht van de lichtste beving.
+4p    15    Laat dit zien voor twee aardbevingen waarvan op 100 km van het
+            epicentrum de ene een amplitude van 0,1 mm heeft en de andere een
+            amplitude van 1 mm. Maak hierbij gebruik van het nomogram op de
+            uitwerkbijlage.
+
+
+HA-1025-a-19-1-o                                10 / 12                            lees verder ►►►
+            Ook met behulp van een formule kan uit de afstand D tot het epicentrum
+            en de amplitude A de kracht op de schaal van Richter berekend worden.
+            Deze kracht wordt in één decimaal nauwkeurig gegeven.
+
+            Voor de kracht op de schaal van Richter geldt:
+                   K  log( A)  1,6  log( D)  0,15        voor D  200   (1)
+                   K  log( A)  3  log( D)  3,38          voor D  200   (2)
+
+            Hierin is K de kracht op de schaal van Richter, A de amplitude in mm en
+            D de afstand tot het epicentrum in km.
+
+            De hoeveelheid schade die een aardbeving aanricht, hangt af van de
+            amplitude. Bij een amplitude van meer dan 1000 mm is er grote kans op
+            schade aan gebouwen. Hoe verder men van het epicentrum verwijderd is,
+            hoe kleiner de amplitude.
+
+            Op 12 mei 2008 was er in de regio Sichuan in China een aardbeving met
+            een kracht van 7,9 op de schaal van Richter. Het cirkelvormige gebied
+            rond het epicentrum waar de amplitude minstens 1000 mm bedroeg, werd
+            tot rampgebied uitgeroepen.
+5p    16    Bereken met behulp van formule (2) de oppervlakte van het rampgebied
+            in vierkante kilometers. Geef je eindantwoord in duizendtallen.
+
+            Formule (1) is te schrijven in de vorm:
+
+                           
+                   K  log p  A  D q   
+5p    17    Bereken p en q. Geef je eindantwoorden in één decimaal.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1025-a-19-1-o                                   11 / 12                    lees verder ►►►
+      Loodrecht en raken
+
+            Cirkel c met middelpunt M  1, 3 raakt lijn l met vergelijking y  12 x  1 12 in
+            punt A.
+            Lijn k staat loodrecht op l en raakt c in punt B. Punt C is het snijpunt van k
+            en l.
+            Lijnstukken AC en BC en cirkelboog AB sluiten het vlak V in. Zie de figuur,
+            waarin vlak V grijs is weergegeven.
+
+            figuur
+                                             y
+
+                                                    k
+
+
+
+                            c
+
+
+                                                           B
+
+
+                                         M
+
+
+                                                               V
+                                                                   C
+
+                                          O                                   x
+
+                                                   A
+
+                                    l
+
+
+
+8p    18    Bereken algebraïsch de omtrek van V. Geef je eindantwoord in twee
+            decimalen.
+
+
+
+
+HA-1025-a-19-1-o                                 12 / 12                             lees verdereinde
+                                                                                                  ►►► 
+

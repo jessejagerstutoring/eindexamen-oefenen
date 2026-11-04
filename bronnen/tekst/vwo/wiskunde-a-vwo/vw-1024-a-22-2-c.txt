@@ -1,0 +1,758 @@
+                                                    Correctievoorschrift VWO
+
+                                                                           2022
+                                                                                   tijdvak 2
+
+
+
+
+                                                                         wiskunde A
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+VW-1024-a-22-2-c                              1                               lees verder ►►►
+      3    De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+           beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+           gegeven door het College voor Toetsen en Examens.
+           De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+           verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+           gezag van de gecommitteerde.
+      4    De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+           aantal scorepunten voor het centraal examen vast.
+      5    Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+           komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+           gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+           gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+           hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+           onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+           in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+VW-1024-a-22-2-c                              2                                 lees verder ►►►
+           3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+           3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+           3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                onjuistheid gemoeid zijn.
+      4    Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+           juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+           onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+           worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+           beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+           antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+           gegeven is, worden eveneens geen scorepunten toegekend.
+      5    Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+           tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+           beoordelingsmodel anders is vermeld.
+      6    Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+           worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7    Indien de examinator of de gecommitteerde meent dat in een examen of in het
+           beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+           werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+           fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+           Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+           eventuele fout wordt bij de definitieve normering van het examen rekening
+           gehouden.
+      8    Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+           antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9    Het cijfer voor het centraal examen wordt als volgt verkregen.
+           Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+           wordt meegedeeld aan de directeur.
+           De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+           voor omzetting van score naar cijfer.
+
+  NB1      T.a.v. de status van het correctievoorschrift:
+           Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+           vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+           voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+           De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+VW-1024-a-22-2-c                                3                                  lees verder ►►►
+  NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+           Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+           behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+           standaardformulier voorgeschreven voor de vermelding van de scores van de
+           kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+           verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+           of in gezamenlijk overleg keuzes maken.
+
+  NB3      T.a.v. aanvullingen op het correctievoorschrift:
+           Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+           en een fout.
+           Verduidelijking
+           Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+           antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+           Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+           voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+           Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+           Een fout
+           Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+           fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+           Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+           Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+           spoedig mogelijk verstuurd aan de examensecretarissen.
+           Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+           gevallen vermeldt de aanvulling:
+
+           –       Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+           –       Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+           Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+           moeten worden toegekend.
+
+           Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+           aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+           houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+           rekening met de onvolkomenheid.
+
+
+
+
+VW-1024-a-22-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet-
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+VW-1024-a-22-2-c                              5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag      Antwoord                                                                           Scores
+
+
+
+      Dauwpunt
+
+      1     maximumscore 3
+                        17, 27  23         65 
+            •      G                 ln        (= 1,09…)                                       1
+                        237, 7  23         100 
+                         237, 7 1, 09...
+            •       Td                     (= 16,0…)                                              1
+                         17, 27  1, 09...
+            •      16,0...  12  4,0... (°C), dus er ontstaat zichtbare condens op het glas       1
+
+      2     maximumscore 5
+            •      Het inzicht dat bij een lagere luchtvochtigheid een lager dauwpunt
+                   hoort                                                                           1
+            •      (Bij zeer onaangenaam hoort Td  24 (en Td  26 ), dus) de vergelijking
+                         237, 7  G
+                   24              moet worden opgelost                                           1
+                        17, 27  G
+            •      Beschrijven hoe de oplossing G  1,58... kan worden gevonden                    1
+                                     17, 27  33       R 
+            •      De vergelijking                ln        1,58... moet worden opgelost       1
+                                     237, 7  33       100 
+            •      Beschrijven hoe de oplossing R  59,3... kan worden gevonden, dus de
+                   minimale luchtvochtigheid was in Nederland 60(%)                                1
+            of
+            •      Het inzicht dat bij een lagere luchtvochtigheid een lager dauwpunt
+                   hoort                                                                           1
+            •      (Bij zeer onaangenaam hoort Td  24 (en Td  26 ), dus) de vergelijking
+                         237, 7  G
+                   24              moet worden opgelost                                           1
+                        17, 27  G
+            •      De juiste substitutie van G in de formule voor het dauwpunt Td                  1
+                                                  17, 27  33       R 
+                                        237, 7                ln      
+                                                  237, 7  33       100  
+            •      De vergelijking 24                                        moet worden
+                                                  17, 27  33       R 
+                                        17, 27                ln      
+                                                  237, 7  33       100  
+                   opgelost                                                                        1
+            •      Beschrijven hoe de oplossing R  59,3... kan worden gevonden, dus de
+                   minimale luchtvochtigheid was in Nederland 60(%)                                1
+
+
+
+
+VW-1024-a-22-2-c                                      6                                   lees verder ►►►
+  Vraag      Antwoord                                                                                    Scores
+
+
+      3     maximumscore 4
+                        17, 27  20         R 
+            •      G                 ln                                                                1
+                        237, 7  20         100 
+                        17, 27  20
+            •      G                 ln( R)  ln(100) (  1,34...  ln( R)  ln(100) )                   1
+                        237, 7  20
+            •      G  ln( R)  3, 2648...                                                                 1
+                         237, 7  (ln( R )  3, 2648...) 237, 7  (ln( R )  3, 2648...)
+            •      Td                                                                  (en dit geeft
+                        17, 27  (ln( R )  3, 2648...)          20,5348...  ln( R )
+                                          237, 7  (ln( R)  3, 265)
+                   na afronden: Td                                  )                                     1
+                                               20,535  ln( R)
+
+      4     maximumscore 3
+                                                         237, 7  (ln( R)  3, 265)
+            •      Beschrijven hoe de vergelijking                                   3 kan worden
+                                                            20,535  ln( R)
+                   opgelost                                                                                1
+            •      De oplossing is R  32, 4...                                                            1
+            •      Het antwoord: ( 32, 4...  30 , dus) nee, de relatieve luchtvochtigheid is
+                   niet schadelijk                                                                         1
+
+
+
+
+VW-1024-a-22-2-c                                          7                                       lees verder ►►►
+  Vraag      Antwoord                                                                                                Scores
+
+
+      Skûtsjesilen
+
+      5     maximumscore 3
+            •      Skûtsjes die geen enkele wedstijd winnen, hebben altijd een geheel
+                   aantal punten                                                                                        1
+            •      Een skûtsje dat 10 wedstrijden wint, heeft ook een geheel aantal punten                              1
+            •      Maar dan moet dit skûtsje alle 11 wedstrijden winnen, zodat bij dit
+                   skûtsje 1 keer winst niet meetelt, anders heeft een van de andere
+                   skûtsjes geen geheel aantal punten, dus het is mogelijk                                              1
+
+      6     maximumscore 2
+                   2,15
+            •             1,131... (of met behulp van een getallenvoorbeeld)                                           1
+                   1, 90
+            •      Het antwoord: 13(%)                                                                                  1
+
+      7     maximumscore 4
+            •      Beschrijven hoe de vergelijking 160, 2  2,15 17,13  (3,57  2 D) kan
+                   worden opgelost                                                                                      1
+            •      Dit geeft: D  0,38... (m)                                                                           1
+            •      Invullen van de gegevens in formule 2016 geeft dan: S  162, 4... (m2)                               1
+            •      Het antwoord: (162, 4...  160, 2 ) 2,2 (m2)                                                        1
+
+      8     maximumscore 3
+            •      De vergelijking
+                   2,15  L  ( 23  3, 52  1, 25  2  0, 42)  (3, 2525  0, 05 L )  L  3, 52  25 moet
+                   worden opgelost                                                                                      1
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                                                1
+            •      Het antwoord: L  18,52 (m)                                                                          1
+
+
+
+
+VW-1024-a-22-2-c                                              8                                                lees verder ►►►
+  Vraag      Antwoord                                                                                Scores
+
+
+      9     maximumscore 5
+            •      Het kiezen van een waarde voor B, met B  0 , bijvoorbeeld B  1                     1
+            •      Er geldt dan (bijvoorbeeld) S  3, 2525L  0, 05L2                                   1
+                                                  dS
+            •      Daaruit volgt (bijvoorbeeld)       3, 2525  0,1L                                   1
+                                                  dL
+                   dS                             dS
+            •           0 geeft L  32,525 (of       0 geeft L  32,525 )                             1
+                   dL                             dL
+                                       dS                                dS
+            •      Voor L  32,525 is       0 , dus voor 12  L  20 is     0 , (en dus is
+                                       dL                                dL
+                   voor een skûtsje de afgeleide van formule IFKS positief)                             1
+            of
+            •      Het kiezen van een waarde voor B, met B  0 , bijvoorbeeld B  1                     1
+                                            dS
+            •      Er geldt (bijvoorbeeld)       0,05  L 1  (3, 2525  0, 05L) 1
+                                            dL
+                   (  0,1L  3, 2525 )                                                                2
+                    dS                             dS
+            •            0 geeft L  32,525 (of       0 geeft L  32,525 )                            1
+                    dL                             dL
+                                         dS                                   dS
+            •      Voor L  32,525 is        0 , dus voor 12  L  20 is          0 , (en dus is
+                                         dL                                    dL
+                   voor een skûtsje de afgeleide van formule IFKS positief)                             1
+            of
+            •      Het kiezen van een waarde voor B, met B  0 , bijvoorbeeld B  1                     1
+            •      Er geldt dan (bijvoorbeeld) S  3, 2525L  0, 05L2                                   1
+                                                 dS
+            •      Daaruit volgt (bijvoorbeeld)       3, 2525  0,1L                                   1
+                                                 dL
+                                   dS                                dS
+            •      Voor L  12 is       2, 0525 en voor L  20 is       1, 2525                       1
+                                   dL                                dL
+                           dS                                                      dS
+            •      Omdat       een lineaire functie is, geldt voor 12  L  20 dat    0
+                           dL                                                      dL
+                   (en dus is voor een skûtsje de afgeleide van formule IFKS positief)                  1
+            of
+            •      Het kiezen van een waarde voor B, met B  0 , bijvoorbeeld B  1                     1
+                                               dS
+            •      Er geldt (bijvoorbeeld)         0,05  L 1  (3, 2525  0, 05L) 1
+                                               dL
+                   (  0,1L  3, 2525 )                                                                2
+                                     dS                                   dS
+            •      Voor L  12 is         2, 0525 en voor L  20 is          1, 2525                  1
+                                     dL                                   dL
+                           dS                                                            dS
+            •      Omdat        een lineaire functie is, geldt voor 12  L  20 dat         0
+                           dL                                                            dL
+                   (en dus is voor een skûtsje de afgeleide van formule IFKS positief)                  1
+
+
+
+
+VW-1024-a-22-2-c                                        9                                      lees verder ►►►
+  Vraag      Antwoord                                                                     Scores
+
+
+            Opmerkingen
+             Voor het tweede antwoordelement van het tweede en het vierde
+               antwoordalternatief mag voor een niet volledig juist antwoord 1
+               scorepunt worden toegekend.
+             Als in het tweede en het vierde antwoordalternatief de productregel niet
+               is gebruikt voor deze vraag maximaal 3 scorepunten toekennen.
+                                                    dS
+             Als een kandidaat de uitkomsten van      voor de gehele getallen 13 t/m
+                                                    dL
+                                                      dS
+               19 berekent en daaruit concludeert dat     altijd positief is, voor deze
+                                                      dL
+               vraag maximaal 3 scorepunten toekennen.
+
+
+
+
+VW-1024-a-22-2-c                                10                                 lees verder ►►►
+  Vraag      Antwoord                                                                                          Scores
+
+
+      Waalbrug
+
+     10     maximumscore 3
+                                                                      
+            •      Beschrijven hoe de vergelijking 11  38, 6  sin       x  122    0 kan
+                                                                      244              
+                   worden opgelost                                                                                1
+            •      Dit geeft x  99,55... (en/of x  99,55... )                                                  1
+            •      Het antwoord: 199 (m)                                                                          1
+
+     11     maximumscore 4
+            •      Herschaling in verticale richting met factor 1,17 geeft
+                                                                     
+                    y  1,17   11  38, 6  sin       x  122                                            1
+                                                   244              
+            •      Verschuiving 1,87 omhoog geeft
+                                                                     
+                    y  1,17   11  38, 6  sin       x  122     1,87                                  1
+                                                   244              
+            •      Invullen van x  0 in de formules voor de boven- en de onderrand geeft
+                    y  34,162 en y  27,6                                                                        1
+            •      Het antwoord: (34,162  27,6 ) 6,6 (m)                                                        1
+
+            of
+            •      Herschaling in verticale richting met factor 1,17 geeft
+                                                                     
+                   y  1,17   11  38, 6  sin        x  122                                            1
+                                                  244               
+            •      Verschuiving 1,87 omhoog geeft
+                                                                     
+                   y  1,17   11  38, 6  sin        x  122     1,87                                  1
+                                                  244               
+            •      Voor de afstand tussen de boven- en de onderrand geldt
+                                                                                                       
+                   y  11  45,162  sin           x  122     11  38, 6  sin   x  122         1
+                                              244                                       244          
+            •      Het antwoord: (de optie maximum geeft) 6,6 (m)                                                 1
+            of
+            •      Invullen van x  0 in de formule voor de onderrand geeft voor de
+                   hoogte van de onderste boog 27,6                                                               1
+            •      De hoogte van de bovenste boog is 27,6 1,17  1,87 ( 34,162)                                 2
+            •      Het antwoord: (34,162  27,6 ) 6,6 (m)                                                        1
+
+            Opmerking
+            Voor het tweede antwoordelement van het laatste antwoordalternatief mag
+            voor een niet volledig juist antwoord 1 scorepunt worden toegekend.
+
+
+
+
+VW-1024-a-22-2-c                                            11                                           lees verder ►►►
+  Vraag      Antwoord                                                                           Scores
+
+
+     12     maximumscore 4
+            •      (De evenwichtsstand ligt 11 m onder het wegdek, dus) a   11                   1
+            •      (De amplitude is 11, dus) b  11                                                1
+                                                      
+            •      (De halve periode is 95, dus) c      (of c  0, 03 of nauwkeuriger)            1
+                                                     95
+                                              244
+            •      (De grafiek begint bij x       7  129 (m), dus) d  129
+                                               2
+                                                                            
+                   (en dit geeft de formule: y  11  11  sin   x  129   )                  1
+                                                                 95          
+
+            Opmerking
+            Als een andere mogelijke waarde voor d is gegeven, bijvoorbeeld d   61
+            of d  319 , hiervoor geen scorepunten in mindering brengen.
+
+
+
+
+VW-1024-a-22-2-c                                    12                                    lees verder ►►►
+  Vraag      Antwoord                                                                         Scores
+
+
+      Bonte vliegenvanger
+
+     13     maximumscore 4
+            •      (Bijvoorbeeld) in 2008 is t  10 en V  100 ; (10, 100) invullen geeft
+                   100  c 10 2  81                                                            1
+            •      Beschrijven hoe de oplossing c  0,19 kan worden gevonden                     1
+            •      Invullen van t  17 in V  0,19  t 2  81 geeft V  135,91                   1
+            •      In 2015 was het aantal in werkelijkheid V  150 en een passende
+                   conclusie                                                                     1
+
+     14     maximumscore 4
+            •      Het aantal volwassen vogels van type B dat in jaar n  1 de winter
+                   overleefd heeft, is 0,5  Bn                                                  1
+            •      Per nest vliegen 5 jongen uit, dit is 2,5 jong per volwassen vogel            1
+            •      Hiervan overleeft 18%, dus het aantal jongen dat in jaar n  1 volwassen
+                   is geworden, is 2,5  0,18  Bn                                               1
+            •      Totaal is dat Bn 1  0,5  Bn  2,5  0,18  Bn  0,95  Bn                  1
+
+            of
+            •      Per nest overleeft 1 volwassen vogel de winter                                1
+            •      Per nest overleven 5,0  0,18 (= 0,9) jongen de winter                        1
+            •      Dus per nest overleven (1  0,9 ) 1,9 vogels                                 1
+                                    1,9
+            •      Dat is per vogel      0,95 (dus Bn1  0,95  Bn )                           1
+                                      2
+
+     15     maximumscore 3
+            Een oplossing als:
+            • Het maken van tabellen voor Bn1  0,95  Bn met bijvoorbeeld
+               beginwaarde B0  5000 en An1  1, 09  An met beginwaarde A0  1000              1
+            • B11  2844,... en A11  2580,...                                                   1
+            • B12  2701,... en A12  2812,... , dus na 12 jaar                                  1
+
+            of
+            •      De directe formules zijn An  1, 09 n en Bn  5  0, 95n                      1
+            •      Beschrijven hoe de vergelijking An  Bn kan worden opgelost                   1
+            •      De oplossing is n  11,7... , dus na 12 jaar                                  1
+
+
+
+
+VW-1024-a-22-2-c                                      13                                lees verder ►►►
+  Vraag      Antwoord                                                                                       Scores
+
+
+     16     maximumscore 2
+            •      Het invullen van b  1  a in N (t ) geeft
+                                    
+                   N (t )  60 000  a 1, 09t  (1  a)  0,95t                                             1
+
+            •      N (t )  60 000   a  ln(1, 09) 1, 09  (1  a )  ln(0,95)  0,95 
+                                                             t                           t
+
+
+                   (en dit geeft bij benadering
+                                                                                   
+                   N (t )  60 000  a  0, 086 1, 09t  (1  a )  0, 051  0,95t )                        1
+
+
+     17     maximumscore 3
+            •      Bij 1998 hoort t  14 , dus er moet gelden N (14)  0                                     1
+            •      Beschrijven hoe de vergelijking
+                                                                            
+                   60 000  a  0, 086 1, 0914  (1  a)  0, 051  0,9514  0 kan worden opgelost           1
+            •      Het antwoord: 8(%) van type A en 92(%) van type B                                          1
+
+            Opmerking
+                                                         
+            Als gewerkt is met N (t )  60 000  a  ln(1, 09) 1, 09t  (1  a )  ln(0,95)  0,95t   
+            uit vraag 16, hiervoor geen scorepunten in mindering brengen.
+
+
+
+
+VW-1024-a-22-2-c                                                 14                                lees verder ►►►
+  Vraag      Antwoord                                                                            Scores
+
+
+      Afname van de kindersterfte in Mali
+
+     18     maximumscore 4
+                                                   12
+            •      In 1900 was de kindersterfte        100 (= 36,2…)                               1
+                                                  33,1
+            •      In 2007 waren er 4,8  33,1 (  158,88 ) (miljoen kinderen)                      1
+                                                  12  2,8
+            •      In 2007 was de kindersterfte             100 (= 5,7…)                           1
+                                                   158,88
+                                                       36, 2...
+            •      De kindersterfte was in 2007 dus              6 keer zo klein (of 1/6 keer
+                                                        5, 7...
+                   zo groot)                                                                        1
+
+     19     maximumscore 3
+            •      De groeifactor per jaar is e0,0203  1, 0205...                                  1
+            •      De groeifactor per 10 jaar is dus 1, 0205...10  1, 2250...                      1
+            •      Het antwoord: 22,5(%)                                                            1
+            of
+                   240 900  e0,0203(t 10)
+            •                                                                                       1
+                     240 900  e0,0203t
+            •      Herleiden geeft e0,203  1, 2250...                                              1
+            •      Het antwoord: 22,5(%)                                                            1
+
+     20     maximumscore 3
+            Een afleiding als:
+            • Voor P, het percentage kinderen dat sterft, geldt P  at  b met
+                b  41, 2                                                                           1
+                    11, 4  41, 2
+            • a                  ( 0,54...)                                                      1
+                    2015  1960
+            • S  0, 01 (0,54...  t  41, 2)  240 900  e0,0203t herleiden tot
+                   S  (99 251  1305t )  e0,0203t                                                 1
+
+
+
+
+VW-1024-a-22-2-c                                         15                                lees verder ►►►
+  Vraag      Antwoord                                                                             Scores
+
+
+     21     maximumscore 4
+            Een redenering als:
+            • S' = 1305  e0,0203t  0, 0203  (99 251  1305t )  e0,0203t (of een
+               gelijkwaardige uitdrukking)                                                          2
+            • Een schets van de grafiek van S'                                                      1
+
+
+
+
+            •      Na t  30 (na 1990) ligt de grafiek van S' altijd onder de t-as en is de
+                   waarde van S' steeds meer negatief (dus de afname van de kindersterfte
+                   S gaat steeds sneller)                                                           1
+            of
+            •      S' = (709, 7953  26, 4915t )  e0,0203t (of een gelijkwaardige uitdrukking)     2
+            •      Bij t  30 is 709,7953  26, 4915t negatief                                      1
+            •      Voor alle t  30 (na 1990) is 709,7953  26, 4915t steeds meer negatief
+                   en e0,0203t is altijd positief, dus de waarde van S' wordt steeds meer
+                   negatief (dus de afname van de kindersterfte S gaat steeds sneller)              1
+
+            Opmerkingen
+             Voor het eerste antwoordelement mag voor een niet volledig juist
+               antwoord 1 scorepunt worden toegekend.
+             Als de product- en/of kettingregel niet is gebruikt, voor deze vraag
+               maximaal 2 scorepunten toekennen.
+
+
+
+
+VW-1024-a-22-2-c                                      16                                   lees verder ►►►
+  Vraag      Antwoord                                                                         Scores
+
+
+      Rondetijden
+
+     22     maximumscore 6
+            Voorbeelden van juiste uitwerkingen zijn:
+            • De 7 volledige ronden moeten worden afgelegd in minder dan
+               ( 300  23,3  ) 276,7 (s)                                                        1
+            • De tijd van de eerste volledige ronde is 1,65  23,3  38, 445 (s)                 1
+            • De rondetijden van de overige 6 volledige ronden zijn 38, 445  v ,
+               38, 445  2v , 38, 445  3v ,…, 38, 445  6v (met v het verval)                   1
+            • De totale tijd van de 7 volledige ronden is dus 269,115  21v                      1
+            • Beschrijven hoe de vergelijking 269,115  21v  276,7 kan worden
+               opgelost                                                                          1
+            • Het antwoord: 0,36 (s)                                                             1
+            of
+            •      De 7 volledige ronden moeten worden afgelegd in minder dan
+                   ( 300  23,3  ) 276,7 (s)                                                    1
+            •      De tijd van de eerste volledige ronde is 1,65  23,3  38, 445 (s)            1
+            •      Het inzicht dat vanwege het lineaire karakter de eerste en de laatste
+                   volledige ronde evenveel van de gemiddelde rondetijd verschillen              1
+            •      De gemiddelde rondetijd is ( 276,7 : 7  ) 39,52… (s)                         1
+            •      De gemiddelde rondetijd is de tijd van de vierde volledige ronde, dus
+                   39,52...  38, 445  3v (met v het verval)                                    1
+            •      Het antwoord: 0,36 (s)                                                        1
+            of
+            •      De 7 volledige ronden moeten worden afgelegd in minder dan
+                   ( 300  23,3  ) 276,7 (s)                                                    1
+            •      De tijd van de eerste volledige ronde is 1,65  23,3  38, 445 (s)            1
+            •      Een formule voor de tijd Tn van de ne volledige ronde is
+                   Tn  38, 445  v(n  1) (met v het verval)                                    1
+                                     7
+            •      De vergelijking  Tk  276, 7 moet worden opgelost                            1
+                                    k 1
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                         1
+            •      Het antwoord: 0,36 (s)                                                        1
+
+
+
+
+VW-1024-a-22-2-c                                     17                                 lees verder ►►►
+      Compensatiescore
+
+23    maximumscore 20
+      Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals bedoeld onder 4a
+      en/of fouten bij het afronden van het eindantwoord voor het hele examen maximaal
+      2 scorepunten.
+      Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+      2 scorepunten in mindering heeft gebracht, kent u hier een compensatiescore toe.
+       Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+          aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+          Voorbeeld:
+          U heeft voor deze fouten in het hele examen 5 scorepunten in mindering gebracht.
+          Ken dan bij deze component een compensatiescore van 3 toe.
+       Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+          compensatiescore van 0 toe.
+
+
+
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 24 juni te accorderen.
+
+      Ook na 24 juni kunt u nog tot en met 30 juni gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+
+VW-1024-a-22-2-c                              18                                 lees verder ►►►
+      6 Bronvermeldingen
+
+      Skûtsjesilen
+      corlaffra/Shutterstock.com ID: 571098052
+
+
+      Waalbrug
+      Verhoef/Shutterstock.com ID: 1944037708
+
+
+      Bonte vliegenvanger
+      WildlifeWorld/Shutterstock.com ID: 1389303344
+
+
+      Rondetijden
+      Evelien1009/wikipedia.org (of: https://commons.wikimedia.org/wiki/File:Thialf_ijsbaan.jpg)
+
+
+
+
+VW-1024-a-22-2-c                                       19                                          lees verdereinde
+                                                                                                                ►►► 
+

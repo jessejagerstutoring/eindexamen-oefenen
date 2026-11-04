@@ -1,0 +1,85 @@
+       wiskunde C VWO oud programma                          2018-2
+
+       uitwerkbijlage
+
+Naam kandidaat __________________________
+   6        Normaal waarschijnlijkheidspapier
+            99,99
+
+
+            99,95
+             99,9
+              99,8
+
+              99,5
+                   99
+
+                   98
+
+
+                   95
+
+                   90
+
+
+                   80
+
+                   70
+
+                   60
+                   50
+                   40
+
+                   30
+
+                   20
+
+
+                   10
+
+                   5
+
+
+                   2
+
+                   1
+               0,5
+
+               0,2
+               0,1
+              0,05
+
+
+              0,01
+                                                    dwarsdoorsnede (in mm)
+
+
+
+
+VW-1026-h-18-2-u                                1           lees verder ►►►
+   15
+
+                         0,25
+             relatieve
+            frequentie
+                         0,20
+
+                         0,15
+
+                         0,10
+
+                         0,05
+
+                           0
+                           101   102   103   104    105        106
+                                                   aantal worpen
+
+
+
+
+                   VERGEET NIET DEZE UITWERKBIJLAGE IN TE LEVEREN
+
+
+VW-1026-h-18-2-u                             2                       lees verdereinde
+                                                                                  ►►► 
+

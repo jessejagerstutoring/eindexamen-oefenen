@@ -1,0 +1,513 @@
+                                                                  Examen HAVO
+
+                                                                       2022
+                                                                              tijdvak 1
+                                                                        vrijdag 13 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                      wiskunde A
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 21 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-22-1-o
+              FORMULEBLAD
+
+              Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                              a b                        ad  bc
+              22 kruistabel       , met phi                                 ,
+                              c d              (a  b)(a  c)(b  d )(c  d )
+              waarin a , b , c en d absolute aantallen zijn.
+
+                 als phi  0,4 of phi  0,4 , dan zeggen we “het verschil is groot”,
+                 als 0,4  phi  0,2 of 0,2  phi  0,4 , dan zeggen we “het verschil is
+                  middelmatig”,
+                 als 0,2  phi  0,2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp )
+              (met voor beide groepen een steekproefomvang n  100 )
+
+                 als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                 als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                 als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                   X1  X 2
+              Effectgrootte E  1              , met X 1 en X 2 de steekproefgemiddelden
+                                   (
+                                  2 1
+                                     S  S 2 )
+              ( X1  X 2 ), S1 en S 2 de steekproefstandaardafwijkingen
+
+                 als E  0,8 , dan zeggen we “het verschil is groot”,
+                 als 0, 4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                 als E  0, 4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                 als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                  groot”,
+                 als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                  buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                  middelmatig”,
+                 in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+   noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+HA-1024-a-o
+                                                  2 / 13                                      lees verder ►►►
+              Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1  p)
+               p  2            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-o
+                                               3 / 13                          lees verder ►►►
+       De psychrometer
+
+               Lucht bevat waterdamp. Hoeveel waterdamp er in de lucht zit, varieert.
+               De (relatieve) luchtvochtigheid is een percentage dat aangeeft hoe
+               vochtig de lucht is. Dit ligt tussen 0% (zeer droge lucht) en 100%
+               (verzadigde lucht).
+
+               De luchtvochtigheid kan worden gemeten met een psychrometer. Dit is
+               een apparaatje met twee thermometers. De ene thermometer is een
+               gewone thermometer: deze meet de luchttemperatuur. De andere
+               thermometer heeft een natte kous om het vloeistofreservoir. Zie de foto.
+
+               foto
+
+
+
+
+               Door de psychrometer rond te draaien, verdampt water uit de natte kous.
+               Daardoor koelt de kous af en zal de thermometer met de natte kous een
+               lagere temperatuur aangeven dan de luchttemperatuur. We noemen deze
+               temperatuur de natte temperatuur.
+
+               Met de luchttemperatuur én het verschil tussen de luchttemperatuur en de
+               natte temperatuur kun je de luchtvochtigheid bepalen. Hiervoor gebruik je
+               de tabel die op de uitwerkbijlage staat.
+
+               Ahmed gebruikt op een bepaald moment een psychrometer. De
+               luchttemperatuur is volgens de gewone thermometer 22 C, de natte
+               temperatuur is 17 C.
+3p     1       Bepaal met behulp van de tabel op de uitwerkbijlage de luchtvochtigheid
+               op dat moment.
+
+
+
+
+HA-1024-a- o                                   4 / 13                           lees verder ►►►
+              Op de uitwerkbijlage is een figuur afgedrukt. In die figuur is voor diverse
+              verschillen tussen de luchttemperatuur en de natte temperatuur de grafiek
+              getekend van de luchtvochtigheid, afhankelijk van de luchttemperatuur.
+
+              Op een bepaalde dag daalde de luchttemperatuur van 31,5 C naar 15 C,
+              maar de luchtvochtigheid bleef de hele dag 60%.
+4p    2       Bepaal met behulp van de figuur op de uitwerkbijlage hoeveel de natte
+              temperatuur die dag daalde.
+
+              De waarden voor de luchtvochtigheid in de tabel op de uitwerkbijlage zijn
+              afgerond op hele procenten. De luchtvochtigheid kan nauwkeuriger
+              berekend worden met de volgende formule:
+                              330
+                 L  100            T  Tnat    (formule 1)
+                             18  T
+              Hierin is L de luchtvochtigheid in %, T de luchttemperatuur en Tnat de
+              natte temperatuur, beide in C.
+
+              Op 4 november 2015 om 10.30 uur ’s ochtends was de luchttemperatuur
+              in Almelo 11 C. Het verschil tussen de luchttemperatuur en de natte
+              temperatuur was op dat moment 3 C.
+              Mijke berekent de luchtvochtigheid met de formule. Jaap berekent de
+              luchtvochtigheid met de tabel. Dit geeft twee verschillende uitkomsten.
+4p    3       Bereken hoe groot het verschil tussen deze twee uitkomsten is. Geef je
+              antwoord in twee decimalen.
+
+              Als de luchttemperatuur 27 C is, dan is formule 1 te vereenvoudigen tot
+                             330
+                 L  100          27  Tnat     (formule 2)
+                              45
+              Er geldt: hoe lager de natte temperatuur is, des te lager is de
+              luchtvochtigheid. Dit kan beredeneerd worden aan de hand van formule 2.
+3p    4       Geef deze redenering, zonder getallen in te vullen of een schets of
+              tekening van de grafiek van L te maken.
+
+
+
+
+HA-1024-a-o
+                                                    5 / 13                      lees verder ►►►
+       CO2-concentratie in de atmosfeer
+
+               Vanaf 1959 heeft Charles David Keeling de CO 2-concentratie in de
+               atmosfeer gemeten. Deze metingen laten zien dat de CO2-concentratie in
+               de atmosfeer in de loop van de jaren flink is toegenomen. In figuur 1 zijn
+               voor de periode 1959–2015 de jaargemiddelden van de CO 2-concentratie
+               weergegeven. De gebruikte eenheid van de CO2-concentratie is ppm
+               (parts per million): het aantal CO2-deeltjes per miljoen luchtdeeltjes.
+               Figuur 1 staat vergroot afgedrukt op de uitwerkbijlage.
+
+               figuur 1
+
+
+
+
+               Het blijkt dat de CO2-concentratie elk jaar volgens hetzelfde patroon om
+               het jaargemiddelde schommelt. In figuur 2 kun je aflezen hoeveel het
+               maandgemiddelde van de CO 2-concentratie afwijkt van het
+               jaargemiddelde. Figuur 2 staat ook afgedrukt op de uitwerkbijlage.
+
+               figuur 2
+
+
+
+
+3p     5       Bepaal het maandgemiddelde van de CO 2-concentratie voor de maand
+               september 1990. Gebruik hierbij de figuren op de uitwerkbijlage. Geef je
+               antwoord in één decimaal nauwkeurig.
+
+
+
+
+HA-1024-a- o                                   6 / 13                            lees verder ►►►
+              Keeling schatte in 1970 op grond van zijn meetgegevens over de periode
+              1959–1970 dat het jaargemiddelde van de CO2-concentratie vanaf 1970
+              jaarlijks met 0,3% zou toenemen. Daarmee voorspelde hij hoe hoog het
+              jaargemiddelde van de CO 2-concentratie in 1995 zou zijn. Die
+              voorspelling wijkt een beetje af van het werkelijke jaargemiddelde van het
+              jaar 1995.
+5p    6       Bereken hoeveel procent de voorspelling afwijkt. Gebruik hierbij de figuur
+              op de uitwerkbijlage. Geef je antwoord als geheel getal.
+
+              De CO2-concentratie blijft toenemen. In 2000 was het jaargemiddelde
+              369,5 ppm, in 2015 was dit opgelopen tot 400,8 ppm.
+
+              Tibbe vermoedt op basis van figuur 1 dat het jaargemiddelde in de
+              periode 2000–2015 groeide volgens een exponentieel verband en dat de
+              groei zich in de jaren daarna voortzet volgens hetzelfde exponentiële
+              verband. Je kunt dan, uitgaande van bovenstaande gegevens, berekenen
+              in welk jaar het jaargemiddelde voor het eerst hoger dan 500 ppm zal zijn.
+5p    7       Bereken op deze manier in welk jaar het jaargemiddelde voor het eerst
+              hoger dan 500 ppm zal zijn.
+
+              Marrit is het niet eens met Tibbe: zij vermoedt dat er vanaf het jaar 2000
+              geen sprake is van exponentiële groei, maar van lineaire groei. Je kunt
+              dan, uitgaande van de jaargemiddelden van 2000 en 2015 en met behulp
+              van lineair extrapoleren, berekenen in welk jaar het jaargemiddelde voor
+              het eerst hoger dan 500 ppm zal zijn.
+4p    8       Bereken op deze manier in welk jaar het jaargemiddelde voor het eerst
+              hoger dan 500 ppm zal zijn.
+
+              Wereldwijd worden er afspraken gemaakt met als doel de
+              CO2-concentratie omlaag te brengen.
+              Veronderstel dat het inderdaad lukt om de CO2-concentratie na 2015
+              zodanig te laten dalen dat het jaargemiddelde in 2050 nog maar 350 ppm
+              is. Dan kan er bijvoorbeeld sprake zijn van afname volgens
+               een lineair verband of
+               een exponentieel verband.
+
+              In beide gevallen is het jaargemiddelde in 2015 gelijk en is ook het
+              jaargemiddelde in 2050 gelijk. Echter, een CO2-concentratie van
+              bijvoorbeeld 375 ppm wordt in het ene geval op een eerder moment
+              bereikt dan in het andere geval.
+3p    9       Leg uit, zonder berekeningen te geven, in welk van de twee genoemde
+              gevallen de CO2-concentratie het eerst de waarde 375 ppm bereikt.
+
+
+
+
+HA-1024-a-o                                   7 / 13                            lees verder ►►►
+      Snelheidsovertredingen
+
+              In veel dorpen geldt een snelheidslimiet van 30 of 50 km/uur. Niet elke
+              automobilist houdt zich hieraan en dit kan onveilige situaties opleveren.
+              Daarom kan iedereen onveilige verkeerssituaties melden bij Veilig
+              Verkeer Nederland (VVN). Als men bij VVN het vermoeden heeft dat het
+              om een gegronde melding gaat, dan gaan vrijwilligers op pad om de
+              snelheid van passerende automobilisten te meten.
+
+              Vanuit het dorp Borssele is zo’n melding binnengekomen over de
+              Monsterweg. Vervolgens is op een dinsdagochtend tussen 7 en 9 uur op
+              deze weg de snelheid van 250 passerende automobilisten gemeten.
+              Aan de hand van de resultaten van deze steekproef wil men een uitspraak
+              doen over het percentage automobilisten dat in een willekeurige week op
+              deze weg te hard rijdt.
+2p   10       Leg uit waarom deze steekproef waarschijnlijk niet representatief is en
+              geef aan hoe dat verbeterd kan worden.
+
+              Er wordt een nieuwe steekproef op de Monsterweg gehouden die wel
+              representatief is. Op deze weg, waar de snelheidslimiet 50 km/uur is, is
+              de snelheid van 169 auto’s gemeten.
+              Ook wordt er een representatieve steekproef gehouden op de Noordsingel
+              in Borssele. Op deze weg, waar de snelheidslimiet 30 km/uur is, is de
+              snelheid van 100 auto’s gemeten.
+              De resultaten van de twee steekproeven zijn weergegeven in de figuur.
+
+              figuur
+
+
+
+
+2p   11       Ligt de snelheidslimiet op de Noordsingel in de modale klasse? Licht je
+              antwoord toe.
+
+
+HA-1024-a-o
+                                              8 / 13                            lees verder ►►►
+              De situatie op de Noordsingel is zorgwekkend: er waren maar weinig
+              automobilisten die zich aan de snelheidslimiet hielden. Men wil het
+              95%-betrouwbaarheidsinterval berekenen van het percentage
+              automobilisten op de Noordsingel dat te hard rijdt.
+4p   12       Bereken dit 95%-betrouwbaarheidsinterval. Rond de percentages in je
+              antwoord af op gehele getallen.
+
+              Piet wil een diagram maken met de gegevens van de Monsterweg uit de
+              figuur. Hij overweegt de volgende drie diagrammen:
+               een boxplot
+               een spreidingsdiagram (puntenwolk)
+               een cumulatieve relatieve frequentiepolygoon
+
+              Hij wil dat uit het diagram af te lezen is hoe groot het percentage van de
+              automobilisten is dat zich aan de snelheidslimiet houdt.
+3p   13       Geef voor elk van deze drie diagrammen aan of dat hiervoor geschikt is.
+              Licht je antwoord telkens toe.
+
+              Voor de Monsterweg wordt onderzocht of een groter deel van de
+              automobilisten zich aan de snelheidslimiet houdt als er matrixborden
+              langs de weg worden geplaatst die de maximumsnelheid aangeven. Zie
+              de foto.
+
+              foto
+
+
+
+
+              In het eerdere onderzoek (situatie zonder matrixborden) van VVN hielden
+              111 van de 169 automobilisten op de Monsterweg zich aan de
+              snelheidslimiet. In het vervolgonderzoek, waarin er matrixborden
+              geplaatst waren, hielden 183 van de 213 automobilisten zich aan de
+              snelheidslimiet.
+              In de twee onderzoeken is het deel van de automobilisten dat zich aan de
+              snelheidslimiet houdt dus verschillend.
+4p   14       Bepaal met behulp van het formuleblad of dit verschil gering, middelmatig
+              of groot is.
+
+
+
+
+HA-1024-a-o
+                                              9 / 13                             lees verder ►►►
+      Motorblokken bestellen
+
+              Een fabrikant produceert jaarlijks
+              27 000 auto’s van een bepaald type.
+              De fabrikant bestelt de 27 000
+              motorblokken die hiervoor nodig zijn bij een
+              leverancier. De fabrikant kan deze 27 000
+              motorblokken in één keer bestellen of over
+              meerdere bestellingen verdelen. Het aantal
+              motorblokken is bij elke bestelling even
+              groot. Zo kan de fabrikant bijvoorbeeld
+              5 keer 5400 motorblokken bestellen of
+              20 keer 1350.
+
+              De fabrikant betaalt een prijs van 2000 euro per motorblok. Daarnaast
+              betaalt de fabrikant voor iedere bestelling bestelkosten. Na levering
+              worden de motorblokken door de fabrikant in een opslagruimte geplaatst
+              totdat ze nodig zijn. Het lijkt misschien handig om elk jaar alle
+              motorblokken in één keer te bestellen, omdat de fabrikant dan maar één
+              keer bestelkosten hoeft te betalen. De fabrikant heeft dan echter wel een
+              grotere opslagruimte nodig en dat kost geld. Bestelt hij meerdere keren
+              per jaar een kleinere hoeveelheid, dan kan hij een kleinere opslagruimte
+              gebruiken en is hij dus minder geld kwijt aan opslag.
+
+              Het aantal motorblokken is dus bij elke bestelling even groot. Dit aantal
+              heet de bestelhoeveelheid q. Ongeacht de bestelhoeveelheid worden er
+              per bestelling steeds dezelfde bestelkosten B (in euro’s) gerekend.
+
+              De totale jaarlijkse kosten (in euro’s) voor de fabrikant bestaan uit:
+
+                 de kosten van alle motorblokken (ofwel 27 000  2000  54 000000 );
+                                             27 000
+                 de totale bestelkosten (           B );
+                                               q
+                 de kosten voor opslag: bij deze fabrikant 60q .
+
+
+              Hierin is q de bestelhoeveelheid en B de bestelkosten per bestelling (in
+              euro’s).
+
+2p   15       Leg uit, zonder een getallenvoorbeeld te gebruiken, waarom de totale
+                                             27 000
+              bestelkosten gelijk zijn aan          B.
+                                               q
+
+
+
+
+HA-1024-a-o
+                                                 10 / 13                          lees verder ►►►
+              De fabrikant berekent de totale jaarlijkse kosten TK in euro’s dus met de
+              volgende formule:
+                                     27 000
+                 TK  54 000 000            B  60q      (formule 1)
+                                       q
+              In plaats van alle 27 000 motorblokken voor een heel jaar in 1 keer te
+              bestellen kan de fabrikant er ook voor kiezen om ze in 10 keer te
+              bestellen.
+4p   16       Bereken het verschil in totale jaarlijkse kosten tussen deze twee
+              mogelijkheden als de bestelkosten per bestelling 1800 euro zijn.
+
+              Er is een bepaalde bestelhoeveelheid waarbij de totale jaarlijkse kosten
+              minimaal zijn: dit is de zogenaamde optimale bestelhoeveelheid. Deze
+              kan berekend worden met de volgende formule:
+                  27 000
+                          B  60q                         (formule 2)
+                    q
+              Hierin is q de optimale bestelhoeveelheid en B de bestelkosten per
+              bestelling in euro’s.
+
+              De fabrikant wil de totale jaarlijkse kosten minimaliseren en bestelt dus de
+              optimale bestelhoeveelheid.
+4p   17       Bereken hoeveel keer per jaar de fabrikant dan een bestelling moet
+              plaatsen als de bestelkosten per bestelling 1800 euro zijn.
+
+              Formule 2 is te herleiden tot de vorm q  a  B , waarin a een getal is.
+4p   18       Laat deze herleiding zien en geef a als geheel getal.
+
+
+
+
+HA-1024-a-o
+                                               11 / 13                           lees verder ►►►
+      Sprinten met rugwind
+
+              Op 16 augustus 2009 verbrak Usain Bolt op de wereldkampioenschappen
+              atletiek in Berlijn het wereldrecord op de 100 meter sprint door een tijd te
+              lopen van 9,58 seconden. Het wereldrecord van de vorige
+              wereldrecordhouder, Asafa Powell, was 9,74 seconden.
+
+              Stel dat Bolt en Powell bovengenoemde tijden met constante snelheid in
+              dezelfde race hadden gelopen.
+3p   19       Bereken hoeveel meter Powell dan nog te gaan had op het moment dat
+              Bolt finishte. Geef je antwoord in twee decimalen.
+
+              De tijd die een sprinter loopt, hangt ook af van de wind die tijdens de
+              sprint waait. Bij rugwind krijgt de sprinter als het ware een duwtje in de
+              rug en zal hij een snellere tijd lopen. De Engelse wiskundige Barrow heeft
+              voor het geval van rugwind de volgende formule afgeleid:
+                                                    2
+                                       W M 
+                  Z  1,03M  0,03M   1      
+                                           100 
+              Hierin is M de tijd (in seconden) die gelopen wordt met
+              rugwindsnelheid W (in meters per seconde) en Z de tijd (in seconden) die
+              gelopen wordt zonder wind.
+
+              Een geregistreerde tijd mag alleen als record tellen als de
+              rugwindsnelheid niet groter is dan 2,0 meter per seconde. Toen Bolt in
+              Berlijn zijn wereldrecord van 9,58 seconden liep, was de rugwindsnelheid
+              0,9 meter per seconde.
+5p   20       Bereken met behulp van de formule welke tijd Bolt gehaald zou hebben
+              als de rugwindsnelheid 2,0 meter per seconde was geweest. Geef je
+              antwoord in twee decimalen.
+
+
+
+
+HA-1024-a-o
+                                              12 / 13                            lees verder ►►►
+       AOW-uitkering1)
+
+               Alle inwoners van Nederland ontvangen op basis van de Algemene
+               Ouderdomswet (AOW) vanaf een bepaalde leeftijd (de AOW-leeftijd) een
+               uitkering van de overheid: de AOW-uitkering. Tot en met 2012 was de
+               AOW-leeftijd 65 jaar. Wanneer iemand de AOW-leeftijd heeft bereikt,
+               noemt men hem of haar AOW-gerechtigd. In deze opgave nemen we aan
+               dat iedere AOW-gerechtigde dezelfde AOW-uitkering ontvangt. In 2012
+               was deze uitkering 10 980 euro per persoon per jaar.
+
+               Het aantal ouderen in Nederland neemt toe. Als de Algemene
+               Ouderdomswet niet verandert, zal het jaarlijkse totaalbedrag aan
+               AOW-uitkeringen toenemen. Daarom wordt de AOW-leeftijd sinds 2013
+               met stappen verhoogd. Iemand stelt voor om bovendien de AOW-uitkering
+               per persoon te verlagen, zodat het totaalbedrag aan AOW-uitkeringen in
+               2023 hetzelfde is als het totaalbedrag aan AOW-uitkeringen in 2012. Om
+               de hoogte van deze nieuwe AOW-uitkering te berekenen, nemen we het
+               volgende aan:
+                Het aantal inwoners is gedurende elk jaar constant.
+                In 2012 was dit aantal inwoners 16,7 miljoen.
+                Sinds 2012 neemt het aantal inwoners elk jaar toe met 0,44%.
+
+               Verder nemen we aan:
+                Het aantal AOW-gerechtigden is gedurende elk jaar een constant
+                  percentage van het aantal inwoners van Nederland.
+                In 2012 was dit percentage 16,2%.
+                In 2023 is dit percentage 17,7%.
+
+6p    21       Onderzoek hoe hoog de AOW-uitkering per persoon in 2023 moet zijn,
+               zodat het totaalbedrag aan AOW-uitkeringen in 2023 hetzelfde is als het
+               totaalbedrag aan AOW-uitkeringen in 2012.
+
+
+
+
+     noot 1 Deze gehele opgave is gebaseerd op gegevens zoals die in 2016 bekend waren.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1024-a- o                                             13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

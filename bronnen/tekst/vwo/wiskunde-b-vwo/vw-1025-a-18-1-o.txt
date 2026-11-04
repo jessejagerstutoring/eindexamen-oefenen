@@ -1,0 +1,443 @@
+                                                                       Examen VWO
+
+                                                                           2018
+                                                                                  tijdvak 1
+                                                                         maandag 14 mei
+                                                                         13.30 - 16.30 uur
+
+
+                                                                          wiskunde B
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 17 vragen.
+Voor dit examen zijn maximaal 73 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-18-1-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t ) cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t ) cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t ) cos(t )
+             cos(2t )  cos 2 (t )  sin 2 (t )  2cos 2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-18-1-o                                        2 / 12                        lees verder ►►►
+      Bewegend punt
+
+            De beweging van een punt P            figuur
+            wordt gegeven door de volgende                                 y
+            bewegingsvergelijkingen:
+
+                    x(t )  1  t 2
+                                        2
+                     y (t )  (1  t )
+                                                                               A
+            In de figuur is de baan van P
+            weergegeven.
+
+
+
+                                                                           O            x
+
+
+
+            De baan van P snijdt de y-as in de oorsprong O en in punt A.
+            Zie de figuur.
+4p    1     Bereken exact de snelheid waarmee P door punt A gaat.
+
+            Voor elke waarde van t bevindt P zich op de kromme met vergelijking:
+                   ( x  y )2  4 y
+4p    2     Bewijs dit.
+
+
+
+
+VW-1025-a-18-1-o                             3 / 12                            lees verder ►►►
+      Lijn door de toppen
+
+            Voor elke waarde van a met a  0 wordt de functie f a gegeven door
+             f a ( x )  xe a x .
+
+            De afgeleide functie f a' wordt gegeven door f a' ( x)  e a x  axe a x .
+            In figuur 1 zie je voor een aantal waarden van a de grafiek van f a .
+                                                       1
+            Ook is de lijn l met vergelijking y         x weergegeven.
+                                                       e
+            figuur 1
+                                           y
+
+
+
+                                                                     l
+
+
+
+
+                                               O                     x
+
+
+
+
+            Voor elke waarde van a met a  0 heeft de grafiek van f a precies één
+            top.
+4p    3     Bewijs dat deze top op lijn l ligt.
+
+
+
+
+VW-1025-a-18-1-o                                   4 / 12                                lees verder ►►►
+            De functie Fa is gegeven door:
+                               1 ax 1 ax
+                   Fa ( x)      xe  2 e
+                               a     a
+            Fa is een primitieve van f a .
+3p    4     Bewijs dat Fa inderdaad een primitieve van f a is.
+
+
+            Voor f1 geldt f1 ( x)  xe x . In figuur 2 is de grafiek van f1 getekend, en ook
+            lijn l. Het vlakdeel tussen lijn l en de grafiek van f1 is grijs gemaakt.
+
+            figuur 2
+                                      y
+
+
+                                              f1            l
+
+
+
+
+                                          O                 x
+
+
+
+
+5p    5     Bereken exact de oppervlakte van het grijze vlakdeel.
+
+
+
+
+VW-1025-a-18-1-o                                   5 / 12                         lees verder ►►►
+      Zwaartepunt en rakende cirkels
+
+            Gegeven is cirkel c met middelpunt M (14, 8) en straal 10. Deze cirkel
+            snijdt de x-as in de punten A en B met x A  xB . Zie figuur 1.
+            In A bevindt zich een puntmassa met massa 3, in B een puntmassa met
+            massa 1 en in M een puntmassa met massa 2.
+
+            figuur 1
+                   y
+                                             c
+
+
+
+
+                                     M
+
+
+
+                               A            B
+                   O                                  x
+
+
+
+
+5p    6     Bereken exact de coördinaten van het zwaartepunt van deze drie
+            puntmassa’s.
+
+            De cirkel d met middelpunt N raakt de y-as in de oorsprong O en raakt
+            cirkel c zoals weergegeven in figuur 2. Deze figuur staat ook op de
+            uitwerkbijlage.
+
+            figuur 2
+                   y
+                                             c
+
+
+
+
+                                     M
+
+
+
+
+                   O   N                              x
+                           d
+
+
+5p    7     Bereken exact de straal van cirkel d. Je kunt hierbij gebruikmaken van de
+            figuur op de uitwerkbijlage.
+
+
+
+VW-1025-a-18-1-o                             6 / 12                           lees verder ►►►
+      Maxima en minima
+
+            De functie f wordt gegeven door f ( x )  6sin( x )  cos(2 x) .
+
+            De grafiek van f heeft oneindig veel toppen.
+6p    8     Bereken exact de x-coördinaten van alle toppen van de grafiek van f.
+
+                                                    
+            Een van de toppen is het punt P 1 12 ,  5 . 
+            De grafiek van f is symmetrisch ten opzichte van de verticale lijn door P.
+
+            Boven P wordt een horizontaal lijnstuk van lengte 2 geplaatst, waarvan de
+            eindpunten op de grafiek van f liggen. Zie de figuur.
+
+            figuur
+                   y
+                                                1
+                                          x = 1 _2 
+
+
+
+
+                   O                                          x
+
+
+
+
+                                               P
+
+
+4p    9     Bereken de afstand van P tot het horizontale lijnstuk. Rond je
+            eindantwoord af op twee decimalen.
+
+
+
+
+VW-1025-a-18-1-o                                 7 / 12                        lees verder ►►►
+      Sheffield Winter Garden
+
+            Voor elke waarde van k met k  0 wordt de functie f k gegeven door:
+
+                                1 kx  kx
+                   f k ( x)       (e  e )
+                                2k
+            De grafiek van f k wordt een kettinglijn genoemd.
+
+            Op de grafiek van f k worden twee punten P en Q met gelijke y-coördinaat
+            gekozen. De lengte van het deel van de kettinglijn tussen P en Q noemen
+            we l. De top T van de kettinglijn ligt op de y-as. De afstand van T tot de
+            horizontale lijn PQ noemen we d. Zie figuur 1.
+
+                                8d
+            Er geldt: k                                       figuur 1
+                            l 2  4d 2                                     y
+                                                                P                            Q
+            In figuur 1 is voor k  0,7 , xP  3 en
+             xQ  3 het bijbehorende deel van de kettinglijn
+            getekend.                                                     d
+4p   10     Bereken voor de situatie van figuur 1 de lengte
+            van het deel van de kettinglijn tussen P en Q.                           f0,7
+            Rond je eindantwoord af op twee decimalen.
+                                                                               T
+
+                                                                −3        O                  3 x
+
+
+
+
+VW-1025-a-18-1-o                              8 / 12                               lees verder ►►►
+            Als het deel van de grafiek van f k          foto
+            tussen P en Q wordt gespiegeld in
+            de x-as en vervolgens omhoog wordt
+            geschoven, ontstaat een boog.
+
+            Bij de bouw van de Sheffield Winter
+            Garden, een in 2003 geopende
+            plantenkas, is gebruikgemaakt van
+            dergelijke bogen. Zie de foto.
+
+            De ontwerpers hebben een tekening            figuur 2
+            gemaakt van het vooraanzicht van het
+            gebouw. Dit vooraanzicht bestaat uit
+            acht bogen. Zie figuur 2. In de rest van
+            deze opgave kijken we naar de
+            grootste boog. Deze boog is in figuur 2
+            dikker gedrukt.
+
+
+
+
+            Voor de grootste boog in deze tekening geldt:
+             de lengte van de boog is 49,63 meter;
+             het hoogste punt van de boog bevindt zich 20,51 meter boven de
+               grond.
+
+            Bij deze grootste boog gaan we een functievoorschrift opstellen.
+            We kiezen daartoe een assenstelsel waarbij de x-as door de onderste
+            punten van de boog gaat en de top van de boog op de y-as ligt.
+            De eenheden langs de assen zijn meters.
+
+            In dit assenstelsel wordt de boog weergegeven door de grafiek van een
+            functie h.
+            De grafiek van deze functie h ontstaat door de grafiek van een functie f k
+            te spiegelen in de x-as en de beeldgrafiek vervolgens omhoog te
+            schuiven.
+            Er is precies één waarde van k waarvoor de beeldgrafiek de juiste lengte
+            en hoogte heeft.
+5p   11     Stel een functievoorschrift op van h. Rond de getallen in je eindantwoord
+            af op twee decimalen.
+
+
+
+
+VW-1025-a-18-1-o                             9 / 12                           lees verder ►►►
+      Natuurlijke logaritme van de wortel
+
+            De functie f wordt gegeven door f ( x)  ln        x .
+            Deze functie heeft een inverse functie f inv . Er geldt: f inv ( x)  e2 x .
+
+3p   12     Bewijs dat inderdaad geldt f inv ( x)  e 2 x .
+
+            De grafiek van f inv wordt ten opzichte van de x-as met factor 12
+            vermenigvuldigd. Zo ontstaat de grafiek van de functie g.
+            Elke verticale lijn rechts van de y-as snijdt de grafiek van f in één punt en
+            de grafiek van g in één punt. Het lijnstuk tussen deze twee punten heeft
+            een lengte die afhangt van de plaats van de verticale lijn. Zie de figuur.
+
+            figuur
+                      y
+                                     g
+
+
+
+
+                                            f
+
+
+                     O                               x
+
+
+
+
+4p   13     Bereken de minimale lengte van het lijnstuk. Rond je eindantwoord af op
+            drie decimalen.
+
+            De functie h wordt gegeven door:
+
+
+                     h( x ) 
+                                ln    x
+                                 ln( x)
+            De grafiek van h heeft rechts van de y-as één perforatie.
+4p   14     Bereken exact de coördinaten van deze perforatie.
+
+
+
+
+VW-1025-a-18-1-o                                10 / 12                               lees verder ►►►
+      Vierkant onder grafiek
+
+                                                                  1
+            Voor x  0 wordt de functie f gegeven door f ( x)      .
+                                                                  x
+            In de figuur is de grafiek van f getekend. Onder de grafiek is een vierkant
+            getekend met twee zijden evenwijdig aan de x-as en twee zijden
+            evenwijdig aan de y-as.
+
+            figuur
+                   y
+
+
+
+
+                             f
+
+
+
+
+                   O             1                    x
+
+
+            Het vierkant heeft linksonder hoekpunt (1, 0) . Het hoekpunt rechtsboven
+            ligt op de grafiek van f.
+
+4p   15     Bereken exact de lengte van de zijde van het vierkant.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1025-a-18-1-o                            11 / 12                           lees verder ►►►
+      Twee vierkanten op een kwartcirkel
+
+            Gegeven zijn de punten A (1, 0) en B (0, 1). Punt C bevindt zich op de
+            kwartcirkel door A en B met middelpunt O (0, 0) . Op de lijnstukken AC en
+            BC worden twee vierkanten ADEC en BCFG getekend. Zie figuur 1.
+
+            figuur 1
+              y    G
+                               F       E
+
+              B
+
+                           C
+                                           D
+
+                       t
+              O                    A       x
+
+            De grootte van hoek AOC (in radialen) noemen we t, met 0  t  12 π .
+            Punt C heeft dus coördinaten (cos(t ), sin(t )) .
+
+            Er is een waarde van t waarvoor de oppervlakte van vierkant ADEC twee
+            keer zo groot is als de oppervlakte van vierkant BCFG.
+5p   16     Bereken deze waarde van t. Rond je eindantwoord af op twee decimalen.
+                                                                                 
+            In figuur 2 is de situatie van figuur 1 uitgebreid met vector OF .
+            Deze figuur staat vergroot op de uitwerkbijlage.
+
+            figuur 2
+              y    G
+                               F
+                                       E
+
+              B
+
+                           C
+                                           D
+                       t
+             O                     A       x
+
+                                                                   1  sin(t )  cos(t ) 
+            Voor elke waarde van t met 0  t  12 π geldt: OF                               
+                                                                        sin(t )  cos(t ) 
+4p   17     Bewijs dit. Je kunt hierbij gebruikmaken van de figuur op de
+            uitwerkbijlage.
+
+
+
+VW-1025-a-18-1-o                               12 / 12                                    lees verdereinde
+                                                                                                       ►►► 
+

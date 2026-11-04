@@ -1,0 +1,486 @@
+                                                                 Examen VWO
+
+                                                                     2023
+                                                                            tijdvak 1
+                                                                  donderdag 11 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde C
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 22 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1026-a-23-1-o
+      Toetsrooster
+
+            Toen toetsroosters nog met de hand werden gemaakt, gebruikte de
+            roostermaker soms een diagram als hulpmiddel. In de figuur zie je zo’n
+            diagram voor 5 vwo voor de dinsdag in een toetsweek. Op die dinsdag
+            worden alleen toetsen gegeven voor de volgende vakken: economie (Ec),
+            geschiedenis (Gs), natuurkunde (Na) en Duits (Du). In het diagram zijn de
+            gegevens weergegeven voor de 20 leerlingen uit 5 vwo voor deze vier
+            vakken. Zo kun je bijvoorbeeld aflezen dat er 5 leerlingen zijn die van
+            deze vier vakken alleen natuurkunde en Duits hebben: gebied R in het
+            diagram.
+
+            figuur
+
+
+
+
+            Niemand van de 20 leerlingen uit 5 vwo hoeft op dinsdag vier toetsen te
+            maken.
+2p    1     Leg uit hoe je dit in het diagram kunt zien.
+
+            Voor een roostermaker kan het handig zijn om meer toetsen tegelijkertijd
+            in te roosteren.
+2p    2     Onderzoek met behulp van het diagram welke toetsen tegelijkertijd
+            ingeroosterd kunnen worden.
+
+
+
+
+VW-1026-a-23-1-o                           2 / 15                           lees verder ►►►
+            We voeren voor Julia, een leerling uit deze 5 vwo-groep, de volgende
+            notaties in:
+             Ec betekent: Julia heeft economie in haar pakket;
+             Na betekent: Julia heeft natuurkunde in haar pakket;
+             Gs betekent: Julia heeft geschiedenis in haar pakket;
+             Du betekent: Julia heeft Duits in haar pakket.
+
+            Roostermaker Hansen, die het vakkenpakket van Julia niet kent, beweert
+            het volgende:
+                   Du  (Na  Gs)
+
+4p    3     Vertaal deze bewering in een gewone zin en licht met behulp van het
+            diagram toe dat deze bewering juist is.
+
+            In het diagram in de figuur zijn verschillende vakkencombinaties door
+            middel van een bijbehorend gebied weergegeven. Er zijn echter meer
+            combinaties mogelijk met twee of meer van de vier vakken economie,
+            geschiedenis, natuurkunde en Duits dan in dit diagram weergegeven zijn.
+            Een leerling met zo’n vakkencombinatie zou dus niet passen in dit
+            diagram. (Gelukkig kwamen deze vakkencombinaties niet voor bij deze
+            20 leerlingen.)
+4p    4     Geef alle theoretisch mogelijke combinaties van twee of meer van deze
+            vier vakken en onderzoek voor elke combinatie of deze door middel van
+            een bijbehorend gebied in het diagram weergegeven is.
+
+
+
+
+VW-1026-a-23-1-o                           3 / 15                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1026-a-23-1-o                        4 / 15   lees verder ►►►
+      Vlinders in Nederland
+
+            De Vlinderstichting in Nederland houdt jaarlijks vlindertellingen. Er wordt
+            geteld op ruim 800 vaste routes en met een vaste methode.
+            De tellingen worden gedaan door vrijwilligers, samen met iemand van de
+            Vlinderstichting op een route van maximaal een kilometer lang. Op de
+            vastgestelde route wordt in een vijf meter brede strook het aantal vlinders
+            geteld.
+
+            Van een van de vlindersoorten, het bruin zandoogje,        bruin zandoogje
+            blijkt het aantal al jaren min of meer stabiel te zijn.
+            Een telling op een route van één kilometer leverde
+            200 bruin zandoogjes op.
+2p    5     Bereken in dat geval het gemiddeld aantal bruin
+            zandoogjes per 100 m2.
+
+
+
+
+            Het aantal bruin zandoogjes is dan wel min of meer stabiel gebleven maar
+            helaas geldt dat niet voor alle vlindersoorten. Het totaal aantal vlinders is
+            in de periode 1992–2017 met 40% afgenomen. Hierbij vermoedt men een
+            exponentiële trend.
+
+4p    6     Bereken de jaarlijkse procentuele afname in deze periode, uitgaande van
+            de exponentiële trend. Geef je antwoord in één decimaal.
+
+
+
+
+VW-1026-a-23-1-o                             5 / 15                             lees verder ►►►
+            De heivlinder is een van de vlindersoorten         heivlinder
+            waarvan het aantal sterk is gedaald. Zie figuur 1.
+
+
+
+
+            figuur 1 heivlinders
+
+
+
+
+            In figuur 1 is op de verticale as een logaritmische schaalverdeling
+            gebruikt. Op deze as is niet het aantal heivlinders maar de populatie-
+            index weergegeven. Deze index geeft het percentage heivlinders aan ten
+            opzichte van het totaal aantal heivlinders in 1992. De populatie-index van
+            het jaar 1992 is dus 100. In 1995 is de populatie-index weer (ongeveer)
+            100. Met andere woorden: in 1995 waren er (ongeveer) evenveel
+            heivlinders als in 1992.
+
+            Nadat het aantal heivlinders vanaf 2003 stabiel leek en zich in de periode
+            2011–2013 zelfs wat leek te herstellen, was 2017 weer een rampjaar voor
+            de heivlinder.
+3p    7     Bereken met behulp van de figuur het percentage heivlinders in 2017 ten
+            opzichte van het aantal heivlinders in 1992. Geef je antwoord in één
+            decimaal.
+
+
+
+
+VW-1026-a-23-1-o                            6 / 15                           lees verder ►►►
+            In figuur 2 zie je dezelfde grafiek als in figuur 1 maar nu is een trendlijn
+            toegevoegd.
+
+            figuur 2 heivlinders met trend
+
+
+
+
+            De trendlijn in figuur 2 hoort bij een exponentieel model voor de afname
+            van de populatie-index. De trendlijn kan worden beschreven met de
+            volgende formule:
+                     log( P)  0,026t  1,8
+            Hierin is P de populatie-index en is t het aantal jaren na 1992.
+
+            Als de trend zich op dezelfde manier blijft doorzetten, zal het aantal
+            getelde heivlinders in een gegeven jaar minder dan 2% zijn van het aantal
+            getelde heivlinders in 1992.
+2p    8     Bereken in welk jaar dat volgens de gegeven formule voor het eerst het
+            geval zal zijn.
+
+            De formule log( P)  0,026t  1,8 kan worden herleid tot P  63  0,942t
+            waarmee de populatie-index in een bepaald jaar in één keer kan worden
+            berekend.
+3p    9     Laat zien hoe de formule log( P)  0,026t  1,8 herleid kan worden tot
+             P  63  0,942t .
+
+
+
+
+VW-1026-a-23-1-o                               7 / 15                             lees verder ►►►
+      Engelendeel
+
+            Traditioneel gebrouwen whisky wordt enkele jaren in houten vaten
+            opgeslagen om daarin te rijpen. In het algemeen geldt: hoe langer de
+            whisky rijpt, hoe beter hij smaakt. Lang rijpen heeft echter een nadeel:
+            een deel van de whisky gaat verloren doordat deze in het houten vat trekt
+            of verdampt.
+            Het deel van de whisky dat tijdens het rijpen verloren gaat, wordt het
+            engelendeel genoemd. Het engelendeel wordt uitgedrukt in een
+            percentage per jaar.
+
+            Van een bepaald soort whisky is het engelendeel 4,5%. Neem aan dat het
+            engelendeel elk jaar hetzelfde percentage is.
+3p   10     Bereken hoelang het duurt totdat nog maar de helft van de whisky over is.
+            Geef je antwoord in jaren en gehele maanden.
+
+            In werkelijkheid is bij traditioneel gebrouwen whisky het engelendeel niet
+            ieder jaar even groot. Zeker aan het begin van de rijpingsperiode is dit
+            deel een stuk groter, doordat de whisky nog in het hout moet trekken.
+
+            Pappy Van Winkle 23 is een zeer exclusieve whisky die op traditionele
+            wijze geproduceerd wordt en, zoals de naam al suggereert, 23 jaar in een
+            houten vat rijpt voordat hij in flessen gedaan wordt. Op de website van de
+            producent staat het volgende:
+
+            Het rijpingsproces begint met een vat met 200 liter whisky. Het eerste jaar
+            gaat er maar liefst 10% verloren, doordat de whisky in het hout trekt. De
+            8 jaren erna gaat er 4% per jaar verloren en daarna steeds 3% per jaar.
+            Tenslotte gaat er van het eindproduct ook nog 6 liter verloren bij het
+            vullen van de flessen.
+
+            Pappy Van Winkle 23 wordt verkocht in flessen van 750 ml.
+4p   11     Bereken hoeveel van zulke flessen kunnen worden gevuld, uitgaande van
+            200 liter whisky.
+
+            De meeste whisky rijpt tegenwoordig niet meer in houten vaten. In plaats
+            daarvan wordt de whisky in grote metalen ketels gedaan en worden er
+            houtsnippers aan toegevoegd. Hierdoor wordt het engelendeel beperkt tot
+            zo’n 3% per jaar. Voor het vervolg van de opgave gaan we ervan uit dat
+            het engelendeel ieder jaar 3% is.
+
+            Bij de massaproductie van whisky wordt ervoor gezorgd dat de totale
+            hoeveelheid whisky gelijk blijft door jaarlijks de ketel weer bij te vullen met
+            nieuw geproduceerde whisky. Hierdoor ontstaat er een mengsel dat maar
+            voor een deel uit de oorspronkelijke whisky bestaat.
+
+
+
+
+VW-1026-a-23-1-o                              8 / 15                             lees verder ►►►
+            Bijvoorbeeld: Een ketel bevat 500 liter whisky. Na een jaar is daarvan 3%,
+            dus 15 liter, verloren gegaan. Er wordt aan het eind van dat jaar
+            15 liter nieuw geproduceerde whisky in de ketel gedaan, zodat er dan
+            485 liter whisky van 1 jaar oud en 15 liter whisky van 0 jaar oud in zit. Aan
+            het eind van het tweede jaar is er weer 15 liter verloren gegaan en ook dit
+            wordt weer aangevuld met nieuw geproduceerde whisky, enzovoorts.
+
+            In de tabel staat voor een aantal jaren de samenstelling van het mengsel
+            aan het eind van het jaar, in procenten.
+
+            tabel
+
+                                               leeftijd van de whisky
+                   jaar (n)    n          n –1          n –2       n –3         n –4
+                      0       100          0             0              0         0
+                      1        97          3             0              0         0
+                      2       94,09      2,91            3              0         0
+                      3       91,27      2,82           2,91            3         0
+                      4       88,53      2,74           2,82       2,91           3
+                      5       85,87        …             …          …            …
+
+            In de tabel kun je bijvoorbeeld aflezen dat aan het eind van het 4e jaar
+            88,53% van het mengsel bestaat uit 4 jaar oude whisky, 2,74% uit 3 jaar
+            oude whisky, 2,82% uit 2 jaar oude whisky, 2,91% uit 1 jaar oude whisky
+            en 3% uit nieuw geproduceerde whisky (0 jaar oude whisky).
+
+            Aan het eind van jaar n is een deel van het mengsel dus n jaar oud. De
+            rest is een mengsel van whisky’s van leeftijd 0 jaar tot en met n  1 jaar
+            oud. De percentages later toegevoegde whisky’s in dat mengsel vormen
+            de rij: 3; 2,91; 2,82; 2,74; … .
+2p   12     Stel een recursieve formule op van deze rij.
+
+4p   13     Bereken hoeveel procent van het mengsel aan het eind van het 7e jaar
+            bestaat uit whisky van 5 jaar of ouder. Geef je antwoord in twee
+            decimalen.
+
+
+
+
+VW-1026-a-23-1-o                               9 / 15                           lees verder ►►►
+      Tot hier
+
+            Aan de oever van de Nederrijn bij Rijswijk staat een kunstwerk van Jan
+            Kleingeld bestaande uit letters van staal. Zie de foto. Zoals je ziet, staat
+            elke letter op een voetstuk. De foto is ook vergroot afgebeeld op de
+            uitwerkbijlage.
+
+            foto
+
+
+
+
+            De tekst TOT HIER duidt aan dat hier zo’n 2000 jaar geleden de
+            noordgrens van het Romeinse rijk lag. De letters zijn inclusief hun
+            voetstuk 365 cm hoog.
+
+4p   14     Bereken met behulp van de uitwerkbijlage de hoogte waarop de foto
+            genomen is. Geef je antwoord in gehele cm.
+
+            Op de uitwerkbijlage is een begin gemaakt met een perspectieftekening
+            van het woord HIER. De letters hebben een vereenvoudigde vorm en het
+            voetstuk is weggelaten. De letter H ontbreekt nog. De afstand tussen de
+            H en de I is even groot als de afstand tussen de I en de E, en de letter H
+            is ook even breed als deze afstand. De horizontale middenstreep van de
+            letter E zit, net zoals de horizontale middenstreep van de letter H, precies
+            halverwege de totale hoogte van die letter.
+4p   15     Teken de letter H op de juiste plaats in de perspectieftekening op de
+            uitwerkbijlage.
+
+
+
+
+VW-1026-a-23-1-o                             10 / 15                             lees verder ►►►
+      Cementproductie
+
+            Cement is een belangrijk bouwmateriaal. Het wordt voornamelijk gebruikt
+            bij het maken van beton.
+
+            In figuur 1 staat de wereldwijde cementproductie tussen 1970 en 2010 in
+            miljoenen tonnen per jaar.
+
+            figuur 1
+
+
+
+
+            In figuur 1 is te zien dat de cementproductie (ongeveer) exponentieel
+            toenam van 575 miljoen ton in 1970 tot 3800 miljoen ton in 2010.
+
+            In 2010 was de verwachting dat de wereldwijde cementproductie ook na
+            2010 exponentieel door zou blijven stijgen tot ten minste 5000 miljoen ton
+            per jaar. Voor de volgende vraag gaan we van deze verwachting uit.
+5p   16     Bereken in welk jaar de cementproductie in dat geval voor het eerst meer
+            dan 5000 miljoen ton was.
+
+
+
+
+VW-1026-a-23-1-o                           11 / 15                           lees verder ►►►
+            In werkelijkheid heeft de exponentiële stijging zich niet doorgezet. In de
+            periode 2010-2013 was er nog wel sprake van (niet-exponentiële)
+            toename, maar in de periode 2013-2017 bleef de wereldwijde
+            cementproductie nagenoeg stabiel op 4300 miljoen ton per jaar. Dit is te
+            zien in figuur 2.
+
+            figuur 2
+
+
+
+
+            Volgens een artikel van de BBC uit 2018 zal de vraag naar beton, en dus
+            ook de productie van cement, na 2017 weer sterk toenemen.
+            Het artikel stelt dat er in 2030 wereldwijd 25% meer cement geproduceerd
+            zal worden dan in 2017.
+
+            Neem aan dat de toename na 2017 lineair verloopt.
+4p     17   Bereken in welk jaar de totale cementproductie in dat geval voor het eerst
+            meer is dan 4500 miljoen ton per jaar volgens het artikel.
+
+            Voor de productie van cement is veel energie nodig en bovendien komt er
+            bij het proces behoorlijk wat CO2 vrij. Volgens het artikel van de BBC
+            wordt 8% van de wereldwijde CO 2-uitstoot veroorzaakt door de productie
+            van cement.
+
+            In Europa gelden strenge regels voor de productie van cement. Geschat
+            wordt dat in Europa gemiddeld per ton1) geproduceerd cement 750 kg aan
+            CO2 uitgestoten wordt. In China, veruit de grootste producent van cement
+            ter wereld, is deze uitstoot 220 kg per ton geproduceerd cement méér dan
+            in Europa.
+            Het aandeel van China en dat van Europa in de cementproductie zijn in
+            figuur 2 weergegeven. De grafiek staat ook, vergroot, op de
+            uitwerkbijlage.
+4p     18   Bereken met behulp van de figuur op de uitwerkbijlage voor het jaar 2017
+            hoeveel keer zo groot de CO2-uitstoot als gevolg van cementproductie in
+            China was ten opzichte van die in Europa. Geef je antwoord in één
+            decimaal.
+
+     noot 1 1 ton = 1000 kg
+
+
+
+VW-1026-a-23-1-o                            12 / 15                            lees verder ►►►
+            Cement wordt voornamelijk gebruikt bij het maken van beton. Het
+            overgrote deel van de CO2-uitstoot als gevolg van het maken van beton
+            komt voort uit de productie van cement. Vanwege de enorme CO 2-uitstoot
+            die gepaard gaat met de productie van cement, wordt er volop gezocht
+            naar milieuvriendelijkere alternatieven.
+
+            Een van die alternatieven is het maken van beton zonder daarbij cement
+            te gebruiken. Het Nederlandse bedrijf Sqape ontwikkelde een technologie
+            waarmee dat mogelijk is. Volgens de website van Sqape wordt de
+            CO2-uitstoot zo per ton gemaakt beton verminderd van 750 kg tot 120 kg.
+
+            Op de foto zie je een vernieuwd fietspad foto
+            in Zeewolde. Het fietspad bestaat voor
+            70% uit beton dat met de nieuwe
+            technologie van Sqape is gemaakt en
+            voor 30% uit beton waarbij cement is
+            gebruikt.
+
+            De hoeveelheid CO2 die vrijkomt bij
+            het maken van het beton dat voor dit
+            fietspad gebruikt wordt, kan als volgt berekend worden:
+            0,7 120  0,3  750  309 kg per ton gemaakt beton.
+
+            Een van de Europese klimaatdoelstellingen is dat de uitstoot van CO2 als
+            gevolg van het maken van beton wordt verminderd van 750 kg tot
+            450 kg per ton. Dat kan bereikt worden door een deel van het beton te
+            gaan maken met behulp van de technologie van Sqape.
+4p   19     Onderzoek met een berekening hoeveel procent van het beton ten minste
+            met deze technologie gemaakt moet worden om aan de genoemde
+            klimaatdoelstelling te voldoen. Geef je antwoord in gehele procenten.
+
+
+
+
+VW-1026-a-23-1-o                           13 / 15                          lees verder ►►►
+      New York Pizza
+
+            New York Pizza is een Nederlandse pizzaketen, die in 1993 in Amsterdam
+            is opgericht. New York Pizza is een zogenaamde franchise. Dat wil
+            zeggen dat iedereen die dat wil een New York Pizza-filiaal kan openen.
+            Een ondernemer moet dan elk jaar 6,5% van zijn omzet betalen aan het
+            hoofdkantoor van New York Pizza. Door het betalen van deze
+            zogenaamde franchise fee krijgt de ondernemer het recht om het concept
+            van New York Pizza te gebruiken en profiteert hij bovendien van de
+            naamsbekendheid.
+
+            In 2017 was de totale omzet van New York Pizza € 99,7 miljoen. Hiervan
+            werd € 23 miljoen gerealiseerd door de groothandel die bij het bedrijf
+            hoort en de rest door de 143 filialen.
+3p   20     Bereken hoeveel er gemiddeld per maand per filiaal aan franchise fee
+            betaald werd in 2017. Geef je antwoord in hele euro’s.
+
+            Een van de voordelen van het franchisemodel is dat een ondernemer zelf
+            beslissingen mag nemen binnen bepaalde grenzen. Zo is bijvoorbeeld de
+            menukaart niet bij alle New York Pizza-vestigingen hetzelfde.
+
+            Bij een bepaalde vestiging van New York Pizza staan er 32 verschillende
+            pizzavarianten op het menu. Denk daarbij bijvoorbeeld aan een Pizza
+            Hawaii en een Pizza Margherita.
+            Veel pizza’s worden gemaakt op een zogeheten New York Style-bodem,
+            die verkrijgbaar is in vier verschillende maten (20 cm, 25 cm,
+            30 cm en 35 cm). Ook kan er gekozen worden uit een Italiaanse, een
+            glutenvrije of een biologische bodem, maar van elk van deze drie bodems
+            is er maar één maat beschikbaar (30 cm).
+            Daarnaast bestaat er de mogelijkheid om van één pizzabodem de beide
+            helften te beleggen met twee verschillende varianten van het menu: de
+            zogeheten double tasty.
+
+3p   21     Bereken hoeveel verschillende pizza’s er bij dit filiaal samengesteld
+            kunnen worden.
+
+
+
+
+VW-1026-a-23-1-o                            14 / 15                           lees verder ►►►
+            In 2018 was een van de meest verkochte bodems de 25 cm New York
+            Style. Volgens de website van New York Pizza is deze pizza goed voor
+            één persoon. De grootste pizzabodem, de 35 cm New York Style, is
+            volgens de website goed voor één à twee personen.
+            Als je met drie personen pizza gaat eten, dan kun je bijvoorbeeld kiezen
+            uit óf twee pizza’s met een diameter van 35 cm óf drie pizza’s met een
+            diameter van 25 cm.
+            Een pizza met een diameter van 25 cm kostte € 8,99 in 2018 en een pizza
+            met een diameter van 35 cm kostte toen € 15,49.
+
+            Arie deed in 2018 twee uitspraken:
+
+             A:      De totale hoeveelheid pizza bij de keuze voor twee grote pizza’s is
+                     groter dan bij de keuze voor drie kleine pizza’s.
+
+             B:      De prijs per cm2 is bij de keuze voor twee grote pizza’s hoger dan
+                     bij de keuze voor drie kleine pizza’s.
+
+5p   22     Onderzoek van elk van beide uitspraken of deze waar is.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1026-a-23-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

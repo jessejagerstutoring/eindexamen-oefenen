@@ -1,0 +1,381 @@
+                                                      Examen VMBO-BB
+
+                                                                 2024
+                                                                        tijdvak 1
+                                                                 dinsdag 21 mei
+                                                               13.30 - 15.00 uur
+
+
+                                                        wiskunde CSE BB
+
+
+
+
+Naam kandidaat __________________________       Kandidaatnummer ____________
+
+
+
+Beantwoord alle vragen in dit opgavenboekje.
+
+
+
+
+Dit examen bestaat uit 22 vragen.
+Voor dit examen zijn maximaal 58 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+BB-0153-a-24-1-o
+      Glas in lood
+
+             Je ziet een raam van glas in lood.
+
+
+
+
+2p    1      Welke wiskundige vlakke figuren herken je in het raam? Zet een kruisje
+             achter het juiste antwoord. Er zijn meerdere antwoorden mogelijk.
+
+              driehoek
+              kubus
+              prisma
+              rechthoek
+              vierkant
+
+2p    2      Rachid wil een symmetrisch kunstwerk maken van glas in lood. Je ziet
+             een schets van het kunstwerk dat Rachid wil maken.
+
+
+
+
+              Teken alle symmetrieassen in dit kunstwerk.
+
+
+
+
+BB-0153-a-24-1-o                             2 / 12                          lees verder ►►►
+             Het midden van het kunstwerk van Rachid bestaat uit vier gelijkbenige
+             driehoeken. Rachid wil twee driehoeken maken van grijs glas en
+             twee driehoeken van wit glas.
+
+
+
+
+3p    3      Bereken hoeveel cm2 de oppervlakte van de 2 grijze driehoeken zijn in het
+             kunstwerk van Rachid. Schrijf je berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+3p    4      Bereken hoeveel graden de hoek bij het vraagteken is. Schrijf je
+             berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+3p    5      Rachid wil om het kunstwerk ook een houten lijst maken.
+
+
+
+
+             Rachid heeft 230 cm hout.
+              Heeft Rachid genoeg hout om een houten lijst te maken voor dit
+                kunstwerk? Leg met een berekening je antwoord uit.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+BB-0153-a-24-1-o                                             3 / 12                                             lees verder ►►►
+      Grootste boom
+
+             In Amerika staat de grootste boom ter wereld. De bijnaam van deze boom
+             is General Sherman. Je ziet een foto van de boom met daarvoor een
+             volwassen man.
+
+
+
+
+3p    6      Schat hoeveel meter de lengte van de boom tot de eerste takken is. Laat
+             zien hoe je aan je antwoord komt.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+
+BB-0153-a-24-1-o                                             4 / 12                                             lees verder ►►►
+3p    7      Een groep kinderen gaat rondom de boom staan. De omtrek van de boom
+             is 28 meter ter hoogte van de schouders van de kinderen. We gaan ervan
+             uit dat als 2 kinderen schouder aan schouder staan ze samen 80 cm
+             breed zijn.
+
+
+
+
+              Bereken hoeveel kinderen minimaal schouder aan schouder rondom
+               deze boom kunnen staan. Schrijf je berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+2p    8      We gaan ervan uit dat de boom dit jaar 2500 jaar oud is.
+              Geef op de tijdlijn met een pijl aan wanneer de boom is ontstaan. Leg
+               je antwoord uit.
+
+
+
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+
+BB-0153-a-24-1-o                                             5 / 12                                             lees verder ►►►
+      Peuterbadje
+
+             In het peuterbadje van een zwembad staat een fontein in de vorm van een
+             boom met daarop vogels. Uit de snavel van elke vogel komt een
+             waterstraal.
+
+
+
+
+             De hoogte van één van de waterstralen kun je berekenen met de
+             woordformule:
+
+                   hoogte = 2 – 0,5  afstand  afstand
+
+             Hierin is hoogte de hoogte van de waterstraal in meter, boven het
+             wateroppervlak en is afstand de horizontale afstand van de waterstraal tot
+             de snavel in meter.
+
+1p    9      Laat met een berekening zien dat op een afstand van 1,2 meter de hoogte
+             van de waterstraal 1,28 meter is.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+1p    10     Bereken dat op een afstand van 2 meter de waterstraal op het
+             wateroppervlak komt. Schrijf je berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+
+BB-0153-a-24-1-o                                             6 / 12                                             lees verder ►►►
+4p    11     Teken de grafiek bij deze woordformule. Vul eerst de tabel in en geef je
+             antwoorden in twee decimalen.
+
+              afstand (meter)          0        0,4      0,8      1,2      1,6          2
+              hoogte (meter)                                     1,28
+
+
+
+
+BB-0153-a-24-1-o                             7 / 12                           lees verder ►►►
+      Ventilator
+
+             Kyara heeft een ventilator op haar kamer staan. Je ziet een foto van de
+             ventilator en een schematische weergave van de bladen van de ventilator.
+
+
+
+
+1p    12     Zijn de bladen van de ventilator lijnsymmetrisch? Omcirkel het juiste
+             antwoord:
+
+             ja/nee
+
+             Als de bladen van de ventilator draaien, dan ontstaat er een cirkel. Deze
+             cirkel heeft een diameter van 30 cm. Om de ventilator zit een rooster. De
+             afstand tussen de bladen van de ventilator en het rooster is 2 cm.
+
+                   omtrek cirkel = 3,14  diameter
+
+
+
+
+3p    13     Bereken hoeveel cm de omtrek van het rooster is. Schrijf je berekening op
+             en rond je antwoord af op hele cm.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+
+BB-0153-a-24-1-o                                             8 / 12                                             lees verder ►►►
+5p    14     De bladen van de ventilator zijn van kunststof gemaakt.
+
+
+
+
+             De oppervlakte van de bladen van de ventilator is 35 deel van de
+             oppervlakte van de cirkel die om de ventilator getekend is.
+
+                   oppervlakte cirkel = 3,14  straal  straal
+
+              Bereken hoeveel cm2 de oppervlakte van de kunststof bladen van de
+               ventilator is. Schrijf je berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+
+BB-0153-a-24-1-o                                             9 / 12                                             lees verder ►►►
+      Bravo
+
+             Bravo is een stripblad dat elke
+             2 weken verschijnt.
+
+
+
+
+1p    15     Laat met een berekening zien dat er 26 Bravo’s in een jaar verschijnen.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+3p    16     Robin krijgt van zijn ouders als verjaardagscadeau een abonnement op de
+             Bravo. Het abonnement kost 115 euro per jaar. Zijn ouders betalen
+             eenmalig 5 euro administratiekosten.
+             Er is een verband tussen de totale kosten in euro’s en het aantal jaren dat
+             Robin een abonnement op de Bravo heeft.
+              Geef een woordformule die bij dit verband hoort.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             Op zijn verjaardag krijgt Robin een aantal losse Bravo’s en een
+             abonnement op de Bravo. Vanaf zijn verjaardag houdt Robin bij hoeveel
+             Bravo’s hij heeft. Daarvoor gebruikt hij de volgende woordformule:
+
+                   totaal aantal Bravo’s = 4 + aantal weken : 2
+
+1p    17     Hoeveel losse Bravo’s heeft Robin op zijn verjaardag cadeau gekregen?
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+BB-0153-a-24-1-o                                            10 / 12                                             lees verder ►►►
+5p    18     Teken de grafiek bij deze woordformule. Vul eerst de tabel in. Maak zelf
+             een juiste schaalverdeling bij de verticale as.
+
+              aantal weken                           0            10            20            30            40            50
+              totaal aantal Bravo’s
+
+
+
+
+3p    19     Bereken na hoeveel weken Robin volgens de woordformule precies
+             49 Bravo’s heeft. Schrijf je berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+
+
+
+             Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+BB-0153-a-24-1-o                                            11 / 12                                              lees verder ►►►
+      Subsidie
+
+             Janna krijgt van de gemeente subsidie om
+             haar huis te isoleren. Dat betekent dat de
+             gemeente een deel van de kosten van
+             Janna voor het isoleren terugbetaalt.
+
+             Janna laat overal in haar huis dubbelglas
+             plaatsen. De kosten zijn 2450 euro. Janna
+             krijgt 20% subsidie.
+
+3p    20     Bereken hoeveel euro subsidie Janna krijgt. Schrijf je berekening op. Je
+             mag de tabel gebruiken.
+
+
+
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+2p    21     Het dubbelglas kost inclusief plaatsen 136,25 euro per m2.
+              Bereken hoeveel m2 dubbelglas Janna laat plaatsen. Schrijf je
+                berekening op.
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+4p    22     De buurman van Janna gaat ook isoleren. Als hij tegelijkertijd dubbelglas
+             plaatst en de muren isoleert, krijgt hij meer dan 20% subsidie. De totale
+             kosten voor het plaatsen van dubbelglas en de muurisolatie zijn
+             9000 euro. De buurman van Janna moet 6300 euro betalen. De rest van
+             de kosten krijgt hij van de gemeente als subsidie.
+              Bereken hoeveel procent subsidie hij van de gemeente krijgt. Schrijf je
+                berekening op. Je mag de tabel gebruiken.
+
+
+
+
+             ......................................................................................................................
+
+             ......................................................................................................................
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+BB-0153-a-24-1-o                                            12 / 12                                             lees verdereinde
+                                                                                                                             ►►► 
+

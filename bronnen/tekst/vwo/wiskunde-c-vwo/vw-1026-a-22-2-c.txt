@@ -1,0 +1,576 @@
+                                                    Correctievoorschrift VWO
+
+                                                                           2022
+                                                                                   tijdvak 2
+
+
+
+
+                                                                         wiskunde C
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+VW-1026-a-22-2-c                              1                               lees verder ►►►
+      3    De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+           beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+           gegeven door het College voor Toetsen en Examens.
+           De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+           verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+           gezag van de gecommitteerde.
+      4    De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+           aantal scorepunten voor het centraal examen vast.
+      5    Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+           komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+           gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+           gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+           hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+           onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+           in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+VW-1026-a-22-2-c                              2                                 lees verder ►►►
+           3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+           3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+           3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                onjuistheid gemoeid zijn.
+      4    Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+           juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+           onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+           worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+           beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+           antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+           gegeven is, worden eveneens geen scorepunten toegekend.
+      5    Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+           tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+           beoordelingsmodel anders is vermeld.
+      6    Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+           worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7    Indien de examinator of de gecommitteerde meent dat in een examen of in het
+           beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+           werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+           fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+           Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+           eventuele fout wordt bij de definitieve normering van het examen rekening
+           gehouden.
+      8    Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+           antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9    Het cijfer voor het centraal examen wordt als volgt verkregen.
+           Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+           wordt meegedeeld aan de directeur.
+           De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+           voor omzetting van score naar cijfer.
+
+  NB1      T.a.v. de status van het correctievoorschrift:
+           Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+           vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+           voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+           De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+VW-1026-a-22-2-c                                3                                  lees verder ►►►
+  NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+           Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+           behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+           standaardformulier voorgeschreven voor de vermelding van de scores van de
+           kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+           verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+           of in gezamenlijk overleg keuzes maken.
+
+  NB3      T.a.v. aanvullingen op het correctievoorschrift:
+           Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+           en een fout.
+           Verduidelijking
+           Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+           antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+           Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+           voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+           Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+           Een fout
+           Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+           fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+           Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+           Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+           spoedig mogelijk verstuurd aan de examensecretarissen.
+           Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+           gevallen vermeldt de aanvulling:
+
+           –       Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+           –       Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+           Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+           moeten worden toegekend.
+
+           Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+           aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+           houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+           rekening met de onvolkomenheid.
+
+
+
+
+VW-1026-a-22-2-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Voor elke rekenfout wordt 1 scorepunt in mindering gebracht tot het maximum van
+         het aantal scorepunten dat voor dat deel van die vraag kan worden gegeven.
+      2 De algemene regel 3.6 geldt ook bij vragen waarbij de kandidaten de grafische
+         rekenmachine (GR) gebruiken. Bij de betreffende vragen geven de kandidaten een
+         toelichting waaruit blijkt hoe zij de GR hebben gebruikt.
+      3 Als de kandidaat bij de beantwoording van een vraag een notatiefout heeft gemaakt
+         en als gezien kan worden dat dit verder geen invloed op het eindantwoord heeft,
+         wordt hiervoor geen scorepunt in mindering gebracht.
+      4a Als bij een vraag doorgerekend wordt met tussenantwoorden die afgerond zijn, en
+         dit leidt tot een ander eindantwoord dan wanneer doorgerekend is met niet-
+         afgeronde tussenantwoorden, wordt bij de betreffende vraag één scorepunt in
+         mindering gebracht. Tussenantwoorden mogen wel afgerond genoteerd worden.
+      4b Uitzondering zijn die gevallen waarin door de context wordt bepaald dat
+         tussenantwoorden moeten worden afgerond.
+      4c De aftrek voor fouten zoals bedoeld onder 4a en/of fouten bij het afronden van het
+         eindantwoord bedraagt voor het hele examen maximaal 2 scorepunten.
+
+
+
+
+VW-1026-a-22-2-c                              5                                lees verder ►►►
+      4 Beoordelingsmodel
+
+  Vraag      Antwoord                                                                        Scores
+
+
+
+      Ballonnen
+
+      1     maximumscore 3
+            •      0,5 m3 is 500 dm3                                                            1
+            •      In 52 ballonnen gaat ( 52  9  ) 468 dm3 (ballongas)                        1
+                                500  468 
+            •      Er gaat dus             100  6, 4(%) (ballongas) verloren                1
+                                500 
+            of
+            •      0,5 m3 is 500 dm3                                                            1
+                                     500
+            •      Hiermee kunnen         ( 55,55...) ballonnen gevuld worden                  1
+                                      9
+                                55,55...  52 
+            •      Er gaat dus                 100  6, 4(%) (ballongas) verloren            1
+                                55,55... 
+
+      2     maximumscore 4
+            •      3 milliseconden is 0,003 seconden                                            1
+            •      De tijdsduur tussen twee opeenvolgende beelden moet kleiner dan
+                   0,003 seconden zijn                                                          1
+            •      1 : 1000 = 0,001; 1 : 420 = 0,002… ; 1 : 250 = 0,004 (> 0,003)               1
+            •      Het antwoord: bij 420 en 1000 (beelden per seconde) is het knappen
+                   altijd te zien en bij 250 (beelden per seconde) niet                         1
+            of
+            •      1 seconde is 1000 milliseconden                                              1
+                                                      1000
+            •      Per seconde moeten er minimaal            beelden worden gemaakt             1
+                                                        3
+            •      Dus minimaal 333,… (beelden per seconde)                                     1
+            •      Het antwoord: bij 420 en 1000 (beelden per seconde) is het knappen
+                   altijd te zien en bij 250 (beelden per seconde) niet                         1
+
+      3     maximumscore 2
+            •      De groeifactor per dag is 0,9824 (  0, 615...)                              1
+            •      Het antwoord: 38(%)                                                          1
+
+
+
+
+VW-1026-a-22-2-c                                      6                                lees verder ►►►
+  Vraag      Antwoord                                                                                  Scores
+
+
+      4     maximumscore 4
+            •      30% van het ballongas eruit betekent 70% over                                         1
+            •      De vergelijkingen 0, 99t  0, 70 en 0, 98t  0, 70 moeten worden
+                   opgelost                                                                              1
+            •      Beschrijven hoe de oplossingen t  35, 48... respectievelijk t  17, 65...
+                   kunnen worden gevonden                                                                1
+            •       ( 35, 48...  17, 65...  17,83... , dus) het antwoord is 17 (of 18) (hele uren)     1
+
+            Opmerking
+            Als slechts één vergelijking is opgelost, voor deze vraag maximaal
+            2 scorepunten toekennen.
+
+
+      Supermaan
+
+      5     maximumscore 2
+            •      De straal van de aarde is 6350 (km) en de straal van de maan is
+                   1750 (km)                                                                             1
+            •      De minimale afstand is 363 000  6350  1750  354 900 (km) en de
+                   maximale afstand is 406 000  6350  1750  397 900 (km)                              1
+
+      6     maximumscore 4
+            •      Het inzicht dat in de tabel gezocht moet worden naar twee dezelfde
+                   afgeronde waarden in beide kolommen                                                   1
+            •      Het verder invullen van de tabel                                                      1
+            •      14  29, 53 (  413, 42) en 15  27, 55 ( 413, 25 , dus deze) zijn beide
+                   afgerond gelijk aan 413                                                               1
+            •      Het antwoord: (na) 413 (dagen)                                                        1
+
+      7     maximumscore 4
+            Voorbeeld van een juist antwoord:
+            • De mogelijke maanden voor een supermaan zijn (maart,) april, mei,
+               oktober, november en december (waarbij maart niet kan aangezien er
+               volgens de figuur al een volle maan was halverwege maart)                                 1
+            • Het kan niet april zijn, want er was geen volle maan in het begin van
+               april, daar waar de afstand tot de maan volgens figuur 3 kleiner dan
+               360 000 km was                                                                            1
+            • Het kan ook niet mei zijn, want er was geen volle maan in het begin van
+               mei, daar waar de afstand tot de maan volgens figuur 3 kleiner dan
+               360 000 km was                                                                            1
+            • De drie supermanen moeten dus zijn voorgekomen in de maanden
+               oktober, november en december                                                             1
+
+
+
+
+VW-1026-a-22-2-c                                        7                                      lees verder ►►►
+  Vraag      Antwoord                                                                                            Scores
+
+
+      Skûtsjesilen
+
+      8     maximumscore 3
+            •      Skûtsjes die geen enkele wedstijd winnen, hebben altijd een geheel
+                   aantal punten                                                                                    1
+            •      Een skûtsje dat 10 wedstrijden wint, heeft ook een geheel aantal punten                          1
+            •      Maar dan moet dit skûtsje alle 11 wedstrijden winnen, zodat bij dit
+                   skûtsje 1 keer winst niet meetelt, anders heeft een van de andere
+                   skûtsjes geen geheel aantal punten, dus het is mogelijk                                          1
+
+      9     maximumscore 2
+                   2,15
+            •             1,131... (of met behulp van een getallenvoorbeeld)                                       1
+                   1, 90
+            •      Het antwoord: 13(%)                                                                              1
+
+     10     maximumscore 4
+            •      Beschrijven hoe de vergelijking 160, 2  2,15 17,13  (3, 57  2 D ) kan
+                   worden opgelost                                                                                  1
+            •      Dit geeft: D  0,38... (m)                                                                       1
+            •      Invullen van de gegevens in formule 2016 geeft dan: S  162, 4... (m2)                           1
+            •      Het antwoord: (162, 4...  160, 2 ) 2,2 (m2)                                                    1
+
+     11     maximumscore 3
+            •      Het verschil in formules ontstaat doordat B is vervangen door 23 B  1, 25                       1
+            •      Beschrijven hoe de vergelijking 23 B  1, 25  B kan worden opgelost                             1
+            •      Het antwoord: B  3, 75 (m)                                                                      1
+
+            Opmerking
+            Voor een antwoord als B  3, 75 geen scorepunten in mindering brengen.
+
+     12     maximumscore 3
+            •      De vergelijking
+                   2,15  L  ( 23  3, 52  1, 25  2  0, 42)  (3, 2525  0, 05 L )  L  3, 52  25 moet
+                   worden opgelost                                                                                  1
+            •      Beschrijven hoe deze vergelijking kan worden opgelost                                            1
+            •      Het antwoord: L  18, 52 (m)                                                                     1
+
+
+
+
+VW-1026-a-22-2-c                                              8                                            lees verder ►►►
+  Vraag      Antwoord                                                                      Scores
+
+
+      Berlijnse stoel
+
+     13     maximumscore 4
+            •      (Hoogte =) 920 (mm)                                                       1
+            •      (Diepte =) 545 (mm)                                                       1
+            •      (Breedte =) 685 (mm)                                                      1
+            •      Het antwoord: de afmetingen zijn 92 bij 55 bij 69 (cm)                    1
+
+     14     maximumscore 4
+
+
+
+
+            Een aanpak als:
+            • Het tekenen van een verdwijnpunt                                               1
+            • Het tekenen van de horizon                                                     1
+            • De hoogte van de stoel aan de achterkant rechts op de foto is 5,2 cm, de
+               horizon ligt op hoogte 1,0 cm                                                 1
+                                                       1, 0
+            • De hoogte waarop de foto is genomen, is       106  20, 3... (cm), dus
+                                                       5, 2
+               het antwoord is 20 (cm)                                                       1
+
+            Opmerking
+            De gemeten horizonhoogte kan, als gevolg van teken- dan wel
+            afleesafwijkingen, redelijk variëren. Bij correctie dient daarmee coulant te
+            worden omgegaan.
+
+
+
+
+VW-1026-a-22-2-c                                   9                                lees verder ►►►
+  Vraag      Antwoord                                                                     Scores
+
+
+     15     maximumscore 4
+
+
+
+
+            Voorbeeld van een juist antwoord:
+            • Het tekenen van het verdwijnpunt V van de zitting                             1
+            • Het tekenen van het verdwijnpunt van het armpaneel rechts op de
+               tekening, dit verdwijnpunt zou moeten samenvallen met punt V: dit
+               armpaneel is dus onjuist getekend                                            1
+            • Het tekenen van de verdwijnlijn van de onderkant van de voorpoot links
+               op de tekening                                                               1
+            • Deze lijn zou naar verdwijnpunt V van de zitting moeten lopen, maar
+               dat is niet het geval: de onderkant van de voorpoot links op de tekening
+               is dus onjuist getekend                                                      1
+
+
+
+
+VW-1026-a-22-2-c                                10                                lees verder ►►►
+  Vraag      Antwoord                                                                           Scores
+
+
+      Rondetijden
+
+     16     maximumscore 3
+            •      Het aflezen van de rondetijden: 25,0; 26,6; 29,1 (seconden)                     1
+            •      1.44,0 is gelijk aan 104 seconden                                               1
+            •      Het antwoord: ( 104  25, 0  26, 6  29,1  ) 23,3 (seconden)                  1
+
+            Opmerking
+            Bij het aflezen van de rondetijden is een marge van 0,1 seconde toegestaan.
+
+     17     maximumscore 3
+            • Rn  Rn 1  0, 4                                                                    2
+            •      R1  40, 0 (of R1  40 )                                                        1
+
+            Opmerking
+            Voor het eerste antwoordelement mogen uitsluitend 0 of 2 scorepunten
+            worden toegekend.
+
+     18     maximumscore 4
+            •      De tijd van de laatste volledige ronde is ( R7  ) 42,4 (s)                     1
+            •      Invullen in de formule geeft T  312, 6 (s)                                     1
+                                                         3000
+            •      De gemiddelde snelheid is dus               (= 9,5… (m/s))                      1
+                                                        312, 6
+            •      Het antwoord: ( 9, 5...  3, 6  ) 34,5 (km/u)                                  1
+
+     19     maximumscore 3
+            Een aanpak als:
+            • De laatste rondetijd is 38, 4  6v                                                   1
+            •      Invullen in formule 2 geeft T  23,3  12  (38, 4  38, 4  6v)  7            1
+            •      Herleiden tot T  292,1  21  v                                                1
+
+     20     maximumscore 4
+            •      4.59,5 is gelijk aan 299,5 seconden                                             1
+            •      Beschrijven hoe de vergelijking 292,1  21  v  299, 5 kan worden
+                   opgelost                                                                        1
+            •      Dit geeft v  0, 352...                                                         1
+            •      Het antwoord: (het verval is maximaal) 0,3 (s)                                  1
+
+
+
+
+VW-1026-a-22-2-c                                        11                                lees verder ►►►
+  Vraag      Antwoord                                                                           Scores
+
+
+      Hotelschakeling
+
+     21     maximumscore 2
+            •      Voor het deel voor de implicatiepijl:
+                   “Als schakelaar A in stand 2 staat en schakelaar B in stand 1”                  1
+            •      De volledige bewering:
+                   “Als schakelaar A in stand 2 staat en schakelaar B in stand 1, dan is de
+                   lamp uit”                                                                       1
+
+     22     maximumscore 3
+            •      De bewering  A1  B1  C 2   L 2                                             1
+            •      De bewering  A2  B 2  C 2   L 2                                            1
+            •      De volledige bewering  ( A1  B1  C 2)  ( A2  B 2  C 2)   L 2            1
+
+
+            Opmerking
+            Als in het antwoord om het deel links van de implicatiepijl de buitenste
+            haakjes ontbreken, hiervoor geen scorepunten in mindering brengen.
+
+     23     maximumscore 4
+            •      Gaat er een lamp aan (als schakelaar C wordt omgezet), dan is die lamp
+                   heel en is de andere kapot (en is dus meteen duidelijk wat er aan de
+                   hand is)                                                                        1
+            •      Gaat er geen lamp aan (als schakelaar C wordt omgezet), dan moet
+                   schakelaar A (of B) omgezet worden                                              1
+            •      Gaat er een lamp aan (als schakelaar A (of B) wordt omgezet), dan is
+                   die lamp heel en is de andere lamp kapot                                        1
+            •      Gaat er geen lamp aan (als schakelaar A (of B) wordt omgezet), dan
+                   zijn beide lampen kapot                                                         1
+
+
+
+
+VW-1026-a-22-2-c                                       12                                 lees verder ►►►
+      Compensatiescore
+
+24    maximumscore 21
+      Volgens vakspecifieke regel 4c bedraagt de aftrek voor fouten zoals bedoeld onder 4a
+      en/of fouten bij het afronden van het eindantwoord voor het hele examen maximaal
+      2 scorepunten.
+      Indien u bij een kandidaat voor deze fouten in het hele examen meer dan
+      2 scorepunten in mindering heeft gebracht, kent u hier een compensatiescore toe.
+       Als u meer dan 2 scorepunten in mindering heeft gebracht, kent u het
+          aantal in mindering gebrachte scorepunten dat meer is dan 2 toe.
+          Voorbeeld:
+          U heeft voor deze fouten in het hele examen 5 scorepunten in mindering gebracht.
+          Ken dan bij deze component een compensatiescore van 3 toe.
+       Als u 2 of minder scorepunten in mindering heeft gebracht, kent u een
+          compensatiescore van 0 toe.
+
+
+
+      5 Aanleveren scores
+
+      Verwerk per examinator in de applicatie Wolf:
+       de scores van de alfabetische eerste vijf kandidaten voor wie het tweede-tijdvak-
+           examen de eerste afname is én
+       de scores van alle herkansende kandidaten.
+      Cito gebruikt beide gegevens voor de analyse van de examens. Om de gegevens voor
+      dit doel met Cito uit te wisselen dient u ze uiterlijk op 24 juni te accorderen.
+
+      Ook na 24 juni kunt u nog tot en met 30 juni gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+      derde tijdvak
+      Ook in het derde tijdvak wordt de normering mede gebaseerd op door kandidaten
+      behaalde scores. Wissel te zijner tijd ook voor al uw derde-tijdvak-kandidaten de scores
+      uit met Cito via Wolf. Dit geldt niet voor de aangewezen vakken.
+
+
+
+
+VW-1026-a-22-2-c                              13                                 lees
+                                                                                  leesverder
+                                                                                       verder►►►
+                                                                                              ►►►
+      6 Bronvermeldingen
+
+      Ballonnen
+      Man Over Inflating A Balloon Poster by Ted Kinsman (fineartamerica.com)
+
+
+      Skûtsjesilen
+      corlaffra/Shutterstock.com ID: 571098052
+
+
+      Berlijnse stoel
+      Berlijnse stoel - Museum Boijmans Van Beuningen
+
+
+      Rondetijden
+      Evelien1009/wikipedia.org (of: https://commons.wikimedia.org/wiki/File:Thialf_ijsbaan.jpg)
+
+
+      Hotelschakeling
+      ©2021 FLETCHER HOTEL EXPLOITATIES B.V.
+
+
+
+
+VW-1026-a-22-2-c                                       14                                          lees
+                                                                                                    leesverder
+                                                                                                             einde
+                                                                                                         verder►►►
+                                                                                                                ►►►
+

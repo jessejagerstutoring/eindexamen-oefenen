@@ -1,0 +1,460 @@
+                                                                 Examen VWO
+
+                                                                     2025
+                                                                            tijdvak 2
+                                                                  donderdag 19 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 18 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+ antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-25-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t )cos(u )  cos(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+
+             sin(2t )  2sin(t )cos(t )
+             cos(2t )  cos2 (t )  sin 2 (t )  2cos2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-25-2-o                                       2 / 17                       lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1025-a-25-2-o                        3 / 17   lees verder ►►►
+      Beweging over twee lijnen
+
+            Voor t  0 beweegt het punt P volgens de bewegingsvergelijkingen:
+                     xP (t )  8t 2
+                                        2
+                      yP (t )  4  4t
+            Voor t  0 beweegt tegelijkertijd het punt Q volgens de
+            bewegingsvergelijkingen:
+                     xQ (t )  1  3t
+                     
+                      yQ (t )  4t
+            Hierbij is t de tijd.
+
+            Zowel de baan van P als de baan van Q is een deel van een lijn.
+            In figuur 1 zijn deze banen weergegeven.
+
+            figuur 1
+
+
+
+
+            In figuur 1 is de positie van P en van Q voor een waarde van t
+            weergegeven. Er geldt:
+             P ligt onder de x-as en Q ligt boven de x-as én
+             P en Q hebben gelijke afstand tot de x-as.
+3p    1     Bereken exact de y-coördinaat van P in dit geval.
+
+
+
+
+VW-1025-a-25-2-o                             4 / 17                           lees verder ►►►
+            Punt Q beweegt met constante snelheid over zijn baan. De snelheid v (t )
+            waarmee P over zijn baan beweegt, is niet constant. Er geldt: op t  5 is
+            de snelheid van P acht keer zo groot als de snelheid van Q.
+4p    2     Bewijs dat op t  5 de snelheid van P inderdaad acht keer zo groot is
+            als de snelheid van Q.
+
+            In figuur 2 zijn opnieuw de banen van P en Q weergegeven. Ook is voor
+            t  12 en voor t  1 12 het lijnstuk PQ weergegeven. De helling van lijnstuk
+            PQ is afhankelijk van t.
+
+            figuur 2
+
+
+
+
+            Op een tijdstip t is de helling van lijnstuk PQ gelijk aan 43 .
+4p    3     Bereken exact de coördinaten van P in dit geval.
+
+
+
+
+VW-1025-a-25-2-o                              5 / 17                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1025-a-25-2-o                        6 / 17   lees verder ►►►
+      Opbrengst van zonnepanelen
+
+            Op het platte dak van de uitbouw van foto
+            een huis aan de Parallelweg 10A
+            worden tien even grote
+            zonnepanelen geïnstalleerd.
+            De panelen worden op een stalen
+            frame gemonteerd dat gekanteld is
+            in de richting van het zuiden. Op
+            het horizontale platte dak worden
+            ze in twee rijen achter elkaar
+            geplaatst. Zie de foto.
+            Voorafgaand aan de installatie heeft de leverancier een tekening gemaakt
+            van een zijaanzicht van de opstelling van de panelen. Zie figuur 1, die ook
+            vergroot op de uitwerkbijlage staat. In die situatie verwacht de leverancier
+            maximale energieopbrengst.
+
+            figuur 1
+
+
+
+
+            Met behulp van deze tekening berekent de leverancier de lengte b (in cm)
+            van de te gebruiken panelen. In de tekening geldt:
+             de punten P, Q, R en S zijn de hoekpunten van twee panelen; punt P
+               ligt recht boven de linker dakrand en punt S recht boven de rechter
+               dakrand;
+             de panelen maken een hoek van 30 met het dakoppervlak;
+             de lengte van de dakrand is 172 cm;
+             de lengte van PQ en van RS is b cm;
+             b is zo gekozen dat een zonnestraal door Q, die een hoek van 28
+               met de dakrand maakt, in R terecht komt; in dat geval ligt de achterste
+               rij panelen niet in de schaduw van de voorste rij panelen.
+            De rand en de dikte van de zonnepanelen worden in deze opgave buiten
+            beschouwing gelaten.
+
+5p    4     Bereken algebraïsch de waarde van b die de leverancier heeft berekend.
+            Geef je eindantwoord in gehele centimeters. Je mag hierbij gebruikmaken
+            van de uitwerkbijlage.
+
+
+VW-1025-a-25-2-o                            7 / 17                            lees verder ►►►
+            In figuur 2 is het door de zonnepanelen geleverde vermogen PA in kW op
+            een zonnige 31 augustus uitgezet tegen de tijd t in uren. Uitgaande van
+            de meetwaarden tussen zonsopkomst en zonsondergang is de zwarte
+            vloeiende kromme getekend.
+
+            figuur 2
+
+
+
+
+            De formule bij deze kromme is van de vorm:
+                   PA  p cos(qt )  sin(2qt ) met 0  q  0, 4
+
+            Hierbij is t de tijd in uren met t  7 om 7.00 uur.
+
+            De kromme gaat onder andere door de punten (9 ;1,0) en (18 ; 2,9) .
+4p    5     Bereken met behulp van deze punten de waarde van p en van q. Geef je
+            eindantwoorden in drie decimalen.
+
+            De buren op huisnummer 10B hebben ook zonnepanelen. De
+            energieopbrengst van deze panelen wordt direct gebruikt of direct
+            teruggeleverd aan de energiemaatschappij. Eventueel energieverlies
+            wordt in deze opgave buiten beschouwing gelaten.
+
+            De energieopbrengst wordt onder andere gebruikt voor het opladen van
+            een elektrische auto. Alle elektriciteit die tijdens het opladen wordt
+            opgewekt, wordt direct in de accu van de auto opgeslagen. Zo wordt de
+            accu met enkel zonne-energie opgeladen.
+
+
+
+
+VW-1025-a-25-2-o                               8 / 17                       lees verder ►►►
+            Op 31 augustus wordt het geleverde vermogen PB in kW tussen
+            zonsopkomst en zonsondergang van de zonnepanelen op dit adres in een
+            model benaderd met de formule:
+                   PB  4,8cos(0, 23t )
+
+            Hierbij is t de tijd in uren met t  7 om 7.00 uur.
+            De grafiek van PB is in figuur 3 weergegeven.
+
+
+            figuur 3
+
+
+
+
+            De energieopbrengst E in kWh tussen twee tijdstippen t1 en t 2 is te
+            berekenen met de integraal:
+                       t2
+                   E   PB dt met t1  t2
+                       t1
+
+            Om 11.00 uur wordt de elektrische auto aan de laadpaal gekoppeld.
+            De accu, met opslagcapaciteit 72 kWh, is op dat tijdstip voor de helft
+            opgeladen.
+                                             t2
+            Met behulp van de integraal       PB dt kan worden berekend hoe lang
+                                             11
+            het duurt tot de accu voor driekwart is opgeladen met de elektriciteit die
+            door de panelen is opgewekt.
+5p    6     Bereken met behulp van primitiveren hoeveel minuten dat duurt. Geef je
+            eindantwoord als geheel getal.
+
+
+
+
+VW-1025-a-25-2-o                                  9 / 17                       lees verder ►►►
+          Vierkant en driehoek
+
+             De functie f wordt gegeven door f ( x)  ln(3x) .
+             In figuur 1 zijn de grafiek van f en het vierkant PQRS weergegeven.
+
+             figuur 1
+
+
+
+
+             Voor vierkant PQRS geldt:
+              elke zijde is evenwijdig met de x-as of de y-as;
+              de hoekpunten P en R liggen op de grafiek van f ;
+              de x-coördinaat van R is drie keer zo groot als de x-coördinaat p
+                van P.
+4p    7      Bereken algebraïsch de coördinaten van P. Geef je eindantwoorden in
+             twee decimalen.
+
+             De lijn met vergelijking y  a snijdt de y-as in punt A en de grafiek van
+             f in punt B. De raaklijn in het punt B aan de grafiek van f snijdt de y-as in
+             punt C. Zie figuur 2.
+
+             figuur 2
+
+
+
+
+             Er geldt: voor elke waarde van a heeft lijnstuk AC lengte 1.
+
+4p    8      Bewijs dit.
+
+
+ VW-1025-a-25-2-o                             10 / 17                            lees verder ►►►
+            De lijn door A loodrecht op de raaklijn BC snijdt deze raaklijn in punt D.
+            In figuur 3 is voor een waarde van a de rechthoekige driehoek ACD grijs
+            weergegeven.
+
+            figuur 3
+
+
+
+
+            Als a varieert, varieert de lengte van zijde CD.
+            Als L de lengte van zijde CD is, dan geldt voor de oppervlakte van de
+            driehoek:
+                   Opp( ACD )  12 L2  L4
+
+3p    9     Bewijs dit.
+
+5p   10     Bereken exact de maximale oppervlakte van driehoek ACD.
+
+
+
+
+VW-1025-a-25-2-o                             11 / 17                          lees verder ►►►
+      Twee lijnstukken met eindpunt P
+
+            Gegeven zijn de punten A(5,4) en B(8,5). Verder is een punt P( p, q)
+            gegeven dat niet samenvalt met A of B.
+            In figuur 1 en 2 zijn voor twee posities van P de lijnstukken AP en BP
+            getekend.
+
+              figuur 1                               figuur 2
+
+
+
+
+            Punt P kan zo worden gekozen, dat P op de x-as ligt en AP en BP even
+            lang zijn.
+3p   11     Bereken exact de x-coördinaat van P waarbij dit het geval is.
+
+
+
+
+VW-1025-a-25-2-o                           12 / 17                            lees verder ►►►
+                          
+            Vector AP wordt 90 tegen de klok in om A gedraaid. Het resultaat is
+                          
+            vector AC .
+                          
+            Vector BP wordt 90 met de klok mee om B gedraaid. Het resultaat is
+                          
+            vector BD .
+            Punt M is het midden van lijnstuk CD.
+                                                                       
+            In figuur 3 en 4 zijn voor twee posities van P de vectoren AP , AC , BP
+                   
+            en BD weergegeven. Ook zijn het lijnstuk CD en punt M weergegeven.
+
+              figuur 3                               figuur 4
+
+
+
+
+            De coördinaten van M zijn onafhankelijk van de positie van punt P.
+6p   12     Bewijs dit.
+
+
+
+
+VW-1025-a-25-2-o                           13 / 17                           lees verder ►►►
+      Wortel en sinus
+
+            De functies f en g worden gegeven door f ( x)         x en g ( x)  x  sin( x) .
+            In figuur 1 zijn de grafieken van f en g weergegeven.
+
+            figuur 1
+
+
+
+
+            De oorsprong O is een gemeenschappelijk punt van de twee grafieken.
+            Verder snijden de grafieken elkaar achtereenvolgens in de
+            punten S1 , S 2 , S3 , .
+
+            In figuur 2 is een deel van                   figuur 2
+            figuur 1 rondom snijpunt S 2
+            vergroot weergegeven.
+            In deze figuur zijn de raaklijnen
+            in S 2 aan de grafiek van f en de
+            grafiek van g gestippeld weergegeven.
+
+
+
+
+                                                                     1
+            De helling van de grafiek van f in S 2 is gelijk aan        . De helling van
+                                                                   2 
+                                         1
+            de grafiek van g in S 2 is      , dus twee keer zo groot.
+                                         
+
+            Als n een even getal is, geldt:
+            In de snijpunten Sn is de helling van de grafiek van g twee keer zo groot
+            als de helling van de grafiek van f.
+7p   13     Bewijs deze eigenschap.
+
+
+
+
+VW-1025-a-25-2-o                             14 / 17                                lees verder ►►►
+      Drie keer over de lijn
+
+            Voor x  0 en a  1 12 wordt de functie f a gegeven door:
+                     f a ( x)  a  x 2  x  3 x
+            De grafiek van f a heeft een knik met x-coördinaat          a . Deze knik verdeelt
+            de grafiek van f a in twee delen. Links van deze knik bevindt zich een top
+            van de grafiek van f a .
+            De y-coördinaat van deze top is te schrijven als:
+                     ytop  2  13 a  1   1 a 1
+                                            3
+
+
+5p   14     Bewijs dit.
+
+            In de figuur zijn de grafieken van f 8 , f 20 en f32 en de lijn l met
+            vergelijking y  16 weergegeven.
+
+            figuur
+
+
+
+
+            Als a toeneemt, neemt de y-coördinaat 2 13 a  1       13 a  1 van de top toe.
+            Ook de y-coördinaat f a ( a ) van de knik neemt dan toe.
+            Het aantal gemeenschappelijke punten van de grafiek van f a en lijn l
+            hangt af van deze y-coördinaten. Zo snijden de grafiek van f 8 en lijn l
+            elkaar in één punt. De grafiek van f 20 snijdt lijn l in drie punten en de
+            grafiek van f32 snijdt lijn l in één punt.
+            De waarden van a waarvoor de grafiek van f a en lijn l drie snijpunten
+            hebben, vormen een interval.
+5p   15     Bereken exact dit interval.
+
+
+
+
+VW-1025-a-25-2-o                                     15 / 17                          lees verder ►►►
+      Vlakdeel en rakende cirkel
+
+                                                        10e x
+            De functie f wordt gegeven door f ( x )            x 1.
+                                                        ex  1
+
+            In figuur 1 is de grafiek van f weergegeven.
+
+            figuur 1
+
+
+
+
+            De grafiek van f snijdt de y-as in het punt D.
+            De lijn k met vergelijking y  1 12 x  4 raakt de grafiek van f in D. D is het
+            enige punt van de grafiek van f dat op k ligt.
+            De grafiek van f snijdt de x-as in het punt E.
+            V is het vlakdeel dat wordt ingesloten door de grafiek van f , lijn k en de
+            verticale lijn door E. V wordt om de x-as gewenteld.
+3p   16     Bereken de inhoud van het omwentelingslichaam dat ontstaat als V om de
+            x-as wordt gewenteld. Geef je eindantwoord als geheel getal.
+
+
+
+
+VW-1025-a-25-2-o                              16 / 17                              lees verder ►►►
+            De grafiek van f heeft twee scheve asymptoten met richtingscoëfficiënt -1.
+            In figuur 2 is de grafiek van f met deze asymptoten weergegeven.
+
+            figuur 2
+
+
+
+
+            Vergelijkingen van de scheve asymptoten zijn y   x  1 en y   x  9 .
+
+3p   17     Bewijs dit.
+
+            In figuur 3 zijn de twee scheve asymptoten van de grafiek van f
+            weergegeven. Ook is de cirkel met middelpunt M onder de x-as
+            weergegeven. Deze cirkel raakt aan beide scheve asymptoten en
+            aan de x-as.
+
+            figuur 3
+
+
+
+
+4p   18     Bereken exact de coördinaten van M.
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1025-a-25-2-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

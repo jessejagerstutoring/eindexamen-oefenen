@@ -1,0 +1,385 @@
+                                                                 Examen VWO
+
+                                                                     2021
+                                                                            tijdvak 2
+                                                                      vrijdag 18 juni
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde B
+
+
+
+
+Dit examen bestaat uit 16 vragen.
+Voor dit examen zijn maximaal 72 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1025-a-21-2-o
+      Formules
+
+            Goniometrie
+
+             sin(t  u)  sin(t )cos(u )  cos(t )sin(u )
+             sin(t  u )  sin(t )cos(u)  cos(t )sin(u )
+             cos(t  u )  cos(t )cos(u )  sin(t )sin(u )
+             cos(t  u)  cos(t )cos(u)  sin(t )sin(u )
+
+             sin(2t )  2sin(t )cos(t )
+             cos(2t )  cos2 (t )  sin 2 (t )  2cos2 (t )  1  1  2sin 2 (t )
+
+
+
+
+VW-1025-a-21-2-o                                       2 / 10                       lees verder ►►►
+      Kromme K
+
+            De kromme K is gegeven door de                       figuur
+            bewegingsvergelijkingen:
+                    x(t )  cos3 (t )
+                                        met 0  t  12 
+                                   3
+                     y (t )  sin (t )
+            In de figuur is kromme K getekend. Ook is
+            voor een waarde van t in het bijbehorende
+            punt van K de raaklijn aan K getekend.
+
+            De helling in het punt ( x(t ), y (t )) van K
+                                                     sin(t )
+            kan worden berekend met: 
+                                                     cos(t )
+
+3p    1     Bewijs dit.
+
+            Een vergelijking van de raaklijn in het punt  x(t ), y (t )  van K is:
+
+                          sin(t )
+                   y            x  sin(t )
+                          cos(t )
+
+3p    2     Bewijs dat deze vergelijking juist is.
+
+            De raaklijn snijdt de x-as in punt A en de y-as in punt B.
+
+3p    3     Bewijs dat de lengte van het lijnstuk AB constant is.
+
+
+
+
+VW-1025-a-21-2-o                                        3 / 10                         lees verder ►►►
+      Vectoren spiegelen
+
+            Wanneer een vector in een lijn wordt gespiegeld, wordt zowel het
+            beginpunt als het eindpunt van de vector in die lijn gespiegeld.
+            Het resultaat is een nieuwe vector die het gespiegelde beginpunt en het
+            gespiegelde eindpunt verbindt.
+                                                           figuur 1
+
+            In figuur 1 is een voorbeeld
+                                     weergegeven.
+            Daarin wordt vector AB , met A 1, 1 en
+            B  2, 3 , gespiegeld in de lijn met vergelijking
+                                                      
+            x  3 . Het spiegelbeeld is dan vector CD ,
+            met C  5, 1 en D  4, 3 .
+
+
+
+                                                    
+            Gegeven is punt F  7, 2  en vector OF .
+
+                                                                                     
+            Vector OF wordt in de x-as gespiegeld. Het spiegelbeeld is vector OG .
+                                                                              7
+            Voor één bepaalde combinatie van p en q geldt p  OF  q  OG                .
+                                                                                       3 
+4p    4     Bereken exact deze waarden van p en q.
+
+                                                                  x        3
+            Ook is gegeven de lijn k met vectorvoorstelling    t    .
+                                                                  y        4
+            Zie figuur 2.
+                                                             figuur 2
+            Vector OF wordt gespiegeld in lijn k.
+
+5p    5     Onderzoek met algebraïsche
+                                     berekeningen
+            of het spiegelbeeld van OF links of rechts
+            van de y-as ligt.
+
+
+
+
+VW-1025-a-21-2-o                               4 / 10                                  lees verder ►►►
+      Raaklijnen bij een vierdegraadsfunctie
+
+            De functie f p is gegeven door:                   figuur 1
+
+
+                   f p ( x)  14 x 4  x3  px
+
+            De lijn k heeft vergelijking y  px .
+            Lijn k raakt de grafiek van f p voor iedere
+            waarde van p in de oorsprong.
+
+            De lijn l is de raaklijn aan de grafiek van f p
+            in het punt A met x-coördinaat 2.
+            Lijn l snijdt de y-as voor elke waarde van p
+            in het punt B  0, 4  .
+
+            Punt M is het snijpunt van lijn k en lijn l.
+
+            In figuur 1 is de grafiek van f p
+            weergegeven voor een waarde van p.
+            De raaklijnen k en l zijn gestippeld
+            weergegeven.
+
+4p    6     Bewijs dat M het midden is van lijnstuk AB.
+                                                              figuur 2
+            De lijn k en de grafiek van f p sluiten een
+            vlakdeel V in. In figuur 2 is voor een
+            waarde van p vlakdeel V grijs
+            weergegeven.
+5p    7     Bereken exact de oppervlakte van V.
+
+
+
+
+VW-1025-a-21-2-o                                 5 / 10                  lees verder ►►►
+      Bankenformules
+
+            Op een spaarrekening wordt een bedrag gestort. Het jaarlijkse
+            rentepercentage op deze spaarrekening is constant. Hierdoor groeit het
+            bedrag op de spaarrekening exponentieel. Voor de spaarder is het
+            interessant om te weten na hoeveel jaar het bedrag is verdubbeld.
+                                                                                 ln(2)
+            De verdubbelingstijd is exact te berekenen met de formule T                       .
+                                                                                     p
+                                                                              ln 1  100   
+            Hierin is T de verdubbelingstijd in jaren en p het jaarlijkse
+            rentepercentage.
+
+4p    8     Bewijs dat deze formule voor T correct is.
+
+            Als je geen rekenmachine gebruikt, is de formule voor T onhandig.
+            Daarom gebruiken bankmedewerkers, als zij de verdubbelingstijd willen
+            weten, formules die de exacte verdubbelingstijd benaderen. Zulke
+            formules noemen we bankenformules. Om zo’n bankenformule te vinden
+            onderzoeken we eerst de noemer van de formule voor T. We bekijken dus
+            de functie N gegeven door:
+
+                                   
+                                    x
+                   N ( x)  ln 1  100 (met x  0 )
+
+            In de figuur is de grafiek van N getekend. Ook is de raaklijn k aan de
+            grafiek van N in O getekend.
+
+            figuur
+
+
+
+
+                                               1
+            Een vergelijking van k is y  100 x . Als x  0 ligt de grafiek van N onder
+            lijn k. Verder geldt: als x groter wordt, dan wordt de verticale afstand
+            tussen de grafiek van N en lijn k groter.
+
+4p    9     Bewijs met behulp van differentiëren dat de verticale afstand tussen de
+            grafiek van N en lijn k inderdaad groter wordt als x groter wordt.
+
+
+
+
+VW-1025-a-21-2-o                                   6 / 10                        lees verder ►►►
+            Voor kleine positieve waarden van x ligt lijn k dicht bij de grafiek van N.
+            Je kunt dus zeggen dat voor kleine positieve waarden van p geldt dat
+                    p
+             ln 1  100                        1
+                        ongeveer gelijk is aan 100 p . Dan geldt dus:
+
+                            ln(2)               100  ln(2) 70
+                       T    1
+                                    ofwel T               
+                            100
+                                p                    p       p
+
+            Daarmee is een voorbeeld gevonden van een bankenformule: de exacte
+            verdubbelingstijd T kan voor kleine positieve waarden van p benaderd
+                                    70
+            worden door              p
+                                         te berekenen. Deze benadering noemen we T1 .
+
+                                                                  70
+            De benadering met de formule T1  p verschilt voor toenemende waarden
+            van p steeds meer van de waarde volgens de exacte formule, waarmee
+            de benadering dus steeds slechter wordt. Daarom wordt in de praktijk het
+            getal 70 in de teller aangepast als p groter wordt, bijvoorbeeld naar 72.
+            Deze benadering noemen we T2 .
+
+            In de tabel wordt voor twee waarden van p de verdubbelingstijd in jaren
+                                                             70             72
+            volgens de bankenformules T1  p en T2  p vergeleken met de
+            verdubbelingstijd volgens de exacte formule.
+
+
+            tabel
+                                                                  rentepercentage
+                                                                  p  1,5    p  5,5
+                                                     ln(2)
+                       exacte formule T 
+                                                       p
+                                                ln 1  100       46,56          12,95
+
+                                                70
+                       bankenformule T1  p                       46,67          12,73
+                                                72
+                       bankenformule T2  p                       48,00          13,09
+
+                                                                                              70
+            In de tabel is te zien dat voor p  1,5 de bankenformule T1  p een
+                                                                                         72
+            betere benadering geeft dan de bankenformule T2  p . In de tabel is ook
+                                                                                   72
+            te zien dat voor p  5,5 de benadering met T2  p beter is dan met
+
+            T1  70p .
+                                                                                              72
+            Vanaf een bepaald rentepercentage p geeft de formule T2  p een betere
+                                                                                                   70
+            benadering van de exacte verdubbelingstijd dan de formule T1  p .
+
+
+5p   10     Bereken dit rentepercentage p. Geef je eindantwoord in één decimaal.
+
+
+VW-1025-a-21-2-o                                             7 / 10                                 lees verder ►►►
+      Twee wortelgrafieken
+
+            De functies f en g zijn gegeven door f ( x)  2 x en g ( x)       2x .
+                                                  
+            Op de grafiek van f ligt het punt P p, 2 p .   
+                                                                   1
+            De helling van de grafiek van f in P is gelijk aan        .
+                                                                    p
+            De lijn door O en P snijdt de grafiek van g in het punt Q. Deze situatie is
+            weergegeven in figuur 1.
+
+            figuur 1
+
+
+
+
+            De helling van de grafiek van g in punt Q is voor elke waarde van p gelijk
+            aan de helling van de grafiek van f in punt P.
+
+6p   11     Bewijs dit.
+
+            We kiezen nu p  4 . Punt R ligt op de grafiek van g recht onder punt P.
+            De raaklijnen in P en R snijden elkaar in het punt S   4, 0  . Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Het lijnstuk PR en de grafieken van f en g sluiten een vlakdeel in. Dit
+            vlakdeel is in figuur 2 grijsgemaakt.
+6p   12     Bereken exact de verhouding tussen de oppervlakte van dit vlakdeel en
+            de oppervlakte van driehoek PRS.
+
+
+
+VW-1025-a-21-2-o                               8 / 10                                 lees verder ►►►
+      Asymptoten en raaklijnen
+
+                                                          1
+                                                      
+                                                          x
+            De functie f is gegeven door f ( x)  e           .
+            In figuur 1 is de grafiek van f weergegeven.
+
+            figuur 1
+
+
+
+
+            De grafiek van f heeft twee asymptoten. Daarom heeft de grafiek van de
+            inverse functie van f ook twee asymptoten.
+3p   13     Stel met behulp van exacte berekeningen vergelijkingen op van de
+            asymptoten van de grafiek van de inverse functie van f.
+
+                                                                           1
+                                                                     1 
+            De afgeleide functie van f wordt gegeven door f ' ( x)  2  e x .
+                                                                     x
+            In de rest van de opgave is het domein van f beperkt tot x  0 .
+            De raaklijn aan de grafiek van f in een punt P snijdt de x-as in een punt S.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De x-coördinaat van S hangt af van de positie van P op de grafiek van f.
+            Er is een positie van P waarvoor de x-coördinaat van S maximaal is.
+7p   14     Bereken exact deze maximale waarde van de x-coördinaat van S.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1025-a-21-2-o                             9 / 10                            lees verder ►►►
+      Driehoek in cirkel
+
+                                                             figuur 1
+            Een lijn k gaat door de oorsprong O en
+            maakt een hoek  met de positieve x-as,
+            met 0    90 .
+
+            Op de positieve x-as ligt een punt M zo
+            dat de cirkel met middelpunt M en straal 1
+            lijn k raakt. Punt A is het raakpunt en
+            hoek OAM is dus 90 .
+
+            In figuur 1 is de situatie voor een bepaalde waarde van  weergegeven.
+
+            De coördinaten van A  x A , y A  kunnen worden uitgedrukt in  .
+5p   15     Bereken de waarde van  waarvoor x A  12 . Geef je eindantwoord in hele
+            graden.
+
+            Voor elke hoek  (met 0     90  ) raakt lijn k de cirkel in punt A. Verder
+            snijdt de cirkel de x-as rechts van het middelpunt in een punt B. Op de
+            cirkel ligt een punt C boven de x-as, zo dat de lijn door M en C hoek AMB
+            middendoor deelt. De positie van M, en dus ook de oppervlakte van
+            driehoek MBC, hangt af van hoek  . In figuur 2 en 3 is voor twee
+            verschillende waarden van  de situatie weergegeven.
+
+            figuur 2                                   figuur 3
+
+
+
+
+            Als  nadert naar 0, neemt de oppervlakte van driehoek MBC af tot een
+            grenswaarde.
+5p   16     Bereken exact deze grenswaarde.
+
+
+
+
+VW-1025-a-21-2-o                             10 / 10                             lees verdereinde
+                                                                                              ►►► 
+

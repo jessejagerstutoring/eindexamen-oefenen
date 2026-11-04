@@ -1,0 +1,574 @@
+                                                                Examen HAVO
+
+                                                                     2021
+                                                                            tijdvak 1
+                                                                   woensdag 26 mei
+                                                                   13.30 - 16.30 uur
+
+
+                                                                    wiskunde A
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 81 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening vereist is, worden aan het
+antwoord meestal geen punten toegekend als deze verklaring, uitleg of berekening
+ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1024-a-21-1-o
+            FORMULEBLAD
+
+            Vuistregels voor de grootte van het verschil van twee groepen
+
+
+                               a b                                  ad  bc
+              22 kruistabel       , met phi 
+                               c d                       ( a  b)( a  c )(b  d )(c  d )
+
+                  als phi   0, 4 of phi  0, 4 , dan zeggen we “het verschil is groot”,
+                  als 0, 4  phi  0, 2 of 0, 2  phi  0, 4 , dan zeggen we “het verschil is
+                   middelmatig”,
+                  als 0, 2  phi  0, 2 , dan zeggen we “het verschil is gering”.
+
+
+
+              Maximaal verschil in cumulatief percentage ( max Vcp ) (met voor beide
+              groepen een steekproefomvang n  100 )
+
+                  als max Vcp  40 , dan zeggen we “het verschil is groot”,
+                  als 20  max Vcp  40 , dan zeggen we “het verschil is middelmatig”,
+                  als max Vcp  20 , dan zeggen we “het verschil is gering”.
+
+
+
+                                    X1  X 2
+              Effectgrootte E                , met X 1 en X 2 de steekproefgemiddelden
+                                   1 (S  S )
+                                   2 1     2
+              ( X 1  X 2 ), S1 en S2 de steekproefstandaardafwijkingen
+
+                  als E  0,8 , dan zeggen we “het verschil is groot”,
+                  als 0,4  E  0,8 , dan zeggen we “het verschil is middelmatig”,
+                  als E  0,4 , dan zeggen we “het verschil is gering”.
+
+
+
+              Twee boxplots vergelijken
+
+                  als de boxen1) elkaar niet overlappen, dan zeggen we “het verschil is
+                   groot”,
+                  als de boxen elkaar wel overlappen en een mediaan van een boxplot
+                   buiten de box van de andere boxplot ligt, dan zeggen we “het verschil is
+                   middelmatig”,
+                  in alle andere gevallen zeggen we “het verschil is gering”.
+
+
+
+   noot 1 De ‘box’ is het interval vanaf het eerste kwartiel tot en met het derde kwartiel.
+
+
+
+
+HA-1024-a-21-1-o                                  2 / 16                                       lees verder ►►►
+            Betrouwbaarheidsintervallen
+
+
+              Het 95%-betrouwbaarheidsinterval voor de populatieproportie is
+                        p(1  p)
+               p  2            , met p de steekproefproportie en n de steekproefomvang.
+                           n
+
+
+              Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is
+                        S
+               X  2      , met X het steekproefgemiddelde, n de steekproefomvang en
+                         n
+              S de steekproefstandaardafwijking.
+
+
+
+
+HA-1024-a-21-1-o                              3 / 16                           lees verder ►►►
+      Visus
+
+            Om te bepalen hoe goed iemands ogen functioneren, wordt vaak
+            gebruikgemaakt van de Snellenkaart. De letters op deze kaart moeten
+            vanaf een afstand van 20 feet (ongeveer 6 meter) worden gelezen.
+            Zie de figuur.
+
+            figuur
+
+
+
+
+            De visus is een maat voor de gezichtsscherpte. Deze maat kan met
+            behulp van de Snellenkaart worden uitgedrukt in een score S. Iemand met
+            normaal functionerende ogen kan de letters op regel 8 nog wel lezen,
+            maar de letters op regel 9 niet meer. Bij normaal functionerende ogen
+            hoort een score S  20
+                                 20
+                                     1 . Als een persoon nog kleinere letters kan
+            lezen, dan is de score S groter dan 1. Bij de onderste regel 11 hoort
+            bijvoorbeeld de score S  10
+                                       20  2 .
+
+
+
+            Iemand met S  0,5 moet alles van tweemaal zo dichtbij bekijken om
+            hetzelfde op de Snellenkaart te kunnen zien als iemand met S  1 .
+            Iemand met S  0,1 moet tienmaal zo dichtbij staan, enzovoort.
+
+            Klaas en Lidy laten hun visus meten. Klaas kan regel 2 nog wel lezen,
+            maar regel 3 niet meer. Lidy kan regel 7 nog wel lezen, maar regel 8 niet
+            meer.
+3p    1     Bereken hoeveel keer zo dicht Klaas bij de Snellenkaart moet staan als
+            Lidy om hetzelfde te kunnen lezen als Lidy.
+
+
+
+
+HA-1024-a-21-1-o                            4 / 16                            lees verder ►►►
+            Er zijn meerdere maten voor de gezichtsscherpte. Voorbeelden hiervan
+            zijn de logMAR-schaal1) en de ETDRS-letterscore2).
+
+            Het verband tussen de score S volgens de Snellenkaart en de score M op
+            de logMAR-schaal wordt gegeven door formule 1. Voor het verband
+            tussen de score S en de ETDRS-letterscore E geldt formule 2:
+
+                   S  10 M       (formule 1)
+                         E 85
+                   S  10 50       (formule 2)
+
+
+            De Wereldgezondheidsorganisatie noemt mensen met een score S tussen
+            0,05 en 0,3 slechtziend.
+3p     2    Welke scores van M op de logMAR-schaal komen overeen met de scores
+            S  0,05 en S  0,3 ? Geef je antwoorden in één decimaal.
+
+            Het Centraal Bureau Rijvaardigheidsbewijzen (CBR) stelt als keuringseis
+            dat S minimaal 0,5 moet zijn. Janne heeft een ETDRS-letterscore van 75.
+3p     3    Wordt Janne goedgekeurd door het CBR? Licht je antwoord toe met een
+            berekening.
+
+            Aan de hand van formule 1 en formule 2 kan beredeneerd worden dat als
+            M groter wordt, E kleiner zal worden.
+3p     4    Geef deze redenering, zonder gebruik te maken van getallenvoorbeelden.
+
+            Door de twee formules te combineren, kan het volgende verband tussen
+            M en E worden afgeleid:
+                          E  85
+                   M 
+                           50
+3p     5    Leid hieruit een formule af waarbij E wordt uitgedrukt in M.
+
+
+
+
+     noot 1 logMAR = Logarithm of the Minimum Angle of Resolution
+     noot 2 ETDRS = Early Treatment Diabetic Retinopathy Study
+
+
+
+
+HA-1024-a-21-1-o                                 5 / 16                    lees verder ►►►
+      Klarinet
+
+            Een klarinet is een houten
+            blaasinstrument. Alle mogelijke
+            tonen die op het instrument kunnen
+            worden gespeeld, worden samen het
+            bereik genoemd. Het bereik van een
+            klarinet is bijna vier octaven. Een
+            octaaf bestaat uit 12 opeenvolgende
+            toonafstanden. Zie de tabel.
+            Elke voorafgaande of opeenvolgende octaaf heeft dezelfde namen voor
+            de tonen in dat octaaf.
+
+            De frequentie van een toon wordt gegeven in hertz (Hz), dit is het aantal
+            trillingen per seconde. Bij een hogere toon hoort een hogere frequentie.
+            Als je eenzelfde toon één octaaf hoger speelt, wordt de frequentie twee
+            keer zo groot. Er bestaat een exponentieel verband tussen de frequenties
+            en de tonen in de tabel: van elke volgende toon neemt de frequentie met
+            een vast percentage toe. In de tabel zie je van enkele tonen de
+            frequenties.
+
+            tabel Voorbeeld van een octaaf
+              toon            A    Bes B C Des        D    Es E F Ges G As              A
+              frequentie
+                             440                     587                              880
+              (Hz)
+
+            In de tabel is de frequentie van de D-toon afgerond op hele Hz.
+4p    6     Bereken op basis van de frequenties van de A-tonen uit de tabel de
+            frequentie van de D-toon. Geef je antwoord in één decimaal.
+
+            In de figuur wordt op een logaritmische schaalverdeling het bereik van
+            verschillende instrumenten aangegeven.
+
+            figuur
+
+
+
+
+HA-1024-a-21-1-o                           6 / 16                            lees verder ►►►
+            De laagste toon die een klarinet kan laten horen is een D. De hoogste
+            toon is een A.
+3p    7     Bereken aan de hand van bovenstaande gegevens, de tabel en de figuur
+            de laagste en de hoogste frequentie die een klarinet kan bereiken. Geef je
+            antwoorden in een geheel aantal Hz.
+
+            Een klarinettist moet altijd eerst een korte tijd inspelen om de klarinet op
+            een vaste temperatuur van 31 °C te brengen. Als de klarinet koud is,
+            klinken de tonen namelijk lager dan als de klarinet warm is. Dit komt
+            omdat de snelheid van het geluid afhankelijk is van de temperatuur. Dit
+            verband wordt gegeven door de formule:
+                   v  20 273  T
+            Hierin is v de snelheid van het geluid (in m/s) en T de temperatuur (in °C).
+
+            Met de formule kun je bijvoorbeeld berekenen dat bij een temperatuur van
+            20 °C de snelheid van het geluid ongeveer 342 m/s is. Bij een
+            temperatuur van 31 °C is deze snelheid ongeveer 349 m/s.
+
+4p    8     Bereken hoeveel graden de temperatuur moet toenemen om de snelheid
+            van het geluid te laten stijgen van 339 m/s naar 349 m/s. Geef je
+            antwoord in een geheel aantal graden.
+
+            Een toon van de klarinet is te horen als er lucht in de klarinetbuis in trilling
+            gebracht wordt. Door tijdens het spelen gaatjes in de klarinetbuis open of
+            dicht te doen, verandert de lengte L van het gedeelte van de klarinetbuis
+            waarin de lucht trilt. De frequentie van een toon die op een klarinet
+            gespeeld wordt, kun je berekenen met de formule:
+                          v
+                   f 
+                         4L
+            Hierin is f de frequentie van de toon (in Hz), v de snelheid van het geluid
+            in de klarinet (in m/s) en L de lengte van het gedeelte van de klarinetbuis
+            waarin de lucht trilt (in m).
+
+            Els speelt op haar klarinet met de eerder genoemde temperatuur van
+            31 °C een toon die klinkt met een frequentie van precies 440 Hz. Deze
+            toon had bij het begin van het inspelen op de klarinet met een
+            temperatuur van 20 °C een andere frequentie dan nu de klarinet een
+            temperatuur van 31 °C heeft.
+3p    9     Bereken deze frequentie. Geef je antwoord in een geheel aantal Hz.
+
+
+
+
+HA-1024-a-21-1-o                              7 / 16                              lees verder ►►►
+       De voorsteekpas 1)
+
+            In de zomermaanden worden pretparken druk bezocht. De wachttijden
+            voor de attracties kunnen dan sterk oplopen. De wachttijd voor een
+            attractie kan berekend worden met de formule:
+                          rS
+                   W
+                        2(1  r )
+            Hierin is W de gemiddelde wachttijd van een
+            willekeurige bezoeker in minuten en r de
+            bezettingsgraad van de attractie ( 0  r  1 ).
+            Als voor de bezettingsgraad bijvoorbeeld geldt
+            dat r  0,85 , betekent dit dat gemiddeld 85% van
+            de plaatsen in de attractie bezet is.
+            S is de bedieningstijd per bezoeker in seconden.
+            Als bijvoorbeeld een attractie elke 10 minuten
+            100 bezoekers kan bedienen, geldt:
+                        600 seconden
+             S  6 (                 ).
+                        100 bezoekers
+
+            In Walibi Belgium is de achtbaan Vampire een populaire attractie, die in
+            de zomermaanden een bezettingsgraad van 98% heeft. De Vampire kan
+            iedere vier minuten 80 bezoekers bedienen.
+3p    10    Bereken hoeveel minuten de gemiddelde wachttijd van een bezoeker voor
+            de Vampire in de zomermaanden is.
+
+            In de zomer van 2013 introduceerde Walibi Belgium een zogenoemde
+            voorsteekpas. Met deze pas kan een bezoeker voorrang krijgen bij de
+            attracties. Daardoor zal de wachttijd voor een bezoeker zonder deze pas
+            langer worden.
+
+            Er zijn nu twee formules voor de wachttijd voor een attractie, namelijk een
+            formule voor de gemiddelde wachttijd W p in minuten van een bezoeker
+            met de voorsteekpas en een formule voor de gemiddelde wachttijd Wz in
+            minuten van een bezoeker zonder voorsteekpas:
+                              rS                       rS
+                   Wp                   en Wz 
+                           2(1  a  r )         2(1  r )(1  a  r )
+            Hierin is a het gedeelte van de bezoekers met een voorsteekpas
+            ( 0  a  1 ).
+
+
+
+
+     noot 1 ‘Voorsteken’ is een Vlaams woord voor ‘inhalen, voordringen’.
+
+
+
+HA-1024-a-21-1-o                                     8 / 16                   lees verder ►►►
+            Een andere bekende attractie van Walibi Belgium is de Cobra. Deze
+            attractie heeft een bezettingsgraad van 95% (dus r  0,95 ) en een
+            bedieningstijd van 6 seconden per bezoeker (dus S  6 ).
+
+            Op 6 juli 2013 kocht 10% van de bezoekers een voorsteekpas, dus
+            a  0,10 .
+4p    11    Bereken voor deze dag het verschil in wachttijd bij de Cobra tussen
+            bezoekers zonder voorsteekpas en bezoekers met voorsteekpas. Geef je
+            antwoord in gehele minuten.
+
+            De wachttijd van de bezoekers zonder voorsteekpas wordt groter als meer
+            bezoekers een voorsteekpas kopen.
+            De directie van Walibi Belgium wil dat de wachttijd van bezoekers zonder
+            voorsteekpas bij de Cobra maximaal 80 minuten is.
+4p    12    Bereken hoeveel procent van de bezoekers dan maximaal een
+            voorsteekpas mag hebben. Geef je antwoord in één decimaal.
+
+            Voor de Cobra kan de formule van de wachttijd voor bezoekers zonder
+            voorsteekpas worden herleid tot:
+                              5,7
+                   Wz 
+                          0,10  ...  a
+
+
+3p    13    Geef deze herleiding. Rond het getal dat op de puntjes moet staan niet af.
+
+
+
+
+HA-1024-a-21-1-o                            9 / 16                           lees verder ►►►
+      Nibud Scholierenonderzoek
+
+            Het Nibud Scholierenonderzoek brengt het financiële gedrag van
+            scholieren in het voortgezet onderwijs in kaart.
+            De populatie van dit onderzoek bestaat uit alle vmbo-, havo- en vwo-
+            scholieren in de leeftijd van 12 tot en met 18 jaar. Van een aselecte
+            steekproef van 3260 scholieren uit de populatie zijn gegevens
+            beschikbaar gekomen via online vragenlijsten. We gaan ervan uit dat
+            deze steekproef representatief is.
+
+            1530 scholieren in de steekproef hebben een bijbaantje.
+3p    14    Bereken het 95%-betrouwbaarheidsinterval voor de populatieproportie
+            scholieren met een bijbaantje. Geef de getallen in je antwoord in twee
+            decimalen.
+
+            In het rapport staat een tabel met informatie over het gemiddeld aantal
+            uren per week dat een scholier met een bijbaantje werkt (zie tabel 1).
+
+            tabel 1     Bijbaan: gemiddeld aantal uren per week
+              onderwijsniveau en klas              bijbaan (uren per week)
+              vmbo bovenbouw (klas 3 en 4)                   9
+              havo / vwo (klas 3)                            6
+              havo bovenbouw (klas 4 en 5)                   8
+              vwo bovenbouw (klas 4, 5 en 6)                 6
+
+            Als je met behulp van het formuleblad een uitspraak wilt doen over het
+            verschil tussen havo bovenbouwscholieren met een bijbaantje en vwo
+            bovenbouwscholieren met een bijbaantje in het aantal uren dat zij werken,
+            dan heb je meer informatie of misschien wel heel andere informatie nodig
+            dan die in tabel 1 staat.
+4p    15    Beschrijf twee manieren om met behulp van het formuleblad een uitspraak te
+            doen over dit verschil tussen deze twee groepen, en geef voor beide
+            manieren aan welke informatie je dan (extra) nodig hebt.
+
+
+
+
+HA-1024-a-21-1-o                               10 / 16                       lees verder ►►►
+            In de steekproef bedroeg het gemiddelde inkomen van een scholier met
+            een bijbaantje 112 euro per maand. De mediaan was 65 euro. In de figuur
+            zie je drie frequentieverdelingen afgebeeld waarvan er één de
+            frequentieverdeling van het inkomen per maand van een scholier met een
+            bijbaantje in de steekproef weergeeft.
+
+            figuur
+
+
+
+
+2p    16    Welke van de drie frequentieverdelingen is dat? Licht je antwoord toe.
+
+            Het Nibud wil het inkomen van scholieren met een bijbaantje ook per
+            onderwijsniveau in kaart brengen. Dat hebben ze gedaan door tabel 2 in
+            hun onderzoeksrapport te zetten.
+
+            tabel 2     Bijbaan: inkomen (in euro) per maand van 15- en 16-jarigen
+              onderwijsniveau en klas                    gemiddelde       mediaan
+              vmbo bovenbouw (klas 3 en 4)                  149              107
+              havo / vwo (klas 3)                            93              65
+              havo bovenbouw (klas 4 en 5)                  181              142
+              vwo bovenbouw (klas 4, 5 en 6)                130              101
+
+            Deze tabel is gebaseerd op scholieren in de steekproef die 15 of 16 jaar
+            zijn.
+2p    17    Leg uit waarom men niet heeft gekozen voor scholieren in de steekproef
+            die 17 of 18 jaar zijn.
+
+
+
+
+HA-1024-a-21-1-o                               11 / 16                       lees verder ►►►
+            Voor het laatste onderdeel van deze opgave kijken we niet naar het
+            inkomen van scholieren, maar naar een aspect van de uitgaven van
+            scholieren. Dit aspect betreft de vraag hoe vaak scholieren spijt hebben
+            na het doen van een aankoop. Van 1200 aselect gekozen respondenten
+            (600 jongens en 600 meisjes) is bekend hoe vaak zij spijt hebben na het
+            doen van een aankoop. De resultaten zijn weergegeven in een relatieve
+            frequentietabel, zie tabel 3.
+
+            tabel 3      Spijt na het doen van een aankoop
+                                     jongens            meisjes             totaal
+              nooit / zelden           16%                8%                 12%
+              meestal niet             65%                61%                63%
+              meestal wel              19%                29%                24%
+              vaak / altijd             0%                2%                 1%
+
+5p    18    Onderzoek met behulp van het formuleblad of het verschil tussen jongens
+            en meisjes in hoe vaak zij spijt hebben na het doen van een aankoop
+            gering, middelmatig of groot is.
+
+
+
+
+HA-1024-a-21-1-o                             12 / 16                         lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1024-a-21-1-o                       13 / 16   lees verder ►►►
+      Postzegels
+
+            Mensen sturen steeds minder brieven en kaarten. Postzegels zijn in
+            Nederland de afgelopen jaren flink duurder geworden. Elk jaar op
+            1 januari wordt de prijs zo nodig aangepast.
+            In de figuur zie je de postzegelprijs (in centen) en het aantal
+            brieven/kaarten (in miljarden) dat bezorgd werd in de jaren 2005-2016.
+
+            figuur
+
+
+
+
+            Je kunt in de figuur bijvoorbeeld aflezen dat op 1 januari 2007 de
+            postzegelprijs 44 cent was en dat er in het jaar 2007 4,8 miljard
+            brieven/kaarten werden bezorgd.
+
+            Op 1 januari 2010 kostte een postzegel 44 cent. Op 1 januari 2014 was de
+            prijs gestegen tot 64 cent. Veronderstel dat in de periode 2010-2014 de
+            postzegelprijs exponentieel groeide.
+4p    19    Bereken met de bovengenoemde gegevens uit 2010 en 2014 het jaarlijkse
+            groeipercentage van de postzegelprijs. Geef je antwoord in één decimaal.
+
+
+
+
+HA-1024-a-21-1-o                            14 / 16                              lees verder ►►►
+            In de periode 2010-2016 nam het aantal brieven/kaarten dat jaarlijks werd
+            bezorgd bij benadering lineair af. Er werd in 2016 voorspeld dat deze
+            afname zich nog een aantal jaren op deze manier zou voortzetten.
+4p    20    Bereken met de aantallen uit 2010 en 2016 hoeveel miljard
+            brieven/kaarten er in 2020 volgens deze voorspelling bezorgd zouden
+            worden. Geef je antwoord in één decimaal.
+
+            In de tabel zie je voor 2015 en 2016 onder andere het aantal bezorgde
+            brieven/kaarten en de bijbehorende opbrengst. Dit is het totale bedrag dat
+            aan postzegels is verkocht dat op al die brieven/kaarten is geplakt. De
+            opbrengst in 2016 was lager dan die in 2015, ondanks de verhoging van
+            de postzegelprijs van € 0,69 naar € 0,73.
+
+            tabel
+                                                  brieven/kaarten
+              jaar             aantal stuks                 opbrengst          postzegelprijs
+                              (in miljoenen)           (in miljoenen euro’s)       (cent)
+              2015                  2401                          1961              69
+              2016                  2213                          1877              73
+
+            Voor het versturen van brieven/kaarten tot 20 gram heb je 1 postzegel
+            nodig. Voor het versturen van brieven/kaarten vanaf 20 gram tot 50 gram
+            moet je 2 postzegels plakken, en vanaf 50 tot 100 gram 3 postzegels.
+            Neem aan dat op alle brieven/kaarten maximaal 3 postzegels zijn geplakt.
+
+2p    21    Leg met behulp van de tabel uit dat op een deel van de brieven/kaarten in
+            2015 meer dan 1 postzegel moet zijn geplakt.
+
+            Neem aan dat in 2016 op 88% van de brieven/kaarten 1 postzegel werd
+            geplakt en op de overige brieven/kaarten 2 of 3 postzegels.
+            Je kunt dan met behulp van de tabel de volgende vergelijking opstellen
+            om het aantal brieven/kaarten met 2 postzegels te berekenen:
+                   0,73  1947, 44  1, 46  x  2,19  (265,56  x)  1877
+            Hierin is x het aantal brieven/kaarten met 2 postzegels in miljoenen.
+
+3p    22    Leg met berekeningen uit hoe je aan de getallen 1947,44 en 1, 46 en 2,19
+            en 265,56 in deze vergelijking kunt komen.
+
+3p    23    Bereken het percentage brieven/kaarten met 2 postzegels in 2016. Geef
+            je antwoord in hele procenten.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1024-a-21-1-o                                   15 / 16                         lees verder ►►►
+      Fijnstofemissie
+
+            In het rapport Transport en Mobiliteit
+            2016 van het Centraal Bureau voor de
+            Statistiek staat informatie over de
+            fijnstofemissie (dit is de hoeveelheid
+            fijnstof die vrijkomt) door het vervoer
+            over de weg, uitgesplitst naar
+            personenvervoer en goederenvervoer.
+            Deze hoeveelheid wordt bepaald
+            door het aantal gereden kilometers
+            te vermenigvuldigen met de
+            fijnstofemissie per gereden kilometer.
+
+            In 1990 was het aantal gereden kilometers door het personenvervoer
+            103 200 miljoen en door het goederenvervoer 16 800 miljoen. In 2014 is
+            het aantal gereden kilometers voor het personenvervoer twee keer zo
+            groot geworden als in 1990 en het aantal gereden kilometers voor het
+            goederenvervoer drie keer zo groot. Ondanks de toename van het aantal
+            gereden kilometers is de totale fijnstofemissie door het wegvervoer in
+            2014 aanzienlijk minder dan in 1990. Dit komt vooral door het gebruik van
+            betere motoren.
+
+            Er moet worden onderzocht met hoeveel procent de totale emissie van
+            fijnstof door het wegvervoer in de periode 1990 tot en met 2014 is
+            gedaald. Daarvoor moeten bovenstaande gegevens over het aantal
+            gereden kilometers en onderstaande aannames over de fijnstofemissie
+            per gereden kilometer worden gebruikt.
+
+            In 1990 kwam er gemiddeld genomen bij het personenvervoer per
+            gereden kilometer 0,08 gram fijnstof vrij. Voor het goederenvervoer was
+            dit toen 0,58 gram. In de periode 1990 tot en met 2014 daalde de
+            fijnstofemissie bij het personenvervoer elk jaar met 0,003 gram per
+            gereden kilometer. In dezelfde periode daalde de fijnstofemissie per
+            gereden kilometer bij het goederenvervoer met 9% per jaar.
+
+6p    24    Onderzoek met behulp van bovenstaande gegevens en aannames met
+            welk percentage de totale emissie van fijnstof door het wegvervoer in
+            2014 is gedaald ten opzichte van 1990. Geef je antwoord in hele
+            procenten.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1024-a-21-1-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

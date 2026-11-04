@@ -1,0 +1,353 @@
+                                                      Examen VMBO-KB
+
+                                                                 2019
+                                                                        tijdvak 1
+                                                              donderdag 16 mei
+                                                               13.30 - 15.30 uur
+
+
+                                                        wiskunde CSE KB
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+KB-0153-a-19-1-o
+             OVERZICHT FORMULES:
+
+
+
+             omtrek cirkel =   diameter
+
+
+             oppervlakte cirkel =   straal 2
+
+
+             inhoud prisma = oppervlakte grondvlak  hoogte
+
+
+             inhoud cilinder = oppervlakte grondvlak  hoogte
+
+
+             inhoud kegel = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud piramide = 31  oppervlakte grondvlak  hoogte
+
+
+
+             inhoud bol = 34    straal 3
+
+
+
+
+KB-0153-a-19-1-o                              2/9                    lees verder ►►►
+      Treinreis naar Kopenhagen
+
+
+
+
+             Een groep van 10 leerlingen en 2 docenten gaat met de trein van
+             Amsterdam naar Kopenhagen.
+
+2p    1      Ze gaan met de nachttrein vanuit Amsterdam. De trein vertrekt om
+             19.01 uur. De treinreis duurt 15 uur en 6 minuten.
+              Hoe laat komt de trein de volgende dag aan in Kopenhagen?
+
+3p    2      De enkele treinreis van Amsterdam naar Kopenhagen kost € 59 per
+             persoon. In de nachttrein zijn wagons met slaapruimtes, waarvoor je extra
+             moet betalen. De leerlingen slapen in een couchette 6 en een
+             couchette 4. De docenten slapen in een sleeper 2. In de tabel staan de
+             extra kosten. Voor de hele groep moet eenmalig € 37 reserveringskosten
+             betaald worden.
+
+             Extra voorziening                           Prijs per persoon
+             couchette 6         6‐beddencompartiment    €          27,50
+             couchette 4         4‐beddencompartiment    €          37,50
+             sleeper 3           3‐beddencompartiment    €          50,00
+             sleeper 2           2‐beddencompartiment    €          70,00
+             sleeper 1             1‐bedcompertiment     €         110,00
+
+
+              Bereken hoeveel euro de totale kosten van de hele groep zijn voor de
+               enkele treinreis van Amsterdam naar Kopenhagen. Schrijf je
+               berekening op.
+
+3p    3      De trein terug vertrekt om 18.10 uur uit Kopenhagen en komt de volgende
+             dag om 09.59 uur aan in Amsterdam.
+              Hoeveel minuten duurt de treinreis terug langer of korter dan de
+                heenreis? Laat zien hoe je aan je antwoord komt.
+
+2p    4      Kopenhagen ligt in Denemarken en daar wordt betaald met Deense
+             kronen. 1 euro is 7,4352 Deense kronen. De terugreis kost in totaal
+             9426,70 Deense kronen.
+              Bereken hoeveel euro dit is. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-19-1-o                                   3/9                         lees verder ►►►
+      Stopafstand
+
+             De stopafstand is de totale afstand die een auto aflegt vanaf het moment
+             dat de bestuurder het gevaar ziet totdat de auto stilstaat.
+
+
+                                                         stopafstand
+
+
+
+
+                       bestuurder      reactieafstand              bestuurder     remafstand      de auto
+                     ziet het gevaar                                drukt het                     staat stil
+                                                                  rempedaal in
+
+
+             In de tekening zie je dat
+
+                   stopafstand = reactieafstand + remafstand
+
+             De afstanden hebben met meerdere factoren te maken, in deze opgave
+             gaan we van gemiddeldes uit. In de tabel staan een paar afstanden
+             gegeven.
+
+                   snelheid (km/uur)           stopafstand (m)                   reactieafstand (m)
+                            40                          21,4                           11,1
+                            80                          63,4                           22,2
+                           120                          125,9                          33,3
+
+1p    5      Laat met een berekening zien dat bij een snelheid van 40 km/uur de
+             remafstand 10,3 meter is.
+
+3p    6      Sam denkt dat als de snelheid verdubbelt, ook de remafstand verdubbelt.
+              Laat met een berekening zien of Sam gelijk heeft.
+
+3p    7      Op de uitwerkbijlage is de grafiek getekend van de stopafstand en de
+             reactieafstand.
+              Teken op de uitwerkbijlage de grafiek van de remafstand van 0 tot en
+                met 120 km/uur. Je mag de tabel gebruiken.
+
+
+
+
+KB-0153-a-19-1-o                                   4/9                                         lees verder ►►►
+      Drinkpakje
+
+
+
+
+             Op de foto staan verschillende drinkpakjes in de vorm van een prisma.
+
+             Hieronder is het voorvlak getekend met de maten in cm. Het voorvlak is
+             symmetrisch. De hoogte van het voorvlak is 6,5 cm.
+             Op de uitwerkbijlage staat het voorvlak op ware grootte.
+
+                                      4 cm
+
+
+
+
+                                                                       6,5 cm
+
+             4 cm                                               4 cm
+
+
+
+
+                                      12 cm
+
+
+3p    8      In een van de drinkpakjes zit sinaasappelsap. Op het voorvlak van het
+             pakje is een sinaasappelschijf getekend.
+              Teken in het voorvlak op de uitwerkbijlage een zo groot mogelijke
+                 halve cirkel en verdeel deze halve cirkel in vier gelijke delen.
+
+5p    9      Bereken, zonder te meten, hoeveel cm de omtrek van het voorvlak is.
+             Schrijf je berekening op.
+
+3p    10     Bereken hoeveel cm2 de oppervlakte van het voorvlak is. Schrijf je
+             berekening op.
+
+2p    11     De inhoud van het drinkpakje is 170 ml.
+              Bereken hoeveel cm de diepte van het drinkpakje is. Schrijf je
+                 berekening op en geef je antwoord in één decimaal.
+             Als je geen antwoord hebt gevonden bij vraag 10, neem dan voor de
+             oppervlakte van het voorvlak 63 cm2.
+
+
+
+
+KB-0153-a-19-1-o                              5/9                               lees verder ►►►
+      Kubussen
+
+
+
+
+             Een bouwwerk van kubussen is met een bepaalde regelmaat gebouwd.
+             De voorste rij (n = 1) bestaat uit 1 kubus, de rij erachter (n = 2) bestaat uit
+             3 kubussen, de derde rij (n = 3) bestaat uit 6 kubussen en de vierde rij
+             (n = 4) bestaat uit 10 kubussen.
+
+3p    12     Een kubus heeft ribben van 1 cm.
+              Teken het bovenaanzicht van dit bouwwerk op ware grootte.
+
+             Voor het berekenen van het aantal kubussen in een bepaalde rij kun je de
+             volgende formule gebruiken
+
+                        1 2 1
+                   k=     n + n
+                        2    2
+
+             Hierbij is k het aantal kubussen en is n het nummer van de rij.
+
+             Ga ervan uit dat er met deze regelmaat verder wordt gebouwd.
+
+3p    13     Hoeveel kubussen zijn er in totaal voor een bouwwerk met 5 rijen nodig?
+             Schrijf je berekening op.
+
+3p    14     Voor welke rij zijn er voor het eerst meer dan 100 kubussen nodig? Schrijf
+             je berekening op.
+
+
+
+
+KB-0153-a-19-1-o                               6/9                                 lees verder ►►►
+      Alpe d’HuZes
+
+             De Alpe d’Huez is een berg in de
+             Franse Alpen. Elk jaar wordt de actie
+             Alpe d’HuZes gehouden: deelnemers
+             beklimmen deze berg om zo veel
+             mogelijk geld in te zamelen voor het
+             goede doel.
+             Dit kan hardlopend, wandelend of
+             fietsend zijn.
+             In 2017 werd bij deze actie
+             10,4 miljoen euro ingezameld.
+
+3p    15     In 2017 waren er 4200 deelnemers.
+              Bereken het gemiddelde bedrag in euro dat per deelnemer werd
+                 ingezameld. Schrijf je berekening op. Rond je antwoord af op
+                 honderdtallen.
+
+3p    16     In 2016 werd er 11,1 miljoen euro ingezameld.
+              Hoeveel procent werd er in 2017 minder ingezameld dan in 2016?
+                 Schrijf je berekening op.
+
+             Het startpunt van de klim ligt in Le Bourg-d’Oisans op 799 m hoogte. Het
+             eindpunt ligt op de Alpe d’Huez op 1860 m hoogte. De weg van Le Bourg-
+             d’Oisans naar Alpe d’Huez is 13 800 m. Zie de schets hieronder.
+
+                                                                            Alpe d’Huez
+                                                                             (1860 m)
+                                                 13 800 m
+
+             Le Bourg-d’Oisans
+                  (799 m)
+
+
+4p    17     Bereken de aangegeven hellingshoek. Schrijf je berekening op.
+
+4p    18     Bij het steilste deel van de weg heeft de helling over een afstand van
+             1 km een hellingshoek van 11,5°.
+
+
+
+                                       1 km
+
+
+                          11,5°
+
+
+              Bereken, zonder te meten, hoeveel meter het hoogteverschil tussen
+               het begin en het eind van dit deel van de klim is. Schrijf je berekening
+               op.
+
+
+
+KB-0153-a-19-1-o                              7/9                              lees verder ►►►
+      Kabelbaan
+
+
+
+
+             In een speeltuin staat een kabelbaan.
+
+3p    19     Lune gaat van de kabelbaan af. In vier seconden heeft zij een afstand van
+             25 meter afgelegd.
+              Bereken haar gemiddelde snelheid in km per uur. Schrijf je berekening
+                op.
+
+             Vanaf startpunt S rolt een katrol K langs een kabel naar beneden.
+
+             Als Lune van de kabelbaan gaat, is de hoogte van de katrol K te
+             berekenen met de formule
+
+                   hoogte = 3,6 –   (0,31 tijd )
+
+             Hierin is hoogte in meters en tijd in seconden na de start.
+
+1p    20     Laat met een berekening zien dat de katrol zich na 3 seconden op een
+             hoogte van afgerond 2,6 meter bevindt.
+
+4p    21     Teken in het assenstelsel op de uitwerkbijlage de grafiek die bij de
+             formule hoort. Vul eerst de tabel in.
+
+4p    22     Aan de katrol zit een stang met onderaan een zitje. De afstand tussen het
+             zitje en de katrol is 1,75 meter.
+              Bereken na hoeveel seconden het zitje 1 meter boven de grond is.
+                  Geef je antwoord in één decimaal. Schrijf je berekening op.
+
+
+
+
+KB-0153-a-19-1-o                                    8/9                        lees verder ►►►
+      Lamp
+
+
+
+
+             Op de foto zie je een moderne lamp met een omhulsel. Het omhulsel
+             bestaat uit 8 rechte stukken koperdraad met een lengte h en 5 cirkels
+             koperdraad met een diameter d. De bovenste cirkel heeft ook nog
+             één verbindingsstuk van koperdraad met een lengte d.
+
+4p    23     Bij het omhulsel op de foto is d = 20 cm en h = 40 cm.
+              Bereken hoeveel cm koperdraad er voor het omhulsel gebruikt is.
+                 Schrijf je berekening op.
+
+             Xander gaat dit omhulsel zelf maken. Hij maakt de omtrek van de cirkels
+             50 cm.
+
+2p    24     Bereken wat de lengte van het verbindingsstuk d dan is. Schrijf je
+             berekening op.
+
+4p    25     Om te berekenen hoeveel cm koperdraad Xander nodig heeft, gebruikt hij
+             de formule
+
+                   lengte = 266 + 8h
+
+             Hierbij is h de hoogte van het omhulsel in cm en lengte de hoeveelheid
+             koperdraad die hij nodig heeft in cm.
+
+             Xander gebruikt 6 m koperdraad.
+              Hoeveel cm hoog kan het omhulsel dan maximaal worden? Laat zien
+                hoe je aan je antwoord komt. Geef je antwoord in hele cm.
+
+
+
+
+KB-0153-a-19-1-o                             9/9                                  lees verdereinde
+                                                                                               ►►► 
+
