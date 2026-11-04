@@ -1,0 +1,621 @@
+                                                                     Examen HAVO
+
+                                                                           2018
+                                                                                  tijdvak 2
+                                                                           dinsdag 19 juni
+                                                                         13.30 - 16.30 uur
+
+
+                                                                          scheikunde
+
+
+
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 38 vragen.
+Voor dit examen zijn maximaal 80 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-18-2-o
+       Bodem bedekken
+
+             In de glastuinbouw wordt de bodem soms bedekt met piepschuimbolletjes
+             (zie figuur 1). Deze bolletjes isoleren de grond en reflecteren het zonlicht,
+             waardoor planten meer licht opvangen en omzetten tot chemische energie
+             (de planten groeien).
+
+1p     1     Geef de naam van dit proces waarbij lichtenergie in planten wordt
+             omgezet tot chemische energie.
+
+             figuur 1                                                figuur 2
+
+
+
+
+               bedekken van de bodem met piepschuimbolletjes         polystyreenbolletje
+                                                                      (doorsnede)
+
+             De piepschuimbolletjes bestaan uit polystyreen waarin luchtbelletjes zijn
+             ingesloten (zie figuur 2). De structuurformule van polystyreen is in figuur 3
+             weergegeven. Polystyreen wordt gevormd door polymerisatie van het
+             monomeer styreen. De zijgroepen van polystyreen zijn niet reactief.
+
+             figuur 3
+
+                   CH       CH2    CH       CH2    CH       CH2
+                   C               C               C
+             HC        CH     HC       CH     HC       CH
+             HC      CH       HC     CH       HC     CH
+                   CH              CH              CH
+
+             Als de bodem na de oogst wordt ontsmet met stoom, schrompelen de
+             bolletjes ineen doordat het polystyreen zacht wordt en de lucht ontsnapt
+             uit de bolletjes. Polystyreen is niet biodegradeerbaar en blijft achter in de
+             bodem.
+
+2p     2     Geef de structuurformule van het monomeer styreen.
+
+
+
+
+HA-1028-a-18-2-o                                        2 / 15                    lees verder ►►►
+             Een ander soort schuimbolletjes (BioFoam®)           figuur 4
+             bestaat uit polymelkzuur. Het polymelkzuur voor
+             de schuimbolletjes wordt gevormd uit melkzuur
+             dat is verkregen door fermentatie van suikers uit
+             planten zoals suikerriet. Bij de productie van dit
+             polymeer komt netto veel minder CO2 vrij dan bij
+             de productie van dezelfde massa polystyreen.         BioFoam®-bolletje
+             Ook deze bolletjes schrompelen ineen bij het         (doorsnede)
+             ontsmetten van de grond met stoom.
+
+2p     3     Bereken hoeveel liter lucht aanwezig is in 1,00 m3 BioFoam®.
+             Neem aan dat:
+              de dichtheid van het polymelkzuur 1,24·103 kg m3 is;
+              1,00 m3 schuimbolletjes een massa heeft van 25,0 kg;
+              de massa van de schuimbolletjes uitsluitend wordt bepaald door de
+                massa van het polymelkzuur.
+
+             In figuur 5 is een deel van de structuurformule van polymelkzuur
+             weergegeven.
+
+             figuur 5
+                        O      O      O
+                   O CH C O CH C O CH C
+                     CH3      CH3        CH3
+
+             Polymelkzuur is, in tegenstelling tot polystyreen, wel biodegradeerbaar.
+             De afbraak van polymelkzuur-moleculen verloopt in stappen. Eerst
+             worden de estergroepen gehydrolyseerd. Vervolgens zetten bacteriën de
+             afbraakproducten met behulp van zuurstof om tot koolstofdioxide en
+             water.
+
+             Op de uitwerkbijlage is de vergelijking van de hydrolyse onvolledig
+             weergegeven.
+
+3p     4     Geef op de uitwerkbijlage de volledige vergelijking van de reactie waarbij
+             één esterbinding van het weergegeven deel van een molecuul
+             polymelkzuur wordt gehydrolyseerd. Geef de koolstofverbindingen in
+             structuurformules.
+
+             BioFoam® is een duurzaam alternatief voor de piepschuimbolletjes van
+             polystyreen. Het is wereldwijd de eerste schuimisolatie die het
+             cradle-to-cradle-certificaat heeft verkregen. Het cradle-to-cradle-principe
+             gaat ervan uit dat “alle stoffen steeds weer in gesloten kringlopen van
+             productie, gebruik en recycling kunnen worden opgenomen”.
+
+2p     5     Geef een argument waaruit blijkt dat deze schuimbolletjes passen bij het
+             cradle-to-cradle-principe. Licht je antwoord toe met behulp van de
+             informatie in deze opgave.
+
+
+HA-1028-a-18-2-o                               3 / 15                            lees verder ►►►
+       Bisfenol A
+
+             Bisfenol A (BFA, C15H16O2) is een veel geproduceerde stof, die onder
+             meer wordt gebruikt voor de fabricage van polycarbonaat. Polycarbonaat
+             is een harde transparante kunststof, die wordt toegepast in bijvoorbeeld
+             dvd’s en drinkwaterflesjes. De macroscopische eigenschappen van
+             polycarbonaat hangen samen met de microstructuur ervan.
+             In figuur 1 zijn de structuurformules van BFA (1a) en polycarbonaat (1b)
+             weergegeven.
+
+             figuur 1
+
+             1a         H         H           H             H         BFA
+                            C C       CH3         C C
+                   HO C           C   C       C             C OH
+                            C C         CH3       C C
+                        H         H           H             H
+
+             1b               H         H               H         H                 polycarbonaat
+                                  C C         CH3           C C             O
+                            O C         C     C         C         C O C
+                                  C C             CH3       C C                 n
+                              H         H               H         H
+
+
+2p     6     Licht toe met behulp van een kenmerk op microniveau en een eigenschap
+             op macroniveau, dat producten die bestaan uit polycarbonaat kunnen
+             worden gevormd door middel van spuitgieten.
+             Noteer je antwoord als volgt:
+              kenmerk op microniveau: …
+              eigenschap op macroniveau: …
+
+             De productie en het gebruik van BFA zijn omstreden, omdat BFA de
+             hormoonhuishouding kan verstoren. Bij de productie van BFA ontstaat
+             vervuild industrieel afvalwater. Inmiddels worden al lage concentraties
+             BFA aangetroffen in het milieu.
+             Onderzoekers hebben per toeval ontdekt dat BFA adsorbeert aan een
+             spons die bestaat uit polyurethaan.
+
+2p     7     Beschrijf welk onderzoek kan worden uitgevoerd om aan te tonen dat BFA
+             uit een oplossing aan de spons adsorbeert. Geef ook aan waaruit dat
+             blijkt.
+             Noteer je antwoord als volgt:
+              Handeling(en): …
+              Uit het experiment blijkt dat: …
+
+
+
+
+HA-1028-a-18-2-o                                    4 / 15                                  lees verder ►►►
+             De structuurformule van een polyurethaan is weergegeven in figuur 2.
+
+             figuur 2
+                                H
+                        H       C       H
+                            C       C
+                   O                      O
+                            C       C
+                   C N          C       N C O CH2 CH2 O
+                        H       H       H                   n
+
+
+             BFA is in water matig oplosbaar en verplaatst zich vanuit het water naar
+             het polyurethaan. Een van de oorzaken hiervan kan worden afgeleid uit
+             de moleculaire structuur van BFA en polyurethaan. BFA bindt door middel
+             van waterstofbruggen aan polyurethaan, maar ook op een andere manier.
+             Op de uitwerkbijlage zijn een molecuul BFA en een fragment van een
+             molecuul polyurethaan in structuurformules weergegeven.
+
+2p     8     Geef op de uitwerkbijlage weer hoe een molecuul BFA door middel van
+             twee waterstofbruggen is gebonden aan het molecuul polyurethaan. Geef
+             de waterstofbruggen weer met stippellijntjes (…..).
+
+2p     9     Licht toe aan de hand van figuur 1a en figuur 2 dat BFA zich ook op een
+             andere manier (dan door middel van waterstofbruggen) zal binden aan
+             polyurethaan.
+
+             BFA kan van de spons worden verwijderd met behulp van natronloog.
+             De reactie die daarbij optreedt, kan als volgt worden weergegeven:
+             HO-C6H4-C(CH3)2-C6H4-OH + OH– →
+                                        HO-C6H4-C(CH3)2-C6H4-O– + H2O       (reactie 1)
+
+             De geladen deeltjes die hierbij ontstaan worden BFA-ionen genoemd.
+             De spons kan na afloop opnieuw worden gebruikt.
+
+2p    10     Geef aan of reactie 1 een zuur-basereactie is. Motiveer je antwoord aan
+             de hand van formules in de vergelijking van reactie 1.
+
+             Wanneer BFA met behulp van een polyurethaan-spons uit industrieel
+             afvalwater wordt gehaald en dit BFA vervolgens met natronloog van de
+             spons wordt verwijderd, ontstaat een nieuwe oplossing. Het gehalte
+             BFA-ionen in de nieuwe oplossing kan dan hoger worden dan het gehalte
+             BFA-moleculen in het oorspronkelijke afvalwater. Het op deze manier
+             verhogen van het gehalte BFA kan bijdragen aan een groenere chemie.
+
+2p    11     Geef twee redenen waarom bij het verwijderen van BFA-moleculen van de
+             spons het gebruik van 0,1 M natronloog de voorkeur verdient boven het
+             gebruik van 0,01 M natronloog. Ga er hierbij van uit dat in beide gevallen
+             een even grote overmaat OH– ionen zal worden gebruikt.
+
+
+
+HA-1028-a-18-2-o                                 5 / 15                       lees verder ►►►
+       Kauwgombasis
+
+             De kauwgombasis is het onoplosbare deel van kauwgom dat uiteindelijk
+             wordt weggegooid. Deze basis bevat elastomeren, harsen, weekmakers
+             en emulgatoren. Elastomeren bestaan uit lange polymeerketens die met
+             elkaar zijn verbonden door enkele crosslinks. Een stukje van zo’n
+             elastomeer is schematisch weergegeven in figuur 1a. Elastomeren
+             hebben een groot elastisch vermogen, waardoor het materiaal kan
+             uitrekken (1b) en weer in zijn oorspronkelijke vorm (1c) kan terugkeren.
+             In figuur 1b en 1c zijn de crosslinks weergegeven met een ●.
+
+             figuur 1
+
+
+
+
+             polymeerketen
+                                  crosslink
+
+
+
+                             1a               1b            1c
+
+1p    12     Beschrijf welke functie de crosslinks hebben bij het uitrekken van
+             elastomeren.
+
+             Veel kauwgomsoorten bevatten het elastomeer butylrubber. Butylrubber is
+             een copolymeer, dat voor 98% bestaat uit monomeereenheden isobuteen
+             (een vertakt isomeer van buteen) en voor 2% uit monomeereenheden
+             isopreen. De isopreen-eenheden vormen de crosslinks. In figuur 2a is een
+             gedeelte van het elastomeer nogmaals weergegeven. Het omcirkelde
+             gedeelte daarin is ‘uitvergroot’ tot de structuurformule in figuur 2b. De
+             twee polymeerketens in dit gedeelte bestaan beide uit vier eenheden
+             isobuteen en zijn verbonden door middel van één isopreen-eenheid. Deze
+             isopreen-eenheid maakt deel uit van beide polymeerketens.
+
+
+
+
+HA-1028-a-18-2-o                                   6 / 15                         lees verder ►►►
+             figuur 2
+
+                                                CH3      CH3      CH3      CH3       CH3
+                                          CH2   C CH2    C     CH2 C CH2   C CH2     C
+                                                CH3      CH3               CH3       CH3
+
+                                                CH3      CH3               CH3       CH3
+                                          CH2   C CH2    C     CH2 C CH2   C CH2     C
+             polymeerketen
+                              crosslink
+                                                CH3      CH3      H        CH3       CH3
+
+
+                         2a                                       2b
+
+             Figuur 2b is ook weergegeven in de uitwerkbijlage.
+
+2p    13     Geef de structuurformule van isobuteen.
+1p    14     Omcirkel op de uitwerkbijlage de isopreen-eenheid.
+                                                                             H 3C
+             Een synthetische hars die in kauwgom vaak wordt
+                                                                            O C
+             toegepast is PVAc (polyvinylacetaat). PVAc is een
+             additiepolymeer dat is gevormd uit één soort                   H O
+             monomeer. De algemene structuurformule van PVAc                C    C
+             is hiernaast weergegeven.                                      H H      n
+
+2p    15     Bereken uit hoeveel monomeereenheden een PVAc-molecuul in kauwgom
+             gemiddeld is opgebouwd. Neem aan dat de massa van een
+             PVAc-molecuul in kauwgom gemiddeld 1,7·103 u is.
+
+             Weekmakers worden aan kauwgom toegevoegd om deze beter
+             vervormbaar te maken tijdens het kauwen. Een veel gebruikte weekmaker
+             in kauwgom is paraffine. Paraffine is een mengsel van alkanen met
+             koolstofketens die in lengte variëren van 22 tot 27 koolstofatomen.
+             Paraffinemoleculen nestelen zich tussen polymeerketens en verzwakken
+             zo een bepaald soort binding tussen de polymeerketens.
+
+3p    16     Leg uit waarom door toevoeging van paraffine de kauwgom beter
+             vervormbaar wordt. Gebruik in je antwoord begrippen op microniveau en
+             de naam van het type binding dat verzwakt wordt.
+
+             Kauwgom die op straat wordt uitgespuugd, kan daar wel 20 tot 50 jaar
+             blijven liggen.
+
+2p    17     Beredeneer waarom de kauwgombasis niet snel zal worden afgebroken.
+             Baseer je antwoord op figuur 2.
+
+
+
+
+HA-1028-a-18-2-o                                7 / 15                           lees verder ►►►
+       Sake 酒
+
+             Sake is een traditionele alcoholische drank uit Japan. Deze drank wordt
+             gemaakt uit rijst. Rijst bestaat voornamelijk uit zetmeel, een polysacharide
+             die uitsluitend is opgebouwd uit glucose-eenheden. Ook bevat rijst enkele
+             eiwitten. Voor de productie van sake worden gestoomde rijst, gist, water
+             en koji-schimmel samengebracht in een tank. Koji-schimmel produceert
+             enzymen die zetmeel omzetten tot glucose en enzymen die eiwitten
+             afbreken tot aminozuren. Gist zet de door de koji-schimmel
+             geproduceerde glucose om tot ethanol en koolstofdioxide.
+
+2p    18     Geef de vergelijking van deze reactie waarbij glucose wordt omgezet.
+
+             Hieronder is een gedeelte van een rijsteiwitmolecuul weergegeven.
+
+                    ~ Met – Ala – Pro ~
+4p    19     Geef dit gedeelte weer in structuurformule.
+
+             De kwaliteit van de geproduceerde sake in de tank wordt nauwlettend
+             gevolgd en bewaakt. Dit gebeurt onder andere door regelmatig het
+             zuurgehalte te bepalen. Zuren geven sake een volle smaak. Het
+             zuurgehalte wordt uitgedrukt in gram barnsteenzuur (C4H6O4) per 100 mL
+             sake en wordt volgens een voorgeschreven methode bepaald:
+             aan 10,0 mL sake uit de tank wordt een aantal druppels van een
+             geschikte indicator toegevoegd, waarna een titratie wordt uitgevoerd met
+             0,100 M natronloog.
+             Van een bepaalde sake wordt het zuurgehalte bepaald. Bij deze bepaling
+             is 1,32 mL natronloog nodig om met de zuren in 10,0 mL sake te
+             reageren. Het zuurgehalte van deze sake kan vervolgens worden
+             berekend met behulp van de volgende reactievergelijking:
+
+             C4H6O4 + 2 OH– → C4H4O42– + 2 H2O
+
+4p    20     Bereken het zuurgehalte van deze sake in gram barnsteenzuur per
+             100 mL sake. De molaire massa van barnsteenzuur is 118,1 g mol–1.
+
+             De pH van deze sake is 4,5.
+
+2p    21     Bereken [H+] in mol L–1 in deze sake.
+
+             Veel soorten sake bevatten de natuurlijke geurstof ethylcaproaat.
+             Ethylcaproaat is de ester van hexaanzuur en ethanol.
+
+3p    22     Geef de structuurformule van ethylcaproaat.
+
+
+
+
+HA-1028-a-18-2-o                             8 / 15                              lees verder ►►►
+       Solar-Jet
+
+             Onderzoekers van het Europese onderzoeksproject
+             Solar-Jet zijn erin geslaagd om met behulp van
+             kunstmatig zonlicht koolstofdioxide en water om te
+             zetten tot syngas. Syngas is een mengsel van de
+             gassen CO en H2. Vervolgens is het syngas met
+             behulp van een katalysator omgezet tot kerosine.
+             Kerosine is een vliegtuigbrandstof die voornamelijk
+             bestaat uit koolwaterstoffen met 6 tot 16 koolstofatomen.
+
+2p    23     Geef de vergelijking van de reactie waarbij CO en H2 worden omgezet tot
+             de koolwaterstof C12H26 en water.
+
+             Het doel van het Solar-Jet-project is het ontwikkelen van een proces
+             waarbij op duurzame wijze vliegtuigbrandstof kan worden gemaakt met
+             behulp van zonlicht. Dit is in figuur 1 schematisch weergegeven.
+
+             figuur 1
+
+
+                                               zonlicht                   O2                        CO2 H2O
+                      lucht
+
+                                                                 syngas        syngas reactor kerosine
+                   H2O    CO2
+
+
+                                                  CO2/H2O                                                O2
+                   CO2/H2O      CO2/H2O     zonlicht       syngas      gas          kerosine         ver-
+                   invangen      opslag   concentreren    productie   opslag        productie      branding
+
+
+             Bij de verbranding van koolwaterstoffen ontstaat koolstofdioxide. De
+             uitstoot van koolstofdioxide heeft een ongewenst effect op het klimaat.
+
+1p    24     Geef de naam van dit ongewenste effect.
+2p    25     Leg uit dat het gebruik van Solar-Jet-kerosine niet bijdraagt aan dit
+             ongewenste effect.
+
+
+
+
+HA-1028-a-18-2-o                                    9 / 15                                        lees verder ►►►
+             Syngas kan worden geproduceerd door een mengsel van koolstofdioxide
+             en water sterk te verhitten en vervolgens snel af te koelen. De reactie die
+             hierbij verloopt is hieronder weergegeven. Dit is echter geen veilige
+             methode, omdat een gevaarlijk gasmengsel ontstaat.
+
+             CO2 (g) + H2O (l) → CO (g) + H2 (g) + O2 (g)
+
+3p    26     Bereken de reactiewarmte in J voor de vorming van een mol CO (bij
+             T = 298 K en p = p0) volgens bovenstaande vergelijking. Maak hierbij
+             gebruik van Binas-tabel 57 of ScienceData-tabel 9.2.
+
+2p    27     Leg uit waarom het gevormde gasmengsel gevaarlijker is dan syngas, en
+             vermeld daarbij welk extra gevaar daardoor kan ontstaan.
+
+             De onderzoekers van het Solar-Jet-project hebben een veilige methode
+             ontwikkeld waarbij het syngas in twee stappen wordt gemaakt met behulp
+             van een speciale reactor. In figuur 2 is een dwarsdoorsnede van deze
+             reactor weergegeven. De reactor is zo ontworpen dat 94% van de
+             lichtenergie wordt geleid naar een reactieruimte die bekleed is met poreus
+             cerium(IV)oxide (CeO2).
+
+             figuur 2
+
+
+
+
+             stap 1: De reactiekamer wordt met kunstmatig zonlicht verhit tot 1600 °C.
+             Hierdoor treedt een redoxreactie op, waarbij een deel van de
+             cerium(IV)ionen wordt omgezet tot cerium(III)ionen en een deel van de
+             oxide-ionen tot zuurstofmoleculen. Deze reactie is endotherm en kan
+             worden weergegeven met de vergelijking:
+
+             4 CeO2 → 2 Ce2O3 + O2                                           (reactie 1)
+
+             De vrijgekomen zuurstof wordt met argon uit de reactor verdreven.
+
+
+HA-1028-a-18-2-o                             10 / 15                            lees verder ►►►
+             stap 2: De reactor wordt gekoeld tot 900°C en gevuld met een mengsel
+             van koolstofdioxide en water. Dit mengsel reageert exotherm met
+             cerium(III)oxide (Ce2O3) tot syngas en cerium(IV)oxide (CeO2). Het
+             syngas wordt afgetapt, waarna stap 1 weer kan plaatsvinden.
+
+2p    28     Geef aan of de oxide-ionen die bij reactie 1 (stap 1) betrokken zijn,
+             reageren als oxidator of als reductor. Motiveer je antwoord.
+
+3p    29     Geef de vergelijking van de reactie die optreedt tijdens stap 2. Neem aan
+             dat CO en H2 ontstaan in de molverhouding 1:1.
+
+             Door het Solar-Jet-proces wordt lichtenergie opgeslagen als chemische
+             energie in de vorm van syngas. Dit proces is in figuur 3 schematisch in
+             één energiediagram weergegeven.
+
+             figuur 3
+
+             energie                   geactiveerde
+                                       toestand
+                                                                         geactiveerde
+                                                                         toestand
+                                                      reactieproducten
+                                                      van stap 1                   reactieproducten
+                                                                                   van stap 2
+
+                       beginstoffen
+
+
+                                      stap 1                                   stap 2
+
+             Uit figuur 3 blijkt dat het energieniveau van de stoffen na stap 2 tussen
+             het energieniveau van de stoffen na stap 1, en het energieniveau van de
+             beginstoffen in ligt.
+
+2p    30     Licht de onderlinge ligging van deze energieniveaus toe met behulp van
+             de beschrijving van het Solar-Jet-proces.
+             Noteer je antwoord als volgt:
+             Het energieniveau van de reactieproducten van stap 2 ligt:
+              lager dan het energieniveau van de reactieproducten van stap 1
+                 omdat: …
+              en hoger dan het energieniveau van de beginstoffen omdat:…
+
+
+
+
+HA-1028-a-18-2-o                                      11 / 15                                  lees verder ►►►
+             De onderzoekers hebben verschillende soorten poreus cerium( IV)oxide
+             getest. Een bepaalde soort cerium(IV)oxide (soort X) is zowel poreus op
+             millimeterschaal (figuur 4a) als op micrometerschaal (de uitsnede in
+             figuur 4b). Een andere soort cerium(IV)oxide (soort Y) is alleen poreus op
+             millimeterschaal.
+
+             figuur 4
+
+
+
+
+                           4a                                  4b
+
+             Wanneer soort X wordt gebruikt, is de reactiesnelheid tijdens stap 2 veel
+             hoger dan wanneer soort Y wordt gebruikt.
+
+2p    31     Leg uit aan de hand van het botsende-deeltjes-model waarom de
+             reactiesnelheid van stap 2 bij gebruik van soort X hoger is.
+
+2p    32     Geef aan of cerium(IV)oxide in figuur 4b op microniveau is weergegeven.
+             Licht je antwoord toe.
+
+             De onderzoekers hebben berekend dat bij hun onderzoek slechts 1,7%
+             van de zonne-energie is vastgelegd in de chemische energie van syngas.
+             Dit lijkt erg weinig, maar de onderzoekers beweren dat de opbrengst van
+             het Solar-Jet-proces verhoogd kan worden door terugdringen van het
+             energieverlies.
+
+2p    33     Geef twee maatregelen die het energieverlies in het Solar-Jet-proces
+             kunnen beperken.
+
+
+
+
+HA-1028-a-18-2-o                            12 / 15                           lees verder ►►►
+                   Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-18-2-o            13 / 15                   lees verder ►►►
+       Natriumhydride
+
+             Natriumhydride (NaH) is een wit zout dat bestaat uit natriumionen en
+             hydride-ionen (H–). Deze stof kan industrieel worden ingezet als sterke
+             base en als reductor. De stof kan spontaan ontbranden aan de lucht, en
+             wordt daarom in olie bewaard.
+
+2p    34     Geef het aantal protonen en elektronen in het hydride-ion.
+             Noteer je antwoord als volgt:
+             aantal protonen: …
+             aantal elektronen: …
+
+             De productie van natriumhydride uit methanol (CH3OH), water en
+             natriumchloride is schematisch weergegeven in blokschema 1.
+
+             blokschema 1
+                             NaCl
+                                        II                Cl 2
+
+                                             Na
+                              olie
+                                       III
+
+                                     olie Na
+             CH3OH                                NaH
+                             H2
+                        I              IV
+                                                  olie
+                 H2O
+
+                       CO2
+
+             Samengevat verloopt dit productieproces als volgt:
+              In ruimte I wordt waterstof geproduceerd uit methanol en stoom,
+               volgens de volgende vergelijking:
+                   CH3OH + H2O → 3 H2 + CO2
+                  In ruimte II vindt een elektrolyse plaats. Hierbij worden natrium en
+                   chloorgas gevormd uit vloeibaar natriumchloride.
+                   2 NaCl (l) → 2 Na (l) + Cl2 (g)
+              In ruimte III wordt het gevormde natrium gemengd met olie. Hierbij
+                   ontstaat een suspensie van natrium in olie.
+                   In ruimte IV wordt waterstofgas in de suspensie van natrium in olie
+                   geleid. Hierbij ontstaat natriumhydride volgens:
+
+                   2 Na + H2 → 2 NaH
+
+
+
+
+HA-1028-a-18-2-o                                         14 / 15                  lees verder ►►►
+2p    35     Bereken de atoomeconomie voor de vorming van waterstof volgens de
+             reactie in ruimte I. Maak gebruik van Binas-tabel 37H of
+             ScienceData-tabel 1.7.7.
+
+2p    36     Leg uit waarom natriumchloride als vloeistof (en niet als vaste stof)
+             aanwezig moet zijn om het proces in ruimte II te kunnen laten
+             plaatsvinden.
+
+             De reactie in ruimte II is verantwoordelijk voor meer dan de helft van de
+             energiebehoefte van het gehele productieproces. Uit de beschrijving van
+             het proces in ruimte II zijn twee gegevens te halen waaruit blijkt dat voor
+             deze reactie energie nodig is.
+
+2p    37     Geef deze twee gegevens en vermeld daarbij welke soort energie wordt
+             gebruikt.
+
+             In ruimte III wordt een suspensie gemaakt. De vloeistof in deze suspensie
+             is olie. Vanwege een bepaalde stofeigenschap van natrium kon hiervoor
+             geen water worden gebruikt.
+
+1p    38     Geef deze stofeigenschap.
+
+
+
+
+HA-1028-a-18-2-o                             15 / 15                            lees verdereinde
+                                                                                             ►►► 
+

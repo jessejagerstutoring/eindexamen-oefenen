@@ -1,0 +1,569 @@
+                                                                  Examen HAVO
+
+                                                                        2025
+                                                                               tijdvak 2
+                                                                        dinsdag 17 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-25-2-o
+      Muzikale schelp
+
+            Wetenschappers hebben een schelp gevonden van 18 duizend jaar oud
+            die vermoedelijk als blaasinstrument is gebruikt. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Een ervaren muzikant slaagde erin om diverse tonen op de schelp te
+            spelen. Van een van die tonen is een oscillogram gemaakt. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+3p    1     Bepaal met behulp van figuur 2 de laagste frequentie van deze toon.
+            Noteer je antwoord in drie significante cijfers.
+
+
+
+
+HA-1023-a-25-2-o                           2 / 20                           lees verder ►►►
+            Tijdens het spelen ontstaan staande golven in de schelp. De schelp kan
+            voor de grondtoon worden opgevat als een (spiraalvormige) luchtkolom
+            met twee buiken B bij de open uiteinden en een knoop K in het midden.
+            Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            De grondtoon van de schelp heeft een frequentie van 2,8·102 Hz.
+            De omgevingstemperatuur is 20 °C.
+
+3p    2     Bereken de lengte van de luchtkolom.
+
+            De muzikant maakt de opening aan het uiteinde van de schelp dicht en
+            hoort een andere grondtoon.
+3p    3     Leg uit met behulp van een schets met knopen (K) en buiken (B) of deze
+            grondtoon hoger of lager is.
+
+
+
+
+HA-1023-a-25-2-o                           3 / 20                             lees verder ►►►
+      Veilig ontsnappen
+
+            Als er brand uitbreekt in een windmolen tijdens het onderhoud, moeten
+            monteurs de windmolen zo snel mogelijk kunnen verlaten.
+
+            figuur 1
+
+
+
+
+            Daarom zijn er twee belangrijke ontwerpeisen:
+
+                   I. De windmolen moet via de buitenkant verlaten kunnen worden.
+                   II. Het landen op de grond moet met een veilige vertraging gebeuren.
+
+
+
+
+HA-1023-a-25-2-o                              4 / 20                          lees verder ►►►
+            Basejumpen is een manier om te ontsnappen. Basejumpen is
+            parachutespringen van lage hoogte, zoals van een gebouw. Na een korte
+            vrije val opent de parachute. In figuur 2 zijn vier diagrammen
+            weergegeven waarin de afgelegde afstand s is uitgezet tegen de tijd t.
+
+            figuur 2
+
+
+
+
+1p    4     Welk diagram komt het best overeen met het (s,t)-diagram van een
+            basejump?
+
+            A      diagram I
+            B      diagram II
+            C      diagram III
+            D      diagram IV
+
+
+
+
+HA-1023-a-25-2-o                          5 / 20                          lees verder ►►►
+            Tijdens een test van een basejump is een (v,t)-grafiek gemaakt van
+            afsprong tot landing. Zie figuur 3. De test was van een hoogte van 36 m.
+
+            figuur 3
+
+
+
+
+            Figuur 3 staat ook op de uitwerkbijlage. Een menselijk lichaam kan veilig
+            blootgesteld worden aan een versnelling van maximaal 60 m s─2 direct na
+            het openen van de parachute.
+3p    5     Toon met een bepaling aan of de maximale versnelling direct na het
+            openen van de parachute aan deze veiligheidseis voldoet. Laat in de
+            figuur zien hoe je aan je antwoord komt.
+
+
+
+
+HA-1023-a-25-2-o                           6 / 20                            lees verder ►►►
+            Een basejump kan gevaarlijk zijn. Daarom is er ook een systeem
+            ontwikkeld om met een constante snelheid af te dalen aan een staalkabel.
+            Om deze snelheid constant te houden, wordt er continu geremd door een
+            remsysteem met een remschijf. Dit remsysteem is boven in de windmolen
+            bevestigd. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            Aan het remsysteem is een aantal aanvullende ontwerpeisen gesteld:
+
+                   III. Er moet 280 kg (twee monteurs met uitrusting samen) aan één
+                        kabel kunnen afdalen.
+                   IV Tijdens gebruik mag de temperatuur van de remschijf door
+                        wrijvingswarmte maximaal 600 °C worden bij een
+                        omgevingstemperatuur van 50 °C.
+                   V. Het systeem kan gebruikt worden tot 150 m hoogte.
+
+            Het systeem gebruikt een remschijf die tijdens de afdaling wrijving
+            ondervindt en opwarmt. De remschijf mag tijdens gebruik niet oververhit
+            raken, want dan verliest hij zijn werking. De remschijf is gemaakt van
+            ijzer. Tijdens de afdaling wordt 85% van de wrijvingswarmte opgenomen
+            door de remschijf.
+5p    6     Bereken de minimale massa van de remschijf. Noteer je antwoord in het
+            juiste aantal significante cijfers.
+
+            Bij een veilige landing mag de vertraging niet groter zijn dan 10 m s–2.
+            Een monteur met gereedschap heeft een massa van 140 kg. Tijdens de
+            landing wordt deze massa over een afstand van 20 cm afgeremd doordat
+            de monteur de knieën buigt.
+4p    7     Voer de volgende opdrachten uit:
+             Bereken de maximale resulterende kracht tijdens een veilige landing.
+             Bereken met de wet van arbeid en kinetische energie de maximale
+                snelheid waarmee het systeem de monteur veilig kan laten landen.
+
+
+
+HA-1023-a-25-2-o                              7 / 20                          lees verder ►►►
+      Uraniumkubus
+
+            In 2013 werd een kubus van uranium met een mysterieus briefje
+            afgeleverd bij de Universiteit van Maryland. Zie figuren 1 en 2. Op het
+            briefje stond ‘Afkomstig uit een kernreactor die Hitler probeerde te
+            bouwen.’
+
+            figuur 1                         figuur 2
+
+
+
+
+            De universiteit kreeg meer identieke blokjes. Om te achterhalen of de
+            stelling op het briefje waar was, zijn onderzoekers later verschillende
+            metingen gaan uitvoeren.
+            De onderzoekers wilden nagaan:
+             of het blokje uit puur uranium (uraan) bestaat.
+             of er in dit blokje kernsplijting heeft plaatsgevonden.
+             of dit blokje uranium rond 1945 geproduceerd kan zijn.
+
+            De massa van de massieve kubus is 2,27 kg en de zijden hebben een
+            lengte van 5,08 cm.
+3p    8     Ga met een berekening na of de kubus uit puur uranium (uraan) bestaat.
+
+            Als uranium in een kernreactor gebruikt wordt, vindt een proces genaamd
+            kernsplijting plaats. Bij deze kernsplijting ontstaat onder andere het
+            radioactieve Cs-137. De onderzoekers willen dus weten of er Cs-137 in de
+            kubus aanwezig is.
+
+            Als Cs-137 vervalt, komt daarbij ook gammastraling vrij.
+3p    9     Geef de volledige vergelijking van de vervalreactie van Cs-137.
+
+
+
+
+HA-1023-a-25-2-o                            8 / 20                            lees verder ►►►
+            De gammafotonen die vrijkomen bij verval van Cs-137 hebben een
+            golflengte van 1,875 1012 m .
+
+            Om te bepalen of er Cs-137 in de kubus aanwezig is, hebben de
+            onderzoekers gemeten hoeveel gammafotonen de kubus uitzendt bij
+            verschillende foton-energieën. Het resultaat hiervan staat in figuur 3.
+
+            figuur 3
+
+
+
+
+            Hun conclusie na het bestuderen van figuur 3 was dat er geen Cs-137
+            aanwezig is in de kubus.
+3p    10    Toon dat aan met een berekening en figuur 3.
+
+            De afwezigheid van Cs-137 in de kubus heeft twee mogelijke
+            verklaringen:
+            I Alle Cs-137-atomen zijn vervallen sinds de mogelijke productie in 1945.
+            II De kubus is niet gebruikt voor kernsplijting.
+
+2p    11    Leg uit waarom verklaring I niet kan kloppen.
+
+
+
+
+HA-1023-a-25-2-o                             9 / 20                            lees verder ►►►
+            Omdat er van nature een kleine hoeveelheid U-234 aanwezig is in
+            uranium, konden de onderzoekers dit gebruiken om de leeftijd van de
+            kubus te bepalen. Dat deden ze door het verloop van de hoeveelheid
+            U-234 en het vervalproduct Th-230 sinds de productie van het
+            uraniumblokje te modelleren. Het model gaat ervan uit dat Th-230 alleen
+            afkomstig is vanuit het verval van U-234. In figuur 4 is het resultaat te
+            zien. Op de verticale as staat de verhouding tussen het aantal kernen van
+            Th-230 en van U-234. Op de horizontale as staat de tijd sinds de
+            productie van het uraniumblokje.
+
+            figuur 4
+
+
+
+
+            Voor het model zijn de onderzoekers uitgegaan van de volgende
+            aannames:
+
+            1      U-234 is instabiel.
+            2      Bij de productie van het blokje was de hoeveelheid Th-230
+                   verwaarloosbaar.
+            3      De halveringstijd van Th-230 is kleiner dan die van U-234.
+
+            Op de uitwerkbijlage staat een tabel met enkele waarnemingen over de
+            grafiek in figuur 4.
+            Bij elke waarneming hoort een van de aannames (1, 2 of 3).
+1p    12    Vul in de tabel op de uitwerkbijlage bij iedere waarneming het nummer in
+            van de aanname die erbij past.
+
+
+
+
+HA-1023-a-25-2-o                              10 / 20                           lees verder ►►►
+            Om te bepalen of de uraniumkubus in 1945 is geproduceerd, werd
+            ingezoomd op de eerste honderd jaar in het diagram. Zie figuur 5.
+
+            figuur 5
+
+
+
+
+            Om de vraag te beantwoorden of het blokje uit 1945 dateert, hebben de
+            onderzoekers in 2020 de hoeveelheid Th-230-atomen bepaald. Hierbij
+            gingen ze uit van de volgende gegevens:
+
+             0,0055% van de massa van het blokje bestaat uit
+              U-234-atomen.
+             Het aantal U-234-atomen in het blokje blijft gedurende de eerste
+              100 jaar bij benadering gelijk.
+
+            Het blokje heeft een massa van 2, 27 kg.
+5p    13    Bepaal het aantal Th-230-atomen dat de onderzoekers volgens het model
+            zouden meten als de kubus echt in 1945 is geproduceerd. Noteer je
+            antwoord in twee significante cijfers.
+
+
+
+
+HA-1023-a-25-2-o                           11 / 20                          lees verder ►►►
+      Verwarmde inlegzolen
+
+            Verwarmde inlegzolen zijn elektrisch verwarmde zolen die bij koud weer
+            in wandelschoenen gebruikt worden tegen koude voeten. Zie figuur 1. In
+            de figuur zijn vier plekken aangegeven met I, II, III en IV.
+
+            figuur 1
+
+
+
+
+            In figuren 2 en 3 is het temperatuurverloop gegeven van de binnenkant
+            van de voet tot buiten de schoenzool. In figuur 2 is het elektrisch
+            verwarmingselement uitgeschakeld. Als de inlegzool ingeschakeld is,
+            wordt na verloop van tijd een nieuw evenwicht bereikt. Zie figuur 3. Alle
+            warmte die de inlegzool produceert, verdwijnt dan door geleiding via de
+            zool naar buiten.
+
+            De plekken I, II, III en IV staan op de horizontale as aangegeven. Het
+            materiaal van de inlegzool en schoenzool is in beide situaties hetzelfde.
+
+            figuur 2                                  figuur 3
+
+
+
+
+            Op de uitwerkbijlage staan vier uitspraken waarin de situatie met
+            uitgeschakelde inlegzool vergeleken wordt met de situatie met
+            ingeschakelde inlegzool.
+3p    14    Geef per uitspraak met een kruisje aan of deze juist of onjuist is.
+
+
+HA-1023-a-25-2-o                            12 / 20                               lees verder ►►►
+            Maryam maakt zelf verwarmde inlegzolen. Ze wil dat de binnenkant van
+                                                                             
+            de schoenzool minimaal 30 C is als het onder de schoenzool 5 C is.
+            Een wandelschoenzool is gemaakt van rubber en heeft een dikte van
+            1,8 cm. Maryam heeft een schatting gemaakt van de oppervlakte van de
+            inlegzool. Ze heeft hiermee berekend dat het vermogen per inlegzool 5 W
+            moet zijn.
+5p    15    Voer de volgende opdrachten uit:
+             Bereken de oppervlakte van de inlegzool die Maryam geschat heeft.
+             Leg uit of Maryam een realistische waarde geschat heeft.
+
+            Maryam gebruikt carbontape als elektrische weerstand. Deze tape zet
+            elektrische energie om in warmte. Het materiaal waar de tape van
+            gemaakt is, heeft een soortelijke weerstand van 1,65 104 m. Ze heeft
+            de keuze tussen tape van 15 mm breed en tape van 32 mm breed. De
+            tape is 0,6 mm dik. Ze wil voor haar ontwerp dat een stuk tape van 30 cm
+            een weerstand van 5,5 Ω heeft.
+3p    16    Toon met een berekening aan of Maryam voor de smalle of de brede tape
+            moet kiezen.
+
+            Maryam gebruikt twee dezelfde stukken tape om een schakeling te maken
+            voor een schoenzool. Ze kan deze twee stukken draad op twee
+            verschillende manieren aansluiten op de batterij. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            Op de uitwerkbijlage staan zinnen over deze schakelingen.
+3p    17    Omcirkel in iedere zin het juiste antwoord.
+
+            Per zool gebruikt ze een batterij van 3,7 V met een capaciteit van 3,4 Ah.
+            Het vermogen van een inlegzool is 5,0 W. Maryam wil dat de inlegzool
+            minstens 2,0 uur te gebruiken is met deze batterij.
+3p    18    Toon met een berekening aan of de batterij voldoende capaciteit heeft.
+
+
+
+
+HA-1023-a-25-2-o                            13 / 20                          lees verder ►►►
+      Vloeibare telescoop
+
+            Met een telescoop kan elektromagnetische straling uit het heelal worden
+            bestudeerd. Om geen last van absorptie van de atmosfeer te hebben, had
+            de NASA ooit het plan om een telescoop op de maan te bouwen.
+
+            De telescoop zou bestaan uit een grote bak vloeistof die ronddraait.
+            Hierdoor ontstaat een hol vloeistofoppervlak dat in een telescoop als
+            spiegel gebruikt kan worden. In figuur 1 staat een zijaanzicht van de bak
+            wanneer die stil staat. In figuur 2 staat een zijaanzicht van de bak
+            wanneer die draait.
+
+            figuur 1                                  figuur 2
+
+
+
+
+            De NASA heeft deze telescoop nooit gebouwd, maar studenten doen er
+            wel onderzoek naar.
+            De studenten experimenteren met een draaiende waterbak. Zie figuur 3
+            en het bovenaanzicht in figuur 4. Deze doorzichtige waterbak is heel smal
+            en laat zo een dwarsdoorsnede van de vloeistof zien. Op de waterbak zijn
+            twee punten I en II gemarkeerd. Punt II zit twee keer zo ver van de
+            draaias als punt I.
+
+            figuur 3                                             figuur 4
+
+
+
+
+2p    19    Omcirkel op de uitwerkbijlage in iedere tabel het juiste antwoord.
+
+
+
+
+HA-1023-a-25-2-o                            14 / 20                              lees verder ►►►
+            De studenten onderzoeken het verband tussen de baansnelheid v (zie
+            figuur 4) en de hoek  die het water maakt met de horizontaal tijdens het
+            draaien. Ze kijken daarbij naar het wateroppervlak in punt I en ze variëren
+            de omlooptijd T van de bak. Ze meten de waarde van hoek  bij
+            verschillende T. Zie figuur 5. Punt I staat hierin aangegeven.
+
+            figuur 5
+
+
+
+
+            In figuur 6 staan alle resultaten van de studenten.
+
+            figuur 6
+
+
+
+
+            Punt I bevindt zich op 6,0 cm afstand van de draai-as. Figuren 5 en 6 staan
+            ook op de uitwerkbijlage.
+4p    20    Bepaal met behulp van de figuren op de uitwerkbijlage bij welke
+            baansnelheid v figuur 5 is gemaakt. Noteer je antwoord in twee
+            significante cijfers.
+
+
+
+
+HA-1023-a-25-2-o                            15 / 20                           lees verder ►►►
+            In het NASA-plan lezen de studenten over het volgende verband tussen
+            hoek  en de baansnelheid v :
+                     v2
+             tan                              (1)
+                     rg
+
+            Hierin is:
+             v de baansnelheid van de vloeistof in een deel van de spiegel
+                         1
+                   (in ms );
+                  r de baanstraal van het punt op de spiegel (in m);
+                  g de valversnelling (in ms2 ).
+
+            Om op de maan dezelfde spiegel te maken als op de aarde is een andere
+            baansnelheid nodig voor punt I op de spiegel.
+            Bob denkt dat er op de maan een kleinere baansnelheid nodig is.
+            Roel denkt dat er op de maan juist een grotere baansnelheid nodig is.
+2p    21    Leg uit met behulp van formule (1) wie er gelijk heeft.
+
+
+
+
+HA-1023-a-25-2-o                               16 / 20                        lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1023-a-25-2-o                       17 / 20   lees verder ►►►
+      Beugel
+
+            Met een beugel kan de stand van tanden aangepast worden. Langs de
+            tanden wordt een draad gespannen die via een slotje tegen de tanden
+            drukt. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Op de uitwerkbijlage is een kaak met een beugel schematisch
+            weergegeven.
+
+            De spankracht Fspan in de draad zorgt voor een kracht Ftand op tand P.
+            Hierdoor beweegt tand P langzaam in de richting van Ftand. Hoek α wordt
+            dan kleiner. Tijdens het verplaatsen van tand P wordt Fspan in de draad
+            gelijk gehouden door de draad steeds iets verder in te korten.
+
+            Op het moment dat de beugel geplaatst wordt is Ftand = 13 N.
+5p    22    Voer de volgende opdrachten uit:
+             Bepaal de grootte van de spankracht Fspan met behulp van een
+               constructie op de uitwerkbijlage. Noteer je antwoord in twee
+               significante cijfers.
+             Geef aan of kracht Ftand op de tand groter wordt, kleiner wordt of gelijk
+               blijft als de tand naar binnen beweegt.
+
+
+
+
+HA-1023-a-25-2-o                            18 / 20                           lees verder ►►►
+            Een beugel wordt ook gebruikt om de stand van de kaak aan te passen.
+            Om ervoor te zorgen dat de boven- en onderkaak goed op elkaar
+            aansluiten, worden de boven- en onderkaak door elastiekjes met elkaar
+            verbonden. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Door een elastiekje wordt een kracht Felastiek uitgeoefend op de onderkaak.
+            Op de uitwerkbijlage is deze kracht getekend. Het elastiekje zorgt voor
+            een moment zodat de kaak na verloop van tijd een stukje om draaipunt D
+            gaat draaien.
+
+            Na het aanbrengen van het elastiekje oefent het een moment uit. De kaak
+            oefent een tegengesteld moment uit van 37  10 3 N m. Er is
+            momentenevenwicht. Er kan uit verschillende elastiekjes worden gekozen.
+            In de tabel in figuur 3 is voor vier elastiekjes de spankracht gegeven die
+            ze op de kaak kunnen uitoefenen.
+
+            figuur 3
+                   elastiekje   F (N)
+                   1            0,8
+                   2            1,2
+                   3            1,4
+                   4            1,8
+
+            Figuur 2 staat op ware grootte op de uitwerkbijlage.
+3p    23    Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage de arm van kracht Felastiek.
+             Bepaal met behulp van de figuur 3 welk elastiekje gebruikt moet
+               worden.
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+HA-1023-a-25-2-o                            19 / 20                           lees verder ►►►
+            Bij een bepaalde beugel worden op twee plekken elastiekjes geplaatst: één
+            bij de voortanden en één bij de kiezen. Er kan gekozen worden uit
+            verschillende elastiekjes. In figuur 4 staat het (F,u)-diagram van drie
+            verschillende elastiekjes.
+
+            figuur 4
+
+
+
+
+            Elastiekje II wordt bij de voortanden gebruikt. Een ander elastiekje komt
+            bij de kiezen achter in de mond. Zie figuur 5.
+            figuur 5
+
+
+
+
+            Beide elastiekjes moeten dezelfde kracht uitoefenen als de mond wordt
+            geopend.
+3p    24    Omcirkel op de uitwerkbijlage in iedere zin het juiste antwoord.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-25-2-o                                         20 / 20                                          lees verdereinde
+                                                                                                                       ►►► 
+

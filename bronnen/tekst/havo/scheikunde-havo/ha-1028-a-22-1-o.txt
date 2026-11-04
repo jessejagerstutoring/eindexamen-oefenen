@@ -1,0 +1,590 @@
+                                                                  Examen HAVO
+
+                                                                        2022
+                                                                               tijdvak 1
+                                                                      maandag 23 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+ Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+ Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+ Dit examen bestaat uit 37 vragen.
+ Voor dit examen zijn maximaal 77 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-22-1-o
+      Hexaan uit cellulose
+
+            Wereldwijd is er een toenemende aandacht voor het maken van
+            biobrandstoffen uit biomassa. Gelet op duurzaamheid verdient het
+            verbranden van biobrandstoffen de voorkeur boven het verbranden van
+            fossiele brandstoffen. Zo draagt bijvoorbeeld het verbranden van fossiele
+            brandstoffen meer bij aan het versterkt broeikaseffect dan het verbranden
+            van biobrandstoffen.
+
+2p    1     Leg uit dat het verbranden van fossiele brandstoffen een grotere bijdrage
+            levert aan het versterkt broeikaseffect dan het verbranden van
+            biobrandstoffen.
+
+            Biomassa bestaat voor een groot deel uit cellulose. Onderzoekers hebben
+            ontdekt dat cellulose kan worden omgezet tot hexaan. Dit experiment is
+            vereenvoudigd weergegeven in figuur 1. Een kleine reactor werd gevuld
+            met water, dodecaan (C12H26), cellulose, twee verschillende katalysatoren
+            en waterstof (figuur 1a). Het reactiemengsel werd vervolgens gedurende
+            een aantal uren verwarmd, terwijl het krachtig werd geroerd (figuur 1b).
+            Na het experiment werd het reactiemengsel geanalyseerd.
+
+            figuur 1
+
+
+
+
+            Tijdens het experiment wordt eerst cellulose gehydrolyseerd tot glucose.
+            Vervolgens wordt glucose door een reactie met waterstof omgezet tot
+            hexaan (C6H14) en water. Na de reactie mengt het gevormde hexaan zich
+            met de laag dodecaan (zie figuur 1c).
+
+            Cellulose is een polysacharide die uitsluitend is opgebouwd uit
+            glucose-eenheden. Op de uitwerkbijlage is de vergelijking van de
+            hydrolyse van het uiteinde van een cellulosemolecuul onvolledig
+            weergegeven.
+
+3p    2     Maak op de uitwerkbijlage de reactievergelijking compleet van de
+            hydrolyse van het uiteinde van het gegeven cellulosemolecuul.
+             Laat hierbij twee losse moleculen glucose afsplitsen.
+             Gebruik structuurformules.
+
+
+HA-1028-a-22-1-o                            2 / 18                             lees verder ►►►
+3p    3     Geef de vergelijking in molecuulformules van de reactie van glucose met
+            waterstof tot hexaan en water.
+
+            De vloeistoffen water en dodecaan (C12H26) mengen niet goed (zie
+            figuur 1a en 1c).
+
+2p    4     Geef hiervoor een verklaring aan de hand van de formule van dodecaan.
+
+            Bij een experiment werd 0,50 g cellulose in een mengsel van water,
+            dodecaan, waterstof en de twee katalysatoren gebracht. Het ontstane
+            mengsel werd gedurende 12,0 uur geroerd bij een temperatuur van
+            190 °C. Na 12,0 uur was 2,56·10–3 mol hexaan gevormd.
+
+3p    5     Bereken de gemiddelde reactiesnelheid, in mol per L water per seconde,
+            waarmee hexaan werd gevormd gedurende de reactietijd van 12,0 uur.
+             Neem aan dat bij dit experiment 9,5 mL water is gebruikt.
+             Geef de uitkomst in het juiste aantal significante cijfers.
+
+            Als de temperatuur bij dit experiment hoger zou zijn dan 190 °C, zouden
+            behalve hexaan ook isomeren van hexaan ontstaan.
+
+2p    6     Geef de structuurformules van twee isomeren van hexaan.
+
+
+
+
+HA-1028-a-22-1-o                           3 / 18                           lees verder ►►►
+      Power-to-ammonia
+
+            Wind-energie en zonne-energie kunnen nog niet grootschalig worden
+            opgeslagen in Nederland. Daardoor kunnen deze duurzame
+            energievormen, wanneer er veel wind of zon is, niet altijd optimaal benut
+            worden. Op de Technische Universiteit Delft is onderzoek gedaan naar de
+            mogelijkheid om de energie-overschotten op te slaan in de vorm van
+            ammoniak (NH3). Deze manier van energieopslag wordt het
+            ‘power-to-ammonia’-proces genoemd en bestaat uit vier stappen:
+
+            Stap 1:    in een waterstoffabriek worden wind-energie en zonne-energie
+                       gebruikt om water door middel van elektrolyse om te zetten tot
+                       waterstof en zuurstof.
+            Stap 2:    in een luchtscheider wordt stikstof gescheiden van de overige
+                       gassen die in lucht voorkomen.
+            Stap 3:    in een ammoniakfabriek reageert waterstof vervolgens met
+                       stikstof tot ammoniakgas.
+            Stap 4:    ammoniakgas wordt vloeibaar gemaakt en daarna opgeslagen
+                       in tanks.
+
+            In figuur 1 is het power-to-ammonia-proces met een vereenvoudigd
+            blokschema weergegeven.
+
+            figuur 1
+
+
+
+
+2p    7     Geef de vergelijking van de vorming van ammoniakgas (stap 3).
+
+2p    8     Beschrijf op microniveau het vloeibaar worden van ammoniakgas.
+
+
+
+
+HA-1028-a-22-1-o                            4 / 18                           lees verder ►►►
+            In tijden waarin te weinig elektriciteit kan worden opgewekt uit zon of wind
+            kan de opgeslagen ammoniak weer worden omgezet tot energie, door de
+            ammoniak als brandstof te gebruiken in elektriciteitscentrales.
+            Dit verloopt als volgt:
+
+            Stap 5:    vloeibare ammoniak wordt gasvormig gemaakt.
+            Stap 6:    ammoniakgas wordt onder gecontroleerde omstandigheden
+                       verbrand tot stikstof en water in een daarvoor geschikte
+                       elektriciteitscentrale.
+
+            In figuur 2 is het gehele proces met een vereenvoudigd blokschema
+            weergegeven.
+
+            figuur 2
+
+
+
+
+2p    9     Leg uit of gasmengsel X (stap 2) in plaats van gas Y gebruikt kan worden
+            om de gewenste stoffen in stap 6 te produceren.
+
+
+
+
+HA-1028-a-22-1-o                            5 / 18                             lees verder ►►►
+            Stap 6 vindt plaats onder gecontroleerde omstandigheden, waardoor
+            minder ongewenste bijproducten ontstaan. Deze stap kan netto worden
+            weergegeven met de volgende vergelijking:
+
+            4 NH3 (g) + 3 O2 (g)  2 N2 (g) + 6 H2O (l)               (reactie 1)
+
+            De reactiewarmte van reactie 1 is –3,83∙105 J per mol NH3.
+
+1p    10    Geef de formule van een ongewenst bijproduct dat zou kunnen ontstaan
+            bij verbranding van ammoniakgas.
+
+3p    11    Laat met een berekening zien dat de reactiewarmte van reactie 1 gelijk is
+            aan –3,83∙105 J per mol NH3. Gebruik Binas-tabel 57 of
+            ScienceData-tabel 9.2.
+
+            In Nederland verbruikt een gemiddeld huishouden per jaar 3,3∙103 kWh
+            (kilowattuur) aan elektriciteit.
+
+4p    12    Bereken hoeveel kg ammoniak moet worden verbrand om 3,3∙103 kWh
+            aan elektriciteit op te wekken. Gebruik hierbij onder andere de volgende
+            gegevens:
+             1,0 kWh = 3,6∙106 J.
+             60 procent van de reactiewarmte van reactie 1 wordt omgezet in
+               elektriciteit.
+
+            Waterstof die in stap 1 ontstaat, zou in principe ook als brandstof voor
+            een elektriciteitscentrale kunnen dienen. Toch geeft men kennelijk de
+            voorkeur aan vloeibare ammoniak boven vloeibare waterstof om
+            overtollige wind- en zonne-energie in op te slaan.
+
+2p    13    Noem een voordeel van het gebruik van vloeibare ammoniak ten opzichte
+            van het gebruik van vloeibare waterstof voor dit doeleinde. Licht je
+            antwoord toe.
+
+
+
+
+HA-1028-a-22-1-o                            6 / 18                             lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-22-1-o                        7 / 18   lees verder ►►►
+      Goede wijn
+
+            Wijn kan bederven doordat stoffen in de wijn door micro-organismen
+            worden omgezet. Wijn kan bijvoorbeeld zuur gaan smaken doordat
+            azijnzuurbacteriën, die in wijn aanwezig zijn, ethanol omzetten tot
+            azijnzuur (C2H4O2). De reactie die daarbij optreedt, is een redoxreactie
+            waarbij ethanol als reductor reageert.
+
+3p    14    Geef de vergelijking in molecuulformules van de halfreactie waarbij
+            ethanol met water wordt omgezet tot azijnzuur en H+-ionen.
+
+            Aan wijn wordt vaak ‘sulfiet’ toegevoegd, waarmee onder meer oxidatie,
+            kleur en bacteriegroei tijdens het maken van de wijn worden beïnvloed.
+            De naam sulfiet wordt gebruikt om een aantal zwavelhoudende
+            verbindingen aan te duiden.
+            De toegestane hoeveelheid sulfiet in wijn is wettelijk geregeld. Een witte
+            wijn bijvoorbeeld, mag maximaal 200 mg sulfiet per liter bevatten.
+
+2p    15    Bereken of een persoon die 65 kg weegt door het drinken van twee
+            glazen witte wijn de ADI-waarde van sulfiet overschrijdt.
+            Neem aan dat:
+             de ADI-waarde van sulfiet 0,70 mg per kg lichaamsgewicht is;
+             een glas 120 mL witte wijn bevat;
+             de witte wijn 200 mg sulfiet per liter bevat;
+             de persoon behalve het sulfiet uit twee glazen witte wijn, geen ander
+               sulfiet binnenkrijgt.
+
+            Omdat sulfiet in verband wordt gebracht met gezondheidsklachten,
+            worden alternatieven onderzocht. Een van deze alternatieven is het
+            gebruik van chitosan. Chitosan is een vaste stof die wordt gemaakt door
+            een reactie van chitine met natronloog. In figuur 1 op de volgende
+            bladzijde is de structuurformule van een fragment chitine (fragment-a) en
+            een mogelijke structuurformule van een fragment chitosan (fragment-b)
+            weergegeven.
+
+            Bij de reactie van chitine met natronloog worden acetaationen ( CH3COO–)
+            afgesplitst, waarbij NH2-groepen worden gevormd. De
+            reactieomstandigheden bepalen het aantal acetaationen dat van de
+            chitinemoleculen wordt afgesplitst, en daarmee het gemiddelde aantal
+            NH2-groepen dat per molecuul chitosan wordt gevormd.
+
+
+
+
+HA-1028-a-22-1-o                            8 / 18                             lees verder ►►►
+            figuur 1
+
+            fragment-a
+            (chitine)
+
+
+
+
+            fragment-b
+            (chitosan)
+
+
+
+
+            De reactie waarbij het fragment chitine (fragment-a) met natronloog wordt
+            omgezet tot het fragment chitosan (fragment-b), kan schematisch worden
+            weergegeven als:
+
+            fragment-a + … X  fragment-b + … CH3COO–
+
+            Deze vergelijking is nog onvolledig: twee coëfficiënten en één formule (X)
+            ontbreken.
+
+2p    16    Neem de onvolledige vergelijking over en vul de ontbrekende gegevens
+            aan.
+
+            Als de reactie wordt stopgezet zijn nog niet alle mogelijke NH2-groepen
+            gevormd.
+
+2p    17    Geef twee mogelijke veranderingen in de reactieomstandigheden
+            waardoor de gevormde moleculen chitosan gemiddeld meer NH2-groepen
+            kunnen bevatten. Ga ervan uit dat:
+             de hoeveelheid chitine steeds gelijk is;
+             de reactie telkens wordt stopgezet na dezelfde reactietijd.
+
+            Wijn bestaat voornamelijk uit water, en heeft een pH van ongeveer 3,5.
+
+3p    18    Bereken hoeveel mol H+ is opgelost in 220 L wijn met pH = 3,5.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+HA-1028-a-22-1-o                            9 / 18                           lees verder ►►►
+            Bij een pH van 3,5 worden de
+            NH2-groepen in de moleculen chitosan
+            omgezet tot NH3+-groepen. Door de
+            vorming van NH3+-groepen wordt
+            chitosan oplosbaar in wijn. Om te
+            voorkomen dat het oplost in wijn, wordt
+            chitosan vooraf behandeld met
+            genipine. De structuurformule van
+            genipine is hiernaast weergegeven.
+            Genipine is een ester.
+
+2p    19    Geef de structuurformule van de alcohol waaruit door verestering genipine
+            kan worden gevormd.
+
+            In figuur 2 is schematisch en vereenvoudigd de structuur weergegeven
+            van chitosan dat is behandeld met genipine. De ketens van chitosan zijn
+            in dit stukje verbonden met twee genipine-eenheden, die met G zijn
+            weergegeven.
+
+            figuur 2
+
+
+
+
+2p    20    Leg uit waarom de oplosbaarheid van chitosan in wijn wordt verlaagd door
+            binding met genipine.
+
+            De antibacteriële werking van chitosan blijkt onder meer veroorzaakt te
+            worden doordat chitosan ijzerionen bindt. IJzerionen zijn van nature in
+            wijn aanwezig en spelen een rol in het functioneren van bepaalde
+            enzymen van de azijnzuurbacteriën. Een enzym is een biokatalysator.
+
+2p    21    Geef twee eigenschappen van een enzym die kenmerkend zijn voor het
+            functioneren ervan.
+
+
+
+HA-1028-a-22-1-o                           10 / 18                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-22-1-o                       11 / 18   lees verder ►►►
+      NLES
+
+            Natriumlaurylethersulfaat (NLES) is een synthetische zeep die wordt
+            toegepast in textielwasmiddelen en in shampoos. NLES is opgebouwd uit
+            natriumionen en laurylethersulfaat-ionen (LES–-ionen).
+            NLES is oplosbaar in water. De reinigende werking van NLES berust op
+            de structuur van LES–-ionen. In figuur 1 zijn de structuurformule
+            (figuur 1a), de ion-formule (figuur 1b) en de schematische notatie van het
+            LES–-ion (figuur 1c) weergegeven.
+
+            figuur 1
+
+
+
+
+            In figuur 2 is de reinigende werking van NLES schematisch weergegeven:
+             Een groepje vuilmoleculen dat aanwezig is op een textielvezel wordt
+                 omringd door LES–-ionen (figuur 2a).
+             Het ‘vuil-LES–-deeltje’ dat daarbij ontstaat, laat vervolgens los van de
+                 textielvezel en gaat tussen de watermoleculen zitten (figuur 2b).
+
+            figuur 2
+
+
+
+
+2p    22    Geef de naam van het type binding dat in figuur 2b gevormd is tussen de
+            vuilmoleculen en de LES–-ionen. Licht je antwoord toe op microniveau.
+
+
+
+HA-1028-a-22-1-o                           12 / 18                            lees verder ►►►
+            NLES kan worden geproduceerd uit palmpitolie. Bij de productie van
+            NLES wordt uit palmpitolie eerst dodecaan-1-ol (C12H25OH) gemaakt.
+            Dodecaan-1-ol wordt vervolgens omgezet tot NLES. In figuur 3 zijn de
+            stappen van de productie van dodecaan-1-ol vereenvoudigd in een
+            blokschema weergegeven.
+
+            figuur 3
+
+
+
+
+            Stap 1:    palmpitolie wordt gehydrolyseerd tot vetzuren en glycerol,
+                       waarbij de glycerol wordt afgescheiden.
+            Stap 2:    de vetzuren worden vervolgens met methanol omgezet tot
+                       esters en water. De ontstane waterlaag wordt afgevoerd.
+            Stap 3:    de esters worden met waterstof omgezet tot alcoholen,
+                       waaronder dodecaan-1-ol en methanol. De methanol wordt
+                       direct afgescheiden.
+            Stap 4:    dodecaan-1-ol wordt vervolgens gescheiden van de resterende
+                       alcoholen.
+
+            In figuur 4 is een voorbeeld van een vet dat in palmpitolie voorkomt in
+            structuurformule weergegeven.
+
+            figuur 4
+
+
+
+
+            Bij de hydrolyse van dit vet (stap 1) ontstaan glycerol, dodecaanzuur
+            (C12H24O2) en één ander vetzuur.
+
+2p    23    Geef de structuurformule van dit andere vetzuur.
+            Geef het koolwaterstofgedeelte op dezelfde wijze weer als in figuur 4.
+
+
+
+
+HA-1028-a-22-1-o                            13 / 18                           lees verder ►►►
+            De scheiding in stap 4 vindt plaats op basis van verschil in kookpunt.
+
+1p    24    Geef de naam van de scheidingsmethode die wordt gebruikt in stap 4.
+
+            Uitgaande van figuur 3 is het aannemelijk dat bepaalde stoffen worden
+            gerecirculeerd.
+
+1p    25    Geef de naam van een van deze stoffen en vermeld de recirculatie.
+            Noteer je antwoord als volgt:
+            De stof … wordt na stap … teruggevoerd naar stap ….
+
+            Dodecaan-1-ol wordt vervolgens omgezet tot NLES. Dit is met een
+            onvolledig blokschema weergegeven in figuur 5.
+
+            figuur 5
+
+
+
+
+            Stap 5:    dodecaan-1-ol reageert met etheenoxide tot lauryletheralcohol
+                       volgens C12H25OH + 3 C2H4O  C12H25(OC2H4)3OH.
+            Stap 6:    lauryletheralcohol reageert met zwaveltrioxide tot
+                       laurylethersulfonzuur (C12H25(OC2H4)3OSO3H).
+            Stap 7:    laurylethersulfonzuur wordt met een natriumhydroxide-oplossing
+                       omgezet tot een oplossing van NLES.
+
+            De reactor waarin stap 5 plaatsvindt, wordt op een constante temperatuur
+            gehouden.
+
+2p    26    Geef aan of de reactie van stap 5 endotherm of exotherm is. Licht je
+            antwoord toe met een gegeven uit figuur 5.
+
+            De vergelijking van de omzetting van laurylethersulfonzuur (stap 7) is als
+            volgt: C12H25(OC2H4)3OSO3H + OH–  C12H25(OC2H4)3OSO3– + H2O
+
+2p    27    Leg uit, aan de hand van formules in deze vergelijking, dat deze
+            omzetting van laurylethersulfonzuur een zuur-basereactie is.
+
+
+
+
+HA-1028-a-22-1-o                            14 / 18                            lees verder ►►►
+3p    28    Bereken hoeveel ton palmpitolie minimaal nodig is voor de productie van
+            1,0 ton NLES.
+            Gebruik de volgende gegevens:
+             1,0 ton = 1,0∙103 kg.
+             De molaire massa van NLES is 421 g mol–1.
+             Uit 2,0 mol palmpitolie ontstaat 3,0 mol NLES.
+             De (gemiddelde) molaire massa van palmpitolie is 710 g mol–1.
+
+
+
+
+HA-1028-a-22-1-o                          15 / 18                           lees verder ►►►
+      Nordic gold
+
+            De munten van 10, 20 en 50 eurocent zijn gemaakt van ‘Nordic gold’. Dit
+            materiaal is een legering van koper, aluminium, zink en tin.
+            In tabel 1 staan enkele gegevens van de atoomsoorten in Nordic gold.
+
+            tabel 1
+
+
+                             massapercentage            gemiddelde
+                   symbool                                             atoomdiameter (1012 m)
+                             in Nordic gold (%)       atoommassa (u)
+
+                     Cu             89                      63,5                256
+                     Al             5,0                     27,0                286
+                     Zn             5,0                     65,4                266
+                     Sn             1,0                     119                 324
+
+2p    29    Bereken de molverhouding Cu : Al in Nordic gold.
+             Ga in je berekening uit van 100 g Nordic gold.
+             Noteer de uitkomst als Cu : Al = … : 1,0.
+
+            Nordic gold heeft een specifieke samenstelling en daarmee een specifiek
+            elektrische-geleidingsvermogen. Het elektrische-geleidingsvermogen kan
+            gebruikt worden voor de herkenning van munten in muntgeldautomaten.
+            Dit geleidingsvermogen is een gevolg van de aanwezigheid van
+            beweeglijke geladen deeltjes.
+
+1p    30    Geef de naam van de beweeglijke geladen deeltjes in Nordic gold.
+
+
+
+
+HA-1028-a-22-1-o                                  16 / 18                         lees verder ►►►
+            Nordic gold is harder en moeilijker vervormbaar dan zuiver koper. Dit
+            wordt onder andere veroorzaakt door de microstructuur van Nordic gold.
+            De hardheid wordt bepaald door de atoomdiameter van de toegevoegde
+            metaalatomen. De invloed van de tin-atomen en de zink-atomen op de
+            hardheid is weergegeven in figuur 1a. Ook is schematisch weergegeven
+            hoe een Sn-atoom en een Zn-atoom zich tussen de Cu-atomen bevinden
+            (figuur 1b).
+
+            figuur 1
+
+
+
+
+            In figuur 1b is de invloed van de atoomdiameter van de toegevoegde
+            metaalatomen op het rooster te zien. De atomen zijn met streepjes
+            verbonden. Dit is echter een onjuiste weergave van het type binding
+            tussen de atomen in Nordic gold. De streepjes in figuur 1b zijn geen echte
+            bindingsstreepjes zoals die worden gebruikt in structuurformules van
+            moleculaire stoffen, maar ze geven wel een interactie weer tussen de
+            atomen waaruit deze legering is samengesteld.
+
+2p    31    Geef de naam van het bindingstype dat in structuurformules van
+            moleculaire stoffen wordt weergegeven met een bindingsstreepje en geef
+            de naam van het bindingstype dat aanwezig is in Nordic gold.
+            Noteer je antwoord als volgt:
+            bindingstype bindingsstreepje in structuurformules: …
+            bindingstype in Nordic gold: …
+
+            Een van de lijnen I, II en III in figuur 1a geeft de invloed van
+            aluminiumatomen op de hardheid van een koperlegering weer.
+
+2p    32    Leg uit, met behulp van de gegeven atoomdiameters in tabel 1 en met
+            figuur 1, welke lijn (I, II of III) de invloed van de aluminiumatomen op de
+            hardheid van een koperlegering kan weergeven. Laat eventuele
+            interacties tussen Al-, Zn- en Sn-atomen buiten beschouwing.
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+HA-1028-a-22-1-o                            17 / 18                            lees verder ►►►
+            Aan het oppervlak van de munten kan corrosie plaatsvinden,
+            waardoor geoxideerd koper in de vorm van koper(I)oxide (Cu2O) en
+            geoxideerd aluminium (aluminiumoxide) kunnen ontstaan. Doordat
+            aluminium minder edel is dan koper oxideert het eerder dan koper.
+            Geoxideerd aluminium beperkt de corrosiegevoeligheid van Nordic gold.
+
+1p    33    Geef aan waardoor geoxideerd aluminium de corrosiegevoeligheid van
+            Nordic gold beperkt.
+
+2p    34    Geef aan of voor de omzetting van koper tot Cu2O een oxidator of een
+            reductor nodig is. Licht je antwoord toe aan de hand van het verschil
+            tussen de koperdeeltjes in koper en de koperdeeltjes in Cu2O.
+
+            Koperlegeringen hebben een antibacteriële werking, die onder meer
+            veroorzaakt wordt door de volgende twee reacties:
+
+            2 Cu+ + 2 H+ + O2  2 Cu2+ + H2O2                                                 (reactie 1)
+
+            2 Cu2+ + 2 R-SH  2 Cu+ + R-S-S-R + 2 H+                                          (reactie 2)
+
+            Waterstofperoxide (H2O2), dat ontstaan is bij reactie 1, beschadigt de
+            celmembranen van bacteriën. Bij reactie 1 ontstaan ook Cu2+-ionen.
+            Cu2+-ionen reageren met de SH-groepen in eiwitten van bacteriën
+            (reactie 2). In de vergelijking van deze reactie is het eiwit weergegeven
+            met R-SH. Uiteindelijk sterven bacteriën als gevolg van de opgelopen
+            schade.
+
+2p    35    Geef het aantal protonen en het aantal elektronen in een Cu2+-ion.
+            Noteer je antwoord als volgt:
+            aantal protonen: …
+            aantal elektronen: …
+
+1p    36    Geef de naam van de aminozuureenheid die kan reageren volgens
+            reactie 2. Maak gebruik van Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+2p    37    Tel reacties 1 en 2 bij elkaar op en licht toe uit dat uit de totale reactie
+            blijkt dat de Cu+-ionen niet opraken. Neem aan dat uitsluitend de
+            reacties 1 en 2 plaatsvinden.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1028-a-22-1-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,663 @@
+                                                                      Examen VWO
+
+                                                                           2018
+                                                                                  tijdvak 1
+                                                                        donderdag 24 mei
+                                                                         13.30 - 16.30 uur
+
+
+                                                                        natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 26 vragen.
+Voor dit examen zijn maximaal 72 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-18-1-o
+      Uitrijden van een auto
+
+            Een auto (m = 1520 kg) rijdt met een snelheid van 33,3 m s1
+            (= 120 km h1) over een vlakke weg bij windstil weer. Op t = 0 s trapt de
+            bestuurder het koppelingspedaal in, zodat de motor niet meer met de
+            wielen verbonden is. Nu ‘rijdt de auto uit’ en komt de auto een tijdje later
+            tot stilstand. Het (v,t)-diagram van het uitrijden staat in figuur 1.
+
+            figuur 1
+                v      40
+             (m s−1)
+                       30
+
+                       20
+
+                       10
+
+                       0
+                            0      40       80   120   160   200
+                                                             t (s)
+
+
+            De uitrij-afstand is de afstand die de auto aflegt vanaf het moment dat het
+            uitrijden begint tot het moment dat hij stilstaat. Figuur 1 staat vergroot op
+            de uitwerkbijlage.
+
+3p    1     Bepaal met behulp van de figuur op de uitwerkbijlage de uitrij-afstand.
+
+            Om inzicht te krijgen in de beweging van de auto, is een computermodel
+            gemaakt. Het model is weergegeven in figuur 2.
+
+            figuur 2
+  model                         startwaarden
+                                (in SI-eenheden)                         Frol
+
+
+  Flucht = k · v2               t=0
+  Fres = Flucht + Frol                                   m
+                                dt = 0,01                                                      Fres
+  a =  Fres / m                v = 33,3
+  dv = a · dt                   m = 1520                             v
+  v = v + dv                    k = 1,62                         a
+                                                                                    Flucht
+  t = t + dt                    Frol = 76                                       k
+
+
+
+
+VW-1023-a-18-1-o                                        2 / 15                         lees verder ►►►
+2p    2     Leid de eenheid van de evenredigheidsconstante k af in basiseenheden
+            (grondeenheden) van het SI, zoals ze staan in BiNaS-tabel 3A en
+            ScienceData-tabel 1.3a.
+
+            De resultaten van dit model zijn weergegeven in figuur 3.
+            In figuur 3 staat ook de grafiek van figuur 1.
+
+            figuur 3
+                v        40
+             (m s−1)
+                         35
+
+                         30
+
+                         25
+
+                         20
+
+                         15
+
+                         10
+
+                         5
+
+                         0
+                   −20        0    20    40    60    80   100   120   140   160   180   200
+                                                                                        t (s)
+                              Legenda:
+                                   = gemeten
+                                   = modelbereking
+
+
+            De waarden van de parameters k en Frol zijn nog niet goed gekozen,
+            zodat de grafiek met de resultaten van het model niet goed overeenkomt
+            met de gemeten grafiek van figuur 1.
+4p    3     Voer de volgende opdrachten uit:
+             Leg uit of de startwaarde van k groter of kleiner gekozen moet worden
+               om de waarden wel goed overeen te laten komen.
+             Leg uit of de startwaarde van Frol groter of kleiner gekozen moet
+               worden om de waarden wel goed overeen te laten komen.
+
+            Het model van figuur 2 kan worden uitgebreid om ook de uitrij-afstand te
+            berekenen, waarbij het model stopt als de uitrij-afstand bereikt is.
+2p    4     Voer de volgende opdrachten uit:
+             Beschrijf welke modelregel(s) moet(en) worden toegevoegd.
+             Beschrijf welke stopvoorwaarde moet worden toegevoegd.
+
+
+
+
+VW-1023-a-18-1-o                                      3 / 15                                    lees verder ►►►
+            Met de nieuwe, aangepaste startwaarden voor k en Frol past de uitkomst
+            van het model wel bij de metingen.
+            Figuur 4 laat een deel van de (v,t)-grafiek zien die het aangepaste model
+            geeft. Figuur 4 staat ook op de uitwerkbijlage.
+
+            figuur 4
+                       29
+                v
+             (m s−1)
+                       28
+
+                       27
+
+                       26
+
+                       25
+
+                       24
+
+                       23
+
+                       22
+
+                       0
+                            0   11   13   15   17    19      21   23     25
+                                                                       t (s)
+
+
+            Uit deze figuur is het vermogen te bepalen dat de auto moet leveren om
+            met een bepaalde constante snelheid te rijden.
+5p    5     Bepaal met behulp van de figuur op de uitwerkbijlage het vermogen dat
+            de motor moet leveren bij een constante snelheid van 25 ms 1
+             ( 90 km h 1 ).
+
+
+
+
+VW-1023-a-18-1-o                                    4 / 15                     lees verder ►►►
+      Water uit de ruimte
+
+            Lees onderstaand artikel.
+
+      Water is een noodzakelijke
+      voorwaarde voor leven op onze
+      planeet. Volgens veel
+      wetenschappers is water niet op
+      aarde ontstaan, maar is het op
+      aarde ‘aangeleverd’ door een groot
+      aantal inslagen van kometen,
+      planetoïden en meteoren. Deze
+      bevatten ijs dat oorspronkelijk in
+      koude interstellaire gaswolken met
+      een temperatuur van 10 K is
+      gevormd.
+
+
+            Een komeet met een massa van 12 103 kg beweegt op een hoogte van
+            100 km boven het aardoppervlak met een snelheid van 50 km s1 richting
+            de aarde.
+            Bij aankomst op de aarde is de massa van de komeet afgenomen tot
+            6, 0 103 kg. Het totaal van de kinetische energie en de gravitatie-energie is
+            dan nog slechts 0,20% van de oorspronkelijke totale energie.
+            (Het verschil in gravitatie-energie ten opzichte van de zon is bij deze
+            overgang verwaarloosbaar.)
+5p    6     Bereken met welke snelheid de komeet op de aarde aankomt.
+
+            Een komeet zendt IR-straling uit. Het spectrum daarvan bestaat uit een
+            deel met lijnen en een continu deel. Uit het spectrum kan men meer te
+            weten komen over de temperatuur en de chemische samenstelling van de
+            komeet.
+            Op de uitwerkbijlage staat een tabel.
+2p    7     Geef in de tabel op de uitwerkbijlage met een kruisje voor elk deel van het
+            spectrum aan, of daarmee de chemische samenstelling of de temperatuur
+            van de komeet te bepalen is, of geen van beide.
+
+            Uit spectroscopische analyses van een aantal kometen en planetoïden
+            blijkt dat deze water bevatten met dezelfde isotopenverhouding van
+            waterstof ( 11 H ) en deuterium ( 21 D  21 H ) als op aarde.
+            Men neemt aan dat water gevormd is in ‘interstellaire wolken’ bij een
+            temperatuur van 10 K . Eén van de reacties voor watervorming is:
+
+            (1)      OH + H 2  H 2O + H
+
+
+
+
+VW-1023-a-18-1-o                             5 / 15                             lees verder ►►►
+            Deze reactie vindt plaats aan     figuur 1
+            het oppervlak van                  E
+            microscopische stofdeeltjes      (eV)
+            waarbij ijsmantels om de
+            stofdeeltjes worden gevormd.               Ea = 0,18 eV
+            Zoals bij veel reacties moet ook
+            bij deze reactie een                       OH + H2
+            activeringsenergie Ea                0
+                                                               a = 0,10 nm
+            overwonnen worden.
+            Zie figuur 1.
+                                                                             H 2O + H
+            Over deze reactie zijn twee
+            theorieën opgesteld.
+             theorie 1
+               De activeringsenergie Ea wordt geleverd door de thermische energie
+               van de betrokken deeltjes. Bij 2100 K hebben de deeltjes een
+               gemiddelde thermische energie van 0,18 eV.
+             theorie 2
+               De energiebarrière wordt doorbroken door het quantum-tunneleffect.
+
+            over theorie 1
+            De waarschijnlijkheid W dat de reactie optreedt volgens theorie 1 is alleen
+            afhankelijk van de temperatuur T. In figuur 2 is deze waarschijnlijkheid W
+                                                           1
+            weergegeven als functie van
+                                                           T
+
+            figuur 2
+                                                                1 (K−1)
+                                                                T
+                           0   0,02   0,04   0,06   0,08   0,10    0,12
+                      1
+
+                   10-20
+
+                   10-40
+
+                   10-60
+
+                   10-80
+            W
+                10-100
+
+
+4p    8     Voer de volgende opdrachten uit:
+             Bepaal met behulp van figuur 2 de verhouding van de waarden van W
+               bij 10 K en bij 2100 K.
+             Leg hiermee uit dat theorie 1 geen goede verklaring geeft voor het
+               ontstaan van water bij 10 K.
+
+
+
+
+VW-1023-a-18-1-o                                               6 / 15         lees verder ►►►
+            over theorie 2
+            Als een H2-deeltje en een OH-deeltje zich voldoende dicht bij elkaar aan
+            het oppervlak van een vast stofdeeltje bevinden, kan er een reactie door
+            het quantum-tunneleffect plaatsvinden. In deze reactie ‘verhuist’ een
+            H-atoom van het H2-deeltje naar het OH-deeltje, over een afstand
+             a  1010 m.
+
+            Voor deeltjes met een massa m geldt voor de debroglie-golflengte λ in een
+            omgeving met temperatuur T:
+
+                           h
+                   
+                         2mkBT
+
+            Hierin is:
+             kB de constante van Boltzmann;
+             h de constante van Planck.
+
+3p    9     Leg met behulp van deze formule en met figuur 1 uit of er onder deze
+            omstandigheden een redelijke kans is op het quantum-tunneleffect.
+
+            Wetenschappers onderzoeken deze reactie in een laboratorium. Ze
+            vervangen daarbij alle waterstofkernen ( 11 H ) door deuteriumkernen
+            ( 21 D  21 H ). Dit levert de volgende reactie:
+
+            (2)         OD  D 2  D 2O  D
+
+            Voor reactie (2) zijn de hoogte en de breedte van de energiebarrière gelijk
+            aan die van reactie (1), zoals weergegeven in figuur 1. Maar reactie (2)
+            heeft een andere kans op het quantum-tunneleffect dan reactie (1).
+2p   10     Leg uit of de kans dat het quantum-tunneleffect optreedt met
+            deuteriumkernen groter of kleiner is dan met waterstofkernen.
+
+            Tim heeft moeite met theorie 2. Hij zegt: “In figuur 1 blijven de hoogte en
+            breedte van de energiebarrière constant, dus je kunt net zo makkelijk
+            ‘terug-tunnelen’ en dan wordt het water weer even snel afgebroken.”
+2p   11     Leg uit of Tim gelijk heeft.
+
+            Water maakt leven op een planeet mogelijk. In tabel 32H van BiNaS en in
+            tabel 3.1a van ScienceData wordt het verband gegeven tussen de
+            temperatuur van het heelal en de tijd sinds de oerknal.
+            Ewine stelt dat het heelal oud genoeg moet zijn voor het vormen van
+            water volgens theorie 2.
+2p   12     Leg uit dat Ewine gelijk heeft.
+
+
+
+
+VW-1023-a-18-1-o                                7 / 15                         lees verder ►►►
+      Elektrische tandenborstel
+
+            Figuur 1 is een foto van een elektrische tandenborstel.       figuur 1
+            Hierin is een trilmechanisme verwerkt. Ludo wil de
+            frequentie waarmee dit trilmechanisme trilt bepalen. Hij
+            bouwt hiertoe de opstelling zoals weergegeven in figuur 2.
+            De tandenborstel is hier in een statief geklemd en het
+            borsteltje is verwijderd. Aan het trillende deel van het
+            apparaat is een koord bevestigd, dat over een katrol is
+            gelegd en strak wordt gehouden door het gewicht van een
+            aantal blokjes met een totale massa m.
+            Als Ludo de tandenborstel aanzet, kan er een staande golf
+            ontstaan in het koord.
+
+
+
+
+            figuur 2
+
+
+
+
+            Ludo bepaalt voor een aantal waarden van m steeds de lengte L en het
+            aantal buiken n. L is de afstand van de tandenborstel tot de katrol.
+            Zijn meetresultaten staan in de tabel hieronder.
+
+                   m (kg)    L (m)          n
+                   0,100     1,26           9
+                   0,200     1,50           6
+                   0,300     1,44           5
+                   0,400     1,62           5
+                   0,500     1,43           4
+
+            Van de meetresultaten maakt Ludo de grafiek van figuur 3, waarin hij de
+            golflengte λ uitzet tegen de spankracht F in het koord.
+
+
+
+
+VW-1023-a-18-1-o                           8 / 15                           lees verder ►►►
+3p   13     Voer de volgende opdrachten uit:           figuur 3
+             Laat met een berekening zien dat de           0,8
+                                                         λ
+               waarden van de eerste meting             (m)
+               (m = 0,100 kg) juist in de grafiek zijn      0,6
+               gezet.
+             Geef aan hoe uit de grafiek volgt dat er      0,4
+               geen recht evenredig verband is tussen
+               de golflengte en de spankracht.              0,2
+
+                                                                          0
+            Voor de voortplantingssnelheid van een                             0   1   2   3     4      5
+            transversale golf in een koord geldt:                                                    F (N)
+                                                                  figuur 4
+                          F                                              0,6
+                   v                                              λ2
+                                                                (m2)
+                                                                         0,5
+
+            Hierin is:                                                   0,4
+             v de voortplantingssnelheid (in m s1);
+             F de spankracht (in N);                                    0,3
+              de lineaire massadichtheid van het
+                        koord (in kg m1).                               0,2
+
+                                                                         0,1
+            Voor de verdere verwerking van zijn
+            meetresultaten maakt Ludo een grafiek
+                                                             0
+            waarbij hij  2 uitzet tegen de spankracht         0     1    2  3    4     5
+                                                                                     F (N)
+            F. Daarna trekt hij een rechte lijn, die zo
+            goed mogelijk door de punten gaat. Het resultaat is in figuur 4
+            weergegeven. Met behulp van de rechte lijn bepaalt hij de frequentie van
+            het trilmechanisme van de elektrische tandenborstel.
+
+1p   14     Waarom is het nauwkeuriger om de rechte lijn te gebruiken dan één van
+            de meetpunten?
+
+                                                                     4   1
+            Het koord heeft een lineaire massadichtheid van 1,24  10 kg m .
+4p   15     Voer de volgende opdrachten uit:
+             Leid onder andere met de gegeven formule af, dat de steilheid van de
+                                                         1
+                   ( 2 , F ) -grafiek gelijk is aan          .
+                                                        f 2
+                  Bepaal met behulp van deze steilheid de frequentie van het
+                   trilmechanisme van de elektrische tandenborstel die uit deze metingen
+                   volgt.
+
+            Ludo wil bij dezelfde frequentie minder knopen en buiken laten ontstaan in
+            dit koord.
+2p   16     Noem twee grootheden die Ludo daartoe kan aanpassen en geef van
+            beide grootheden apart aan of die groter of kleiner moeten worden.
+
+
+VW-1023-a-18-1-o                                       9 / 15                              lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1023-a-18-1-o                       10 / 15   lees verder ►►►
+      MRI (Magnetic Resonance Imaging)
+
+             Een MRI-scanner kan 3D-beelden van het inwendige van een patiënt
+             maken. Daarbij wordt gebruikgemaakt van een sterk magnetisch veld B en
+             van radiogolven. Zie figuur 1 voor een opengewerkte afbeelding van een
+             MRI-scanner.
+
+             figuur 1
+
+
+
+
+2p   17      Leg uit dat een MRI-scan veiliger is voor de patiënt dan een CT-scan.
+
+             De waterstofkernen (protonen) in het lichaam van een patiënt gedragen
+             zich als kleine magneetjes. Deze richten zich als er een magnetisch veld
+             BMRI wordt aangelegd. De waterstofkernen kunnen dan in dezelfde
+             richting als BMRI staan (parallel) of tegengesteld aan BMRI (antiparallel).
+             De waterstofkernen parallel aan BMRI bevinden zich in een lager
+             energieniveau dan de kernen antiparallel aan BMRI. In het lage
+             energieniveau zitten meer waterstofkernen dan in het hoge energieniveau.
+             Bij een sterker magnetisch veld is er een groter overschot aan
+             waterstofkernen in het lage energieniveau.
+             Dit is schematisch weergegeven in figuur 2.
+
+             figuur 2
+                                                                          Legenda:
+                                                                             parallel aan BMRI
+          Energie
+                                                                             antiparallel aan BMRI
+
+
+                    BMRI = 0,0 T
+
+                                         BMRI = 2,5 T
+                                                           BMRI = 5,0 T
+
+
+
+VW-1023-a-18-1-o                             11 / 15                                 lees verder ►►►
+            Voor het energieverschil tussen de waterstofkernen die parallel aan BMRI
+            en de waterstofkernen die antiparallel aan BMRI staan, geldt:
+
+                    E   hBMRI
+
+            Hierin is:
+                     een constante die voor waterstof gelijk is aan: 42,57 MHz T1;
+             h        de constante van Planck in J s;
+             BMRI de sterkte van het magnetisch veld in T.
+
+            Er wordt nu een RF-puls (Radio Frequente puls, puls van radiostraling)
+            naar de patiënt gezonden met fotonen die precies de energie ΔE hebben
+            die nodig is om de waterstofkernen in het hoge energieniveau te brengen.
+
+2p   18     Bereken de frequentie die de RF-puls moet hebben bij een magnetisch
+            veld van 5,0 T.
+
+            Het magnetisch veld BMRI bestaat uit een constant magnetisch veld B0 en
+            het zogenaamde gradiëntveld Bg. Bg heeft dezelfde richting als B0 of is
+            tegengesteld aan B0 en is niet op elke plaats even sterk.
+            Er geldt: BMRI  B0  Bg .
+            Het gradiëntveld Bg wordt opgewekt door stroom te sturen door twee
+            spoelen. Zie figuur 3 voor een schematische weergave. Figuur 3 staat ook
+            op de uitwerkbijlage.
+
+            figuur 3
+                                    gradiëntspoelen
+
+
+
+
+               B0
+
+
+
+                               Q                            S
+                           P                            R
+
+
+            Op een bepaald moment stelt men het gradiëntveld in figuur 3 zodanig in
+            dat het totale magnetisch veld BMRI bij het hoofd van de patiënt minder
+            sterk is dan B0 en bij de voeten sterker is dan B0.
+3p   19     Geef in de figuur op de uitwerkbijlage voor elke gradiëntspoel aan:
+             de richting van het magnetisch veld dat het gradiëntveld levert;
+             de richting van de stroom;
+             de polariteit van de aansluitingen (plus of min bij P, Q, R en S).
+
+
+
+
+VW-1023-a-18-1-o                            12 / 15                          lees verder ►►►
+            In figuur 4 staat het verloop op een bepaald moment van het totale
+            magnetisch veld BMRI schematisch weergegeven. De patiënt blijft op
+            dezelfde plaats liggen. Figuur 4 staat ook op de uitwerkbijlage.
+
+            figuur 4
+             B (T)
+                                                                         BMRI
+
+            B0
+                                                                  ∆B
+
+
+
+
+                                                                       x (m)
+                                 ∆x
+
+
+            De RF-puls heeft een vaste frequentie zoals in vraag 18 berekend en een
+            vaste bandbreedte. Door deze vaste bandbreedte worden waterstofkernen
+            in een gebiedje ΔB naar het hoge energieniveau gebracht.
+            Hierdoor worden fotonen geabsorbeerd en even later geëmitteerd door
+            waterstofkernen uit een plakje Δx.
+            De plaats in het lichaam en de dikte van het plakje Δx zijn in te stellen
+            door het gradiëntveld Bg te variëren. Het veld B0 blijft daarbij constant.
+
+            Men verandert het gradiëntveld Bg zodat het plakje Δx dunner wordt en bij
+            het hoofd van de patiënt komt te liggen.
+2p   20     Teken in de figuur op de uitwerkbijlage hoe BMRI daartoe nu verloopt.
+
+            Na het uitschakelen van de RF-puls         figuur 5
+            zenden de waterstofkernen
+            gedurende een aantal milliseconden
+            een signaal uit. Weefsels met veel
+            waterstofkernen geven een signaal
+            met een hoge intensiteit en zijn het
+            witst op een MRI-beeld. Zie figuur 5.
+            Hersenweefsel heeft ongeveer 80%
+            van de waterstofkernendichtheid van
+            water. Andere weefsels hebben een
+            kleinere waterstofkernendichtheid.
+
+2p   21     Leg uit of er bij de pijl in figuur 5
+            hersenweefsel zit of ander weefsel.
+
+
+
+
+VW-1023-a-18-1-o                             13 / 15                            lees verder ►►►
+      Energievoorziening voor een weerstation
+
+            Een afgelegen weerstation is gedurende het hele jaar vierentwintig uur
+            per dag in bedrijf. De installatie wordt van energie voorzien door een
+            12-volts-accu.
+
+            Het elektrisch vermogen van de installatie varieert sterk en bedraagt
+            gemiddeld 2,3 W.
+            Een volledig opgeladen accu heeft een capaciteit van 75 Ah. (Dit houdt in
+            dat de volledig opgeladen accu gedurende 1,0 uur een stroom van 75 A
+            kan leveren, of gedurende 3,0 uur een stroom van 25 A, enzovoorts.)
+            Deze accu voldoet niet om de installatie één jaar te laten werken.
+3p   22     Bereken het aantal volledig opgeladen accu’s dat in één jaar nodig zou
+            zijn als ze niet tussentijds worden opgeladen.
+
+            Overwogen wordt om naast de accu een zonnepaneel in de schakeling op
+            te nemen. Hiertoe wordt een proefopstelling gebouwd. Zie figuur 1.
+
+            figuur 1
+                        A                   B                      C
+                          A 0,71 A          A 0,25 A
+
+
+                   R1       2,6 Ω     R2        1,8 Ω              R3
+
+
+            zonnepaneel     Uzp      accu       12,0 V
+
+                        F                   E                      D
+
+
+            De installatie van het weerstation is weergegeven door een gewone
+            weerstand, aangegeven met R3. Het zonnepaneel staat in de schakeling
+            parallel aan de accu.
+            Bij een bepaalde lichtsterkte op het zonnepaneel leveren beide
+            spanningsbronnen stroom aan de weerstand R3 en worden de in figuur 1
+            weergegeven stroomsterktes gemeten.
+
+4p   23     Bereken het vermogen dat in dat geval aan weerstand R3 geleverd wordt.
+
+3p   24     Bereken de spanning Uzp van het zonnepaneel bij deze lichtsterkte.
+            Gebruik hierbij de spanningswet van Kirchhoff.
+
+
+
+
+VW-1023-a-18-1-o                                         14 / 15            lees verder ►►►
+            De spanning van het zonnepaneel hangt af van de hoeveelheid (zon)licht.
+            Als de hoeveelheid licht toeneemt, neemt Uzp toe. Als Uzp verandert,
+            blijken zowel de stroom die het zonnepaneel levert als de stroom die de
+            accu levert te veranderen. Dit is weergegeven in figuur 2.
+
+            figuur 2
+                    1,4
+              I
+             (A)
+                    1,2
+                                                           zonnepaneel
+                    1,0
+
+                    0,8
+                               accu
+
+                    0,6
+
+                    0,4
+
+                    0,2
+
+                     0
+                          0   10      11   12   13   14   15    16    17
+                                                                 Uzp (V)
+                   –0,2
+
+                   –0,4
+
+
+3p   25     Beantwoord de volgende vragen:
+             Voor welke waarden van Uzp wordt de accu opgeladen?
+             Voor welke waarden van Uzp levert de accu stroom aan het
+               zonnepaneel?
+
+            Het is ongewenst dat de accu stroom levert aan het zonnepaneel. Dit kan
+            men verhinderen door een diode in de schakeling op te nemen.
+            Op de uitwerkbijlage staat de schakeling van figuur 1 weergegeven.
+2p   26     Teken in de figuur op de uitwerkbijlage de diode op een juiste plaats en in
+            de juiste richting.
+
+
+
+
+VW-1023-a-18-1-o                                     15 / 15                  lees verdereinde
+                                                                                           ►►► 
+

@@ -1,0 +1,560 @@
+                                                                    Examen VWO
+
+                                                                         2021
+                                                                               tijdvak 1
+                                                                         vrijdag 28 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                      natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+ Dit examen bestaat uit 25 vragen.
+ Voor dit examen zijn maximaal 78 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-21-1-o
+      Planck
+
+      Kosmische achtergrondstraling is de     figuur 1
+      straling die in het jonge heelal als
+      warmtestraling ontstond. De meest
+      gedetailleerde kaart van de
+      kosmische achtergrondstraling laat
+      intensiteitsverschillen van slechts
+      0,001% zien (zie figuur 1). De
+      beelden konden verzameld worden
+      dankzij de Planck-satelliet van de
+      Europese ruimtevaartorganisatie
+      ESA. De kosmische achtergrondstraling
+      wordt nu waargenomen als microgolfstraling.
+
+
+              De opnamen voor de kaart van figuur 1 kunnen vanwege de
+              aardatmosfeer niet vanaf het aardoppervlak gemaakt zijn.
+1p    1       Geef hiervoor een reden.
+
+              De Planck-satelliet draait rondjes om de zon. Hij heeft zijn metingen
+              verricht vanuit een speciaal punt in de ruimte: het Lagrangepunt L2. Het
+              Lagrangepunt L2 ligt in het verlengde van de verbindingslijn van de zon
+              naar de aarde en in dit punt is de omlooptijd van de satelliet gelijk aan die
+              van de aarde. Zie figuur 2.
+
+              figuur 2
+
+
+
+
+VW-1023-a-o                                    2 / 17                             lees verder ►►►
+              Thijs voert een modelstudie uit om te bepalen op welke afstand van de
+              aarde het Lagrangepunt L2 zich bevindt. In zijn model is de x-as de
+              verbindingslijn van de zon naar de aarde. Thijs beperkt zich in zijn
+              onderzoek tot het gebied op de x-as waarvoor geldt dat de afstand x tot
+              het middelpunt van de aarde kleiner is dan 2, 0  109 m en groter dan of
+              gelijk aan de straal van de aarde. Zie figuur 3. Deze figuur is niet op
+              schaal. In zijn model definieert Thijs de richting naar rechts in de figuur
+              als positief. Hoewel het Lagrangepunt L2 rechts van de aarde ligt, bekijkt
+              Thijs dus ook wat er gebeurt bij negatieve waarden van x.
+
+              figuur 3
+
+
+
+
+              Thijs berekent met zijn model hoe de gravitatieversnelling ten gevolge van
+              de zon, ag, zon , en die ten gevolge van de aarde, ag, aarde , afhangen van x
+              (zie figuur 4).
+
+              figuur 4
+
+
+
+
+              Thijs heeft ervoor gezorgd dat zijn model zo goed mogelijk aan de
+              werkelijkheid voldoet.
+2p    2       Beantwoord de volgende twee vragen:
+               Bij welke x wordt de waarde van ag, aarde maximaal in het model?
+                 Geef de grootte van deze maximale waarde van ag, aarde .
+
+
+
+VW-1023-a-o                                    3 / 17                            lees verder ►►►
+              Van de modelwaarden van ag, zon en ag, aarde zijn in figuur 4 alleen de
+              grafieklijnen bij negatieve waarden van x weergegeven. In figuur 5 zijn
+              vier mogelijkheden gegeven van hoe de gehele grafiek, tot x  2,0 109 m ,
+              kan lopen.
+
+3p    3       Leg uit welke van de vier grafieken (I, II, III of IV) de situatie juist
+              weergeeft.
+
+              figuur 5
+
+
+
+
+VW-1023-a-o                                     4 / 17                               lees verder ►►►
+              Als een voorwerp een cirkelbeweging om een hemellichaam beschrijft,
+              geldt de volgende formule:
+
+                          r
+                 T  2                (1)
+                          a
+
+              Hierin is:
+               T de omlooptijd om het hemellichaam in s
+               r de baanstraal in m
+               a de grootte van de gravitatieversnelling ten gevolge van het
+                 hemellichaam in m s 2
+
+4p    4       Leid formule (1) af gebruikmakend van formules uit een tabellenboek.
+
+              De Planck-satelliet in het Lagrangepunt L2 ondervindt zowel een
+              gravitatiekracht van de zon als een gravitatiekracht van de aarde. Als
+              gevolg daarvan luidt de formule voor de omlooptijd van de satelliet als
+              volgt:
+
+                              r
+                 T  2                (2)
+                          ag, res
+
+              Hierin is:
+               T de omlooptijd om de zon in s
+               r de baanstraal in m
+               ag, res de grootte van de gravitatieversnelling ten gevolge van de
+                 resulterende gravitatiekracht in m s 2
+
+              De baanstraal van de Planck-satelliet in het Lagrangepunt L2 is groter dan
+              de baanstraal van de aarde. Toch is de omlooptijd T van de Planck-
+              satelliet gelijk aan die van de aarde.
+
+2p    5       Leg dat uit met behulp van formule (2).
+
+              Om te bepalen op welke afstand van de aarde het Lagrangepunt L2 zich
+              bevindt, berekent Thijs met zijn model bij verschillende waarden van x de
+              omlooptijd T om de zon van een voorwerp dat zich bevindt op de
+              verbindingslijn van de zon naar de aarde. Hij beperkt zich tot alleen de
+              positieve waarden van x. Zijn resultaten zijn weergegeven in figuur 6.
+              Figuur 6 staat ook op de uitwerkbijlage.
+
+
+
+
+VW-1023-a-o                                    5 / 17                           lees verder ►►►
+              figuur 6
+
+
+
+
+              Tzon is de berekende omlooptijd als alleen de zon aanwezig zou zijn.
+              Tzon + aarde is de berekende omlooptijd als er rekening wordt gehouden met
+              de aanwezigheid van zowel de zon als de aarde.
+
+3p    6       Bepaal met behulp van de figuur op de uitwerkbijlage de afstand van het
+              Lagrangepunt L2 tot het midden van de aarde.
+
+              De Planck-satelliet verrichtte metingen vanuit het Lagrangepunt L2. In
+              figuur 7 staat de stralingskromme van de kosmische achtergrondstraling
+              die de satelliet heeft gemeten.
+
+              figuur 7
+
+
+
+
+              De temperatuur van de kosmische achtergrondstraling is gedefinieerd als
+              de temperatuur van een voorwerp met de stralingskromme van figuur 7.
+3p    7       Bepaal de temperatuur van de kosmische achtergrondstraling.
+
+
+
+VW-1023-a-o                                   6 / 17                           lees verder ►►►
+      Cirkelgolf
+
+              Roland en Arno bouwen de opstelling zoals             figuur 1
+              schematisch weergegeven in figuur 1. In deze
+              opstelling is een toongenerator verbonden met een
+              trillingsapparaat. Aan het trillingsapparaat is een
+              cirkelvormige metalen lus gekoppeld. Deze lus
+              heeft een diameter van 24,5 cm.
+              Bij bepaalde ingestelde frequenties op de
+              toongenerator ontstaat er een staande golf in de
+              cirkelvormige lus. In figuur 2 is een voorbeeld van
+              zo’n staande golf te zien.
+
+              figuur 2
+
+
+
+
+              De plek waar de lus aan het trillingsapparaat bevestigd is, mag
+              beschouwd worden als een knoop.
+              Roland en Arno trekken op basis van figuur 2 de conclusie dat de
+              golfsnelheid in de lus niet overal gelijk kan zijn.
+2p    8       Leg uit hoe dit volgt uit figuur 2 met behulp van een formule uit een
+              tabellenboek.
+
+              Op het moment dat de foto van figuur 2 gemaakt werd, stond de
+              toongenerator ingesteld op 69 Hz.
+4p    9       Bepaal de gemiddelde golfsnelheid in de lus bij deze frequentie.
+
+
+
+
+VW-1023-a-o                                   7 / 17                             lees verder ►►►
+              Roland en Arno variëren de frequentie van de toongenerator en kijken
+              wanneer er een staande golf in de lus ontstaat. Hun waarnemingen staan
+              in figuur 3.
+
+              figuur 3                                    figuur 4
+
+               aantal buiken      f (Hz)
+                      3             19
+                      5             69
+                      7          1,6 102
+                      9          2, 6  10 2
+                     11          3,8 102
+
+              Het valt Roland en Arno op dat er alleen staande golven met een oneven
+              aantal buiken in de lus ontstaan. In het bovenste punt van de lus ontstaat
+              dus altijd een buik.
+              In de lus beweegt een golf in de richting van de wijzers van de klok en
+              een golf in de tegengestelde richting. Dit is schematisch weergegeven in
+              figuur 4.
+              Deze twee lopende golven interfereren met elkaar. Op plaatsen met
+              constructieve interferentie ontstaan buiken en op plaatsen met
+              destructieve interferentie ontstaan knopen.
+
+3p   10       Voer de volgende opdrachten uit:
+               Leg uit dat er in het bovenste punt van de lus alleen een buik kan
+                 ontstaan.
+               Geef aan waarom er in die situatie alleen staande golven kunnen
+                 ontstaan met een oneven aantal buiken.
+
+              Roland en Arno gaan op zoek naar het verband tussen de frequentie van
+              het trillingsapparaat en het aantal buiken dat in de lus ontstaat. Uit de
+              meetresultaten in figuur 3 trekken ze de conclusie dat er onmogelijk
+              sprake kan zijn van een recht evenredig verband.
+3p   11       Toon met een berekening aan dat die conclusie juist is.
+
+              Via een trial-and-errormethode komen Roland en Arno tot het volgende
+              verband tussen de frequentie en het aantal buiken in de lus:
+
+                  f  cn 2       (1)
+
+              Hierin is:
+               f de frequentie in Hz
+               c een constante
+               n het aantal buiken in de lus
+
+
+
+VW-1023-a-o                                     8 / 17                          lees verder ►►►
+              In de grafiek van figuur 5 staan de meetresultaten uit figuur 3 grafisch
+              weergegeven na een coördinatentransformatie. Het bijschrift bij beide
+              assen is nog niet gegeven.
+
+              figuur 5
+
+
+
+
+5p   12       Voer de volgende opdrachten uit:
+               Geef het bijschrift dat vermeld moet worden bij de horizontale as.
+               Geef het bijschrift dat vermeld moet worden bij de verticale as.
+               Bepaal met behulp van figuur 5 de constante c in formule (1). Geef je
+                 antwoord in drie significante cijfers en met de juiste eenheid.
+
+              Roland en Arno vragen zich af of de constante c wel in drie significante
+              cijfers mag worden opgegeven. Roland denkt dat de waarde moet worden
+              opgegeven in één significant cijfer omdat het aantal buiken ook in één
+              significant cijfer is opgegeven. Arno denkt dat met de gebruikte methode
+              de waarde in drie significante cijfers kan worden opgegeven, hoewel de
+              frequenties in twee significante cijfers zijn bepaald.
+3p   13       Voer de volgende opdrachten uit:
+               Geef aan waarom Roland geen gelijk heeft.
+               Leg uit dat de gedachte van Arno verdedigbaar is.
+
+
+
+
+VW-1023-a-o                                    9 / 17                            lees verder ►►►
+      Alfanuclidetherapie
+
+              In de nuclidetherapie worden tumoren      figuur 1
+              van binnen in het lichaam bestraald met
+              behulp van instabiele atoomkernen. Deze
+              atoomkernen kunnen alfa- of bètastralers
+              zijn.
+              Door de instabiele atoomkernen te
+              koppelen aan een zogenaamde dragerstof,
+              een stof die zich specifiek aan de tumor
+              kan hechten, kan een heel gerichte
+              bestraling worden bereikt. Zie figuur 1.
+              Bij het afremmen van de alfa- of
+              bètadeeltjes tijdens hun weg door het
+              tumorweefsel, komt energie vrij. Wanneer
+              deze energie plaatselijk groot genoeg is,
+              zal dat leiden tot het afsterven van
+              tumorcellen.
+
+              De hoeveelheid energie die een ioniserend deeltje per eenheid van
+              weglengte afgeeft aan de omringende materie wordt de LET-waarde
+              genoemd. LET staat voor ‘lineaire energie-overdracht’ en is gedefinieerd
+              volgens:
+
+                                   dE
+                 LET -waarde               (1)
+                                   dx
+
+              Hierin is:
+               E de energie in keV
+               x de weglengte in μm
+
+              De LET-waarde kan ook geïnterpreteerd worden als de ‘stopkracht’ die
+              werkt op het deeltje. De eenheid van LET-waarde is keV μm-1.
+2p   14       Leid af dat ook newton (N) een eenheid van LET-waarde is.
+
+
+
+
+VW-1023-a-o                                  10 / 17                           lees verder ►►►
+              Alfastralers leiden in het algemeen tot hogere LET-waarden dan
+              bètastralers, en zijn om die reden geschikter voor nuclidetherapie.
+              Van twee alfastralers, I en II, is gemeten hoe de LET-waarde varieert met
+              de afgelegde weg in water. Zie figuur 2. Het gedrag in water is
+              vergelijkbaar met dat in weefsel.
+
+              figuur 2
+
+
+
+
+              In figuur 2 is te zien dat de LET-waarde een maximum heeft. Voordat dit
+              maximum bereikt wordt, geldt voor een alfadeeltje: hoe lager de snelheid,
+              hoe hoger de LET-waarde.
+2p   15       Leg dit uit met behulp van figuur 2.
+
+              De alfadeeltjes van alfastraler I hebben bij binnenkomst een hogere LET-
+              waarde dan de alfadeeltjes van alfastraler II. Alfadeeltjes van alfastraler I
+              komen dus met een lagere kinetische energie het water in dan
+              alfadeeltjes van alfastraler II.
+4p   16       Leg uit op welke andere twee manieren dat is af leiden uit figuur 2.
+
+
+
+
+VW-1023-a-o                                   11 / 17                             lees verder ►►►
+              Alfastralers zijn geschikter voor nuclidetherapie dan bètastralers, maar ze
+              kennen ook een praktisch nadeel dat bij het gebruik van bètastralers niet
+              optreedt. Het uitzenden van een alfadeeltje leidt tot een grote terugslag
+              van de dochterkern. Door deze terugslag kan de dochterkern zich
+              losrukken van de dragerstof. Een dochterkern is zelf vaak ook instabiel.
+              Zie de schematische weergave in figuur 3.
+
+              figuur 3
+
+
+
+
+2p   17       Leg uit welk nadeel er optreedt voor de patiënt wanneer de dochterkern
+              loskomt van de dragerstof.
+
+              De grootte van de terugslag is recht evenredig met de grootte van de
+              impuls van het uitgezonden deeltje.
+              Voor de impuls van een deeltje geldt:
+
+                  p  2 Ek m     (2)
+
+              Hierin is:
+               p de impuls in kg m s-1
+               Ek de kinetische energie in J
+               m de massa in kg
+
+5p   18       Voer de volgende opdrachten uit:
+               Leid formule (2) af gebruikmakend van formules uit een tabellenboek.
+               Toon aan dat, bij gelijke energieën, de impuls van een alfadeeltje
+                 85 maal zo groot is als de impuls van een bètadeeltje.
+
+
+
+
+VW-1023-a-o                                   12 / 17                           lees verder ►►►
+              Om te voorkomen dat de dochterkern zich losrukt van de dragerstof, is
+              aan de TU Delft onderzocht of het mogelijk is om alfastralers in te
+              kapselen in kleine bolletjes, zogenaamde polymeersomen. De
+              dochterkernen van de alfastralers blijven dan gevangen in het
+              polymeersoom. Als alfastraler wordt vaak Actinium-225 gebruikt. In
+              figuur 4 is dit schematisch weergegeven.
+
+              figuur 4
+
+
+
+
+              Er zijn tests uitgevoerd met polymeersomen die bij inbreng in het lichaam
+              elk een hoeveelheid Actinium-225 bevatten met een activiteit van
+              0,10 kBq.
+4p   19       Bereken de massa Actinium-225 per polymeersoom bij inbreng in het
+              lichaam.
+
+
+
+
+VW-1023-a-o                                  13 / 17                           lees verder ►►►
+              In figuur 5 is de meest voorkomende vervalreeks gegeven van Actinium-
+              225 tot aan het stabiele Bismuth-209.
+
+              figuur 5
+
+
+
+
+              Het dosisequivalent dat de tumor ontvangt, wordt groter doordat de
+              dochterkernen van Actinium-225 gevangen blijven in het polymeersoom.
+4p   20       Voer de volgende opdrachten uit:
+               Geef twee redenen waarom er in de bepaling van het dosisequivalent
+                 alleen rekening gehouden hoeft te worden met het alfaverval.
+               Bepaal, met behulp van figuur 5, hoeveel keer zo groot dit
+                 dosisequivalent is bij gebruik van een polymeersoom.
+
+
+
+
+VW-1023-a-o                                14 / 17                          lees verder ►►►
+      Zonnepanelen
+
+              Een zonnepaneel bestaat uit                figuur 1
+              een aantal zonnecellen die in serie
+              geschakeld zijn. Zonnepanelen kunnen
+              weer in een grotere schakeling
+              opgenomen worden en bijvoorbeeld op
+              een dak geplaatst worden. Zie figuur 1.
+              Femke en Lotta onderzoeken hoe het
+              vermogen dat een zonnecel levert,
+              afhangt van de grootte van de
+              weerstand die erop is aangesloten. Ze
+              leggen één zonnecel in de zon. Op de
+              zonnecel schijnt de zon met een
+              constante intensiteit. Ze sluiten een
+              variabele weerstand op de zonnecel
+              aan en meten dan de stroom door en de
+              spanning over de zonnecel. Zie figuur 2.
+              Ze berekenen het vermogen dat de
+              zonnecel levert en zetten hun resultaten
+              in een grafiek, zie figuur 3.
+
+              figuur 2                             figuur 3
+
+
+
+
+              Bij een spanning van 0,50 V is het vermogen dat de zonnecel levert
+              maximaal. De stroomsterkte is dan 2,7 A.
+
+3p   21       Toon dat aan.
+
+
+
+
+VW-1023-a-o                                  15 / 17                         lees verder ►►►
+              Eén zonnepaneel bestaat uit 24 zonnecellen die in serie geschakeld zijn.
+              De spanning van elke zonnecel wordt stabiel op 0,50 V gehouden. Op de
+              uitwerkbijlage staat een vereenvoudigd symbool van één zonnepaneel
+              getekend.
+5p   22       Voer de volgende opdrachten uit:
+               Toon aan dat de spanning over één zonnepaneel 12 V is.
+               Teken op de uitwerkbijlage nog 5 zonnepanelen en verbind de
+                  6 zonnepanelen zodat ze gezamenlijk een spanning van 36 V leveren.
+               Bereken de stroomsterkte die deze schakeling levert als elk paneel
+                  belicht wordt met dezelfde zonne-intensiteit als in het onderzoek van
+                  Femke en Lotta.
+
+              Een zonnecel is gemaakt van een zogenaamd halfgeleidermateriaal. In
+              een halfgeleider kan een elektron slechts in banden van zeer dicht bij
+              elkaar gelegen energieniveaus bestaan. Twee van zulke banden zijn de
+              valentieband en de geleidingsband. Daartussen zit bij een halfgeleider
+              een energiesprong, de zogeheten bandgap (zie figuur 4). In de
+              grondtoestand is de valentieband volledig bezet met elektronen. De
+              geleidingsband is dan nog niet met elektronen bezet.
+
+              figuur 4
+
+
+
+
+              Een foton kan één elektron vrijmaken uit het atoomrooster. Dit gebeurt
+              alleen als de energie van dat foton groot genoeg is (groter dan de
+              bandgap). Het elektron gaat dan van een energieniveau in de
+              valentieband naar een energieniveau in de geleidingsband. Als er
+              elektronen in de geleidingsband zitten, wordt het materiaal geleidend en
+              kan er een stroom gaan lopen.
+
+              Femke merkt op dat het bovenstaande proces lijkt op het foto-elektrisch
+              effect.
+2p   23       Geef een overeenkomst en een verschil tussen het bovenstaande proces
+              en het foto-elektrisch effect.
+
+
+
+
+VW-1023-a-o                                  16 / 17                           lees verder ►►►
+              figuur 5
+
+                materiaal     bandgap in eV
+
+                  CdTe              1,58
+                   Ge               0,72
+                  InSb              0,23
+                  PbSe              0,27
+                   Si               1,10
+                  ZnS               3,60
+                  ZnSe              2,70
+
+              In figuur 5 staat voor verschillende materialen de bandgap weergegeven.
+              Femke en Lotta gebruiken een zonnecel gemaakt van silicium. Een
+              bepaald foton brengt een elektron in de geleidingsband van deze
+              zonnecel.
+3p   24       Bepaal met behulp van figuur 5 wat de golflengte van dit foton maximaal
+              kan zijn.
+
+              Zonlicht bestaat uit fotonen van verschillende energieën. Fotonen met
+              meer energie dan nodig is om de bandgap te overbruggen, geven het
+              overschot van hun energie af in de vorm van warmte. Hiermee daalt het
+              rendement van een zonnecel. Om het rendement te verhogen worden
+              dunne laagjes van andere halfgeleiders op het silicium aangebracht. Deze
+              laagjes zijn zo dun dat fotonen erdoorheen kunnen gaan.
+
+              Op de uitwerkbijlage staat schematisch een dwarsdoorsnede van een
+              zonnecel getekend, met drie dunne laagjes op het silicium. Ieder laagje is
+              gemaakt van een ander materiaal uit figuur 5.
+4p   25       Voer de volgende opdrachten uit:
+               Geef op de uitwerkbijlage in iedere laag aan van welk materiaal uit
+                 figuur 5 deze laag gemaakt is.
+               Leg je antwoord uit.
+
+
+
+
+VW-1023-a-o                                  17 / 17                           lees verdereinde
+                                                                                            ►►► 
+

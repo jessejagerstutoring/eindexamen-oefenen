@@ -1,0 +1,603 @@
+                                                                  Examen HAVO
+
+                                                                        2025
+                                                                               tijdvak 1
+                                                                         vrijdag 23 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 33 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-25-1-o
+      Plaatstaal maken
+
+            Staal is een legering die voornamelijk uit ijzer bestaat. Plaatstaal is een
+            toepassing van staal die onder andere in auto’s en treinen wordt gebruikt.
+            Plaatstaal wordt gemaakt door middel van walsen. Hierbij worden
+            langwerpige blokken staal verhit tot 1200 C en vervolgens tussen
+            verwarmde rollen geperst. Zo ontstaat een lange plaat. Door het staal
+            meerdere malen achter elkaar te walsen, kan de gewenste plaatdikte
+            worden verkregen. De lange plaat wordt vervolgens opgerold en
+            afgekoeld. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De reden dat staal eerst wordt verhit voordat het geperst wordt, is dat
+            staal bij kamertemperatuur moeilijk vervormbaar is.
+
+2p    1     Voer de volgende opdrachten uit:
+             Geef de naam van het meest voorkomende bindingstype in staal.
+             Licht toe op microniveau dat staal door verhitten beter vervormbaar
+               wordt.
+
+
+
+
+HA-1028-a-25-1-o                            2 / 17                            lees verder ►►►
+            Tijdens het walsen reageert het hete staal met zuurstof uit de lucht.
+            Hierbij ontstaat een dun laagje ijzeroxide (mengsel van FeO en Fe2O3).
+            Voor sommige toepassingen van plaatstaal moet dit laagje worden
+            verwijderd. Dit gebeurt tijdens een proces dat beitsen wordt genoemd.
+            Hierbij wordt een rol plaatstaal afgerold, door een bad met beitsvloeistof
+            geleid en weer opgerold. Zie figuur 2. Beitsvloeistof is een oplossing van
+            HCl in water.
+
+            figuur 2
+
+
+
+
+2p    2     Voer de volgende opdrachten uit:
+             Noteer het nummer of de omschrijving van een gevarenpictogram dat
+               past bij beitsvloeistof. Maak gebruik van Binas-tabel 96A en B of
+               ScienceData-tabel 38.1.
+             Licht je antwoord toe.
+
+1p    3     Geef een algemene scheikundige naam voor reacties van metalen met
+            zuurstof.
+
+            Tijdens het beitsen treden de volgende reacties op:
+
+            Fe2O3 (s) + Fe (s) + 6 H+ (aq)  3 Fe2+ (aq) + 3 H2O (l)        (reactie 1)
+            FeO (s) + 2 H+ (aq)  Fe2+ (aq) + H2O (l)                       (reactie 2)
+
+            Reactie 1 is een redoxreactie.
+
+2p    4     Leid af, aan de hand van de ladingsverandering van de ijzerionen, of de
+            ijzerionen in Fe2O3 in reactie 1 als oxidator of als reductor reageren.
+            Noteer je antwoord als volgt:
+            lading van de ijzerionen in Fe2O3: …
+            lading van de ijzerionen na reactie 1: ...
+            IJzerionen in Fe2O3 reageren dus als: ...
+
+
+
+
+HA-1028-a-25-1-o                             3 / 17                           lees verder ►►►
+      Beitsvloeistof recyclen
+
+            Bij het maken van plaatstaal wordt beitsvloeistof gebruikt. Na gebruik
+            bevat deze waterige vloeistof Fe2+-ionen, H+-ionen en Cl–-ionen. In deze
+            opgave worden twee processen beschreven waarmee gebruikte
+            beitsvloeistof wordt gerecycled: het proces van New Zealand Steel
+            (proces A) en het proces van SMS Siemag (proces B). In beide processen
+            wordt gebruikte beitsvloeistof omgezet tot onder andere Fe3+-ionen en
+            HCl-gas.
+            Proces A
+            Het bedrijf New Zealand Steel maakt gebruik van een vortexreactor. Zie
+            figuur 1. Een vortexreactor is een reactor waarin een ronddraaiende
+            stroom van gassen (een vortex) aanwezig is. De reactor wordt verwarmd
+            met behulp van gasbranders. De gebruikte beitsvloeistof wordt via
+            vernevelaars van boven in de reactor gebracht bij een temperatuur van
+            minimaal 350 °C. Hierdoor verdampt het water waarin de ionen zijn
+            opgelost en ontstaan vast FeCl2 en gasvormig HCl. Het vaste FeCl2
+            reageert vervolgens in de vortexreactor tot Fe2O3, wat aan de onderkant
+            van de reactor wordt afgevoerd en opgeslagen. HCl en stoom verlaten de
+            vortexreactor aan de bovenkant en worden opgevangen.
+
+            figuur 1
+
+
+
+
+HA-1028-a-25-1-o                           4 / 17                          lees verder ►►►
+3p    5     Geef het ontstaan van vast FeCl2 en van gasvormig HCl uit de
+            beitsvloeistof weer in één reactievergelijking. Gebruik
+            toestandsaanduidingen.
+
+            De omzetting van FeCl2 tot Fe2O3 verloopt volgens reactie 1.
+
+            4 FeCl2 (s) + 4 H2O (g) + O2 (g)  2 Fe2O3 (s) + 8 HCl (g) (reactie 1)
+
+            Reactie 1 verloopt zeer snel onder de omstandigheden in de reactor.
+
+3p    6     Voer de volgende opdrachten uit:
+             Noem één omstandigheid in de reactor die bijdraagt aan een hoge
+               reactiesnelheid.
+             Licht je antwoord toe met behulp van het botsende-deeltjesmodel.
+
+            Reactie 1 is exotherm.
+
+3p    7     Bereken de reactiewarmte van reactie 1 per mol gevormd HCl.
+            Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.
+
+            Proces B
+            Het proces van SMS Siemag vindt plaats in drie stappen en is op de
+            uitwerkbijlage onvolledig en schematisch weergegeven:
+            Stap 1:     De gebruikte beitsvloeistof wordt verwarmd tot 70 °C in een
+                        pre-concentrator. Hierdoor verdampt een deel van het water en
+                        een deel van het opgeloste HCl. Deze gassen worden naar een
+                        opvangvat geleid. Een geconcentreerde oplossing van
+                        Fe2+-ionen, H+-ionen en Cl–-ionen stroomt naar reactor 1 (R1).
+            Stap 2:     In R1 reageren alle Fe2+-ionen met zuurstof volgens reactie 2,
+                        bij een temperatuur van 150 °C en een druk van 7 bar.
+                      12 Fe2+(aq) + 3 O2(g)  8 Fe3+(aq) + 2 Fe2O3(s) (reactie 2)
+            Stap 3:   De ontstane suspensie wordt in reactor 2 (R2) geleid bij een
+                      temperatuur van 170 °C. Hier verdampt nog meer water. Ook
+                      treedt reactie 3 op:
+                      2 Fe3+ (aq) + 6 Cl– (aq) + 3 H2O  6 HCl (g) + Fe2O3 (s) (reactie 3)
+                      Vast Fe2O3 wordt onder in R2 afgevoerd en opgeslagen. Alle
+                      overige H+-ionen en Cl–-ionen verlaten R2 als HCl-gas. Alle
+                      gasvormige stoffen worden naar het opvangvat geleid.
+
+1p    8     Noem een stofeigenschap op basis waarvan vast Fe2O3 in R2 wordt
+            gescheiden van het reactiemengsel.
+
+
+
+
+HA-1028-a-25-1-o                             5 / 17                             lees verder ►►►
+            Op de uitwerkbijlage is proces B in een onvolledig blokschema
+            weergegeven.
+
+3p    9     Maak het blokschema op de uitwerkbijlage compleet.
+             Neem aan dat er na stap 2 geen zuurstof en geen Fe2+ meer overblijft.
+             Teken de pijlen van de ontbrekende stofstromen.
+             Noteer de nummers van de volgende stoffen en/of deeltjes bij de juiste
+              pijlen:
+               1 HCl-gas
+               2 Fe2O3
+               3 Fe2+-ionen
+               4 Fe3+-ionen
+               5 waterdamp
+               6 oplossing met H+ en Cl–
+               7 zuurstof
+             Sommige nummers moet je meer dan één keer gebruiken.
+
+            Beide processen (A en B) zijn bedoeld om stoffen te hergebruiken. Op
+            basis van de uitgangspunten van de groene chemie hebben beide
+            processen voordelen en nadelen.
+
+2p    10    Geef op de uitwerkbijlage voor elk proces een mogelijk nadeel ten
+            opzichte van het andere proces. Noteer hierbij telkens het nummer van
+            het uitgangspunt waarop je het nadeel baseert. Maak gebruik van
+            Binas-tabel 97A of ScienceData-tabel 38.6.
+
+
+
+
+HA-1028-a-25-1-o                           6 / 17                           lees verder ►►►
+      Groene coatings
+
+            Om oppervlakken van metalen of kunststoffen te beschermen tegen
+            invloeden van buitenaf, kunnen ze worden bedekt met een laagje van een
+            polymeer. Dit laagje wordt een coating genoemd. Veel coatings bevatten
+            polyacrylaten, zoals poly-ethylacrylaat. In figuur 1 is een fragment van
+            een molecuul poly-ethylacrylaat weergegeven.
+
+            figuur 1
+
+
+
+
+            Poly-ethylacrylaat wordt gemaakt door poly-additie van het monomeer
+            ethylacrylaat.
+
+2p    11    Geef de structuurformule van het monomeer ethylacrylaat.
+
+            Polyacrylaten worden gemaakt uit aardolie en zijn daardoor niet
+            duurzaam. Nederlands onderzoek heeft geleid tot een nieuwe methode
+            om monomeren voor coatings te maken. In deze nieuwe methode wordt
+            uitgegaan van biomassa. Uit biomassa wordt de stof furfural gemaakt.
+            Furfural kan in twee stappen worden omgezet tot een stof die als
+            monomeer voor coatings kan worden gebruikt. In stap 1 reageert furfural
+            dat is opgelost in methanol, met zuurstof tot hydroxybutenolide. In figuur 2
+            zijn de structuurformules van furfural en hydroxybutenolide weergegeven.
+
+            figuur 2
+
+
+
+
+2p    12    Voer de volgende opdrachten uit:
+             Beschrijf wat structuurisomeren zijn.
+             Leg vervolgens uit of furfural en hydroxybutenolide structuurisomeren
+               van elkaar zijn.
+
+
+
+
+HA-1028-a-25-1-o                            7 / 17                            lees verder ►►►
+            In stap 2 wordt de temperatuur verhoogd. Hydroxybutenolide reageert dan
+            met methanol tot methoxybutenolide, afgekort B2. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            Butenolides zoals B2 zijn monomeren voor polymerisatiereacties. In
+            plaats van methanol kunnen ook andere alcoholen worden gebruikt voor
+            stap 2. Hierbij ontstaan andere butenolides. Zo ontstaat het monomeer B4
+            uit de reactie van propaan-2-ol met hydroxybutenolide. Op de
+            uitwerkbijlage is deze reactie onvolledig weergegeven.
+
+3p    13    Maak op de uitwerkbijlage de vergelijking van de reactie van propaan-2-ol
+            met hydroxybutenolide compleet. Gebruik structuurformules.
+
+            B4 kan met een ander monomeer worden gepolymeriseerd tot een
+            copolymeer dat geschikt is als coating. Het andere monomeer bepaalt de
+            eigenschappen van het copolymeer. Een voorbeeld van zo’n ander
+            monomeer is VeoVa-10. Zie figuur 4. Polymerisatie van B4 met VeoVa-10
+            levert een thermoplast op.
+
+            figuur 4
+
+
+
+
+            In een onderzoek werd de reactiesnelheid van B4 met VeoVa-10 bepaald.
+            Na 8000 seconden bleek 96% van alle moleculen B4 en 96% van alle
+            moleculen VeoVa-10 via een poly-additiereactie te zijn omgezet tot een
+            copolymeer.
+
+4p    14    Bereken hoeveel gram copolymeer in 1,0 L oplossing is ontstaan na
+            8000 seconden. Maak onder andere gebruik van de volgende gegevens:
+             De beginconcentraties van B4 en van VeoVa-10 waren 2,15 M.
+             De molaire massa van B4 is 142 g mol–1.
+
+
+
+
+HA-1028-a-25-1-o                           8 / 17                           lees verder ►►►
+            Coatings die ontstaan uit de poly-additie van B2 of B4 met VeoVa-10 zijn
+            vervormbaar. Wanneer een lagere vervormbaarheid gewenst is, moet men
+            butenolides met een ander monomeer dan VeoVa-10 polymeriseren. Een
+            voorbeeld van een monomeer dat door poly-additie met B2 een coating
+            met een lagere vervormbaarheid oplevert, is DVE. Zie figuur 5.
+
+            figuur 5
+
+
+
+
+3p    15    Verklaar aan de hand van de structuurformule van DVE of door
+            poly-additie met B2 een thermoharder ontstaat.
+
+            Een andere belangrijke eigenschap van een coating is een goede
+            hechting aan het te beschermen oppervlak. De onderzoekers
+            onderzochten bij verschillende copolymeren hoe goed ze hechtten aan
+            oppervlakken van polyetheen. Voorbeelden van deze copolymeren zijn die
+            van DVE met B2 en met B3. De structuurformules van B2 en B3 zijn in
+            figuur 6 weergegeven.
+
+            figuur 6
+
+
+
+
+            Een copolymeer van DVE met B2 (copolymeer A) bleek slechter te
+            hechten aan een oppervlak van polyetheen dan een copolymeer van DVE
+            met B3 (copolymeer B).
+
+2p    16    Geef een mogelijke verklaring waarom copolymeer B beter hecht aan een
+            oppervlak van polyetheen dan copolymeer A. Gebruik hierbij figuur 6.
+
+
+
+
+HA-1028-a-25-1-o                           9 / 17                          lees verder ►►►
+      Plastic-etende bacterie
+
+            Het polymeer polyethyleentereftalaat (PET), waarvan PET-flessen worden
+            gemaakt, is slecht afbreekbaar en wordt vaak op vuilnisbelten gestort.
+            Japanse onderzoekers hebben in 2016 in slib van een vuilnisbelt een
+            soort bacterie aangetroffen die PET kan afbreken. Deze bacterie bleek
+            het enzym PET-ase te produceren, dat de afbraak van PET mogelijk
+            maakt. Dit enzym kan de oplossing zijn voor onze berg PET-afval die
+            steeds groter wordt. In figuur 1 is de eerste stap van deze afbraakreactie
+            weergegeven.
+
+            figuur 1
+
+
+
+
+2p    17    Voer de volgende opdrachten uit:
+             Geef de formule van stof A.
+             Geef de naam van het type afbraakreactie waarmee PET-ase de
+               groep met cijfer 2 in figuur 1 verbreekt.
+
+            Wanneer PET-ase aan een molecuul PET gebonden is, vindt de
+            afbraakreactie plaats. PET-ase kan een molecuul PET doormidden
+            ‘knippen’ bij de karakteristieke groep die in figuur 1 is aangeduid met de
+            cijfers 1, 2 en 3.
+
+1p    18    Geef de naam van de karakteristieke groep die in figuur 1 is aangeduid
+            met de cijfers 1, 2 en 3.
+
+
+
+
+HA-1028-a-25-1-o                            10 / 17                            lees verder ►►►
+            Om de structuur van het enzym PET-ase te achterhalen, gebruikten
+            onderzoekers een tussenproduct van de afbraak van PET: de stof BHET.
+            De structuurformule van BHET is in figuur 2 weergegeven.
+
+            figuur 2
+
+
+
+
+            Uit onderzoek blijkt dat drie aminozuur-eenheden van het enzym PET-ase
+            een belangrijke rol spelen bij de afbraak van BHET door PET-ase. Dit zijn
+            serine, histidine en asparaginezuur. De restgroepen van deze
+            aminozuur-eenheden zijn door middel van waterstofbruggen met elkaar of
+            met het molecuul BHET verbonden.
+
+            Op de uitwerkbijlage zijn deze aminozuur-eenheden, een molecuul BHET
+            en hun onderlinge bindingen (deels vereenvoudigd en onvolledig)
+            weergegeven. Van de aminozuur-eenheid Ser ontbreekt de restgroep. Er
+            is één waterstofbrug weergegeven, tussen de OH-groep van Asp en een
+            N-atoom van His. In dit geval gaat het N-atoom namelijk een
+            waterstofbrug aan.
+
+3p    19    Maak de weergave op de uitwerkbijlage compleet.
+             Teken de ontbrekende restgroep van de serine-eenheid op de juiste
+              plaats. Gebruik Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+             Teken door middel van een stippellijn (• • •) de volgende twee
+              waterstofbruggen:
+               1 een waterstofbrug tussen de serine-eenheid en BHET;
+               2 een waterstofbrug tussen de histidine-eenheid en BHET.
+
+            Bij de binding van een molecuul BHET aan PET-ase zijn ook de
+            aminozuur-eenheden Met, Trp, Ala en Ile van belang. Hierbij zijn de
+            hydrofobe restgroepen van deze aminozuur-eenheden betrokken.
+
+1p    20    Geef de naam van het type binding tussen deze aminozuren en BHET.
+
+
+
+
+HA-1028-a-25-1-o                           11 / 17                          lees verder ►►►
+            Om het pH-optimum van PET-ase te onderzoeken, mengden de
+            onderzoekers PET-folie en PET-ase met telkens een andere oplossing
+            met een pH-waarde tussen 6,00 en 10,00. Bij elk experiment werd na
+            18 uur de concentratie van vrijgekomen afbraakproducten gemeten.
+            Figuur 3 toont de resultaten van dit onderzoek.
+
+            figuur 3
+
+                                3
+                concentratie
+               vrijgekomen
+             afbraakproducten
+                   (mM)
+                                2
+
+
+
+
+                                1
+
+
+
+
+                                0
+                                    6   7        8       9           10
+                                                                pH
+
+2p    21    Bij welke pH ligt het pH-optimum van PET-ase? Licht je antwoord toe.
+            Gebruik figuur 3.
+
+3p    22    Bereken met behulp van figuur 3 de gemiddelde reactiesnelheid in mol
+            afbraakproducten per liter per seconde bij een pH van 10,00. Lees af op 2
+            decimalen en geef de uitkomst in het juiste aantal significante cijfers.
+
+2p    23    Bereken de [OH–] in mol L–1 bij pH = 9,50 (T = 298K).
+
+
+
+
+HA-1028-a-25-1-o                            12 / 17                         lees verder ŹŹŹ
+            Het belangrijkste afbraakproduct van PET is de stof MHET. MHET wordt
+            vervolgens door een ander enzym, MHET-ase, met water omgezet tot de
+            stof TPA en nog één andere stof, stof X. TPA en stof X zijn grondstoffen
+            voor nieuw PET. In figuur 4 zijn de structuurformules van MHET en TPA
+            weergegeven.
+
+            figuur 4
+
+
+
+
+2p    24    Geef de structuurformule van stof X.
+
+            Momenteel wordt ingezameld PET nog vaak door extruderen verwerkt tot
+            nieuwe voorwerpen. Maar bij meerdere keren achter elkaar extruderen
+            ontstaat PET met veel kortere ketens. Als PET door enzymen zou kunnen
+            worden afgebroken tot TPA en stof X (de grondstoffen van PET) heeft dit
+            een aantal voordelen ten opzichte van extruderen.
+
+2p    25    Beschrijf met behulp van informatie in deze opgave twee voordelen van
+            de afbraak van PET door enzymen ten opzichte van het recyclen van PET
+            door extruderen.
+
+
+
+
+HA-1028-a-25-1-o                           13 / 17                          lees verder ►►►
+      Waterstofbromide-flowbatterij
+
+            Om duurzame energie betaalbaar op te slaan, hebben onderzoekers van
+            de Technische Universiteit Eindhoven een batterij ontwikkeld die
+            voldoende zonne-energie kan opslaan om een kantoor enkele weken van
+            elektrische energie te voorzien. Deze batterij is een waterstofbromide-
+            flowbatterij (HBFB) en heeft de grootte van een aantal zeecontainers.
+
+            Een HBFB bevat een oplossing van het zuur waterstofbromide (HBr) in
+            water. Deze oplossing bevat de deeltjes H+ (aq) en Br– (aq). De zure
+            oplossing wordt door een pomp door de batterij gepompt. Een laagje
+            polypropeen aan de binnenzijde van de pomp beschermt deze tegen de
+            hoge zuurgraad.
+
+3p    26    Geef een stukje uit het midden van de structuurformule van polypropeen.
+            In dit stukje moeten drie monomeereenheden zijn verwerkt.
+
+            De HBFB bevat vijftig elektrochemische cellen die met elkaar zijn
+            verbonden. Elke elektrochemische cel bestaat uit twee halfcellen: een
+            HBr-halfcel en een H2-halfcel. Zie figuur 1. De HBr-halfcel bevat een
+            poreuze elektrode van koolstof waar de zure HBr-oplossing doorheen
+            wordt gepompt. De H2-halfcel bevat ook een poreuze elektrode van
+            koolstof. De halfcellen worden van elkaar gescheiden door een membraan
+            dat H+-ionen doorlaat.
+
+            figuur 1
+
+
+
+
+HA-1028-a-25-1-o                          14 / 17                          lees verder ►►►
+            Wanneer een HBFB voor de eerste keer wordt opgeladen, worden in de
+            HBr-halfcel de Br–-ionen omgezet tot Br3–-ionen. In de H2-halfcel worden
+            H+-ionen die door het membraan zijn gegaan, omgezet tot waterstofgas.
+            Tijdens het opladen treden de volgende halfreacties op:
+
+            HBr-halfcel:       3 Br– (aq)              Br3– (aq) + 2 e–
+            H2-halfcel:        2 H+ (aq) + 2 e–        H2 (g)
+
+2p    27    Voer de volgende opdrachten uit:
+             Geef de vergelijking van de totale reactie voor het opladen van de
+               HBFB.
+             Leg uit dat met behulp van deze totale vergelijking is af te leiden dat
+               er H+-ionen van de oorspronkelijke HBr-oplossing overblijven.
+
+            Op de uitwerkbijlage is de elektrochemische cel nogmaals schematisch
+            weergegeven.
+
+2p    28    Geef in de figuur op de uitwerkbijlage aan in welke richting de elektronen
+            zich door de stroomdraad verplaatsen en in welke richting H+-ionen zich
+            door het membraan verplaatsen tijdens het opladen. Doe dit door het
+            tekenen van:
+             een pijl met het bijschrift e– bij de stroomdraad;
+             een pijl met het bijschrift H+ door het membraan.
+
+
+
+
+HA-1028-a-25-1-o                            15 / 17                           lees verder ►►►
+            Figuur 2 geeft een vereenvoudigde weergave van de HBFB. In plaats van
+            50 elektrochemische cellen zijn er maar 5 getekend.
+
+            figuur 2
+
+
+
+
+            De HBr-halfcellen zijn aangesloten op een voorraadvat met
+            HBr-oplossing. Hierin komt na het opladen ook Br3– terecht. Uit voorzorg
+            is rond dit voorraadvat een opvangbak met calciumcarbonaat geplaatst.
+            Wanneer de zure HBr-oplossing zou lekken, ontstaat een gevaarlijke
+            situatie. Het calciumcarbonaat vermindert dit gevaar.
+
+2p    29    Geef de formule van calciumcarbonaat en leg uit dat calciumcarbonaat
+            het gevaar vermindert bij een lekkage van HBr-oplossing.
+            Noteer je antwoord als volgt:
+            formule calciumcarbonaat: …
+            uitleg: …
+
+            De H2-halfcellen zijn aangesloten op 4 voorraadvaten met waterstof. Het
+            volume van elk vat is 50 m3. De dichtheid van H2 in een opgeladen HBFB
+            is 0,732 kg m–3. Uiteindelijk wordt 89% van deze hoeveelheid H2 omgezet
+            tijdens stroomlevering. Hierbij komt 2,4∙105 J per mol H2 vrij.
+
+4p    30    Bereken de maximale hoeveelheid elektrische energie in kWh die kan
+            worden geleverd door de HBFB.
+            1,0 kWh = 3,6∙106 J.
+
+
+
+
+HA-1028-a-25-1-o                           16 / 17                          lees verder ►►►
+      Disulfiram
+
+            Disulfiram (C10H20N2S4) is een alcohol-ontwenningsmiddel. Wanneer bij
+            gebruik slechts een kleine hoeveelheid van een alcoholhoudende drank
+            wordt gedronken, veroorzaakt disulfiram al vervelende lichamelijke
+            verschijnselen, zoals hoofdpijn en overgeven. Bij de afbraak van alcohol
+            ontstaat ethanal. Disulfiram zorgt ervoor dat het enzym dat ethanal omzet
+            tot azijnzuur, niet meer werkt.
+
+2p    31    Geef de structuurformule van azijnzuur.
+
+            Een hoge concentratie ethanal in het bloed geeft de drinker het gevoel
+            doodziek te zijn. De plek waar disulfiram met het enzym reageert, is in het
+            onderstaande fragment:
+
+            ~Cys–Cys~
+
+            Disulfiram verbindt de cysteïne-eenheden met elkaar door middel van een
+            S–S-binding tussen de SH-groepen van de restgroepen. Deze reactie is in
+            de figuur schematisch en onvolledig weergegeven.
+
+            figuur
+
+
+
+
+            Op het stippellijntje na de pijl ontbreekt één coëfficiënt en één soort
+            deeltje.
+
+2p    32    Geef de coëfficiënt en de juiste formule van dit deeltje.
+
+3p    33    Geef de structuurformule van het fragment ~Cys–Cys~ dat is ontstaan
+            nadat het enzym met disulfiram heeft gereageerd.
+            Gebruik de figuur en Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1028-a-25-1-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,587 @@
+                                                                    Examen VWO
+
+                                                                        2023
+                                                                               tijdvak 2
+                                                                        tijdsduur: 3 uur
+
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 28 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-23-2-o
+      Fietshelm
+
+            Een fietshelm is ontworpen om het hoofd te beschermen tijdens een
+            botsing of val. Tijdens zo’n botsing, ook wel impact genoemd, kan het
+            hoofd blootgesteld worden aan enorm grote versnellingen. Deze kunnen
+            leiden tot ernstig hoofdletsel. Een fietshelm is ontworpen om de grootte
+            van deze versnellingen tijdens een impact zo klein mogelijk te houden.
+
+            De fietshelm is opgebouwd uit verschillende lagen. Zie figuur 1. Onder de
+            harde schaal aan de buitenkant bevindt zich de zogenaamde
+            absorptielaag. Deze laag bestaat meestal uit piepschuim. Dit piepschuim
+            wordt tijdens een impact ingedrukt.
+
+            figuur 1
+
+
+
+
+                                                          figuur 2
+
+            Fietshelmen moeten voldoen aan
+            een Europese norm, de EN-1078.
+            Daarin staan tests beschreven
+            die de fietshelm met goed succes
+            moet doorlopen. In één van deze
+            tests valt een dummyhoofd met
+            helm op een harde grondplaat
+            met een voorgeschreven
+            impactsnelheid van 5,42 m s−1.
+            Zie figuur 2.
+
+
+
+
+            Om de voorgeschreven snelheid te bereiken is een bepaalde valhoogte
+            nodig.
+3p    1     Bereken deze valhoogte. Verwaarloos hierbij de invloed van eventuele
+            wrijvingskrachten.
+
+
+
+
+VW-1023-a-23-2-o                            2 / 16                           lees verder ►►►
+            In het dummyhoofd zit een versnellingsmeter. Tijdens de impact van het
+            hoofd met de grondplaat mag de verticale versnelling van het hoofd nooit
+            groter worden dan de normwaarde van 250 g. Hierin is g de
+            valversnelling. De absorptielaag in een fietshelm kan maximaal 20 mm
+            indeuken. Deze afstand is groot genoeg om ervoor te zorgen dat de
+            gemiddelde versnelling niet groter is dan de normwaarde.
+4p    2     Toon dit aan.
+
+            In de praktijk is de beweging van het dummyhoofd tijdens de impact niet
+            eenparig vertraagd. Er zijn dus momenten waarop de versnelling groter is
+            dan de gemiddelde waarde. De maximale versnelling op deze momenten
+            mag niet groter worden dan de normwaarde van 250 g.
+            In figuur 3 zijn de meetresultaten weergegeven van een impact van een
+            dummyhoofd met en zonder helm.
+
+            figuur 3
+
+
+
+
+            De snelheid waarmee het dummyhoofd de plaat raakt is in beide
+            experimenten gelijk.
+2p    3     Leg uit hoe je dit kunt concluderen uit figuur 3.
+
+
+
+
+VW-1023-a-23-2-o                            3 / 16                          lees verder ►►►
+            Een fietshelm is zo ontworpen dat deze de fietser optimaal beschermt bij
+            een val. Naast de dikte van de absorptielaag moet de ontwerper ook
+            rekening houden met het indrukgedrag van het gebruikte piepschuim. Dit
+            indrukgedrag kan onderzocht worden in een proefopstelling, zie figuur 4.
+
+                                                          figuur 4
+            In deze opstelling valt een metalen plaat
+            met een massa van 1,0 kg op een schijfje
+            piepschuim, waardoor het piepschuim
+            ingedrukt wordt. Tijdens deze impact
+            worden zowel de indrukking van het
+            piepschuim als de kracht op de grondplaat
+            gemeten.
+
+            Het indrukgedrag van piepschuim is afhankelijk van de dichtheid van het
+            piepschuim. Van piepschuim met drie verschillende dichtheden is het
+            indrukgedrag gemeten. In figuur 5 is voor elk van de drie dichtheden het
+            verband tussen kracht en indrukking weergegeven.
+
+            figuur 5
+
+
+
+
+            Hoewel de maximale remweg in een fietshelm 20 mm bedraagt is het
+            belangrijk om te voorkomen dat deze hele afstand gebruikt wordt tijdens
+            een impact.
+2p    4     Leg met behulp van figuur 5 uit waarom de remweg niet te groot mag
+            worden.
+
+
+
+
+VW-1023-a-23-2-o                            4 / 16                          lees verder ►►►
+            De impact van de vallende plaat op het piepschuim kan gesimuleerd
+            worden met een numeriek model. Zie figuur 6.
+            In dit model is x de indrukking van het piepschuim in m.
+
+            figuur 6
+                   Modelformules                              startwaarden
+             1     Als x  0,001 Dan                          x  0 (m)
+             2            Fp  C x                            v  5, 42 (ms 1 )
+             3     Anders                                     m  1,0 (kg)
+                                    19,8
+             4          Fp                                   g  9,81 (ms 2 )
+                                (0,020  x)0,9
+             5     EindAls                                    t  0 (s)
+             6     Fz  mg                                    dt  105 (s)
+             7     Fres  ...                                 C  ... (N m−1)
+                       Fres
+             8     a
+                         m
+             9     v  v  a dt
+             10    x  x  v dt
+             11    Als v  0 Dan
+             12         stop
+             13    EindAls
+             14    t  t  dt
+
+
+
+
+VW-1023-a-23-2-o                                 5 / 16                       lees verder ►►►
+            In de regels 2 en 4 van het model staan de formules die de grafieken van
+            figuur 5 beschrijven. Voor indrukkingen kleiner dan 1 mm geldt dat de
+            kracht evenredig is met de indrukking (regel 2). Voor grotere waarden van
+            x geldt een ingewikkeldere formule (regel 4). De formules in het model
+            van figuur 6 gelden voor piepschuim met een dichtheid van 31 kg m−3.
+2p    5     Bereken met behulp van de formules in de modelregels 2 en 4 de waarde
+            van C voor dit type piepschuim.
+
+            Regel 7 van het model is nog niet compleet.
+2p    6     Geef aan wat er in regel 7 van het model moet staan.
+
+            Het numerieke model wordt gebruikt om te onderzoeken wat het effect is
+            van de dichtheid van piepschuim op de beweging van de vallende plaat.
+            De impact is drie keer doorgerekend, waarbij de formules voor het
+            indrukgedrag zijn aangepast voor de drie verschillende dichtheden. In
+            figuur 7 is voor elk van deze dichtheden de berekende snelheid uitgezet
+            tegen de tijd.
+
+            figuur 7
+
+
+
+
+2p    7     Leg uit bij welke dichtheid van het piepschuim de maximale versnelling
+            van de vallende plaat het kleinst is geweest.
+
+
+
+
+VW-1023-a-23-2-o                            6 / 16                          lees verder ►►►
+      Deuterium
+
+            Een klein deel van alle waterstof in het heelal heeft naast een proton ook
+            nog een neutron in de kern. Dit isotoop 21 H wordt deuterium genoemd,
+            vaak kortweg aangeduid als D. Sterrenkundigen denken dat al het
+            deuterium in het heelal vlak na de oerknal is gevormd. Sindsdien is de
+            hoeveelheid deuterium in het heelal afgenomen door kernfusie in sterren.
+            Bij deze reactie fuseert een deuteriumkern met een proton tot een nieuw,
+            zwaarder deeltje.
+3p    8     Geef de reactievergelijking van dit proces.
+
+            Sterrenkundigen willen graag weten hoe snel de hoeveelheid deuterium in
+            het heelal afneemt. In gaswolken waar nog nooit een ster is ontstaan is de
+            verhouding tussen de hoeveelheden D en H sinds de oerknal niet
+            veranderd. Sterrenkundigen willen daarom de verhouding D/H in zulke
+            gaswolken vergelijken met de verhouding D/H op andere plaatsen in het
+            heelal.
+            Een veelgebruikte manier om de verhouding van het aantal atomen
+            deuterium en waterstof in een gaswolk te bepalen is door te kijken naar
+            het emissiespectrum van zo’n wolk. Wanneer een waterstof- of
+            deuteriumatoom terugvalt van de 2e naar de 1e aangeslagen toestand,
+            zendt het zichtbaar licht uit. Deze spectraallijn wordt bij waterstof
+            aangeduid met Hα en bij deuterium met Dα. De verhouding tussen de
+            intensiteiten van Dα en Hα is dus een maat voor de verhouding D/H in de
+            wolk.
+
+            De energieniveaus van waterstof en deuterium zijn gegeven door:
+
+                            k
+                   En  
+                            n2
+
+            Hierin is
+             En het energieniveau van de toestand n in eV
+             k      een constante, die voor waterstof gelijk is aan 13,606 eV en voor
+                     deuterium gelijk is aan 13,609 eV
+             n      de toestand
+
+4p    9     Toon aan dat de golflengte van Dα gelijk is aan 655,95 nm.
+
+
+
+
+VW-1023-a-23-2-o                               7 / 16                           lees verder ►►►
+            De Orionnevel is een grote wolk van            figuur 1
+            gloeiend gas in het sterrenbeeld Orion.
+            Zie figuur 1. Het emissiespectrum van
+            deze gaswolk is nauwkeurig onderzocht.
+
+
+
+
+            De waargenomen golflengte van Dα in de Orionnevel is 656,14 nm.
+5p   10     Voer de volgende opdrachten uit:
+             Leg uit of de Orionnevel van ons af beweegt of naar ons toe beweegt.
+             Bereken de radiale snelheid van de Orionnevel. Noteer je antwoord in
+               het juiste aantal significante cijfers.
+
+            In figuur 2 staat een deel van het waargenomen spectrum van de
+            Orionevel afgebeeld. De golflengte van Dα is iets kleiner dan de golflengte
+            van Hα. De totale intensiteit van Hα is vele malen groter dan de totale
+            intensiteit van Dα, waardoor Dα niet zichtbaar is in deze figuur. In figuur 3
+            staat het spectrum nogmaals afgebeeld, maar is op de verticale as alleen
+            het onderste deel van het diagram weergegeven. Hierop is Dα wel
+            zichtbaar.
+
+            figuur 2                            figuur 3
+
+
+
+
+VW-1023-a-23-2-o                             8 / 16                            lees verder ►►►
+            Uit de figuren 2 en 3 kunnen de wetenschappers de totale intensiteit
+            bepalen voor Hα en Dα. De intensiteit in een bepaald golflengte-interval is
+            gelijk aan de oppervlakte onder de grafiek tussen de grenzen van dit
+            interval.
+
+            Figuur 3 staat vergroot op de uitwerkbijlage.
+1p   11     Geef in de figuur op de uitwerkbijlage de oppervlakte aan die bepaald
+            moet worden om de totale intensiteit van Dα te bepalen.
+
+            Uit de figuren 2 en 3 kan de verhouding tussen het aantal atomen
+            deuterium en het aantal atomen waterstof in de Orionnevel bepaald
+            worden. Om de hypothese te toetsen dat deuterium verloren gaat bij het
+            ontstaan van sterren hebben wetenschappers vergelijkbare metingen
+            uitgevoerd aan grote gaswolken met een lage dichtheid. Door deze lage
+            dichtheid weten wetenschappers dat hier nog nooit sterren gevormd zijn.
+
+            Met behulp van deze metingen hebben de wetenschappers een model
+            opgesteld waarmee het verloop van de hoeveelheid deuterium in het
+            heelal beschreven kan worden. Volgens dit model neemt elke 15 miljard
+            jaar de hoeveelheid deuterium af met een factor tussen 2 en 3. Dit model
+            gaat dus uit van een exponentiële afname. De tijd waarin de helft van de
+            hoeveelheid deuterium in het heelal verloren is gegaan noemen we de
+            halveringstijd.
+3p   12     Bereken de ondergrens voor de halveringstijd die uit deze gegevens volgt.
+
+
+
+
+VW-1023-a-23-2-o                            9 / 16                            lees verder ►►►
+      Treinwielen
+
+            Een trein blijft nooit precies in het midden van het spoor rijden. Er is
+            ruimte tussen de wielen en het spoor waardoor de trein enigszins heen en
+            weer kan slingeren. Om te voorkomen dat treinen ontsporen zijn de wielen
+            als volgt ontworpen:
+            1 Beide wielen zitten vast aan dezelfde as. De wielen en de as vormen
+                een star geheel.
+            2 Beide wielen hebben een conische vorm: de diameter van het wiel is
+                aan de binnenkant groter dan aan de buitenkant. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Een as die zich niet precies in het midden van het spoor bevindt zal door
+            deze constructie van de wielen tijdens het rijden vanzelf terug naar het
+            midden bewegen.
+
+            In figuur 2 is een schematisch bovenaanzicht van de treinwielen
+            weergegeven op verschillende tijdstippen ( a t/m e). Op tijdstip a staat de
+            as uit het midden. Even later is de as enigszins geroteerd en beweegt
+            richting het midden van het spoor. Zie tijdstip b. Vervolgens schiet de as
+            een stukje door, zie tijdstip c, waarna aan de andere kant hetzelfde effect
+            optreedt. De trein gaat dus een slingerende zijwaartse beweging
+            uitvoeren. Hij “waggelt” een beetje over het spoor. Men noemt deze
+            golfbeweging de sinusloop.
+
+            figuur 2
+
+
+
+
+3p   13     Leg uit hoe de ontwerpkenmerken 1 en 2 er samen voor zorgen dat een
+            rijdende trein de sinusloop van figuur 2 zal uitvoeren.
+
+
+
+
+VW-1023-a-23-2-o                            10 / 16                           lees verder ►►►
+            Voor de golflengte λ van de sinusloop geldt de formule van Klingel:
+                      d r0
+               2π
+                      2
+            Hierin is:
+             d de afstand tussen de twee spoorrails in m
+             r0 de gemiddelde straal van het wiel in m, dus gemeten in het midden
+                 van het loopvlak
+             γ de wielbandconiciteit
+
+            De wielbandconiciteit is een maat voor het verschil tussen binnen- en
+            buitendiameter van een wiel.
+2p   14     Toon aan dat de wielbandconiciteit geen eenheid heeft.
+
+            In Nederland gelden de volgende gegevens:
+            Treinen rijden meestal met een snelheid van 140 km/h. De afstand tussen
+            twee spoorrails is 1435 mm. De waarde van de wielbandconiciteit is
+            0,050. De gemiddelde diameter van een treinwiel is 95 cm.
+3p   15     Toon aan dat de periode van de sinusloop bij deze snelheid 0,42 s is.
+
+                                                     figuur 3
+            Om in de wagon geen last te hebben
+            van oneffenheden op het spoor zijn
+            er veren geplaatst tussen de wagon
+            en de wielen. We kunnen het geheel
+            benaderen als een massa-
+            veersysteem. Zie figuur 3.
+
+
+
+
+            Bij een bepaalde snelheid gaat het massa-veersysteem resoneren met de
+            sinusloop. Om comfortabel te rijden bij een snelheid van 140 km/h wordt
+            de totale veerconstante van de veren zo gekozen dat het
+            massaveersysteem een eigentrilling heeft die sterk afwijkt van 0,42 s.
+            Voor het massaveersysteem van de wagon met wielen geldt:
+             mwagon  21,5 103 kg
+             Ctotaal  1,0 105 N m1
+3p   16     Bereken de snelheid waarbij resonantie optreedt.
+
+
+
+
+VW-1023-a-23-2-o                           11 / 16                           lees verder ►►►
+            Wervelstroomrem                                  figuur 4
+            Voor het remmen zijn sommige treinen uitgerust
+            met wervelstroomremmen. Hierin wordt een
+            draaiende metalen schijf afgeremd met behulp
+            van een magneetveld. In figuur 4 is een
+            wervelstroomrem geschetst. De metalen schijf zit
+            vast aan de as en draait mee met de wielen.
+            Met een elektromagneet wordt een magneetveld
+            loodrecht op de draaiende schijf opgewekt.
+            De elektromagneet bestaat uit een weekijzeren
+            kern die gemagnetiseerd wordt door het
+            magnetisch veld van een spoel die eromheen
+            gewikkeld is. Zie figuur 4. Deze figuur staat
+            vergroot op de uitwerkbijlage.
+1p   17     Geef in de figuur op de uitwerkbijlage de
+            stroomrichting in punt K weer.
+
+            Door het draaien van de schijf, beweegt steeds een gedeelte van de schijf
+            het magneetveld in. De elektronen in de schijf ondervinden dan een
+            lorentzkracht waardoor de elektronen in de schijf gaan bewegen. Op deze
+            manier ontstaan zogenaamde wervelstromen in de metalen schijf. Vier
+            voorbeelden van deze stromen zijn schematisch weergegeven in figuur 4.
+
+            De wervelstromen zorgen op hun beurt weer voor een lorentzkracht die de
+            schijf, en daarmee ook het wiel, afremt.
+            Figuur 4 staat nogmaals op de uitwerkbijlage met daarnaast een
+            vooraanzicht van de schijf. Hierin is de lorentzkracht op het schijfdeel M
+            weergegeven.
+1p   18     Geef in de figuur op de uitwerkbijlage de richting aan van de
+            wervelstromen in de punten P en Q.
+
+            De snelheid van de trein heeft invloed op de remkracht van de
+            wervelstroomrem. Om bij elke snelheid toch dezelfde remkracht te krijgen
+            kan de magneetveldsterkte worden aangepast.
+3p   19     Leg uit of de magneetveldsterkte bij lage snelheid groter of kleiner moet
+            zijn dan bij hoge snelheid.
+
+
+
+
+VW-1023-a-23-2-o                           12 / 16                           lees verder ►►►
+      Geleidende klei
+
+            Op internet zijn instructies te vinden om geleidende ‘klei’ te maken.
+            Dit is een deeg waaraan keukenzout is toegevoegd. Ameera en Noa
+            onderzoeken diverse eigenschappen van deze geleidende klei. Daarvoor
+            maken ze een kleirol zoals te zien is in figuur 1.
+
+            figuur 1
+
+
+
+
+            Om de soortelijke weerstand te bepalen bouwen Ameera en Noa een
+            schakeling met de kleirol, een gelijkspanningsbron van 12,0 V, een
+            stroommeter en een spanningsmeter. Deze componenten staan
+            schematisch weergegeven op de uitwerkbijlage.
+2p   20     Teken in de figuur op de uitwerkbijlage de verbindingssnoeren die voor
+            deze schakeling nodig zijn.
+
+            Ameera en Noa doen de volgende metingen:
+                   lengte van de kleirol:           21 cm
+                   diameter van de kleirol:         4 cm
+                   spanning over de kleirol:        12,0 V
+                   stroomsterkte door de kleirol:   0,186 A
+
+5p   21     Bereken de soortelijke weerstand van de klei. Noteer je antwoord in het
+            juiste aantal significante cijfers.
+
+            Ameera en Noa rollen de kleirol uit totdat deze twee keer zo lang is
+            geworden.
+3p   22     Beredeneer hoeveel keer zo groot of klein de weerstand van de kleirol is
+            geworden.
+
+
+
+
+VW-1023-a-23-2-o                                13 / 16                     lees verder ►►►
+      Hawkingstraling
+
+            Een zwart gat is een object           figuur 1
+            waarvan de zwaartekracht zo
+            groot is dat zelfs licht er niet meer
+            aan kan ontsnappen: de
+            ontsnappingssnelheid is groter
+            dan de lichtsnelheid.
+            Onlangs is het wetenschappers
+            gelukt om uit een enorme
+            hoeveelheid afzonderlijke
+            opnamen een beeld van een zwart
+            gat te construeren.
+            Op 10 april 2019 werd de eerste foto ooit van een zwart gat gepubliceerd.
+            Zie figuur 1.
+
+            De massa van een ster uit de hoofdreeks is af te leiden uit het
+            stralingsvermogen met behulp van de volgende formule:
+                                    3,8
+                    P    M 
+                                       (1)
+                   Pzon  M zon 
+
+            hierin is:
+             P het stralingsvermogen van de ster
+             Pzon het stralingsvermogen van de zon
+             M de massa van de ster
+             Mzon de massa van de zon
+
+            Als de massa van een ster groter is dan 12 keer de massa van de zon, zal
+            deze uiteindelijk een zwart gat worden. Op de uitwerkbijlage staat een
+            Hertzsprung-Russell diagram. Hierin is een ster gemarkeerd.
+3p   23     Bepaal of deze ster zal eindigen als een zwart gat.
+
+            Om te kunnen ontsnappen aan de gravitatiekracht van een zwaar
+            hemellichaam moet de snelheid groter zijn dan de ontsnappingssnelheid
+            van dat hemellichaam. Deze is te berekenen met de volgende formule:
+
+                        2GM
+                   v                     (2)
+                          r
+            hierin is:
+             v de ontsnappingssnelheid in m s−1
+             G de gravitatieconstante in N m2 kg−2
+             M de massa van het hemellichaam in kg
+             r de afstand tot aan het middelpunt in m
+
+
+
+
+VW-1023-a-23-2-o                                14 / 16                       lees verder ►►►
+3p   24     Leid formule (2) af met behulp van formules uit het informatieboek.
+
+            Bij een zwart gat geldt dat op een bepaalde afstand van het middelpunt
+            de benodigde ontsnappingssnelheid gelijk is aan de lichtsnelheid. Deze
+            afstand wordt de schwartzschildstraal rs genoemd. Alles wat dichterbij
+            komt dan rs zal nooit meer aan het zwarte gat kunnen ontsnappen.
+            Hoewel er bij snelheden in de buurt van de lichtsnelheid rekening moet
+            worden gehouden met de relativiteitstheorie blijk je voor de berekening
+            van de schwartzschildstraal de klassieke formule (2) te kunnen gebruiken.
+2p   25     Bereken de schwartzschildstraal van een zwart gat met een massa die 20
+            keer zo groot is als die van de zon.
+
+            Onder andere Stephen Hawking voorspelde in 1974 dat zwarte gaten in
+            staat zijn om straling uit te zenden, ondanks het feit dat niets aan een
+            zwart gat kan ontsnappen. Deze straling wordt hawkingstraling genoemd.
+            Als gevolg hiervan verliest een zwart gat energie, wat ten koste gaat van
+            de massa. Zwarte gaten ‘verdampen’ als het ware.
+            Hawkingstraling is tot nu toe nog niet experimenteel waargenomen. De
+            reden daarvoor is dat de straling, als de voorspelling klopt, zeer moeilijk
+            waarneembaar is.
+
+            Om het verdampen van een zwart gat te beschrijven beschouwde
+            Hawking dit als een zwarte straler met straal rs en temperatuur T. De
+            hawkingstraling wordt in dit model dus beschreven met een planck-
+            kromme. Voor de temperatuur geldt dan:
+
+                        1, 227 1023
+                   T                  (3)
+                             M
+
+2p   26     Leg uit waarom hawkingstraling moeilijk waarneembaar is.
+
+            Voor het verband tussen het uitgestraalde vermogen door een zwart gat
+            en de massa bestaat het volgende verband:
+
+                   P  M 2            (4)
+
+            hierin betekent het symbool  ‘evenredig met’.
+
+3p   27     Toon met behulp van formule (2) en formule (3) en een formule uit het
+            informatieboek aan dat het verband in formule (4) klopt.
+
+
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1023-a-23-2-o                             15 / 16                          lees verder ►►►
+            Door de hawkingstraling verliest een zwart gat voortdurend energie en
+            daarmee ook massa. Hierbij geldt dat het massaverlies evenredig is met
+            de uitgestraalde energie van het zwarte gat.
+
+            In figuur 2 zijn twee (M,t)-grafieken getekend.
+
+            figuur 2
+
+
+
+
+2p   28     Leg uit welke grafiek, A of B, het juiste verband weergeeft tussen de
+            massa van een zwart gat en de tijd.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-23-2-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

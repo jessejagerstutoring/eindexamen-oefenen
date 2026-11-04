@@ -1,0 +1,450 @@
+                                                                  Examen HAVO
+
+                                                                        2025
+                                                                               tijdvak 1
+                                                                          vrijdag 9 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-25-1-o
+      Kaval
+
+            Een kaval is een Turkse herdersfluit. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De lucht in de fluit wordt in trilling gebracht door over een mondstuk heen
+            te blazen.
+            Jeroen ziet op internet een filmpje van een kaval en besluit deze fluit te
+            onderzoeken. Uit het filmpje blijkt dat de kaval 700 mm lang is. Hij
+            vergelijkt het geluid van de kaval met zuivere tonen uit een toongenerator
+            en ontdekt dat 277 Hz de laagste toonhoogte is die de kaval kan
+            produceren.
+            Jeroen beschouwt de kaval als een buis met twee open uiteindes. Hij
+            neemt aan dat de luchttemperatuur 20 °C is. Hij berekent dat de laagst
+            mogelijke toon dan 245 Hz is.
+3p    1     Toon dat aan met een berekening.
+
+            Jeroen gaat uitzoeken waarom de toon in werkelijkheid hoger is dan hij
+            heeft berekend. Hij onderzoekt drie mogelijke verklaringen.
+
+            Hij vraagt zich als eerste af of hij de kaval beter kan modelleren als een
+            buis met één open en één gesloten uiteinde in plaats van een buis met
+            twee open uiteinden.
+4p    2     Voer de volgende opdrachten uit:
+             Geef op de uitwerkbijlage voor beide modellen het patroon van
+                knopen (K) en buiken (B) dat hoort bij de grondtoon.
+             Leg aan de hand van dit patroon uit dat het verschil tussen de
+                gemeten en berekende laagste toonhoogte van de kaval niet verklaard
+                kan worden door de keuze voor dit model.
+
+
+
+
+HA-1023-a-25-1-o                             2 / 14                           lees verder ►►►
+            Jeroens tweede verklaring voor het verschil in toonhoogte is dat de
+            luchttemperatuur tijdens de meting niet gelijk was aan 20 ºC. Hij gebruikt
+            weer het model met twee open uiteinden. Hij berekent dat de
+            geluidssnelheid dan 387 m s 1 geweest moet zijn.
+2p    3     Leg met behulp van het informatieboek uit dat ook deze verklaring niet
+            goed kan zijn.
+
+            Jeroens derde verklaring heeft te maken met extra gaten aan het uiteinde
+            van de kaval die niet met de vingers worden gesloten, de zogenaamde
+            devil holes. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Devil holes zorgen voor boventonen en kunnen ook invloed hebben op de
+            hoogte van de grondtoon. Om de invloed van de devil holes te
+            onderzoeken, neemt Jeroen twee even lange buizen. Hij boort in één buis
+            devil holes. Hij maakt voor beide buizen een (u,t)-diagram van de laagste
+            toon. Voor de buis zonder devil holes is de laagste toon 245 Hz.
+            Zie figuur 3. Er staan geen waardes bij de assen, maar de tijdschaal is
+            voor beide diagrammen gelijk.
+
+            figuur 3
+
+
+
+
+4p    4     Voer de volgende opdrachten uit:
+             Bepaal met behulp van figuur 3 de frequentie van de laagste toon van
+               de buis met devil holes.
+             Geef aan of devil holes een aannemelijke verklaring kunnen zijn voor
+               het verschil tussen gemeten ( f  277 Hz) en berekende
+                   ( f  245 Hz) laagste toonhoogte van de echte kaval.
+
+
+HA-1023-a-25-1-o                               3 / 14                         lees verder ►►►
+      Papieren schakelingen
+
+            Het materiaal van de stift van een potlood is elektrisch geleidend. Een
+            potloodlijn die op papier getekend is, is daardoor ook elektrisch geleidend
+            en werkt als een draad met weerstand.
+
+            Er bestaan verschillende soorten potloden. De stift van ieder potlood
+            bestaat uit een mix van grafiet en vulmiddel. Harde ‘H’ potloden bevatten
+            veel vulmiddel en weinig grafiet, zachte ‘B’ potloden bevatten weinig
+            vulmiddel en veel grafiet. De soortelijke weerstand van het vulmiddel is
+             2,5 102  m.
+            Theo en Rob hebben een artikel gelezen over op papier getekende
+            draden en gaan hier onderzoek naar doen. Ze willen een potloodlijn met
+            een zo klein mogelijke weerstand tekenen.
+3p    5     Leg met behulp van het informatieboek uit of Theo en Rob voor een
+            hard (H) of een zacht (B) potlood moeten kiezen.
+
+            Theo en Rob hebben elk een potloodlijn getekend met hetzelfde potlood.
+            Beide lijnen zijn gelijk in lengte en breedte. Ze meten de elektrische
+            weerstand met een multimeter. De multimeter is met zogenaamde
+            krokodillenklemmen verbonden met de potloodlijn. De potloodlijn van
+            Theo (I) is met een dikkere laag getekend en daardoor donkerder
+            gekleurd dan de lijn van Rob ( II). Zie figuur 1.
+
+            figuur 1
+
+
+
+
+2p    6     Leg met behulp van de formule voor soortelijke weerstand uit bij welke
+            potloodlijn (I of II) ze de kleinste weerstand meten.
+
+
+
+
+HA-1023-a-25-1-o                            4 / 14                            lees verder ►►►
+            Rob sluit een 9,0 V batterij en een led aan op twee identieke
+            potloodlijnen. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De led heeft minimaal een spanning van 1,4 V nodig om licht te geven. In
+            figuur 3 staat het (I,U)-diagram van de led.
+
+            figuur 3
+
+
+
+
+5p    7     Bepaal met behulp van een berekening en figuur 3 bij welke weerstand
+            van één potloodlijn de led net brandt. Noteer je antwoord in twee
+            significante cijfers.
+
+
+
+
+HA-1023-a-25-1-o                            5 / 14                          lees verder ►►►
+            Voor de weerstand van één getekende potloodlijn uit figuur 2 geldt het
+            volgende verband:
+
+                          
+                   Rk              (1)
+                          b
+
+            Hierin is:
+             R de weerstand van het lijnstuk;
+             k een constante;
+              de lengte van het lijnstuk;
+             b de breedte van het lijnstuk.
+
+            Eén potloodlijn in figuur 2 heeft in werkelijkheid een weerstand van
+            1, 2 104  bij een breedte van 0,50 cm en een lengte van 12 cm.
+3p    8     Voer de volgende twee opdrachten uit:
+             Leid af dat de constante k de eenheid Ω heeft.
+             Bereken de waarde van de constante k.
+
+
+
+
+HA-1023-a-25-1-o                            6 / 14                            lees verder ►►►
+            Theo maakt een nieuwe schakeling. Hierbij sluit hij twee identieke leds
+            aan op twee getekende potloodlijnen. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            Theo constateert dat de led dichter bij de batterij feller brandt dan de led
+            verder van de batterij. In figuur 5 zijn vier mogelijke schakelschema’s
+            getekend.
+
+            figuur 5
+
+
+
+
+3p    9     Voer de volgende twee opdrachten uit:
+             Geef aan welk schakelschema (I, II, III of IV) de situatie het best
+               weergeeft.
+             Leg het verschil in felheid tussen de leds uit met behulp van het
+               gekozen schakelschema.
+
+
+
+
+HA-1023-a-25-1-o                             7 / 14                             lees verder ►►►
+      Coconuts
+
+            Exoplaneten zijn planeten die rond een andere ster dan de zon draaien.
+            In 2020 werd de exoplaneet COCONUTS-2b ontdekt met behulp van een
+            foto. Deze exoplaneet draait rond de ster COCONUTS-2a. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De exoplaneet heeft een hoge oppervlaktetemperatuur van 160 °C. De
+            straling die de exoplaneet bij deze temperatuur uitzendt is door de
+            onderzoekers vastgelegd met behulp van een camera.
+3p    10    Leg met behulp van een berekening uit of COCONUTS-2b gefotografeerd
+            is met een camera voor infraroodstraling, voor ultravioletstraling of voor
+            zichtbaar licht.
+
+
+
+
+HA-1023-a-25-1-o                            8 / 14                           lees verder ►►►
+            Vanaf de aarde zie je COCONUTS-2a op een andere positie dan
+            COCONUTS-2b. Tussen deze twee kijkrichtingen zit een kijkhoek. Deze is
+            0,165. In figuur 2 is dit schematisch maar niet op schaal weergegeven.
+
+            figuur 2
+
+
+
+
+            De afstand r tussen COCONUTS-2b en zijn ster COCONUTS-2a is
+             9,65·1014 m.
+
+3p    11    Toon dit aan met behulp van figuur 2.
+
+            COCONUTS-2b beweegt in een cirkelvormige baan rond de ster
+            COCONUTS-2a. De massa van de ster is 0,35 keer die van de zon.
+            De baansnelheid van COCONUTS-2b is gelijk aan 2, 2·10 2 m s 1 .
+
+4p    12    Toon dat aan met een berekening.
+                                                    figuur 3
+            Er zijn al duizenden exoplaneten in
+            andere sterrenstelsels ontdekt.
+            Meestal worden deze ontdekt met de
+            transitmethode. Bij deze methode
+            wordt de verandering in
+            waargenomen lichtintensiteit van de
+            ster gemeten. Deze waargenomen
+            lichtintensiteit neemt tijdelijk af
+            wanneer een planeet voor de ster
+            langs beweegt. Zie figuur 3.
+
+            De transitmethode was geen geschikte methode om COCONUTS-2b te
+            detecteren.
+4p    13    Voer de volgende opdrachten uit:
+             Bereken hoelang een jaar op COCONUTS-2b duurt, uitgedrukt in
+               aardse jaren. Noteer je antwoord in het juiste aantal significante
+               cijfers.
+             Geef aan waarom de transitmethode geen geschikte methode is om
+               COCONUTS-2b te detecteren.
+
+
+HA-1023-a-25-1-o                           9 / 14                          lees verder ►►►
+      Springende larven
+
+            Onderzoekers hebben ontdekt dat de larven           figuur 1
+            van een bepaalde kever zeer hoog kunnen springen
+            in verhouding tot hun lengte. John en Imani
+            onderzoeken dit.
+            Van een sprong is een stroboscopische foto
+            gemaakt. Zie figuur 1. De larve is zes keer
+            gefotografeerd tijdens de sprong. Het zwaartepunt Z
+            van de larve is in ieder beeld aangegeven.
+
+            Figuur 1 is gemaakt met een camera die 132 foto’s
+            per seconde maakt. Figuur 1 staat op schaal op de
+            uitwerkbijlage.
+4p    14    Bepaal met behulp van de figuur op de
+            uitwerkbijlage de gemiddelde snelheid van de larve
+            tussen het moment van loskomen van de grond (1)
+            en het bereiken van het hoogste punt (6). Noteer je
+            antwoord in twee significante cijfers.
+
+            Imani maakt een (v,t)-diagram van de snelheid tijdens het begin van de
+            sprong. Het resultaat staat in figuur 2.
+
+            figuur 2
+
+
+
+
+            Imani wil met behulp van het diagram het vermogen van de larve gaan
+            bepalen. Hiervoor heeft ze de gemiddelde resulterende kracht Fres gem
+            over de hele afzet nodig. Ze bepaalt daarvoor de afstand waarover de
+            larve zich heeft afgezet.
+            Figuur 2 staat ook op de uitwerkbijlage.
+2p    15    Leg met behulp van de figuur op de uitwerkbijlage uit hoe Imani deze
+            afstand heeft bepaald. Laat in de figuur zien hoe Imani aan haar antwoord
+            komt. Je hoeft deze bepaling niet uit te voeren.
+
+
+HA-1023-a-25-1-o                           10 / 14                          lees verder ►►►
+            Imani heeft de afzetafstand bepaald op 0,72 mm. De massa van deze
+            soort larve is 1,3  10 6 kg. Uit een energiebeschouwing met de maximale
+            snelheid ve volgt dat de gemiddelde resulterende kracht Fres gem gelijk is
+            aan 6,1  10 5 N.
+
+3p    16    Toon dit aan met figuur 2 en de relatie tussen arbeid en kinetische
+            energie.
+
+            John verwaarloost de zwaartekracht ten opzichte van de afzetkracht. Dus
+            hij gebruikt Fres   Fafzet .
+
+            John constateert dat de resulterende kracht niet constant is tijdens de
+            afzet. Hij vraagt zich af of hij de springende larve kan modelleren als een
+            veer. Als de larve zich gedraagt als een gespannen veer die zich ontspant
+            tijdens de afzet, zou er moeten gelden dat de maximale resulterende
+            kracht Fres max twee keer zo groot is als de gemiddelde resulterende kracht
+            Fres gem. Hij vindt het model acceptabel als blijkt dat de verhouding van die
+            krachten tussen 1,5 en 2,5 uitkomt.
+            Figuur 2 staat nogmaals op de uitwerkbijlage.
+5p    17    Voer de volgende opdrachten uit:
+             Bepaal met behulp van de figuur op de uitwerkbijlage de maximale
+                versnelling tijdens de afzet. Laat in de figuur zien hoe je aan je
+                antwoord komt. Noteer je antwoord in twee significante cijfers.
+             Bereken Fres max tijdens de afzet.
+             Toon aan dat de larve zich binnen de marge van John volgens het
+                model van een veer gedraagt.
+
+            Tot slot willen John en Imani het specifieke vermogen van een mens en
+            van een larve tijdens een verticale sprong vergelijken. Het specifieke
+            vermogen Pspec is het vermogen per kilogram lichaamsmassa. Voor een
+            gemiddelde mens geldt: Pspec = 3,3 W per kilogram lichaamsmassa.
+            De massa van de larve is 1,3  10 6 kg. Tijdens de afzet tot het loskomen
+            van de grond is de gemiddelde snelheid van de larve 0,14 m s 1 en is de
+            gemiddelde resulterende kracht Fres gem  6,1·10 5 N.
+4p    18    Bereken hoeveel keer zo groot Pspec van de larve is tijdens de afzet ten
+            opzichte van Pspec van een mens.
+
+
+
+
+HA-1023-a-25-1-o                            11 / 14                            lees verder ►►►
+      Vervalst schilderij
+
+            Echte schilderijen kunnen veel waard zijn, in tegenstelling tot
+            vervalsingen. Kunstexperts maken daarom gebruik van speciale
+            technieken om de echtheid van schilderijen te onderzoeken. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Bij een methode om nieuwere vervalsingen van oude originelen te
+            onderscheiden wordt de ouderdom van het gebruikte doek bepaald door
+            datering met C-14.
+
+            Koolstof-14 ontstaat hoog in de atmosfeer door een botsing tussen een
+            stikstofkern en een snel neutron dat afkomstig is van kosmische straling.
+            Bij deze botsing ontstaat instabiel C-14 en nog een ander deeltje. Op de
+            uitwerkbijlage staat een deel van deze reactie weergegeven.
+
+3p    19    Maak de vergelijking op de uitwerkbijlage af.
+
+3p    20    Geef de vergelijking van de vervalreactie van C-14.
+
+            Een schilderij is geschilderd op doek van canvas. Dit materiaal wordt
+            gemaakt van hennepplanten. De atmosfeer bevat behalve C-14 vooral de
+            isotoop C-12. Een levende hennepplant neemt beide soorten koolstof op
+            uit de lucht. De verhouding tussen C-12 en C-14 is in de levende plant
+            hetzelfde als in de lucht.
+2p    21    Leg uit hoe deze verhouding in de plant verandert na het afsterven van de
+            plant.
+
+
+
+
+HA-1023-a-25-1-o                           12 / 14                           lees verder ►►►
+            De relatieve hoeveelheid C-14 in de lucht was tot eind jaren 50 van de
+            vorige eeuw constant. Door nucleaire testen in de open lucht nam de
+            hoeveelheid C-14 ten opzichte van C-12 in korte tijd flink toe.
+            In figuur 2 is voor de periode van 1900 tot 2020 het verloop van de
+            relatieve hoeveelheid C-14 in de lucht aangegeven. De grootheid N langs
+            de verticale as is het aantal atomen C-14 per 1014 koolstofatomen.
+
+            figuur 2
+
+
+
+
+            Begin jaren 60 stopten de testen in de open lucht en nam de relatieve
+            hoeveelheid C-14 in de lucht weer af richting de oorspronkelijke waarde.
+
+            De waargenomen afname is niet te verklaren door het radioactieve verval
+            van C-14.
+2p    22    Leg dat uit met behulp van de halveringstijd en figuur 2.
+
+            De daling vanaf de jaren 60 is te verklaren door biologische opname van
+            C-14 door planten. Ook die daling is te beschrijven met een halveringstijd.
+3p    23    Bepaal deze halveringstijd met behulp van de figuur op de uitwerkbijlage.
+            Laat in de figuur zien hoe je aan je antwoord komt.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1023-a-25-1-o                           13 / 14                            lees verder ►►►
+            Een museum heeft verschillende originele schilderijen van de
+            kunstschilder Fernand Léger. Deze zijn gemaakt vóór 1913. Eén schilderij
+            lijkt een vervalsing. Daarom wordt de ouderdom onderzocht met
+            koolstofdatering.
+            Uit een analyse blijkt dat de relatieve hoeveelheid C-14 in het canvas
+            doek 1,3 keer zo hoog is als het langdurige gemiddelde van voor de
+            nucleaire testen.
+2p    24    Bepaal met behulp van figuur 2 het jaartal waarin het vervalste schilderij
+            gemaakt is.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-25-1-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

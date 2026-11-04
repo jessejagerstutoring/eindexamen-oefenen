@@ -1,0 +1,651 @@
+                                                                    Examen HAVO
+
+                                                                          2024
+                                                                                 tijdvak 2
+                                                                        maandag 24 juni
+                                                                        13.30 - 16.30 uur
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 33 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald kunnen
+worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg, berekening
+of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd. Als er
+bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen, dan
+worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-24-2-o
+Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-24-2-o                   2 / 16   lees verder ►►►
+      Passievruchtaroma in sauvignon blanc
+
+
+            Wijn wordt gemaakt uit druivensap waaraan gist wordt toegevoegd. In de
+            gistcellen vinden verschillende reacties plaats. Bij een van die reacties
+            wordt glucose uit druivensap omgezet tot koolstofdioxide en ethanol.
+
+3p    1     Geef de vergelijking voor deze omzetting in molecuulformules.
+
+            Sauvignon blanc is een witte wijn met een passievruchtaroma. Dit aroma
+            wordt onder meer veroorzaakt door de stof 3-MH. De stof 3-MH is niet
+            aanwezig in druivensap, maar wordt door gistcellen gevormd uit de geurloze
+            stof glutathion-3-MH. In figuur 1 zijn de structuurformules van glutathion-3-MH
+            en 3-MH gegeven.
+
+            figuur 1
+
+                           CH3 CH2 CH2 CH CH2 CH2 OH
+                                        S
+
+              HO       O                CH2                    CH3 CH2 CH2 CH CH2 CH2 OH
+                   C              O           O            O                  S
+            H2N CH CH2 CH2 C N CH C N CH2 C OH                                H
+                             H      H
+
+
+                                glutathion-3-MH                             3-MH
+
+            Glutathion-3-MH is opgebouwd uit een tripeptide en een molecuul 3-MH.
+            De laatste twee eenheden van het tripeptide zijn een cysteïne- en een
+            glycine-eenheid.
+
+            De eerste aminozuur-eenheid van het tripeptide is anders gekoppeld dan de
+            andere eenheden. Bij deze aminozuur-eenheid is de restgroep via een
+            peptidebinding gekoppeld aan de cysteïne-eenheid.
+
+2p    2     Voer de volgende opdrachten uit:
+            – Geef de naam van deze eerste aminozuur-eenheid. Gebruik
+               Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+            – Licht toe waarom de restgroepen van cysteïne en glycine niet via een
+               peptidebinding kunnen koppelen en de restgroep van de eerste
+               aminozuur-eenheid wel.
+
+
+
+
+HA-1028-a-24-2-o                                  3 / 16                          lees verder ►►►
+            De omzetting van glutathion-3-MH naar 3-MH vindt plaats in drie stappen
+            (figuur 2).
+
+            figuur 2
+
+                              stap 1                  stap 2              stap 3
+            glutathion-3-MH            3-MH-Cys-Gly            3-MH-Cys            3-MH
+
+
+            Deze stappen vinden plaats onder invloed van enzymen.
+
+1p    3     Geef een verklaring waarom het enzym dat stap 1 katalyseert niet ook stap 2
+            kan katalyseren.
+
+            Na het vergisten wordt de gist door middel van bezinken en afschenken
+            gescheiden van de wijn. Dit proces zou sneller uitgevoerd kunnen worden door
+            een andere scheidingsmethode toe te passen. Deze methode berust op
+            hetzelfde verschil in stofeigenschap als bezinken.
+
+2p    4     Geef de naam van de andere scheidingsmethode en geef aan op welk verschil
+            in stofeigenschap deze scheidingsmethode berust.
+            Noteer je antwoord als volgt:
+            scheidingsmethode: …
+            verschil in stofeigenschap: …
+
+            In sauvignon blanc is nog een andere stof aanwezig die bijdraagt aan het
+            passievruchtaroma: 3-MHA (figuur 3). De stof 3-MHA is de ester van 3-MH en
+            één andere stof.
+
+            figuur 3
+
+                                                O
+            CH3 CH2 CH2 CH CH2 CH2 O C CH3                      CH3 CH2 CH2 CH CH2 CH2 OH
+                              S                                                    S
+                              H                                                    H
+                              3-MHA                                                3-MH
+
+
+            Tijdens de opslag van de wijn kan hydrolyse van 3-MHA plaatsvinden. Op de
+            uitwerkbijlage is de hydrolyse van 3-MHA onvolledig weergegeven.
+
+2p    5     Maak op de uitwerkbijlage de vergelijking van de hydrolyse van 3-MHA
+            compleet. Gebruik structuurformules voor koolstofverbindingen.
+
+
+
+
+HA-1028-a-24-2-o                                      4 / 16                              lees verder ►►►
+            Om een geurstof in wijn te kunnen waarnemen, moet de geurdrempel van die
+            geurstof worden overschreden. De geurdrempel wordt hier gedefinieerd als de
+            minimale concentratie die de geurstof in wijn moet hebben om door mensen
+            waargenomen te kunnen worden. De geurdrempel van 3-MHA is 4,0 ng L–1 en
+            de geurdrempel van 3-MH is 60 ng L–1.
+
+            Havoleerling Danilo formuleert de volgende hypothese:
+            De geurdrempel van een geurstof in wijn is hoger naarmate de geurstof beter
+            in de wijn oplost. Wijn bestaat voor het grootste deel uit water.
+
+4p    6     Voer de volgende opdrachten uit:
+            – Leg uit op microniveau welke geurstof beter in wijn oplost: 3-MHA of 3-MH.
+               Gebruik de structuurformules uit figuur 3 en verwerk in je antwoord het soort
+               binding dat hierbij betrokken is.
+            – Geef aan of Danilo’s hypothese hiermee in overeenstemming is.
+
+            Hoe sterk het passievruchtaroma in wijn wordt waargenomen, kan worden
+            berekend met de Odour Activity Value (OAV).
+
+                      concentratie van de geurstof in de wijn
+            OAV =
+                      geurdrempel van de geurstof in de wijn
+
+            In tabel 1 staan gegevens over de concentraties 3-MH en 3-MHA in een
+            bepaalde fles sauvignon blanc.
+
+            tabel 1
+
+              geurstof            concentratie in      geurdrempel        OAV
+                                  vloeistof (ng/L)     (ng/L)
+              3-MHA               2,50·103             4,0                6,3·102
+              3-MH                1,80·104             60                 3,0·102
+
+            De totale OAV van 3-MH en 3-MHA bij elkaar opgeteld is volgens tabel 1 gelijk
+            aan 9,3·102. Wanneer sauvignon blanc lang bewaard wordt, zal het
+            passievruchtaroma minder sterk worden. Een oorzaak hiervan is de omzetting
+            van 3-MHA tot 3-MH. De totale OAV neemt hierdoor af.
+
+            Na een bepaalde tijd is 50% van de 3-MHA in tabel 1 omgezet tot 3-MH.
+
+4p    7     Bereken de nieuwe totale OAV.
+            Gebruik de volgende gegevens:
+            – waarden uit tabel 1;
+            – uit 1,3 gram 3-MHA wordt 1,0 gram 3-MH gevormd.
+
+
+
+
+HA-1028-a-24-2-o                              5 / 16                             lees verder ►►►
+      Producten uit bischofiet
+
+
+            In hoogovens wordt ijzererts omgezet tot vloeibaar ijzer. De wanden van
+            hoogovens moeten dus bestand zijn tegen zeer hoge temperaturen. Deze
+            wanden worden daarom gemaakt van een hittebestendige stof zoals
+            magnesiumoxide (MgO).
+
+2p    8     Voer de volgende opdrachten uit:
+            – Geef de minimumtemperatuur waartegen een hoogovenwand bestand moet
+               zijn. Gebruik Binas-tabel 40A of ScienceData-tabel 8.1.
+            – Leg uit aan de hand van een getalwaarde uit Binas-tabel 42A of
+               ScienceData-tabel 8.3 dat magnesiumoxide vast is bij deze minimum-
+               temperatuur.
+
+            Magnesiumoxide wordt gemaakt uit bischofiet: MgCl2·6H2O. Bischofiet is een
+            vaste stof die kan worden gewonnen uit een meters dikke bischofiet-laag die
+            zich op ongeveer anderhalve kilometer onder de grond bevindt. Door een
+            metalen buis wordt water in deze laag geïnjecteerd. Het bischofiet lost hierin
+            op.
+
+3p    9     Geef de vergelijking van dit oplossen van bischofiet. Geef ook de
+            toestandsaanduidingen.
+
+            Doordat het bischofiet oplost, ontstaat een ruimte die caverne wordt genoemd.
+            Deze caverne is gevuld met een oplossing van magnesiumchloride (MgCl2).
+            Op deze oplossing wordt een vloeistoflaag aangebracht die dak-olie wordt
+            genoemd. De dak-olie voorkomt dat de zoutlagen boven de bischofiet-laag
+            oplossen, zie figuur 1.
+
+            figuur 1
+
+                              MgCl2-oplossing
+                           H2O             H2O
+
+
+
+
+                                                                  bovenste grondlaag
+
+
+                                                                  zoutlagen
+
+                                                                  dak-olie
+                           H2O             H2O                    caverne
+
+                              MgCl2-oplossing
+                                                                  bischofiet-laag
+
+
+
+
+HA-1028-a-24-2-o                                6 / 16                              lees verder ►►►
+            Een aantal stoffen is onderzocht op bruikbaarheid als dak-olie. Ethaan-1,2-diol
+            is ook onderzocht, maar bleek ongeschikt.
+
+2p    10    Geef de structuurformule van ethaan-1,2-diol.
+
+            Doordat in het water een kleine hoeveelheid zuurstof is opgelost, kan corrosie
+            van de metalen buis optreden. Aan het water wordt daarom een kleine
+            hoeveelheid natriumsulfiet-oplossing (Na2SO3) toegevoegd, waardoor corrosie
+            wordt verhinderd. In de buis treden de volgende halfreacties op:
+
+            SO32– + H2O → SO42– + 2H+ + 2 e–                                      (halfreactie a)
+            O2 + 2 H2O + 4 e– → 4 OH–                                             (halfreactie b)
+
+            Bij de omzetting van sulfiet tot sulfaat blijkt de pH van de oplossing in de buis
+            niet te veranderen.
+
+3p    11    Voer de volgende opdrachten uit:
+            – Leid de vergelijking af van de totale reactie die in de buis optreedt.
+            – Licht toe dat uit de vergelijking van de totale reactie blijkt dat de pH niet
+               verandert door de omzetting van sulfiet tot sulfaat.
+
+1p    12    Verklaar dat het toevoegen van sulfiet-ionen corrosie verhindert.
+
+            De MgCl2-oplossing die uit de bodem wordt gewonnen, wordt verzameld in
+            bezinkbakken. Aan de MgCl2-oplossing wordt de vaste stof dolime toegevoegd.
+            Dolime is een mengsel van de stoffen calciumoxide en magnesiumoxide.
+            Wanneer dolime aan de MgCl2-oplossing wordt toegevoegd, treedt reactie 1
+            op. Door reactie 1 ontstaan de vaste stof magnesiumhydroxide (Mg(OH)2) en
+            een oplossing van calciumchloride (CaCl2).
+
+            CaO + MgO + 2 H2O + Mg2+                     2 Mg(OH)2 + Ca2+         (reactie 1)
+
+                   dolime
+
+2p    13    Bereken hoeveel ton Mg(OH)2 gemaakt kan worden uitgaande van
+            1,0 ton MgCl2 en voldoende dolime. 1,0 ton = 1,0·103 kg.
+
+
+
+
+HA-1028-a-24-2-o                                7 / 16                               lees verder ►►►
+            Het Mg(OH)2 bezinkt. Het grootste deel van het Mg(OH)2 wordt in een
+            reactor (R) ontleed tot MgO en water. Een klein deel van het Mg(OH)2 wordt
+            afgevoerd en verkocht. De CaCl2-oplossing wordt in een scheidingsruimte (S)
+            ingedampt.
+
+            In figuur 2 en op de uitwerkbijlage is een blokschema van dit proces
+            schematisch en onvolledig weergegeven. In dit proces worden de volgende
+            stoffen geproduceerd: CaCl2, Mg(OH)2 en MgO.
+
+            figuur 2
+
+            MgCl2-oplossing
+
+
+                              bezinkbak
+
+
+
+
+4p    14    Maak het blokschema op de uitwerkbijlage compleet.
+            – Teken de ontbrekende reactor (R) en scheidingsruimte (S) in het blokschema.
+               Houd hierbij rekening met de plaats waar de stofstromen de bezinkbak
+               verlaten.
+            – Teken de ontbrekende pijlen.
+            – Noteer de nummers van de stoffen bij de juiste pijl.
+               1 vast CaCl2
+               2 vast Mg(OH)2
+               3 vast MgO
+               4 CaCl2-oplossing
+               5 vast dolime
+               6 water (vloeibaar of gasvormig)
+            – Je mag de nummers vaker dan één keer gebruiken.
+
+
+
+
+HA-1028-a-24-2-o                            8 / 16                            lees verder ►►►
+      Fosfine in binnenvaartschepen
+
+
+            Fosfine (PH3) is een brandbaar en zeer giftig gas. Het wordt gebruikt
+            voor bestrijding van ongedierte, bijvoorbeeld in de lading van een schip.
+
+            tekstfragment
+
+
+            Bij een meting op een schip in Utrecht werden concentraties fosfine
+            gemeten van meer dan 300 massa-ppm. Voor mensen is de stof al
+            gevaarlijk vanaf een concentratie van 0,5 massa-ppm.
+            Fosfine wordt niet als gas in het ruim van een schip verspreid, maar er
+            worden pillen met magnesiumfosfide in het ruim van het schip gelegd.
+            Het magnesiumfosfide in de pillen zal langzaam reageren met waterdamp,
+            waarbij gasvormige fosfine wordt gevormd.
+
+            naar: nos.nl (zomer 2021)
+
+
+            De verhoudingsformule van magnesiumfosfide is Mg3P2.
+
+2p    15    Leid met behulp van de verhoudingsformule Mg3P2 de formule van het
+            fosfide-ion af.
+
+            Bij de reactie van magnesiumfosfide met waterdamp ontstaan uitsluitend de
+            stoffen fosfine (PH3) en magnesiumhydroxide (Mg(OH)2).
+
+2p    16    Geef de vergelijking van deze reactie.
+
+            Op de website van een leverancier van magnesiumfosfidepillen staat het
+            volgende vermeld:
+            1 magnesiumfosfidepil zal maximaal 0,20 gram fosfine vormen.
+
+3p    17    Bereken hoeveel magnesiumfosfidepillen minimaal in het ruim van het schip uit
+            het tekstfragment zijn gelegd om een concentratie fosfine van 300 massa-ppm
+            te krijgen. Gebruik de volgende aannames:
+            – De dichtheid van de lucht in het ruim was 1,293 kg m–3.
+            – Het volume van het ruim van het schip was 925 m3.
+
+
+
+
+HA-1028-a-24-2-o                             9 / 16                             lees verder ►►►
+            Een veiligheidsinspecteur die de lading van een binnenvaartschip controleert,
+            moet rekening houden met de aanwezigheid en bijbehorende gevaren van
+            fosfine. Op de veiligheidskaart van fosfine staan de volgende H-zinnen
+            vermeld: H220, H250, H280, H314, H318, H330, H400. Niet alle H-zinnen zijn
+            van belang voor de gezondheid van de veligheidsinspecteur.
+
+2p    18    Geef het nummer van een van deze H-zinnen die niet van belang is voor de
+            gezondheid van de veiligheidsinspecteur en leg uit waarom deze H-zin niet
+            van belang is. Gebruik Binas-tabel 97E of ScienceData-tabel 38.3.
+            Noteer je antwoord als volgt:
+            – nummer H-zin: ...
+            – uitleg: …
+
+            Ook de brandbaarheid van fosfine kan tot gevaarlijke situaties leiden. Als de
+            concentratie fosfine in de lucht hoog genoeg wordt, kan fosfine spontaan
+            ontbranden. Bij deze verbrandingsreactie wordt uitsluitend fosforzuur gevormd.
+
+3p    19    Geef de vergelijking van de verbrandingsreactie van fosfine.
+
+            Spontane ontbranding komt doordat de reactie waarbij fosfine ontstaat
+            exotherm is. De temperatuur stijgt als gevolg hiervan, waardoor fosfine kan
+            ontbranden. Daarom bevatten magnesiumfosfidepillen ammoniumcarbamaat
+            (NH2CO2NH4). De aanwezigheid van ammoniumcarbamaat in de pillen
+            verkleint de kans op spontane ontbranding. Als de temperatuur boven de
+            60 °C komt, zal ammoniumcarbamaat ontleden volgens reactie 1.
+
+            NH2CO2NH4 (s) → 2 NH3 (g) + CO2 (g)                                    (reactie 1)
+
+3p    20    Bereken de reactiewarmte van reactie 1 per mol ammoniumcarbamaat.
+            Gebruik:
+            – Binas-tabel 57 of ScienceData-tabel 9.2;
+            – de vormingswarmte van ammoniumcarbamaat: –6,43·105 J mol–1.
+
+            De kans op spontane ontbranding van fosfine is het grootst dicht bij de pil,
+            waar de fosfineconcentraties hoog kunnen oplopen. De ontleding van
+            ammoniumcarbamaat (reactie 1) verkleint deze kans op twee manieren:
+            – Manier 1: de ontleding van ammoniumcarbamaat is endotherm.
+            – Manier 2: bij de ontleding van ammoniumcarbamaat ontstaan gassen.
+
+2p    21    Leg voor elke manier uit hoe deze de kans op spontane ontbranding van
+            fosfine verkleint. Noteer je antwoord als volgt:
+            Manier 1: …
+            Manier 2: …
+
+
+
+
+HA-1028-a-24-2-o                             10 / 16                             lees verder ►►►
+      Uraan uit zeewater
+
+
+            Uraan kent verschillende toepassingen. Het bekendst is de toepassing als
+            energiebron voor kerncentrales. Hiervoor is de isotoop U-235 nodig.
+
+2p    22    Hoeveel protonen en neutronen bevat de kern van een atoom U-235?
+            Noteer je antwoord als volgt:
+            Aantal protonen: …
+            Aantal neutronen: …
+
+            Tot nu toe wordt uraan in de vorm van erts afgegraven uit mijnen. Bij een
+            jaarlijkse wereldwijde behoefte van 6,0·107 kg uraan zullen deze mijnen een
+            voorraad uraan hebben voor slechts 80 jaar. Zeewater is een veel grotere bron
+            van uraan. Winning van uraan uit zeewater staat daarom in de belangstelling.
+            Een probleem hierbij is echter dat het gehalte in zeewater laag is: 3,38·10–9 kg
+            uraan per L.
+
+2p    23    Bereken het volume aan zeewater in m3, dat minimaal nodig is om de jaarlijkse
+            wereldwijde behoefte aan uraan uit zeewater te halen. Geef de uitkomst in
+            het juiste aantal significante cijfers.
+
+            In zeewater is uraan vooral aanwezig in de vorm van het UO22+-ion. De winning
+            van uraan uit zeewater is nog experimenteel. Voor deze winning worden
+            polymeren gebruikt die in staat zijn om UO22+-ionen te binden.
+            De basis van dit polymeer is het peptide omiganan. De aminozuurvolgorde van
+            omiganan is als volgt:
+
+            Ile-Leu-Arg-Trp-Pro-Trp-Trp-Pro-Trp-Arg-Arg-Lys                     (omiganan)
+
+            Omiganan is in staat om water te binden.
+
+2p    24    Voer de volgende opdrachten uit:
+            – Geef het 3-lettersymbool van één aminozuur-eenheid in een
+               omigananmolecuul waarvan de restgroep één of meerdere watermoleculen
+               kan binden.
+            – Geef ook het structuurkenmerk van deze restgroep dat voor deze binding
+               verantwoordelijk is.
+
+
+
+
+HA-1028-a-24-2-o                             11 / 16                            lees verder ►►►
+            Als omiganan gecrosslinkt wordt, ontstaat een hydrogel. Een hydrogel is een
+            vaste, onoplosbare stof die gebonden water bevat. Behalve water kan deze
+            hydrogel ook UO22+-ionen uit het zeewater binden. Zo kan de hydrogel
+            UO22+-ionen uit zeewater halen. Andere ionen in zeewater worden namelijk niet
+            of in veel mindere mate aan de hydrogel gebonden.
+
+            Onderzoekers wilden de massa aan UO22+-ionen bepalen die per gram
+            hydrogel gebonden kan worden. Dit onderzoek werd als volgt uitgevoerd:
+            Stap 1: Een bepaalde hoeveelheid hydrogel werd in een bak gelegd waar
+                    zeewater doorheen werd gepompt.
+            Stap 2: Na enkele weken werd de hydrogel uit de bak met zeewater gehaald
+                    en spoelden de onderzoekers de hydrogel met gedestilleerd water.
+            Stap 3: De hydrogel werd in een oplossing van de stof EDTA gelegd. Hierdoor
+                    kwamen de UO22+-ionen weer los van de hydrogel en bonden aan
+                    EDTA-ionen.
+            Stap 4: UO22+-ionen werden weer losgemaakt van EDTA-ionen en de massa
+                    van de UO22+-ionen werd bepaald.
+
+2p    25    Voer de volgende opdrachten uit:
+            – Geef een reden waarom het in dit onderzoek nodig is om de hydrogel in
+               stap 2 te spoelen.
+            – Licht toe of het overslaan van dit spoelen leidt tot een te hoge of te lage
+               uitkomst van de bepaling van de massa gebonden UO22+-ionen.
+
+
+
+
+HA-1028-a-24-2-o                              12 / 16                              lees verder ►►►
+            In stap 3 kwamen de UO22+-ionen los van de hydrogel omdat deze ionen beter
+            binden met EDTA-ionen dan met de hydrogel. In het onderzoek werd een
+            oplossing van het zout Na2-EDTA gebruikt. In figuur 1 is de structuurformule
+            van de vaste stof Na2-EDTA weergegeven.
+
+            figuur 1
+
+                    O                                 O
+                        C H2C                 CH2 C
+                   HO                                 O    Na
+                                N CH2 CH2 N
+                   O                                  O
+                        C H2C                 CH2 C
+            Na     O                                  OH
+
+            Na oplossen van Na2-EDTA in water ontstaan vrije EDTA-ionen. Deze ionen
+            worden weergegeven met de formule Y2–. Door de pH te veranderen kan men
+            Y2–-ionen omzetten tot Y4–-ionen. Per Y4–-ion kan één UO22+-ion worden
+            gebonden.
+
+2p    26    Leg uit of er een zuur of een base nodig is om Y2– om te zetten tot Y4–.
+            Gebruik figuur 1.
+
+            De hydrogel kan na stap 3 worden hergebruikt. Na het uitvoeren van de
+            stappen 1 tot en met 4 werd per gram gebruikte hydrogel 2,99·10–5 mol
+            UO22+-ionen verkregen. Dit proces is voor verbetering vatbaar, omdat er erg
+            grote hoeveelheden hydrogel nodig zijn om de wereldwijde jaarlijkse behoefte
+            aan uraan voor kerncentrales te kunnen leveren.
+
+4p    27    Bereken hoeveel kg hydrogel nodig is om de wereldwijde jaarlijkse behoefte
+            aan uraan (U) voor kerncentrales te kunnen leveren. Geef de uitkomst in het
+            juiste aantal significante cijfers.
+            Ga uit van de volgende gegevens en aannames:
+            – De gel wordt per jaar 17 keer gebruikt.
+            – De wereldwijde jaarlijkse behoefte aan U is 6,0·107 kg.
+            – De molaire massa van U is 238 g mol–1.
+            – Bij de omzetting van UO22+-ionen naar U treedt geen verlies op.
+
+
+
+
+HA-1028-a-24-2-o                              13 / 16                           lees verder ►►►
+      Ammoniak-brandstofcel
+
+
+            De meeste auto’s met een brandstofcel gebruiken waterstof als brandstof.
+            Om een ‘volle’ tank waterstof te krijgen, moet waterstof onder zeer hoge druk
+            worden opgeslagen. Dit opslaan onder hoge druk is niet nodig als waterstof
+            met stikstof uit de lucht eerst wordt omgezet tot ammoniak.
+
+            N2 + 3 H2 → 2 NH3                                                                         (reactie 1)
+
+            Ammoniak is ook geschikt als brandstof in een brandstofcel en kan
+            gemakkelijker vloeibaar gemaakt worden dan waterstof. In figuur 1 is een
+            ammoniak-brandstofcel schematisch weergegeven.
+
+            figuur 1
+
+                                                             lampje
+
+
+
+
+            H2O + lucht (zonder O2)                                                     H2O + N2
+
+                                                              OH−
+
+
+
+
+                                          C-MnO2-elektrode
+                                                                       C-Ni-elektrode
+                                                              OH−
+
+
+
+                                                              OH−
+
+
+                   H2O + lucht (met O2)                                                 NH3
+
+                                                   membraan
+
+
+            In deze brandstofcel reageert zuurstof aan de C-MnO2-elektrode volgens
+            halfreactie a:
+
+            O2 + 2 H2O + 4 e– → 4 OH–                                                              (halfreactie a)
+
+            Aan de C-Ni-elektrode reageert ammoniak volgens halfreactie b. Halfreactie b
+            is hieronder onvolledig weergegeven: de coëfficiënten ontbreken.
+
+            NH3 + OH– → N2 + H2O + e–                                                              (halfreactie b)
+
+2p    28    Neem halfreactie b over en maak deze kloppend.
+
+
+
+
+HA-1028-a-24-2-o                                             14 / 16                                  lees verder ►►►
+            De C-MnO2-elektrode bevat 20 massaprocent MnO2. MnO2 dient als katalysator
+            en niet als geleidend materiaal.
+
+2p    29    Leg uit aan de hand van de microstructuur van MnO2 dat deze stof geen
+            elektrische stroom kan geleiden in vaste toestand. Gebruik in je antwoord
+            begrippen op microniveau.
+
+2p    30    Leg uit of de C-MnO2-elektrode de positieve of de negatieve elektrode van de
+            brandstofcel is.
+
+            In een waterstof-brandstofcel reageren waterstof en zuurstof tot water. Het
+            gebruik van ammoniak als brandstof komt neer op dezelfde reactie, maar dan
+            in twee stappen.
+            Stap 1: Waterstof en stikstof worden omgezet tot ammoniak (reactie 1).
+            Stap 2: In een ammoniak-brandstofcel reageren ammoniak en zuurstof tot
+                    stikstof en water.
+
+            In figuur 2 zijn de energie-effecten in de waterstof-brandstofcel (∆E1) en in de
+            ammoniak-brandstofcel (∆E3) weergegeven in één energiediagram.
+
+            figuur 2
+                       waterstof-brandstofcel                          ammoniak-brandstofcel
+
+
+
+
+                                            H 2 + O 2 + N2
+                                                             Δ E2
+             energie
+                                                                NH3 + O2
+                                         Δ E1
+                                                                            Δ E3
+
+                         H2O + N2                                                  H2O + N2
+
+
+
+
+            Uit figuur 2 blijkt dat de ammoniak-brandstofcel minder energie levert per mol
+            waterstof dan de waterstof-brandstofcel.
+
+2p    31    Leg uit aan de hand van figuur 2 of stap 1 een exotherme of een endotherme
+            reactie is.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1028-a-24-2-o                                  15 / 16                               lees verder ►►►
+             Stoffen die reageren in een brandstofcel, zouden ook direct verbrand kunnen
+             worden. Bij de verbranding van ammoniak ontstaan dan niet alleen N2 en H2O;
+             onder bepaalde omstandigheden kunnen dan ook stikstofoxides gevormd
+             worden. Stikstofoxides hebben een negatief effect op het milieu.
+
+3p    32     Geef de reactievergelijking voor de verbranding van ammoniak, waarbij
+             uitsluitend stikstofmono-oxide en water gevormd worden.
+
+1p    33     Geef een negatief effect van stikstofoxides op het milieu.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende
+correctievoorschrift.
+
+
+
+
+HA-1028-a-24-2-o                                             16 / 16                                                        einde ■
+

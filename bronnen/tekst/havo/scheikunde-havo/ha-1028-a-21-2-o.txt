@@ -1,0 +1,554 @@
+                                                                  Examen HAVO
+
+                                                                        2021
+                                                                               tijdvak 2
+                                                                      maandag 21 juni
+                                                                      13.30 - 16.30 uur
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 38 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-21-2-o
+      Palladiumvanger
+
+              De uitlaat van een auto die op benzine rijdt, bevat een katalysator. Deze
+              katalysator vermindert de uitstoot van schadelijke stoffen zoals
+              koolstofmono-oxide en stikstofoxiden. Stikstofoxiden (NOx) veroorzaken
+              milieuvervuiling, doordat ze ongewenste effecten hebben op de kwaliteit
+              van lucht, water en/of bodem.
+
+1p    1       Geef een van die ongewenste effecten.
+
+              Een reactie die in de katalysator van een auto optreedt, is de ontleding
+              van stikstofmono-oxide tot stikstof en zuurstof.
+
+2p    2       Geef de reactievergelijking van deze ontleding.
+
+              Katalysatoren die in auto’s worden gebruikt, bevatten het element
+              palladium. Een klein deel van de palladiumdeeltjes wordt met de
+              uitlaatgassen uitgestoten in de lucht. Men veronderstelt dat deze
+              palladiumdeeltjes in het milieu uiteindelijk worden omgezet tot
+              palladiumionen en dat deze ionen zich in het milieu zullen ophopen.
+
+3p    3       Geef het aantal protonen, neutronen en elektronen van een Pd2+-ion van
+              de isotoop Pd-107.
+              Noteer je antwoord als volgt:
+              aantal protonen: …
+              aantal neutronen: …
+              aantal elektronen: …
+
+              Onderzoekers hebben een manier gevonden om op laboratoriumschaal
+              palladiumionen uit een oplossing te verwijderen. Ze maken gebruik van
+              eiwitmoleculen die op een specifieke manier palladiumionen binden. De
+              eiwitmoleculen worden eerst aan cellulosemoleculen gebonden. Hierbij
+              ontstaat een zogenoemd eiwit-cellulose-complex. De binding van de
+              eiwitmoleculen aan de cellulosemoleculen is voornamelijk het gevolg van
+              de vorming van waterstofbruggen. Een fragment van een
+              cellulosemolecuul is hieronder afgebeeld.
+
+
+
+
+HA-1028-a-o                                   2 / 15                            lees verder ►►►
+2p    4       Geef aan tussen welke atoomgroepen van cellulose en welke
+              atoomgroepen van eiwitten de waterstofbruggen kunnen worden gevormd.
+              Maak eventueel gebruik van Binas-tabel 67H1 of
+              ScienceData-tabel 13.7c.
+              Noteer je antwoord als volgt:
+              atoomgroep cellulose: …
+              atoomgroep eiwit: …
+
+              Hieronder is het laboratoriumexperiment beschreven waarmee Pd2+-ionen
+              uit een oplossing van PdCl2 kunnen worden verwijderd.
+
+              1   Het eiwit-cellulose-complex wordt toegevoegd aan een oplossing van
+                  PdCl2. De Pd2+-ionen worden daarbij aan het eiwit-cellulose-complex
+                  gebonden.
+              2   De suspensie die in stap 1 ontstaat, wordt gecentrifugeerd.
+                  Het eiwit-cellulose-complex met de daaraan gebonden Pd2+-ionen
+                  wordt daarbij afgescheiden. De overgebleven oplossing bevat geen
+                  Pd2+-ionen meer.
+              3   Aan het eiwit-cellulose-complex met de daaraan gebonden Pd2+-ionen
+                  wordt een oplossing van thio-ureum toegevoegd. Het mengsel wordt
+                  flink geschud. De Pd2+-ionen komen daarbij los van het complex.
+              4   Het mengsel dat in stap 3 is ontstaan, is een suspensie. Deze
+                  suspensie wordt gecentrifugeerd. Het eiwit-cellulose-complex wordt
+                  daarbij gescheiden van de oplossing.
+
+              Per gram eiwit kan maximaal 175 mg Pd2+-ionen worden gebonden.
+
+4p    5       Bereken hoeveel mol Pd2+-ionen maximaal per mol eiwit kan worden
+              gebonden.
+               Neem aan dat de molaire massa van het eiwit 3,0∙104 g mol–1 is.
+               Geef de uitkomst in het juiste aantal significante cijfers.
+
+2p    6       Leg uit waarom het eiwit-cellulose-complex hergebruikt kan worden.
+              Vermeld daarbij uit welke stap(pen) dat blijkt.
+
+
+
+
+HA-1028-a-o                                  3 / 15                          lees verder ►►►
+      Battolyser
+
+              Elektriciteit kan duurzaam worden opgewekt met behulp van energie van
+              de zon of de wind. De hoeveelheid energie uit deze bronnen is echter niet
+              constant. Daarom is onderzocht of een tijdelijk energie-overschot kan
+              worden opgeslagen voor gebruik op momenten dat er weinig zon of wind
+              is. Afhankelijk van de termijn tussen de productie en het gebruik van de
+              energie, is een andere vorm van opslag geschikt:
+               korte termijn (dag-nacht): opslag in een batterij;
+               lange termijn (weken-seizoenen): opslag in een brandstof.
+
+              De ‘battolyser’, die ontwikkeld is aan de TU Delft, kan energie opslaan in
+              een batterij en eveneens waterstof produceren door elektrolyse van water.
+
+2p    7       Geef aan welke energieomzetting plaatsvindt bij de elektrolyse van water.
+              Noteer je antwoord als volgt:
+              … energie wordt omgezet tot … energie.
+
+              De battolyser is schematisch weergegeven in figuur 1. De battolyser
+              bestaat uit twee ruimtes die gescheiden zijn door een membraan. Het
+              membraan is doorlaatbaar voor hydroxide-ionen. De ruimtes zijn gevuld
+              met een zeer basische oplossing van kaliumhydroxide en bevatten elk
+              een elektrode. Elke ruimte bevat ook een buis waardoor een gas wordt
+              afgevoerd en een buis waardoor water kan worden aangevuld.
+
+              figuur 1
+
+
+
+
+HA-1028-a-o                                  4 / 15                            lees verder ►►►
+              Bij het gebruik van de battolyser zijn twee fasen te onderscheiden:
+              de energieopslag en de energielevering.
+
+              Energieopslag
+              Wanneer de batterij wordt opgeladen, wordt energie opgeslagen.
+              Het proces dat hierbij plaatsvindt, kan met de volgende vergelijking
+              worden weergegeven (reactie 1):
+
+              Fe(OH)2 (s) + 2 Ni(OH)2 (s)  Fe (s) + 2 NiO(OH) (s) + 2 H2O (l)
+
+              NiO(OH) kan beschouwd worden als opgebouwd uit nikkelionen,
+              oxide-ionen en hydroxide-ionen. In NiO(OH) komen twee bindingstypen
+              voor.
+
+2p    8       Geef de namen van deze twee bindingstypen.
+
+              Op de uitwerkbijlage is het energiediagram van reactie 1 nog onvolledig
+              weergegeven. In dit energiediagram ontbreken het niveau van de
+              geactiveerde toestand en het niveau van de reactieproducten.
+
+2p    9       Maak op de uitwerkbijlage het energiediagram van reactie 1 af door de
+              ontbrekende energieniveaus weer te geven met de bijbehorende
+              bijschriften.
+1p   10       Geef in het energiediagram de reactiewarmte van reactie 1 aan.
+
+
+
+
+HA-1028-a-o                                   5 / 15                            lees verder ►►►
+              IJzer en NiO(OH), die ontstaan tijdens het opladen van de batterij, zijn
+              katalysatoren voor de elektrolyse van water. Daardoor wordt in de
+              battolyser, wanneer de batterij al voor een deel opgeladen is, netto water
+              omgezet volgens de volgende halfreacties:
+
+              elektrode A:   2 H2O + 2 e–  H2 + 2 OH–
+              elektrode B:   4 OH–  O2 + 2 H2O + 4e–
+
+              De gevormde waterstof kan vervolgens worden gebruikt als (grondstof
+              voor) brandstof.
+
+2p   11       Laat zien aan de hand van de gegeven vergelijkingen van de halfreacties,
+              dat netto water wordt omgezet.
+
+              De eerste battolyser werd anderhalf jaar lang getest. In totaal werd in
+              deze periode 1,41 kg water omgezet.
+
+3p   12       Bereken hoeveel gram waterstof maximaal kan ontstaan uit 1,41 kg water.
+              Geef de uitkomst in het juiste aantal significante cijfers.
+
+              Energielevering
+              Wanneer meer elektrische energie nodig is dan met behulp van zon of
+              wind wordt opgewekt, kan de battolyser deze energie leveren. Tijdens dit
+              proces treden de volgende halfreacties op:
+
+              elektrode A:   Fe + 2 OH–  Fe(OH)2 + 2 e–
+              elektrode B:   NiO(OH) + H2O + e–  Ni(OH)2 + OH–
+
+              Op de uitwerkbijlage is de battolyser nogmaals schematisch weergeven.
+              In deze figuur ontbreekt een stroomdraad.
+
+2p   13       Geef in de figuur op de uitwerkbijlage aan waar en in welke richting de
+              elektronen en hydroxide-ionen zich verplaatsen tijdens het leveren van
+              elektrische energie door het tekenen van:
+               een lijn met het bijschrift stroomdraad
+               een pijl met het bijschrift e–
+               een pijl met het bijschrift OH–
+
+
+
+
+HA-1028-a-o                                   6 / 15                             lees verder ►►►
+              Aan de TU Delft is een model ontwikkeld waarmee de productie van
+              energie uit zon en wind en de vraag naar duurzaam opgewekte energie
+              zijn geschat. In figuur 2 is een van deze schattingen in een diagram
+              weergegeven. In het diagram zijn het verloop van de gemiddelde
+              hoeveelheid geproduceerde energie en de gemiddelde vraag naar deze
+              energie in 2050 opgenomen.
+
+              figuur 2
+
+
+
+
+2p   14       Leg uit, aan de hand van figuur 2, in welke maand de battolyser de
+              meeste waterstof zal produceren: in april of in juni.
+
+              De eerste battolyser had de grootte van een stoeptegel. Bij het
+              vervolgonderzoek krijgt de nieuwe battolyser de grootte van een
+              zeecontainer. Door deze schaalvergroting nemen de risico’s toe die
+              samenhangen met het gebruik van de battolyser.
+
+1p   15       Geef een risico dat door de schaalvergroting toeneemt.
+
+
+
+
+HA-1028-a-o                                  7 / 15                           lees verder ►►►
+      Lood in wijn
+
+              In 2001 beschreven artsen in Australië een wijnmaker met chronische
+              loodvergiftiging door het drinken van zelfgemaakte wijn. De wijn bleek
+              14 mg Pb2+ per liter te bevatten. Door elke dag van deze wijn te drinken,
+              had de man de aanvaardbare dagelijkse inname (ADI) van het element
+              lood overschreden.
+
+2p   16       Bereken hoeveel keer de ADI de wijnmaker per dag aan lood ( Pb2+)
+              innam.
+              Maak gebruik van de volgende gegevens:
+               De wijnmaker woog 85 kg en dronk 0,50 L wijn per dag.
+               De ADI van lood is 3,610–3 mg kg–1 lichaamsgewicht.
+
+              De wijnmaker had een oude metalen badkuip
+              gebruikt om geplette druiven, waaruit de wijn
+              werd gemaakt, een week te bewaren. Deze
+              badkuip was bedekt met een dun laagje email,
+              een hard materiaal dat het metaal
+              beschermde tegen corrosie. Dit email bevat
+              loodzouten en reageert met zuur.
+
+              Onderzoekers lieten een kleine hoeveelheid email van de badkuip
+              reageren met verdund zuur. Na de reactie werden in het gevormde
+              mengsel Pb2+-ionen aangetoond. Om te bepalen of Pb2+-ionen uit de
+              badkuip konden vrijkomen tijdens het maken van wijn, deden de
+              onderzoekers commercieel verkrijgbare wijn in de badkuip. Ze bewaarden
+              deze wijn ook een week in de badkuip, waarna de wijn een veel hogere
+              concentratie Pb2+-ionen bleek te bevatten dan die van de wijnmaker:
+              maar liefst 310 mg per liter.
+              Dit verschil in de concentratie Pb2+-ionen kan verklaard worden door:
+               het verschil in pH van de beide wijnsoorten             (oorzaak I)
+               het verschil in het gebruikte volume wijn               (oorzaak II)
+              De wijnmaker had ongeveer 100 L wijn gemaakt met pH = 3,8.
+              De onderzoekers gebruikten 4 L wijn met pH = 3,4.
+
+              figuur 1
+
+
+
+
+2p   17       Leg uit met behulp van het botsende-deeltjes-model waardoor de reactie
+              tussen email en wijn sneller verloopt bij pH = 3,4 dan bij pH = 3,8.
+
+
+
+HA-1028-a-o                                   8 / 15                            lees verder ►►►
+2p   18       Leg uit aan de hand van figuur 1 waardoor een groter volume wijn in de
+              badkuip voor een lagere concentratie Pb2+-ionen zorgt.
+              Ga er hierbij van uit dat de pH van de wijn steeds gelijk is.
+
+              Eeuwen geleden kwam loodvergiftiging door het drinken van wijn vaak
+              voor. De oorzaak was echter een andere dan het gebruik van een oude
+              badkuip. De Oude Romeinen voegden bijvoorbeeld ‘sapa’ aan wijn toe.
+              Sapa werkt als conserveermiddel en geeft de wijn een zoetere smaak. De
+              sapa werd gemaakt door druivensap in te koken in loden ketels. Daarbij
+              ontstaat als gevolg van een redoxreactie een oplossing van loodsuiker
+              (Pb(CH3COO)2).
+
+1p   19       Geef de naam van het negatieve ion in loodsuiker.
+
+2p   20       Leid af, aan de hand van de ladingsverandering van de looddeeltjes, of het
+              lood van de ketels bij deze reactie reageerde als oxidator of als reductor.
+              Noteer je antwoord als volgt:
+              lading van de looddeeltjes in lood: ...
+              lading van de looddeeltjes in loodsuiker: ...
+              lood is dus: ...
+
+              Al in de 17e eeuw toonde de Duitse arts Eberhard Gockel aan dat er een
+              verband bestaat tussen hevige darmkrampen en het drinken van wijn die
+              Pb2+-ionen bevat. Hij ontwikkelde een test om de Pb2+-ionen aan te tonen.
+              Hierbij wordt geconcentreerd zwavelzuur druppelsgewijs toegevoegd aan
+              een beetje heldere wijn. Als de wijn meer dan 4,8∙10–5 mol Pb2+-ionen per
+              liter bevat, wordt het ontstaan van lood(II)sulfaat (PbSO4) zichtbaar.
+
+2p   21       Geef aan welke waarneming wordt gedaan wanneer de test wordt
+              uitgevoerd met wijn die meer dan 4,8∙10–5 mol Pb2+-ionen per liter bevat.
+               Maak gebruik van Binas-tabel 45A of ScienceData-tabel 8.4d.
+               Licht je antwoord toe.
+
+2p   22       Laat zien, aan de hand van een berekening, dat de wijnmaker met de test
+              van Gockel de Pb2+-ionen in zijn wijn had kunnen aantonen.
+              Maak gebruik van het gegeven dat deze wijn 14 mg Pb2+ per liter bevat.
+
+
+
+
+HA-1028-a-o                                    9 / 15                              lees verder ►►►
+      Wasmiddel verwijdert vlekken
+
+              Om vuile was schoon te krijgen wordt ‘wasmiddel’ gebruikt. Bij het wassen
+              van textiel wordt het vuil van het textiel losgemaakt en gemengd met
+              water. Het losgemaakte vuil wordt vervolgens met het water afgevoerd.
+              Wasmiddel is een mengsel van diverse stoffen, waaronder bijvoorbeeld
+              natriumdodecylsulfaat (C12H25SO4Na). Natriumdodecylsulfaat is oplosbaar
+              in water. Het dodecylsulfaation ( C12H25SO4–) heeft een negatief geladen
+              hydrofiel deel dat in water gehydrateerd wordt, en een lange hydrofobe
+              ‘staart’. In figuur 1 is het dodecylsulfaation schematisch weergegeven.
+
+              figuur 1
+
+
+
+
+              Figuur 1 is ook weergegeven op de uitwerkbijlage.
+
+2p   23       Teken op de uitwerkbijlage twee watermoleculen die het dodecylsulfaation
+              hydrateren. Geef elk watermolecuul weer met         .
+
+              Dodecylsulfaationen vormen in water zogenoemde micellen. Een micel is
+              een samenhangende groep ionen waarin de staarten zo dicht mogelijk bij
+              elkaar geplaatst zijn. Micellen kunnen binden met vuildeeltjes en deze
+              vuildeeltjes insluiten. In figuur 2 is een doorsnede van een micel
+              weergegeven, zonder vuildeeltje (figuur 2a) en met vuildeeltje (figuur 2b).
+
+              figuur 2
+
+
+
+
+                           2a                                     2b
+
+
+
+
+HA-1028-a-o                                   10 / 15                            lees verder ►►►
+              Op de uitwerkbijlage zijn de structuurformules weergegeven van twee
+              verschillende vuildeeltjes die kunnen voorkomen in voedsel. Slechts een
+              van deze vuildeeltjes zal worden gebonden door micellen die zijn
+              opgebouwd zoals weergegeven in figuur 2.
+
+2p   24       Leg uit, aan de hand van de structuurformules, welk vuildeeltje dit is.
+              Verwerk in je antwoord de begrippen ‘hydrofiel’ en/of ‘hydrofoob’.
+
+              Wasmiddel bevat ook enzymen die vuildeeltjes kunnen afbreken door
+              middel van hydrolyse.
+
+2p   25       Omcirkel op de uitwerkbijlage in elk van de twee structuurformules een
+              atoombinding die kan worden verbroken door middel van hydrolyse.
+
+              Het enzym lipase hydrolyseert vetten. Lipase moet haar werk kunnen
+              doen onder verschillende omstandigheden (zoals pH en temperatuur) bij
+              het wassen. In figuur 3 is te zien hoe de hydrolyse-activiteit van lipase
+              afhangt van de pH. Lipase heeft een pH-optimum.
+
+              figuur 3
+
+                               120
+              relatieve activiteit
+                      (%)      100
+
+                               80
+
+
+                                     6   7   8    9    10
+                                                      pH
+
+
+2p   26       Bereken de concentratie H+-ionen in mol L–1 bij het pH-optimum van
+              lipase (T = 298 K).
+
+
+
+
+HA-1028-a-o                                      11 / 15                         lees verder ►►►
+              Bij het afbreken van vetten door lipase spelen onder andere drie
+              verschillende aminozuureenheden een belangrijke rol. In figuur 4 is een
+              fragment van lipase, met daarin deze aminozuureenheden, in
+              structuurformule weergegeven. Een van deze drie aminozuureenheden is
+              in waswater negatief geladen doordat die een H+-ion heeft afgestaan. De
+              delen van de peptideketen tussen deze drie aminozuureenheden zijn met
+                     weergegeven.
+
+              figuur 4
+
+
+
+
+2p   27       Geef de 3-lettersymbolen van elk van de drie aminozuureenheden die in
+              figuur 4 zijn weergegeven. Maak gebruik van Binas-tabel 67H1 of
+              ScienceData tabel 13.7c.
+              Noteer je antwoord als volgt:
+              A=…
+              B=…
+              C=…
+
+              In waswater zijn veel meer vetdeeltjes dan lipasedeeltjes aanwezig. Toch
+              kunnen alle vetdeeltjes worden afgebroken.
+
+1p   28       Geef aan waarom het enzym lipase slechts in relatief kleine hoeveelheden
+              aanwezig hoeft te zijn om alle vetdeeltjes af te breken.
+
+
+
+
+HA-1028-a-o                                 12 / 15                           lees verder ►►►
+      Toner
+
+              In laserprinters en kopieerapparaten wordt ‘toner’ gebruikt om tekst en
+              afbeeldingen op papier te brengen. Toner is een korrelig poeder. De
+              korreltjes toner bevatten een kern van voornamelijk Fe3O4 met
+              daaromheen een laagje kunststof.
+
+2p   29       Geef de lading van elk van de twee soorten ijzerionen die aanwezig zijn in
+              Fe3O4 en geef de verhouding waarin deze twee ionsoorten in dit zout
+              voorkomen.
+              Noteer je antwoord als volgt:
+              Fe… : Fe… = …. : ….
+
+              Het laagje kunststof bestaat voornamelijk uit een co-polymeer dat is
+              opgebouwd uit de monomeren methylmethacrylaat en styreen. De
+              structuurformules van deze monomeren staan hieronder.
+
+
+
+
+3p   30       Geef de structuurformule van een fragment van een additiepolymeer van
+              methylmethacrylaat en styreen. Dit fragment moet komen uit het midden
+              van de polymeerketen en moet bestaan uit één eenheid
+              methylmethacrylaat en één eenheid styreen.
+
+              Toner wordt verkocht in een omhulsel, dat een cartridge wordt genoemd.
+              Per jaar worden naar schatting wereldwijd 1,1 miljard cartridges gevuld
+              met toner verkocht. Van deze hoeveelheid cartridges komen er uiteindelijk
+              500 miljoen na gebruik op een vuilnisbelt terecht. Een gebruikte cartridge
+              bevat nog een achtergebleven hoeveelheid toner. Het is ongewenst
+              wanneer toner in het milieu terechtkomt.
+
+2p   31       Bereken hoeveel kg toner nog aanwezig is in 500 miljoen gebruikte
+              cartridges. Neem aan dat:
+               een nieuwe cartridge gemiddeld 160 gram toner bevat.
+               in een gebruikte cartridge gemiddeld 8,0 massaprocent van de
+                  oorspronkelijke hoeveelheid toner achterblijft.
+
+              De cartridges zijn veelal gemaakt van een thermoplastische kunststof en
+              kunnen daardoor gemakkelijk gerecycled worden.
+
+2p   32       Geef een kenmerk op microniveau en een eigenschap op macroniveau
+              van een thermoplast.
+
+
+
+
+HA-1028-a-o                                   13 / 15                           lees verder ►►►
+              De cartridges zouden gerecycled kunnen worden, maar voor de
+              overgebleven toner is dat lastiger. Australische onderzoekers hebben een
+              proces ontwikkeld waarmee ijzer uit toner kan worden teruggewonnen. Dit
+              gebeurt door het Fe3O4 met behulp van het co-polymeer, dat eveneens in
+              toner aanwezig is, om te zetten tot ijzer. Hieronder is beschreven hoe dit
+              proces op kleine schaal wordt uitgevoerd.
+
+              De toner wordt samengeperst
+              tot tabletten. Een tablet wordt
+              vervolgens in een oven
+              geplaatst bij een temperatuur
+              van 1550 °C. Door de oven
+              wordt voortdurend argon
+              geleid.
+
+              In de oven ontleedt het co-polymeer tot methaan, koolstofmono-oxide en
+              koolstofdioxide. Het gevormde methaan ontleedt vervolgens tot koolstof
+              en waterstof. Vervolgens wordt ijzer gevormd als gevolg van voornamelijk
+              onderstaande reacties.
+
+              Fe3O4 + CO  3 FeO + CO2                                       (reactie 1)
+
+              FeO + C  Fe + CO                                              (reactie 2)
+
+              FeO + CO  Fe + CO2                                            (reactie 3)
+
+2p   33       Geef de vergelijking van de ontleding van methaan.
+
+3p   34       Bereken de reactiewarmte van reactie 1 (bij T = 298 K en p = p0) per mol
+              Fe3O4. Maak hierbij gebruik van de volgende informatie:
+               Binas-tabel 57 of ScienceData-tabel 9.2
+               de vormingswarmte van Fe3O4 is –11,2.105 J mol–1.
+
+              Door voortdurend argon door te leiden worden de ontstane gassen,
+              samen met het argon, uit de oven verwijderd. De onderzoekers kregen zo
+              een product dat grotendeels uit ijzer bestond. Dit ijzer kan gebruikt
+              worden in de staalindustrie.
+
+2p   35       Leg uit waarom argon niet deelneemt aan de reacties in de oven.
+
+3p   36       Leg uit, aan de hand van de gegeven reactievergelijkingen, waardoor
+              minder ijzer kan ontstaan wanneer een gasstroom van lucht zou worden
+              gebruikt (in plaats van argon).
+
+
+
+
+HA-1028-a-o                                     14 / 15                         lees verder ►►►
+              Voorafgaand aan de behandeling in de oven heeft een tablet een massa
+              van 0,50 g en bevat het 23,9 massaprocent ijzer. Na de behandeling is er
+              0,098 gram ijzer verkregen.
+
+2p   37       Bereken het rendement van de vorming van ijzer uit een tablet volgens
+              deze behandeling.
+
+              Het terugwinnen van ijzer uit toner is economisch gezien mogelijk
+              voordelig. Er zijn ook andere redenen voor te geven.
+
+1p   38       Geef een andere reden om het ijzer terug te winnen uit toner.
+
+
+
+
+HA-1028-a-o                                  15 / 15                              lees verdereinde
+                                                                                               ►►► 
+

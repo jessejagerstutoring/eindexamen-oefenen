@@ -1,0 +1,413 @@
+                                                                       Examen VWO
+
+                                                                            2022
+                                                                                   tijdvak 2
+                                                                            tijdsduur: 3 uur
+
+
+
+                                                                         scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 63 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald kunnen
+worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg, berekening
+of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen,
+dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-22-2-o
+          Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+          T = 298 K en p = p0.
+
+
+     Cadmiumgeel
+
+
+          In de negentiende en begin twintigste eeuw werden door de chemische
+          industrie veel nieuwe pigmenten ontwikkeld, zoals cadmiumgeel
+          (cadmiumsulfide, CdS). Cadmiumgeel werd onder andere gemaakt door de
+          reactie van cadmiumcarbonaat met zwavel (S). Bij deze reactie ontstaan
+          behalve cadmiumsulfide ook zwaveldioxide en koolstofdioxide.
+
+2p   1    Geef de vergelijking van deze vorming van cadmiumsulfide uit zwavel en
+          cadmiumcarbonaat.
+3p   2    Bereken de massa in gram zwavel die minimaal nodig is om
+          1,0 kg cadmiumcarbonaat volledig om te zetten tot cadmiumsulfide.
+          Geef de uitkomst in het juiste aantal significante cijfers.
+
+          Bij deze productie werd zwavel in overmaat toegevoegd. De overgebleven
+          zwavel kon na afloop van de reactie gemakkelijk worden gescheiden van
+          de gevormde cadmiumsulfide door het verkregen mengsel te verwarmen.
+          Hierbij verdampt de zwavel maar de cadmiumsulfide niet.
+
+2p   3    Leg uit dat zwavel bij een lagere temperatuur verdampt dan cadmiumsulfide.
+          Neem hier aan dat zwavel bestaat uit deeltjes S8.
+          – Gebruik hierbij begrippen op microniveau.
+          – Benoem de bindingstypes in beide stoffen.
+
+          Helaas bleek cadmiumgeel op de lange termijn niet chemisch stabiel.
+          Op verschillende schilderijen zijn drie opeenvolgende aantastingen van
+          cadmiumgeel waargenomen:
+          – verbleking door de vorming van cadmiumsulfaat.
+          – de vorming van kleine witte vlekken waarin vooral cadmiumsulfaat-
+              monohydraat aanwezig is.
+          – verkleuring door onder andere de vorming van lood(II)sulfaat PbSO4.
+              Deze verkleuring trad alleen op nadat vernis was aangebracht op een al
+              aangetast schilderij.
+
+          De omzetting van cadmiumgeel met zuurstof tot cadmiumsulfaat-monohydraat
+          treedt alleen op in vochtige lucht.
+
+2p   4    Geef de vergelijking van de omzetting van cadmiumgeel tot
+          cadmiumsulfaatmonohydraat.
+
+
+
+
+VW-1028-a-22-2-o                           2/9                               lees verder ►►►
+          Behalve cadmiumsulfaatmonohydraat ontdekte men in de witte vlekken
+          een ander zout. In dit zout zijn cadmiumionen en sulfaationen in de
+          molverhouding 2 : 3 aanwezig. Behalve deze ionen is er nog één andere
+          ionsoort aanwezig. Op grond van de gevonden samenstelling van het zout
+          vermoedden de onderzoekers dat een van de schilderijen ooit met een
+          oplossing van ammoniak is schoongemaakt.
+
+2p   5    Geef een mogelijke verhoudingsformule van het gevonden zout.
+
+          Tijdens periodes met hoge luchtvochtigheid lossen de zouten die in een
+          verflaag aanwezig zijn enigszins op. Dit wordt veroorzaakt doordat zich dan
+          bijvoorbeeld het evenwicht CdSO4         Cd2+ + SO42– kan instellen in de
+          verflaag. De gehydrateerde ionen kunnen vervolgens door verf- en vernislagen
+          heen bewegen.
+          Voor het evenwicht CdSO4          Cd2+ + SO42– geldt Ks = [Cd2+][SO42–].
+          Ks is het zogenoemde oplosbaarheidsproduct. De waardes van Ks van enkele
+          stoffen zijn in de tabel gegeven.
+
+          tabel
+
+            stof                formule          Ks = …               waarde van Ks
+
+            cadmiumsulfaat      CdSO4            [Cd2+][SO42–]        5,3·10–1
+            lood(II)sulfaat     PbSO4            [Pb2+][SO42–]        1,7·10–8
+            lood(II)ethanoaat   Pb(CH3COO)2      [Pb2+][CH3COO–]2     2·101
+
+          Op een schilderij waar het cadmiumgeel al deels was omgezet tot
+          cadmiumsulfaat is in het verleden een laag vernis aangebracht.
+          De gebruikte vernis bevatte als enige loodverbinding lood(II)ethanoaat
+          (Pb(CH3COO)2). Zowel in de verflaag als in de vernislaag is door de
+          onderzoekers vast lood(II)sulfaat (PbSO4) aangetroffen.
+
+3p   6    Leg uit, onder andere met behulp van evenwichtsbeschouwingen, dat
+          lood(II)sulfaat aanwezig is in de vernislaag als gevolg van periodes met hoge
+          luchtvochtigheid.
+          Neem aan dat de waardes in de tabel ook gelden onder de omstandigheden in
+          een verflaag tijdens periodes van hoge luchtvochtigheid.
+
+
+
+
+VW-1028-a-22-2-o                           3/9                                lees verder ►►►
+     Merox
+
+
+          Het Merox-proces is een industrieel proces om zwavelhoudende verbindingen
+          te verwijderen uit aardolieproducten zoals lpg. Lpg is een mengsel van
+          koolwaterstoffen met een laag kookpunt.
+          De zwavelhoudende verbindingen kunnen worden aangeduid met R–SH,
+          waarbij de groep R staat voor een koolwaterstofketen. In figuur 1 is het
+          blokschema van het Merox-proces onvolledig weergegeven.
+
+          figuur 1
+                                 lpg
+                   natronloog
+
+                                R1
+              onzuiver lpg
+
+                                 natronloog            *
+                                                 R2
+                                     NaRS-
+                                     oplossing
+
+
+          Het is niet mogelijk om lpg en R–SH te scheiden met behulp van water.
+          Daarom wordt het gasvormige, nog onzuivere lpg in reactor 1 (R1) in contact
+          gebracht met een overmaat natronloog. In R1 reageren de zwavelhoudende
+          verbindingen volgens reactie 1.
+
+          R–SH (g) + OH– (aq) → R–S– (aq) + H2O (l)                              (reactie 1)
+
+          In een basische oplossing kunnen de zwavelhoudende verbindingen wel van
+          het lpg worden afgescheiden. Dit wordt veroorzaakt door de vorming van
+          bindingen tussen watermoleculen en deeltjes die in R1 zijn ontstaan.
+
+1p   7    Geef de naam van de scheidingsmethode die wordt toegepast in R1.
+
+3p   8    Voer de volgende opdrachten uit:
+          – Leg uit dat het niet mogelijk is om lpg en R–SH te scheiden met behulp van
+             water.
+          – Leg uit dat de scheiding in R1 wel mogelijk is in een basische oplossing.
+             Benoem hierbij het bindingstype / de bindingtypes die een rol speelt/spelen bij
+             de scheiding.
+
+          Het reactiemengsel wordt onderin R1 afgetapt en doorgevoerd naar reactor 2
+          (R2). In R2 wordt een overmaat lucht door de oplossing afkomstig van R1
+          geleid, waarbij disulfides (R–S–S–R) worden gevormd. De totaalvergelijking
+          van de reacties die in R1 en R2 verlopen, is hieronder weergegeven.
+
+          4 R–SH + O2 → 2 R–S–S–R + 2 H2O                                    (totaalreactie)
+
+2p   9    Geef de vergelijking van de reactie die verloopt in R2.
+
+
+VW-1028-a-22-2-o                                      4/9                      lees verder ►►►
+          In een onderzoek is de omzettingssnelheid van R–SH tot R–S–S–R nader
+          onderzocht. Men onderzocht de omzetting van butaanthiol (C4H10S) in
+                                                                             [C4H10S]t
+          natronloog. Hierbij werd op verschillende tijdstippen de fractie
+                                                                             [C4H10S]0
+          bepaald. In figuur 2 zijn de resultaten van een meting weergegeven.
+
+          figuur 2
+                       1,00
+           [C4H10S]t
+           [C4H10S]0
+                       0,80
+
+                       0,60
+
+                       0,40
+
+                       0,20
+
+                         0
+                              0   2,0   4,0   6,0   8,0      10
+                                                       tijd (h)
+
+
+          Op t = 0 bevatte het mengsel 372 massa-ppm butaanthiol.
+          De molaire massa van butaanthiol is 90,2 g mol–1. De dichtheid van het
+          reactiemengsel was 0,75 kg L–1.
+
+5p   10   Bereken met behulp van figuur 2 de gemiddelde omzettingssnelheid van
+          butaanthiol in mol L–1 s–1 tussen t = 0 en t = 2,0 h.
+          Geef de uitkomst in het juiste aantal significante cijfers.
+
+          In scheidingsruimte 1 (S1) wordt het vloeibare mengsel afkomstig uit R2
+          gescheiden. De laag met daarin de vloeibare disulfides (R–S–S–R) wordt als
+          afval afgevoerd. De laag met natronloog bevat geen organische stoffen, zodat
+          het natronloog kan worden hergebruikt in het proces.
+          Om de reactie in R1 steeds onder gelijke omstandigheden te laten verlopen,
+          moet het natronloog een bewerking ondergaan voordat het kan worden
+          teruggevoerd.
+
+2p   11 Leg uit welke bewerking het natronloog moet ondergaan voordat het kan
+        worden teruggevoerd.
+3p   12 Maak het blokschema op de uitwerkbijlage compleet.
+        – Teken de ontbrekende scheidingsruimte(n).
+        – Teken ontbrekende stofstromen. Houd hierbij rekening met hergebruik van
+            stoffen.
+        – Waar in het blokschema een * voorkomt, hoef je niets aan te geven.
+
+
+
+
+VW-1028-a-22-2-o                                     5/9                           lees verder ►►►
+     EPDM-rubber
+
+
+          EPDM-rubber is een synthetische rubbersoort, die veel wordt gebruikt in de
+          auto-industrie voor bijvoorbeeld afdichtingsstrips en raamrubbers.
+          Bij de productie van EPDM-rubber wordt eerst thermoplastisch EPDM
+          (t-EPDM) gemaakt.
+          Hierbij ondergaat een mengsel van etheen, propeen               HC  CH
+          en een zogeheten dieen een additie-polymerisatie.
+                                                                        HC CH2 CH
+          Een veelgebruikt dieen hierbij is ethylideen-norborneen
+          (ENB). De structuurformule van ENB is hiernaast                H2C C
+          weergegeven. Bij de vorming van t-EPDM reageert alleen                 CH CH3
+          de C=C-binding die zich in de ring bevindt.                   ENB
+
+
+3p   13   Teken de structuurformule van een gedeelte van een molecuul t-EPDM.
+          Dit gedeelte moet komen uit het midden van een molecuul en moet bestaan uit
+          één eenheid van etheen, propeen en ENB.
+
+          De polymerisatie tot t-EPDM verloopt onder invloed van een katalysator. Er zijn
+          twee types katalysator beschikbaar:
+          – Type 1: hiermee wordt de vorming van een willekeurig (random) copolymeer
+                       bevorderd;
+          – Type 2: hiermee wordt de vorming van een blok-copolymeer bevorderd.
+          Het blijkt dat de keuze van het type katalysator een sterke invloed heeft op de
+          vorming van kristallijne gebieden in het t-EPDM. In een kristallijn gebied
+          vertonen de polymeerketens een grote mate van ordening.
+          In t-EPDM zijn geen crosslinks aanwezig tussen de polymeerketens.
+
+2p   14   Leg uit of toepassing van een katalysator type 2 bij de polymerisatie leidt tot
+          een groter of kleiner percentage kristallijne gebieden.
+          Gebruik hierbij Binas-tabel 66F of ScienceData-tabel 11.1.3.
+
+          De vervormbaarheid van t-EPDM wordt minder naarmate het materiaal meer
+          kristallijne gebieden bevat.
+
+2p   15   Leg uit dat t-EPDM met een groot percentage kristallijne gebieden een kleinere
+          vervormbaarheid heeft dan t-EPDM met een klein percentage kristallijne
+          gebieden. Gebruik hierbij begrippen op microniveau.
+
+          Het t-EPDM wordt vervolgens omgezet tot het eindproduct EPDM-rubber.
+          Tot voor kort werd EPDM-rubber geproduceerd op basis van fossiele
+          grondstoffen. In Brazilië gebruikt men nu bio-ethanol uit suikerriet in plaats van
+          aardolie als grondstof voor het benodigde etheen. De omzetting van ethanol tot
+          etheen is hieronder weergegeven.
+
+          C2H6O (l) → C2H4 (g) + H2O (l)                                          (reactie 1)
+
+
+
+
+VW-1028-a-22-2-o                             6/9                                lees verder ►►►
+          Het etheen afkomstig uit reactie 1 wordt vervolgens gebruikt om EPDM-rubber
+          te produceren onder de merknaam Keltan®-Eco.
+          Biogebaseerde producten worden gecontroleerd om misbruik van
+          belastingvoordelen te voorkomen. Hiertoe wordt het gehalte 14C-atomen in het
+          product bepaald. 14C-atomen worden in de atmosfeer door kosmische straling
+          gevormd uit 14N-atomen. Uit de 14C-atomen wordt in de atmosfeer snel 14CO2
+          gevormd. Het gehalte 14C in de atmosfeer is constant. Het gehalte 14C in
+          biomassa bedraagt hierdoor gemiddeld 1,5·10–6 ppm van alle C-atomen.
+          De 14C-atomen worden in de loop van de tijd door radioactief verval omgezet
+          tot 14N-atomen.
+
+2p   16   Leg uit of het gehalte 14C in Keltan®-Eco hoger of lager is dan in
+          EPDM-rubber dat is geproduceerd op basis van fossiele grondstoffen.
+
+          Reactie 1 is endotherm. De benodigde warmte wordt in het proces geleverd
+          door verbranding van de resten van het suikerriet.
+
+4p   17   Bereken de massa in kilogram suikerriet-resten die nodig is om de energie te
+          leveren voor de omzetting van 1,0 ton ethanol tot etheen.
+          – Gebruik Binas-tabel 28B en 57 of ScienceData-tabel 8.7b en 9.2.
+          – Neem aan dat de suikerriet-resten volledig bestaan uit hout.
+          – Een ton is 103 kg.
+
+          De omzetting van ethanol tot etheen vindt plaats aan het oppervlak van
+          een aluminiumoxide-katalysator. Op de uitwerkbijlage is een deel van het
+          oppervlak weergegeven. Uit onderzoek is gebleken dat de OH-groepen en de
+          O–-groepen aan het oppervlak een belangrijke rol spelen in de katalytische
+          werking. Men vermoedt dat hierbij waterstofbruggen worden gevormd tussen
+          moleculen ethanol en de aanwezige groepen op het oppervlak.
+
+2p   18   Teken op de uitwerkbijlage hoe een molecuul ethanol met twee
+          waterstofbruggen gebonden is aan het oppervlak. Geef elke waterstofbrug
+          weer met een stippellijn.
+
+          Per mol monomeereenheden van Keltan®-Eco is gemiddeld 0,55 mol etheen,
+          0,40 mol propeen (C3H6) en 0,050 mol ENB aanwezig.
+
+4p   19   Bereken het volume in liter propeen dat minimaal nodig is om 1,0 kg
+          Keltan®-Eco te produceren. Gebruik hierbij onder andere de volgende
+          gegevens:
+          – De dichtheid van propeen is 1,75 kg m–3.
+          – De gemiddelde molaire massa van een monomeereenheid van Keltan®-Eco
+              is 38,3 g mol–1.
+
+
+
+
+VW-1028-a-22-2-o                           7/9                              lees verder ►►►
+     Voedsellijm
+
+
+          In de voedselindustrie wordt soms het enzym transglutaminase (TG) gebruikt
+          om reststukjes vlees aan elkaar te lijmen tot grotere stukken.
+          Het enzym katalyseert de koppeling van de restgroepen van de
+          aminozuureenheden glutamine en lysine die aanwezig zijn in peptideketens.
+
+2p   20   Leg uit, aan de hand van deze gegevens, of door deze omzetting de primaire
+          structuur van de peptideketens in de eiwitten verloren gaat.
+
+          In figuur 1 is de koppeling van de restgroepen van een glutamine-eenheid en
+          een lysine-eenheid in verschillende peptideketens schematisch en onvolledig
+          weergegeven.
+
+          figuur 1
+
+                          O                                      O
+              CH2 CH2 C        NH2   H3N CH2            CH2 CH2 C    N CH2          X
+           glutamine-eenheid         lysine-eenheid                  H
+
+1p   21   Geef de formule van het deeltje X.
+
+          Wanneer geen lysine-restgroepen of ongebonden aminozuren beschikbaar zijn,
+          katalyseert TG ook de reactie tussen de restgroep van glutamine-eenheden en
+          water. Hierbij wordt een andere aminozuur-eenheid gevormd en ontstaat
+          ammoniak. Deze omzetting is op de uitwerkbijlage onvolledig weergegeven.
+
+2p   22   Maak de vergelijking op de uitwerkbijlage compleet en geef de naam van de
+          aminozuureenheid die hierbij wordt gevormd.
+
+          De koppeling die in de figuur is weergegeven, verloopt in een breed pH-gebied.
+          De reactie verloopt alleen als de restgroep van de lysine-eenheid positief
+          geladen is. Bij de gemiddelde pH van bloed zijn de aminogroepen in de
+          restgroepen van lysine-eenheden grotendeels omgezet tot ~NH3+-groepen.
+          De waarde van de Kz van de NH3+-groep is 6,3·10–11.
+
+4p   23   Laat met een berekening zien dat bij pH = 7,40 het percentage aminogroepen
+          van lysine-eenheden dat aanwezig is als ~NH2 kleiner is dan 2,0%.
+
+
+
+
+VW-1028-a-22-2-o                                 8/9                         lees verder ►►►
+            De NH2-groep in de restgroep van glutamine is een veel zwakkere base dan de
+            NH2-groep in de restgroep van lysine. Dit kan worden verklaard met behulp
+            van een grensstructuur van de restgroep van glutamine. In deze grensstructuur
+            komen formele ladingen voor. Op de uitwerkbijlage is deze grensstructuur
+            onvolledig weergegeven.
+
+2p    24    Maak op de uitwerkbijlage deze grensstructuur compleet. De atomen in de
+            grensstructuur moeten voldoen aan de octetregel.
+            – Teken ontbrekende elektronenparen.
+            – Geef formele ladingen aan.
+
+            In het reactiemechanisme van de koppeling van glutamine en lysine door TG
+            spelen twee aminozuureenheden in het actieve centrum van TG een rol:
+            His373 en Cys314. Op de uitwerkbijlage is een stap uit dit mechanisme
+            onvolledig weergegeven.
+            In deze stap wordt een eenheid Lys gekoppeld aan een eenheid Gln die al aan
+            aminozuureenheid Cys314 van TG was gekoppeld.
+
+3p    25    Maak op de uitwerkbijlage het reactiemechanisme compleet.
+            – Teken links van de pijl de niet-bindende elektronenparen.
+            – Geef links van de pijl met pijlen weer hoe elektronenparen worden verplaatst
+               tijdens deze reactie.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende
+correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+
+
+
+VW-1028-a-22-2-o                                                9/9                                                         einde ■
+

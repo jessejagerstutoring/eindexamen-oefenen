@@ -1,0 +1,568 @@
+                                                                   Examen VWO
+
+                                                                       2019
+                                                                              tijdvak 1
+                                                                     donderdag 9 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+Maak zo nodig gebruik van Binas of Science Data
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 28 vragen.
+Voor dit examen zijn maximaal 67 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen,
+dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-19-1-o
+      Afvalhout als grondstof
+
+            Caprolactam is een belangrijke grondstof waar onder andere nylon van
+            wordt gemaakt. Tot nu toe werd caprolactam geproduceerd uit aardolie.
+            Vanwege de toekomstige schaarste van aardolie wordt er gezocht naar
+            hernieuwbare grondstoffen voor caprolactam. Een nieuwe ontwikkeling
+            betreft de toepassing van afvalhout als grondstof voor caprolactam. Een
+            belangrijk tussenproduct hierbij is levulinezuur (C5H8O3).
+            De structuurformule van levulinezuur is hieronder weergegeven.
+                    O          O
+            CH3 C CH2 CH2 C OH
+            levulinezuur
+            De stappen die verlopen bij de omzetting van afvalhout tot uiteindelijk
+            caprolactam zijn hieronder verkort weergegeven.
+                   afvalhout  suikers  levulinezuur  caprolactam
+            Voor de productie van levulinezuur wordt een batch bereid van pulp
+            (gemalen afvalhout), geconcentreerd zwavelzuur en water. Het ontstane
+            reactiemengsel bevat 21 massa% afvalhout en 3,0 massa% zwavelzuur.
+            Een batch bevat 200 kg reactiemengsel.
+
+2p    1     Bereken het volume in L geconcentreerd zwavelzuur dat nodig is per
+            batch. Maak gebruik van de volgende gegevens:
+             Geconcentreerd zwavelzuur bevat 98,0 massa% zwavelzuur.
+             Geconcentreerd zwavelzuur heeft een dichtheid van 1,832 kg L–1.
+
+            Een vereenvoudigd en onvolledig blokschema voor de productie van
+            levulinezuur is op de uitwerkbijlage bij vraag 4 weergegeven. Het proces
+            bestaat uit een aantal stappen:
+             In een mengkamer M wordt de batch bereid, waarna het
+                reactiemengsel naar reactor R1 wordt geleid.
+             In R1 wordt de cellulose uit de pulp eerst omgezet tot onder andere
+                disachariden zoals maltose. Hieruit worden vervolgens levulinezuur,
+                methaanzuur en water gevormd. Er ontstaan tevens bijproducten.
+                Onder de gebruikte omstandigheden verdampt het ontstane
+                methaanzuur en wordt het afgevoerd uit R1.
+            Het zwavelzuur treedt in R1 op als katalysator.
+
+3p    2     Geef de vergelijking van de omzetting van maltose tot levulinezuur,
+            methaanzuur en water.
+             Gebruik molecuulformules.
+             Gebruik Binas-tabel 67F of ScienceData-tabel 13.1.d.
+
+
+
+
+VW-1028-a-19-1-o                            2 / 12                            lees verder ►►►
+                      Vervolgens wordt de in R1 ontstane suspensie gescheiden in
+                   scheidingsruimte 1 (S1). Het vaste afval met daarin alle pulpresten en
+                   een deel van het water en zwavelzuur wordt afgevoerd. De rest van
+                   het mengsel wordt naar scheidingsruimte 2 (S2) gevoerd.
+                      In S2 wordt 4-methyl-pentaan-2-on (MIBK) aan het filtraat
+                   toegevoegd.
+                   Levulinezuur en alle bijproducten van de reactie in R1 lossen op in het
+                   MIBK en de rest van het zwavelzuur en water niet.
+                  Het deel van het mengsel met daarin levulinezuur wordt doorgevoerd
+                   naar scheidingsruimte 3 (S3).
+                  In S3 wordt levulinezuur afgescheiden van MIBK en de bijproducten
+                   door middel van gefractioneerde destillatie. De bijproducten verlaten
+                   S3 aan de onderzijde. De stof met het laagste kookpunt komt boven
+                   uit S3.
+
+3p    3     Leg uit op microniveau welke stof een lager kookpunt heeft: MIBK of
+            levulinezuur.
+4p    4     Maak het blokschema op de uitwerkbijlage compleet.
+             Noteer ontbrekende pijlen en ontbrekende stoffen bij de pijlen.
+             Houd daarbij rekening met hergebruik van stoffen.
+
+            De uiteindelijke omzetting van levulinezuur tot caprolactam is in de figuur
+            weergegeven.
+
+            figuur
+                                                                       H
+                    O                  O                               N   O
+            CH3 C CH2 CH2 C OH
+                                                                                 caprolactam
+                                     levulinezuur
+                      H2
+                                 H2O                             H2O
+                                                                           CO en H2
+                H3C        O     O                                             O
+                                     GVL                     CH2 CH CH2 CH2 C NH2              PA
+
+                CH3OH                                         CH3OH
+                                                                           NH3
+                    OH                  O                                        O
+            CH3 CH CH2 CH2 C O CH3                           CH2 CH CH2 CH2 C O CH3
+                           HMP                       H2O                             MP
+
+
+
+
+VW-1028-a-19-1-o                                    3 / 12                                lees verder ►►►
+            De omzetting van de stof GVL tot HMP wordt gekatalyseerd door
+            H+-ionen. Het O-atoom van de ketongroep van GVL neemt hierbij eerst
+            een H+-ion op. Hierbij wordt een deeltje X gevormd. De Lewisstructuur
+            van het deeltje X is op de uitwerkbijlage onvolledig weergegeven. Het
+            deeltje Y is een grensstructuur van deeltje X.
+            Vervolgens valt het O-atoom van methanol als nucleofiel aan op
+            deeltje Y, waarbij HMP ontstaat.
+            In het deeltje Y komt een atoom voor waarbij niet wordt voldaan aan de
+            oktetregel.
+
+2p    5     Maak op de uitwerkbijlage de grensstructuur van beide deeltjes af.
+            Geef formele lading(en) aan.
+
+            Het totale rendement van de omzettingen van levulinezuur tot
+            caprolactam is nog laag.
+
+3p    6     Geef met behulp van de figuur de totaalvergelijking voor de omzetting van
+            levulinezuur tot caprolactam. Gebruik molecuulformules.
+2p    7     Bereken de atoomeconomie van de omzetting van levulinezuur tot
+            caprolactam volgens de figuur.
+
+            Deze productie van caprolactam is ontworpen zodat afvalhout nuttig kan
+            worden gebruikt als hernieuwbare grondstof. Toch kan het proces als
+            geheel nog niet groen worden genoemd op basis van de uitgangspunten
+            van de groene chemie.
+
+2p    8     Geef twee argumenten voor de stelling dat deze productie van
+            caprolactam nog niet groen kan worden genoemd.
+             Baseer je argumenten op de uitgangspunten 7, 8 en/of 12.
+             Gebruik Binas-tabel 97F of ScienceData-tabel 38.6.
+
+
+
+
+VW-1028-a-19-1-o                           4 / 12                            lees verder ►►►
+      Teixobactine
+
+            In 2015 is een nieuw soort antibioticum ontdekt, het zogeheten
+            teixobactine. Teixobactine wordt gemaakt door een bepaald type
+            bodembacterie om zich te verdedigen tegen andere bacteriën.
+            In deze bacterie wordt teixobactine gemaakt door een zeer groot enzym:
+            een zogeheten niet-ribosomaal peptide synthetase (NRPS).
+            De aminozuurvolgorde voor teixobactine is niet gecodeerd via mRNA,
+            maar direct vastgelegd in de structuur van het betrokken NRPS-enzym.
+            Het NRPS-enzym bestaat uit elf katalytische delen (modules) die ieder
+            één aminozuur aan de peptideketen toevoegen.
+            Hoe een module van het NRPS telkens één aminozuur (AZ) aan de
+            peptideketen toevoegt, is in de figuur vereenvoudigd weergegeven. Met
+            AZn zijn aminozuren uit het midden van de groeiende peptideketen
+            weergegeven.
+
+            figuur
+
+                   module 5       module 6              module 5     module 6
+
+                          S             S                     S              S
+                                                         H+
+                          AZ5          AZ6                                   AZ6
+                            AZ4                                                AZ5
+                                                                                 AZ4
+
+
+            Op de uitwerkbijlage is de figuur gedeeltelijk weergegeven met
+            structuurformules.
+
+2p    9     Voer de volgende opdrachten uit:
+             Geef op de uitwerkbijlage links van de reactiepijl de niet-bindende
+               elektronenparen weer.
+             Geef met pijlen weer hoe elektronenparen worden verplaatst tijdens
+               deze reactie.
+
+            Aan module 1 wordt als eerste gemethyleerd fenylalanine gekoppeld.
+            In dit fenylalanine is op de aminogroep een H-atoom vervangen door een
+            methylgroep. Aan module 2 wordt isoleucine gekoppeld, waarna de beide
+            aminozuren aan elkaar worden gekoppeld zoals in de figuur is
+            weergegeven.
+
+3p   10     Geef de structuurformule van module 2 waaraan isoleucine en
+            gemethyleerd fenylalanine zijn gekoppeld.Geef module 2 en de binding
+            met het koolstofatoom van de zuurgroep van Ile als volgt weer:
+                                  O
+               module 2       S   C
+
+
+
+
+VW-1028-a-19-1-o                             5 / 12                              lees verder ►►►
+            Het uiteindelijk gevormde polypeptide is op de uitwerkbijlage schematisch
+            weergegeven als beginstof voor de omzetting tot teixobactine.
+            In de figuur op de uitwerkbijlage staat de letter R symbool voor de niet-
+            weergegeven delen van de peptideketen. In de structuur van het
+            polypeptide is een aminozuureenheid enduracididine aanwezig. Dit
+            enduracididine is aangegeven met een pijl. Dit aminozuur wordt door de
+            bacterie gevormd uit een niet-cyclisch aminozuur. Tijdens deze reactie
+            ontstaat een ringstructuur en worden twee H-atomen afgesplitst.
+
+3p   11     Geef de structuurformule van het aminozuur enduracididine en geef de
+            naam van het aminozuur waaruit enduracididine wordt gevormd.
+            Gebruik Binas-tabel 67H1 of ScienceData tabel 13.7.
+
+            Wanneer alle aminozuren aan de peptideketen zijn toegevoegd, treedt
+            ringsluiting op, waardoor de keten van module 11 wordt afgesplitst. Deze
+            reactie is op de uitwerkbijlage weergegeven.
+            Bij de ringsluiting ontstaat een ester. Uit de figuur op de uitwerkbijlage valt
+            af te leiden welke atoomgroepen in de peptideketen betrokken zijn in deze
+            reactie.
+
+3p   12     Voer de volgende opdrachten uit:
+             Omcirkel op de uitwerkbijlage rechts van de reactiepijl de gevormde
+               estergroep.
+             Omcirkel op de uitwerkbijlage links van de reactiepijl zowel het
+               nucleofiele als het elektrofiele atoom.
+             Geef bij elk omcirkeld atoom aan of het als nucleofiel of als elektrofiel
+               optreedt in de reactie.
+
+            Om de effectiviteit van teixobactine te onderzoeken, besmetten de
+            onderzoekers een aantal muizen met de moeilijk te bestrijden
+            MRSA-bacterie. Vervolgens diende men teixobactine of het reeds
+            bekende antibioticum vancomycine toe. Men vergeleek hierbij de
+            PD-50-waarde (Protective Dose). Dit is de dosis (mg kg–1) antibioticum
+            waarbij de helft van de besmette muizen wordt beschermd tegen de
+            MRSA-bacterie. In de tabel zijn enkele gegevens van beide antibiotica
+            weergegeven.
+
+            tabel
+            antibioticum         molaire massa (g mol–1)       PD-50 (mg kg–1)
+            vancomycine                  1,45·103                   2,75
+            teixobactine                 1,24·103                   0,20
+
+2p   13     Bereken met behulp van de tabel hoeveel moleculen vancomycine nodig
+            zijn om net zo effectief te zijn als één molecuul teixobactine.
+
+
+
+
+VW-1028-a-19-1-o                              6 / 12                             lees verder ►►►
+      Melamine detecteren in voeding
+
+            Melkpoeder voor babymelk bevat eiwitten die een baby nodig heeft om te
+            groeien. Om het eiwitgehalte in melkpoeder te bepalen wordt gebruik-
+            gemaakt van de Kjeldahl-methode. De Kjeldahl-methode bestaat uit de
+            volgende stappen:
+            1 Alle stikstofatomen in het melkpoeder worden omgezet tot
+                ammoniumionen.
+            2 Aan de ontstane oplossing wordt een overmaat kaliloog toegevoegd.
+                Hierbij treedt de volgende reactie op:
+                NH4+ + OH–  NH3 + H2O
+            3 Door het mengsel te verwarmen komt de ammoniak vrij als gas. De
+                ammoniak wordt vervolgens door een boorzuuroplossing geleid.
+                Hierbij treedt de volgende reactie op:
+                H3BO3 + NH3  NH4+ + H2BO3–
+            4 Het mengsel dat is ontstaan na het doorleiden van ammoniak, wordt
+                met zoutzuur getitreerd. Hierbij treedt de volgende reactie op:
+                H2BO3– + H3O+  H3BO3 + H2O
+            Uit het titratieresultaat kan het massapercentage stikstof (N) worden
+            berekend.
+
+1p   14     Leg uit of de overmaat kaliloog in stap 2 nauwkeurig bekend moet zijn.
+
+            Henrike en Marjel bepalen het eiwitgehalte in een bepaald soort
+            melkpoeder volgens de Kjeldahl-methode.
+            Ze wegen 0,505 g melkpoeder af. Bij de titratie gebruiken ze zoutzuur met
+            een concentratie van 0,102 M. Ze lezen een beginstand van 2,25 mL en
+            een eindstand van 7,84 mL af.
+            Het massapercentage stikstof (N) in een monster kan worden
+            omgerekend naar het massapercentage eiwit door te vermenigvuldigen
+            met 6,38.
+
+3p   15     Bereken het massapercentage eiwit in het melkpoeder.
+                                               +
+            Neem aan dat de molverhouding H3O en N 1 : 1 is.
+
+            Een nadeel van de Kjeldahl-methode is, dat alle                       NH2
+            stikstofatomen worden bepaald en de methode dus                N C
+            niet selectief is voor eiwitten. Hierdoor bleef het in
+                                                                    H2N C        N
+            China lang onopgemerkt dat men de stikstofrijke stof
+                                                                           N C
+            melamine aan melkpoeder toevoegde om het
+                                                                    melamine      NH2
+            eiwitgehalte hoger te doen lijken. De structuurformule
+            van melamine is hiernaast weergegeven.
+            Een handelaar had melamine toegevoegd aan een partij melkpoeder,
+            bestemd voor de bereiding van 5,0·103 L melk. Het gehalte stikstof in het
+            poeder was hierdoor voldoende om 7,5·103 L melk te kunnen bereiden.
+
+3p   16     Bereken de massa in g melamine die deze handelaar had toegevoegd.
+            Melk bevat gemiddeld 3,3 gram eiwit per 100 mL melk.
+
+
+
+VW-1028-a-19-1-o                            7 / 12                           lees verder ►►►
+            In 2007 kwam het schandaal aan het licht omdat veel         O       H
+            baby’s ziek werden. Ook huisdierenvoer bleek                  C N
+            verontreinigd. In dit voer was behalve melamine ook    H N          C O
+            cyanuurzuur aanwezig. De structuurformule van
+                                                                          C N
+            cyanuurzuur is hiernaast weergegeven. Het bleek dat
+                                                                        O       H
+            deze stoffen in de nieren kristallen vormen die het
+                                                                    cyanuurzuur
+            nierweefsel aantasten.
+            De vorming van deze kristallen wordt veroorzaakt doordat moleculen van
+            beide stoffen waterstofbruggen vormen met elkaar, waardoor platte lagen
+            worden gevormd. Op de uitwerkbijlage is een molecuul melamine
+            weergegeven.
+
+2p   17     Geef op de uitwerkbijlage weer hoe een molecuul cyanuurzuur door
+            middel van drie waterstofbruggen aan een molecuul melamine is
+            gebonden. Geef elke waterstofbrug weer met een stippellijn.
+
+            Om melamine te detecteren in voeding is een methode ontwikkeld die
+            gebruikmaakt van gefunctionaliseerde goud-nanodeeltjes (GGN’s).
+            In figuur 1 is een GGN weergegeven. Aan het oppervlak van een goud-
+            nanodeeltje zijn enkele functionele groepen ( R) gekoppeld.
+            Elke R-groep eindigt met een cyclische ethergroep, bestaande uit
+            zes ~O–CH2–CH2~ eenheden in een ring. De ethergroep is in figuur 1
+            vereenvoudigd weergegeven.
+            De ethergroep vormt waterstofbruggen met een NH2-groep van een
+            melamine-molecuul. De binding van de ethergroep met een NH2-groep is
+            zeer specifiek en is veel sterker dan de binding aan andere groepen of
+            moleculen. Elke R-groep kan één molecuul melamine binden.
+
+            figuur 1
+
+                                      R            cyclische ethergroep
+                                                         H
+                                                             H
+                                             O O           N
+                            R
+               R                                 H     N C
+                                             O O
+                       Au       S   (CH2)6         N C     N
+             R
+                                             O O H     N C
+                   R        R
+                                                           N
+                                                             H
+                                                         H
+                                    GGN             melamine-molecuul
+
+            Als GGN’s worden toegevoegd aan een mengsel waarin melamine
+            aanwezig is, vormen zich netwerken waarin vele GGN’s en moleculen
+            melamine aan elkaar gebonden zijn met waterstofbruggen.
+
+2p   18     Leg uit op microniveau dat deze netwerken ontstaan als in een mengsel
+            melamine en GGN’s aanwezig zijn.
+
+
+
+VW-1028-a-19-1-o                                        8 / 12             lees verder ►►►
+            In de netwerken van melamine en GGN’s is de afstand tussen de
+            verschillende GGN’s klein. Door de kleine afstand ontstaat een interactie
+            tussen de aanwezige deeltjes goud. Deze interactie veroorzaakt een
+            specifieke kleur.
+            Als GGN’s aan een eiwit-oplossing worden toegevoegd, binden de GGN’s
+            aan de eiwitketens. Toch blijkt dan geen kleuring te ontstaan, waardoor
+            de meting aan melamine in eiwitrijke mengsels dus niet wordt verstoord.
+            De GGN’s binden niet aan de aanwezige peptidegroepen in eiwitten.
+
+2p   19           Leg uit dat GGN’s wel binden aan eiwitten,
+                  maar dat er geen kleuring ontstaat wanneer GGN’s aan een eiwit-
+                   oplossing worden toegevoegd.
+
+            Het blijkt dat de kleur van het mengsel van GGN’s en melamine
+            afhankelijk is van het gehalte melamine, waardoor bepaling van het
+            gehalte melamine mogelijk wordt.
+            De onderzoekers hebben een serie monsters bereid waarin uitsluitend
+            melamine aanwezig was. Hiervan hebben ze met behulp van de GGN’s de
+            kleuring bepaald. De resultaten van de metingen zijn in figuur 2
+            weergegeven. Het gehalte melamine in de monsters is hierbij uitgedrukt
+            als gehalte N in massa-ppm.
+
+            figuur 2
+
+                      1,0
+
+
+                      0,8
+            signaal
+                      0,6
+
+
+                      0,4
+
+
+                      0,2
+
+
+                      0,0
+                            0,0   0,2         0,4            0,6
+                                        gehalte N (massa-ppm)
+
+
+            De onderzoekers hebben vervolgens een monster melk onderzocht, dat
+            was bereid met verontreinigd melkpoeder. Het gemeten signaal bedroeg
+            0,68. De grenswaarde (TGG) van melamine voor baby’s bedraagt 0,50 mg
+            melamine per kg lichaamsgewicht.
+
+4p   20     Bereken met behulp van figuur 2 of de grenswaarde in dit geval wordt
+            overschreden.
+             Neem aan dat een baby van 5,0 kg gemiddeld 750 mL van deze melk
+               drinkt per dag.
+             De dichtheid van melk bedraagt 1,02·103 kg m–3.
+
+
+
+VW-1028-a-19-1-o                                    9 / 12                    lees verder ►►►
+      Ammoniak en energie uit afvalwater
+
+            Wereldwijd wordt jaarlijks ongeveer 1,0·108 ton ammoniak (NH3)
+            geproduceerd om stikstofrijke verbindingen te maken voor kunstmest.
+            In fabrieken wordt hiervoor aardgas gebruikt als energiebron en als bron
+            van waterstofatomen.
+            Het totaalproces kan worden gezien als een reactie van methaan met
+            zuurstof, water en stikstof. Als reactieproducten ontstaan koolstofdioxide
+            en ammoniak. In het proces wordt gemiddeld een mol methaan ingevoerd
+            per mol N2. Het water wordt als vloeistof in het proces ingevoerd.
+
+2p   21     Geef de reactievergelijking van deze productie van ammoniak.
+3p   22     Bereken de reactiewarmte van het totaalproces in joule per mol
+            ammoniak.
+
+            De kunstmest levert de stikstofverbindingen die noodzakelijk zijn voor een
+            goede groei van gewassen.
+
+1p   23     Noem twee soorten biologische macromoleculen waarvoor de opname
+            van stikstofverbindingen essentieel is.
+
+            In een Nederlandse onderzoeksgroep is onderzocht of het mogelijk is om
+            ammoniak uit urine te winnen met een brandstofcel. In verse urine is de
+            meeste stikstof gebonden als ureum. Wanneer urine in afvalwater
+            terechtkomt, wordt het ureum door micro-organismen gehydrolyseerd tot
+            ammoniak en koolzuur (H2CO3). In het onderzoek is urine gemengd met
+            afvalwater. Bij de gebruikte pH van het mengsel is het uit ureum
+            gevormde ammoniak volledig omgezet tot NH4+.
+            In figuur 1 is de gebruikte brandstofcel schematisch weergegeven.
+
+            figuur 1
+
+                                     NH3 (g)
+                        lucht
+                                                         O2         lucht en NH3
+                                                    _                                 dun laagje water
+                                               OH                                     op de elektrode
+                                                                     positieve
+                       membraan                                      elektrode (poreus)
+                                    NH4+                positieve
+                                                        ionen
+                       urine
+
+                       afvalwater                                    uitstroom
+               lamp                       _             _
+                         biofilm    CH3COO          HCO3             negatieve
+                                                                     elektrode
+
+
+
+
+VW-1028-a-19-1-o                                10 / 12                                         lees verder ►►►
+            De negatieve elektrode is bedekt met een dunne laag micro-organismen
+            (biofilm) die organische verbindingen afbreken. De elektronen die hierbij
+            vrijkomen gaan via een externe stroomkring naar de positieve elektrode.
+            Aan de positieve elektrode verloopt de onderstaande halfreactie:
+
+            O2 + 2 H2O + 4 e–  4 OH–
+
+            In afvalwater zijn onder andere ethanoaat-ionen aanwezig.
+
+3p   24     Geef aan de hand van figuur 1 de vergelijking voor de halfreactie van
+            ethanoaat aan de negatieve elektrode van de brandstofcel.
+
+            De positieve elektrode is poreus, zodat de in het afvalwater en de urine
+            aanwezige positieve ionen erdoorheen kunnen bewegen.
+                                                                       +     +
+            Wanneer tijdens stroomlevering uitsluitend ionen zoals Na en K het
+            membraan en de poreuze elektrode passeren, stijgt de pH in het
+            waterlaagje op de positieve elektrode.
+            Wanneer tijdens stroomlevering uitsluitend NH4+ en H+ door het
+            membraan gaan, blijft de pH in het waterlaagje op de positieve elektrode
+            gelijk.
+
+2p   25     Leg uit dat tijdens stroomlevering de pH in het waterlaagje bij de positieve
+            elektrode gelijk blijft wanneer uitsluitend NH4+ en H+ het membraan
+            passeren.
+
+            Wanneer NH4+ door het membraan gaat, wordt dit in het waterlaagje
+            omgezet tot NH3. Op de positieve elektrode is slechts een dun laagje
+            water aanwezig, zodat de gevormde ammoniak snel uit het water ontwijkt
+            en door de luchtstroom wordt meegevoerd.
+            Om de zo gevormde ammoniak om te zetten tot een stof die in kunstmest
+            kan worden verwerkt, wordt de uitgaande luchtstroom door een oplossing
+            geleid. In veel soorten kunstmest is ammoniumnitraat verwerkt.
+
+1p   26     Geef aan welke stof in water moet worden opgelost om op deze wijze een
+            oplossing met ammoniumnitraat te verkrijgen.
+
+            De onderzoekers wilden bepalen welk deel van het ladingstransport door
+            het membraan van de brandstofcel plaatsvond via NH4+.
+            Hiertoe hebben de onderzoekers op regelmatige tijdstippen de
+            hoeveelheid ammoniak bepaald die zich in de luchtstroom bevond.
+
+2p   27     Beschrijf globaal hoe de onderzoekers de hoeveelheid ammoniak in de
+            luchtstroom hebben bepaald.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1028-a-19-1-o                            11 / 12                            lees verder ►►►
+            In figuur 2 is het resultaat van de metingen aan het ladingstransport door
+            NH4+ weergegeven.
+
+            figuur 2
+
+                        2,0
+            ladings-
+            transport
+                        1,5
+            NH4+
+            (103 C)     1,0
+
+                        0,5
+
+                         0
+                              0   1,0   2,0    3,0    4,0     5,0
+                                    totaal ladingstransport (103 C)
+
+
+2p   28     Bereken met behulp van figuur 2 de massa in g ammoniak die door het
+            membraan is gepasseerd, wanneer het totale ladingstransport
+            3,0·103 C is. Een mol NH4+ heeft een lading van 9,65·104 C.
+
+
+
+
+VW-1028-a-19-1-o                                         12 / 12              lees verdereinde
+                                                                                           ►►► 
+

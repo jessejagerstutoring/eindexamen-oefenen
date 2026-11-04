@@ -1,0 +1,661 @@
+                                                                     Examen HAVO
+
+                                                                           2019
+                                                                                  tijdvak 2
+                                                                           dinsdag 18 juni
+                                                                         13.30 - 16.30 uur
+
+
+                                                                         natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 27 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-19-2-o
+HA-1023-a-19-2-o   2 / 16   lees verder ►►►
+      Koper−67
+
+            Koper-67 (Cu-67) is een geschikte isotoop voor radiotherapie. De
+            halveringstijd van 62 uur is lang genoeg om de stof te laten ophopen in
+            tumorweefsel en dit van binnenuit te bestralen. Het Cu-67 zendt β-straling
+            en γ-straling uit.
+
+3p    1     Geef de vergelijking van de vervalreactie van Cu-67.
+
+            Cu-67 kan zowel voor beeldvorming van tumorweefsel als voor
+            behandeling ervan worden gebruikt.
+2p    2     Leg dit uit.
+
+            Cu-67 moet worden geproduceerd.               figuur 1
+            Bij een bepaalde methode worden kernen
+            van zink-70 (Zn-70) beschoten met                71             I      x
+            protonen. Als een proton doordringt in een
+            kern Zn-70 ontstaat een nieuwe kern x. In        70            Zn
+            figuur 1 wordt deze reactie weergegeven
+            met pijl I. Deze nieuwe kern x valt direct       69
+                                                       A
+            daarna uiteen in twee deeltjes. Eén van                        II
+                                                             68
+            die deeltjes is Cu-67. Deze reactie wordt
+            weergegeven met pijl II.
+                                                             67      Cu
+2p    3     Leg met behulp van figuur 1 uit welk
+            ander deeltje vrijkomt bij deze tweede           66
+            reactie.
+                                                                28 29      30      31    32
+            De kans dat deze reactie lukt is
+            afhankelijk van de kinetische energie van                      Z
+            de afgeschoten protonen. Dit is weergegeven in figuur 2.
+
+            figuur 2
+
+            kans
+
+
+
+
+                   0   5   10   15   20   25 30 35 40
+                                           protonenergie (MeV)
+
+
+3p    4     Bepaal met behulp van de figuur de snelheid die de protonen moeten
+            hebben om de kans op succes zo groot mogelijk te maken.
+
+
+HA-1023-a-19-2-o                            3 / 16                              lees verder ►►►
+            Een tweede methode om Cu-67 te maken is door zink-68 (Zn-68) te
+            beschieten met zeer snelle protonen uit een protonenversneller. Bij deze
+            botsing wordt door het snelle proton een ander proton uit de Zn-68 kern
+            gestoten. Uit de oorspronkelijke Zn-68 kern is dan een proton verdwenen.
+            Deze reactie heeft maar een heel kleine kans van slagen. Er moeten veel
+            protonen worden afgeschoten op het zink om af en toe een koperkern te
+            laten ontstaan.
+
+            Voor een bepaalde medische behandeling zijn 3,2·1015 kernen Cu-67
+            nodig. De protonenversneller levert een protonen-stroomsterkte van
+            43 μA. Als het verval van Cu-67 wordt verwaarloosd zou het 70 uur duren
+            om genoeg kernen te produceren voor de behandeling.
+
+3p    5     Bereken hoeveel protonen er gemiddeld afgeschoten moeten worden om
+            één Cu-67 deeltje te produceren.
+
+            In figuur 3 staat het aantal koperkernen uitgezet tegen de tijd. Lijn I geeft
+            de productie van koperkernen weer, zonder rekening te houden met het
+            verval van de koperkernen. Lijn II geeft het werkelijk aantal aanwezige
+            koperkernen als functie van de tijd.
+
+            figuur 3
+                                                                               I
+                        7•1015
+              aantal
+            kernen Cu
+                        6•1015
+
+                        5•1015
+
+                        4•1015
+                                                                                                    II
+
+                        3•1015
+
+                        2•1015
+
+                        1•1015
+
+                            0
+                                 0   20   40   60   80       100   120   140       160   180      200
+                                                                                               t (uur)
+
+
+            Figuur 3 staat ook op de uitwerkbijlage.
+3p    6     Voer de volgende opdrachten uit:
+             Geef op de uitwerkbijlage aan hoe lang de productie van 3,2·1015
+               koperkernen voor één behandeling in de praktijk duurt.
+             Bepaal met de figuur op de uitwerkbijlage hoeveel koperkernen
+               vervallen tijdens de productie.
+
+
+
+
+HA-1023-a-19-2-o                                    4 / 16                                               lees verder ►►►
+      Buisisolatie
+
+            Richard wil de verwarmingsbuizen          figuur 1
+            in zijn huis gaan isoleren. Hij maakt
+            een testopstelling om te meten hoe
+            groot het effect van buisisolatie kan
+            zijn. Hij vult een stuk koperen
+            verwarmingsbuis met water. In het
+            water hangt hij twee weerstanden
+            om het water te verwarmen. Deze
+            zijn aangesloten op een regelbare
+            spanningsbron. Hij sluit de buis af
+            met een kurk met een thermometer.
+            Zie figuur 1.
+
+            Richard gebruikt twee parallel
+            geschakelde weerstanden. Iedere
+            weerstand heeft een opschrift:
+            “27 Ω, max. 20 W”.
+            Voor het door een weerstand opgenomen vermogen geldt:
+
+                      U2
+                   P
+                      R
+
+4p    7     Voer de volgende opdrachten uit:
+             Leid deze formule af met behulp van formules uit het tabellenboek.
+             Bereken de spanning die nodig is om de weerstanden te laten werken
+               op het maximale vermogen volgens de opschriften.
+
+            De buis bevat 26 g water van 18 °C. Het water in de        figuur 2
+            verwarmingsbuizen in huis is 75 °C.                        thermometer
+            Veronderstel dat er geen energieverlies is.
+
+4p    8     Bereken de tijd die minimaal nodig is om het water in de
+            proefopstelling te verwarmen tot 75 °C wanneer de twee
+            weerstanden werken op het maximale vermogen volgens de
+            opschriften.
+
+            De thermometer zit bovenin de buis. Alleen boven de
+            weerstanden is er sprake van warmtetransport door
+            stroming. Richard heeft de weerstanden niet helemaal
+            onderin de buis geplaatst. Zie figuur 2.
+1p    9     Geef een natuurkundige reden waarom de thermometer al        R1    R2
+            eerder een temperatuur van 75°C aangeeft.
+
+
+
+
+HA-1023-a-19-2-o                             5 / 16                      lees verder ►►►
+            In werkelijkheid is er wel energieverlies.
+            Richard stelt de spanning zo in dat de eindtemperatuur van 75 °C precies
+            wordt behaald en zet zijn metingen vervolgens uit in een diagram. Zie
+            figuur 3.
+
+            figuur 3
+                   80
+              T
+            (°C)                                                         t3
+                   70
+
+                   60
+                                            t2
+                   50
+
+                   40
+
+                   30
+
+                   20
+                            t1
+
+                   10
+
+                   0
+                        0             150        300       450   600   750       900
+                                                                                 t (s)
+
+
+            In de grafiek zijn drie tijdstippen t1, t2 en t3 aangegeven. Aan de buis
+            wordt een constant elektrisch vermogen Pelektrisch toegevoerd. Op de
+            uitwerkbijlage staat een tabel. Het energieverlies per seconde aan de
+            omgeving wordt Pverlies genoemd.
+2p    10    Geef in de tabel op de uitwerkbijlage voor ieder tijdstip t1, t2 en t3 met een
+            kruisje aan of Pelektrisch groter is dan, even groot is als of kleiner is dan
+            Pverlies.
+
+            Richard constateert dat de verwarmingsbuizen in zijn huis niet van koper
+            maar van ijzer zijn. Hij vraagt zich af of dit verschil maakt voor het
+            warmteverlies bij gelijk temperatuurverschil.
+
+            Voor de warmtestroom door de wand van een buis geldt:
+
+                                 T
+                   P  A
+                                  d
+
+2p    11    Leg met behulp van de formule uit of de warmtestroom bij een koperen
+            buis groter is dan, kleiner is dan of gelijk is aan de warmtestroom bij een
+            identiek gevormde ijzeren buis.
+
+
+
+
+HA-1023-a-19-2-o                                       6 / 16                    lees verder ►►►
+            Richard isoleert de dunne wand van de buis met een isolatielaag. Zie
+            figuur 4. In figuur 5 staat een overzicht van de technische gegevens van
+            de isolatielaag.
+
+            figuur 4                          figuur 5
+
+                                                         Technische gegevens
+                                              Materiaal                 PE schuim
+                                              Isolatiedikte             13 mm
+                                              Warmtegeleidings-         0,038 W m−1K−1
+                                              coëfficiënt
+
+
+
+
+            Zonder isolatie is het energieverlies per seconde (Pverlies) gelijk aan 27 W.
+            De isolatie zorgt voor een kleiner energieverlies per seconde.
+            Het temperatuurverschil over de isolatie is 57 ºC. Het temperatuurverschil
+            over de buis is verwaarloosbaar. Richard bepaalt dat de oppervlakte van
+            de isolatie 4,9·10−2 m2 is.
+3p    12    Bereken de factor waarmee Pverlies verkleind wordt door het gebruik van
+            de buisisolatie.
+
+
+
+
+HA-1023-a-19-2-o                             7 / 16                             lees verder ►►►
+      Hyperloop
+
+            Een hyperloop is een               figuur 1
+            toekomstontwerp voor snel
+            transport over lange
+            afstanden. Hierbij reizen
+            passagiers in een
+            zogenaamde ‘pod’ met hoge
+            snelheid door een buis. Zie
+            figuur 1.
+
+            Om de ontwikkeling van de
+            hyperloop te stimuleren is er een ontwerpwedstrijd uitgeschreven voor
+            bedrijven en universiteiten.
+            Voor deze wedstrijd zijn veel deelontwerpen bedacht en getest om diverse
+            deelproblemen van de hyperloop op te lossen.
+            Een deel van de testen is eerst gemodelleerd. Zo is van een pod die
+            getest moet worden met een vereenvoudigd model een (v,t)-diagram
+            gemaakt. Zie figuur 2.
+
+            figuur 2
+                   140
+              v
+            (m s-1)
+                   120
+
+                   100
+
+                    80
+
+                    60
+
+                    40
+
+                             I           II                      III
+                    20
+
+                    0
+                         0   2   4   6   8    10       12   14         16   18     20
+                                                                                 t (s)
+
+
+            In deel I wordt de pod met een motor versneld, in deel II is de motor
+            uitgeschakeld en in deel III wordt de pod door de motor afgeremd.
+2p    13    Leg met behulp van figuur 2 uit of in het model rekening is gehouden met
+            wrijving.
+
+            Om pod-ontwerpen te testen is een testtraject gebouwd. Dat testtraject is
+            1,7 km lang.
+3p    14    Toon met behulp van figuur 2 aan of het traject lang genoeg is voor de
+            test met de pod uit het model.
+
+
+HA-1023-a-19-2-o                              8 / 16                                     lees verder ►►►
+            Voor de luchtweerstandskracht geldt:
+
+                   Fw  k    v 2
+
+            Hierin is:
+             k een constante;
+             ρ de dichtheid van de lucht;
+             v de snelheid van de pod.
+
+            En voor het gebruikte motorvermogen:
+
+                   Pmotor  Fw  v
+
+            De pod moet aangedreven gaan worden door een motor met hetzelfde
+            motorvermogen als een gewone treinmotor. Een trein haalt daarmee een
+            snelheid van 1, 2 102 km h 1 . De pod moet een snelheid halen van
+            1, 2 103 km h 1. Dit kan door de dichtheid van de lucht in de buis aan te
+            passen. Constante k wordt gelijk beschouwd voor trein en pod.
+2p    15    Op de uitwerkbijlage staan twee tabellen. Omcirkel in iedere tabel het
+            juiste antwoord.
+
+            Sommige ontwerpers gaan uit van een pod           figuur 3
+            op wielen. Bij hoge snelheid breken wielen
+            als de middelpuntzoekende kracht in het wiel
+            te groot wordt. De ontwerpers gebruiken een
+            model van een wiel om in een simulatie te                                A = 15 cm2
+                                                                        spaak
+            testen of hun wielontwerp sterk genoeg is. In
+            het model wordt het wiel voorgesteld als een
+            ring van 10 kg met 4 spaken. Iedere spaak is
+            van aluminium en heeft een doorsnede met
+                                       2
+            een oppervlakte van 15 cm . Zie figuur 3.
+
+
+            In de simulatie is aan iedere spaak een kwart     figuur 4
+            van de totale massa van de ring bevestigd.                          2,5 kg
+            Zie schematisch in figuur 4. Deze massa’s
+            krijgen een baansnelheid van 1, 2 103 km h 1
+                                                                         22,5 cm
+
+            en beschrijven een cirkelbaan met een straal
+                                                               2,5 kg                             2,5 kg
+            van 22,5 cm. De zwaartekracht wordt
+            verwaarloosd.
+4p    16    Voer de volgende opdrachten uit:
+             Toon aan dat bij 1, 2 103 km h 1 de
+                   middelpuntzoekende kracht op één                             2,5 kg
+                   massa gelijk is aan 1, 2 106 N.
+                  Toon aan of de spaak sterk genoeg is.
+
+
+
+HA-1023-a-19-2-o                              9 / 16                                     lees verder ►►►
+            Andere ontwerpers hebben niet voor wielen gekozen, maar voor
+            magneten die de pod boven de rails laten zweven en kleine schokken
+            opvangen. Dit systeem met magneten werkt als een soort veer met
+            veerconstante C.
+            Een beladen pod ( m  1,30 103 kg ) zweeft 4,0 cm boven de rail. Een lege
+            pod ( m  8,0 102 kg ) zweeft 7,0 cm boven de rail.
+3p    17    Bereken de veerconstante van dit systeem.
+
+            Uiteindelijk kan de hyperloop worden ingezet om grote steden met elkaar
+            te verbinden. In figuur 5 is op een kaart een voorgesteld traject van San
+            Francisco naar Los Angeles weergegeven.
+
+            figuur 5
+
+
+                    San Francisco
+
+
+
+
+                                           Los Angeles
+
+
+
+
+                                                  0      100   200 km
+
+
+            De hyperloop moet met een gemiddelde snelheid van 1,2∙103 km h1 gaan
+            reizen. Nu duurt een treinreis tussen deze steden nog 6,0 uur. Figuur 5
+            staat ook op de uitwerkbijlage.
+3p    18    Bepaal met behulp van de figuur op de uitwerkbijlage de verwachte
+            tijdwinst.
+
+
+
+
+HA-1023-a-19-2-o                             10 / 16                          lees verder ►►►
+      PWM
+
+            Mountainbikers gebruiken         figuur 1
+            speciale lampen voor
+            nachtritten. Zie figuur 1.
+            Zo’n lamp werkt op een accu die
+            een constante spanning levert
+            van 8,4 V. In de fietslamp zit
+            een led. De fietslamp heeft twee
+            standen voor de lichtsterkte.
+
+            Daan onderzoekt hoe de lamp
+            op verschillende sterktes kan
+            branden, terwijl de spanning van
+            de accu constant is.
+
+            Daan gebruikt eerst een schakeling zoals weergegeven in figuur 2.
+
+            figuur 2
+                               + -
+
+                               R1
+                           1           R3
+                       S
+                           2   R2
+
+
+                               U
+
+
+            Met schakelaar S kan Daan kiezen of weerstand R1 of weerstand R2 in
+            serie wordt geschakeld met weerstand R3. Door dit omschakelen
+            verandert de spanning U.
+            De led wordt aangesloten op de spanning U.
+            In stand 1 brandt de led feller dan in stand 2.
+3p    19    Leg uit of weerstand R1 groter of kleiner is dan weerstand R2.
+
+            Een nadeel van deze schakeling is dat er veel energie verloren gaat in de
+            weerstanden. Daan wil weten hoeveel energie er verloren gaat in de
+            weerstanden. Het elektrisch vermogen van de aangesloten led in één van
+            de standen is 0,52 W. De spanningsbron van 8,4 V levert dan een
+            stroomsterkte van 375 mA.
+3p    20    Bereken het elektrische rendement van deze schakeling in deze stand.
+
+
+
+
+HA-1023-a-19-2-o                            11 / 16                         lees verder ►►►
+            Op internet leest Daan over PWM (Pulse Width Modulation), een andere
+            methode om leds te kunnen dimmen. Hierbij wordt de led met een hoge
+            frequentie aan- en uitgeschakeld. In de gedimde stand brandt de led dan
+            afwisselend op volle sterkte en helemaal niet. Het oog ervaart dat als een
+            zwakker brandende led.
+            Daan onderzoekt nu of zijn fietslamp gebruikmaakt van PWM. Hij maakt
+            een proefopstelling met een lat aan een motor. Hij laat de lat in het donker
+            ronddraaien. Vervolgens belicht hij de draaiende lat met de fietslamp en
+            maakt daarvan een foto. Zie de schematische opstelling in figuur 3.
+
+            figuur 3
+                                t=0
+
+                                      draaiende lat
+
+
+
+
+                         t = 20 ms
+
+
+                                                  motor
+
+
+
+
+             fietslamp
+                                                fototoestel
+
+            Daan maakt twee foto’s, één in iedere stand van de fietslamp. Figuur 4 is
+            de foto waarop de led fel brandt (stand 1), figuur 5 is de foto waarop de
+            led gedimd brandt (stand 2).
+
+            figuur 4                                      figuur 5
+
+
+
+
+            Voor beide foto’s is de beeldchip 20 ms belicht. De lat staat ‘uitgesmeerd’
+            op de foto’s doordat de lat verder draait in de tijd dat de foto gemaakt
+            wordt.
+
+
+
+HA-1023-a-19-2-o                                12 / 16                       lees verder ►►►
+            Uit figuur 5 blijkt dat de led knippert in de gedimde stand 2. Figuur 5 staat
+            vergroot op de uitwerkbijlage.
+3p    21    Bepaal met behulp van de figuur op de uitwerkbijlage de frequentie
+            waarmee de led knippert.
+
+            In figuur 6 staat een (P,t)-diagram van de accu van de fietslamp voor
+            zowel een PWM-schakeling als een schakeling zoals in figuur 2. De led
+            lijkt in beide gevallen even fel te branden.
+
+            figuur 6
+                   5
+             P
+            (W)                                     PWM
+                   4
+
+                                                                                   serie
+                   3
+
+                   2
+
+                   1
+
+                   0
+                       0     5            10              15         20
+                                                                          t (ms)
+
+
+            Daan denkt dat voor de PWM-schakeling minder energie nodig is dan
+            voor de andere schakeling met twee weerstanden in serie. Figuur 6 staat
+            ook op de uitwerkbijlage.
+2p    22    Leg met behulp van de figuur op de uitwerkbijlage uit of dit waar is.
+
+
+
+
+HA-1023-a-19-2-o                               13 / 16                                     lees verder ►►►
+      Proxima b
+
+            Een exoplaneet is een planeet die draait om een andere ster dan de zon.
+            Een nieuw ontdekte exoplaneet draait om de ster Proxima Centauri. De
+            nieuw ontdekte exoplaneet is Proxima b genoemd.
+            Proxima b is door onderzoekers ontdekt aan de hand van de beweging
+            van de ster Proxima Centauri. Vanaf de aarde gezien lijkt deze ster heen
+            en weer te bewegen. Figuur 1 geeft deze ‘schommeling’ in de tijd weer.
+
+            figuur 1
+            u
+
+
+
+
+                0
+
+
+
+
+                    0   20   25   30   35        40   45   50     55     60     65
+                                                           dagen na 1 januari 2016
+
+2p    23    Bepaal de periode van deze schommeling.
+
+            Proxima Centauri en de planeet draaien allebei om hun gezamenlijke
+            zwaartepunt Z waardoor de schommelbeweging ontstaat. In figuur 2 staan
+            vier schematische afbeeldingen waarin mogelijke banen en posities van
+            de ster s en de planeet p ten opzichte van elkaar zijn weergegeven.
+figuur 2
+
+
+
+
+      s                 p                       s p             p             s            p s
+                                                                    Z                Z
+            Z                          Z
+
+
+
+                    I                      II                           III              IV
+
+1p    24    In welke afbeelding zijn de banen en posities goed ten opzichte van
+            elkaar en ten opzichte van zwaartepunt Z weergegeven?
+            A afbeelding I
+            B afbeelding II
+            C afbeelding III
+            D afbeelding IV
+
+
+
+HA-1023-a-19-2-o                                      14 / 16                            lees verder ►►►
+            Over Proxima Centauri en Proxima b zijn een aantal gegevens bekend.
+            Zie de tabel in figuur 3.
+
+            figuur 3
+                                            ster Proxima Centauri               planeet Proxima b
+              massa                         MCentauri = 0,123·Mzon              Mb = 1,3·Maarde
+              straal van het
+                                            rCentauri = 0,141·rzon              rb = 1,2·raarde
+              hemellichaam
+              temperatuur aan het
+                                            3042 K ± 117 K
+              oppervlak
+              afstand tot de aarde          4,22 lichtjaar
+              afstand tot de ster                                               7,0·106 km
+
+            De kans op leven op een exoplaneet is groter als de valversnelling aan
+            het oppervlak vergelijkbaar is met de valversnelling op aarde (gaarde).
+4p    25    Bereken de valversnelling op Proxima b uitgedrukt in gaarde.
+
+            De kleur van een ster hangt af van zijn temperatuur. Een ster zendt
+            straling met veel golflengtes uit. In figuren 4 en 5 zijn twee diagrammen
+            weergegeven; één voor de zon en één voor Proxima Centauri. In ieder
+            diagram is de intensiteit van de uitgezonden straling uitgezet tegen de
+            golflengte van die straling. De verticale schaalverdeling is niet gelijk in
+            beide figuren.
+
+            figuur 4                                        figuur 5
+                                 blauw                                  blauw
+                                 rood                                   rood
+            intensiteit                                   intensiteit
+                          λmax                                                     λmax
+
+
+
+
+                                 500 1000     2000          3000        500 1000            2000          3000
+                                                 golflengte (nm)                               golflengte (nm)
+
+
+4p    26    Voer de volgende opdrachten uit:
+            − Leg uit welke figuur bij Proxima Centauri hoort. Vergelijk hiertoe de
+               temperaturen aan het oppervlak van de zon en Proxima Centauri.
+            − Leg uit of Proxima Centauri roder of blauwer is dan de zon.
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+HA-1023-a-19-2-o                                  15 / 16                                    lees verder ►►►
+            Proxima Centauri is na de zon de ster die het dichtst bij de aarde staat. Er
+            bestaat een plan om een onbemand ruimteschip met grote snelheid naar
+            deze ster te sturen: project Breakthrough Starshot.
+            In het plan legt het ruimteschip de reis af met een gemiddelde snelheid
+            van 15% van de lichtsnelheid.
+3p    27    Bereken de tijd in jaren dat de reis naar Proxima Centauri dan zou duren.
+
+
+
+
+HA-1023-a-19-2-o                            16 / 16                            lees verdereinde
+                                                                                            ►►► 
+

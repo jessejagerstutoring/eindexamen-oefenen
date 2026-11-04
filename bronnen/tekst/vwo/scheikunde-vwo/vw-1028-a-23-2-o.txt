@@ -1,0 +1,500 @@
+                                                                    Examen VWO
+
+                                                                        2023
+                                                                               tijdvak 2
+                                                                         tijsduur: 3 uur
+
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Maak zo nodig gebruik van Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 64 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-23-2-o
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1028-a-23-2-o                        2 / 14   lees verder ►►►
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+      Indigo
+
+            Jaarlijks worden drie miljoen spijkerbroeken           figuur 1
+            geproduceerd, die zijn gekleurd met het blauwe
+            pigment indigo (zie figuur 1).
+            Indigo wordt door extractie gewonnen uit de
+            indigoplant. Indigo is slecht oplosbaar in water,
+            met een maximale oplosbaarheid van 1,0 mg L–1.
+
+
+2p    1     Bereken de oplosbaarheid van indigo in water in mol L−1.
+
+            Een molecuul indigo is vlak. Dit kan alleen worden verklaard als alle
+            mogelijke grensstructuren worden meegenomen in de redenering.
+            Op basis van figuur 1 zou de conclusie moeten zijn dat een indigo-
+            molecuul niet vlak is.
+
+2p    2     Leg uit dat de structuur uit figuur 1 niet vlak is. Gebruik hierbij de VSEPR-
+            theorie.
+
+            Van indigo zijn veel grensstructuren mogelijk. De O-atomen hebben
+            hierbij telkens een negatieve formele lading. De positieve formele
+            ladingen kunnen daarbij op elk atoom in de beide vijfringen terechtkomen.
+            Op de uitwerkbijlage is de lewisstructuur van zo’n grensstructuur
+            onvolledig weergegeven. In deze lewisstructuur zijn de formele ladingen
+            geplaatst, maar ontbreekt een aantal elektronenparen.
+
+3p    3     Maak op de uitwerkbijlage de lewisstructuur compleet met de ontbrekende
+            bindende en niet-bindende elektronenparen.
+
+            De slechte oplosbaarheid van indigo kan worden verklaard vanuit de
+            structuur van het molecuul. Er spelen hierbij twee factoren een rol:
+            1 Er bestaan onderlinge interacties tussen atomen/atoomgroepen
+                binnen een molecuul indigo, waardoor deze atomen/atoomgroepen
+                minder goed interacties met watermoleculen kunnen aangaan.
+            2 Delen van het molecuul kunnen alleen zwakke interacties aangaan
+                met watermoleculen.
+
+2p    4     Geef aan welke atomen/atoomgroepen onderlinge interacties aangaan,
+            zoals bedoeld bij factor 1.
+            Noteer je antwoord als volgt:
+             atomen/atoomgroepen: …
+             interactie: …
+
+
+
+VW-1028-a-23-2-o                             3 / 14                             lees verder ►►►
+            Indigo wordt na extractie uit de indigoplant eerst met een reductor
+            omgezet tot het oplosbare indigowit (zie figuur 2). Opgelost indigowit
+            wordt tijdens het verven van katoen opgezogen door de katoenvezels.
+
+            figuur 2
+
+
+
+
+2p    5     Leid de halfreactie van de omzetting van indigo tot indigowit af.
+            Gebruik hierbij molecuulformules.
+
+            Tijdens het drogen komen de vezels in contact met zuurstof uit de lucht
+            en wordt indigowit weer omgezet tot indigo. Op deze manier wordt indigo
+            bij het drogen wasbestendig ‘opgesloten’ in de vezels.
+
+            Omdat plantaardig indigo duur is en te weinig beschikbaar, bestaan vele
+            industriële manieren om indigo te produceren uit niet-hernieuwbare
+            grondstoffen. Deze productiemethodes zijn vaak sterk vervuilend.
+            Het wetenschappelijk team van John Dueber heeft onderzocht hoe textiel
+            kan worden gekleurd met indigo door gebruik te maken van genetisch
+            gemodificeerde E. coli-bacteriën. Het doel was hierbij om in de bacteriën
+            de vorming van indigo net zo te laten verlopen als in de plant.
+
+            Als eerste werd het actieve centrum van één van de betrokken enzymen
+            (het enzym UGT) in de plant onderzocht.
+            De onderzoekers vermoedden dat een histidine-eenheid in het
+            enzym UGT een rol speelt bij de koppeling van glucose aan indoxyl.
+            Om dit te onderzoeken vervingen de onderzoekers, door genetische
+            modificatie van het DNA, deze histidine-eenheid door een alanine-
+            eenheid. Deze vervanging maakte het enzym UGT inderdaad inactief.
+
+2p    6     Geef aan welke twee nucleïnebasen in de coderende streng van het DNA
+            zijn vervangen voor deze aanpassing in het enzym UGT.
+            Noteer je antwoord als volgt:
+            1. Nucleïnebase ... is vervangen door ...
+            2. Nucleïnebase ... is vervangen door ...
+
+
+
+
+VW-1028-a-23-2-o                             4 / 14                             lees verder ►►►
+            In figuur 3 is de vorming van indigo in de plant schematisch weergegeven.
+            Drie betrokken enzymen zijn met de afkortingen FMO, UGT en BGL
+            aangegeven.
+
+            figuur 3
+
+
+
+
+            In het blad van de indigoplant wordt indool door het enzym FMO omgezet
+            tot indoxyl. In aanwezigheid van het enzym UGT wordt indoxyl vervolgens
+            geheel omgezet tot indicaan. Het gevormde indicaan wordt opgeslagen.
+            Bij beschadiging van de bladeren komt het enzym BGL vrij dat indicaan
+            omzet tot indoxyl, waaruit vervolgens indigo ontstaat.
+            Het enzym UGT bevindt zich op een andere plaats in de cel, waardoor
+            UGT het gevormde indoxyl in deze situatie niet kan omzetten.
+
+            De onderzoekers kweekten enkele stammen van E. coli. In deze stammen
+            waren wel of niet genen van de indigoplant overgebracht.
+            In de tabel op de uitwerkbijlage is te zien welke experimenten zijn
+            uitgevoerd. Bij elk experiment bevatte de voeding glucose en tryptofaan.
+            Tryptofaan wordt door E. coli van nature omgezet tot indool.
+            De bacteriën hebben geen genen voor de aanmaak van het enzym BGL.
+            Om toch blauwkleuring mogelijk te maken, werd aan sommige
+            bacteriekweken het enzym BGL toegevoegd.
+            Niet in alle experimenten werd blauwkleuring door de vorming van indigo
+            waargenomen.
+
+2p    7     Geef in de tabel op de uitwerkbijlage voor elk experiment aan of
+            blauwkleuring door de vorming van indigo optreedt.
+            Gebruik onder andere informatie uit figuur 3.
+
+
+
+
+VW-1028-a-23-2-o                            5 / 14                             lees verder ►►►
+      Gifblaar
+
+            In Zuid-Afrika groeit de gifblaar, een plant die giftig is  figuur 1
+            voor veel dieren. In 1944 slaagde de Zuid-Afrikaanse
+            onderzoeker Marais erin de gifstof uit deze plant te
+            isoleren: fluorethaanzuur (zie figuur 1).
+            Om de molecuulformule van de gifstof te bepalen,
+            gebruikte Marais onder andere een element-analyse.
+            Bij een van de proeven werd hiervoor het fluorethaanzuur met behulp van
+            een calciumhydroxide-oplossing omgezet tot de geconjugeerde base
+            fluorethanoaat. Bij indampen ontstond hieruit calciumfluorethanoaat.
+
+1p    8     Geef de verhoudingsformule van het gevormde calciumfluorethanoaat.
+
+            Marais bepaalde ook de LD50-waarde van fluorethaanzuur bij konijnen
+            door ze gedroogde bladeren van de gifblaar te voeren.
+            De LD50-waarde is de dosis waarbij 50% van de dieren die eraan zijn
+            blootgesteld, sterft. Deze dosis bedroeg 0,40 mg fluorethaanzuur per kg
+            lichaamsgewicht. Het blad van de gifblaar bevat gemiddeld
+            90 µg F per g gedroogd blad. Dit fluor is uitsluitend aanwezig in
+            fluorethaanzuur.
+
+4p    9     Bereken bij hoeveel gram vers blad van de gifblaar de LD50-waarde voor
+            een konijn wordt overschreden.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+            Gebruik hierbij de volgende gegevens:
+             Een konijn weegt gemiddeld 2,0 kg.
+             Een vers blad van de gifblaar bevat 85 massaprocent water.
+               Bij het drogen is uitsluitend water uit het blad verdampt.
+
+            De Engelse onderzoeker R.A. Peters heeft rond 1950 baanbrekend
+            onderzoek gedaan naar de biochemische werking van fluorethaanzuur. Hij
+            ontdekte dat de citroenzuurcyclus niet meer functioneert in cellen
+            waaraan fluorethaanzuur is toegevoegd. In figuur 2 is een gedeelte van
+            de gewone citroenzuurcyclus schematisch weergegeven.
+
+            figuur 2
+
+
+
+
+VW-1028-a-23-2-o                           6 / 14                           lees verder ►►►
+            Acetyl–S–CoA is ontstaan door een condensatiereactie van co-enzym A
+            (HS–CoA) met ethaanzuur. Een SH-groep van co-enzym A wordt hierbij
+            omgezet tot een zogeheten thio-estergroep. Een thio-estergroep is
+            vergelijkbaar met een gewone estergroep, waarin het enkelgebonden
+            O-atoom is vervangen door een S-atoom.
+            Peters ontdekte dat fluorethaanzuur de plaats inneemt van ethaanzuur in
+            de citroenzuurcyclus, waardoor fluoracetyl–S–CoA wordt gevormd.
+            In de volgende stap van de citroenzuurcyclus wordt fluoracetyl–S–CoA
+            door het enzym citraat-synthase met oxaalazijnzuur omgezet tot
+            fluorcitroenzuur (C6H7FO7).
+
+2p   10     Voer de volgende opdrachten uit:
+             Geef de structuurformule van fluoracetyl–S–CoA. Gebruik hierbij de
+               aanduiding –S–CoA.
+             Geef de structuurformule van fluorcitroenzuur.
+            Gebruik hierbij Binas-tabel 68C of ScienceData-tabel 13.9.e.
+
+            Na de vorming van fluorcitroenzuur treden in het actieve centrum van het
+            enzym aconitase de volgende processen na elkaar op:
+            stap 1: Een molecuul fluorcitroenzuur wordt omgezet tot een molecuul
+                    water en een molecuul fluor-cis-aconietzuur.
+            stap 2: Vervolgens roteert het molecuul fluor-cis-aconietzuur 180° in het
+                    actieve centrum.
+            stap 3: Daarna wordt het molecuul fluor-cis-aconietzuur met een
+                    molecuul water omgezet tot een molecuul trans-
+                    hydroxyaconietzuur.
+
+            Het trans-hydroxyaconietzuur kan niet meer loskomen uit het actieve
+            centrum, waardoor de stofwisseling van een dier dat de plant eet, wordt
+            ontregeld.
+            In een molecuul trans-hydroxyaconietzuur staan de COOH-groepen in
+            een trans-configuratie ten opzichte van elkaar.
+            Op de uitwerkbijlage is de omzetting van fluor-cis-aconietzuur volgens
+            stap 3 onvolledig weergegeven.
+
+2p   11     Voer de volgende opdrachten uit:
+             Geef in het omkaderde deel met pijlen weer hoe elektronenparen
+               worden verplaatst.
+             Teken de ontbrekende atomen/atoomgroepen in trans-
+               hydroxyaconietzuur.
+
+
+
+
+VW-1028-a-23-2-o                           7 / 14                            lees verder ►►►
+            In het actieve centrum van aconitase is een kubusvormig cluster met de
+            formule Fe4S42+ gebonden aan de peptideketen.
+            In figuur 3 is dit cluster schematisch weergegeven, waarbij ladingen zijn
+            weggelaten.
+
+            figuur 3
+
+
+
+
+            Het cluster Fe4S42+ is opgebouwd uit ijzerionen en sulfide-ionen.
+            De ladingen van de aanwezige ijzerionen en de sulfide-ionen wijken niet
+            af van de gebruikelijke ladingen.
+
+2p   12     Geef voor elke ionsoort die in het cluster aanwezig is de lading en het
+            aantal deeltjes.
+
+            De ijzerionen Fec en Fed zijn gebonden aan de peptideketen van aconitase
+            via cysteïne-eenheden. Hierbij is de S–H-binding vervangen door een
+            S–Fe-binding.
+            De cysteïne-eenheden die binden aan Fec en Fed maken deel uit van het
+            peptidefragment ~Cys–Gly–Pro–Cys~.
+
+4p   13     Teken dit peptidefragment. Gebruik hierbij structuurformules.
+             Het cluster hoef je niet te tekenen.
+             Geef de bindingen die het peptidefragment heeft met de ijzerionen Fec
+               en Fed weer als –S–Fe.
+
+
+
+
+VW-1028-a-23-2-o                            8 / 14                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1028-a-23-2-o                        9 / 14   lees verder ►►►
+      PFOA
+
+            Teflon™ wordt onder andere gebruikt voor anti-aanbakpannen. Het is een
+            polymeer van tetrafluoretheen.
+
+2p   14     Geef de vergelijking voor de vorming van polytetrafluoretheen uit
+            tetrafluoretheen. Gebruik hierbij structuurformules.
+
+            Bij de productie van Teflon™ wordt perfluoroctaanzuur (PFOA) gebruikt
+            als hulpstof. PFOA (C7F15COOH) behoort tot de zogenoemde poly- en
+            perfluoralkylstoffen (PFAS). Deze groep stoffen wordt toegepast in allerlei
+            industriële processen en producten. PFOA wordt geproduceerd uit
+            octaanzuurfluoride in twee reactoren. De omzettingen in deze reactoren
+            zijn vereenvoudigd weergegeven in figuur 1.
+
+            figuur 1
+
+
+
+
+            Reactor 1 is een elektrochemische cel. Aan de positieve elektrode treedt
+            halfreactie 1 op, waarbij telkens een waterstofatoom van
+            octaanzuurfluoride wordt vervangen door een fluoratoom.
+
+            ~C–H + HF  ~C–F + 2 H+ + 2 e–                           (halfreactie 1)
+
+4p   15     Bereken de ladingsoverdracht in coulomb wanneer 3,0∙102 g
+            octaanzuurfluoride wordt omgezet tot stof P.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+            Gebruik hierbij onder andere de volgende gegevens:
+             De molaire massa van octaanzuurfluoride is 146 g mol−1.
+             1,00 mol elektronen heeft een lading van 9,65∙104 C.
+
+            De omzetting van octaanzuurfluoride tot PFOA is vereenvoudigd en
+            onvolledig met een blokschema weergegeven op de uitwerkbijlage.
+             In reactor 1 (R1) reageren octaanzuurfluoride en HF. Aan de positieve
+               elektrode wordt stof P gevormd en aan de negatieve elektrode wordt
+               waterstof gevormd uit H+-ionen.
+             Waterstof verlaat R1 samen met een lage concentratie HF.
+               De waterstof wordt in scheidingsruimte 1 (S1) gescheiden van HF met
+               behulp van water.
+             Als alle octaanzuurfluoride heeft gereageerd, wordt stof P
+               doorgevoerd naar reactor 2 (R2). Hier reageren stof P en water
+               volledig tot PFOA en HF, die als afzonderlijke stofstromen de reactor
+               verlaten.
+            De instroom in R1 is op de uitwerkbijlage al volledig gegeven.
+
+
+VW-1028-a-23-2-o                            10 / 14                             lees verder ►►►
+2p   16     Leg uit welke scheidingsmethode wordt gebruikt in S1.
+4p   17     Maak het blokschema op de uitwerkbijlage compleet.
+             Teken R2.
+             Teken ontbrekende pijlen en noteer ontbrekende stoffen bij alle pijlen.
+               Je hoeft hierbij geen rekening te houden met hergebruik van stoffen.
+
+            PFOA is een zwak zuur met een Kz-waarde van 3,2∙10‒3. PFOA is daarom
+            in water vooral aanwezig in de vorm van de geconjugeerde base
+            C7F15COO‒. Dit PFOA– is goed oplosbaar in water.
+
+4p   18     Bereken hoeveel procent van PFOA aanwezig is als C7F15COOH in water
+            met pH = 7,00 .
+
+            Wetenschappelijk onderzoek heeft aangetoond dat PFOA een risico vormt
+            voor de gezondheid en het milieu. Het gebruik van PFOA is in Nederland
+            sinds 2020 verboden voor consumentenproducten. Omdat PFOA slecht
+            afbreekbaar is, is deze stof nog wel aanwezig in ons milieu.
+            Voor de bepaling van de hoeveelheid PFOA in water of grond wordt onder
+            andere gebruikgemaakt van massaspectrometrie. Een deel van het
+            massaspectrum van PFOA (414 g mol–1) is in figuur 2 weergegeven.
+
+            figuur 2
+
+
+
+
+            Bij de gebruikte techniek neemt een molecuul PFOA een elektron op.
+            Het gevormde [C7F15COOH]– fragmenteert vervolgens.
+            Uit het massaspectrum kan worden opgemaakt dat bij de fragmentatie van
+            PFOA onder andere enkele malen hetzelfde neutrale fragment Y wordt
+            afgesplitst. Zo is het fragment behorend bij de piek van m/z = 181 ontstaan
+            uit het fragment behorend bij de piek van m/z = 231.
+
+2p   19     Leid de molecuulformule van het neutrale fragment Y af.
+
+
+
+
+VW-1028-a-23-2-o                           11 / 14                           lees verder ►►►
+      Vonkremmers
+
+            Bij hoogspanningsschakelaars en windturbines ontstaan er soms grote
+            vonken als de stroom wordt in- en uitgeschakeld. Deze vonken geven
+            storingen op het elektriciteitsnet en kunnen apparatuur beschadigen.
+            Daarom zitten de contactpunten van dergelijke schakelaars in een
+            behuizing die gevuld is met een vonkremmend gas.
+            Een vonkremmend gas heeft een hoge doorslagspanning, dat is de
+            spanning waarbij geleiding optreedt (bij bepaalde druk).
+            De geleiding treedt op omdat bij hoge spanning gasmoleculen (X) bij de
+            contactpunten geïoniseerd raken volgens X (g) + e–  X+ (g) + 2 e–.
+            Bij lage druk is de doorslagspanning groot.
+
+2p   20     Leg uit dat bij lage druk de doorslagspanning groot is. Gebruik hierbij
+            begrippen uit het botsende-deeltjes-model.
+
+            Een veel toegepast vonkremmend gas is zwavelhexafluoride (SF6). Dit
+            gas wordt industrieel geproduceerd uit de elementen zwavel en fluor
+            (proces 1).
+            Fluor (F2) is een giftig en agressief gas. Onderzoekers hebben daarom
+            een andere syntheseroute ontwikkeld (proces 2). De reacties van
+            proces 2 verlopen bij aanzienlijk lagere temperatuur dan bij proces 1.
+
+            In proces 2 treden drie reacties op:
+
+            4 KF + S + 2 Br2  SF4 + 4 KBr               (reactie 1)
+            SF4 + 2 CoF3  SF6 + 2 CoF2                  (reactie 2)
+            2 CoF2 + F2  2 CoF3                         (reactie 3)
+
+            In proces 2 wordt netto geen CoF3 verbruikt.
+            De vormingswarmte van SF6 is –12,25·105 J mol–1.
+
+4p   21     Voer de volgende opdrachten uit:
+              Geef de totaalvergelijking van proces 2.
+              Bereken de reactiewarmte van proces 2 per mol SF6.
+
+            In een brochure staat: “Dit alternatieve proces voldoet beter aan de
+            uitgangspunten van groene chemie dan het standaard industriële proces.”
+
+2p   22     Geef één argument vóór en twee argumenten tégen deze stelling.
+            Noteer je antwoord als volgt:
+            Voor: …
+            Tegen: …
+            Tegen: …
+
+
+
+
+VW-1028-a-23-2-o                            12 / 14                            lees verder ►►►
+            Zwavelhexafluoride is niet giftig, maar het is wel een sterk broeikasgas.
+            Het is mogelijk om zwavelhexafluoride in hoogspanningsschakelaars te
+            vervangen door andere stoffen, zoals Novec™ 4710 (C4F7N).
+            Deze stof wordt in enkele stappen gemaakt. In het totale proces zijn de
+            beginstoffen hierbij methylpropaanzuur, HF en NH3.
+            De andere stoffen die worden gevormd, zijn waterstof en water.
+            Bij de omzettingen blijft het koolstofskelet gelijk, maar wordt de COOH-
+            groep omgezet tot een CN-groep.
+
+4p   23     Geef de vergelijking voor deze vorming van Novec™ 4710.
+            Gebruik hierbij structuurformules voor de koolstofverbindingen.
+
+            In experimenten met zuiver Novec™ 4710 werd de spanning op de
+            contactpunten zo hoog opgevoerd, dat er toch een elektrische ontlading
+            plaatsvond in de schakelaar.
+            Het bleek dat hierbij ontleding van Novec™ 4710 tot de elementen
+            optreedt. Deze reactie treedt pas op bij zeer hoge waardes van de
+            toegevoerde energie.
+            De vormingswarmte van Novec™ 4710 is –33·105 J mol–1.
+            In de figuur zie je enkele mogelijke energiediagrammen van deze
+            omzetting.
+
+            figuur
+
+
+
+
+                        P                  Q                 R                 S
+
+2p   24     Leg uit welk energiediagram het best past bij de ontleding van
+            Novec™ 4710 tot de elementen.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1028-a-23-2-o                            13 / 14                           lees verder ►►►
+            Een standaard schakelaar bevat 60 kg zuiver SF6. In een praktijkproef
+            konden vergelijkbare vonkremmende resultaten worden bereikt door een
+            gasmengsel van stikstof en Novec™ 4710 te gebruiken met daarin
+            20,8 kg Novec™ 4710.
+
+            De mate waarin een stof bijdraagt aan het versterkt broeikaseffect wordt
+            uitgedrukt in de GWP (global warming potential). De GWP van een stof is
+            gedefinieerd als het opwarmingsvermogen van 1,0 kg van de stof in
+            vergelijking met 1,0 kg CO2, berekend over een periode van 100 jaar.
+
+            Om te berekenen welke winst er wordt gehaald met het oog op het
+            broeikaseffect, gaat men uit van een situatie waarbij alle gas uit de
+            schakelaar ontsnapt. Hierbij wordt de bijdrage aan het broeikaseffect
+            omgerekend naar overeenkomende massa CO2-uitstoot.
+            De GWP-waarde van SF6 is 22 800 terwijl Novec™ 4710 een
+            GWP-waarde van slechts 2100 heeft.
+
+2p   25     Bereken met hoeveel procent de bijdrage aan het broeikaseffect daalt in
+            de praktijkproef.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1028-a-23-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

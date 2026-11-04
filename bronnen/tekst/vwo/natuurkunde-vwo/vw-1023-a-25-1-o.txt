@@ -1,0 +1,548 @@
+                                                                    Examen VWO
+
+                                                                        2025
+                                                                               tijdvak 1
+                                                                        dinsdag 20 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 73 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-25-1-o
+      Shorttrack
+
+            Tijdens de Olympische Spelen in          figuur 1
+            2018 won Suzanne Schulting (zie
+            figuur 1) een gouden medaille op de
+            kilometer shorttrack in een tijd van
+            1 min 29,80 s.
+            Volgens de reglementen van de
+            Internationale Schaatsunie heeft een
+            shorttrackbaan een lengte van
+            111,11 m. Bij de kilometer shorttrack
+            schaatst een schaatser negen
+            ronden.
+3p    1     Bereken de gemiddelde snelheid van Schulting tijdens de race. Noteer je
+            antwoord in het juiste aantal significante cijfers.
+
+            In figuur 2 zijn de doorkomsttijden van Schulting weergegeven. Deze
+            figuur staat ook op de uitwerkbijlage.
+            figuur 2
+
+
+
+
+            Op de eerste drie ronden na schaatste Schulting rondjes met een vrijwel
+            constante snelheid.
+2p    2     Bepaal met behulp van de figuur op de uitwerkbijlage de tijdwinst die
+            Schulting zou hebben behaald als zij de hele race met deze snelheid had
+            gereden.
+
+
+VW-1023-a-25-1-o                           2 / 18                          lees verder ►►►
+            Tijdens het schaatsen moet een schaatser twee krachten overwinnen: de
+            luchtweerstandskracht en de schuifwrijvingskracht. Voor de
+            schuifwrijvingskracht Fw,s tijdens het schaatsen geldt:
+
+                                              Fw,s  f d FN                         (1)
+            Hierin is:
+             Fw,s de schuifwrijvingskracht
+                  fd   de dynamische wrijvingscoëfficiënt
+                  FN   de normaalkracht
+
+            Hieruit volgt dat het nuttige vermogen dat Schulting moet leveren om een
+            constante snelheid v te schaatsen, berekend kan worden met de
+            volgende formule:
+                                         P  f d mgv  12 cw A v 3                (2)
+
+3p    3     Leid formule (2) af met behulp van formule (1) en formules uit het
+            informatieboek.
+
+            De lengte van Suzanne Schulting is       figuur 3
+            1,70 m en haar massa bedraagt 64 kg.
+            Zij schaatst in de zogenaamde
+            schaatshouding. Deze is schematisch
+            weergegeven in figuur 3.
+            De dynamische wrijvingscoëfficiënt
+            heeft voor het contactoppervlak tussen
+            schaats en ijs een waarde van 0,015.
+            De luchtweerstandscoëfficiënt heeft in
+            de schaatshouding een waarde van
+            0,80.
+3p    4     Voer de volgende opdrachten uit:
+             Maak met behulp van figuur 1 en 3 een beredeneerde schatting van
+                de frontale oppervlakte in de schaatshouding.
+             Bereken daarmee het nuttige vermogen dat Schulting levert bij een
+                constante snelheid van 11,9 m s-1.
+
+
+
+
+VW-1023-a-25-1-o                              3 / 18                         lees verder ►►►
+            Schaatsers gaan, net als fietsers, altijd schuin   figuur 4
+            door een bocht. Deze beweging is te
+            benaderen als een eenparige cirkelbeweging.
+            Figuur 4 is een foto van Schulting in de bocht
+            tijdens haar race. Deze figuur is ook
+            weergegeven op de uitwerkbijlage. In punt P
+            oefent Schulting met haar schaats een kracht
+            uit op het ijs. De werklijn van de reactiekracht
+            van het ijs op Schulting is weergegeven in de
+            figuur. Deze reactiekracht en de zwaartekracht
+            leveren samen de resulterende kracht op
+            Schulting.
+
+            De bocht is een deel van een cirkel met een straal van 8,20 m.
+5p    5     Voer de volgende opdrachten uit:
+             Construeer in de figuur op de uitwerkbijlage de resulterende kracht op
+               Schulting en bepaal de grootte van deze kracht. Laat alle krachten
+               aangrijpen in punt P en noteer je antwoord in twee significante cijfers.
+             Bereken met deze kracht de snelheid waarmee Schulting door de
+               bocht beweegt.
+
+
+
+
+VW-1023-a-25-1-o                            4 / 18                            lees verder ►►►
+      Geluidssnelheid
+
+            In deze opgave worden twee experimenten besproken om de
+            geluidssnelheid te bepalen: één voor de geluidssnelheid in lucht en één
+            voor de geluidssnelheid in water.
+                                                     figuur 1
+            Geluidssnelheid in lucht
+            Om de geluidssnelheid in lucht te
+            bepalen wordt een hoge buis gevuld
+            met water. Zie figuur 1.
+
+            De bovenkant van de buis is open.
+            Daarboven trilt een stemvork met een
+            frequentie f. Via een kraantje onderaan
+            de buis loopt de buis langzaam leeg.
+            Na enige tijd bereikt de waargenomen
+            geluidssterkte een maximum. Er treedt
+            dan resonantie op. Vervolgens neemt de
+            geluidssterkte weer af, waarna een tijdje
+            later een tweede maximum wordt
+            bereikt.
+            De gemeten afstanden h1 en h2 horen bij
+            de waterniveaus waarbij resonantie
+            optreedt.
+
+3p    6     Leid een formule af waarmee je de geluidssnelheid v kunt berekenen uit f,
+            h1 en h2.
+
+            De buik, die bij resonantie bij het open uiteinde van de buis ontstaat, ligt
+            op enige afstand L buiten de buis.
+3p    7     Leg uit hoe je met de resultaten van dit experiment L kunt bepalen.
+
+
+
+
+VW-1023-a-25-1-o                             5 / 18                             lees verder ►►►
+            Geluidssnelheid in water
+            Voor het bepalen van de geluidssnelheid in water worden een
+            onderwatermicrofoon en een onderwaterluidspreker in een bak water
+            gedompeld. In figuur 2 is de opstelling schematisch weergegeven. De
+            luidspreker wordt aangesloten op een toongenerator.
+
+            figuur 2
+
+
+
+
+            In figuur 3 is het signaal weergegeven van de toongenerator. De
+            horizontale as is ingesteld op 100 μs/cm .
+
+            figuur 3
+
+
+
+
+3p    8     Bepaal zo nauwkeurig mogelijk de frequentie van de toongenerator.
+            Noteer je antwoord in drie significante cijfers.
+
+
+
+
+VW-1023-a-25-1-o                           6 / 18                             lees verder ►►►
+            In eerste instantie bevindt de microfoon zich direct voor de luidspreker.
+            Vervolgens wordt de afstand steeds groter gemaakt. Het microfoonsignaal
+            verschuift daarbij steeds verder naar rechts, terwijl het luidsprekersignaal
+            gelijk blijft. Alleen het geluid dat de microfoon rechtstreeks bereikt is
+            weergegeven. Eventuele reflecties zijn weggefilterd.
+            Figuur 4 toont de signalen op het moment dat de afstand tussen
+            luidspreker en microfoon 24 cm is. Tijdens het verplaatsen van de
+            microfoon is het microfoonsignaal nog niet in fase geweest met het
+            signaal van de toongenerator.
+
+            figuur 4
+
+
+
+
+3p    9     Bepaal de geluidssnelheid die volgt uit figuur 4. Noteer je antwoord in
+            twee significante cijfers.
+
+
+
+
+VW-1023-a-25-1-o                            7 / 18                            lees verder ►►►
+      Opslag van energie
+
+            Karel en Bas doen voor hun profielwerkstuk een onderzoek naar
+            alternatieve manieren van energieopslag. Ze vinden op internet een
+            filmpje waarbij zwaarte-energie gebruikt wordt om energie op te slaan: er
+            is een kabelbaan waaraan grote bakken hangen waarin grind vervoerd
+            kan worden. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Wanneer duurzame energiebronnen meer elektrische energie produceren
+            dan nodig is, wordt deze overtollige energie gebruikt om grind naar boven
+            te verplaatsen. Op de momenten dat er extra elektrische energie nodig is,
+            wordt dit grind gebruikt om de kabelbaan aan te drijven. Deze laat weer
+            een dynamo draaien waarmee elektrische energie wordt opgewekt.
+
+            Karel en Bas schatten dat de hoogte van de kabelbaan 65 m is en dat de
+            maximale hoeveelheid grind die naar boven gebracht kan worden
+            1200 ton is. Ze willen de hoeveelheid energie die de kabelbaan kan
+            opslaan vergelijken met een standaard AA-batterij (1,5 V) die een
+            capaciteit van 2200 mAh heeft. De capaciteit geeft aan hoe lang de
+            batterij een bepaalde stroomsterkte kan leveren.
+2p   10     Leg uit dat mAh een eenheid is van elektrische lading.
+
+4p   11     Voer de volgende opdrachten uit:
+             Bereken de hoeveelheid elektrische energie die een AA-batterij bevat.
+             Bereken hoeveel AA-batterijen de kabelbaan volgens Karel en Bas
+               maximaal kan vervangen.
+
+
+
+
+VW-1023-a-25-1-o                            8 / 18                           lees verder ►►►
+            Karel en Bas besluiten voor hun profielwerkstuk een miniatuurkabelbaan
+            te ontwerpen. Ze bouwen langs de trap op school een simpele kabelbaan
+            die bestaat uit 46 bakjes. Van deze 46 bakjes bevinden zich steeds 36
+            bakjes langs het schuine gedeelte: 18 bakjes bewegen omhoog en 18
+            naar beneden. De overige 10 bakjes bevinden zich op de vlakke
+            gedeelten bovenaan en onderaan de trap. In figuur 2 is de kabelbaan
+            schematisch gegeven. Deze figuur is niet op schaal.
+
+            figuur 2
+
+
+
+
+            Eerst onderzoeken Karel en Bas hoe ze met de kabelbaan elektrische
+            energie kunnen opwekken. Daarvoor hebben ze een systeem gemaakt dat
+            elk bakje, dat bovenaan langskomt, vult met 140 gram zand. Onderaan
+            worden de bakjes weer automatisch geleegd.
+
+            De kabelbaan drijft een dynamo aan waar Karel en Bas lampjes op
+            aansluiten. De dynamo blijkt genoeg elektrische energie te leveren om
+            vier lampjes van 1,2 W goed te laten branden. Zolang Karel en Bas de
+            bakjes blijven vullen beweegt de kabelbaan met een snelheid van
+            2,6 m s 1 .
+4p   12     Bereken met behulp van de gegevens in figuur 2 het rendement waarmee
+            zwaarte-energie wordt omgezet naar elektrische energie.
+
+
+
+
+VW-1023-a-25-1-o                           9 / 18                           lees verder ►►►
+            Karel en Bas gebruiken een zelfgemaakte dynamo, waarvan het
+            bovenaanzicht schematisch is weergegeven in figuur 3. Op de draaischijf
+            van de dynamo zijn zes magneten bevestigd. De noordpolen van de
+            magneten zijn gearceerd en met een N aangegeven.
+
+            figuur 3
+
+
+
+
+            Karel en Bas meten de spanning van de dynamo gedurende enige tijd. Zie
+            figuur 4. Tijdens deze meting heeft de kabelbaan een andere snelheid dan
+            bij de vorige vraag.
+
+            figuur 4
+
+
+
+
+3p   13     Bepaal met behulp van de figuren 3 en 4 de snelheid waarmee de
+            kabelbaan nu beweegt. Noteer je antwoord in twee significante cijfers.
+
+
+
+VW-1023-a-25-1-o                           10 / 18                           lees verder ►►►
+            Karel en Bas onderzoeken hoe de grootte en de frequentie van de
+            opgewekte spanning gevarieerd kunnen worden. Op de uitwerkbijlage
+            staan mogelijke aanpassingen aan de kabelbaan met dynamo.
+3p   14     Geef in de tabel op de uitwerkbijlage voor elke aanpassing aan welk effect
+            deze heeft op:
+             de grootte van de opgewekte spanning
+             de frequentie van de opgewekte spanning
+
+            Karel en Bas willen met behulp van hun zelfgemaakte kabelbaan een
+            smartphone opladen. Zoals in figuur 4 te zien is, is de opgewekte
+            spanning een wisselspanning. Dit betekent dat de spanning voortdurend
+            van teken wisselt, met als gevolg dat de stroom ook voortdurend van
+            richting verandert. Dat is voor het opladen van een smartphone een
+            probleem, omdat hiervoor een zogenaamde gelijkstroom nodig is. Dat wil
+            zeggen dat de stroom altijd in dezelfde richting door de smartphone loopt.
+
+            Om de stroom gelijk te richten maken Karel en Bas een schakeling met
+            vier diodes. In figuur 5 staan drie mogelijke schakelingen getekend.
+
+            figuur 5
+
+
+
+
+                       A                          B                       C
+
+
+1p   15     Geef aan welke van de drie schakelingen in figuur 5 de juiste is.
+
+
+
+
+VW-1023-a-25-1-o                            11 / 18                             lees verder ►►►
+            Tenslotte willen Karel en Bas hun opstelling gebruiken voor de opslag van
+            energie, dus om elektrische energie om te zetten in zwaarte-energie. De
+            dynamo wordt dan een elektromotor. Ze sluiten een computer aan op de
+            kabelbaan waarmee ze de spanning over de spoel kunnen regelen.
+
+            In figuur 6 staat het (U,t)-diagram weergegeven van de spanning
+            waarmee Karel en Bas een stilstaande kabelbaan op gang brengen.
+
+            figuur 6
+
+
+
+
+2p   16     Voer de volgende opdrachten uit:
+             Leg uit waarom er een wisselspanning nodig is.
+             Leg uit waarom de frequentie van de wisselspanning in het begin moet
+               toenemen.
+
+
+
+
+VW-1023-a-25-1-o                           12 / 18                          lees verder ►►►
+      Lycopeen
+
+            Lycopeen ( C40 H56 ) is een rode kleurstof die bijvoorbeeld in tomaten
+            voorkomt. Een lycopeenmolecuul bestaat onder meer uit een lange keten
+            van 22 koolstofatomen. Zie figuur 1.
+            figuur 1
+
+
+
+
+            Het absorptiespectrum van lycopeen staat afgebeeld in figuur 2.
+            figuur 2
+
+
+
+
+            De dubbele bindingen in de lange keten tussen de punten P en Q in
+            figuur 1 leveren de zogenaamde π-elektronen. Deze elektronen kunnen
+            vrij bewegen tussen P en Q. We beschouwen het lycopeenmolecuul
+            daarom als een één-dimensionale energieput, gevuld met 22
+            π-elektronen. We nemen aan dat de lengte van de put gelijk is aan de
+            afstand L, de afstand tussen P en Q langs de keten. Dus L is 21 keer zo
+            lang als de gemiddelde afstand van 1, 4 1010 m tussen twee
+            koolstofatomen in de keten. Op basis hiervan kan de grootste golflengte
+            berekend worden die door het molecuul geabsorbeerd kan worden.
+5p   17     Toon met een berekening aan dat deze maximale golflengte groter is dan
+            de waarde die volgt uit figuur 2.
+
+            Een mogelijke verklaring voor het verschil tussen de berekende en de
+            gemeten golflengte is dat de effectieve putlengte, waarin de elektronen
+            kunnen bewegen, niet gelijk is aan L.
+2p   18     Leg uit of de effectieve putlengte volgens deze verklaring groter of kleiner
+            is dan L.
+
+
+
+VW-1023-a-25-1-o                            13 / 18                             lees verder ►►►
+      Stikstof-13
+
+            Stikstof-13 kan gebruikt worden als tracer voor opnames van het hart
+            tijdens een PET-scan. Doordat stikstof-13 een korte halveringstijd heeft,
+            moet het voor een onderzoek ter plekke gemaakt worden. Dit doet men
+            door zuurstof-16 te beschieten met een proton. Hierbij ontstaan
+            stikstof-13 en een ander deeltje.
+3p   19     Geef de kernreactievergelijking voor de productie van stikstof-13.
+
+            Voor het onderzoek wordt een hoeveelheid stikstof-13 geïnjecteerd met
+            een activiteit van 0,74 GBq. Voordat de opname gemaakt kan worden
+            moet het stikstof-13 voldoende opgenomen zijn door het hart. Op het
+            moment dat de opname gemaakt kan worden is de activiteit nog
+            0,56 GBq.
+3p   20     Bereken hoe lang na het injecteren van de stikstof-13 de opname is
+            gemaakt.
+
+
+
+
+VW-1023-a-25-1-o                           14 / 18                            lees verder ►►►
+      H -alfafilter
+
+
+            Verreweg het meeste licht dat we waarnemen van de zon wordt
+            uitgezonden vanuit de laag van de zon die fotosfeer heet. De
+            planckkromme hiervan is weergegeven in figuur 1.
+
+            figuur 1
+
+
+
+
+3p   21     Bepaal de temperatuur van de fotosfeer volgens figuur 1.
+
+                                                            figuur 2
+            Op foto’s van de zon zijn zogenaamde
+            zonnevlekken te zien. Zie figuur 2. In zo’n
+            zonnevlek is de uitgestraalde intensiteit van
+            de fotosfeer 16 keer zo klein als buiten een
+            zonnevlek.
+3p   22     Beredeneer hoeveel keer zo laag de
+            temperatuur van de fotosfeer in een
+            zonnevlek is ten opzichte van de
+            temperatuur van de fotosfeer daarbuiten.
+
+
+
+
+VW-1023-a-25-1-o                            15 / 18                        lees verder ►►►
+            De relatief dunne laag in de zon boven de fotosfeer heet de chromosfeer.
+            Zie figuur 3. De chromosfeer is een gasvormige laag die vooral bestaat uit
+            waterstof.
+
+            figuur 3
+
+
+
+
+            De chromosfeer is onder normale omstandigheden heel moeilijk
+            waarneembaar doordat deze wordt overstraald door de veel fellere
+            fotosfeer. Om de chromosfeer te kunnen waarnemen wordt een
+            zogenaamd Hα-filter gebruikt. Dit laat alleen golflengtes door in een klein
+            golflengtegebied rond 656,28 nm. Deze golflengte komt voor in het
+            emissiespectrum van de chromosfeer, terwijl het spectrum van de
+            fotosfeer hier een absorptielijn heeft.
+
+            De Hα-golflengte komt overeen met een overgang in het
+            energieniveauschema van waterstof
+1p   23     Geef aan bij welke overgang deze golflengte hoort:
+            A tussen de grondtoestand en de eerste aangeslagen toestand
+            B tussen de grondtoestand en de tweede aangeslagen toestand
+            C tussen de eerste aangeslagen toestand en de tweede aangeslagen
+               toestand
+            D tussen de tweede aangeslagen toestand en de derde aangeslagen
+               toestand
+
+            Een Hα-filter bevat een zogenaamd etalon. Een etalon bestaat uit twee
+            plaatjes met half doorlatende spiegels die evenwijdig aan elkaar zijn
+            opgesteld, op enige afstand van elkaar. Wanneer een lichtstraal invalt,
+            kan deze worden gereflecteerd tussen de twee plaatjes. Bij de meeste
+            golflengtes vindt daarbij destructieve interferentie plaats. Sommige
+            golflengtes zullen door het filter juist wél doorgelaten worden. Zie figuur 4.
+
+
+
+
+VW-1023-a-25-1-o                             16 / 18                            lees verder ►►►
+            figuur 4
+
+
+
+
+            Bij een etalon in een Hα-filter vallen de lichtstralen vrijwel loodrecht in op
+            de eerste plaat (de hoek in de tekening is in figuur 4 overdreven
+            weergegeven). Bij elke reflectie treedt er een zogenaamde fasesprong op.
+            Dat wil zeggen dat de gereduceerde fase van de lichtstraal verandert met
+            ½, maar omdat dit in het etalon telkens een even aantal keren plaatsvindt
+            hoef je hiermee geen rekening te houden.
+            De afstand d tussen beide plaatjes bepaalt welke golflengtes doorgelaten
+            worden. Voor deze golflengtes geldt:
+
+                                                       2
+                                                d                                    (1)
+                                                       n
+
+            Hierin is n een geheel getal
+2p   24     Leg met behulp van figuur 4 uit dat deze formule klopt.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1023-a-25-1-o                             17 / 18                            lees verder ►►►
+            Bij een Hα-filter is het etalon zo afgesteld dat de golflengte van 656,28 nm
+            maximaal wordt doorgelaten. Dit is echter niet de enige golflengte die
+            wordt doorgelaten. De doorlaatcurve van een etalon laat nooit slechts één
+            piek zien, maar altijd een serie van pieken. Zie de doorgetrokken grafiek
+            in figuur 5. Elke piek van deze grafiek correspondeert met een andere
+            waarde van n in formule (1).
+
+            figuur 5
+
+
+
+
+            Om alleen de Hα-golflengte zichtbaar te maken wordt een etalon
+            gecombineerd met een tweede filter. Dit is een standaardfilter dat een
+            relatief groot gebied rondom een vaste golflengte doorlaat. In figuur 5 is
+            de doorlaatcurve van dit tweede filter aangegeven met de onderbroken
+            lijn.
+            De breedte die de doorlaatcurve van het tweede filter maximaal mag
+            hebben, hangt af van de onderlinge afstand tussen de pieken,  n , in de
+            doorlaatcurve van het etalon.
+
+            Van een bepaald etalon is de onderlinge afstand tussen de platen d gelijk
+            aan 42,0 μm.
+4p   25     Voer de volgende opdrachten uit:
+             Bereken voor dit etalon de waarde van n die hoort bij de Hα-piek.
+             Bereken de grootte van  n in deze situatie.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-25-1-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

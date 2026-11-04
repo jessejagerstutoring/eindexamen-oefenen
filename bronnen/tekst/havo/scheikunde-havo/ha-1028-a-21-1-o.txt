@@ -1,0 +1,558 @@
+                                                                  Examen HAVO
+
+                                                                        2021
+                                                                               tijdvak 1
+                                                                      maandag 31 mei
+                                                                      13.30 - 16.30 uur
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 37 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-21-1-o
+      Ethyllactaat
+
+              In de elektronica-industrie worden printplaten gemaakt. Tijdens het
+              productieproces van deze printplaten worden hydrofobe stoffen gebruikt
+              die later weer verwijderd moeten worden. Voor het verwijderen van deze
+              stoffen kan ethyllactaat worden gebruikt. Ethyllactaat wordt gevormd uit
+              melkzuur (C3H6O3) en ethanol. Hieronder zijn de structuurformules van
+              melkzuur en ethyllactaat weergegeven.
+
+
+
+
+              Melkzuur wordt op industriële schaal gemaakt door omzetting van
+              sachariden met behulp van micro-organismen. Een voorbeeld van zo’n
+              sacharide is sacharose (C12H22O11). Voor de omzetting van sacharose tot
+              melkzuur is ook water nodig.
+
+2p    1       Geef de vergelijking in molecuulformules van de omzetting van sacharose
+              tot melkzuur.
+
+              Ethyllactaat heeft een uitstekend reinigend vermogen. Bovendien is
+              ethyllactaat zowel met hydrofobe stoffen als met water mengbaar. Een
+              voorwerp dat gereinigd is met ethyllactaat, kan daarna gespoeld worden
+              met water.
+
+2p    2       Leg uit, aan de hand van de structuurformule, dat ethyllactaat zowel met
+              een hydrofobe stof als met water mengbaar is.
+
+              In een fabriek kan ethyllactaat volgens een continuproces worden
+              gemaakt uit melkzuur en ethanol. De vergelijking van deze omzetting is
+              hieronder weergegeven.
+
+              C3H6O3 + C2H6O  C5H10O3 + H2O              (reactie 1)
+
+              Op de uitwerkbijlage bij dit examen is het onvolledige blokschema van het
+              continuproces weergegeven. In dit blokschema ontbreken enkele
+              stofstromen en de namen van de bijbehorende stoffen.
+              In reactor R1 worden een ruime overmaat ethanol en een
+              melkzuuroplossing geleid. In aanwezigheid van een katalysator wordt het
+              reactiemengsel krachtig geroerd. Hierbij wordt een groot deel van het
+              melkzuur omgezet tot ethyllactaat. Ook treden nevenreacties op waarbij
+              esters ontstaan, zoals de ester van twee moleculen melkzuur.
+
+2p    3       Geef de structuurformule van de ester van twee moleculen melkzuur.
+
+
+HA-1028-a-o                                  2 / 14                            lees verder ►►►
+               Voortdurend wordt een deel van het reactiemengsel uit reactor R1
+               overgebracht naar scheidingsruimte S1. Dit reactiemengsel bestaat uit
+               ethanol, ethyllactaat, melkzuur, water en de esters die zijn ontstaan door
+               nevenreacties. In scheidingsruimte S1 verdampen water, ethanol en
+               ethyllactaat.
+
+2p     4       Geef de namen van de twee bindingstypen die worden verbroken bij het
+               verdampen in scheidingsruimte S1.
+
+               De stoffen die niet verdampen, worden vanuit scheidingsruimte S1
+               teruggevoerd naar reactor R1. In reactor R1 wordt een gedeelte van de
+               esters die zijn ontstaan door nevenreacties, omgezet tot melkzuur.
+               De damp uit scheidingsruimte S1 wordt naar scheidingsruimte S2
+               gebracht. Hier wordt ethyllactaat als vloeistof afgescheiden. In
+               scheidingsruimte S3 worden water en ethanol gescheiden. Water wordt
+               afgevoerd.
+
+3p     5       Maak het blokschema op de uitwerkbijlage compleet.
+                Teken de pijlen van de ontbrekende stofstromen. Houd daarbij
+                 rekening met hergebruik van stoffen.
+                Noteer de nummers van de onderstaande stoffen bij de juiste pijlen.
+                 1 ethanol
+                 2 ethyllactaat
+                 3 melkzuur
+                 4 esters die zijn ontstaan door nevenreacties
+                 5 water
+                Alle nummers moeten meer dan één keer worden gebruikt.
+
+               Volgens de fabrikant kan de productie van ethyllactaat duurzaam worden
+               genoemd. De fabrikant onderbouwt deze bewering aan de hand van de
+               atoomeconomie van reactie 1.
+
+2p     6       Bereken de atoomeconomie voor de vorming van ethyllactaat volgens
+               reactie 1. Gebruik Binas-tabel 37H of ScienceData-tabel 1.7.7.
+1p     7       Geef aan waarom een hoge atoomeconomie duurzaam is.
+
+               Volgens de fabrikant voldoet het proces door de hoge atoomeconomie
+               aan uitgangspunt 2 van de groene chemie. Omdat de fabrikant
+               plantaardige sachariden gebruikt, kan hij ook een ander uitgangspunt van
+               de groene chemie als argument gebruiken om de productie van
+               ethyllactaat duurzaam te noemen.
+
+2p     8       Leg uit welk ander uitgangspunt van de groene chemie dit is.
+                Gebruik Binas-tabel 97F of ScienceData-tabel 38.6
+                Noteer je antwoord als volgt:
+                  Er worden plantaardige sachariden gebruikt, dus kan de fabrikant
+                  uitgangspunt nummer … gebruiken, omdat …
+
+
+
+HA-1028-a- o                                   3 / 14                            lees verder ►►►
+      Lithium-ionbatterij
+
+              In veel mobiele telefoons zit een lithium-ionbatterij. Deze batterijen zijn
+              licht, kunnen veel energie leveren en zijn snel op te laden. Het
+              basisontwerp van een lithium-ionbatterij is in figuur 1 schematisch
+              weergegeven.
+
+              figuur 1
+
+
+
+
+              Elektrode A bevat onder andere het metaal lithium (Li). Elektrode B bevat
+              Li+-ionen. Tussen beide elektroden bevindt zich een elektrolyt, dat
+              bestaat uit een polymeer waarin zich een vloeibaar lithiumzout bevindt.
+
+              Een veelgebruikt polymeer is PEO. De formule van PEO is (CH2CH2O)n.
+              In figuur 2 is een vergroting van het elektrolyt schematisch weergegeven.
+              Hierin is te zien hoe een Li+-ion van polymeerketen naar polymeerketen
+              wordt doorgegeven, doordat telkens een ander groepje O-atomen het
+              Li+-ion bindt. De binding komt tot stand doordat de O-atomen in PEO
+              enigszins negatief geladen zijn. Dit is het gevolg van een polaire
+              atoombinding tussen de C-atomen en de O-atomen in PEO. Tijdens de
+              stroomlevering bewegen Li+-ionen van elektrode A naar elektrode B.
+
+              figuur 2
+
+
+
+
+1p    9       Leg uit of figuur 2 een weergave is op microniveau.
+
+2p    10      Geef aan of PEO een thermoplast of een thermoharder is. Licht je
+              antwoord toe aan de hand van een structuurkenmerk uit figuur 2.
+
+
+HA-1028-a-o                                    4 / 14                              lees verder ►►►
+              Een docente bespreekt met haar leerlingen de elektrische geleiding in
+              PEO. Een leerling vraagt of polyetheen ook gebruikt kan worden als
+              elektrisch geleidend polymeer.
+
+2p    11      Teken een fragment uit het midden van de structuurformule van
+              polyetheen. In het getekende fragment moeten drie monomeereenheden
+              zijn verwerkt.
+2p    12      Leg uit, aan de hand van de structuurformule van polyetheen, of
+              polyetheen Li+-ionen kan binden.
+
+              De halfreacties die in deze batterij optreden tijdens stroomlevering zijn
+              hieronder vereenvoudigd weergegeven:
+                                               +        –
+              halfreactie 1: LiC6  6 C + Li + e
+              halfreactie 2: CoO2 + Li+ + e–  LiCoO2
+
+2p    13      Geef aan welke halfreactie optreedt aan elektrode A en vermeld ook of dit
+              de positieve of de negatieve elektrode is.
+              Noteer je antwoord als volgt:
+              Aan elektrode A treedt halfreactie … op. Dit is dus de … elektrode.
+
+              CoO2 kan worden opgevat als een zout dat bestaat uit kobaltionen en
+              oxide-ionen. LiCoO2 kan worden opgevat als een zout dat bestaat uit
+              lithiumionen, kobaltionen en oxide-ionen. Uit de formules CoO2 en LiCoO2
+              kan worden afgeleid dat de kobaltionen in CoO2 en in LiCoO2 niet
+              dezelfde lading hebben.
+
+2p    14      Geef de lading van het kobaltion in CoO2 en van het kobaltion in LiCoO2.
+              Noteer je antwoord als volgt:
+              De lading van het kobaltion in CoO2 is …
+              De lading van het kobaltion in LiCoO2 is …
+
+              In een bepaalde lithium-ionbatterij kan maximaal 0,053 mol elektronen
+              worden overgedragen tussen de twee elektroden, voordat deze batterij
+              weer opgeladen moet worden.
+
+2p    15      Bereken hoeveel gram CoO2 deze batterij minstens bevat. Gebruik de
+              vergelijking van halfreactie 2.
+
+
+
+
+HA-1028-a-o                                    5 / 14                            lees verder ►►►
+              Veel luchtvaartmaatschappijen hebben vanwege brandgevaar speciale
+              eisen gesteld aan het vervoeren van oplaadbare lithium-ionbatterijen in
+              het laadruim van passagiersvliegtuigen. Het polymeer PEO ontbrandt
+              namelijk gemakkelijk. Bovendien kan de warmte die bij de verbranding
+              vrijkomt ervoor zorgen dat ook andere batterijen ontbranden.
+
+3p   16       Geef de reactievergelijking van de volledige verbranding van PEO.
+              De formule van PEO is (CH2CH2O)n.
+
+              In figuur 3 staan vier energiediagrammen. In deze diagrammen behoort
+              het linker energieniveau bij de beginstoffen en het rechter energieniveau
+              bij de reactieproducten.
+
+              figuur 3
+
+
+
+
+2p   17       Leg uit welk energiediagram het best in overeenstemming is met de
+              verbranding van het polymeer PEO. Gebruik in je antwoord informatie uit
+              deze opgave.
+
+
+
+
+HA-1028-a-o                                   6 / 14                           lees verder ►►►
+              Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-o                               7 / 14   lees verder ►►►
+      Bromide in grondwater
+
+              Schaliegas is aardgas dat in gesteente diep onder het aardoppervlak is
+              opgesloten. Om schaliegas te winnen gebruikt men een methode die
+              fracking wordt genoemd. Hierbij wordt een mengsel van water, zand en
+              chemicaliën onder hoge druk in het gesteente gepompt zodat hierin
+              scheurtjes ontstaan en het schaliegas vrijkomt. Bij fracking ontstaan grote
+              hoeveelheden afvalwater dat onder andere Br–-ionen, Cl–-ionen en
+              I–-ionen bevat. Deze ionen zijn afkomstig van goed oplosbare zouten die
+              in het gesteente voorkomen.
+
+2p   18       Geef de formule van een zout dat bromide-ionen bevat en goed oplosbaar
+              is in water. Maak gebruik van Binas-tabel 45A of ScienceData-tabel 8.4d.
+
+              Op frackinglocaties worden regelmatig monsters van het grondwater
+              genomen. Om op de frackinglocatie snel het bromidegehalte van het
+              grondwater te bepalen is de methode ontwikkeld die in tekstfragment 1 is
+              beschreven.
+
+              tekstfragment 1
+
+              1     Men maakt gebruik van filtreerpapiertjes waarop eerst een
+                    oplossing van chloramine-T en de zuur-base-indicator fenolrood is
+                    aangebracht en die men daarna heeft laten drogen.
+              2     Een druppel grondwater wordt op zo’n filtreerpapiertje aangebracht.
+                    Eventueel wordt het grondwater eerst verdund.
+              3     In aanwezigheid van Br– vinden achtereenvolgens twee reacties
+                    plaats:
+                    Reactie 1: Br– wordt door een reactie met chloramine-T omgezet
+                               tot onder andere broom.
+                    Reactie 2: het ontstane broom reageert volledig met fenolrood tot
+                               onder andere broomfenolblauw.
+              4     Door beide reacties wordt het gele filtreerpapiertje enigszins blauw.
+              5     De afname van de gele kleur wordt gemeten met een kleurdetector.
+              6     Met behulp van een ijklijn wordt het bromidegehalte bepaald.
+
+              De oplossing waarin de reacties plaatsvinden, heeft een pH van 4,6. Het
+              ontstane broomfenolblauw heeft bij deze pH een blauwe kleur.
+
+2p   19       Bereken de [H+] in mol L–1 in de oplossing waarin de reacties
+              plaatsvinden. Geef de uitkomst in het juiste aantal significante cijfers.
+
+2p   20       Leg uit met behulp van tekstfragment 1 en Binas-tabel 52A
+              of ScienceData-tabel 9.1d, dat de kleur van het filtreerpapiertje eerst geel
+              is en dan verandert naar blauw. Noteer je antwoord als volgt:
+              eerst geel omdat …
+              verandert naar blauw doordat …
+
+
+
+HA-1028-a-o                                    8 / 14                              lees verder ►►►
+               Reactie 2 is een reactie van fenolrood ( C19H14O5S) met broom. Daarbij
+               worden per molecuul fenolrood vier H-atomen vervangen door
+               vier Br-atomen. Bij reactie 2 ontstaan broomfenolblauw en één andere
+               stof. Deze reactie is vergelijkbaar met de substitutiereactie van een
+               alkaan met een halogeen en is op de uitwerkbijlage onvolledig
+               weergegeven.
+
+3p    21       Maak de vergelijking van reactie 2 op de uitwerkbijlage compleet. Gebruik
+               molecuulformules.
+
+               De hoeveelheden chloramine-T en fenolrood die op het filtreerpapiertje
+               zijn aangebracht, zijn zo gekozen dat bromidegehaltes tot
+               maximaal 10 massa-ppm gemeten kunnen worden. Wanneer bij punt 2
+               een grondwatermonster met een bromidegehalte hoger dan
+               10 massa-ppm wordt aangebracht, zal een onjuist bromidegehalte worden
+               gemeten.
+
+2p    22       Leg uit of het gemeten gehalte in dat geval te hoog of te laag zal zijn.
+
+                                                                                            figuur 1
+               In figuur 1 is de ijklijn                              190
+                                                   kleurintensiteit
+               weergegeven die is gemaakt
+                                                                      185
+               met behulp van een aantal
+               oplossingen met elk een
+                                                                      180
+               bekend bromidegehalte. In de
+               figuur is het bromidegehalte
+                                                                      175
+               uitgezet tegen de
+               kleurintensiteit. De                                   170
+               kleurintensiteit komt overeen
+               met een bepaalde hoeveelheid                           165
+               van de beginstof fenolrood, die
+               afneemt naarmate er meer                                 0
+                                                                            0   2     4     6      8     10
+               bromide aanwezig is.
+                                                                                 bromidegehalte (massa-ppm)
+
+
+               Een wetenschapper onderzoekt het bromidegehalte van een
+               grondwatermonster. Hij voert de bepaling uit tekstfragment 1 uit. Bij
+               punt 2 verdunt hij het grondwatermonster door in een reageerbuisje
+               2,00 mL grondwater met 8,00 mL gedestilleerd water te mengen. Hij meet
+               vervolgens een kleurintensiteit van 180. Met behulp van de grafiek en de
+               beschreven verdunning berekent hij het bromidegehalte van het
+               grondwatermonster, in massa-ppm.
+
+3p    23       Geef deze berekening. Lees af op één decimaal nauwkeurig en geef de
+               uitkomst in het juiste aantal significante cijfers.
+
+
+
+
+HA-1028-a- o                                     9 / 14                                         lees verder ►►►
+       Groen is niet vers
+
+               Hoeveel dagen kun je een verse salade bewaren? En in hoeverre wordt
+               de houdbaarheid beïnvloed door de temperatuur?
+               Een tijd-temperatuur-indicator (TTI), ontworpen door Andrew Mills, laat dit
+               in een oogopslag zien. Deze TTI is een blauwgekleurde,
+               temperatuurgevoelige sticker. Zolang de sticker blauw is, is de salade
+               vers. Als de sticker naar groen of zelfs geel is verkleurd, dan is de salade
+               bedorven. De TTI bestaat uit twee lagen (zie figuur 1). De toplaag van de
+               sticker bestaat uit een folie waarop een mengsel van polymeer A en
+               ammoniumwaterstofcarbonaat (NH4HCO3) is aangebracht. De kleurlaag
+               bestaat uit een folie waarop een mengsel van polymeer B, een
+               weekmaker en de indicator broomfenolblauw (BFB) is aangebracht.
+
+               figuur 1
+
+
+
+
+               De toplaag van de sticker houdt de TTI blauw zolang de TTI niet wordt
+               gebruikt. Dit komt doordat in deze laag een reactie optreedt waarbij
+               ammoniak ontstaat (reactie 1). Deze ammoniak wordt door de kleurlaag
+               opgenomen en kleurt de indicator (BFB) blauw (reactie 2).
+
+               NH4HCO3 (s)  NH3(g) + CO2(g) + H2O(g)                           (reactie 1)
+
+               NH3 + BFB  NH3BFB                                               (reactie 2)
+                       (geel)    (blauw)
+
+               Reactie 1 verloopt langzaam, waardoor een ongebruikte sticker
+               maandenlang houdbaar blijft.
+
+2p    24       Bereken de reactiewarmte van reactie 1 in J per mol NH4HCO3 (T = 298 K
+               en p = p0).
+                Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.
+                De vormingswarmte van NH4HCO3 is 8,45·105 J mol1.
+
+
+
+
+HA-1028-a- o                                   10 / 14                            lees verder ►►►
+              Een winkelier plakt de TTI op een bakje verse salade en verwijdert de
+              toplaag van de sticker. Daarna verkleurt de indicator geleidelijk van blauw
+              via groen tot geel doordat het gele BFB volgens reactie 3 wordt
+              teruggevormd. Door de kleurverandering wordt zichtbaar hoe vers het
+              product is.
+
+              NH3BFB  NH3 + BFB                                              (reactie 3)
+              (blauw)              (geel)
+
+              De activeringsenergie van reactie 3 is ongeveer even groot als de
+              activeringsenergie van reacties die plaatsvinden tijdens voedselbederf.
+              Wanneer in plaats van BFB een andere indicator wordt gebruikt, die
+              verkleurt door een reactie met een aanzienlijk hogere activeringsenergie,
+              zou de TTI minder betrouwbaar zijn.
+
+2p    25      Beredeneer dat een hogere activeringsenergie de TTI minder betrouwbaar
+              maakt. Neem aan dat de overige factoren gelijk zijn.
+
+              Door het verwijderen van de toplaag kunnen de ammoniakmoleculen die
+              bij reactie 3 ontstaan in de omgevingslucht vrijkomen. Hierdoor is er
+              steeds minder NH3BFB en zal de TTI steeds geler kleuren. Om vrij te
+              kunnen komen in de omgevingslucht moeten de ammoniakmoleculen door
+              de kleurlaag heen bewegen. Dit gaat gemakkelijker wanneer het polymeer
+              waaruit de kleurlaag bestaat een weekmaker bevat.
+
+2p    26      Leg uit waardoor een weekmaker ervoor zorgt dat ammoniak
+              gemakkelijker uit de kleurlaag vrijkomt. Formuleer je antwoord op
+              microniveau.
+
+2p    27      Leg uit, met behulp van het botsende-deeltjesmodel, dat de TTI in de
+              koelkast (5 C) langzamer verkleurt dan bij kamertemperatuur (20 C).
+
+              Uit de TTI komt een kleine hoeveelheid ammoniak vrij. Ammoniak heeft
+              een indringende geur en een lage geurdrempel. De geurdrempel is de
+              laagste concentratie van een gasvormige stof in lucht die waarneembaar
+              is voor de mens. Toch zal de lucht in een koelkast volgens Andrew Mills
+              niet naar ammoniak gaan ruiken, zelfs niet als een koelkast veel TTI’s
+              bevat.
+
+3p    28      Bereken hoeveel TTI’s in een bepaalde koelkast aanwezig kunnen zijn
+              voordat de geurdrempel overschreden wordt.
+              Ga bij de berekening uit van de volgende gegevens:
+               Per TTI komt maximaal 9,2·108 mol ammoniak vrij.
+                                                           3
+               De geurdrempel van ammoniak is 3,7 mg m .
+               De koelkast heeft een inhoud van 183 L.
+
+
+
+
+HA-1028-a-o                                   11 / 14                             lees verder ►►►
+      Eiwitvertering
+
+              Voedsel bevat de voedingsstoffen die het lichaam nodig heeft. Deze
+              voedingsstoffen kunnen op basis van de chemische structuur in drie
+              groepen worden ingedeeld. De eiwitten vormen een van deze groepen.
+
+2p    29      Geef de namen van de twee andere groepen voedingsstoffen.
+
+              Tijdens het eten belandt voedsel via de mond in de maag. De vloeistof in
+              de maag is zuur, doordat bepaalde cellen van de maagwand zoutzuur
+              afgeven. Dit zoutzuur kan worden opgevat als een oplossing die
+              5,8 g HCl per liter bevat.
+
+2p    30      Bereken de pH van een oplossing die 5,8 g HCl per liter bevat.
+
+              De zure maagvloeistof bevat ook het enzym pepsine. Pepsine is een eiwit
+              dat de afbraak van voedseleiwitten versnelt. Bij deze afbraak wordt steeds
+              een binding tussen twee aminozuureenheden in de keten van een
+              voedseleiwitmolecuul verbroken.
+
+2p    31      Geef de naam van de karakteristieke groep waarvan de binding wordt
+              verbroken, en geef de naam van het reactietype dat daarbij optreedt.
+              Noteer je antwoord als volgt:
+              naam karakteristieke groep: …
+              naam reactietype: …
+
+              Het verbreken van deze bindingen is een proces dat in 2 stappen
+              verloopt. Dit proces is vereenvoudigd weergegeven in figuur 1. In figuur 1
+              zijn ook twee zijgroepen van het pepsinemolecuul weergegeven.
+              Zijgroep A is geïoniseerd doordat deze een H+-ion heeft afgestaan.
+
+              figuur 1
+
+
+
+
+2p    32      Geef aan bij welke stap in figuur 1 zijgroep A optreedt als base.
+              Licht je antwoord toe.
+
+
+HA-1028-a-o                                   12 / 14                             lees verder ►►►
+               Zowel uit de tekst van deze opgave als uit figuur 1 blijkt dat pepsine een
+               enzym is.
+
+2p    33       Licht toe, aan de hand van een kenmerk dat is gegeven in de tekst van
+               deze opgave en een kenmerk dat is af te leiden uit figuur 1, dat pepsine
+               een enzym is.
+               Noteer je antwoord als volgt:
+               kenmerk gegeven in de tekst: …
+               kenmerk afgeleid uit figuur 1: …
+
+               Hieronder is een fragment weergegeven van de primaire structuur van
+               een eiwitmolecuul dat in voedsel kan voorkomen.
+
+               ~Cys-Phe-Asp-Val-Phe-Lys-Glu~
+
+               Dit fragment kan met behulp van een pepsinemolecuul worden
+               afgebroken tot onder meer het onderstaande molecuul.
+
+               Phe-Asp-Val
+
+3p    34       Geef de structuurformule van dit molecuul. Gebruik Binas-tabel 67H of
+               ScienceData-tabel 13.7c.
+
+               Pepsinemoleculen kunnen niet tussen alle aminozuureenheden bindingen
+               verbreken, maar wel:
+                de binding tussen twee aminozuureenheden met beide een hydrofobe
+                  zijgroep,
+                de binding tussen een aminozuureenheid met een hydrofobe zijgroep
+                  en een aminozuureenheid met een zwavelbevattende zijgroep.
+
+2p    35       Leg uit of verwacht mag worden dat een pepsinemolecuul de binding
+               tussen de aminozuureenheden Lys en Glu kan verbreken. Geef je
+               antwoord aan de hand van bovenstaande informatie en de
+               structuurformules in Binas-tabel 67H of ScienceData-tabel 13.7c.
+
+
+
+
+               Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1028-a- o                                   13 / 14                            lees verder ►►►
+               Na verloop van tijd belandt het deels verteerde voedsel vanuit de maag in
+               de darm. Hier wordt het alvleessap toegevoegd (figuur 2), waardoor de pH
+               in de darm anders is dan die in de maag. Door deze pH-verandering
+               verandert de activiteit van pepsine. Dit is weergegeven in figuur 3.
+
+               figuur 2                                   figuur 3
+
+
+
+
+2p    36       Geef, aan de hand van de samenstelling van het alvleessap, de naam van
+               het deeltje dat de pH-verandering veroorzaakt. Maak gebruik van
+               Binas-tabel 82F of ScienceData-tabel 22.7.
+
+2p    37       Leg uit, aan de hand van figuur 2 en figuur 3, of de activiteit van pepsine
+               hoger of lager wordt wanneer het alvleessap wordt toegevoegd.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1028-a- o                                             14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

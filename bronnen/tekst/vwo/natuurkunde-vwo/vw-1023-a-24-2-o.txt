@@ -1,0 +1,527 @@
+                                                                    Examen VWO
+
+                                                                        2024
+                                                                               tijdvak 2
+                                                                      maandag 24 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 27 vragen.
+ Voor dit examen zijn maximaal 76 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-24-2-o
+      Elektrische scooter
+
+              Mees heeft een elektrische scooter       figuur 1
+              aangeschaft om daarmee naar school te
+              reizen. Zie figuur 1. In het accupakket
+              van de scooter kan volgens de fabrikant
+              een energie van 1,74 kWh opgeslagen
+              worden.
+              Het opladen van de accu gebeurt met
+              een oplader die via een
+              elektriciteitskabel aangesloten wordt op
+              de netspanning van 230 V. De oplader
+              zet de netspanning om naar de
+              laadspanning. Mees plaatst een
+              stroommeter tussen het stopcontact en de oplader en meet de
+              stoomsterkte tijdens het opladen.
+
+              Op de uitwerkbijlage staat een schematische tekening van het
+              stopcontact, de stroommeter en de kabels naar de oplader en scooter.
+1p    1       Maak het schakelschema op de uitwerkbijlage compleet zodat de
+              stroommeter de juiste stroomsterkte meet.
+
+              Om 15.20 uur sluit Mees de scooter aan op de oplader. Op dat moment is
+              de accu nog voor 35% opgeladen. Van het opladen heeft Mees een
+              (I,t)-diagram gemaakt, zie figuur 2. Deze figuur staat vergroot op de
+              uitwerkbijlage.
+
+              figuur 2
+
+
+
+
+VW-1023-a-o                                  2 / 15                          lees verder ►►►
+              Om 21.00 uur geeft de scooter aan dat de accu 100% opgeladen is. Mees
+              bepaalt hoeveel energie er is gebruikt om de accu op te laden. Hij vindt
+              1,3 kWh.
+3p    2       Toon met behulp van de figuur op de uitwerkbijlage aan dat deze waarde
+              klopt.
+4p    3       Bereken het rendement van het opladen. Noteer je antwoord in het juiste
+              aantal significante cijfers.
+
+              In het achterwiel van de scooter zit een elektromotor met een maximaal
+              vermogen van 1,5 kW. De motor is elektronisch begrensd, waardoor de
+              scooter maximaal 25 km h -1 kan rijden.
+              Mees wil de maximum snelheid van scooter weten als deze onbegrensd
+              zou zijn. Hij bepaalt de rol- en luchtweerstandskracht om deze snelheid te
+              kunnen bepalen.
+
+              Voor het bepalen van de rolweerstandskracht voert Mees een experiment
+              uit. Hij meet bij verschillende beginsnelheden v0 de afstand s die nodig is
+              om tot stilstand te komen zonder de remmen te gebruiken. Hij voert de
+              metingen uit op een vlakke, rechte, geasfalteerde weg. Omdat het die dag
+              een beetje waait, besluit Mees de metingen ook uit te voeren in
+              tegenovergestelde bewegingsrichting. Van zijn metingen heeft hij een
+              tabel gemaakt (zie figuur 3).
+
+              figuur 3
+
+               v0 (km h 1 )   sheen (m)      sterug (m)    sgem (m)
+
+                      4            4,2           5,2           4,7
+                      5            6,6           8,0           7,3
+                      6            8,5          10,0           9,3
+                      7           10,8          12,8          11,4
+                      8           14,4          17,0          15,7
+                      9           18,2          20,1          19,1
+
+2p    4       Leg uit of Mees op de heenweg wind mee of wind tegen had.
+
+
+
+
+VW-1023-a-o                                   3 / 15                            lees verder ►►►
+              Mees breidt de tabel uit met een                  figuur 4
+              kolom voor de kinetische energie. Hij
+              gebruikt daarbij de totale massa van
+              zichzelf en de scooter samen.
+              Vervolgens maakt hij een
+              ( Ek , sgem ) -diagram en tekent hij een
+              trendlijn door de eerste meetpunten om de
+              rolweerstandskracht 𝐹 , te bepalen. Zijn
+              resultaat is te vinden in figuur 4.
+
+2p    5       Leg uit waarom Mees alleen de eerste
+              meetpunten kiest voor de trendlijn.
+2p    6       Bepaal de grootte van 𝐹 , . Noteer je
+              antwoord in twee significante cijfers.
+
+
+
+              Mees vereenvoudigt de formule voor Fw,lucht tot:
+
+                  Fw, lucht  k  v 2                     (1)
+
+
+3p    7       Leid de eenheid van k af in (grond)eenheden van het SI zoals vermeld in
+              Binas-tabel 3a of Sciencedata-tabel 1.3a.
+
+              Mees bepaalt de (getals)waarde van de constante k. Hierbij gebruikt hij
+              een waarde van 1,2 voor de luchtweerstandscoëfficiënt cw . Ook gebruikt
+              hij de schematische tekening van de scooter die is weergegeven op de
+              uitwerkbijlage.
+
+              Mees vindt voor de constante k een waarde van 0,4.
+4p    8       Toon met behulp van de figuur op de uitwerkbijlage aan dat deze waarde
+              klopt.
+
+              Mees realiseert zich dat het verband tussen het vermogen dat de scooter
+              levert (Pmotor) en de snelheid van de scooter (v) te beschrijven is met de
+              volgende formule:
+
+                  Pmotor  Fw,rol  v  k  v3            (2)
+
+
+
+
+VW-1023-a-o                                      4 / 15                         lees verder ►►►
+              Omdat de bepaling in vraag 8 niet erg nauwkeurig uitgevoerd kan worden,
+              lukt het Mees niet om de constante k op meer dan één significant cijfer te
+              bepalen. Hij wil nagaan gaan wat hiervan de invloed is op de bepaling van
+              de maximale snelheid van zijn scooter als die onbegrensd zou zijn. Met
+              behulp van formule 2 maakt hij figuur 5, waarbij hij voor verschillende
+              mogelijke waarden van k het verband tussen Pmotor en de snelheid
+              berekend heeft. Figuur 5 staat ook op de uitwerkbijlage.
+
+              figuur 5
+
+
+
+
+              Met behulp van figuur 5 kan Mees de ondergrens en bovengrens bepalen
+              van de maximale snelheid van zijn scooter als die onbegrensd zou zijn.
+3p    9       Bepaal met behulp van de figuur op de uitwerkbijlage zowel deze
+              ondergrens als deze bovengrens, beide in km h -1. Noteer je antwoorden
+              in drie significante cijfers.
+
+
+
+
+VW-1023-a-o                                   5 / 15                           lees verder ►►►
+      Lise Meitner
+                                                            figuur 1
+              Lise Meitner (1878-1968, zie figuur 1) werd
+              in totaal 48 maal genomineerd voor een
+              Nobelprijs, maar kreeg de prijs nooit.
+
+              Rond 1910 deed Meitner onderzoek naar de
+              eigenschappen van β−-straling. Ze
+              gebruikte hierbij preparaten met thorium.
+              Het bestaan van isotopen was in die tijd
+              nog niet bekend. Nu weten we dat het
+              preparaat niet alleen het instabiele
+              Thorium-232 bevatte, maar ook alle
+              vervalproducten van Thorium-232 (ook wel
+              de vervalreeks genoemd). Deze vervalreeks
+              eindigt bij het stabiele isotoop Pb-208.
+
+              In de vervalreeks van Th-232 zitten meerdere β−-stralers. Meitner was
+              vooral geïnteresseerd in twee specifieke β−-stralers. Omdat Meitner nog
+              niet in staat was om de afzonderlijke isotopen in het preparaat te
+              identificeren, noemde ze deze β−-stralers ‘Th-A’ en ‘Th-B’. Zie figuur 2,
+              de isotoop ’X’ is een onbekende α-straler.
+
+              figuur 2
+
+
+
+
+              Wat Meitner ‘Thorium A’ noemde blijkt een isotoop van lood te zijn.
+3p   10       Leg dit uit aan de hand van de laatste drie vervalprocessen van de
+              vervalreeks in figuur 2.
+
+              Een aantal van de gebruikte thorium-preparaten wordt nog steeds
+              bewaard in het Max Planck Instituut in Berlijn. De activiteit van de twee
+              β−-stralers, die beide een halveringstijd hebben van minder dan één dag,
+              is in meer dan 100 jaar nauwelijks afgenomen.
+2p   11       Leg uit waardoor de activiteit van de twee β−-stralers constant is
+              gebleven.
+
+
+
+
+VW-1023-a-o                                   6 / 15                            lees verder ►►►
+              Elk van de isotopen in de vervalreeks zendt gammafotonen uit met
+              specifieke energieën. Daardoor straalt een Th-232-preparaat een
+              herkenbaar spectrum van gamma-energieën uit. Figuur 3 geeft
+              meetwaarden weer van een Th-232-preparaat.
+
+              figuur 3
+
+
+
+
+              Meitner gebruikte ijzeren plaatjes (dikte 2,5 mm) om haar
+              meetinstrumenten van te maken. Dit materiaal houdt slechts een klein
+              gedeelte van de gammafotonen van het preparaat tegen. In figuur 4 is
+              voor ijzer de relatie weergegeven tussen de energie van de
+              gammastraling en de halveringsdikte.
+
+              figuur 4
+
+
+
+
+4p   12       Bepaal hoeveel procent van de meest doordringende gammafotonen uit
+              een Th-232-preparaat wordt tegengehouden door het ijzer.
+
+
+
+
+VW-1023-a-o                                  7 / 15                          lees verder ►►►
+              Voor haar onderzoek naar β−-deeltjes ontwierp Meitner de zogenaamde
+              magnetische spectrometer. Zie figuur 5.
+
+              figuur 5
+
+
+
+
+              Het thorium-preparaat is geplaatst bij I in figuur 5. Vervolgens wordt er
+              een vacuüm gecreëerd in de spectrometer. De β−-straling komt door een
+              spleet (II in figuur 5) met hoge snelheid een halfronde ruimte in. Onder
+              invloed van een sterk homogeen magnetisch veld voeren de β--deeltjes
+              een eenparige cirkelbeweging uit, waarna ze bij III op een fotogevoelige
+              plaat terechtkomen. Op de plaats waar de β−-deeltjes het fotogevoelige
+              materiaal treffen, vindt een verkleuring plaats. De verkleuring is een maat
+              voor het aantal deeltjes dat op die locatie de plaat heeft getroffen.
+
+              Figuur 5 staat vereenvoudigd op de uitwerkbijlage.
+3p   13       Voer de volgende opdrachten uit op de uitwerkbijlage:
+               Geef met een pijl de richting aan van de Lorentzkracht die in punt P op
+                 het β−-deeltje werkt.
+               Geef de richting aan van het magnetisch veld in de spectrometer. Licht
+                 je keuze toe.
+
+
+
+
+VW-1023-a-o                                   8 / 15                            lees verder ►►►
+              Met haar magnetische spectrometer deed Meitner onderzoek aan de twee
+              β−-stralers Th-A en Th-B. In figuur 6 is het meetresultaat van haar
+              onderzoek, de fotogevoelige plaat, weergegeven. De linkerkant van de
+              plaat bevond zich in de opstelling het dichtst bij de spleet (II in figuur 5).
+
+              figuur 6
+
+
+
+
+              Voor de straal van de cirkelbaan die een bètadeeltje aflegt in de
+              spectrometer geldt:
+
+                        p
+                  r                                    (1)
+                       Bq
+
+              Hierin is:
+               r de straal van de cirkelbaan
+               p de impuls van het β--deeltje
+               B de sterkte van het magnetisch veld in de spectrometer
+               q de lading van het β--deeltje
+
+5p   14       Voer de volgende opdrachten uit:
+               Leid formule (1) af met behulp van formules uit het informatieboek.
+               Leg met behulp van formule (1) en figuur 6 uit welke β−-straler, Th-A
+                 of Th-B, de meest energierijke β−-deeltjes produceert.
+
+              In eerdere onderzoeken werd via vergelijkbare experimenten het gedrag
+              van α-deeltjes onderzocht. Hierbij produceerde elke α-straler een dunne
+              scherpe lijn. Meitner was daarom erg verrast toen ze geen scherpe lijnen
+              waarnam, maar brede verkleurde gebieden (zie figuur 6). Dit leek direct in
+              te gaan tegen de wet van behoud van energie, want Meitner ging ervan uit
+              dat er tijdens bètaverval een vaste hoeveelheid energie vrijkwam voor het
+              β−-deeltje.
+              Het duurde nog vele jaren voordat deze baanbrekende waarnemingen van
+              Meitner verklaard konden worden. Bij β−-verval ontstaat naast het
+              β−-deeltje namelijk nog een tweede deeltje, het neutrino.
+
+              Neutrino’s krijgen tijdens bètaverval niet allemaal dezelfde hoeveelheid
+              energie mee.
+2p   15       Leg uit hoe dit volgt uit de meetresultaten van figuur 6.
+
+
+
+
+VW-1023-a-o                                    9 / 15                             lees verder ►►►
+      Dualiteit
+
+              Een belangrijk principe in de quantumfysica is de golf-deeltjedualiteit.
+              In deze opgave passen we dit dualiteitsprincipe toe op het dubbelspleet-
+              experiment met licht. In dit experiment valt zichtbaar licht met één
+              golflengte op twee smalle spleten en ontstaat op een scherm achter de
+              spleten een interferentiepatroon van maxima en minima. Zie figuur 1.
+
+              figuur 1
+
+
+
+
+1p   16       Geef de naam van het soort interferentie dat optreedt bij de pijl op het
+              scherm in figuur 1.
+
+              Bij het dubbelspleet-experiment kan het interferentiepatroon alleen
+              ontstaan als er bij elk van de twee spleten buiging optreedt.
+
+3p   17       Voer de volgende opdrachten uit:
+               Leg uit in welke orde van grootte de breedte van de spleten maximaal
+                 mag zijn om het patroon van figuur 1 mogelijk te maken. Kies hierbij
+                 uit: mm, μm, nm, pm.
+               Geef aan wat je op het scherm zou zien als er geen buiging zou zijn.
+
+
+
+
+VW-1023-a-o                                   10 / 15                            lees verder ►►►
+              Een moderne variant van het dubbelspleetexperiment is het zogenaamde
+              kofferexperiment van de Universiteit Twente. Met dit kofferexperiment kan
+              bijvoorbeeld tijdens een les natuurkunde geëxperimenteerd worden. De
+              koffer bevat een opstelling met een laser. De laserbundel wordt gericht op
+              een filter dat slechts een heel klein gedeelte van de fotonen doorlaat. De
+              fotonen die worden doorgelaten gaan vervolgens door een dubbelspleet.
+              In het gebied achter de dubbelspleet tellen 100 detectoren op een rij de
+              inkomende fotonen. Zie figuur 2.
+
+              figuur 2
+
+
+
+
+              De aanwezigheid van de filter zorgt ervoor dat het vermogen van het
+              laserlicht (   635 nm ) achter de filter extreem laag is, 5 1010 W.
+              Hierdoor zal in de praktijk op elk tijdstip gemiddeld maar één foton te
+              vinden zijn in het gebied tussen de filter en de dubbelspleet.
+5p   18       Toon met een berekening aan dat dit klopt.
+
+
+
+
+VW-1023-a-o                                   11 / 15                            lees verder ►►►
+              Het aantal getelde fotonen per detector (nfoton) kan tijdens het experiment
+              zichtbaar gemaakt worden in een diagram. Hoe langer het experiment
+              duurt, hoe meer fotonen door de spleten zijn gegaan en hoe duidelijker
+              een patroon van pieken en dalen in het diagram zichtbaar wordt.
+
+              figuur 3
+
+
+
+
+              In figuur 3 is de situatie weergegeven nadat er 1,0 1010 fotonen zijn
+              gedetecteerd. Uit figuur 3 volgt dat de kans (of waarschijnlijkheid) dat een
+              foton in de centrale piek (van detector 43 tot en met detector 55)
+              terechtkomt 47% is.
+2p   19       Leg uit hoe je deze kans kunt bepalen.
+
+              Bente is aanwezig bij het kofferexperiment in haar klas. Zij vraagt zich af
+              wat er gebeurt wanneer het allereerste foton door de opstelling gaat.
+              Omdat het patroon van figuur 3 dan nog moet worden opgebouwd, denkt
+              ze dat de kans 13% is dat de middelste detectoren (43 tot en met 55) dit
+              eerste foton detecteren.
+2p   20       Leg uit of Bente gelijk heeft.
+
+              In het kofferexperiment vertoont licht zowel golfgedrag als
+              deeltjesgedrag (golf-deeltjedualiteit).
+2p   21       Voer de volgende opdrachten uit:
+               Geef een voorbeeld van het golfgedrag van licht tijdens het
+                  kofferexperiment.
+               Geef een voorbeeld van het deeltjesgedrag van licht tijdens het
+                  kofferexperiment.
+
+
+
+
+VW-1023-a-o                                   12 / 15                            lees verder ►►►
+      Latin American Tower
+
+              Op 19 september 1985 trilde de grond onder            figuur 1
+              Mexico-Stad hevig gedurende drie minuten. Vele
+              gebouwen stortten in, maar de 182 m hoge Latin
+              American Tower (zie figuur 1) doorstond de
+              aardbeving zonder noemenswaardige schade.
+              Hetzelfde gold voor de meeste lage gebouwen in de
+              stad.
+
+              Gebouwen hebben eigenfrequenties die gemeten
+              kunnen worden. Wanneer een gebouw tijdens een
+              aardbeving begint te trillen in zijn laagste
+              eigenfrequentie (de grondtoon, f grond ), kunnen er
+              ernstige beschadigingen aan het gebouw optreden.
+
+
+
+              De (u,t)-grafiek in figuur 2 laat een meting zien van de horizontale
+              uitwijking van de top van de Latin American Tower na een kleinere
+              aardbeving dan die van 1985. De toren trilde daarbij in haar grondtoon.
+
+              figuur 2
+
+
+
+
+              Figuur 2 is vergroot weergegeven op de uitwerkbijlage.
+3p   22       Bepaal met behulp van de figuur op de uitwerkbijlage de frequentie van
+              de grondtoon van de Latin American Tower. Noteer je antwoord in drie
+              significante cijfers.
+
+              Op de uitwerkbijlage is de beweging van de top van de toren in de eerste
+              seconden van de meting te zien.
+4p   23       Bepaal met behulp van de figuur op de uitwerkbijlage de gemiddelde
+              versnelling van de top van de Latin American Tower in het traject van
+              u  0, 20 m naar u  0 m. Noteer je antwoord in twee significante cijfers.
+
+
+
+
+VW-1023-a-o                                   13 / 15                           lees verder ►►►
+              Voor haar profielwerkstuk onderzoekt Sara het trilgedrag van de Latin
+              American Tower. Het trilgedrag van hoge gebouwen laat ook boventonen
+              zien.
+
+              Bij een liniaal die aan één kant is ingeklemd zijn de grond- en boventonen
+              te berekenen met:
+                                 v
+                  f  (2n  1)                         (1)
+                                 4l
+              Hierin is:
+               f de frequentie van de grond- of boventoon
+               n een geheel getal dat verwijst naar de grond- of boventoon
+               v de golfsnelheid
+               l de lengte van de liniaal
+
+2p   24       Leid formule (1) af met behulp van formules uit het informatieboek.
+
+              In figuur 3 zijn twee van de gemeten boventonen van de Latin American
+              Tower weergegeven.
+
+              figuur 3
+                                                                        f (Hz)
+              eerste boventoon van de Latin American Tower               0,654
+              tweede boventoon van de Latin American Tower               1,03
+
+              Sara formuleert de hypothese dat de verhouding tussen de eerste en de
+              tweede boventoon van de Latin American Tower overeenkomt met die van
+              een liniaal die aan één kant is ingeklemd.
+4p   25       Toon aan of Sara’s hypothese klopt binnen een marge van 10%.
+
+
+
+
+VW-1023-a-o                                  14 / 15                             lees verder ►►►
+              Van een groot aantal gebouwen zijn zowel de hoogte h als de
+              grondfrequentie fgrond bepaald. In figuur 4 zijn deze meetwaarden uitgezet
+              in een grafiek. In de grafiek is ook de trendlijn getekend. Deze geeft het
+              gemeten verband weer tussen de grootheden h en f grond .
+
+              figuur 4                                                   figuur 5
+
+                                                                          grondfrequentie            hoogte
+                                                                               (Hz)                    (m)
+                                                                                  0,5                 96
+                                                                                  1,5                 32
+                                                                                  2,5                 20
+                                                                                  4,0                 12
+
+
+
+
+              Sara vermoedt dat de trendlijn in figuur 4 een omgekeerd evenredig
+              verband laat zien. Ze bepaalt van een aantal punten op de trendlijn de
+              coördinaten. Haar resultaten zijn in figuur 5 weergegeven. Deze tabel
+              staat ook op de uitwerkbijlage.
+2p   26       Toon met behulp van de tabel op de bijlage aan of de vier punten aan een
+              omgekeerd evenredig verband voldoen.
+
+              Tijdens de aardbeving van 1985 begon de zachte bodem onder Mexico-
+              Stad heftig te trillen. Vooral gebouwen met een hoogte tussen 25 m en
+              70 m liepen hierbij grote schade op. Uit dit gegeven kan, met behulp van
+              de figuur op de uitwerkbijlage, bepaald worden tussen welke twee
+              waarden de frequentie van de bodemtrillingen waarschijnlijk heeft
+              gelegen.
+3p   27       Bepaal met behulp van de figuur op de uitwerkbijlage deze minimum- en
+              maximumfrequentie. Geef in de figuur iedere frequentie aan met een
+              verticale lijn.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-o                                              15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

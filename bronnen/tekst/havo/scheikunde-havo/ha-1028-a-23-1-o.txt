@@ -1,0 +1,630 @@
+                                                                    Examen HAVO
+
+                                                                          2023
+                                                                                  tijdvak 1
+                                                                        donderdag 11 mei
+                                                                         13.30 - 16.30 uur
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 34 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald kunnen
+worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg, berekening
+of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd. Als er
+bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen, dan
+worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-23-1-o
+      Zonnebrandstof
+
+
+            tekstfragment
+
+
+            “Iedere dertig minuten vangt de aarde een hoeveelheid zonlicht op
+            waarmee we de hele wereld een jaar lang van energie kunnen voorzien.
+            Hier ligt voor ons de uitdaging. We moeten gebruikmaken van deze
+            mogelijkheid.” Met deze woorden opende toenmalig kroonprins
+            Willem Alexander in 2011 een seminar in Dresden.
+
+            naar: www.groenegrondstoffen.nl
+
+
+            Wetenschappers hebben iets bedacht om zonlicht te kunnen gebruiken als
+            ‘zonnebrandstof’. Voor deze zonnebrandstof wordt zonne-energie gebruikt die
+            is opgevangen door zonnecellen, om water te ontleden tot waterstof en zuurstof.
+            De gevormde waterstof wordt vervolgens door de genetisch aangepaste
+            bacteriesoort R. eutropha met koolstofdioxide omgezet tot de zonnebrandstof
+            isopropylalcohol (IPA). Dit proces is vereenvoudigd weergegeven in figuur 1a.
+
+            figuur 1
+
+
+
+
+                               zonnecel
+
+
+            elektrode A                   CO2    elektrode B
+
+
+                                                              reactor met
+                                                             zoutoplossing
+                            4 H+ + O2      H2
+
+                            2 H2O         2 H+                                        H
+                                                                                    H O      H
+                          H2 + CO2   IPA                       bacterie
+                                                                                H C     C    C H
+                                                                                    H H      H
+
+            1a. reactor voor het maken van zonnebrandstof                    1b. structuurformule IPA
+
+            Het proces in figuur 1a heeft overeenkomsten met de natuurlijke fotosynthese.
+            Beide processen hebben bijvoorbeeld zonlicht als energiebron nodig.
+
+
+
+
+HA-1028-a-23-1-o                                    2 / 14                                  lees verder ►►►
+2p    1     Geef nog twee andere overeenkomsten tussen de hierboven beschreven
+            vorming van zonnebrandstof en fotosynthese.
+
+            Isopropylalcohol (IPA) is een triviale naam. De structuurformule van IPA is in
+            figuur 1b weergegeven.
+
+2p    2     Geef de systematische naam van IPA.
+
+            Een van de stappen in het proces waarbij bacteriën IPA produceren, is de
+            omzetting van waterstof tot waterstofionen met behulp van ‘hydrogenasen’.
+            Een hydrogenase is een enzym met in het reactieve deel onder andere
+            ijzeratomen. In figuur 2 is een fragment van een hydrogenase vereenvoudigd
+            weergegeven. Het zwavelatoom in de restgroep van de cysteïne-eenheid is
+            gebonden aan een ijzeratoom (Fe) in plaats van aan een waterstofatoom.
+            Deze binding is op te vatten als een atoombinding.
+
+            figuur 2
+
+
+                   Fe
+                   Cys Thr
+
+
+4p    3     Geef de structuurformule van het fragment uit figuur 2. Gebruik
+            Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+            De omzetting van waterstof tot waterstofionen door het enzym is een
+            halfreactie.
+
+2p    4     Leg uit, aan de hand van deze halfreactie, of voor deze omzetting van
+            waterstof een oxidator of een reductor nodig is. Gebruik eventueel
+            Binas-tabel 48 of ScienceData-tabel 9.1f.
+
+
+
+
+HA-1028-a-23-1-o                              3 / 14                             lees verder ►►►
+            De wetenschappers hebben onderzocht of het mogelijk is om bacteriën
+            doelgericht IPA te laten produceren. Daarvoor hebben ze een experiment
+            uitgevoerd waarbij waterstof en koolstofdioxide worden geleid door een
+            suspensie van bacteriën in een verdunde zoutoplossing. De bacteriën kunnen
+            zich in dit mengsel voortplanten. De groei van het aantal bacteriën in het
+            mengsel werd gemeten. Hiervoor werd een maat gebruikt die de ‘optische
+            dichtheid’ wordt genoemd. Hoe hoger de optische dichtheid, hoe meer
+            bacteriën er in het mengsel aanwezig waren. Ook de productie van IPA door
+            de bacteriën werd in de tijd gemeten. Beide resultaten zijn weergegeven in
+            figuur 3.
+
+            figuur 3
+
+                       3,0
+            optische
+            dichtheid 2,5
+
+                       2,0                                          200
+                                                                        concentratie
+                       1,5                                          150 IPA (mg L−1)
+
+                       1,0                                          100
+
+                       0,5                                          50
+
+                         0                                           0
+                             0   20    40     60    80     100 120
+                                                         tijd (uren)
+                             Legenda
+                                  verloop optische dichtheid
+                                  verloop concentratie IPA
+
+
+            Als hun voedingsstoffen (zoals de zoutoplossing) opraken, stoppen de
+            bacteriën met zich te vermenigvuldigen en gaan ze IPA produceren. In het
+            beschreven experiment gebeurt dit wanneer de optische dichtheid van 2,4 is
+            bereikt.
+
+2p    5     Bereken de gemiddelde snelheid in mg IPA per liter per uur waarmee IPA wordt
+            gevormd tussen 50 en 72 uur na de start van het experiment.
+
+
+
+
+HA-1028-a-23-1-o                                     4 / 14                            lees verder ►►►
+            Om IPA van het reactiemengsel te scheiden, wordt de suspensie met bacteriën
+            gefiltreerd. Het filtraat bevat water en onder andere opgelost IPA. Hieraan
+            wordt vervolgens zo veel keukenzout toegevoegd dat IPA en water zich als
+            twee lagen van elkaar scheiden. Deze scheidingsmethode heet ‘uitzouten’.
+            Door toevoeging van het zout raken alle watermoleculen betrokken bij de
+            hydratatie van ionen uit het keukenzout. IPA-moleculen vormen dan
+            waterstofbruggen met elkaar en niet meer met watermoleculen. Op de
+            uitwerkbijlage zijn twee IPA-moleculen weergegeven.
+
+2p    6     Voer de volgende opdrachten uit op de uitwerkbijlage.
+            – Teken een waterstofbrug tussen beide IPA-moleculen.
+            – Teken de structuurformule van een derde IPA-molecuul dat met een
+               waterstofbrug aan een van de andere IPA-moleculen is gebonden.
+
+            Het proces dat beschreven wordt in deze opgave en wordt samengevat in
+            figuur 1a, heeft eigenschappen van een batchproces.
+
+1p    7     Beschrijf een verschil op procesniveau tussen een batchproces en een
+            continuproces.
+
+            IPA is een energiedrager en heeft een hoge energiedichtheid. De energie-
+            dichtheid van een brandstof is de hoeveelheid energie die vrijkomt bij de
+            volledige verbranding van een bepaalde hoeveelheid van die brandstof.
+            De energiedichtheid van vloeibare brandstoffen wordt vaak uitgedrukt in
+            megajoule per liter (MJ L–1). De volledige verbranding van IPA is hieronder met
+            een vergelijking weergegeven.
+
+            2 C3H8O (l) + 9 O2 (g) → 6 CO2 (g) + 8 H2O (l)
+
+            De reactiewarmte van deze reactie is −20,1∙105 J mol–1 IPA.
+
+3p    8     Laat door middel van een berekening zien dat de reactiewarmte van de
+            volledige verbranding van IPA gelijk is aan −20,1∙105 J mol–1 IPA.
+            – Gebruik Binas-tabel 57A of ScienceData-tabel 9.2.
+            – Gebruik voor de vormingswarmte van IPA: −3,18∙105 J mol–1.
+
+3p    9     Bereken de energiedichtheid van IPA in MJ L–1.
+            Gebruik de volgende gegevens:
+            – de reactiewarmte voor de volledige verbranding van IPA:
+               −20,1∙105 J mol–1 IPA
+            – de dichtheid van IPA: 785 g L–1
+            – 1 MJ = 106 J
+
+
+
+
+HA-1028-a-23-1-o                             5 / 14                            lees verder ►►►
+      Alpaca
+
+
+            Tom koopt een gedenkmuntje bij een dierentuin. Het muntje is gemaakt van
+            alpaca, een legering van koper, nikkel en zink. Het materiaal wordt vanwege
+            zijn luxe, zilverkleurige uitstraling ook wel nikkelzilver genoemd.
+
+3p    10    Voer de volgende opdrachten uit:
+            – Geef de naam van het type kristalrooster van alpaca.
+            – Geef een beschrijving van het kristalrooster van alpaca.
+
+            Er zijn verschillende soorten alpaca. Elke soort bevat een specifieke
+            verhouding van de elementen koper, nikkel en zink. Het gedenkmuntje is
+            gemaakt van ‘alpaca-12’. Alpaca-12 bevat 12,0 massaprocent nikkel. Tom heeft
+            met een proefje het massapercentage koper en het massapercentage zink in
+            het muntje bepaald. Hierbij heeft hij zijn muntje in voldoende 6,0 M zoutzuur
+            gebracht. Zowel nikkel als zink reageert volledig met zoutzuur, volgens
+            onderstaande reacties. Koper reageert niet.
+
+            Ni + 2 H+ → Ni2+ + H2
+            Zn + 2 H+ → Zn2+ + H2
+
+2p    11    Bereken de pH van 6,0 M zoutzuur. Geef de uitkomst in het juiste aantal
+            significante cijfers.
+
+            De reactie van Ni met H+ en die van Zn met H+ zijn van hetzelfde reactietype.
+
+2p    12    Leg uit of de reactie van Ni met H+ een redoxreactie is. Gebruik formules uit
+            bovenstaande reactievergelijking.
+
+            Tom had behalve 6,0 M zoutzuur ook zoutzuur met een hogere pH tot zijn
+            beschikking.
+
+2p    13    Leg uit dat het gedenkmuntje langzamer reageert bij gebruik van zoutzuur met
+            een hogere pH. Gebruik in je uitleg het botsende-deeltjesmodel.
+
+            Nadat de reactie van nikkel en zink met zoutzuur is afgelopen, heeft Tom de
+            overgebleven vaste stof gespoeld en gedroogd. Daarna heeft hij de massa
+            ervan bepaald. Uit de volgende gegevens heeft hij de massapercentages van
+            koper en zink berekend:
+            – Alpaca-12 bevat 12,0 massaprocent nikkel.
+            – De massa van het muntje vóór de reactie bedroeg 12,9 g.
+            – De massa van de overgebleven vaste stof na de reactie bedroeg 8,3 g.
+
+2p    14    Bereken de massapercentages van koper en zink in dit muntje van alpaca-12.
+
+
+
+
+HA-1028-a-23-1-o                             6 / 14                             lees verder ►►►
+      Chemie in olieverf
+
+
+            Olieverf is een vloeibaar mengsel van kleurpigmenten en een olie, meestal
+            lijnzaadolie. Lijnzaadolie bestaat uit triglyceriden. Triglyceriden zijn tri-esters
+            van glycerol en vetzuren. In figuur 1a is de structuurformule weergegeven
+            van een triglyceridemolecuul dat in lijnzaadolie voorkomt. In figuur 1b is een
+            triglyceridemolecuul schematisch weergegeven.
+
+            figuur 1
+
+                                 O
+                        H2C O    C   C17H33
+                   O
+            H29C17 C O C H
+                                 O
+                        H2C O    C   C17H29
+
+                           1a                                       1b
+
+            De triglyceriden in lijnzaadolie bevatten veel C=C-bindingen.
+
+2p    15    Leg uit hoeveel C=C-bindingen voorkomen in het triglyceridemolecuul in
+            figuur 1a.
+            – Gebruik de structuurformule.
+            – Gebruik eventueel Binas-tabel 67G2 of ScienceData-tabel 13.2g.
+
+            In het verleden werd in gele olieverf het kleurpigment Pb3O4 gebruikt. Nadat de
+            gele olieverf op het doek is aangebracht, treden verschillende soorten reacties
+            op waardoor de olieverf langzaam hard wordt. In deze opgave worden drie
+            soorten reacties besproken, die in willekeurige volgorde kunnen plaatsvinden:
+            reactie 1: vorming van crosslinks
+            reactie 2: hydrolyse van triglyceriden
+            reactie 3: reactie van Pb3O4 met vetzuren
+
+            Bij reactie 1 reageren de CH2-groepen náást de C=C-bindingen in
+            triglyceridemoleculen met zuurstofmoleculen uit de lucht. Hierbij worden
+            crosslinks tussen triglyceridemoleculen gevormd, zoals schematisch is
+            weergegeven in figuur 2 op de volgende bladzijde.
+
+
+
+
+HA-1028-a-23-1-o                                7 / 14                               lees verder ►►►
+            figuur 2
+
+              Legenda
+                 crosslink
+                   triglyceridemolecuul
+
+
+
+                                                + zuurstof
+
+
+
+
+2p    16    Leg uit op microniveau hoe door het ontstaan van crosslinks de
+            vervormbaarheid van de olieverf afneemt.
+
+            Bij reactie 2 worden sommige estergroepen van de verschillende
+            triglyceridemoleculen gehydrolyseerd. Hierbij ontstaan onder andere
+            vetzuurmoleculen. Op de uitwerkbijlage bij vraag 17 is de vergelijking van een
+            hydrolysereactie in olieverf onvolledig weergegeven. Bij deze hydrolyse wordt
+            uitsluitend het vetzuur palmitinezuur afgesplitst. Het triglyceridemolecuul op
+            de uitwerkbijlage is een ander molecuul dan in figuur 1a.
+
+3p    17    Maak op de uitwerkbijlage de reactievergelijking van deze hydrolyse af.
+            – Gebruik structuurformules voor de koolstofverbindingen.
+            – Geef de koolwaterstofgedeeltes op dezelfde manier weer als in het
+               weergegeven triglyceridemolecuul.
+            – Gebruik Binas-tabellen 67G1 en G2 of ScienceData-tabellen 13.2f en 13.2g.
+
+            De vetzuurmoleculen die bij reactie 2 door de hydrolyse van triglyceriden zijn
+            afgesplitst, reageren met het pigment Pb3O4 volgens reactie 3, die hieronder
+            onvolledig is weergegeven:
+
+            8 R-COOH + Pb3O4 → 8 R-COO– + … Pb… + … Pb… + 4 H2O (reactie 3)
+
+            De vetzuurmoleculen en de zuurrestionen zijn in bovenstaande vergelijking
+            weergegeven met de formules R-COOH en R-COO–. Hierbij stelt R een
+            willekeurig koolwaterstofgedeelte voor.
+
+2p    18    Leg uit dat reactie 3 een zuur-basereactie is. Geef hierbij aan welk deeltje als
+            zuur en welk deeltje als base reageert.
+
+2p    19    Geef de formules van de twee soorten loodionen die in Pb3O4 aanwezig zijn en
+            geef de molverhouding waarin deze twee ionsoorten in Pb3O4 voorkomen.
+            Noteer je antwoord als volgt: Pb… : Pb… = … : …
+
+
+
+
+HA-1028-a-23-1-o                              8 / 14                              lees verder ►►►
+            De eerder beschreven hydrolyse (reactie 2) en de vervolgreactie met Pb3O4
+            (reactie 3) kunnen ook optreden bij gecrosslinkte triglyceriden die zijn ontstaan
+            door reactie 1. Het door hydrolyse afgesplitste vetzuurmolecuul is in dat geval
+            via een crosslink verbonden met een ander triglyceride. Zo ontstaat er door
+            reactie 3 een gecrosslinkt R-COO–-ion in plaats van een vrij R-COO–-ion.
+            Zowel de vrije R-COO–-ionen als de gecrosslinkte R-COO–-ionen binden de
+            loodionen. Door het binden met loodionen wordt de verflaag extra stevig.
+            Het ontstane netwerk is in figuur 3 schematisch weergegeven.
+
+            figuur 3
+
+
+
+
+                                                           -
+                                                                                2
+                                                                    -
+
+
+
+
+                   Legenda                                      -           -
+                             crosslink
+                                                                        1
+                   -         R-COO─
+
+                             loodion
+
+
+
+2p    20    Geef aan welk bindingstype in figuur 3 is aangeduid met het cijfer 1 en welk
+            bindingstype is aangeduid met het cijfer 2. Noteer je antwoord als volgt:
+            bindingstype bij 1: …
+            bindingstype bij 2: …
+
+            Op sommige schilderijen zijn na honderden jaren de gele kleuren vervaagd
+            doordat witte vlekjes zijn ontstaan op het oppervlak van deze schilderijen.
+            Deze witte vlekjes bevatten voornamelijk verbindingen van loodionen met
+            R-COO–-ionen die afkomstig zijn van verzadigde vetzuren uit de gebruikte olie.
+            De witte vlekjes zijn ontstaan doordat beide ionsoorten zich langzaam naar het
+            oppervlak van de verflaag verplaatsten.
+
+2p    21    Voer de volgende opdrachten uit:
+            – Geef een structuurkenmerk dat een onverzadigd vetzuur onderscheidt van
+               een verzadigd vetzuur.
+            – Licht toe, aan de hand van dit structuurkenmerk, dat R-COO–-ionen die
+               afkomstig zijn van verzadigde vetzuren binnen de verf kunnen bewegen.
+               Gebruik eventueel figuur 3.
+
+
+HA-1028-a-23-1-o                              9 / 14                                lees verder ►►►
+      Kunstgrasmat
+
+
+            Al sinds 1964 worden kunstgrasmatten gebruikt, bijvoorbeeld voor
+            voetbalvelden. Een bepaald type kunstgrasmat bestaat uit een onderlaag van
+            bijvoorbeeld rubber of polypropeen waaraan kunstgrassprieten zijn bevestigd.
+            Een grondstof voor rubber is butaan-1,3-dieen.
+
+3p    22    Geef de structuurformule van butaan-1,3-dieen.
+
+            Het materiaal waarmee de kunstgrassprieten worden gemaakt, is in de loop der
+            jaren verbeterd. De sprieten worden steeds sterker, veerkrachtiger en
+            duurzamer. LLDPE is een veelgebruikte materiaalsoort voor kunstgrassprieten.
+            LLDPE is een copolymeer dat wordt gevormd door additie van voornamelijk
+            etheen en een kleine hoeveelheid oct-1-een (figuur 1a). De aanwezigheid van
+            oct-1-een zorgt ervoor dat de polymeerketens van LLDPE zijketens bevatten
+            (figuur 1b).
+
+            figuur 1
+
+                               1a                                       1b
+
+                   H   H   H H      H H   H H
+            H C        C   C C      C C C C H
+                           H H      H H H H
+
+                            oct-1-een                     schematische weergave LLDPE-keten
+
+
+            Door middel van extruderen worden van het copolymeer lange polymeervezels
+            gevormd. Deze vezels worden verwerkt in de kunstgrasmat.
+
+2p    23    Leg uit dat LLDPE geschikt is om in een extruder te worden verwerkt.
+            Gebruik in je uitleg figuur 1b.
+
+3p    24    Geef de structuurformule van een fragment uit het midden van een molecuul
+            LLDPE. Dit fragment moet bestaan uit één eenheid etheen en één eenheid
+            oct-1-een.
+
+
+
+
+HA-1028-a-23-1-o                                10 / 14                               lees verder ►►►
+            Figuur 2 geeft een vereenvoudigde weergave van de structuur van het
+            copolymeer. De polymeerketens worden in deze figuur als lange draden
+            voorgesteld. Er zijn delen waarin de ketens evenwijdig zijn gerangschikt.
+            Dit noemen we de kristallijne delen. In andere delen, die amorf worden
+            genoemd, zijn de polymeerketens kriskras door elkaar aanwezig.
+
+            figuur 2
+
+
+                                                Legenda:
+
+                                                        amorf deel
+
+                                                        kristallijn deel
+
+
+
+
+            Een hoger aandeel kristallijne delen verhoogt vooral de sterkte van het
+            kunstgras, terwijl een hoger aandeel amorfe delen het kunstgras juist
+            veerkrachtiger maakt.
+
+3p    25    Leg uit op microniveau of het gebruik van meer oct-1-een in LLDPE het
+            kunstgras sterker of juist veerkrachtiger zal maken. Gebruik eventueel
+            figuren 1 en 2.
+
+            Na ongeveer 10 jaar is een voetbalveld van kunstgras versleten. Het versleten
+            kunstgras kan op verschillende manieren worden verwerkt. Kunstgrasmatten
+            kunnen bijvoorbeeld worden verbrand in energiecentrales. Een versleten
+            kunstgrasmat met een onderlaag van polypropeen en sprieten van LLDPE kan
+            ook gerecycled worden. De mat wordt dan als geheel gesmolten en verwerkt
+            tot één soort kunststofgranulaat. Dit granulaat kan worden gebruikt om
+            bijvoorbeeld verkeerspaaltjes van te maken.
+
+            Bas meent dat bovenstaand recycle-proces past bij het
+            cradle-to-cradle-principe. Alina is het hier niet mee eens.
+
+1p    26    Geef een argument dat Bas kan gebruiken om zijn bewering te ondersteunen.
+1p    27    Geef een argument dat Alina kan gebruiken om haar bewering te ondersteunen.
+
+
+
+
+HA-1028-a-23-1-o                              11 / 14                           lees verder ►►►
+      Scheepvaart over op LNG?
+
+
+            Schepen varen grotendeels op stookolie. Stookolie is een van de
+            destillatiefracties van aardolie. Deze fractie bevat behalve koolwaterstoffen
+            ook zwavelverbindingen. Daardoor komt bij de verbranding in de
+            scheepsmotoren zwaveldioxide (SO2) vrij. De uitstoot van zwaveldioxide, maar
+            ook van koolstofdioxide, stikstofoxiden en fijnstof leidt in havens en steden
+            tot milieuproblemen.
+
+1p    28    Geef een milieuprobleem dat door zwaveldioxide wordt veroorzaakt.
+
+            Een groot cruiseschip verbruikt zoʼn 2,4∙105 kg stookolie per dag. Volgens
+            nieuwe milieueisen moet het gehalte zwavel in stookolie wereldwijd omlaag.
+            In Europa geldt de norm van 0,1 massaprocent S.
+
+4p    29    Bereken het aantal kg zwaveldioxide (SO2) dat maximaal ontstaat bij de
+            verbranding van 2,4∙105 kg stookolie die voldoet aan de Europese norm.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+            LNG (liquified natural gas, ofwel vloeibaar aardgas) is een zwavelvrij alternatief
+            voor stookolie. LNG wordt gemaakt uit aardgas. Aardgas bestaat voornamelijk
+            uit methaan, met kleine hoeveelheden koolstofdioxide, waterstofsulfide (H2S)
+            en waterdamp. In figuur 1 is het productieproces van LNG vereenvoudigd en
+            onvolledig weergegeven.
+
+            figuur 1
+
+             aardgas                                 gereinigd
+             (CH4 met CO2, H2S en H2O)               aardgas                 ...        LNG
+                                         I                       III               IV           opslag
+                          ...
+                                              ...                      ...
+
+                                         II
+                                                    ...
+                                              ...
+
+
+
+
+HA-1028-a-23-1-o                                    12 / 14                                   lees verder ►►►
+            In ruimte I worden CO2 en H2S door middel van een waterige oplossing
+            (oplossing A) uit het aardgas verwijderd. In ruimte II wordt het ontstane
+            mengsel gescheiden. Hierbij worden de gassen CO2 en H2S afgescheiden van
+            oplossing A en in een ander proces verder verwerkt. Oplossing A wordt volledig
+            gerecirculeerd. Neem hierbij aan dat er geen verlies optreedt van water uit
+            oplossing A.
+            Het gereinigde aardgas wordt ‘gedroogd’ in ruimte III. De waterdamp die nog
+            in het aardgas aanwezig is, wordt hier verwijderd. Het gedroogde aardgas gaat
+            naar ruimte IV. Hier wordt het afgekoeld tot het aardgas vloeibaar is geworden.
+            Dit vloeibare aardgas heet LNG. Vervolgens wordt LNG in grote tanks
+            opgeslagen. Het onvolledige blokschema is op de uitwerkbijlage nogmaals
+            weergegeven.
+
+2p    30    Maak het blokschema op de uitwerkbijlage compleet.
+            – Noteer op de stippellijntjes de juiste nummers van de volgende stoffen
+               1 CO2
+               2 gedroogd aardgas
+               3 H 2O
+               4 H 2S
+               5 oplossing A
+            – Je moet sommige nummers meer dan één keer gebruiken.
+            – Verwerk het hergebruik van oplossing A.
+
+            Methyldiëthanolamine (afgekort MDEA)             HO CH2 CH2 N CH2 CH2 OH
+            is een stof die vaak wordt gebruikt in                          CH3
+            oplossing A.
+                                                                          MDEA
+
+2p    31    Leg uit dat MDEA oplosbaar is in water. Gebruik in je uitleg de structuurformule
+            van MDEA.
+
+            In ruimte III wordt gereinigd aardgas      figuur 2
+            ‘gedroogd’. Dit drogen gebeurt met
+            behulp van een zogeheten ‘moleculaire
+            zeef’ (figuur 2). Een moleculaire zeef
+            is geen zeef zoals we die uit de
+            keuken kennen. Het zijn korrels van
+            een stof met veel kleine poriën.
+            Watermoleculen kunnen in de
+            poriën, maar methaanmoleculen
+            zijn daarvoor te groot. In de poriën
+            worden de watermoleculen gebonden.
+            Een moleculaire zeef maakt gebruik         moleculaire zeef
+            van twee scheidingsmethoden.
+
+2p    32    Geef de namen van deze twee scheidingsmethoden.
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+HA-1028-a-23-1-o                             13 / 14                              lees verder ►►►
+             Als het water niet zou worden verwijderd in ruimte III, zou het water in
+             ruimte IV tot problemen leiden. Dit kan worden afgeleid uit de
+             temperatuurgrenzen waarbinnen in ruimte IV vloeibaar aardgas (vloeibaar
+             methaan) wordt verkregen.
+
+3p    33     Leg uit dat water in ruimte IV tot problemen leidt. Voer hiervoor op de
+             uitwerkbijlage de volgende opdrachten uit:
+             – Leid de temperatuurgrenzen af waarbinnen in ruimte IV vloeibaar aardgas
+                 wordt verkregen. Gebruik Binas-tabel 42 of ScienceData-tabel 8.3.
+             – Geef aan waarom water in ruimte IV tot problemen leidt.
+             – Geef een voorbeeld van een probleem dat kan ontstaan wanneer water
+                 achterblijft in ruimte IV.
+
+             In discussies over duurzaamheid van brandstoffen wordt de volgende stelregel
+             gehanteerd: “Hoe lager de C/H-verhouding in een brandstof is, hoe meer
+             energie er zal vrijkomen bij de verbranding van 1 gram stof en hoe minder CO2
+             er wordt gevormd per kJ geproduceerde energie.”
+
+             De C/H-verhouding berekent men als volgt:
+
+                                     aantal C-atomen
+             C/H-verhouding =
+                                     aantal H-atomen
+
+2p    34     Laat zien welke stof het duurzaamst is: LNG (vloeibaar methaan) of stookolie
+             (C30H62). Gebruik in je uitleg een berekening van de C/H-verhoudingen van
+             beide stoffen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende
+correctievoorschrift.
+
+
+
+
+HA-1028-a-23-1-o                                             14 / 14                                                        einde ■
+

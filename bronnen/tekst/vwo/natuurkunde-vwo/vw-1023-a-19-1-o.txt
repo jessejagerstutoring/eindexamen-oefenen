@@ -1,0 +1,742 @@
+                                                                    Examen VWO
+
+                                                                        2019
+                                                                               tijdvak 1
+                                                                         vrijdag 17 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                      natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 28 vragen.
+Voor dit examen zijn maximaal 73 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-19-1-o
+      Dafne Schippers tegen Ireen Wüst
+
+            Het zou kunnen dat hardloopster Dafne Schippers schaatsster Ireen Wüst
+            uit zou dagen voor een wedstrijd over 100 meter: Schippers op de
+            atletiekbaan, Wüst op schaatsen op het ijs. Twee totaal verschillende
+            manieren om snelheid te maken met ongeveer dezelfde eindtijd. Zie
+            figuren 1 en 2.
+
+ figuur 1                                figuur 2
+
+
+
+
+            De tijden die ze nodig hebben voor 100 m liggen dicht bij elkaar: het
+            record van Schippers staat op 10,81 s en de snelste tussentijd van Wüst
+            op 100 m is 10,87 s.
+
+2p    1     Bereken het verschil in gemiddelde snelheid.
+
+
+
+
+VW-1023-a-19-1-o                           2 / 17                           lees verder ►►►
+            In figuur 3 zie je het verloop van de snelheden van beide atleten over de
+            100 m. De figuur staat ook op de uitwerkbijlage.
+
+            figuur 3
+                        12
+            v (m s-1)                                                           Wüst
+                        11
+
+                        10
+                                                                                Schippers
+
+                         9
+
+                         8
+
+                         7
+
+                         6
+
+                         5
+
+                         4
+
+                         3
+
+                         2
+
+                         1
+
+                         0
+                             0   1   2   3   4     5      6   7   8   9   10   11       12
+                                                                                      t (s)
+
+
+3p    2     Bepaal met behulp van de figuur op de uitwerkbijlage de versnelling bij de
+            start van hardloopster Schippers die uit de figuur volgt.
+
+3p    3     Voer de volgende opdrachten uit, gebruikmakend van figuur 3:
+             Geef aan op welk tijdstip de afstand tussen hardloopster Schippers en
+               schaatsster Wüst maximaal is.
+             Geef een toelichting hierbij.
+             Geef aan hoe deze maximale afstand bepaald kan worden.
+               (De bepaling hoeft niet uitgevoerd te worden.)
+
+
+
+
+VW-1023-a-19-1-o                                 3 / 17                             lees verder ►►►
+            Van de sprint van beide atleten is een vereenvoudigd model gemaakt.
+            Daarbij wordt ervan uitgegaan dat de massa’s van beide atleten gelijk
+            zijn. Volgens het model ligt het verschil tussen Wüst en Schippers met
+            name in het resulterend vermogen (netto vermogen) Pres. In figuur 4 staat
+            voor beide atleten Pres als functie van de tijd weergegeven.
+
+            figuur 4
+                   1400
+            Pres
+            (W)
+                   1200
+
+                   1000
+                                  Schippers
+                    800
+
+                    600
+
+                    400
+                                                                   Wüst
+
+                    200
+
+                      0
+                          1   2      3        4    5       6   7     8    9   10     11
+                   -200
+                                                                                   t (s)
+
+
+            Uit het diagram is af te lezen dat voor Schippers geldt:
+            Pres  0 voor t  6,0 s.
+2p    4     Leg uit dat dit overeenkomt met het diagram in figuur 3.
+
+            In het vereenvoudigd model wordt aangenomen, dat op t = 6,0 s de beide
+            atleten een gelijk voortstuwend vermogen leveren.
+            Toch is Pres op dat moment bij hardlopen kleiner dan bij schaatsen.
+2p    5     Leg uit welke conclusie je hieruit kunt trekken over de wrijvingskrachten
+            bij schaatsen en hardlopen.
+
+3p    6     Voer de volgende opdrachten uit:
+             Leg met behulp van figuur 4 uit in welke race de grootste
+               resulterende arbeid wordt geleverd.
+             Leg met behulp van figuur 3 en de relatie tussen arbeid en
+               kinetische energie uit in welke race de grootste resulterende arbeid
+               wordt geleverd.
+
+
+
+
+VW-1023-a-19-1-o                                  4 / 17                                   lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1023-a-19-1-o                        5 / 17   lees verder ►►►
+      PET samen met CLI
+
+            Lees onderstaand artikel.
+
+            Bij een PET-scan wordt een positron uitgezonden door een
+            radioactieve isotoop. Na korte tijd annihileert zo’n positron met een
+            elektron, waarbij in twee tegenovergestelde richtingen fotonen
+            vrijkomen, die geregistreerd worden. Zie figuur 1 voor een PET-scan-
+            apparaat.
+                                             figuur 1
+            Vóórdat de annihilatie
+            plaatsvindt, bewegen de
+            positronen met hoge snelheid
+            door het lichaam van de
+            patiënt. In stoffen zoals water
+            en lichaamsweefsel is de
+            lichtsnelheid kleiner dan de
+            lichtsnelheid in vacuüm.
+            Als de snelheid van een
+            positron groter is dan de
+            lichtsnelheid in het lichaam
+            (0,70 c met c de lichtsnelheid) dan produceert het een blauwachtig
+            licht, Cerenkov-straling genoemd (ook wel gespeld als Cherenkov-
+            straling of Tjerenkov-straling) dat door gevoelige camera’s wordt
+            gedetecteerd. Deze recente techniek wordt CLI (Cerenkov
+            Luminescence Imaging) genoemd. De technieken PET en CLI kunnen
+            gecombineerd worden tot één nieuw systeem van medische
+            beeldvorming: PET samen met CLI.
+
+
+            Kankercellen nemen meer glucose op dan gewone cellen. Om een beeld
+            van kankercellen te vormen, worden radioactieve isotopen ingebouwd in
+            moleculen die sterk op glucose lijken. Een veelgebruikte isotoop is F-18,
+            dat vervalt onder uitzending van een positron.
+
+2p    7     Geef de vervalvergelijking van F-18.
+
+
+
+
+VW-1023-a-19-1-o                            6 / 17                           lees verder ►►►
+            Cerenkov-straling
+            Als een geladen deeltje met een snelheid door lichaamsvocht beweegt,
+            richten de omringende watermoleculen zich ten gevolge van de lading.
+            Dit is weergegeven in de figuren 2a en 2b. De punt geeft de plaats van
+            het deeltje aan. De pijl geeft de bewegingsrichting aan.
+
+            figuur 2a                                  figuur 2b
+            v < 0,70c                                  v > 0,70c
+
+
+
+
+1p    8     Hoe blijkt uit figuur 2 dat het geladen deeltje een positron is en geen
+            elektron?
+
+            Het effect van de bewegende lading op de omringende watermoleculen
+            wordt doorgegeven met de snelheid van het licht in weefsel, dus met
+            0,70c.
+            Een netto elektrisch veld ontstaat door alle gerichte watermoleculen
+            samen. Een veranderend netto elektrisch veld produceert
+            elektromagnetische straling.
+            Alleen als een geladen deeltje met een grotere snelheid dan 0,70c door
+            het weefsel beweegt, is er sprake van een veranderend netto elektrisch
+            veld en wordt er straling uitgezonden, de zogenaamde Cerenkov-straling.
+
+3p    9     Beantwoord de volgende vragen:
+             Geef aan hoe uit figuur 2a blijkt dat hier het netto elektrisch veld gelijk
+               is aan nul.
+             Geef aan hoe uit figuur 2b blijkt dat hier het netto elektrisch veld
+               ongelijk is aan nul.
+             Geef aan hoe het komt dat het netto elektrisch veld in de situatie van
+               figuur 2b zich verplaatst.
+
+
+
+
+VW-1023-a-19-1-o                             7 / 17                             lees verder ►►►
+            Bij elk β+-verval gaat een deel van de vrijkomende energie naar een
+            neutraal en vrijwel massaloos deeltje (een neutrino) dat ook vrijkomt. Als
+            gevolg hiervan hebben niet alle uitgezonden positronen dezelfde energie.
+            Bij een snelheid in de buurt van de lichtsnelheid moet gerekend worden
+            met de relativiteitstheorie. Volgens de relativiteitstheorie hebben
+            positronen met een snelheid van 0,70c een kinetische energie
+            Ek = 0,205 MeV.
+            In figuur 3 staat de verdeling van de door F-18 uitgezonden positronen als
+            functie van hun kinetische energie.
+
+            figuur 3
+
+
+
+
+                                                                De oppervlakte onder de grafiek is
+                                                                een maat voor het aantal
+                                                                positronen, zodat de totale
+                                                                oppervlakte overeenkomt met
+                                                                100% van de positronen.
+
+
+
+
+            0      0,1   0,2   0,3   0,4   0,5   0,6      0,7
+                                                  E (MeV)
+
+            Hieronder staan drie schattingen van het percentage positronen dat direct
+            na uitzending bijdraagt aan Cerenkov-straling in het weefsel.
+            a 40%
+            b 50%
+            c 60%
+2p   10     Leg uit welke schatting de beste is.
+
+            plaatsbepaling
+            Het continue spectrum van Cerenkov-straling bestaat voor een groot deel
+            uit blauwachtig, zichtbaar licht met een lage intensiteit. Deze straling kan
+            inwendig in het lichaam of uitwendig gemeten worden.
+            Bij een uitwendige meting gelden de volgende voorwaarden:
+            a De omgeving is donker.
+            b De te bestuderen tumoren bevinden zich direct onder het
+                huidoppervlak.
+2p   11     Geef voor elk van beide voorwaarden aan waarom die noodzakelijk is.
+
+
+
+
+VW-1023-a-19-1-o                                       8 / 17                             lees verder ►►►
+            Met een geautomatiseerd systeem voor medische beeldvorming kan men
+            uit de intensiteit en richting van de straling de plaats van de stralingsbron
+            reconstrueren. De nauwkeurigheid
+            hiervan wordt bepaald door
+            het natuurkundige proces        figuur 4
+            dat de straling veroorzaakt. neutrino
+            Positronen die door een                                            dPET       γ
+            F-18-kern worden
+            uitgezonden, geven hun                      е+
+                                                 F−18
+            kinetische energie af door
+                                                                                     е−
+            interacties met moleculen
+                                                                  dCLI
+            van het weefsel, vandaar
+            een kronkelige route. Dit is                                         γ
+            schematisch weergegeven
+            in figuur 4.
+
+            dCLI = de afstand die het positron overbrugt terwijl het Cerenkov-straling
+                   uitzendt
+            dPET = de afstand die het positron overbrugt tot het annihileert
+
+            In figuur 5 is een simulatie    figuur 5
+            weergegeven van het                            1          0          1
+            verval van drie F-18-           (mm)
+            kernen. De figuur toont de
+            mogelijke positronsporen
+            door het lichaamsweefsel.           1                                              1
+            De F-18-kern is steeds in
+            de oorsprong geplaatst.
+            Een dik spoor geeft aan dat
+            er Cerenkov-straling wordt          0                                              0
+            uitgezonden.
+
+3p   12     Voer de volgende
+                                                1                                              1
+            opdrachten uit:
+             Leg uit waarom
+               dCLI < dPET.
+             Geef met behulp van de
+               figuren 4 en 5 een                          1          0          1      (mm)
+               schatting van dPET.
+
+2p   13     Leg uit waarom de CLI-meting tot een nauwkeurigere plaatsbepaling komt
+            dan de PET-meting.
+
+
+
+
+VW-1023-a-19-1-o                              9 / 17                             lees verder ►►►
+      In de zon
+
+            De buitenste gebieden van de zon hebben een temperatuur van
+            5,78 103 K. Bij deze temperatuur hoort de planck-kromme van het
+            oppervlak van de zon die is weergegeven in figuur 1. In figuur 2 staat het
+            spectrum van het zonlicht weergegeven, gemeten net buiten de
+            aardatmosfeer.
+
+figuur 1                                                                figuur 2
+                     100                                                         I       2,5
+       I
+(103 W m-2 nm-1)                                                            (W m-2 nm-1)
+                         80                                                              2,0
+
+                         60                                                              1,5
+
+                         40                                                              1,0
+
+                         20                                                              0,5
+
+                          0                                                                 0
+                              0     400     800    1200 1600 2000                               0     400     800    1200 1600 2000
+                                                            λ (nm)                                                            λ (nm)
+
+
+
+            Het grote verschil in de maximale intensiteit van de twee spectra kan
+            ongeveer verklaard worden met behulp van de kwadratenwet.
+4p   14     Laat dit zien met een bepaling.
+
+            Figuur 3 geeft het UV-spectrum (ultraviolet) buiten de dampkring.
+            Figuur 4 geeft het UV-spectrum bij het aardoppervlak midden op een
+            heldere dag rond 21 juni.
+
+ figuur 3                                                              figuur 4
+                   1,6                                                                1,6
+       I                                                                      I
+ (W m-2 nm-1)                                                          (W m-2 nm-1)
+                   1,2                                                                1,2
+
+                   0,8                                                                0,8
+
+                   0,4                                                                0,4
+
+                   0,0                                                                0,0
+                     200          240     280     320   360      400                    200         240     280     320     360      400
+                                                              λ (nm)                                                              λ (nm)
+
+
+
+
+VW-1023-a-19-1-o                                                  10 / 17                                                 lees verder ►►►
+            Figuur 5 geeft de intensiteitsverdeling van het ‘biologisch effectieve
+            UV-spectrum’. Dat is het UV-spectrum van het zonlicht gewogen met de
+            mate waarin de straling schadelijk is voor de onbeschermde menselijke
+            huid. Figuur 5 geldt voor UV bij het aardoppervlak midden op een heldere
+            dag rond 21 juni.
+
+            UV-straling van de zon kan schadelijk zijn voor de huid.
+            Er bestaan drie typen van UV-straling: UV-C, UV-B en UV-A.
+            De mate waarin de drie typen schadelijk zijn voor de huid wordt
+            weergegeven met een weegfactor. In figuur 6 zijn deze weegfactoren
+            weergegeven.
+
+ figuur 5                                                      figuur 6
+                   0,0025                                                           UV-C    UV-B       UV-A
+       I
+ (W m-2 nm-1)
+                   0,0020                                      weegfactor
+                                                                              1
+                                                                              200    240   280   320   360     400
+                   0,0015
+                                                                             0,1
+                   0,0010
+                                                                            0,01
+                   0,0005
+                                                                        0,001
+                   0,0000
+                        200   240   280   320   360      400           0,0001
+                                                      λ (nm)                                                 λ (nm)
+
+
+2p   15     Geef aan waarom UV-C en UV-A nauwelijks of geen bijdrage leveren in
+            het biologisch effectieve UV-spectrum van figuur 5.
+
+            Voor veilige blootstelling van een gevoelige menselijke huid aan UV-licht
+            geldt een bovengrens van 80 J m2.
+            Figuur 5 staat vergroot weergegeven op de uitwerkbijlage.
+4p   16     Bepaal met behulp van de figuur op de uitwerkbijlage de tijd in minuten
+            die een persoon met zo’n huid zich volgens deze grens kan blootstellen
+            aan de zon midden op een heldere dag rond 21 juni.
+
+
+
+
+VW-1023-a-19-1-o                                       11 / 17                                     lees verder ►►►
+            Om veilig gedurende een langere tijd in de zon te kunnen liggen, kan men
+            zonnebrandcrème op de huid smeren. In zonnebrandcrème zit een stof
+            die fotonen met een bepaalde energie kan absorberen. Deze energie
+            moet overeenkomen met een sprong in het energieniveauschema van de
+            stof.
+            In figuur 7 staan twee typen energieniveauschema’s weergegeven. De
+            linker figuur kent discrete niveaus. De rechterfiguur kent twee groepen
+            met zeer veel energieniveaus dicht op elkaar met daartussen een sprong,
+            de zogenaamde ‘band-gap’.
+
+            figuur 7
+            Energieniveau                     Energieniveau
+
+
+
+
+                                   band-gap
+
+
+
+
+            Een stof met een band-gap is beter geschikt voor zonnebrandcrème dan
+            een stof met een discreet energieniveauschema.
+2p   17     Leg uit waarom.
+
+            Voor een goede zonnebrandcrème gelden twee specificaties:
+             De crème absorbeert het UV-B.
+             De crème absorbeert geen zichtbaar licht.
+            In tabel 1 staan drie stoffen met een band-gap gegeven die in
+            zonnebrandcrème verwerkt kunnen worden. De stoffen worden in de vorm
+            van nanodeeltjes toegevoegd aan de crème.
+
+            tabel 1
+              stof                  band-gap-energie (eV)
+              galliumoxide Ga2O3                   4,4
+              titaandioxide TiO2                   3,3
+              zilveroxide Ag2O                     1,5
+
+            Slechts een van de stoffen in tabel 1 is geschikt als werkend bestanddeel
+            in zonnebrandcrème.
+5p   18     Voer de volgende opdrachten uit:
+             Leg uit, onder andere met een berekening, welke stof dat is.
+             Leg uit waarom de andere twee stoffen niet geschikt zijn.
+
+
+
+VW-1023-a-19-1-o                              12 / 17                        lees verder ►►►
+      Ruiken
+
+      Als een mens iets ruikt, betekent dat dat een geurmolecuul in de neus
+      gedetecteerd wordt door een geur-receptor. Ieder mens heeft ongeveer 350
+      verschillende geur-receptoren en kan ongeveer 10.000 verschillende geuren
+      onderscheiden. Om de werking te verklaren zijn twee modellen in omloop: het
+      sleutel-slot-model en het Turin-model.
+
+
+            In figuur 1 is te zien hoe het sleutel-slot-         figuur 1
+            model werkt. Als een geurmolecuul op                   geur-                 receptoren
+            verschillende plaatsen in de receptor                moleculen       1       2        3       4
+            past, wordt door een combinatie van die
+            mogelijkheden de geur van dat molecuul
+            waargenomen.
+
+            Er zijn moleculen die erg van elkaar
+            verschillen en toch dezelfde geur
+            hebben, en er zijn moleculen die bijna
+            gelijk zijn, maar een verschillende geur
+            hebben. Zie de voorbeelden in figuur 2.
+
+                                                                                     sleutel-slot-model
+
+                                                                          Toelichting: In de bovenste
+                                                                          receptor past het geurmolecuul
+                                                                          op de plaatsen 1 en 3.
+            figuur 2a                          figuur 2b
+
+
+
+
+            ruiken hetzelfde
+            benzaldehyde en waterstofcyanide   ruiken verschillend
+            (amandelgeur)                      ferroceen en nikkeloceen
+
+
+1p   19     Geef aan voor een van de twee voorbeelden in figuur 2 waarom voor deze
+            moleculen het sleutel-slot-model niet voldoet.
+
+            Omdat het sleutel-slot-model niet voldeed, kwam de Franse onderzoeker
+            Luca Turin in 1996 met een nieuw model.
+            In het model van Turin bestaat een geur-receptor uit twee delen: de donor
+            D en de acceptor A. Zie figuur 3 en figuur 4.
+
+
+
+
+VW-1023-a-19-1-o                                13 / 17                                      lees verder ►►►
+            figuur 3                     figuur 4
+                                         E(eV)
+
+                                                                               3,14
+                                                 3,00
+                                                                               2,88
+              D             A
+
+
+            geur-receptor
+                                                        D                  A
+
+            Als een elektron van donor D via een geurmolecuul naar acceptor A
+            beweegt, wordt er bij A een signaal afgegeven dat naar de hersenen gaat,
+            waardoor het geurmolecuul wordt waargenomen.
+            Het model van Turin is een combinatie van quantum-tunneling en
+            energieoverdracht. Zie figuur 4 voor een schematische weergave.
+            In figuur 4 bevindt zich een elektron in donor D in het aangegeven
+            energieniveau. Van acceptor A zijn twee energieniveaus weergegeven.
+            Zonder geurmolecuul kan het elektron niet van D naar A gaan.
+            Als een geurmolecuul dat past bij de receptor tussen D en A zit, kan dit
+            geurmolecuul energie opnemen van het elektron zodat het elektron wel
+            van D naar A kan komen.
+
+2p   20     Leg uit in welke van de twee energieniveaus van A het elektron dan komt.
+
+            Een voorbeeld van een geurmolecuul figuur 5
+            is acetofenon. Zie figuur 5.
+            De energie-uitwisseling met het
+            geurmolecuul kan in een
+            vereenvoudigd model worden
+            beschreven. In dit vereenvoudigd
+            model wordt elke C  H -binding van
+            het geurmolecuul beschouwd als een
+            (quantumfysisch) massa-veer-
+            systeem. Zie figuur 6 voor de
+            energieput met de discrete
+            energieniveaus van dit massa-veer-
+            systeem voor een van de             figuur 6
+             C  H -bindingen van acetofenon.
+                                                    n=7
+            Voor de energieniveaus geldt:       E           n=6
+                                                            n=5
+                   En  hf (n  12 ).                        n=4
+                                                              n=3
+
+            Hierin is:                                            n=2
+
+             En De energie van niveau n;
+                                                                   n=1
+                                                                    n=0
+             h De constante van Planck;                           afstand tussen atomen
+             f De frequentie van het
+                                                                        C-¹¹H-binding
+                    massa-veer-systeem.
+
+
+VW-1023-a-19-1-o                          14 / 17                                          lees verder ►►►
+            Als het elektron in figuur 4 van D naar A gaat, neemt de C  H -binding
+            van het geurmolecuul precies zoveel energie van het elektron op dat het
+            massa-veer-systeem één energieniveau omhoog gaat.
+
+3p   21     Bepaal met behulp van figuur 4 en 6 de waarde van f.
+
+            Om te onderzoeken of het model van Turin klopt, heeft een onderzoeker
+            een experiment met fruitvliegjes gedaan. Hij bood twee verschillende
+            geuren aan, waarvan één acetofenon was.
+            De fruitvliegjes hadden een duidelijke voorkeur voor acetofenon.
+            Daarna herhaalde hij het experiment, waarbij hij in acetofenon ‘gewone’
+            waterstofatomen ( 11 H ) verving door deuteriumatomen ( 21 H ).
+            Nu hadden de fruitvliegjes geen voorkeur voor acetofenon.
+            De fruitvliegjes konden dus het verschil tussen acetofenon met gewone
+            waterstofatomen ( 11 H ) en acetofenon met deuteriumatomen ( 21 H ) ruiken.
+
+            Neem aan dat de massa in het massa-veer-systeem de massa is van het
+            waterstofatoom en dat de vervanging van gewoon waterstof door
+            deuterium alleen effect heeft op de massa van het massa-veer-systeem
+            en niet op de veerconstante.
+
+2p   22     Leg uit dat de uitkomst van het experiment een ondersteuning is voor het
+            model van Turin.
+
+            Op de uitwerkbijlage staat figuur 6, de energieput met energieniveaus van
+            een C  11 H -binding van acetofenon weergegeven.
+            Op dezelfde schaal zijn ook nog vier energieputten met energieniveaus
+            weergegeven (I tot en met IV) van dezelfde C  H -binding, waarin nu het
+            gewone waterstof vervangen is door deuterium.
+
+4p   23     Voer de volgende opdrachten uit:
+                                        f deuterium   1
+                  Leid af dat geldt:                   .
+                                        f waterstof    2
+                  Leg daarmee uit welke energieput met energieniveaus op de
+                   uitwerkbijlage past bij de C  21 H -binding van het aangepaste
+                   acetofenon-molecuul.
+
+            In de parfumindustrie worden geurmoleculen die erg duur zijn vervangen
+            door andere moleculen die hetzelfde ruiken. Bij de zoektocht naar
+            vervangende moleculen worden de energieniveaus van het
+            oorspronkelijke molecuul vergeleken met de energieniveaus van het
+            vervangende molecuul.
+1p   24     Aan welke eis moeten de energieniveaus van het vervangende molecuul
+            voldoen?
+
+
+
+
+VW-1023-a-19-1-o                                    15 / 17                          lees verder ►►►
+      Aardlekschakelaar
+
+      Deze opgave gaat over een aardlekschakelaar. Deze werkt op een
+      wisselspanning. De vragen in deze opgave kunnen echter worden beantwoord
+      door de situatie te beschouwen alsof het gaat om gelijkspanning.
+
+
+            Een aardlekschakelaar (zie figuur 1) is een automatisch figuur 1
+            werkende schakelaar die een elektrische installatie
+            spanningsloos maakt zodra er een lekstroom van een
+            bepaalde grootte optreedt.
+            De werking van een aardlekschakelaar berust op een
+            verschilmeting in de stroomsterkte tussen twee draden,
+            de fasedraad en de nuldraad.
+            In figuur 2 is de situatie waarbij een wasdroger is
+            aangesloten op het lichtnet schematisch weergegeven.
+
+            figuur 2
+                                         Ifasedraad
+
+
+            230 V                                              wasdroger
+
+
+                                        Inuldraad
+
+
+            De stroomsterkte door de wasdroger wordt bepaald door het
+            verwarmingselement dat in de wasdroger is opgenomen. Dit
+            verwarmingselement is gemaakt van 42 m koperdraad met een diameter
+            van 0,20 mm.
+4p   25     Bereken de stroomsterkte door het verwarmingselement.
+
+            Door een defect in de wasdroger kan         figuur 3
+            de metalen buitenkant onder spanning
+                                                        Ifasedraad
+            komen te staan en kan er een lekstroom
+            optreden als een persoon de metalen                                  Ilek
+            buitenkant van de wasdroger aanraakt.                     was-
+            Zie figuur 3.                                            droger      lichaam
+            De aardlekschakelaar reageert als er
+            tussen de nuldraad en de fasedraad een Inuldraad
+            verschil van meer dan 30 mA is.
+3p   26     Voer de volgende opdrachten uit:
+             Bereken de grootte van de lichaamsweerstand bij een lekstroom van
+                30 mA.
+             Geef aan of de aardlekschakelaar reageert bij waarden voor de
+                lichaamsweerstand die groter zijn of juist kleiner dan de berekende
+                waarde.
+
+
+
+
+VW-1023-a-19-1-o                             16 / 17                           lees verder ►►►
+            In de aardlekschakelaar lopen figuur 4
+            de fasedraad en de nuldraad
+            door een (week)ijzeren ring.
+            Zie figuur 4. In de figuur op de
+            uitwerkbijlage is een
+                                                                                Ifasedraad
+            vooraanzicht getekend van de
+            situatie uit figuur 4.
+            We nemen aan dat de                                          Inuldraad
+            fasedraad en de nuldraad
+            allebei in het middelpunt van de ring liggen.
+3p   27     Voer de volgende opdrachten uit:
+             Teken met pijlen in de ring de richting van het magnetisch veld voor de
+                fasedraad en voor de nuldraad in de figuur op de uitwerkbijlage.
+             Geef de reden dat er geen netto magnetisch veld in de ring zal
+                ontstaan als de stroomsterkten door de fasedraad en de nuldraad
+                gelijk zijn.
+             Geef de reden dat er wel een netto magnetisch veld in de ring ontstaat
+                als er sprake is van een lekstroom.
+
+            Een grotere lekstroom heeft een groter netto magnetisch veld tot gevolg.
+            Rond de ijzeren ring is een spoel gewikkeld, de zogenoemde
+            detectiespoel. Zie figuur 5. Deze detectiespoel is verbonden met een
+            circuitonderbreker. Als er aan de circuitonderbreker een te hoge
+            spanningspiek wordt aangeboden, verbreekt de circuitonderbreker de
+            verbinding in de fasedraad en de nuldraad. Dit gebeurt op het moment dat
+            er een te groot verschil ontstaat tussen de stroomsterkte in de fasedraad
+            en de stroomsterkte in de nuldraad. Een aardlekschakelaar noemen we
+            gevoeliger als hij de stroom uitschakelt bij een kleinere lekstroom.
+
+            figuur 5
+                       circuitonderbreker
+
+
+
+
+                                             detectiespoel
+
+
+
+
+3p   28     Voer de volgende opdrachten uit.
+             Geef aan door welk natuurkundig principe de spanningspiek ontstaat.
+             Leg uit welke aanpassing men moet doen aan de detectiespoel om de
+               aardlekschakelaar gevoeliger te maken.
+
+
+VW-1023-a-19-1-o                             17 / 17                            lees verdereinde
+                                                                                             ►►► 
+

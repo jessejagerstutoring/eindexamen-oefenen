@@ -1,0 +1,541 @@
+                                                                  Examen HAVO
+
+                                                                        2018
+                                                                               tijdvak 1
+                                                                      maandag 14 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                      natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter dit examen is een erratum opgenomen.
+
+
+
+
+Dit examen bestaat uit 29 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-18-1-o
+      Scheepsradar
+
+            Sommige schepen hebben
+            een radarinstallatie om de
+            afstand tot andere schepen
+            of voorwerpen in de
+            omgeving te meten. Een
+            radarinstallatie zendt
+            hiervoor
+            elektromagnetische
+            signalen uit die weerkaatst
+            worden door een voorwerp.
+            Door de tijd tussen het
+            uitzenden en het ontvangen
+            van een signaal te meten, kan de afstand tot het voorwerp bepaald
+            worden, ook als dat voorwerp zich op grote afstand van het schip bevindt.
+
+            Een veelgebruikt type radar is de pulsradar. Dit type radar zendt een kort
+            elektromagnetisch signaal uit en ontvangt even later de echo van dit
+            signaal. Op een bepaald moment wordt er 0,26 ms gemeten tussen het
+            uitzenden en het ontvangen van een signaal.
+3p    1     Bereken de afstand tot het voorwerp.
+
+            Het signaal is een puls die bestaat uit een aantal opeenvolgende
+            elektromagnetische golven. Deze golven worden gemaakt met een vaste
+            frequentie van 9,38 GHz. Eén puls duurt 0,100 µs. Zie figuur 1.
+
+            figuur 1
+
+
+                               ∆t = 0,100 μs
+
+2p    2     Bereken uit hoeveel golven één puls bestaat.
+
+            Details met afmetingen van 10% van de golflengte zijn door de pulsradar
+            net waar te nemen.
+3p    3     Bereken de minimale afmeting van een voorwerp dat met deze pulsradar
+            waar te nemen is.
+
+            Het bereik van een radar is de grootste afstand die met de radar gemeten
+            kan worden. Het bereik wordt onder andere bepaald door het vermogen
+            van de radar en de oppervlakte van het voorwerp dat de straling
+            reflecteert, ook wel het doel genoemd.
+
+
+
+
+HA-1023-a-18-1-o                               2 / 12                         lees verder ►►►
+            Dit wordt beschreven met de radarvergelijking:
+
+                   r4
+                       constant
+                   PA
+
+            Hierin is:
+             r het bereik (in m);
+             P het vermogen van de radar (in W);
+             A de reflecterende oppervlakte van het doel (in m2).
+
+            Het bereik van een pulsradar is 30 km voor een doel met een
+            reflecterende oppervlakte van 6,0 m2. Bij gelijk vermogen is het bereik van
+            deze radar voor een ander doel gelijk aan 45 km.
+2p    4     Bereken hoe groot de reflecterende oppervlakte van dat andere doel is.
+
+            Het bereik wordt ook bepaald door de herhalingsfrequentie.
+            Dit is de frequentie waarmee de pulsen uitgezonden worden. Een nieuwe
+            puls mag niet uitgezonden worden voordat de vorige puls is ontvangen.
+            Op de uitwerkbijlage staan hierover drie zinnen.
+2p    5     Omcirkel in deze zinnen telkens het juiste alternatief.
+
+            Naast de pulsradar bestaat er ook de breedbandradar. Dit type radar
+            heeft twee antennes, één om continu uit te zenden en één om continu te
+            ontvangen. Het vermogen van de zender blijft constant.
+            Het uitgezonden signaal is schematisch weergegeven in figuur 2.
+
+            figuur 2
+              f
+            (Hz)
+
+
+
+
+                                                                          t (s)
+1p    6     Geef aan of hier sprake is van frequentiemodulatie of van
+            amplitudemodulatie.
+
+            Op de uitwerkbijlage is naast het uitgezonden signaal ook het signaal
+            weergegeven dat de radar ontvangen heeft na weerkaatsing op een
+            reflecterend doel. In deze figuur is de tijd tussen het uitzenden en het
+            ontvangen van het signaal aangegeven met Δt. Ook de periode T van het
+            signaal is aangegeven. Uit de verhouding Δt/T is de afstand tot het
+            reflecterende doel te bepalen.
+            Deze radar heeft een bereik van 75 km. Bij deze afstand geldt t  T . De
+            echo is dan net terug voordat het signaal opnieuw wordt uitgezonden.
+2p    7     Bepaal met behulp van de figuur op de uitwerkbijlage de afstand tot dit
+            reflecterende doel.
+
+
+
+HA-1023-a-18-1-o                            3 / 12                                lees verder ►►►
+      Operatiedeken
+
+            Kleding wordt meestal gemaakt van textiel              figuur 1
+            dat geweven is: de draden zijn in de
+            lengterichting en in de breedterichting met
+            elkaar verbonden, waardoor er een
+            samenhang ontstaat. Zie vergroot in figuur 1.
+
+            Om 1,0 m2 van dit weefsel te maken is 8,8 km
+            draad nodig.
+
+            Elke draad heeft een doorsnede met een
+            oppervlakte van 3,85·103 mm2. De massa
+            van 1,0 m2 van het weefsel is 47 gram.
+3p    8     Bereken de dichtheid van de draad.
+
+            Niet-geleidend weefsel kan elektrisch                  figuur 2
+            geleidend gemaakt worden door
+            metaaldraden in de lengterichting mee te
+            weven in de stof. In de breedte zijn geen
+            geleidende draden opgenomen. Zie figuur 2.
+
+            Een materiaal dat gebruikt kan worden voor
+            de geleidende draden is een legering van
+            koper (Cu) en nikkel (Ni).
+            Deze CuNi-draden hebben een diameter van
+            40 μm. De weerstand van 1,00 m van deze
+            CuNi-draad is 250 Ω bij een temperatuur
+            van 293 K.
+            In figuur 3 is de soortelijke    figuur 3
+            weerstand van deze                      6,0·10−7
+            CuNi-draad als functie          ρ (Ω m)
+            van het massapercentage                 5,0·10−7
+            nikkel gegeven bij T = 293 K.
+            Figuur 3 staat ook op de                4,0·10−7
+            uitwerkbijlage.
+4p    9     Bepaal met behulp van                   3,0·10−7
+            figuur 3 het massapercentage
+            nikkel voor deze CuNi-draad.            2,0·10−7
+
+                                                       1,0·10−7
+
+
+                                                              0%   10%   20%   30% 40% 50% 60%
+                                                                                 massapercentage nikkel
+
+
+
+
+HA-1023-a-18-1-o                              4 / 12                                   lees verder ►►►
+            Geleidend textiel kan onder andere       figuur 4
+            gebruikt worden als elektrisch
+            verwarmde deken tijdens operaties.
+            Zie figuur 4.
+            De geleidende draden in het
+            weefsel van de deken zijn allemaal
+            identiek. Deze verwarmingsdraden
+            zijn met metalen stripjes met elkaar
+            verbonden. Zie figuur 5 en 6. De
+            weerstand van de metalen stripjes
+            is te verwaarlozen.
+
+            figuur 5                                 figuur 6
+
+
+
+
+                                                                                    -
+                                                                           12,0 V   +
+
+
+
+
+                                                                stripjes
+
+
+            In de deken zitten 10 verwarmingsdraden volgens de schakeling van
+            figuur 6. De verwarmingsdraden in de deken zijn van een ander materiaal
+            dan CuNi gemaakt.
+            Eén verwarmingsdraad heeft bij kamertemperatuur een weerstand van
+            3,6 Ω.
+
+            De deken heeft een totale weerstand van 1,4 Ω.
+
+3p    10    Toon dit aan met behulp van een berekening.
+
+            Een patiënt wordt warm gehouden door de deken aan te sluiten op een
+            spanningsbron van 12,0 V.
+3p    11    Bereken het elektrisch vermogen van de deken direct na het inschakelen.
+
+            De operatiedeken mag tijdens het gebruik niet te warm worden. Het is
+            voor het ontwerp van de deken belangrijk om te weten of de draden van
+            PTC- of van NTC-materiaal gemaakt moeten worden. Op de
+            uitwerkbijlage staan hierover een aantal zinnen.
+3p    12    Omcirkel in deze zinnen telkens het juiste alternatief.
+
+
+
+
+HA-1023-a-18-1-o                            5 / 12                         lees verder ►►►
+      SpaceShipOne
+
+            Sinds 2004 bestaat de mogelijkheid om    figuur 1
+            met het ruimteschip SpaceShipOne een
+            paar minuten in de ruimte te verblijven.             c
+            In figuur 1 is getekend hoe dat gaat.
+            Figuur 1 is niet op schaal.
+            Een speciaal daarvoor gemaakt vliegtuig
+            (de White Knight) brengt het ruimteschip
+            SpaceShipOne naar een hoogte van
+            ongeveer 15 km waar het ruimteschip
+            wordt losgekoppeld. In de figuur zijn de
+            punten a, b, c, d en e aangegeven.
+             In punt a schakelt de raketmotor aan          b           d
+                 en dan gaat SpaceShipOne met een
+                 grote versnelling vrijwel verticaal
+                 omhoog.
+             In punt b gaat de raketmotor uit.                           e
+             Punt c is het hoogste punt van de           a
+                 baan. Na het passeren van dit punt
+                 valt SpaceShipOne terug naar de
+                 aarde.
+             Na het passeren van punt d begint het ruimteschip door de
+                 luchtweerstand weer af te remmen.
+             Vanaf punt e gaat SpaceShipOne als zweefvliegtuig verder tot de
+                 landing.
+
+            Op de uitwerkbijlage staat de grafiek van de verticale snelheid vy als
+            functie van de tijd van een vlucht van het ruimteschip. De tijdstippen die
+            horen bij het passeren van de punten a, b, c en d zijn op de horizontale as
+            aangegeven.
+
+            Tijdstip tc hoort bij het hoogste punt c van de baan.
+
+1p    13    Geef aan hoe dat uit de grafiek blijkt.
+
+3p    14    Bepaal met behulp van de grafiek op de uitwerkbijlage de versnelling in
+            punt c.
+
+
+
+
+HA-1023-a-18-1-o                             6 / 12                           lees verder ►►►
+            Op een bepaalde hoogte ten opzichte van de aarde (maar ook aan het
+            aardoppervlak zelf) geldt voor de valversnelling:
+
+                        GM
+                   g
+                         r2
+
+            Hierin is:
+             G de gravitatieconstante (in Nm2 kg2);
+             M de massa van de aarde (in kg);
+             r de afstand tot het middelpunt van de aarde (in m).
+
+4p    15    Bereken de valversnelling op 100 km hoogte.
+
+            De inzittenden van het ruimteschip zijn op een deel van hun vlucht
+            gewichtloos; dit betekent dat de normaalkracht op de inzittenden op dat
+            moment gelijk is aan 0 N.
+            Op de uitwerkbijlage staat hierover een tabel.
+2p    16    Kruis in de tabel op de uitwerkbijlage aan of de inzittenden van het
+            ruimteschip wel of niet gewichtloos zijn op de trajecten ab, bc, cd en in
+            punt c.
+
+            Op tijdstip tb wordt de motor uitgeschakeld en bevindt het ruimteschip zich
+            op een hoogte van 45 km. Op tijdstip tc wordt het hoogste punt bereikt.
+            Mensen die op een hoogte van 100 km of meer zijn geweest, mogen zich
+            astronaut noemen.
+4p    17    Toon met behulp van de grafiek op de uitwerkbijlage aan of de inzittenden
+            van het ruimteschip zich astronaut mogen noemen na de vlucht.
+
+
+
+
+HA-1023-a-18-1-o                            7 / 12                            lees verder ►►►
+      Verontreinigd technetium
+
+            Technetium-99m wordt in ziekenhuizen gebruikt als tracer. Het Tc-99m
+            dat daar voor nodig is, wordt in het ziekenhuis zelf geproduceerd. Tc-99m
+            is een vervalproduct van molybdeen-99. Tc-99m is metastabiel. Dit
+            betekent dat de protonen en neutronen in de kern van een Tc-99m atoom
+            zich nog kunnen herschikken tot een toestand met minder energie.
+
+3p    18    Geef de vergelijking van de vervalreactie waarbij Tc-99m ontstaat.
+
+2p    19    Leg uit of er bij het gebruik van een tracer voor de patiënt sprake is van
+            bestraling of van besmetting.
+
+            In het ziekenhuis wordt het Tc-99m van het Mo-99 gescheiden. Tijdens dit
+            scheidingsproces blijft er Mo-99 in de oplossing van het Tc-99m achter.
+            Deze verontreiniging van het Tc-99m is ongewenst, omdat Mo-99
+            bètastraling uitzendt.
+            Volgens wettelijke eisen mag de activiteit van de Mo-99 verontreiniging
+            maximaal 0,15 kBq zijn per 1,0 MBq activiteit van het Tc-99m.
+
+            De verhouding van activiteiten is te berekenen met:
+
+                   A  t Mo-99  t 1 Tc-99m  N  t Mo-99
+                                 2
+                   A  t Tc-99m t 1 Mo-99  N  t Tc-99m
+                                    2
+
+
+
+
+3p    20    Bereken hoeveel Mo-99-kernen er maximaal per miljoen Tc-99m-kernen
+            mogen voorkomen.
+
+            Het geproduceerde Tc-99m wordt bewaard in potten gemaakt van 6,0 mm
+            dik lood. In een pot ontstaat de volgende straling:
+             gammafotonen, met een energie van 0,1 MeV, uitgezonden door
+                   Tc-99m;
+                  bètadeeltjes, uitgezonden door Mo-99;
+                  gammafotonen, met een energie van 1,0 MeV, uitgezonden door
+                   Mo-99.
+
+1p    21    Geef een reden waarom de bètadeeltjes, uitgezonden door Mo-99, niet
+            buiten de pot gedetecteerd kunnen worden.
+
+
+
+
+HA-1023-a-18-1-o                                       8 / 12                  lees verder ►►►
+            De intensiteit van de gammastraling van het Tc-99m buiten de pot is
+            relatief klein.
+            Het percentage van de oorspronkelijke intensiteit dat aan de buitenkant
+            van de pot gemeten wordt, kan zowel voor Tc-99m als Mo-99 met behulp
+            van de halveringsdikte bepaald worden. Op de uitwerkbijlage staan
+            hierover twee tabellen.
+3p    22    Voer de volgende opdrachten uit:
+             Noteer op de uitwerkbijlage in de eerste tabel de halveringsdikte (in
+                cm) van lood voor gammastraling met een energie van 0,1 MeV en
+                met een energie van 1,0 MeV.
+             Omcirkel op de uitwerkbijlage in de tweede tabel de intensiteit
+                (in % van de oorspronkelijke intensiteit) van de gammastraling van
+                Tc-99m en van Mo-99 buiten de pot.
+
+            Als voor een behandeling in het ziekenhuis het Tc-99m te vroeg wordt
+            geproduceerd, neemt de verontreiniging met Mo-99 toe. Op de
+            uitwerkbijlage staan hierover drie zinnen.
+2p    23    Omcirkel in deze zinnen telkens het juiste alternatief.
+
+
+
+
+HA-1023-a-18-1-o                           9 / 12                          lees verder ►►►
+      Auto uit het ijs
+
+            In een filmpje op internet is te figuur 1
+            zien hoe enkele Russen met
+            een staalkabel en houten
+            planken een auto die door het
+            ijs is gezakt weer boven water
+            halen.
+            Tussen de auto en het ijs zijn
+            planken gezet waarlangs de
+            auto naar boven getrokken
+            kan worden. In het ijs is een
+            ronde as geslagen waar een
+            dwarsbalk aan is vastgemaakt.
+            De staalkabel tussen de auto en de as kan worden opgedraaid door tegen
+            deze dwarsbalk te duwen. Zie de foto in figuur 1 en het zijaanzicht in
+            figuur 2.
+
+            figuur 2
+                                                                       dwarsbalk
+
+
+
+
+                                                                                      ijs
+                                                                  as
+                               Z
+
+
+                                                                           water
+
+
+
+
+                         α                                                         bodem
+
+
+            De planken maken een hellingshoek α met de bodem. Op de auto werken
+            in deze situatie een spankracht, een normaalkracht en een kracht F recht
+            omlaag. De kracht F is de resultante van de zwaartekracht omlaag en de
+            kracht van het water op de auto omhoog. De auto wordt met constante
+            snelheid tegen de helling naar boven getrokken.
+            Als de auto net is los getrokken van de bodem is de spankracht in de
+            kabel 6,1·103 N. Een deel van figuur 2 staat op schaal op de
+            uitwerkbijlage. De spankracht en de werklijn van F zijn hierin getekend
+            vanuit het zwaartepunt Z.
+
+4p    24    Voer de volgende opdrachten uit op de uitwerkbijlage:
+             Construeer de kracht F en de normaalkracht vanuit punt Z.
+             Bepaal de grootte van F met behulp van deze constructie.
+
+
+
+HA-1023-a-18-1-o                          10 / 12                              lees verder ►►►
+            De lengte van het uiteinde van de balk tot het draaipunt S is 5,0 m. De as
+            heeft een diameter van 18 cm. Zie het bovenaanzicht in figuur 3.
+
+            figuur 3
+
+                                                       dwarsbalk
+
+                                kabel                  S
+
+
+
+
+            In het begin duwt één man tegen het uiteinde van de balk. Zie de
+            krachtvector in figuur 3. Deze figuur is niet op schaal.
+            De spankracht in de kabel is op dat moment 6,1·103 N.
+3p    25    Bereken de kracht waarmee de man tegen het uiteinde van de balk moet
+            duwen om deze spankracht te kunnen leveren.
+
+            De kabel is gemaakt van koolstofstaal met een elasticiteitsmodulus van
+            0,20·1012 N m2 (1 N m−2 = 1 Pa). De spankracht is 6,1·103 N. Tijdens het
+            spannen rekt de kabel uit. De kabel heeft een doorsnede met een
+            oppervlakte van 80 mm2 en een beginlengte van 15 m.
+4p    26    Bereken de lengteverandering van de kabel tijdens het spannen.
+
+            Naarmate de auto verder uit het water      figuur 4
+            komt, wordt de verticale kracht F op de                       I
+            auto groter en is er een grotere                             II
+            spankracht nodig. Daarom moeten drie
+                                                                        III
+            mannen tegen de balk duwen op de
+            plaatsen I, II en III. Zie figuur 4.
+                                                                              S
+
+1p    27    Welke man loopt met de grootste
+            snelheid?
+            A man I
+            B man II
+            C man III
+            D Iedere man loopt met dezelfde snelheid
+
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1023-a-18-1-o                           11 / 12                                lees verder ►►►
+            De drie mannen leveren ieder een even grote arbeid.
+1p    28    Welke man duwt met de grootste kracht?
+            A man I
+            B man II
+            C man III
+            D Iedere man duwt met een even grote kracht.
+
+            In het ontwerp zijn verschillende veranderingen mogelijk. In de tabel op
+            de uitwerkbijlage staan enkele voorstellen voor veranderingen.
+3p    29    Kruis in de tabel per verandering aan of de kracht die één man op het
+            einde van de dwarsbalk moet uitoefenen om de auto uit het ijs te takelen
+            groter wordt, kleiner wordt of gelijk blijft.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a-18-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+ erratumblad                                                              2018-1
+
+natuurkunde havo
+
+Centraal examen havo/vwo
+
+Tijdvak 1
+
+Opgaven
+
+
+
+
+Aan de secretarissen van het eindexamen van de scholen voor havo,
+
+Bij het centraal examen natuurkunde havo op maandag 14 mei, aanvang 13.30 uur,
+moeten de kandidaten de volgende mededeling ontvangen. Deze mededeling moet bij
+het begin van de zitting worden voorgelezen en/of aan de kandidaten worden uitgereikt.
+
+
+Op pagina 12 moet vraag 28 worden overgeslagen. Streep deze vraag door.
+
+
+
+ Namens het College voor Toetsen en Examens,
+
+
+ drs. P.J.J. Hendrikse,
+ voorzitter
+
+
+
+
+HA-1023-a-18-1-o-E
+

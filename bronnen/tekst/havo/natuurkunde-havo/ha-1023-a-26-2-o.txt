@@ -1,0 +1,444 @@
+                                                                  Examen HAVO
+
+                                                                        2026
+                                                                               tijdvak 2
+                                                                        dinsdag 16 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 25 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-26-2-o
+      Kokendwaterkraan
+
+            Een kokendwaterkraan bestaat uit een kraan en een reservoir. Zie
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            Het water in het reservoir wordt elektrisch opgewarmd en vervolgens op
+            het kookpunt gehouden. Daardoor kan de kraan behalve koud water
+            (10 °C) en warm water (65 °C) ook kokend water (100 °C) leveren.
+
+            In de huisinstallatie wordt als norm aangehouden dat apparaten met een
+            vermogen boven 2,0 kW een eigen groep in de meterkast nodig hebben.
+            Tijdens het gebruik van een bepaald type kokendwaterkraan is de
+            maximale gemeten stroomsterkte gelijk aan 9,2 A bij een spanning van
+            230 V.
+2p    1     Toon met een berekening aan of deze kokendwaterkraan op een eigen
+            groep moet worden aangesloten.
+
+            De fabrikant van de kokendwaterkraan beweert dat het apparaat 8,0 L
+            koud water kan verwarmen tot kokend water, bij een energieverbruik van
+             3,4 106 J.
+2p    2     Toon met een berekening aan of deze bewering kan kloppen.
+
+            Elektrische apparaten hebben een energielabel. Het energielabel van de
+            kokendwaterkraan wordt onder andere bepaald door het energieverlies
+            per seconde uit het reservoir, bij een constante hoge temperatuur van het
+            water. Op de uitwerkbijlage staat een tabel met drie eigenschappen van
+            de isolatielaag om het reservoir.
+2p    3     Zet bij elke eigenschap een kruisje in de kolom die overeenkomt met zo
+            min mogelijk energieverlies uit het reservoir.
+
+
+HA-1023-a-26-2-o                           2 / 14                           lees verder ►►►
+            De vorm van het reservoir speelt ook een rol bij het beperken van het
+            energieverlies. Er kan gekozen worden tussen twee verschillende
+            reservoirs: bolvormig of cilindervormig. In figuur 2 zijn de straal r van de
+            bol en de totale oppervlakte A van de cilinder weergegeven. Beide
+            reservoirs hebben een even dikke isolatielaag van hetzelfde materiaal en
+            hebben dezelfde inhoud van 8,0 L.
+
+            figuur 2
+
+
+
+
+4p    4     Leg met een berekening uit welke vorm (I of II) minder energieverlies
+            heeft.
+
+            Figuur 3 toont het verband tussen het volume V van het reservoir, het
+            energieverlies P en het energielabel A+ tot en met D.
+
+            figuur 3
+
+
+
+
+            Om het energielabel van de kokendwaterkraan te bepalen, wordt gemeten
+            hoeveel energie nodig is om het water in het reservoir van 8,0 L een week
+            lang op constante temperatuur te houden. Dit blijkt 3,9 kWh te zijn. Er
+            wordt tussendoor geen water uit het reservoir gehaald.
+3p    5     Bepaal welk energielabel deze kokendwaterkraan krijgt.
+
+
+
+
+HA-1023-a-26-2-o                             3 / 14                            lees verder ►►►
+      Draaitafel
+
+            Isha doet een praktisch onderzoek naar wrijvingskracht. Ze gebruikt
+            hierbij een draaitafel. Dit is een apparaat met een draaiend plateau. Zie
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            De omlooptijd van het plateau is instelbaar.
+            Ze legt een stalen schijfje s op het plateau, op een afstand r van het
+            midden. Wanneer het plateau draait, maakt dit schijfje een cirkelbaan met
+            straal r. Zie figuur 2.
+
+            figuur 2                                 figuur 3
+
+
+
+
+            Met een camera recht boven de draaitafel maakt Isha een filmpje van het
+            schijfje. Hier voert ze een videometing op uit. De afstand x is de kortste
+            afstand tussen het schijfje en de y-as. Zie figuur 3. Op de uitwerkbijlage
+            staat het (x,t)-diagram dat met de videometing is gemaakt.
+3p    6     Bepaal de baansnelheid van het schijfje met behulp van een raaklijn in de
+            figuur op de uitwerkbijlage. Laat in de figuur zien hoe je aan je antwoord
+            komt. Noteer je antwoord in twee significante cijfers.
+
+
+
+HA-1023-a-26-2-o                            4 / 14                            lees verder ►►►
+            Vervolgens legt Isha het schijfje bij dezelfde draaisnelheid twee keer zo
+            ver van de draai-as.
+2p    7     Teken in de figuur op de uitwerkbijlage het (x,t)-diagram dat bij dit
+            experiment hoort.
+
+            De wrijvingskracht van het plateau op het schijfje zorgt voor de
+            middelpuntzoekende kracht. Deze wrijvingskracht kan niet groter zijn dan
+            een bepaalde maximale waarde.
+
+            Isha varieert de omlooptijd en merkt dat het schijfje op gegeven moment
+            naar buiten schuift. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+3p    8     Leg uit met de formule voor de middelpuntzoekende kracht of de
+            omlooptijd is toegenomen of afgenomen.
+
+
+
+
+HA-1023-a-26-2-o                            5 / 14                            lees verder ►►►
+            Voor de maximale wrijvingskracht geldt:
+
+             Fw  s  Fn                      (1)
+
+            Hierin is:
+             Fw de maximale wrijvingskracht
+                  s de wrijvingscoëfficiënt, een materiaalafhankelijke grootheid
+                  Fn de normaalkracht
+
+            Isha bedekt het plateau van de draaitafel achtereenvolgens met
+            verschillende materialen. Ze meet steeds bij een omlooptijd van 1,3 s de
+            straal waarbij het stalen schijfje nog net in zijn cirkelbaan blijft. Met het
+            meetresultaat berekent ze de wrijvingscoëfficiënt. Ze vergelijkt haar
+            meetresultaten met de wrijvingscoëfficiënten in tabel 1.
+
+            tabel 1
+              materiaal schijfje     materiaal op plateau       wrijvingscoëfficiënt
+              staal                  rubber                     1,2
+              staal                  staal                      0,7
+              staal                  hout                       0,5
+              staal                  messing                    0,3
+
+            Ze gebruikt een schijfje met een massa van 3,9 gram. Bij één van de
+                                                                  2
+            materialen blijft het schijfje op een straal van 13 10    m nog net liggen.
+4p    9     Toon met behulp van formule (1) aan op welk materiaal het schijfje dan
+            gelegen heeft.
+
+
+
+
+HA-1023-a-26-2-o                               6 / 14                             lees verder ►►►
+      Maatcilinder vullen
+
+            Een maatcilinder wordt gevuld met water. Hierbij ontstaat geluid. De
+            hoogte van de waterkolom x neemt toe door het vullen. In de luchtkolom ℓ
+            tussen het wateroppervlak en de opening van de maatcilinder ontstaat
+            tijdens het vullen een staande geluidsgolf. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+1p    10    Geef aan of deze staande golf longitudinaal of transversaal is.
+
+            De maatcilinder is 25 cm hoog en wordt volledig gevuld. Tijdens het vullen
+            verandert de lengte ℓ waardoor ook de golflengte van de grondtoon
+            verandert.
+2p    11    Teken op de uitwerkbijlage de grafiek van het verloop van de golflengte
+            van de grondtoon tegen de vulhoogte x tijdens het vullen.
+
+            Bij een bepaalde lengte van de luchtkolom ℓ wordt het geluid ultrasoon;
+            het geluid is dan niet meer te horen omdat de frequentie hoger is dan
+            20,0 kHz. De temperatuur van de lucht is 20 °C.
+4p    12    Voer de volgende opdrachten uit:
+             Bereken de golflengte van het geluid als het net ultrasoon is. Noteer je
+                antwoord in drie significante cijfers.
+             Leg uit of het ultrasone geluid bij een hogere temperatuur van de lucht
+                wordt bereikt bij een grotere of kleinere vulhoogte x.
+
+
+HA-1023-a-26-2-o                            7 / 14                            lees verder ►►►
+      Waterkrachttruck
+
+            In bergachtige gebieden wordt vaak stromend water in een rivier gebruikt
+            om elektriciteit op te wekken. Er zijn echter berggebieden waar een
+            waterkrachtcentrale niet mogelijk is. Voor die situatie is een ontwerp
+            uitgedacht waarbij trucks met water worden gevuld en elektrisch heen en
+            weer rijden tussen berg en dal. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Eén rit bestaat uit de volgende fases:
+            1) De truck rijdt zonder water en met een halfvolle accu de berg op.
+            2) De truck wordt boven op de berg gevuld met water uit een meer.
+            3) De truck rolt naar beneden, waarbij de elektromotor als generator
+               werkt om de accu van de truck op te laden.
+            4) In het dal wordt het water afgevoerd en wordt een gedeelte van de
+               elektrische energie uit de accu aan het stroomnet geleverd.
+            Hierna begint een nieuwe rit.
+
+            Het ontwerp gaat ervan uit dat de truck na een rit een vollere accu heeft
+            dan ervóór.
+3p    13    Leg met behulp van figuur 1 uit waarom de accu aan het eind van fase 3
+            voller kan zijn dan aan het begin van fase 1.
+
+            Het rendement van de energieomzetting in fase 3 hangt onder andere af
+            van de hellingshoek van de berg. De rolweerstandskracht op de wielen
+            van de truck is namelijk recht evenredig met de normaalkracht op de
+            truck. Op de uitwerkbijlage staat een schematische weergave van de truck
+            op een helling. Hierin is de zwaartekracht op de truck getekend, en zijn
+            met stippellijnen twee richtingen aangegeven. Ook staat op de
+            uitwerkbijlage een aantal zinnen.
+5p    14    Voer de volgende opdrachten uit op de uitwerkbijlage:
+             Construeer de normaalkracht Fn op de truck. Geef aan welke krachtpijl
+                bij Fn hoort.
+             Omcirkel in iedere zin steeds het juiste alternatief.
+
+
+HA-1023-a-26-2-o                            8 / 14                           lees verder ►►►
+            Om de haalbaarheid van de waterkrachttruck te onderzoeken wordt alles
+            doorgerekend. Men gaat ervan uit dat de truck 1,0 km is gedaald als hij in
+            het dal aankomt. De truck heeft een totale massa van 33,1103 kg als hij
+            maximaal gevuld is met water, en een massa van 9,9·103 kg als hij leeg
+            is. Het totale rendement van alle energieomzettingen samen tijdens een
+            rit is 70%.
+
+                                                               9
+            In een klein dorp in een dal wordt gemiddeld 2,7 10 J per dag aan
+            elektrische energie gebruikt.
+4p    15    Bereken hoeveel ritten per dag nodig zijn om deze hoeveelheid energie
+            op te wekken.
+
+            Om dit aantal ritten per dag te kunnen halen mag het vullen van een lege
+            truck niet te veel tijd kosten. De truck kan maximaal 23,2 m3 water
+            bevatten. Een ontwerpeis is dat het vullen met deze hoeveelheid water
+            maximaal 4,0 minuten mag duren. De laagste snelheid waarmee het water
+            door de vulslang stroomt, is 12 m s-1.
+4p    16    Bereken de minimale diameter van de slang die nodig is om aan de
+            ontwerpeis te voldoen.
+
+
+
+
+HA-1023-a-26-2-o                            9 / 14                           lees verder ►►►
+      Holmium
+
+            Radioactief holmium wordt gebruikt bij de behandeling van honden met
+            een tumor in de kop. Voor de behandeling is het belangrijk om de massa
+            van de tumor te weten, zodat de dierenarts kan bepalen hoe groot de
+            activiteit moet zijn van de toegediende isotoop. De dierenarts bepaalt
+            eerst het volume van de tumor met behulp van een CT-scan. Een
+            verkleind beeld uit deze CT-scan is te zien in figuur 1.
+
+            figuur 1
+
+
+
+
+            Voor een ellipsvormige tumor is het volume te berekenen met de formule
+
+                   π
+             V       b  h
+                   6
+
+            Hierin is b de breedte en ℓ de lengte van de tumor. Zie figuur 1. De hoogte
+            h wordt uit een tweede beeld bepaald en is gelijk aan 31 mm. De
+            dichtheid van het weefsel van de tumor is 1,06 g cm-3. De dierenarts
+            bepaalt hiermee dat de massa van de tumor ten tijde van de CT-scan
+            tussen 10 g en 14 g ligt. Figuur 1 staat op ware grootte op de
+            uitwerkbijlage.
+3p    17    Toon met behulp van de figuur op de uitwerkbijlage aan dat deze bepaling
+            klopt.
+
+            De bestraling van de tumor gebeurt van binnenuit met het radioactieve
+            holmium-166. Om de tumor genoeg schade toe te brengen, moet hij
+            voldoende straling ontvangen. Ho-166 vervalt na het toedienen tot Er-166
+            en zendt daarbij gammastraling en een ander stralingsdeeltje uit.
+4p    18    Voer de volgende opdrachten uit:
+             Geef de volledige vergelijking van de vervalreactie van Ho-166.
+             Geef een reden waarom gammastraling niet bijdraagt aan de
+                stralingsdosis.
+
+
+
+
+HA-1023-a-26-2-o                           10 / 14                           lees verder ►►►
+            figuur 2
+
+
+
+
+            In figuur 2 is een gedeelte van de vervalkromme afgebeeld die hoort bij de
+            behandeling van de tumor met Ho-166. Het tijdstip t = 0 komt overeen met
+            het moment waarop 7,81013 atomen Ho-166 zijn toegediend. Figuur 2
+            staat ook op de uitwerkbijlage.
+3p    19    Bepaal met behulp van de figuur op de uitwerkbijlage de activiteit van het
+            Ho-166 op het moment van toedienen. Noteer je antwoord in twee
+            significante cijfers. Laat in de figuur zien hoe je aan je antwoord komt.
+
+            Voor het bestralen van de tumor is een dosis van 8,0102 Gy nodig.
+            Slechts 43% van de ioniserende straling uit al het toegediende Ho-166
+            wordt geabsorbeerd door de tumor. Per toegediend atoom Ho-166 komt
+            1,8 MeV aan stralingsenergie vrij. De arts gaat uit van een massa van
+            12 g voor de tumor.
+4p    20    Toon aan dat de benodigde dosis dan bereikt wordt.
+
+            De halveringstijd van Ho-166 is 26,8 uur. Na het toedienen mag de hond
+            niet direct naar huis vanwege het stralingsrisico voor zijn baasjes. Pas als
+            de dosis per uur lager is dan de norm van 1 μSv/h op 1 m afstand, mag de
+            hond naar huis. Direct na het toedienen wordt op deze afstand 4,7 μSv/h
+            gemeten.
+1p    21    Wanneer mag de hond op zijn vroegst mee naar huis?
+            A binnen 1 dag na de toediening
+            B tussen 1 dag en een halve week na de toediening
+            C tussen een halve week en 1 week na de toediening
+            D meer dan 1 week na de toediening
+
+
+
+
+HA-1023-a-26-2-o                            11 / 14                           lees verder ►►►
+      Drijvend lampje
+
+            Alysia vult een bak met zout water. Aan twee zijkanten van de bak zijn
+            geleidende platen aangebracht. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Op de platen sluit Alysia drie batterijen van 9,0 V aan die samen een
+            spanningsbron van 27 V vormen. Het water in de bak werkt als
+            weerstand. Alysia meet de stroomsterkte met een stroommeter.
+
+2p    22    Maak op de uitwerkbijlage het schema van de schakeling van Alysia
+            verder af.
+
+            Alysia meet een stroomsterkte van 100 mA.
+5p    23    Bereken de soortelijke weerstand van het water met behulp van gegevens
+            uit figuur 1. Noteer je antwoord in het juiste aantal significante cijfers.
+
+
+
+
+HA-1023-a-26-2-o                           12 / 14                            lees verder ►►►
+            Alysia laat een plankje drijven in de waterbak. Het plankje is zelf een
+            isolator en heeft twee geleidende pennen die onder het plankje in het
+            water hangen. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Op de pennen kan Alysia een spanningsmeter of een gloeilampje
+            aansluiten. In het zijaanzicht van de waterbak is de afstand d de afstand
+            tussen plaat L en pen R. Zie schematisch en niet op schaal in figuur 3.
+
+            figuur 3
+
+
+
+
+            Alysia sluit eerst een spanningsmeter aan tussen de pennen. In de
+            schakeling is nu sprake van een spanningsdeling. De spanningsmeter
+            geeft een spanning aan van 6,0 V.
+2p    24    Bereken de afstand d.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1023-a-26-2-o                            13 / 14                            lees verder ►►►
+            Alysia vervangt de spanningsmeter vervolgens door een lampje.
+            Ze draait het drijvende plankje met het lampje in het water. Zie het
+            bovenaanzicht in figuur 4.
+
+            figuur 4
+
+
+
+
+            Ze constateert dat de felheid waarmee het lampje brandt tijdens het
+            draaien verandert.
+            Op de uitwerkbijlage staan enkele zinnen.
+3p    25    Omcirkel op de uitwerkbijlage steeds het juiste alternatief.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-26-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

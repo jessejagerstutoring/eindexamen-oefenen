@@ -1,0 +1,492 @@
+                                                                     Examen HAVO
+
+                                                                           2019
+                                                                                  tijdvak 1
+                                                                         maandag 13 mei
+                                                                         13.30 - 16.30 uur
+
+
+                                                                         natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 29 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-19-1-o
+      Walstroom
+
+            De Nederlandse marine heeft         figuur 1
+            een artikel uitgebracht over de
+            energievoorziening van
+            marineschepen. In dit artikel wordt
+            de vergelijking gemaakt tussen
+            het elektrisch energieverbruik van
+            een marineschip en dat van
+            huishoudens. Zie figuur 1. Eén
+            huishouden gebruikt per jaar gemiddeld 3,5 ∙ 103 kWh.
+
+            Uit deze gegevens volgt dat het elektrisch vermogen van het marineschip
+            1,2 ∙ 106 W is.
+3p    1     Toon dat aan met een berekening.
+
+            Op het marineschip wordt elektriciteit opgewekt met een dieselmotor.
+            Deze motor verbrandt stookolie en drijft een generator aan.
+            Het rendement van de dieselmotor is 35%. Het rendement van de
+            generator is 80%. In figuur 2 is dit met pijlen op schaal weergegeven.
+
+            figuur 2
+
+                                                                                     III
+                              Dieselmotor                     Generator
+                   I
+                              η = 35%                II       η = 80%
+
+
+
+
+            Iedere pijl staat voor een bepaalde soort energie. Deze figuur is ook op de
+            uitwerkbijlage weergegeven.
+2p    2     Omcirkel in de tabel op de uitwerkbijlage de juiste energiesoort bij de
+            gegeven pijlen I, II en III.
+
+            De generator van het schip wekt een elektrisch vermogen op van
+            1,2∙106 W.
+5p    3     Bereken het volume van de stookolie in m3 dat het schip per 24 uur
+            gebruikt om elektriciteit op te wekken.
+
+
+
+
+HA-1023-a-19-1-o                            2 / 12                            lees verder ►►►
+            In de haven kan een schip aangesloten worden op de elektriciteit aan
+            land, de zogenaamde walstroom. De dieselmotor hoeft dan niet te
+            draaien. Voor een marineschip worden 36 identieke kabels parallel
+            aangesloten tussen land en schip. Er wordt een spanning gebruikt van
+            440 V om 1,2∙106 W aan elektrisch vermogen te leveren.
+3p    4     Bereken de stroomsterkte door één van de 36 kabels.
+
+            De Nederlandse marine gebruikt tegenwoordig een nieuwe methode om
+            schepen aan te sluiten op het elektriciteitsnet in de haven. Ze gebruiken
+            daarbij een spanning van 6,6 kV en nog maar één hoogspanningskabel.
+            Deze kabel vervangt alle 36 kabels die eerst nodig waren. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            De hoogspanningskabel is 13 m lang. De kabel is gemaakt van koper.
+            De kabel heeft een doorsnede met een oppervlakte van 25 cm2.
+3p    5     Bereken de weerstand van de hoogspanningskabel.
+
+            De nieuwe methode van aansluiten heeft veel voordelen. Het schip kan
+            door minder mensen in kortere tijd aangesloten worden op het
+            elektriciteitsnet aan wal. Voor de nieuwe kabel is veel minder koper nodig
+            dan voor de 36 oorspronkelijke kabels. Bovendien is het energieverlies in
+            de kabel lager.
+            De dunnere hoogspanningskabel is even lang, maar heeft een veel
+            grotere weerstand dan de oorspronkelijke 36 kabels parallel samen.
+            Het elektrisch vermogen van het schip is gelijk gebleven.
+2p    6     Omcirkel op de uitwerkbijlage in elke zin het juiste alternatief.
+
+
+
+
+HA-1023-a-19-1-o                            3 / 12                            lees verder ►►►
+      Wereldrecord blobspringen
+
+            In juni 2011 werd het wereldrecord   figuur 1
+            blobspringen verbeterd door Reto
+            Zimmerli. Zie de fotomontage in
+            figuur 1. Voor deze afbeelding zijn
+            diverse na elkaar gemaakte foto’s
+            van de recordpoging
+            samengevoegd tot één beeld.
+            Zes van deze foto’s zijn ook apart
+            weergegeven op de uitwerkbijlage.
+            Links sprong een groep van drie
+            personen tegelijk van een hoge
+            toren. Ze landden op het uiteinde
+            van een met lucht gevulde zak op
+            het water, de blob. Hierdoor werd Zimmerli, die diep weggezakt in het
+            andere uiteinde van de blob lag te wachten, de lucht in geschoten.
+
+            Van de beweging van de deelnemers aan deze recordpoging is met
+            behulp van een videometing een (h,t)-diagram gemaakt. Zie figuur 2. De
+            hoogte is gemeten ten opzichte van het wateroppervlak.
+
+            figuur 2
+                           18
+             hoogte t.o.v.
+            wateroppervlak
+                 in m      16
+
+                                                 Zimmerli
+                          14
+
+                          12
+
+                          10
+                                    3 personen
+                           8
+
+                           6
+
+                           4
+
+                           2
+
+                           0
+                                0        1        2         3   4         5               6
+                                                                                 tijd in s
+
+
+
+
+HA-1023-a-19-1-o                                 4 / 12                       lees verder ►►►
+            Tijdens de val ondervindt de groep van drie personen weerstand.
+            De drie personen die op de blob vallen, raken de blob op t = 1,27 s.
+            Figuur 2 is ook op de uitwerkbijlage weergegeven.
+3p    7     Bepaal, met behulp van de figuur op de uitwerkbijlage, de snelheid
+            waarmee de groep de blob raakt. Geef in deze figuur aan hoe je aan je
+            antwoord komt.
+
+            Als de drie personen op t = 1,27 s de blob raken, begint er in de blob een
+            drukgolf te bewegen van de groep naar Zimmerli.
+            Op t = 1,34 s komt de drukgolf bij Zimmerli aan.
+3p    8     Toon aan of de snelheid waarmee die drukgolf beweegt gelijk is aan de
+            geluidssnelheid in lucht. Maak daarvoor eerst een beredeneerde schatting
+            van de afstand waarover de drukgolf reist. Gebruik hierbij figuur 1.
+
+            Uit de videometing volgt dat Zimmerli tijdens de lancering door de blob
+            een gemiddelde versnelling omhoog heeft ondergaan van 1,78∙102 m s2.
+            Zimmerli heeft een massa van 80 kg.
+3p    9     Bereken de gemiddelde kracht omhoog die de blob tijdens de lancering op
+            Zimmerli heeft uitgeoefend.
+
+            Foto 3 op de uitwerkbijlage toont Zimmerli op weg naar het hoogste punt.
+1p    10    Geef aan in welke van de onderstaande tekeningen I, II, III of IV de
+            krachtvector of de krachtvectoren op Zimmerli in verticale richting op dat
+            moment juist is of zijn weergeven.
+                   I             II                  III              IV
+
+
+
+
+            De groep van drie personen met een gezamenlijke massa van 300 kg viel
+            over een afstand van 9,9 m omlaag. Zimmerli heeft een massa van 80 kg.
+3p    11    Bereken de hoogte die Zimmerli maximaal had kunnen bereiken als alle
+            energieverliezen verwaarloosd mogen worden.
+
+            De luchtweerstand is niet verwaarloosbaar, waardoor Zimmerli bij deze
+            recordpoging minder hoog kwam dan de maximale hoogte die hij zou
+            kunnen bereiken. Op de uitwerkbijlage staan nog drie mogelijke
+            verklaringen voor het niet bereiken van de maximale hoogte.
+2p    12    Geef op de uitwerkbijlage van elke verklaring aan of deze juist of onjuist
+            is.
+
+
+HA-1023-a-19-1-o                            5 / 12                             lees verder ►►►
+      Kookstenen
+
+            In de prehistorie kookten mensen water      figuur 1
+            met behulp van kookstenen. Deze stenen
+            werden in hete as opgewarmd en daarna in
+            een eikenhouten pot met koud water
+            gedaan. Na enige tijd begon het water te
+            koken. Zie figuur 1.
+
+            Archeologen van de Universiteit Leiden
+            experimenteerden met deze methode. De
+            stenen die zij gebruikten waren van graniet.
+            Met behulp van een infrarood-thermometer kon de temperatuur van zo’n
+            steen in de as bepaald worden omdat een hete steen infraroodstraling
+            uitzendt. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De temperatuur van de steen is 384 °C.
+
+3p    13    Bereken de golflengte van de straling die het meest door de steen wordt
+            uitgezonden.
+
+
+
+
+HA-1023-a-19-1-o                           6 / 12                           lees verder ►►►
+            In figuur 3 staat een tabel met een aantal stofeigenschappen van
+            materialen die in deze opgave een rol spelen.
+
+            figuur 3
+                                              warmtegeleidings-
+                              dichtheid                               soortelijke warmte
+                                                 coëfficiënt
+                             103 kg m−3              W m−1 K−1          103 J kg−1 K−1
+              graniet             2,7                    3,5                  0,82
+              basalt              3,0                    1                    0,88
+              eikenhout           0,78                   0,4                  2,4
+
+            De steen van graniet heeft een massa van 2,3 kg en een
+            begintemperatuur van 384 °C. De steen koelt af in het water. Door de
+            vrijgekomen energie wordt het water verwarmd van 18 °C tot het kookpunt
+            van 100 °C. Verwaarloos het opwarmen van de houten pot en
+            warmteverlies naar de omgeving.
+4p    14    Bereken de massa van het water dat met deze steen tot het kookpunt
+            verwarmd kan worden.
+
+            Het experiment wordt herhaald onder dezelfde omstandigheden. Nu wordt
+            een kooksteen van basalt gebruikt in plaats van de kooksteen van graniet.
+            De begintemperatuur van beide kookstenen is even hoog.
+2p    15    Leg uit of de kooksteen van basalt zwaarder, lichter of precies even zwaar
+            moet zijn als de kooksteen van graniet om dezelfde hoeveelheid water te
+            verwarmen.
+
+            De eikenhouten pot met water verliest in werkelijkheid wel warmte aan de
+            omgeving.
+
+            De opwarmtijd van een bepaalde hoeveelheid water zal variëren onder
+            verschillende omstandigheden. Op de uitwerkbijlage staat een tabel met
+            vijf verschillende situaties waarin steeds één omstandigheid verschilt. Alle
+            overige omstandigheden blijven gelijk.
+3p    16    Geef in de tabel bij iedere gegeven situatie met een kruisje aan of de
+            opwarmtijd langer of korter wordt.
+
+            De warmtestroom door de wand van de eikenhouten pot is het grootst als
+            het water aan de kook is. De archeologen hebben de oppervlakte van de
+            wand van de pot geschat op 1 ∙ 103 cm2 en de dikte van de wand op 3 cm.
+            De temperatuur van de buitenlucht is 20 °C.
+3p    17    Bereken de warmtestroom door de wand van de pot als het water aan de
+            kook is.
+
+
+
+
+HA-1023-a-19-1-o                            7 / 12                             lees verder ►►►
+      Oude horloges
+
+            In de jaren ’60 en ’70 kwamen er horloges op de markt waarin nieuwe
+            technische ontwikkelingen werden toegepast. Eén van de ontwikkelingen
+            was gericht op de nauwkeurigheid van de horloges. Horloges werkten tot
+            dan toe mechanisch; de wijzers werden daarbij aangedreven door een
+            veer. Een horlogemaker kwam in 1960 met de ‘Accutron’, het eerste
+            elektronische horloge. Het horloge maakte gebruik van een stemvork. Zie
+            figuren 1 en 2. De harmonische trilling van de stemvork werd gebruikt om
+            de draaisnelheid van de wijzers te regelen.
+
+            figuur 1                                 figuur 2
+
+
+
+
+1p    18    Hoe noemt men de frequentie waarmee de stemvork trilt na het aanslaan?
+
+            Op de uitwerkbijlage zie je een oscillogram van de stemvork. Hierin is de
+            uitwijking uitgezet tegen de tijd. Eén hokje staat voor 1,0 ms.
+            De mens hoort frequenties tussen 20 Hz en 20 kHz.
+3p    19    Toon met behulp van het oscillogram aan of de toon van de stemvork in
+            het hoorbare gebied ligt.
+
+            De NASA wilde deze techniek ook gebruiken voor klokken in de
+            ruimtevaart. Een stemvork kun je beschouwen als een
+            massa-veersysteem met een bepaalde veerconstante C.
+            Voor de nauwkeurigheid van de klok is het belangrijk dat de trillingstijd
+            van de stemvork heel constant is.
+2p    20    Leg uit of de NASA voor de stemvork in deze klok rekening moest houden
+            met een andere trillingstijd in de ruimte dan op aarde.
+
+
+
+
+HA-1023-a-19-1-o                            8 / 12                           lees verder ►►►
+            Een andere nieuwe ontwikkeling                     figuur 3
+            had te maken met de afleesbaarheid van
+            horloges. De wijzers en getallen werden
+            geverfd met een mengsel van promethium- 147
+            en zinksulfide zodat deze oplichtten in het
+            donker. Op de wijzerplaat werd dit
+            aangegeven met een ℗. Zie figuur 3.
+
+            Promethium-147 (Pm-147) is een radioactieve
+            stof die alleen β-straling uitzendt.
+3p    21    Geef de vergelijking van de vervalreactie van
+            promethium-147.
+
+            De wijzers zenden ook röntgenstraling uit. Deze is niet afkomstig van het
+            promethium-147. De behuizing van het horloge is gemaakt van ijzer.
+            Het ioniserend vermogen van β-straling is groter dan dat van
+            röntgenstraling. Toch blijkt de röntgenstraling voor (de pols van) de drager
+            van het horloge een groter risico dan de β-straling.
+2p    22    Leg uit hoe dit komt.
+
+            De röntgenstraling heeft een energie van 0,05 MeV per foton. De dikte
+            van het ijzer aan de achterzijde van het horloge is 1,47 mm.
+
+3p    23    Omcirkel in de tabel op de uitwerkbijlage hoeveel procent van de
+            röntgenstraling de achterkant van het horloge doorlaat. Licht je antwoord
+            toe.
+
+            Het deel van de pols dat wordt bestraald door de röntgenstraling heeft
+            een massa van 75 gram en ontvangt gedurende een jaar gemiddeld
+            25 röntgenfotonen per seconde. De stralingsweegfactor voor
+            röntgenstraling is gelijk aan 1. De jaarlijkse dosislimiet voor ledematen
+            bedraagt 50 ∙ 10−3 Sv.
+5p    24    Toon aan of de equivalente dosis als gevolg van het dragen van het
+            horloge onder deze jaarlijkse dosislimiet blijft.
+
+
+
+
+HA-1023-a-19-1-o                             9 / 12                            lees verder ►►►
+      Elysium
+
+            In de film ‘Elysium’ uit 2013 is een enorm,           figuur 1
+            ringvormig ruimtestation te zien waarvan de rand
+            bewoond wordt. Zie figuur 1.
+            In deze opgave worden twee waarnemingen uit de
+            film op natuurkundige juistheid gecontroleerd.
+
+            Het ruimtestation ‘Elysium’ draait in een
+            cirkelbaan rond de aarde. Als de hoogte van
+            Elysium boven het aardoppervlak bekend is, is het
+            mogelijk om de baansnelheid van Elysium rond de
+            aarde uit te rekenen.
+
+1p    25    Hoe kun je die baansnelheid uitrekenen?
+            A door de gravitatiekracht gelijk te stellen aan de middelpuntzoekende
+               kracht
+            B door de gravitatiekracht gelijk te stellen aan de zwaartekracht
+            C door de kinetische energie gelijk te stellen aan de zwaarte-energie
+            D door de som van de krachten gelijk te stellen aan nul
+
+            In de film lijkt het erop dat Elysium zich voortdurend boven hetzelfde punt
+            van de aarde bevindt. In dat geval zou Elysium zich in de geostationaire
+            baan moeten bevinden.
+
+            Voor de cirkelvormige baan van een object om een planeet geldt:
+
+                   r 3 GM
+                      
+                   T 2 4π 2
+
+            Hierin is:
+             r de straal van de cirkelbaan;
+             T de omlooptijd;
+             G de gravitatieconstante;
+             M de massa van de planeet.
+
+            De geostationaire baan bevindt zich op een hoogte van 36 ·103 km boven
+            het aardoppervlak.
+
+4p    26    Toon aan dat die baan geostationair is.
+
+
+
+
+HA-1023-a-19-1-o                            10 / 12                           lees verder ►►►
+            Om te controleren of Elysium in de geostationaire baan zit is een andere
+            waarneming uit de film te gebruiken. In de film lijkt Elysium vanaf de
+            aarde gezien even groot als de maan. Dat betekent dat je Elysium en de
+            maan allebei onder dezelfde hoek α vanaf de aarde ziet. Zie figuur 2.
+            Deze figuur is niet op schaal.
+            De diameter van het ruimtestation is 64 ∙ 103 m. De maan heeft een
+            diameter van 3,5 ∙ 106 m.
+
+            figuur 2
+              Aarde
+                                                              Elysium
+                       α
+
+                                                                    64∙103 m
+
+
+                           geostationaire hoogte?
+
+
+
+              Aarde
+                                                                               Maan
+                       α
+
+                                                                                      3,5∙106 m
+
+
+
+                                            3,8∙108 m
+
+
+
+2p    27    Toon met figuur 2 aan of uit deze waarneming volgt dat Elysium zich in de
+            geostationaire baan bevindt.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1023-a-19-1-o                                    11 / 12                             lees verder ►►►
+            In een baan om de aarde ervaar je geen normaalkracht; je bent
+            gewichtloos.
+            Elysium draait als een wiel met constante baansnelheid om zijn as S. Zie
+            figuur 1. Een bewoner in de ring ervaart hierdoor wel een normaalkracht
+            waardoor het lijkt alsof hij op het aardoppervlak staat. Deze
+            normaalkracht werkt als middelpuntzoekende kracht.
+
+1p    28    Geef aan in welk plaatje I, II, III, IV of V de kracht of de krachten op de
+            bewoner als gevolg van het draaien van de ring juist is of zijn
+            weergegeven.
+             I                             II                            III
+
+
+
+
+            IV                             V
+
+
+
+
+            In de film ervaart een bewoner van de ring van Elysium dezelfde
+            normaalkracht als hij op het aardoppervlak zou ervaren. Om dat effect te
+            bereiken zou de rand van Elysium met een baansnelheid van 5,8∙102 m s1
+            om S moeten draaien.
+            In de film is te zien dat Elysium om zijn eigen as draait. In 3,2 s draait het
+            station over een hoek van 3,0 graden. Na 360 graden draaien heeft
+            Elysium een volledige omwenteling afgelegd. De straal van Elysium is
+            32 km.
+3p    29    Toon met een berekening aan of uit deze waarneming blijkt dat de rand
+            van Elysium met de benodigde 5,8 ∙ 102 m s1 draait.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a-19-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

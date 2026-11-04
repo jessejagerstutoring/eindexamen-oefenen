@@ -143,6 +143,8 @@ def main():
     overzicht = {'niveaus': NIVEAUS, 'vakken': {}}
     for vak, info in VAKKEN.items():
         indeling = json.loads((ROOT / 'indeling' / f'{vak}.json').read_text())
+        hint_pad = ROOT / 'hints' / f'{vak}.json'
+        hints = json.loads(hint_pad.read_text()) if hint_pad.exists() else {}
         onderwerpen = {s: (n, c, o) for _, lijst in info['domeinen'] for s, n, c, o in lijst}
         vragen, gemist = [], []
         # per opgave de stukken op volgorde, zodat elke vraag de inleiding en eerdere vragen meekrijgt
@@ -170,6 +172,7 @@ def main():
                 'tekst': v['tekst'],
                 'pdf': {k: links.get(k) for k in ('opgaven', 'correctievoorschrift', 'uitwerkbijlage', 'correctievoorschrift-aanvulling', 'opgaven-erratum') if links.get(k)},
                 'uitwerkbijlage': 'uitwerkbijlage' in v['tekst'].lower(),
+                **({'hint': hints[v['id']]} if v['id'] in hints else {}),
             })
         vragen.sort(key=lambda q: (-q['jaar'], q['tijdvak'], q['vraag']))
         (UIT / f'{vak}.json').write_text(json.dumps({'vak': vak, 'vragen': vragen}, ensure_ascii=False, separators=(',', ':')))

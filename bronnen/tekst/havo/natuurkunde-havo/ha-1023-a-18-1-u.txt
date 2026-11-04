@@ -1,0 +1,285 @@
+       natuurkunde HAVO                                                                                          2018-1
+
+       uitwerkbijlage
+
+Naam kandidaat ____________________________                                     Kandidaatnummer ____________
+
+
+      5     Omcirkel telkens het juiste alternatief.
+                                               r4
+            Voor een radar geldt:                  constant.
+                                               PA
+
+            Een radar met een lager vermogen heeft een kleiner / groter bereik voor
+
+            een doel met een bepaalde oppervlakte A.
+
+            De tijd tussen twee pulsen kan dan korter / langer zijn.
+
+            De herhalingsfrequentie is dan lager / hoger.
+
+
+
+
+      7
+              f               T               ∆t
+            (Hz)
+
+
+
+
+                   Legenda:                                                                                                  t (s)
+                         uitgezonden signaal
+                         ontvangen signaal
+
+
+            Bepaling: ...................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+HA-1023-a-18-1-u                                              1/7                                               lees verder ►►►
+      9
+                       6,0·10−7
+             ρ (Ω m)
+                       5,0·10−7
+
+                       4,0·10−7
+
+                       3,0·10−7
+
+                       2,0·10−7
+
+                       1,0·10−7
+
+
+                              0%   10%   20%   30% 40% 50% 60%
+                                                 massapercentage nikkel
+
+
+
+
+      12    Omcirkel telkens het juiste alternatief.
+
+            Als de deken wordt ingeschakeld, neemt de temperatuur T van de deken
+            toe. De spanning U over de deken is constant.
+
+                  Als de deken te warm is, zal het vermogen P van de deken
+                   groter moeten worden / kleiner moeten worden /
+                   gelijk moeten blijven.
+
+
+
+                  De stroomsterkte I in de deken moet dan
+                   groter worden / kleiner worden / gelijk blijven.
+
+
+
+                  De weerstand R van de verwarmingsdraden moet dan met het oplopen
+                   van de temperatuur groter / kleiner worden.
+
+
+
+                  Deze verwarmingsdraden moeten dan van NTC- / PTC- materiaal
+                   gemaakt zijn.
+
+
+
+
+HA-1023-a-18-1-u                                        2/7                   lees verder ►►►
+Naam kandidaat ____________________________                                     Kandidaatnummer ____________
+
+   13, 14
+                    1200
+               vy
+            (m s−1)
+                   1000
+
+                     800
+
+                     600
+
+                     400
+
+                     200
+
+                            taA         tbB                     tcC                  tdD
+                        0
+                                              100              200                300                 400                 500
+                                                                                                                         t (s)
+                     -200
+
+                     -400
+
+                     -600
+
+                     -800
+
+                    -1000
+
+                    -1200
+
+
+            Bepaling vraag 14: .....................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+HA-1023-a-18-1-u                                              3/7                                               lees verder ►►►
+      16    Kruis in de tabel aan of de inzittenden van het ruimteschip wel of niet
+            gewichtloos zijn op de trajecten ab, bc, cd en in punt c.
+
+                                                  wel                    niet
+                                               gewichtloos            gewichtloos
+                     traject ab
+                     traject bc
+                     in punt c
+                     traject cd
+
+
+
+      17
+                    1200
+               vy
+            (m s−1)
+                   1000
+
+                     800
+
+                     600
+
+                     400
+
+                     200
+
+                            taA         tbB                     tcC                  tdD
+                        0
+                                              100              200                300                 400                 500
+                                                                                                                         t (s)
+                     -200
+
+                     -400
+
+                     -600
+
+                     -800
+
+                    -1000
+
+                    -1200
+
+
+            Antwoord: ..................................................................................................
+
+              .................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+
+HA-1023-a-18-1-u                                              4/7                                               lees verder ►►►
+      22
+                                       0,1 MeV           1,0 MeV
+              halveringsdikte in cm
+
+
+
+                   intensiteit buiten de pot (%)
+                   Tc-99m                   Mo-99
+                   50-100                   50-100
+                    10-50                    10-50
+                    1-10                     1-10
+                    103-1                   103-1
+                   106-103               106-103
+                    <106                    <106
+
+
+      23    Omcirkel telkens het juiste alternatief.
+
+            De halveringstijd van Tc-99m is kleiner dan / groter dan de halveringstijd
+
+            van Mo-99.
+
+            De activiteit van Tc-99m neemt daardoor
+
+            minder snel / even snel / sneller af dan/als de activiteit van Mo-99.
+
+                                  A  t Mo-99
+            Voor de verhouding                    geldt dan dat deze in de loop van de tijd
+                                  A  t Tc-99m
+
+            kleiner wordt / gelijk blijft / groter wordt.
+
+
+
+
+HA-1023-a-18-1-u                                  5/7                               lees verder ►►►
+      24
+
+
+
+
+                                                                                               Fspan = 6,1·103 N
+
+
+
+
+                                                                  Z
+
+
+
+
+                                                 α
+
+
+
+
+            Bepaling: ...................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+             ..................................................................................................................
+
+
+
+HA-1023-a-18-1-u                                              6/7                                               lees verder ►►►
+      29    Kruis in de tabel per verandering aan of de kracht die één man op het
+            einde van de dwarsbalk moet uitoefenen om de auto uit het ijs te takelen
+            groter wordt, kleiner wordt of gelijk blijft.
+
+              verandering in ontwerp de kracht die één man aan het einde van de
+                                     balk moet uitoefenen:
+                                         wordt groter    wordt kleiner     blijft gelijk
+              langere dwarsbalk
+              kleinere hellingshoek
+              dikkere as
+              langere kabel
+
+
+
+
+                   VERGEET NIET DEZE UITWERKBIJLAGE IN TE LEVEREN
+
+
+HA-1023-a-18-1-u                            7/7                             lees verdereinde
+                                                                                         ►►► 
+

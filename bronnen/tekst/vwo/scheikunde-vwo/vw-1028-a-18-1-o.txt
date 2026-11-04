@@ -1,0 +1,533 @@
+                                                                    Examen VWO
+
+                                                                        2018
+                                                                               tijdvak 1
+                                                                     donderdag 17 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Maak zo nodig gebruik van Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 27 vragen.
+Voor dit examen zijn maximaal 67 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-18-1-o
+      De PEF-fles
+
+            Ieder jaar worden grote hoeveelheden PET-frisdrankflessen
+            geproduceerd. Het Nederlandse bedrijf Avantium heeft een proces
+            ontwikkeld om de kunststof PEF als alternatief voor PET te produceren.
+            Bij de productie van PEF wordt biomassa als grondstof gebruikt, terwijl
+            PET wordt geproduceerd uit aardolie.
+            Voor de productie van PEF worden plantaardige monosachariden zoals
+            glucose gebruikt. Glucose wordt in een eerste proces omgezet tot HMF.
+            Uit HMF kunnen verschillende stoffen worden gemaakt die voor de
+            chemische industrie bruikbaar zijn. In onderstaand schema zijn enkele
+            van deze stoffen schematisch weergegeven.
+
+            schema
+
+                                 O
+                   H3C       O                         O    O          HO
+                                     H                                                          OH
+                        2                                    1                    7
+
+                        O        O                          O                               O
+                             O                         O               HO
+               HO                    OH   HO                      H                             OH
+                   FDCA                                     HMF             O     6
+
+                        O
+                             O                         O                    H3C       O      CH3
+               HO                    OH   HO                      OH
+                        3                                    4                    5
+
+
+            Bij de omzettingen van glucose tot de bovenstaande reactieproducten
+            komt geen koolstofdioxide vrij in de chemische reacties.
+
+2p    1     Laat dit zien aan de hand van het schema.
+
+            Een ander gebruik van glucose is vergisting tot bio-ethanol, een proces
+            dat kan worden weergegeven met onderstaande reactievergelijking.
+            C H O  2 C H O + 2 CO
+               6   12    6       2   6         2
+
+            De atoomeconomie van de vergisting van glucose is minder gunstig dan
+            de atoomeconomie van de productie van HMF uit glucose. Voor de
+            productie van HMF is geen andere beginstof dan glucose nodig.
+
+3p    2     Bereken de atoomeconomie van de productie van ethanol uit glucose en
+            de atoomeconomie van de productie van HMF uit glucose.
+            Gebruik Binas-tabel 37H of ScienceData-tabel 1.7.7.
+
+
+
+
+VW-1028-a-18-1-o                                   2 / 11                                 lees verder ►►►
+            Zowel PET als PEF zijn polyesters. PEF is een copolymeer van
+            ethaan-1,2-diol en FDCA (zie schema).
+
+3p    3     Geef een gedeelte van een molecuul PEF in structuurformule weer.
+            Dit gedeelte moet komen uit het midden van het molecuul en moet
+            bestaan uit twee eenheden van beide monomeren.
+
+            Sommige andere stoffen uit het schema kunnen ook worden gebruikt als
+            monomeren voor polyesters. De polymeren zijn dan meestal copolymeren
+            van twee monomeren. Eén stof uit het schema kan echter zonder een
+            ander monomeer als grondstof dienen voor een polyester.
+
+1p    4     Geef het nummer van de stof uit het schema die zonder gebruik van een
+            ander monomeer een polyester kan vormen.
+
+            Avantium heeft een productieproces ontwikkeld waarbij FDCA met een
+            hoog rendement geproduceerd kan worden uit HMF. De productie start
+            met de reactie van HMF met methanol waarbij de stof MMF ontstaat.
+            MMF is een ether.
+               HMF + methanol  MMF + H O            2                 (reactie 1)
+            In het Avantium-proces wordt MMF vervolgens omgezet tot FDCA volgens
+            reactie 2.
+                MMF + zuurstof  FDCA + methanol                      (reactie 2)
+3p    5     Geef de vergelijking van reactie 2. Gebruik structuurformules voor de
+            ether MMF, FDCA en methanol.
+
+            Een al langer bekend proces om MMF om te zetten tot FDCA is
+            weergegeven in reactie 3.
+               MMF + zuurstof  FDCA + H O + CO      2     2           (reactie 3)
+            De productie van FDCA volgens reacties 1 en 2 heeft een hoger
+            rendement dan volgens reacties 1 en 3.
+            Ook is de productiemethode van Avantium duurzamer als je let op de
+            uitgangspunten van de Groene Chemie.
+            Een medewerker van Avantium schrijft een artikel voor een breed publiek.
+            In het artikel verwerkt de medewerker twee argumenten op basis van
+            uitgangspunten 1 en 2 van de Groene Chemie, zodat duidelijk wordt dat
+            het productieproces van Avantium duurzamer is dan het oude proces.
+
+2p    6     Geef twee argumenten die de medewerker in het artikel kan opnemen.
+            Maak gebruik van Binas-tabel 97F of ScienceData-tabel 38.6.
+            Noteer je antwoord als volgt:
+             Op basis van uitgangspunt 1:
+             Op basis van uitgangspunt 2:
+
+
+
+
+VW-1028-a-18-1-o                            3 / 11                           lees verder ►►►
+            Wetenschappers hebben met behulp van modellen de CO2-uitstoot
+            berekend tijdens de zogeheten levenscyclus van zowel PET als PEF.
+            In de berekening van deze CO2-levenscyclus-uitstoot wordt uitgegaan van
+            de volgende punten:
+            1      de CO2-uitstoot van het productieproces en het transport van stoffen.
+            2      PET en PEF worden even vaak gerecycled.
+            3      de CO2-uitstoot van het verbranden van PET- en PEF-afval.
+            De CO2-uitstoot van de verbranding van PEF (punt 3) wordt buiten
+            beschouwing gelaten als FDCA en ethaan-1,2-diol geheel uit biomassa
+            worden gemaakt.
+            De CO2-uitstoot van de verbranding van PET wordt niet buiten
+            beschouwing gelaten.
+
+2p    7     Leg uit waarom de CO2-uitstoot van de verbranding van PEF-afval buiten
+            beschouwing wordt gelaten in de berekening van de CO2-levenscyclus-
+            uitstoot als FDCA en ethaan-1,2-diol geheel uit biomassa zijn gemaakt en
+            waarom die bij PET niet buiten beschouwing wordt gelaten.
+
+            De berekende waarde van de CO2-uitstoot tijdens de levenscyclus van
+            geheel uit biomassa gemaakt PEF is 0,8 ton CO2 per ton polymeer.
+            De berekende waarde van de CO2-uitstoot tijdens de levenscyclus van
+            PET is 4,4 ton CO2 per ton polymeer.
+
+3p    8     Bereken hoeveel ton CO2 per ton PET wordt uitgestoten door het
+            productieproces en het transport van stoffen.
+            Gebruik C10H8O4 als formule voor (de repeterende eenheid van) PET.
+
+
+
+
+VW-1028-a-18-1-o                               4 / 11                           lees verder ►►►
+      Zijde verven
+
+            Zijderupsen spinnen een cocon van zijdevezels waarin ze verpoppen.
+            Deze vezels worden al eeuwen gebruikt om er kleding van te produceren.
+            In de zijdevezels zijn twee soorten eiwitten aanwezig: sericine en fibroïne.
+            De sericine vormt de buitenste laag van de vezels. Bij de productie van
+            zijdegaren voor kleding wordt de sericine voor een groot deel verwijderd.
+            De fibroïne komt voor in de vorm van vezels die niet alleen zacht maar
+            ook sterk zijn. Een aantal structuurkenmerken van fibroïne-vezels is in
+            figuur 1 weergegeven.
+
+            figuur 1
+                   1.1 gebieden met gestapelde bèta-platen            1.2 heen en weer slingerende
+                                                                          eiwitketen in één bèta-plaat
+
+                                                                               restgroepen Ala (boven vlak)
+
+
+
+
+                                                                                restgroepen Gly (onder vlak)
+
+
+            In figuur 1.1 is te zien dat in fibroïne ongeordende stukken eiwitketen
+            worden afgewisseld met sterk geordende gebieden. In de geordende
+            gebieden zijn telkens ongeveer tien -platen op elkaar gestapeld.
+            De primaire structuur van de eiwitketen in een -plaat in fibroïne kan
+            vereenvoudigd worden weergegeven als ~ ( Gly – Ala )n ~.
+            In figuur 1.2 is schematisch met streepjes en bolletjes weergegeven dat
+            de restgroepen van Ala zich steeds aan de ene zijde van een -plaat
+            bevinden, terwijl de restgroepen van Gly zich aan de andere zijde
+            bevinden. Uit figuur 1.2 is op te maken dat de eiwitketen heen en weer
+            slingert in een -plaat. De C=O groepen en de N–H groepen van de
+            aminozuureenheden in de eiwitketen liggen tegenover elkaar. Deze
+            groepen vormen uitsluitend in het vlak van de -plaat waterstofbruggen.
+            Op de uitwerkbijlage is een fragment van een -plaat onvolledig
+            weergegeven. De eiwitketen in het fragment begint linksboven.
+            Met        zijn bindingen aangegeven die omhoog wijzen en met       zijn
+            bindingen aangegeven die naar beneden wijzen.
+            Onder het fragment is schematisch ruimtelijk weergegeven hoe de
+            eiwitketen op en neer gaat in een -plaat.
+
+4p    9     Maak het fragment op de uitwerkbijlage compleet met de ontbrekende
+            atomen en atoombindingen. Geef waterstofbruggen aan met
+            stippellijntjes.
+
+
+
+
+VW-1028-a-18-1-o                                             5 / 11                                        lees verder ►►►
+            Binnen de fibroïne-vezels zijn de ongeordende stukken eiwitketen
+            gemakkelijk te vervormen. Hiermee kunnen de elastische eigenschappen
+            van zijde worden verklaard.
+            De geordende gebieden vertonen daarentegen een grote weerstand tegen
+            vervormen. Dit kan worden verklaard door de sterke vanderwaalsbinding
+            die tussen de -platen heerst.
+
+2p   10     Geef twee redenen op microniveau waarom tussen de -platen een sterke
+            vanderwaalsbinding heerst.
+
+            Uit metingen blijkt dat de -platen in de geordende gebieden een
+            regelmatige tussenafstand van afwisselend 0,35 nm en 0,57 nm vertonen.
+            Dat er tussen de -platen twee verschillende tussenafstanden bestaan,
+            komt door de manier waarop de -platen zijn gestapeld.
+
+2p   11     Leg uit op welke manier de -platen zijn gestapeld. Geef in je antwoord
+            aan hoe met deze stapeling kan worden verklaard dat in de geordende
+            gebieden twee verschillende tussenafstanden bestaan.
+            Maak gebruik van figuur 1.
+
+            Zijde verven is erg milieubelastend, omdat veel water wordt verbruikt dat
+            na gebruik vervuild is met resten van de kleurstoffen. Een groep Indiase
+            onderzoekers heeft onderzocht of het mogelijk is de zijderupsen
+            gekleurde zijde te laten produceren door hun voedsel te besprenkelen met
+            kleurstoffen.
+            De gekozen kleurstoffen behoren tot de zogeheten azoverbindingen. In
+            azoverbindingen komt het structuurelement R–N=N–R voor. Hierbij staat
+            R voor een fenylgroep. Azoverbindingen kunnen zowel in een cis- als in
+            een trans-vorm voorkomen.
+
+3p   12     Geef de Lewisstructuren van de cis- en de trans-vorm van een
+            azoverbinding en leg uit waarom van een azoverbinding zowel een cis- als
+            een trans-vorm voorkomt. Gebruik R–N=N–R als notatie voor een
+            azoverbinding.
+
+            Als een rups de kleurstof heeft opgenomen, zal de kleurstof zich in het
+            zijdespinsel verdelen over de relatief hydrofiele sericine en de hydrofobe
+            fibroïne. Om vooraf te bepalen of een kleurstof overwegend in de sericine
+            of in de fibroïne zal worden opgenomen, hebben de onderzoekers van
+            een aantal kleurstoffen de verdelingscoëfficiënt bepaald in een tweelagen-
+            systeem van water en de hydrofobe vloeistof octaan-1-ol.
+
+
+
+
+VW-1028-a-18-1-o                           6 / 11                            lees verder ►►►
+            Hierbij was de hypothese dat deze verdelingscoëfficiënt een relatie heeft
+            met de mate van kleuring van beide vezelsoorten sericine en fibroïne.
+            Deze verdelingscoëfficiënt Kv kan worden weergegeven als:
+                     kleurstof octaan-1-ol
+             Kv =
+                        kleurstof water
+            De resultaten van de onderzoekers zijn in onderstaande tabel
+            samengevat. In de tabel staan de structuurformules van de deeltjes zoals
+            die in een oplossing in water voorkomen.
+            De onderzochte kleurstoffen zijn gerangschikt op toenemende Kv.
+
+            tabel
+
+               stof                        structuurformule                                   Kv
+                                                   N                  SO3
+                           HO                  N
+
+                   D1                                                                   OH
+                                                                                             2·10–2
+                                                                                N
+                                                                  O3S       N
+
+
+                                                    N
+                                  O 3S         N
+
+                   D2                                  OH
+                                                                                             2·10–1
+                            O3S
+
+                                  OH
+
+                                       N
+                                           N
+
+                   D3                                                                          2
+                                           SO3
+
+                                  OH
+                                               HO       SO3
+                                       N
+                   D4                      N
+                                                                                               3
+
+                                  OH
+
+                                   N
+                   D5                      N                SO3
+                                                                                               4
+
+                                  OH
+
+
+                                                                                             > 102
+                                       N
+                   D6                      N                N
+                                                                  N
+
+
+
+
+2p   13     Geef een verklaring aan de hand van de structuurformules waarom de
+            waarde van Kv van stof D6 groter is dan die van stof D1.
+            Je hoeft hierbij geen rekening te houden met de molecuulmassa.
+
+            Het blijkt dat de cocons gekleurd zijn als de stoffen D3, D4 en D5 aan het
+            voedsel van de rupsen worden toegevoegd. De stoffen D1, D2 en D6
+            geven geheel geen kleuring.
+            Op basis van de tabel en informatie uit deze opgave kan worden bepaald
+            welke van de kleurstoffen D3, D4 of D5 het meest geschikt is om op deze
+            manier zijdevezels voor textiel te kleuren.
+
+2p   14     Leg uit welke van de kleurstoffen D3, D4 of D5 het meest geschikt is om
+            op deze manier zijdevezels voor textiel te kleuren.
+            Maak gebruik van de tabel en eerder in deze opgave verstrekte gegevens.
+
+
+
+VW-1028-a-18-1-o                                                                    7 / 11            lees verder ►►►
+      Fenolproductie
+
+            Fenol (benzenol) is een belangrijke grondstof voor veel synthetische
+            producten, waaronder geneesmiddelen en kunststoffen. Fenol wordt
+            geproduceerd volgens het zogeheten cumeen-proces. Een vereenvoudigd
+            blokschema van dit proces staat op de uitwerkbijlage. Uit het blokschema
+            kan de totaalvergelijking voor de vorming van fenol volgens het cumeen-
+            proces worden afgeleid.
+
+2p   15     Geef de totaalvergelijking voor de vorming van fenol volgens het cumeen-
+            proces. Gebruik structuurformules voor de koolstofverbindingen.
+
+            In reactor 1 (R1) reageert propeen volledig met benzeen. Daarbij ontstaat
+            cumeen. In R2 reageert een deel van het gevormde cumeen met zuurstof
+            tot cumeenhydroperoxide (CHP), zoals weergegeven in onderstaande
+            reactievergelijking.
+                                                O H
+                                           O
+            H3C CH CH3                H3C C CH3
+
+                            O2
+
+                   cumeen                 CHP
+
+            In scheidingsruimte 1 (S1) wordt een groot deel van het overgebleven
+            cumeen afgescheiden. Het mengsel dat overblijft, bevat
+            82,5 massa% CHP en 17,5 massa% cumeen.
+            In R3 wordt CHP grotendeels omgezet tot fenol en propanon. Fenol en
+            propanon ontstaan in de molverhouding 1 : 1. Hierbij wordt zwavelzuur als
+            katalysator gebruikt. Omdat de reactie in R3 zeer exotherm is, is het
+            belangrijk om de temperatuur in deze reactor nauwkeurig te regelen.
+            Als de temperatuur te hoog oploopt, leidt dat namelijk tot
+            veiligheidsrisico’s. Tevens ontstaan dan ongewenste nevenproducten.
+
+1p   16     Geef een mogelijke verklaring waarom de vorming van nevenproducten in
+            R3 alleen optreedt bij een hoge temperatuur.
+
+            Reactor 3 is een buisreactor. Door het grote oppervlak van de buis kan
+            R3 goed worden gekoeld. Voordat het mengsel afkomstig uit S1 in R3
+            wordt gepompt, wordt nog extra propanon toegevoegd.
+            Het toevoegen van propanon aan de instroom in R3 draagt bij aan een
+            veilig proces in R3.
+
+2p   17     Geef twee redenen waarom het toevoegen van propanon aan de instroom
+            in R3 bijdraagt aan een veilig proces in R3.
+
+
+
+
+VW-1028-a-18-1-o                           8 / 11                           lees verder ►►►
+            Aan de instroom in R3 wordt extra propanon toegevoegd, zodat in de
+            uitstroom van R3 de molverhouding fenol : propanon gelijk is aan
+            1,00 : 1,50. De molaire massa van propanon is 58,1 g mol–1 en die van
+            CHP is 152 g mol–1.
+
+3p   18     Bereken hoeveel ton propanon er aan 1,0 ton van de instroom in R3 moet
+            worden toegevoegd om de juiste molverhouding fenol : propanon in de
+            uitstroom van R3 te handhaven. Een ton is 103 kg.
+            Neem hier aan dat CHP volledig wordt omgezet tot fenol en propanon.
+
+            Het CHP-gehalte in de uitstroom van R3 wordt voortdurend gecontroleerd.
+            Een gehalte hoger dan 2 massa% leidt namelijk tot explosiegevaar in de
+            scheidingsruimten die erna komen. Deze controle gebeurt door een klein
+            gedeelte van de uitstroom van R3 naar een microreactor te leiden. In de
+            microreactor reageert het aanwezige CHP volgens dezelfde reactie als in
+            R3, waardoor de temperatuur van de vloeistofstroom stijgt. Uit de
+            temperatuurstijging van de vloeistofstroom kan het gehalte CHP in de
+            uitstroom van R3 worden berekend. Op een gegeven moment wordt een
+            temperatuurstijging van 7,3 °C gemeten.
+            De soortelijke warmte van een stof kan worden gedefinieerd als het aantal
+            joule dat nodig is om 1 g stof 1 K in temperatuur te laten stijgen.
+
+3p   19     Ga door berekening na of er in dit geval sprake is van explosiegevaar.
+            De reactiewarmte van de reactie is –252 kJ per mol CHP.
+            De soortelijke warmte van de vloeistof is 2,4 J g–1 K–1.
+            In scheidingsruimten S2, S3 en S4 wordt het mengsel afkomstig uit R3
+            gescheiden door destillatie. De kookpunten (p = p0) van de stoffen
+            bedragen: propanon (56 °C); cumeen (152 °C); CHP (153 °C);
+            fenol (182 °C); zwavelzuur (330 °C).
+
+2p   20     Leg mede met behulp van het blokschema uit tussen welke grenzen de
+            temperatuur in S2 moet liggen.
+
+            Op de wereldmarkt stijgt de vraag naar fenol sneller dan de vraag naar
+            propanon. Om te voorkomen dat propanon afval wordt, heeft het Japanse
+            bedrijf Mitsui een methode ontwikkeld om de ontstane propanon om te
+            zetten tot propeen.
+            In een extra reactor (R4) verloopt de additie van waterstof aan de
+            C=O groep van het propanon. In een volgende reactor (R5) ontstaan door
+            een eliminatiereactie water en propeen uit de in R4 gevormde stof. Na
+            een scheidingsstap (S5) wordt het gevormde propeen weer gebruikt in het
+            cumeen-proces.
+
+4p   21     Vul het blokschema op de uitwerkbijlage aan met de methode die Mitsui
+            heeft ontwikkeld. Geef ontbrekende blokken en pijlen weer en vermeld
+            stofnamen bij de pijlen. Neem aan dat er hierbij geen andere stoffen nodig
+            zijn, dat er geen nevenproducten ontstaan en dat de reacties aflopend
+            zijn.
+
+
+
+VW-1028-a-18-1-o                           9 / 11                            lees verder ►►►
+      Fotonenboer
+
+            Een Nederlandse melkveehouder voorziet sinds 2010 met zonnecellen in
+            de eigen energiebehoefte. Voor de opslag van overdag teveel
+            geproduceerde energie is op de boerderij een zogeheten Vanadium
+            Redox Flow Battery (VRFB) geplaatst. In deze VRFB worden oplossingen
+            met verschillende vanadiumionen vanuit twee opslagtanks door een
+            aantal geschakelde elektrochemische cellen gepompt. Dit proces is in de
+            figuur hieronder vereenvoudigd weergegeven met één elektrochemische
+            cel. In deze opgave wordt de term vanadiumionen gebruikt voor
+                                               +
+            (combinaties van) de deeltjes VO2 , VO2+, V3+ en V2+.
+            In beide oplossingen is verder alleen opgelost zwavelzuur aanwezig.
+
+            figuur
+
+                   VO2+                   V3+
+
+
+                   VO2+                   V2+
+              H+ SO42-    membraan      H+ SO42-
+
+            Wanneer de VRFB voor het eerst in gebruik wordt genomen, is van de
+            genoemde vanadiumionen in de linker opslagtank alleen VO2+ aanwezig
+            en in de rechter opslagtank alleen V3+. In deze situatie levert de VRFB
+            geen stroom. Doordat in de VRFB selectieve membranen worden
+            toegepast, worden tijdens het opladen en de stroomlevering vrijwel
+            uitsluitend H+ ionen doorgelaten.
+
+4p   22     Geef de vergelijking van beide halfreacties die tijdens het opladen
+            optreden. Geef je antwoord als volgt weer:
+            linker halfcel: …
+            rechter halfcel: …
+2p   23     Leg uit in welke richting de H+ ionen door het membraan passeren tijdens
+            het opladen.
+
+            De VRFB van de fotonenboer is een CellCube type FB 10-100. Het
+            typenummer geeft informatie over de twee belangrijkste kenmerken van
+            de VRFB:
+             Het vermogen (de hoeveelheid energie die per seconde kan worden
+               geleverd) bedraagt 10 kJ s–1.
+             De opslagcapaciteit (de maximale hoeveelheid elektrische energie die
+               kan worden geleverd) bedraagt 100 kWh.
+
+
+
+
+VW-1028-a-18-1-o                           10 / 11                          lees verder ►►►
+            Het totale rendement van de omzetting van chemische energie in
+            elektrische energie van deze VRFB bedraagt 67%. Bij stroomlevering
+            geeft 1 mol elektronen 1,35·105 J energie af aan het lichtnet.
+
+3p   24     Bereken hoeveel m3 oplossing voor één opslagtank nodig is om de VRFB
+            voor het eerste gebruik te vullen. Gebruik onder andere de volgende
+            gegevens:
+             Vóór het eerste gebruik bedraagt de concentratie van de
+               vanadiumionen in de gebruikte oplossingen 1,7 M.
+             Een kWh is 3,6·106 J.
+
+            Uit onderzoek is gebleken dat onder bepaalde omstandigheden een
+            neerslag van de vaste stof V2O5.3H2O ontstaat in de linker opslagtank.
+            Deze stof wordt gevormd uit VO2+ ionen en één andere stof. Bij deze
+            reactie ontstaat één ander soort deeltje.
+                                                                                +
+3p   25     Geef de reactievergelijking van de vorming van V2O5.3H2O uit VO2 .
+
+            Een andere boer wil een VRFB aanschaffen met een hogere
+            opslagcapaciteit en een hogere maximale stroomsterkte dan de
+            genoemde CellCube.
+            In de tabel op de uitwerkbijlage staan vijf aanpassingen die de fabrikant
+            kan doen om tegemoet te komen aan de eisen van deze boer.
+            Uit de tabel valt onder andere op te maken dat een hogere concentratie
+            vanadiumionen zorgt voor een toename van de opslagcapaciteit en de
+            maximale stroomsterkte van de VRFB.
+
+2p   26     Verklaar aan de hand van het botsende-deeltjes-model dat een hogere
+            concentratie vanadiumionen zorgt voor een toename van de maximale
+            stroomsterkte van de VRFB.
+2p   27     Geef in de tabel op de uitwerkbijlage met een kruisje aan welke
+            aanpassingen een toename van de opslagcapaciteit en/of een toename
+            van de maximale stroomsterkte veroorzaken.
+            Neem steeds aan dat de overige factoren geen beperking vormen.
+
+
+
+
+VW-1028-a-18-1-o                            11 / 11                           lees verdereinde
+                                                                                           ►►► 
+

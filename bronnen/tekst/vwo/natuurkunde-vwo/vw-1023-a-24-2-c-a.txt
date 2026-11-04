@@ -1,0 +1,78 @@
+ aanvulling op het correctievoorschrift                                  2024-2
+
+natuurkunde vwo
+
+     Centraal examen vwo
+
+     Tijdvak 2
+
+     Correctievoorschrift
+
+
+     Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+     Bij het centraal examen natuurkunde vwo:
+
+     Op pagina 7, bij vraag 3 moet
+
+     voorbeeld van een antwoord:
+     Er is 1,3 kWh nodig om de accu van 35% tot 100% op te laden. Om de accu
+                                         1,3
+     van 0% tot 100% op te laden is dus        2, 0 kWh nodig.
+                                        0, 65
+                                           Enuttig 1, 74
+     Het rendement van het opladen is                   0,87 .
+                                            Ein      2, 0
+
+     •    toepassen van de factor 35%                                      1
+                          Enuttig
+     •    gebruik van                                                    1
+                            Ein
+     •    completeren van de berekening                                    1
+     •    significantie                                                    1
+
+     vervangen worden door:
+
+     voorbeeld van een antwoord:
+     Er is 1,3 kWh nodig om de accu van 35% tot 100% op te laden. Om de accu
+                                                      1,3
+     van 0% tot 100% op te laden geldt dus: Enodig         2, 0 kWh .
+                                                     0, 65
+                                          Eopgeslagen 1, 74
+     Het rendement van het opladen is                      0,87 .
+                                            Enodig      2, 0
+
+     •    toepassen van de factor 0,65                                     1
+                          Eopgeslagen
+     •    inzicht dat                                                    1
+                            Enodig
+     •    completeren van de berekening                                    1
+     •    significantie                                                    1
+
+
+VW-1023-a-24-2-c-A
+      en
+
+      Op pagina 18, bij vraag 27 moet
+
+      uitkomst: minimum = 0,9 Hz (met een marge van 0,2 Hz)
+                maximum = 1,8 Hz (met een marge van 0,2 Hz)
+
+      vervangen worden door:
+
+      uitkomst: minimum tussen 0,4 Hz en 1,1 Hz
+                maximum tussen 1,6 Hz en 3,0 Hz
+
+
+      Ik verzoek u dit bericht door te geven aan de correctoren natuurkunde vwo.
+
+      Namens het College voor Toetsen en Examens,
+
+      drs. J.H. van der Vegt,
+      voorzitter
+
+
+
+
+VW-1023-a-24-2-c-A
+

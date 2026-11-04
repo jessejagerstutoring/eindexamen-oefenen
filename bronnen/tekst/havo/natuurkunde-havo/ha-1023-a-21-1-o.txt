@@ -1,0 +1,553 @@
+                                                                   Examen HAVO
+
+                                                                         2021
+                                                                               tijdvak 1
+                                                                      donderdag 20 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                      natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen,
+dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-21-1-o
+      Lassen
+
+              Voor deze opgave moet je gebruikmaken van de tabel met
+              stofeigenschappen van ijzer in figuur 1.
+
+              figuur 1
+                  stofeigenschap                waarde
+                  dichtheid                     7,87∙103 kg m3
+                  elasticiteitsmodulus          2,20∙1011 Pa
+                  smeltpunt                     1,811∙103 K
+                  soortelijke warmte            0,46∙103 J kg1 K1
+                  soortelijke weerstand         1,05∙107 Ω m
+                  treksterkte                   3,5∙108 Pa
+                  warmtegeleidingscoëfficiënt   80,3 W m1 K1
+
+              Lassen is een techniek om          figuur 2
+              metalen delen aan elkaar te
+              bevestigen. Dit kan door die
+              delen met een brander zo te
+              verhitten dat op de plek van de
+              verhitting het materiaal van beide
+              delen smelt en vervolgens na
+              afkoeling tot één geheel samen
+              vast wordt. Zie figuur 2. Deze
+              plek wordt een ‘las’ genoemd.
+
+1p    1       Hoe heet de tweede faseovergang in het beschreven lasproces?
+              A  bevriezen
+              B  condenseren
+              C  stollen
+              D  sublimeren
+
+              Het smeltpunt kan ook bereikt worden           figuur 3
+              door een elektrische stroom door de
+              metalen delen te laten lopen. Hiervoor
+              wordt een puntlasapparaat gebruikt. Een
+              puntlasapparaat levert een hoge
+              stroomsterkte bij een lage spanning over
+              twee elektroden. Twee plaatjes ijzer
+              worden met een puntlasapparaat aan
+              elkaar gelast. Zie figuur 3. De plaatjes
+              worden op elkaar gelegd en krachtig op
+              elkaar gedrukt door de twee elektroden.
+
+
+
+
+HA-1023-a-o                                     2 / 17                       lees verder ►►►
+              Als de elektroden tegen de plaatjes worden gedrukt gaat er een stroom I
+              door het ijzer tussen de elektroden lopen. Het ijzer tussen de elektroden
+              is bij benadering cilindervormig. Zie figuur 4a. De ijzeren plaatjes tussen
+              de elektroden zijn samen 1,8 mm dik en raken elkaar alleen tussen de
+              elektroden. De oppervlakte A waarmee de ijzeren plaatjes elkaar raken, is
+              6,4·105 m2; deze is even groot als de oppervlakte van de punt van een
+              elektrode. Zie figuur 4a en 4b.
+
+              figuur 4a
+
+
+
+
+              figuur 4b
+
+
+
+
+              Over de plaatjes staat een spanning van 0,20 V. De stroomsterkte door
+              het ijzer is op dat moment gelijk aan 68 kA.
+
+3p    2       Toon dat aan met een berekening.
+
+              De massa van het cilindervormige deel ijzer tussen de elektroden
+              is 9,1∙10−4 kg. Het ijzer heeft een begintemperatuur van 20 °C.
+              Van de warmte die ontstaat tussen de elektroden wordt 15% gebruikt om
+              het ijzer tussen de elektroden tot het smeltpunt te verhitten.
+              De weerstand van het ijzer tussen de elektroden wordt als constant
+              beschouwd.
+
+5p    3       Bereken na hoeveel tijd het ijzer begint te smelten.
+
+
+
+
+HA-1023-a-o                                   3 / 17                            lees verder ►►►
+              Vaak worden meerdere lassen naast elkaar gemaakt. Zie figuur 5 en
+              schematisch in figuur 6. De elektrische spanning over de elektroden is
+              voor iedere las even groot.
+
+              figuur 5
+
+
+
+
+              figuur 6
+
+
+
+
+              De platen raken elkaar alleen op de lassen. Zie figuur 6.
+2p    4       Leg uit of de stroomsterkte door de elektroden tijdens het maken van
+              meerdere lassen naast elkaar groter wordt, kleiner wordt of gelijk blijft.
+
+              In werkelijkheid blijft de weerstand     figuur 7
+              van het ijzer tussen de elektroden
+              niet constant gedurende het
+              vormen van een las (de ‘lastijd’).
+              Zie figuur 7.
+2p    5       Leg met behulp van figuur 7 uit of ijzer
+              een PTC-materiaal of een
+              NTC-materiaal is.
+
+
+
+
+HA-1023-a-o                                    4 / 17                             lees verder ►►►
+              De koperen elektroden worden heet tijdens het lassen. Ze moeten daarom
+              gekoeld worden door er met slangen water doorheen te pompen. Zie
+              figuur 8.
+
+              figuur 8
+
+
+
+
+              Op de uitwerkbijlage staan drie stellingen over het heet worden van de
+              elektroden.
+2p    6       Geef op de uitwerkbijlage per stelling met een kruisje aan of deze waar of
+              niet waar is.
+
+              Als de las is afgekoeld zijn de ijzeren plaatjes op die plek tot één geheel
+              met elkaar verbonden. De oppervlakte A van de las is 6,4·105 m2.
+              Op de las kan een trekkracht F uitgeoefend worden. Zie figuur 9.
+
+              figuur 9
+
+
+
+
+2p    7       Bereken de maximale trekkracht F op de las zonder dat de las breekt.
+
+
+
+
+HA-1023-a-o                                    5 / 17                             lees verder ►►►
+      De maan Europa
+
+              De planeet Jupiter heeft meerdere manen. Zie figuur 1. Deze figuur is niet
+              op schaal. Een van deze manen heet Europa. Gegevens over de maan
+              Europa zijn te vinden in Binas-tabel 31 of Sciencedata-tabel 3.3a.
+
+              figuur 1
+
+
+
+
+              De straal van de baan van Europa is 670,9 106 m.
+3p    8       Bereken de baansnelheid van Europa rond Jupiter.
+
+              De oppervlaktetemperatuur van Europa is 173 K. Dit is bepaald door λmax
+              te meten van het infraroodspectrum dat deze maan uitzendt.
+3p    9       Bereken de frequentie die hoort bij deze λmax.
+
+
+
+
+HA-1023-a-o                                   6 / 17                           lees verder ►►►
+               Sommige wetenschappers denken dat de temperatuur onder het
+               oppervlak van Europa veel hoger is dan 173 K. Hun verklaring hiervoor is
+               de voortdurende verandering van de gravitatiekracht op de maan Europa.
+               In figuur 2 zijn Jupiter en Europa getekend. Deze figuur is niet op schaal.
+               Op de maan Europa zijn twee punten gemarkeerd met ‘a’ en ‘b’.
+
+               figuur 2
+
+
+
+
+               De gravitatiekracht die Jupiter op Europa uitoefent is in punt a niet even
+               groot als in punt b. Hierdoor wordt Europa een beetje vervormd. Dit is
+               schematisch weergegeven in figuur 3.
+
+               figuur 3
+
+
+
+
+2p    10       Beredeneer met behulp van de formule voor de gravitatiekracht welke
+               figuur (I of II) de vervorming van Europa het best weergeeft.
+
+
+
+
+HA-1023-a- o                                    7 / 17                            lees verder ►►►
+               Behalve Jupiter oefenen ook de manen Ganymedes en Io een (kleine)
+               gravitatiekracht uit op Europa. Omdat deze drie manen ten opzichte van
+               elkaar in beweging zijn, veranderen deze gravitatiekrachten steeds. De
+               wetenschappers denken dat de maan Europa zo ‘gekneed’ wordt. Hierbij
+               zou dan warmte ontstaan waardoor de temperatuur in het inwendige van
+               Europa kan stijgen.
+
+               In figuur 4 is de stand van de drie manen op een bepaald moment t = 0
+               weergegeven. Neem aan dat Jupiter stilstaat en dat de drie manen in een
+               cirkelbaan in de aangegeven richting bewegen. Op t = 3,55 d heeft de
+               maan Io 2,0 omwentelingen om Jupiter gemaakt en is de stand zoals in
+               figuur 5. Figuur 4 en 5 zijn niet op schaal.
+
+               figuur 4                                        figuur 5
+
+
+
+
+               Vergelijk de resulterende kracht op (het zwaartepunt van) Europa in
+               figuur 5 met die in figuur 4.
+1p    11       Welke uitspraak is waar?
+               A De resulterende kracht op Europa in figuur 5 is kleiner dan die in
+                   figuur 4.
+               B De resulterende kracht op Europa in figuur 5 is even groot als die in
+                   figuur 4.
+               C De resulterende kracht op Europa in figuur 5 is groter dan die in
+                   figuur 4.
+
+               De omlooptijden van de manen van Jupiter hebben een vaste verhouding
+               tot elkaar. Er geldt:
+
+                  TIo : TEuropa : TGanymedes  1: 2 : 4
+
+               Figuur 4 en figuur 5 staan ook op de uitwerkbijlage.
+4p    12       Teken in de derde figuur op de uitwerkbijlage de stand van de manen op
+               t = 5,32 d. Leg je antwoord uit met behulp van een berekening.
+
+
+
+
+HA-1023-a- o                                          8 / 17                    lees verder ►►►
+       Kitmarker
+
+               Een kitmarker is een permanente          figuur 1
+               lichtbron die aan een sleutelbos
+               gehangen kan worden. Zie figuur 1.
+               Zo zijn sleutels in het donker terug
+               te vinden. Een kitmarker heeft
+               geen batterij. Het is een glazen
+               buisje met daarin gasvormig H-3
+               (tritium). Tritium is een β-straler.
+3p    13       Geef de vergelijking van de
+               vervalreactie van tritium.
+
+               De binnenkant van de glazen buis
+               is voorzien van een speciale verflaag. De vrijgekomen straling uit het
+               tritiumverval zorgt ervoor dat de verflaag groenblauw licht gaat uitzenden.
+               De fotonen van dit zichtbare licht hebben een energie van 2,5 eV.
+3p    14       Bereken de frequentie van deze fotonen.
+
+               De uitgezonden β-deeltjes passeren de positieve kernen van het tritium.
+               Hierbij verandert de richting van de baan van het β-deeltje.
+
+1p    15       In welke figuur is een mogelijke verandering van de richting van de baan
+               juist weergegeven?
+
+
+
+
+                 A                     B                       C                  D
+
+
+               Bij de verandering van de baan van een β-deeltje komt energie vrij. Deze
+               energie komt vrij als een foton met een energie van 1,0 ∙102 MeV. Dit
+               foton wordt ook door de kitmarker uitgezonden.
+1p    16       Welke soort elektromagnetische straling is dit?
+               A ultraviolette straling
+               B röntgenstraling
+               C zachte gammastraling
+               D harde gammastraling
+
+
+
+
+HA-1023-a- o                                   9 / 17                            lees verder ►►►
+               Sleutels worden vaak meegenomen in een broekzak. De kitmarker wordt
+               dan langdurig tegen het lichaam gedragen. Een onderzoeker wil het risico
+               hiervan onderzoeken. Hij wil veilig de halveringsdikte voor deze fotonen in
+               menselijk lichaamsweefsel bepalen. In plaats van menselijk weefsel
+               gebruikt hij aluminium en hanteert hij daarbij de volgende vuistregel:
+
+       De halveringsdikte van menselijk lichaamsweefsel voor dit soort straling is
+       10 keer zo groot als de halveringsdikte van aluminium.
+
+               Achter aluminium plaatjes van diverse diktes meet de onderzoeker de
+               intensiteit van de straling afkomstig van de kitmarker. Hij meet met een
+               GM-teller het aantal pulsen per minuut. Zijn metingen zijn uitgezet in een
+               diagram. Zie figuur 2.
+
+               figuur 2
+
+
+
+
+               Ten slotte heeft hij de achtergrondstraling bepaald. Deze is
+               1,00∙103 pulsen per minuut. Figuur 2 is ook op de uitwerkbijlage
+               weergegeven.
+4p    17       Bepaal met behulp van de figuur op de uitwerkbijlage de halveringsdikte
+               voor de straling van de kitmarker in menselijk lichaamsweefsel.
+
+
+
+
+HA-1023-a- o                                   10 / 17                           lees verder ►►►
+               De onderzoeker neemt aan dat iemand de kitmarker 8,0 uur per dag in
+               zijn zak heeft. De bestraalde lichaamsmassa is 1,5∙102 gram. Deze massa
+               absorbeert per seconde de energie van 1,25∙103 fotonen.
+               De weegfactor voor deze straling is 1. Ieder foton heeft een energie van
+               1,6∙1015 J. De equivalente dosislimiet voor dit deel van het lichaam is
+               50 mSv per jaar.
+4p    18       Toon met een berekening aan of de opgelopen straling beneden de
+               jaarlijkse equivalente dosislimiet blijft.
+
+
+
+
+HA-1023-a- o                                 11 / 17                          lees verder ►►►
+      Sprong van Luke Aikins
+
+              In 2016 sprong skydiver Luke Aikins zonder parachute vanaf een hoogte
+              van bijna 8 km recht naar beneden. Boven de grond was een groot net
+              opgespannen om hem veilig op te vangen. Zie figuur 1 en 2.
+
+              figuur 1                          figuur 2
+
+
+
+
+              Aikins ondervond een luchtweerstandskracht. Hiervoor geldt:
+
+                 Fw  kAv 2
+
+              Hierin is:
+               k een constante;
+               A de frontale oppervlakte van Aikins;
+               v de snelheid ten opzichte van de lucht.
+
+2p    19      Leid de eenheid van k af in (grond)eenheden van het SI zoals vermeld in
+              Binas-tabel 3a of Sciencedata-tabel 1.3a.
+
+              Dankzij de luchtweerstandskracht bereikte hij na verloop van tijd een
+              constante snelheid van 54 m s1. Zijn massa is 75 kg en zijn frontale
+              oppervlakte is 0,80 m2.
+
+2p    20      Bereken de waarde van k.
+
+
+
+
+HA-1023-a-o                                  12 / 17                           lees verder ►►►
+               Tijdens de laatste 1,0 kilometer op weg naar het net was Aikins’
+               valsnelheid 54 m s1. Ook was er zijwind die hem een constante
+               horizontale snelheid zou geven van 4,9 km h1. Aikins moest tijdens zijn
+               val daarom bijsturen op weg naar het net.
+
+4p    21       Voer de volgende opdrachten uit:
+                Bereken de valtijd waarin Aikins de 1,0 kilometer naar het net aflegde.
+                Bereken hoe ver Aikins zou afwijken van de koers als hij niet zou
+                  bijsturen.
+
+               Een landing op de buik is gevaarlijk. Aikins moest daarom vlak voor de
+               landing draaien. Dat deed hij door een van zijn handen dichter bij zijn
+               lichaam te houden. In figuren 3 en 4 is dat weergegeven. Aikins wordt
+               hierbij als stilstaand beschouwd, terwijl de bewegende lucht
+               weerstandskracht op zijn beide handen uitoefent. Andere krachten worden
+               niet meegenomen.
+
+                figuur 3                                figuur 4
+
+
+
+
+                Op beide handen werken even             Aikins buigt één hand dichter naar
+                grote luchtweerstandskrachten. De       zich toe. De grootte van de
+                werklijnen en aangrijpingspunten        luchtweerstandskrachten op zijn
+                van deze krachten zijn                  handen blijft constant. Hierdoor
+                weergegeven in de figuur.               ontstaat een verschil in moment links
+                Aikins is hierbij in evenwicht.         en rechts. Als gevolg van het buigen
+                                                        begint Aikins te draaien rondom
+                                                        draaipunt D, in de richting van de
+                                                        kracht met het grootste moment.
+
+               Op de uitwerkbijlage staan figuren 3 en 4 en twee invulzinnen.
+4p    22       Voer de volgende opdrachten uit:
+                Teken op de uitwerkbijlage in beide figuren de
+                  luchtweerstandskrachten op de handen. Teken alle krachten in de
+                  juiste onderlinge verhouding.
+                Teken in beide figuren de armen die horen bij deze krachten.
+                Omcirkel in iedere zin het goede antwoord.
+
+
+
+
+HA-1023-a- o                                  13 / 17                              lees verder ►►►
+              Van de landing in het net is een videometing gemaakt. Zie figuur 5.
+
+              figuur 5
+                1                                      2
+
+
+
+
+                3                                      4
+
+
+
+
+              Het net remde Aikins af van 54 m s1 tot stilstand. Tijdens het afremmen
+              legde Aikins nog 37 m naar beneden af. Verwaarloos de arbeid door de
+              luchtwrijvingskracht tijdens het remmen.
+4p   23       Bereken de energie die het net geabsorbeerd heeft.
+
+              Het net moest aan diverse eisen voldoen om Aikins veilig tot stilstand te
+              brengen. Op de uitwerkbijlage staat een tabel met technische
+              ontwerpoplossingen voor het net en natuurkundige concepten die daarbij
+              een rol spelen.
+2p   24       Omcirkel bij elke ontwerpoplossing het beste bijbehorende natuurkundige
+              concept.
+
+              Op de uitwerkbijlage staat het (v,t)-diagram van het laatste deel van de
+              stunt van Aikins: het afremmen in het net. Ook staat op de uitwerkbijlage
+              een tweede diagram. In dit diagram is af te lezen gedurende hoeveel tijd
+              een mens een bepaalde vertraging veilig kan ondergaan voordat deze
+              vertraging schadelijk wordt.
+4p   25       Voer de volgende opdrachten uit met behulp van de grafieken op de
+              uitwerkbijlage:
+               Bepaal de grootte en de tijdsduur van de maximale vertraging die
+                  Aikins onderging.
+               Toon aan of deze maximale vertraging veilig was voor Aikins.
+
+
+
+HA-1023-a-o                                  14 / 17                           lees verder ►►►
+      Cicaden
+
+              In het bos zijn in de zomer vaak cicaden te vinden. Zie figuur 1 en 2.
+              Figuur 2 is hier op ware grootte.
+
+              figuur 1                                  figuur 2
+
+
+
+
+              De mannetjes van deze insectensoort produceren een hard geluid om
+              vrouwtjes te zoeken.
+
+2p   26       Omcirkel in iedere zin op de uitwerkbijlage het goede antwoord.
+
+              De mannetjes produceren het geluid door het afwisselend samentrekken
+              en ontspannen van een spier, waardoor een zogenaamde tymbaal van
+              vorm verandert.
+              Bij het aanspannen van de spier veroorzaakt die vormverandering van de
+              tymbaal kortstondig een geluidspuls (de ‘in-klik’). Door de spier te
+              ontspannen klapt de tymbaal weer terug en wordt opnieuw een korte
+              geluidspuls gemaakt (de ‘uit-klik’). Zie figuur 3.
+
+              figuur 3
+
+
+
+
+HA-1023-a-o                                   15 / 17                            lees verder ►►►
+               Van het geluid van een cicade is een oscillogram gemaakt. Zie figuur 4.
+
+               figuur 4
+
+
+
+
+               In figuur 4 is opeenvolgend het patroon van de geluidspuls van de in-klik
+               en van de uit-klik te zien.
+
+               Het oscillogram is gemaakt met een meetapparaat dat voor de
+               tijdsregistratie gebruikmaakt van een klok. De klok produceert om de
+               10 ms een piek. Die pieken zijn ook weergeven in figuur 4. Deze figuur
+               staat ook op de uitwerkbijlage.
+3p    27       Bepaal de frequentie van het geluid van de uit-klik.
+
+               Het geluid wordt door de buikholte versterkt.
+1p    28       Geef de naam van dit verschijnsel.
+
+               In figuur 4 is te zien dat de amplitude van de trilling van de uit-klik
+               afneemt.
+1p    29       Wat betekent dat voor het geluid dat bij die trilling hoort?
+               A De toon wordt in de loop van de tijd luider.
+               B De toon wordt in de loop van de tijd hoger.
+               C De toon wordt in de loop van de tijd lager.
+               D De toon wordt in de loop van de tijd zachter.
+
+
+
+
+HA-1023-a- o                                     16 / 17                             lees verder ►►►
+              De mannetjescicaden maken dit geluid om vrouwtjes te vinden. Een
+              vrouwtje reageert door geluid te maken met haar vleugels. In het bos
+              kunnen bomen het geluid blokkeren als de golflengte van het geluid korter
+              is dan de breedte van een boom. Bij een langere golflengte buigt het
+              geluid om de boom heen en is het ook achter de boom te horen. De
+              temperatuur in het bos is 30 °C.
+3p   30       Bepaal de maximale frequentie van het geluid van het vrouwtje dat ook
+              achter de boom uit figuur 1 te horen is. Schat daartoe eerst de dikte van
+              die boom met behulp van figuur 1 en 2.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a-o                                              17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

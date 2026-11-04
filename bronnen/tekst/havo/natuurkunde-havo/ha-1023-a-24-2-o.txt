@@ -1,0 +1,442 @@
+                                                                  Examen HAVO
+
+                                                                        2024
+                                                                               tijdvak 2
+                                                                      maandag 24 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-24-2-o
+      Kunstmatige meteoroïden
+
+            Meteoroïden zijn objecten uit de ruimte die lichtflitsen veroorzaken bij het
+            binnendringen en doorkruisen van de atmosfeer van de aarde. Deze
+            lichtflitsen zijn als lichtsporen aan de hemel te zien. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Meteoroïden komen de aardatmosfeer binnen met een snelheid tussen
+            3,5 104 km h 1 en 2,5 105 km h 1. De meteoroïde in figuur 1 was
+            gedurende 1,22 s zichtbaar aan de hemel.
+4p    1     Bereken de maximale lengte van het spoor van deze meteoroïde. Noteer
+            je antwoord in het juiste aantal significante cijfers.
+
+            Het waarnemen van een meteoroïde is een toevalstreffer. Daarom
+            ontwikkelt een Japans bedrijf kunstmatige meteoroïden om deze op
+            afroep als kosmisch vuurwerk in te zetten. Het bedrijf heeft een satelliet
+            ontworpen die vanuit de ruimte metalen bolletjes kan lanceren richting de
+            aarde. Deze bolletjes komen de aardatmosfeer binnen op hoge snelheid.
+            Door de luchtwrijving bereiken de bolletjes een zeer hoge temperatuur
+            waardoor ze gedurende langere tijd helder licht uitzenden.
+
+            Het bedrijf heeft de bolletjes getest in een testopstelling waar ze de vlucht
+            door de aardatmosfeer nabootsen met een luchtstroom. De temperatuur
+            van de bolletjes wordt bepaald door de golflengte van de straling met de
+            hoogste intensiteit te meten. Deze is 940 nm.
+3p    2     Bereken de temperatuur van de bolletjes in C .
+
+
+
+HA-1023-a-24-2-o                             2 / 15                             lees verder ►►►
+            De satelliet van het bedrijf draait op 4,0 102 km hoogte boven het
+            aardoppervlak in een cirkelbaan.
+
+4p    3     Bereken de snelheid van de satelliet in deze baan.
+
+            De bolletjes beginnen hun val vanuit de satelliet richting aarde.
+            Max en Lara hebben ieder een verklaring waarom een bolletje niet in een
+            cirkelbaan om de aarde blijft draaien, maar naar de aarde toe valt:
+             Volgens Max valt een bolletje naar de aarde omdat het een lagere
+                snelheid heeft dan de benodigde baansnelheid.
+             Volgens Lara valt een bolletje naar de aarde omdat de gravitatiekracht
+                groter is dan de middelpuntzoekende kracht die nodig is voor de
+                cirkelbaan.
+1p    4     Wie heeft er gelijk?
+            A Alleen Max heeft gelijk.
+            B Alleen Lara heeft gelijk.
+            C Beiden hebben gelijk.
+            D Geen van beiden heeft gelijk.
+
+            De bolletjes beginnen hun val richting aarde met een beginsnelheid van
+            7,5 103 ms 1 .
+            De valversnelling mag tijdens de hele val gelijkgesteld worden aan de
+            valversnelling op aarde. Op een hoogte van 1,0 102 km komen de
+            bolletjes de aardatmosfeer binnen.
+            De snelheid van de bolletjes is dan lager dan de snelheid van
+            3,5 104 km h 1 van een echte meteoroïde.
+4p    5     Toon dat aan met een berekening met de wet van behoud van energie.
+
+
+
+
+HA-1023-a-24-2-o                            3 / 15                            lees verder ►►►
+            De kunstmatige meteoroïden lichten op als ze de atmosfeer op
+            h  1,0 102 km boven het aardoppervlak binnendringen. Ze zijn op dat
+            moment overal vanaf het aardoppervlak waarneembaar binnen een
+            cirkelvormig gebied dat de basis is van een kegel met hoogte h en een
+            tophoek α van 77 graden. Zie schematisch en niet op schaal in figuur 2.
+
+            figuur 2
+
+
+
+
+            In figuur 3 zijn vier gebieden (I, II, III en IV) met bijbehorende orde van
+            grootte weergegeven.
+
+            figuur 3
+
+
+
+
+3p    6     Leg met behulp van een berekening uit welk gebied (I, II, III of IV) het
+            grootste gebied is waarbinnen het kosmisch vuurwerk van de meteoroïden
+            nog overal zichtbaar is.
+
+
+
+
+HA-1023-a-24-2-o                             4 / 15                             lees verder ►►►
+      Knakworstenverwarmer
+
+            Lieke onderzoekt of het mogelijk is om een knakworst te verwarmen door
+            er een elektrische stroom doorheen te sturen.
+            Hiervoor prikt ze twee aansluitpunten in een knakworst en bouwt ze de
+            schakeling van figuur 1.
+
+            figuur 1
+
+
+
+
+            In de schakeling van figuur 1 zijn twee meters (I en II) opgenomen.
+            Eentje werkt als spanningsmeter, de andere als stroommeter.
+2p    7     Leg op basis van de schakeling in figuur 1 uit welke meter (I of II) de
+            stroommeter is.
+
+
+
+
+HA-1023-a-24-2-o                            5 / 15                             lees verder ►►►
+            Lieke meet de stroom I door de knakworst bij verschillende
+            spanningen U. Ze voert de metingen in zeer korte tijd uit, om de
+            knakworst tijdens deze metingen nog niet te laten opwarmen.
+
+            Van haar metingen maakt ze een (I,U)-diagram. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Op het potje van de knakworsten staat dat er zout in zit. Lieke vraagt zich
+            af of de soortelijke weerstand van de knakworst hetzelfde is als die van
+            zout water. Op internet vindt ze dat de soortelijke weerstand van zout
+            water gelijk is aan 0,24 Ωm.
+            De knakworst heeft een diameter van 15 mm en de lengte van de
+            knakworst tussen de aansluitpunten van de draden is 8,0 cm.
+6p    8     Voer de volgende opdrachten uit:
+             Bepaal met behulp van figuur 2 de weerstand van de knakworst.
+                Noteer je antwoord in twee significante cijfers.
+             Toon met een berekening aan of de soortelijke weerstand van de
+                knakworst gelijk is aan die van zout water.
+
+
+
+
+HA-1023-a-24-2-o                            6 / 15                             lees verder ►►►
+            Vervolgens zet Lieke een constante spanning over de knakworst. Nu laat
+            ze de knakworst wel opwarmen. Het valt Lieke op dat de stroomsterkte
+            niet constant blijft tijdens het verwarmen. Ze maakt daarom een (I,t)-
+            diagram. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+3p    9     Leg met behulp van figuur 3 uit of de knakworst zich gedraagt als een
+            NTC of als een PTC.
+
+            Lieke laat de knakworst in 14 minuten opwarmen van een temperatuur
+            van 22 C tot een temperatuur van 60 C . Ze vraagt zich af wat het
+            rendement is van haar opstelling tijdens het opwarmen van de knakworst.
+            Het gemiddelde elektrische vermogen tijdens het opwarmen is 3,9 W. De
+            massa van de knakworst is 20 g.
+            Ze vindt op internet dat vlees een soortelijke warmte heeft van
+            3,0 103 J kg 1 K 1 .
+4p    10    Bereken het rendement van de opstelling.
+
+            Lieke wil nu met haar opstelling, in dezelfde tijd als bij één knakworst,
+            meerdere knakworsten tegelijk opwarmen tot een temperatuur van 60 C.
+            Op de spanningsbron staat vermeld dat deze een maximale spanning van
+            35 V kan leveren en een maximale stroomsterkte van 5,0 A.
+3p    11    Leg met behulp van figuren 2 en 3 uit of ze de knakworsten dan in serie of
+            parallel moet aansluiten op de spanningsbron.
+
+
+
+
+HA-1023-a-24-2-o                           7 / 15                            lees verder ►►►
+      Boombrommer
+
+            Betelnoten groeien in de toppen van palmbomen. De stammen van die
+            bomen zijn hoog en kaarsrecht. Zie figuur 1. Boeren beklimmen deze
+            bomen om de noten te plukken. Een uitvinder heeft een boombrommer
+            gemaakt om langs een stam omhoog naar de top te kunnen ‘rijden’. Zie
+            figuur 2.
+
+            figuur 1                                figuur 2
+
+
+
+
+            De brommer klemt met wielen om de stam.
+            Een benzinemotor kan de brommer met constante snelheid langs de stam
+            naar boven laten rijden.
+            De boombrommer is uitgerust met een rem. Deze rem zorgt voor een
+            grote remkracht op de brommer, waardoor die stil kan hangen aan de
+            stam. De boombrommer kan vanuit stilstand weer afdalen langs de stam
+            door de remkracht te verkleinen.
+
+
+
+
+HA-1023-a-24-2-o                          8 / 15                          lees verder ►►►
+            De uitvinder heeft een testrit gemaakt om de boombrommer te
+            demonstreren. Van deze rit is een (h,t)-diagram gemaakt. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            Op de uitwerkbijlage staat een tabel.
+2p    12    Geef in de tabel met een kruisje per tijdstip aan welke bewering juist is.
+
+            Figuur 3 staat ook op de uitwerkbijlage.
+4p    13    Bepaal met behulp van de figuur op de uitwerkbijlage de maximale
+            snelheid waarmee de brommer langs de stam naar boven rijdt. Geef in de
+            figuur aan hoe je aan je antwoord komt. Noteer je antwoord in twee
+            significante cijfers.
+
+
+
+
+HA-1023-a-24-2-o                             9 / 15                             lees verder ►►►
+            In figuur 4 is de situatie van een stil hangende boombrommer
+            schematisch en op schaal weergegeven. Bij het ontwerp is handig
+            gebruikgemaakt van de hefboomwet. De brommer heeft een draaipunt D.
+            De boom oefent op steunwiel S alleen een normaalkracht Fn uit. Door de
+            arm rFn ontstaat er een moment M. Dit is in evenwicht met het moment
+            van de zwaartekracht Fz op de uitvinder en brommer samen. De uitvinder
+            hangt stil. De massa van de uitvinder en boombrommer samen is 104 kg.
+            figuur 4
+
+
+
+
+            Figuur 4 staat ook op de uitwerkbijlage.
+4p    14    Voer de volgende opdrachten uit:
+             Teken de arm van de zwaartekracht.
+             Bepaal met behulp van de hefboomwet de grootte van de
+               normaalkracht Fn op steunwiel S. Noteer je antwoord in twee
+               significante cijfers.
+
+            De uitvinder wil dat de boom niet wordt beschadigd. Daarom wil hij Fn zo
+            klein mogelijk houden. In het ontwerp kan hij de afstand SD kleiner
+            maken.
+3p    15    Leg uit of Fn groter wordt, kleiner wordt of gelijk blijft door een kleinere
+            afstand SD.
+
+            De uitvinder beweert dat hij 135 bomen van elk 30 m hoog kan beklimmen
+            met 1,5 liter benzine. Het rendement van de motor die in de
+            boombrommer zit, is 18%.
+5p    16    Toon met een berekening aan of de bewering van de uitvinder kan
+            kloppen.
+
+
+
+
+HA-1023-a-24-2-o                             10 / 15                            lees verder ►►►
+      Wiebelgenerator
+
+            Er wordt onderzoek gedaan naar een nieuwe methode om windenergie
+            om te zetten in elektrische energie. Bij een bepaalde experimentele
+            methode wordt een lange paal gebruikt waarin staande golven ontstaan
+            als de paal in de wind staat. De wiebelende paal wekt elektriciteit op en
+            wordt dan ook ‘wiebelgenerator’ genoemd. Voor een test is een prototype
+            van een wiebelgenerator gemaakt met een 12,5 m lange paal. Zie
+            figuur 1. In deze figuur is schematisch weergegeven hoe de paal in de
+            grondtoon trilt.
+
+            figuur 1
+
+
+
+
+2p    17    Geef in de figuur op de uitwerkbijlage het patroon van knopen (K) en
+            buiken (B) voor de eerste boventoon van de paal.
+
+
+
+
+HA-1023-a-24-2-o                           11 / 15                           lees verder ►►►
+            De frequentie waarmee de paal gaat trillen, is afhankelijk van de
+            voortplantingssnelheid van de golven in de paal. Om deze snelheid te
+            bepalen, wordt tijdens een test de paal aan het trillen gebracht in de
+            grondtoon. Zie figuur 1. Van deze trilling wordt een (u,t)-diagram gemaakt.
+            Zie figuur 2.
+
+            figuur 2
+
+
+
+
+4p    18    Bepaal met behulp van figuren 1 en 2 de voortplantingssnelheid die uit
+            deze test volgt. Noteer je antwoord in twee significante cijfers.
+
+            Als gevolg van de wind ontstaan er rond de paal wervelingen met een
+            bepaalde frequentie fw. Voor een zo groot mogelijke opbrengst van de
+            wiebelgenerator moet fw gelijk zijn aan de eigenfrequentie f0 van de
+            grondtoon. De frequentie fw is niet constant, maar afhankelijk van de
+            windsnelheid. De eigenfrequentie f0 moet dus aangepast kunnen worden
+            tijdens het veranderen van de windsnelheid. De onderzoekers denken dit
+            te kunnen doen met een technische oplossing waarmee de veerconstante
+            van de paal kan worden verhoogd of verlaagd.
+            De paal is te modelleren als een massa-veer-systeem.
+            Op de uitwerkbijlage staan hierover twee zinnen.
+2p    19    Omcirkel op de uitwerkbijlage in iedere zin het juiste alternatief.
+
+
+
+
+HA-1023-a-24-2-o                           12 / 15                            lees verder ►►►
+            Met behulp van het model wordt berekend dat het nuttige vermogen van
+            de wiebelgenerator bij een bepaalde lengte van de paal gelijk is aan
+            100 W. Men wil het rendement van de wiebelgenerator bij een
+            windsnelheid van 12 m s˗1 vergelijken met het rendement van een
+            reguliere windturbine onder dezelfde omstandigheden.
+            Voor het vermogen dat de wind overdraagt op de wiebelgenerator geldt:
+
+             Pwind  0,30·  · A · v3                (1)
+
+            Hierin is:
+             Pwind het overgedragen vermogen;
+             ρ de dichtheid van lucht;
+             A het frontaal oppervlak van de wiebelende paal;
+             v de windsnelheid.
+
+            Het frontaal oppervlak voor de paal in het model wordt gesteld op 1,2 m2.
+            Een reguliere windturbine heeft onder dezelfde omstandigheden een
+            rendement van 35%.
+3p    20    Toon met behulp van een berekening aan of het rendement van de
+            wiebelgenerator dat volgt uit dit model hoger of lager is dan het
+            rendement van de reguliere windturbine.
+
+
+
+
+HA-1023-a-24-2-o                           13 / 15                           lees verder ►►►
+      Gebitsfoto
+
+            Om het gebit goed te kunnen beoordelen, maakt de tandarts
+            röntgenscans. Voor het maken van een röntgenscan kan de tandarts een
+            röntgenapparaat met een draaibare scanner gebruiken waarmee die een
+            foto van het volledige gebit kan maken. In korte tijd draait de scanner
+            rondom het hoofd van de patiënt. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De röntgenstraling wordt opgewekt in een zogenaamde röntgenbuis. Dit
+            gebeurt door in de röntgenbuis een trefplaatje te beschieten met
+            elektronen. De snelheid van de elektronen kan verhoogd worden door het
+            verhogen van een instelbare spanning U over de röntgenbuis. Zie
+            figuur 2.
+
+            figuur 2
+
+
+
+
+            Snellere elektronen leveren fotonen op met een hogere foton-energie en
+            dus een kleinere golflengte. De golflengte van fotonen die voor
+            gebitsfoto’s worden gebruikt, ligt tussen de 0,01 nm en 10 nm. De
+            spanning U is zo ingesteld dat de fotonenergie 85 keV is.
+
+
+
+
+HA-1023-a-24-2-o                          14 / 15                          lees verder ►►►
+4p    21    Toon met een berekening aan dat de golflengte van de gebruikte fotonen
+            binnen het aangegeven gebied ligt.
+
+            Hoeveel fotonen er per seconde ontstaan, wordt onder andere bepaald
+            door de stroomsterkte I van de elektronen in de röntgenbuis. Deze
+            stroomsterkte is 6,0 mA. Slechts 1 op de 100 elektronen uit deze stroom
+            maakt echt een foton vrij in het trefplaatje.
+3p    22    Bereken hoeveel fotonen er per seconde ontstaan.
+
+            Om de stralingsdosis goed te kunnen instellen, worden proefmetingen in
+            de scanner gedaan met een pop die werkt als een dosimeter.
+            De pop ontvangt tijdens een proefscan een stralingsvermogen van
+            2,6 104 W. Het maken van de totale scan duurt 16,7 s. De massa van het
+            bestraalde materiaal is 1,5 kg.
+3p    23    Bereken de dosis die de pop ontvangt tijdens deze proefscan.
+            In figuur 3 is de scan te zien zoals een tandarts die heeft gemaakt van
+            een patiënt. Eén van de kiezen van de patiënt is vervangen door een
+            implantaat van metaal. In de vergroting zijn een originele kies en het
+            implantaat zichtbaar. De kies en het implantaat hebben dezelfde dikte. Zie
+            het schematische bovenaanzicht in figuur 4.
+            figuur 3
+
+
+
+
+            figuur 4
+
+
+
+
+            De donkere gebieden op de scan in figuur 3 geven aan dat er op die
+            plaatsen meer straling door de ontvanger gemeten is.
+2p    24    Leg uit of het implantaat een grotere of kleinere halveringsdikte heeft dan
+            de originele kies.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-24-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

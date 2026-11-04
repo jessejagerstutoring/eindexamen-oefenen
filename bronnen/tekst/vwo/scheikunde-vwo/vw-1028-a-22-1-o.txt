@@ -1,0 +1,478 @@
+                                                                     Examen VWO
+
+                                                                         2022
+                                                                               tijdvak 1
+                                                                      maandag 16 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 64 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-22-1-o
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+
+      Groene chemie met dimethylcarbonaat
+
+            Polycarbonaat is een veelgebruikte kunststof die wordt verwerkt in de
+            omhulsels van elektronische apparatuur en in auto’s. Begin deze eeuw
+            werd het grootste deel van alle polycarbonaat nog geproduceerd door
+            middel van de condensatie-polymerisatie van bisfenol-A en fosgeen.
+            De totaalvergelijking van alle reacties in dit productieproces van
+            polycarbonaat is in figuur 1 vereenvoudigd weergegeven.
+
+            figuur 1
+
+
+
+
+            Bij dit productieproces worden de beginstoffen gemengd volgens de
+            molverhoudingen in figuur 1. De molaire massa’s van de stoffen uit
+            figuur 1 zijn in de tabel gegeven.
+
+            tabel
+
+              stof                                  molaire massa
+                                                      (g mol–1)
+              bisfenol-A                                228
+              fosgeen                                   98,9
+              NaOH                                      40,0
+              monomeereenheid polycarbonaat             254
+              NaCl                                      58,4
+              H2O                                       18,0
+
+            Dit productieproces heeft een rendement van 92%.
+
+2p    1     Bereken de E-factor van dit productieproces van polycarbonaat.
+
+
+
+
+VW-1028-a-22-1-o                           2 / 13                            lees verder ►►►
+            Bij dit proces komt een grote hoeveelheid afval vrij. In een studie is een
+            nieuw productieproces onderzocht dat minder afval veroorzaakt. In het
+            onderzochte proces wordt eerst dimethylcarbonaat (DMC) uit methanol
+            gevormd.
+            Op de uitwerkbijlage bij vraag 7 is het blokschema van het nieuwe proces
+            onvolledig weergegeven. In figuur 2 is reactie 1 gegeven, dit is de reactie
+            die in reactor 1 (R1) verloopt.
+
+            figuur 2
+
+
+
+
+            De reactiewarmte van de reactie naar rechts is +0,67·105 J per mol DMC.
+            De vormingswarmte van CH3OH (g) bedraagt –2,02·105 J mol–1.
+
+3p    2     Bereken de vormingswarmte van DMC.
+
+            Om een zo hoog mogelijke omzettingssnelheid te bereiken, is in het
+            onderzoek gebruikgemaakt van een katalysator voor reactie 1.
+            Op de uitwerkbijlage is in diagram 1 het energiediagram van de vorming
+            van DMC zonder katalysator onvolledig weergegeven.
+            Daarnaast is in diagram 2 het energiediagram van de vorming van DMC
+            mét katalysator onvolledig weergegeven. In beide diagrammen ontbreken
+            de energieniveaus van de geactiveerde toestand en die van de
+            reactieproducten. Beide diagrammen zijn op dezelfde schaal
+            weergegeven.
+
+3p    3     Laat zien welke invloed de katalysator heeft op reactie 1, door op de
+            uitwerkbijlage in beide energiediagrammen de ontbrekende
+            energieniveaus met bijbehorende bijschriften te tekenen.
+
+2p    4     Geef de evenwichtsvoorwaarde voor reactie 1. Gebruik DMC als
+            aanduiding voor dimethylcarbonaat.
+
+            In R1 wordt ook continu de stof cyanopyridine toegevoegd. Deze stof
+            reageert met het in reactie 1 gevormde water. De toevoer van
+            cyanopyridine is zo afgesteld dat geen water R1 verlaat.
+
+2p    5     Leg uit dat het toevoegen van de stof cyanopyridine het rendement van de
+            vorming van dimethylcarbonaat verhoogt.
+
+
+
+
+VW-1028-a-22-1-o                            3 / 13                            lees verder ►►►
+            In R1 reageert 1 mol cyanopyridine met 1 mol water,
+            waarbij uitsluitend 1 mol picolinamide wordt gevormd.
+            De structuurformule van picolinamide is hiernaast
+            weergegeven.
+            In scheidingsruimte 1 (S1) wordt het reactiemengsel gescheiden door
+            middel van destillatie. De overmaat CO2 en methanol wordt als twee
+            aparte stofstromen gerecirculeerd naar R1. De overige stoffen worden
+            gescheiden in afzonderlijke stromen, te weten DMC, cyanopyridine en
+            picolinamide. In R1 ontstaan ook NH3 en andere bijproducten, die de
+            fabriek verlaten als afval.
+            De cyanopyridine en picolinamide hebben de hoogste kookpunten van de
+            aanwezige stoffen. Het picolinamide verlaat S1 aan de onderzijde omdat
+            het een hoger kookpunt heeft dan cyanopyridine.
+
+4p    6     Voer de volgende opdrachten uit:
+             Teken de structuurformule van cyanopyridine.
+             Verklaar dat het kookpunt van picolinamide hoger is dan dat van
+               cyanopyridine. Gebruik hierbij begrippen op microniveau.
+
+            Het in R1 ontstane picolinamide wordt in reactor 4 volledig omgezet tot
+            water en cyanopyridine. De cyanopyridine wordt hergebruikt, terwijl het
+            water als afvalstroom de fabriek verlaat.
+            In R4 zijn de omstandigheden zo gekozen dat de reactieproducten als
+            gescheiden stofstromen vrijkomen.
+            In het blokschema op de uitwerkbijlage ontbreken R4 en de stofstromen
+            van cyanopyridine, picolinamide en water.
+
+3p    7     Maak het blokschema op de uitwerkbijlage compleet.
+             Teken R4.
+             Teken de ontbrekende stofstromen van cyanopyridine, picolinamide en
+              water. Houd daarbij rekening met hergebruik van stoffen.
+             Je hoeft niets aan te geven tussen R1 en S1.
+             Geef de stoffen in het schema weer met de volgende cijfers:
+              1 cyanopyridine
+              2 picolinamide
+              3 water
+
+
+
+
+VW-1028-a-22-1-o                           4 / 13                           lees verder ►►►
+            De stroom van DMC uit S1 wordt doorgevoerd naar reactor 2 (R2).
+            In R2 verloopt reactie 2, waarbij het tussenproduct DPC wordt gevormd.
+            In reactor 3 (R3) wordt uiteindelijk via reactie 3 het polycarbonaat
+            gevormd. In figuur 3 zijn beide reacties weergegeven.
+
+            figuur 3
+
+
+
+
+            Reactie 2 en reactie 3 verlopen met een rendement van 100%.
+            In het proces bevinden zich de scheidingsruimten S2 en S3.
+            In S2 wordt het methanol gescheiden van het DPC en in S3 wordt het
+            fenol gescheiden van het polycarbonaat.
+            Het methanol afkomstig uit S1 en S2 wordt
+            gerecirculeerd naar R1. In een van de nevenreacties
+            in R1 ontstaan ammoniak en stof Z.
+            De structuurformule van stof Z is hiernaast
+            weergegeven.
+            De stofstromen van methanol naar R1 zijn in het blokschema bij vraag 7
+            onvolledig weergegeven. Bij scheidingsprocessen treedt geen verlies van
+            methanol op.
+
+3p    8     Leid af met behulp van de reacties die optreden in R1 en R2 of de
+            recirculatie van methanol van S1 en S2 naar R1 een gesloten systeem is,
+            of dat er in het proces netto methanol wordt verbruikt.
+
+
+
+
+VW-1028-a-22-1-o                           5 / 13                          lees verder ►►►
+      Autobanden
+
+            Het rubber van een autoband bestaat uit een mengsel van verschillende
+            polymeren, waaronder natuurrubber. Natuurrubber kan worden opgevat
+            als een polymeer van isopreen (2-methylbuta-1,3-dieen). De vorming van
+            natuurrubber uit isopreen is in figuur 1 schematisch weergegeven. De
+            polymeerketens in natuurrubber ontstaan door cis-1,4-additie van
+            isopreen. De isopreen-eenheden worden dan aan elkaar gebonden via de
+            koolstofatomen C1 en C4 van isopreen. De koolstofatomen C1 en C4
+            rondom de dubbele bindingen in natuurrubber staan uitsluitend in de
+            cis-configuratie.
+
+            figuur 1
+
+
+
+
+            In autobanden wordt ook synthetisch poly-isopreen verwerkt.
+            Bij de productie van synthetisch poly-isopreen worden polymeerketens
+            gevormd waarbij de monomeer-eenheden op vier verschillende manieren
+            in de keten zijn opgenomen. Behalve de cis-1,4-additie verlopen er
+            namelijk ook andere additiereacties.
+
+3p    9     Teken de structuurformules van de drie andere monomeereenheden die
+            voorkomen in synthetisch poly-isopreen. Neem aan dat er geen crosslinks
+            worden gevormd.
+
+            In figuur 2 is weergegeven dat de
+            polymeerketens in natuurrubber in
+            opgerolde vorm voorkomen. Ook is
+            weergegeven dat wanneer natuurrubber
+            wordt opgerekt, de ketens zich gedeeltelijk
+            strekken. Hierdoor worden zogeheten
+            kristallijne gebieden gevormd. Bij synthetisch poly-isopreen is het aandeel
+            kristallijne gebieden dat bij het oprekken wordt gevormd kleiner.
+
+2p   10     Voer de volgende opdrachten uit:
+             Verklaar dat kristallijne gebieden zich kunnen vormen bij het oprekken
+               van natuurrubber.
+             Verklaar dat bij synthetisch poly-isopreen het aandeel kristallijne
+               gebieden bij het oprekken kleiner is.
+
+
+
+
+VW-1028-a-22-1-o                            6 / 13                            lees verder ►►►
+            Doordat de kristallijne gebieden ontstaan in het rubber, zijn de delen van
+            de autoband waarin natuurrubber is verwerkt beter bestand tegen
+            vervorming. Dit kan worden verklaard met behulp van de interacties
+            tussen de polymeerketens. In de ongeordende gebieden en in de
+            kristallijne gebieden zijn de sterktes van deze interacties verschillend.
+
+2p   11     Leg uit dat de aanwezigheid van kristallijne gebieden een autoband beter
+            bestand tegen vervorming maakt. Gebruik hierbij begrippen op
+            microniveau.
+
+            Behalve natuurrubber bevat een autoband ook SBR. SBR is een
+            copolymeer van styreen (fenyletheen, C8H8) en buta-1,3-dieen (C4H6) in
+            de massaverhouding 25 : 75.
+
+3p   12     Bereken het aantal monomeereenheden buta-1,3-dieen per
+            monomeereenheid styreen in SBR.
+
+            In de volgende stap van de fabricage van autobanden worden crosslinks
+            gevormd tussen de copolymeerketens door toevoeging van zwavel.
+            De zwavel wordt in een mal gemengd met natuurrubber en SBR.
+            Vervolgens wordt het mengsel enige tijd op een hoge temperatuur
+            gehouden, waarbij de crosslinks worden gevormd. Alleen onverzadigde
+            polymeren kunnen met zwavel crosslinks vormen.
+            De vorming van crosslinks is in figuur 3 schematisch weergegeven.
+
+            figuur 3
+
+
+
+
+            In de eerste stap van het reactiemechanisme van de vorming van
+            crosslinks wordt een C–H-binding op C1 verbroken. Hierbij wordt een
+            H• radicaal afgesplitst zodat op C1 een ongepaard elektron overblijft.
+            Van het in het polymeer gevormde radicaal bestaan twee grensstructuren.
+            Beide grensstructuren zijn op de uitwerkbijlage onvolledig weergegeven.
+
+2p   13     Maak op de uitwerkbijlage de beide grensstructuren van het in het
+            polymeer gevormde radicaal compleet.
+
+
+
+
+VW-1028-a-22-1-o                            7 / 13                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1028-a-22-1-o                        8 / 13   lees verder ►►►
+      Niacine
+
+            Niacine (vitamine B3) is een vitamine die van belang is voor het
+            functioneren van een groot deel van de enzymsystemen in het lichaam.
+            Er bestaan productieprocessen om niacine uit goedkope fossiele
+            grondstoffen te produceren. In de eerste stap van zo’n proces wordt
+            picoline gevormd. In de tweede stap wordt picoline omgezet tot niacine.
+            De structuurformules van picoline en niacine zijn in figuur 1 weergegeven.
+
+            figuur 1
+
+
+
+
+            In de eerste stap wordt picoline gemaakt uit propanal, prop-2-enal en
+            ammoniak. Prop-2-enal is een aldehyde met molecuulformule C3H4O.
+            In deze reactie worden behalve picoline ook water en nog één andere stof
+            gevormd.
+
+4p   14     Geef de vergelijking van deze vorming van picoline. Gebruik
+            structuurformules voor de organische deeltjes.
+
+
+
+
+VW-1028-a-22-1-o                            9 / 13                           lees verder ►►►
+            Niacine kan ook worden gemaakt op basis van de stof quinolinezuur
+            waarbij wordt gebruikgemaakt van micro-organismen.
+            Om de productie van quinolinezuur in het micro-organisme zo hoog
+            mogelijk te maken, hebben onderzoekers genetisch gemodificeerde
+            micro-organismen gekweekt. Als gevolg van de modificatie scheiden deze
+            micro-organismen meer quinolinezuur uit.
+            In figuur 2 is deze biosynthese schematisch weergegeven. Binnen de cel
+            zijn drie enzymen (P, Q en R) betrokken bij de vorming van quinolinezuur.
+
+            figuur 2
+
+
+
+
+            Stof Y wordt door enzym Q omgezet tot quinolinezuur. Stof Y reageert
+            echter ook snel en zonder hulp van enzymen tot allerlei nevenproducten.
+            De snelheid van iedere enzymatische omzetting in dit proces wordt
+            bepaald door de concentratie van het betrokken enzym.
+            In de genetisch gemodificeerde micro-organismen waren de concentraties
+            van de enzymen P, Q en R afwijkend.
+            Hierbij waren er twee doelstellingen:
+            1 zo min mogelijk andere stoffen dan quinolinezuur produceren;
+            2 zo veel mogelijk quinolinezuur per tijdseenheid produceren.
+
+            Bij een presentatie van het onderzoek gebruikten de onderzoekers een
+            tabel waaruit blijkt hoe de concentratie van elk enzym moest veranderen
+            om beide doelstellingen te realiseren. Op de uitwerkbijlage is deze tabel
+            onvolledig weergegeven.
+
+2p   15     Zet in de tabel op de uitwerkbijlage achter elk enzym een kruisje in de
+            juiste kolom. Elke kolom moet hierbij één kruisje bevatten.
+
+
+
+
+VW-1028-a-22-1-o                            10 / 13                           lees verder ►►►
+            Alle stoffen in figuur 2 reageren in de molverhouding 1:1. In figuur 2 is ook
+            aangegeven dat een deel van het gevormde quinolinezuur de cel verlaat.
+            Bij een van de proeven werd zo een oplossing met daarin 5,5 g
+            quinolinezuur verkregen. Het quinolinezuur werd vervolgens door de
+            onderzoekers omgezet tot niacine. Hierbij werd 3,8 g niacine gevormd.
+
+3p   16     Bereken het rendement van deze omzetting.
+
+            Halverwege de twintigste eeuw is ontdekt dat niacine ook kan worden
+            toegepast als geneesmiddel. Uit onderzoek naar de werking van niacine
+            bleek dat het zuurrest-ion van niacine aan een receptoreiwit bindt.
+            Niacine is een zwak zuur. In water treedt het evenwicht uit figuur 3 op.
+
+            figuur 3
+
+
+
+
+            De pH in de vloeistof rondom het receptoreiwit is zodanig, dat meer dan
+            90% van alle niacine-deeltjes voorkomt als zuurrest-ion. De waarde van
+            de Kz van niacine bij de heersende omstandigheden is 1,3·10–5.
+
+4p   17     Bereken de pH waarbij 90% van alle niacine-deeltjes voorkomt als
+            zuurrest-ion. Geef de uitkomst in het juiste aantal significante cijfers.
+
+2p   18     Leg uit of de pH van de vloeistof rondom het receptoreiwit hoger of lager
+            is dan de berekende waarde.
+
+            In figuur 4 is een gedeelte van de coderende streng van het menselijk
+            DNA weergegeven, beginnend bij de base met nummer 1072.
+            De code voor het receptoreiwit begint bij de base met nummer 1. In het
+            weergegeven gedeelte bevindt zich het stopcodon voor het receptoreiwit.
+
+            figuur 4
+
+
+
+
+2p   19     Bepaal met behulp van figuur 4 het aantal aminozuureenheden in de
+            eiwitketen van het receptoreiwit.
+4p   20     Teken met behulp van figuur 4 de structuurformule van het uiteinde van
+            de eiwitketen van het receptoreiwit. Dit gedeelte moet bestaan uit de
+            laatste twee aminozuureenheden.
+
+
+
+
+VW-1028-a-22-1-o                            11 / 13                            lees verder ►►►
+      Een pleister voor stroom
+
+            Onderzoekers hebben een pleister ontwikkeld die stroom kan opwekken
+            als hij op de huid is geplakt. Op de pleister is een brandstofcel
+            aangebracht. Met de geleverde energie kunnen bijvoorbeeld medische
+            sensoren worden gevoed.
+            De elektrodes van de brandstofcel zijn aangebracht op een onderlaag van
+            een niet-geleidend polymeer. De vorming van dit polymeer uit de
+            monomeren is in figuur 1 vereenvoudigd weergegeven.
+
+            figuur 1
+
+
+
+
+            Op de uitwerkbijlage is het mechanisme van een van de stappen in de
+            vorming van het polymeer onvolledig weergegeven.
+
+2p   21     Maak op de uitwerkbijlage het mechanisme compleet.
+             Teken in het omkaderde deel de niet-bindende elektronenparen.
+             Geef in het omkaderde deel met pijlen weer hoe elektronenparen
+              worden verplaatst tijdens de reactie.
+
+            Op de onderlaag zijn poreuze elektrodes aangebracht. Op de negatieve
+            elektrodes is het enzym lactaat-oxidase (LOx) aanwezig. Op de positieve
+            elektrodes is Ag2O aangebracht.
+            In figuur 2 is schematisch weergegeven welke reacties in de elektrodes
+            verlopen.
+
+            figuur 2
+
+
+
+
+VW-1028-a-22-1-o                          12 / 13                          lees verder ►►►
+            Tijdens lichamelijke inspanning ontstaat in de spieren melkzuur
+            (2-hydroxypropaanzuur, C3H6O3). Een deel van het melkzuur wordt met
+            het zweet uitgescheiden. In zweet bevinden zich hierdoor H+-ionen en
+            lactaat-ionen (de zuurrest-ionen van melkzuur).
+            Het enzym (LOx) maakt de omzetting van de lactaat-ionen naar
+            C3H3O3–-ionen mogelijk.
+
+2p   22     Geef met behulp van figuur 2 de vergelijkingen van beide halfreacties.
+            Gebruik molecuulformules voor organische deeltjes.
+
+            De onderzoekers hebben onderzocht hoe de stroomsterkte I afhangt van
+            de concentratie lactaat. In figuur 3 zijn de resultaten van hun metingen
+            vereenvoudigd weergegeven.
+
+            figuur 3
+
+
+
+
+            Figuur 3 kan ook worden gelezen als een diagram waarin de
+            reactiesnelheid van de omzetting van lactaat is uitgezet tegen de
+            concentratie lactaat. Men zorgde ervoor dat tijdens het experiment de
+            hoeveelheid Ag2O en enzym niet veranderde.
+
+1p   23     Verklaar dat bij hogere concentraties lactaat de reactiesnelheid minder
+            toeneemt dan bij lagere concentraties.
+
+            In een praktijkproef werd een pleister op de arm van een sporter
+            bevestigd. Tijdens lichamelijke inspanning werd gedurende 10 minuten
+            gemiddeld een lading van 1,2·10–3 C per seconde getransporteerd.
+            Een mol elektronen heeft een lading van 9,65·104 C.
+
+4p   24     Bereken de massa in gram lactaat (C3H5O3–) die in die tijd is omgezet.
+            Neem aan dat in de brandstofcel geen andere reacties optreden.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+
+
+VW-1028-a-22-1-o                           13 / 13                           lees verdereinde
+                                                                                          ►►► 
+

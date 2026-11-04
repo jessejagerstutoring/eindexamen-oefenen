@@ -1,0 +1,464 @@
+                                                                     Examen VWO
+
+                                                                         2021
+                                                                                tijdvak 2
+                                                                         dinsdag 22 juni
+                                                                       13.30 - 16.30 uur
+
+
+                                                                       natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+ Achter het correctievoorschrift is een aanvulling op het correctievoorschrift
+ opgenomen.
+
+
+
+
+ Dit examen bestaat uit 23 vragen.
+ Voor dit examen zijn maximaal 73 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-21-2-o
+      Looping
+
+              Een spectaculair onderdeel van veel           figuur 1
+              achtbanen is de looping. Als het treintje
+              van de achtbaan vanaf punt A door de
+              looping beweegt, gaat de passagier
+              ‘over de kop’. Zie figuur 1.
+
+              Voordat het treintje bij punt A komt, rijdt
+              het vanuit stilstand vanaf een bepaalde
+              hoogte h boven punt A langs een helling
+              naar beneden. (Dit is niet te zien in
+              figuur 1.)
+              Het treintje heeft in punt A een snelheid
+              van 27,8 m s1.
+3p    1       Bereken hoe groot deze hoogte h boven
+              punt A minimaal moet zijn.
+
+
+              De passagier beweegt in baandeel CDE in een halve cirkel met een
+              diameter van 11,0 m.
+              Als de passagier zich in het hoogste punt van de looping bevindt (en dus
+              ondersteboven hangt), mag hij niet uit het treintje vallen.
+              Hiervoor moet het treintje in het hoogste punt van de looping minimaal
+              een bepaalde snelheid hebben.
+3p    2       Bereken deze snelheid.
+
+              Ineke en Rob onderzoeken met videometen de beweging van het treintje
+              door de looping. Ze hebben de beweging van het midden van de
+              middelste wagon van het treintje gemeten. Punt B in figuur 1 wordt twee
+              keer gepasseerd: één keer als het treintje de looping in beweegt en één
+              keer als het treintje de looping weer verlaat. De richtingen omhoog en
+              naar rechts worden als positief genomen.
+              Uit de videometing krijgen ze de grafieken van figuur 2 en 3.
+              In figuur 2 ((x,t)-diagram) is de beweging in de horizontale richting te zien.
+              In figuur 3 ((y,t)-diagram) is de beweging in de verticale richting te zien.
+
+
+
+
+VW-1023-a-o                                     2 / 15                            lees verder ►►►
+              figuur 2                              figuur 3
+
+
+
+
+              Figuur 2 is vergroot weergegeven op de uitwerkbijlage. Op t = 0 s
+              passeert het treintje punt B.
+
+1p    3       Geef in de figuur op de uitwerkbijlage aan op welk tijdstip het treintje
+              punt E passeert.
+
+              Ineke en Rob willen de snelheid bepalen op het moment dat het treintje in
+              punt B de looping ingaat. De grootheid snelheid is een vectorgrootheid,
+              net als de grootheid kracht. Je kunt daarom de grootte van de snelheid op
+              dezelfde manier uit zijn componenten berekenen als bij kracht. Op de
+              uitwerkbijlage staan figuur 2 (nogmaals) en figuur 3 vergroot
+              weergegeven.
+
+5p    4       Bepaal met behulp van de figuren op de uitwerkbijlage de grootte van de
+              snelheid op het moment dat het treintje in punt B de looping ingaat.
+
+              Ineke beweert dat de voorste wagon van het treintje het hoogste punt D
+              met een grotere snelheid passeert dan de middelste wagon (zie figuur 1).
+              Rob beweert dat de achterste wagon van het treintje het hoogste punt D
+              met een grotere snelheid passeert dan de middelste wagon.
+3p    5       Leg voor Ineke uit of ze gelijk heeft en leg voor Rob uit of hij gelijk heeft.
+
+
+
+
+VW-1023-a-o                                     3 / 15                             lees verder ►►►
+              Punt B in figuur 1 wordt gepasseerd als het treintje de looping in beweegt
+              en als het treintje de looping weer verlaat. Door wrijvingskrachten in de
+              looping komt er warmte vrij.
+              In figuur 4 staan de kinetische energie en de zwaarte-energie tijdens de
+              beweging van de middelste wagon door de looping (het traject BCDEB)
+              uitgezet als functie van de tijd.
+
+              figuur 4
+
+
+
+
+4p    6       Bepaal met behulp van de figuren 1 en 4 de gemiddelde wrijvingskracht
+              die het treintje in het traject BCDEB ondervindt.
+
+
+
+
+VW-1023-a-o                                   4 / 15                           lees verder ►►►
+      Beker van Lycurgus
+
+              In het British Museum staat de beker van Lycurgus (zie figuur 1a en 1b).
+              De kleur van het glas van deze beker hangt af van de belichting. Als de
+              beker van binnenuit wordt beschenen met wit licht, dan heeft de beker
+              een rode kleur. Als de beker van buitenaf wordt beschenen met wit licht,
+              dan heeft de beker een groene kleur.
+
+              figuur 1a                                  figuur 1b
+
+
+
+
+                          rode kleur                              groene kleur
+
+              Dit verschijnsel wordt veroorzaakt door de aanwezigheid van nanodeeltjes
+              goud in het glas. Nanodeeltjes zijn deeltjes die kleiner zijn dan 100 nm.
+              Als het glas wordt beschenen, wordt een deel van het licht door het glas
+              geabsorbeerd en wordt de rest van het licht doorgelaten. De mate van
+              absorptie is afhankelijk van de golflengte van het licht dat erop valt. Een
+              deel van het geabsorbeerde licht wordt weer uitgezonden met dezelfde
+              golflengte. Dit is zichtbaar als gereflecteerd licht.
+              In figuur 2 is weergegeven hoe de mate van absorptie door de
+              nanodeeltjes in de beker van Lycurgus afhangt van de golflengte van het
+              licht.
+
+
+
+
+VW-1023-a-o                                   5 / 15                             lees verder ►►►
+              figuur 2
+
+
+
+
+              De buitenkant van de beker kleurt bij belichting van binnenuit rood
+              (figuur 1a) en bij belichting van buitenaf groen (figuur 1b).
+
+3p    7       Leg dit uit met behulp van figuur 2.
+
+              Het ontstaan van de absorptiepiek in figuur 2 kan worden begrepen met
+              behulp van het zogenaamde plasmonmodel. Uitgangspunt van dit model
+              is dat elk metalen nanodeeltje bestaat uit veel positieve ionen, omringd
+              door geleidingselektronen. Deze geleidingselektronen reageren op licht.
+              Een lichtgolf heeft een sinusvormig variërend elektrisch veld, dat de
+              geleidingselektronen als één geheel in trilling brengt. Deze trillende wolk
+              van geleidingselektronen wordt ook wel een ‘plasmon’ genoemd.
+
+              In figuur 3 is de situatie voor een plasmon op twee verschillende
+              tijdstippen weergegeven. De lichtgolf in figuur 3 beweegt naar rechts. Op
+              tijdstip t1 heeft het elektrisch veld het negatieve plasmon naar zijn hoogste
+              stand getrokken en op een later tijdstip t2 naar zijn laagste stand. De
+              positieve ionen blijven op hun plaats, waardoor een ladingsscheiding in
+              het nanodeeltje optreedt. De richting van het elektrisch veld 𝐸⃗ is in de
+              figuur aangegeven. Op de positie van het nanodeeltje wisselt 𝐸⃗ dus
+              voortdurend van richting. Dit is een reden waarom het plasmon telkens
+              weer in de richting van de evenwichtspositie beweegt.
+
+
+
+
+VW-1023-a-o                                    6 / 15                            lees verder ►►►
+              figuur 3
+
+
+
+
+5p    8       Voer de volgende opdrachten uit:
+               Geef aan waardoor de metaalionen op hun plaats blijven.
+               Geef een andere reden dan het elektrisch veld van de lichtgolf
+                 waarom het plasmon telkens weer in de richting van de
+                 evenwichtspositie beweegt.
+               In figuur 3 is aangegeven dat de lichtgolf naar rechts beweegt. Leg
+                 aan de hand van de figuur uit dat dit inderdaad het geval is.
+
+              De absorptiepiek in figuur 2 is het gevolg van resonantie. De sterkste
+              absorptie van licht vindt plaats als de eigenfrequentie van het plasmon
+              overeenkomt met de frequentie van het licht dat erop valt. Het
+              plasmonmodel is vergelijkbaar met een massa-veersysteem waarbij de
+              elektrische kracht de rol van veerkracht heeft. Voor de
+              resonantiefrequentie van het plasmonmodel geldt:
+
+                            ne 2 f
+                  f res  k            (1)
+                             m
+
+              Hierin is:
+               fres de frequentie waarbij resonantie optreedt in Hz
+               n het aantal geleidingselektronen per m3
+               e de lading van het elektron in C
+               f de constante (in de wet) van Coulomb in Nm2C-2
+               m de massa van een elektron in kg
+               k een constante
+
+3p    9       Leid af of k een eenheid heeft.
+
+
+
+
+VW-1023-a-o                                     7 / 15                         lees verder ►►►
+              Goud bevat één geleidingselektron per ion.
+              Voor goud geldt: n  5,90 1028 m 3 .
+
+3p   10       Toon dat aan.
+
+              De constante k hangt onder andere af van de grootte en de vorm van het
+              nanodeeltje.
+
+4p   11       Bepaal met behulp van formule (1) de waarde van de constante k die
+              hoort bij de absorptiepiek in figuur 2.
+
+
+
+
+VW-1023-a-o                                  8 / 15                         lees verder ►►►
+      SPECT-scan bij parkinson
+
+              Bij de SPECT-scan               figuur 1
+              (Single Photon Emission
+              Computer Tomography)
+              worden tracers gebruikt die
+              zich ophopen in de cellen
+              die bestudeerd worden.
+              Met een SPECT-scanner
+              (zie figuur 1) kan parkinson
+              aangetoond worden. Dit is
+              een hersenaandoening
+              waarbij bewegingsklachten
+              optreden.
+              Als tracer wordt vaak een
+              verbinding met jood-123
+              gebruikt, dat vervalt onder
+              uitzending van een γ-foton.
+
+              Om jood-123 te maken wordt telluur-123 beschoten met protonen.
+3p   12       Geef hiervan de reactievergelijking.
+
+              Een jood-123-kern vervalt met een halveringstijd van 13,2 h .
+
+              Het jood-123 wordt 24 uur vóór gebruik geproduceerd.
+2p   13       Bereken welk percentage van het geproduceerde jood-123 na 24 uur
+              vervallen is.
+
+              Het γ-foton dat wordt uitgezonden heeft een energie van 160 keV.
+
+4p   14       Bereken de golflengte van het γ-foton in vacuüm.
+
+              Om de stralingsbelasting te verkleinen, moet de patiënt de blaas minstens
+              vijf keer in 24 uur legen. In een vereenvoudigd model wordt aangenomen
+              dat de patiënt (massa 70 kg) elke 4,8 uur het toilet bezoekt en elke keer
+              hetzelfde percentage van de aanwezige jood-123-kernen uitscheidt. Dit
+              noemen we het verliespercentage. Het verloop van het totale door de
+              patiënt geabsorbeerde stralingsvermogen P tegen de tijd is weergegeven
+              in figuur 2 op de volgende bladzijde.
+              Figuur 2 staat ook op de uitwerkbijlage.
+
+
+
+
+VW-1023-a-o                                   9 / 15                          lees verder ►►►
+              figuur 2
+
+
+
+
+              Uit deze grafiek is het verliespercentage af te leiden dat gehanteerd is in
+              dit model.
+3p   15       Bepaal dit verliespercentage met behulp van de figuur op de
+              uitwerkbijlage.
+
+4p   16       Bepaal de geabsorbeerde stralingsdosis na 50 uur met behulp van de
+              figuur op de uitwerkbijlage.
+
+
+
+
+VW-1023-a-o                                   10 / 15                            lees verder ►►►
+              Patiënten met parkinson hebben een tekort aan dopamine door een
+              verminderd dopaminetransport. De tracer met jood-123 bindt zich
+              specifiek aan structuren in de hersenen die zorgen voor het
+              dopaminetransport. In de figuren 3a en 3b zijn SPECT-scans te zien van
+              een patiënt met parkinson en een patiënt zonder parkinson. Witte
+              gebieden in de afbeeldingen tonen de hoogste stralingsintensiteit.
+
+              figuur 3a                figuur 3b
+
+
+
+
+2p   17       Leg uit welke figuur, 3a of 3b, hoort bij de patiënt met parkinson.
+
+
+
+
+VW-1023-a-o                                   11 / 15                               lees verder ►►►
+      Joystick met Hall-sensor
+
+              Een joystick kan worden gebruikt bij      figuur 1
+              het gamen. Zie figuur 1.
+              De onderkant van de joystick bevat
+              twee beugels die draaibaar zijn: een
+              voor de beweging in de x-richting
+              (naar links en rechts) en een voor de
+              beweging in de y-richting (naar voren
+              en achteren).
+              Zie figuur 2.
+              Als de joystick wordt bewogen,
+              draaien de asjes waaraan de beugels
+              bevestigd zijn. Op deze asjes zit een
+              metalen lipje dat contact maakt met
+              een weerstandsdraad in punt C.
+              Zie figuur 2, deze figuur is op schaal.
+
+
+              figuur 2
+
+
+
+
+              De weerstandsdraad heeft een weerstand van 100 kΩ, een lengte van
+              14 cm en een soortelijke weerstand van 0,54 Ω m.
+3p   18       Bereken de diameter van de weerstandsdraad.
+
+              De spanning tussen A en B is 5,0 V. De spanning tussen A en C wordt
+              gemeten. Op deze manier is de stand van de joystick in de x-richting te
+              bepalen.
+2p   19       Bepaal met behulp van figuur 2 de spanning tussen A en C.
+
+
+
+
+VW-1023-a-o                                   12 / 15                          lees verder ►►►
+              Deze manier van positie bepalen heeft        figuur 3
+              het nadeel dat het contactpunt met de
+              weerstandsdraad gevoelig is voor slijtage
+              en vuil. Een manier om contactloos de
+              stand van de joystick te detecteren, is
+              door gebruik te maken van een
+              zogenaamde Hall-sensor. Daarvoor wordt
+              de weerstandsdraad weggehaald en
+              wordt op het asje een hoefijzermagneet
+              bevestigd. Als de joystick beweegt, draait
+              de hoefijzermagneet om de Hall-sensor
+              heen. Zie figuur 3.
+              De Hall-sensor bevindt zich dus in het
+              homogene veld van de magneet.
+
+              De Hall-sensor bevat een geleidende strip waar geleidingselektronen vrij
+              doorheen kunnen bewegen. Er loopt een stroom I door de Hall-sensor.
+              Zie figuur 4. De bron die deze stroom levert, staat niet aangegeven in de
+              tekening. Het homogene magneetveld staat in deze figuur loodrecht op de
+              strip in de aangegeven richting.
+
+              figuur 4
+
+
+
+
+              Door de lorentzkracht op de elektronen bewegen de elektronen naar de
+              zijkant van de strip. Daardoor ontstaat aan de ene kant een negatieve
+              lading en aan de andere kant een positieve lading. Deze ladingsverdeling
+              veroorzaakt een elektrisch veld EHall in de strip. Dit geeft over de breedte
+              van de strip een spanning die de Hall-spanning U Hall genoemd wordt.
+              Een bovenaanzicht van de strip is getekend in figuur 5. Op de
+              uitwerkbijlage staat ook een bovenaanzicht van de strip getekend.
+
+              figuur 5
+
+
+
+
+VW-1023-a-o                                   13 / 15                            lees verder ►►►
+3p   20       Voer de volgende opdrachten uit in de figuur op de uitwerkbijlage:
+               Leg uit waar de negatieve lading ontstaat en waar de positieve lading
+                 ontstaat en geef dit aan in de witte cirkels.
+               Geef met een pijl de richting van het elektrisch veld EHall aan.
+
+              Op een gegeven moment is de elektrische kracht op de elektronen als
+              gevolg van het elektrisch veld EHall even groot als de lorentzkracht op de
+              elektronen.
+              Voor de Hall-spanning geldt dan:        U Hall  Bbv       (1)
+                                                               U
+              Voor een elektrisch veld geldt:             E            (2)
+                                                               x
+
+              Hierin is:
+               UHall de Hall-spanning in V
+               B        de grootte van het magneetveld in T
+               b        de breedte van de strip in m
+               v        de driftsnelheid (gemiddelde snelheid in de lengterichting
+                         van de strip) van de elektronen in m s1
+               E        de elektrische veldsterkte in V m1
+               U        de spanning in V
+               x       de afstand waarover de spanning staat in m
+
+4p   21       Leid formule (1) voor de Hall-spanning af met behulp van formule (2) en
+              formules uit een tabellenboek.
+
+              Als de joystick met het asje draait, staat het magneetveld niet meer
+              loodrecht op de Hall-sensor. Daardoor verandert UHall.
+
+              In figuur 6 is schematisch de stand van de magneet ten opzichte van de
+              Hall-sensor getekend wanneer de joystick recht omhoog staat. We
+              noemen deze stand 0°. Als de joystick naar links beweegt, kan hij tot –90°
+              draaien. Als hij naar rechts beweegt, kan hij tot 90° draaien.
+
+              figuur 6
+
+
+
+
+VW-1023-a-o                                     14 / 15                          lees verder ►►►
+              In figuur 7 staan vier grafieken van UHall als functie van de stand van de
+              joystick.
+
+              figuur 7
+
+
+
+
+3p   22       Leg uit welke grafiek (I, II, III of IV) UHall als functie van de hoek juist
+              weergeeft.
+
+              De sterkte van de gebruikte magneet is ongeveer 0,1 T.
+3p   23       Kies de beste schatting van de orde van grootte van de driftsnelheid zoals
+              gebruikt in formule (1). Licht je antwoord toe.
+              a 10-3 m s1
+              b 10 m s1
+              c 103 m s1
+              d de lichtsnelheid
+
+
+
+
+VW-1023-a-o                                      15 / 15                              lees verdereinde
+                                                                                                   ►►► 
+

@@ -1,0 +1,531 @@
+                                                                  Examen HAVO
+
+                                                                        2022
+                                                                               tijdvak 1
+                                                                      maandag 16 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 27 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-22-1-o
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1023-a-22-1-o                        2 / 18   lees verder ►►►
+      Muziekdoos
+
+            Een muziekdoos is een klein muziekinstrument. Zie figuur 1 en 2.
+
+              figuur 1                                figuur 2
+
+
+
+
+            De muziekdoos maakt muziek door stalen strips te laten trillen. Op een
+            draaiende, cilindervormige rol zijn pinnen aangebracht die een strip aan
+            één uiteinde optillen. Zie figuur 3. De strip springt vervolgens los van de
+            pin en begint te trillen.
+
+            figuur 3
+
+
+
+
+            Door meerdere strips naast elkaar te gebruiken, kan een melodie worden
+            gespeeld. Zie figuur 1 en 2.
+            De melodie herhaalt zich elke 15 seconde. In deze tijd roteert de rol dus
+            één keer.
+3p    1     Maak met behulp van figuur 1 een beredeneerde schatting van de
+            baansnelheid van een pin op de rol.
+
+
+
+
+HA-1023-a-22-1-o                             3 / 18                             lees verder ►►►
+            De lengte van iedere strip is verschillend. Een strip gaat trillen in de
+            grondtoon. In figuur 4 zijn vier patronen van knopen (K) en buiken (B) in
+            een strip te zien.
+
+            figuur 4
+
+                   I                 II                III                 IV
+
+
+
+
+1p    2     Welk patroon is juist?
+            A patroon I
+            B patroon II
+            C patroon III
+            D patroon IV
+
+
+            In tabel 15C van Binas en tabel 2.1c van Sciencedata is gegeven welke
+            frequenties bij welke muzieknoten horen. Zo is te zien dat bij de
+            muzieknoot a1 (ook wel a’ genaamd) een frequentie hoort van 440 Hz.
+            Met een camera is een opname gemaakt van een trillende strip. Hiermee
+            is de uitwijking van de strip tegen de tijd bepaald. Het (u,t)-diagram
+            hiervan staat in figuur 5.
+
+            figuur 5
+
+
+
+
+3p    3     Voer de volgende opdrachten uit:
+             Bepaal de frequentie van de toon die deze strip voortbrengt. Geef het
+               antwoord in twee significante cijfers.
+             Geef aan met welke muzieknoot deze frequentie het best
+               overeenkomt.
+
+
+
+HA-1023-a-22-1-o                            4 / 18                              lees verder ►►►
+            De camera legt de trillende strip vast door er per seconde een bepaald
+            aantal foto’s van te maken. Dit aantal foto’s per seconde is de
+            zogenaamde beeldfrequentie.
+2p    4     Omcirkel op de uitwerkbijlage in iedere zin het juiste antwoord.
+
+            Een trillende strip werkt als een massa-veersysteem.
+            De strips kunnen aan het eind verzwaard worden door ze daar dikker te
+            maken. De veerconstante van de strip verandert hierdoor niet, maar de
+            toonhoogte verandert wel. De tonen van de liedjes ‘London Bridge’ en
+            ‘This Old Man’ zijn bijna hetzelfde. Zie figuur 6.
+
+            figuur 6
+
+
+
+
+            Voor beide liedjes wordt dezelfde rol met pinnen gebruikt. Er zit wel een
+            verschil in de strips: één bepaalde strip van ‘London Bridge’ geeft een
+            lagere toon dan de vergelijkbare strip van ‘This Old Man’.
+2p    5     Leg met de formule voor een massa-veersysteem uit of deze strip van
+            ‘London Bridge’ meer of minder massa heeft aan het eind dan de
+            vergelijkbare strip van ‘This Old Man’.
+
+
+
+
+HA-1023-a-22-1-o                            5 / 18                            lees verder ►►►
+      New Horizons
+
+            Pluto is een dwergplaneet in ons zonnestelsel. Om Pluto te onderzoeken
+            werd in januari 2006 de ruimtesonde New Horizons (NH) gelanceerd.
+
+            Deze opgave bestaat uit twee delen:
+             deel A De reis van NH
+             deel B De energievoorziening van NH
+
+            deel A     De reis van NH
+
+            In figuur 1 is het traject van de ruimtesonde NH langs banen van planeten
+            in het zonnestelsel weergegeven.
+
+            figuur 1
+
+
+
+
+            Eén jaar na de lancering kruiste NH de baan van Jupiter. De afstand
+            tussen NH en Jupiter was op dat moment heel klein. Door de
+            aantrekkingskracht van Jupiter boog NH af richting Pluto. Jupiter heeft
+            een omlooptijd van 12 jaar en beweegt in de richting van de pijl. De baan
+            van Jupiter mag als cirkelvormig beschouwd worden. Op de baan zijn
+            12 posities van Jupiter aangegeven. Zie figuur 1.
+1p    6     Geef aan op welke positie Jupiter zich bevond op het moment dat NH
+            vanaf de aarde gelanceerd werd.
+
+
+
+
+HA-1023-a-22-1-o                            6 / 18                           lees verder ►►►
+            In juli 2015 was NH in de buurt van Pluto aangekomen. NH had toen een
+            snelheid van 1,2∙104 m s1. De snelheid van Pluto wordt in deze opgave
+            verwaarloosd.
+
+            De ontwerpers van de missie hadden de keuze uit drie opties:
+            1 NH wordt in een cirkelbaan om Pluto gebracht.
+            2 NH stort neer op Pluto.
+            3 NH passeert Pluto en gaat verder de ruimte in.
+
+            De ontwerpers hebben berekend welke snelheid nodig was om NH
+            (m = 465 kg) in een baan met een straal van 12,5∙106 m om Pluto te laten
+            cirkelen. Deze snelheid is 2,6∙102 m s1.
+4p    7     Toon dat met een berekening aan.
+
+            Om NH af te remmen is een raket nodig. Deze raket gebruikt hydrazine
+            als brandstof. De ontwerpers hebben berekend hoeveel hydrazine nodig
+            zou zijn om NH af te remmen van 1,2 ∙ 104 m s1 tot 2,6 ∙ 102 m s1. De
+            raketmotor verricht 0,95 MJ arbeid per 1,0 kg gebruikte hydrazine.
+            De ontwerpers concludeerden dat NH veel meer massa aan brandstof
+            nodig zou hebben dan zijn eigen massa van 465 kg.
+4p    8     Voer de volgende opdrachten uit:
+             Bereken de massa hydrazine die nodig is om de eigen massa van NH
+                af te remmen.
+             Geef aan waarom in werkelijkheid nog veel meer hydrazine nodig zou
+                zijn om NH af te remmen.
+
+            De ontwerpers hebben besloten om NH verder de ruimte in te sturen.
+
+
+
+
+HA-1023-a-22-1-o                           7 / 18                           lees verder ►►►
+            deel B     De energievoorziening van NH
+
+            Voor de elektrische apparatuur aan boord van NH is een energiebron
+            nodig. NH gebruikt hiervoor plutonium-238. Deze isotoop zendt alleen
+            α-straling uit.
+3p    9     Geef de vergelijking van de vervalreactie van plutonium- 238.
+
+            In figuur 2 staat de vervalkromme van plutonium-238 vanaf het moment
+            van lanceren van NH. Op de verticale as staat het resterende percentage
+            plutoniumdeeltjes ten opzichte van de lancering.
+            In het diagram is ook de raaklijn getekend op t = 0.
+
+            figuur 2
+
+
+
+
+            De ontwerpers moesten de massa van het Pu-238 berekenen waarmee de
+            reactor van NH bij de lancering gevuld moest zijn. Voor de juiste werking
+            moest de activiteit van het plutonium bij de lancering gelijk zijn aan
+            6,0·1015 Bq. De massa van een Pu-238-deeltje is gelijk aan
+            3,95∙1025 kg.
+
+4p    10    Voer de volgende opdrachten uit:
+             Bepaal met behulp van figuur 2 na hoeveel tijd alle Pu-238 -deeltjes
+               zouden zijn omgezet als de activiteit vanaf de lancering constant zou
+               zijn. Geef je antwoord in 3 significante cijfers.
+             Bereken de massa van het plutonium waarmee de reactor op het
+               moment van de lancering gevuld moest zijn.
+
+
+HA-1023-a-22-1-o                           8 / 18                            lees verder ►►►
+            Per vervallende plutoniumkern komt 5,59 MeV energie vrij. Deze energie
+            wordt volledig omgezet in warmte waarmee in een generator elektrische
+            energie wordt opgewekt. Het elektrische vermogen van deze generator is
+            bij de lancering van de missie 248 W. De activiteit van het plutonium bij
+            de lancering is 6,0·1015 Bq.
+
+3p    11    Bereken het rendement van de generator bij de lancering. Geef het
+            antwoord in het juiste aantal significante cijfers.
+
+            Het elektrische vermogen is recht evenredig met de activiteit van het
+            overgebleven plutonium.
+            Voor het goed functioneren van de apparatuur moet de generator
+            minimaal 31 W leveren.
+3p    12    Bepaal met behulp van de figuur op de uitwerkbijlage hoelang de
+            energiebron van NH kan functioneren. Geef het antwoord in twee
+            significante cijfers.
+
+
+
+
+HA-1023-a-22-1-o                            9 / 18                           lees verder ►►►
+      Lithografie
+
+            Lees het volgende artikel.
+
+                   In een elektrisch apparaat zitten        figuur 1
+                   onderdelen zoals weerstanden en
+                   diodes. Vroeger werden die onderdelen
+                   op een kunststof plaat met koperen
+                   geleiders bevestigd. Zo’n plaat wordt
+                   een printplaat genoemd.
+                   Zie figuur 1.
+
+
+
+
+                   Tegenwoordig worden printplaten vaak     figuur 2
+                   vervangen door ‘integrated circuits’
+                   (IC’s). Zie figuur 2.
+                   In een IC zijn met behulp van licht
+                   microscopisch kleine patronen
+                   gemaakt. Deze patronen werken
+                   hetzelfde als onderdelen en geleiders
+                   op een printplaat, maar een IC is veel
+                   kleiner.
+
+
+
+            IC’s worden met meerdere tegelijk      figuur 3
+            gemaakt door een ronde plaat te
+            ‘belichten’. Zie figuur 3.
+            Dit proces heet lithografie. De IC’s
+            worden daarna uit deze plaat gesneden.
+            Voor het belichten wordt een
+            stralingsbron gebruikt met een
+            golflengte van 193 nm.
+
+1p    13    Tot welk deel van het
+            elektromagnetisch spectrum behoort
+            deze straling?
+            A gammastraling
+            B röntgenstraling
+            C UV˗straling
+            D zichtbaar licht
+
+
+
+
+HA-1023-a-22-1-o                               10 / 18                 lees verder ►►►
+             Om IC’s nog kleiner te maken is straling nodig met een kortere golflengte
+             dan 193 nm. Om deze straling te maken schiet men met een laser pulsen op
+             een kleine hoeveelheid tin. Door verhitting vindt een faseovergang van het
+             tin plaats. Tijdens deze faseovergang zendt het tin straling uit waarmee de
+             plaat wordt belicht.
+
+             Het tin heeft een begintemperatuur van 7·102 K en gaat over in de gasfase.
+2p    14     Geef de naam van de faseovergang die hier plaatsvindt. Licht je antwoord
+             toe.
+
+             In figuur 4 is een (P,t)-diagram gegeven van enkele pulsen van de laser
+             waarmee het tin wordt beschoten.
+
+             figuur 4
+
+
+
+
+            Tijdens één puls draagt de laser 1,5 104 J over op het tin.
+            Om de kleine hoeveelheid tin in de gasfase te krijgen moet er in korte tijd
+            2,5 J aan energie worden toegevoerd.
+3p    15    Bepaal met behulp van figuur 4 de tijd die nodig is om het tin in de
+            gasfase te krijgen.
+
+            Met de oude golflengte van 193 nm konden geleiders worden gemaakt
+            met een breedte van minimaal 25 nm.
+            De fotonen die worden uitgezonden door het tin hebben een energie van
+            1,47·1017 J. Deze fotonen hebben een kleinere golflengte dan 193 nm.
+            Aangenomen wordt dat de minimale breedte van de geleiders (en
+            daarmee het minimale formaat van IC’s) recht evenredig is met de
+            golflengte van de gebruikte straling.
+4p    16    Bereken de minimale breedte van een geleider die met de nieuwe, kortere
+            golflengte kan worden gemaakt.
+
+
+HA-1023-a-22-1-o                            11 / 18                            lees verder ►►►
+      Stunt in Dubai
+
+            Met een katapult kun je steentjes wegschieten. Zie figuur 1.
+            In Dubai heeft stuntman Chris McDougall zichzelf op een vergelijkbare
+            manier vanaf de grond recht omhoog de lucht in geschoten. Hij gebruikte
+            twee hijskranen als een soort reuzenkatapult. McDougall lag op een klein
+            platform dat door de katapult werd versneld. Zie figuur 2.
+
+            figuur 1                                 figuur 2
+
+
+
+
+            De katapult oefende een grote kracht uit op het platform met McDougall.
+            Hierdoor kreeg het platform met McDougall een grote versnelling in
+            verticale richting. Op een bepaalde hoogte kwam hij los van het platform.
+            Even na het bereiken van het hoogste punt opende hij een parachute om
+            veilig te kunnen landen.
+
+
+
+
+HA-1023-a-22-1-o                           12 / 18                           lees verder ►►►
+            De energie voor de lancering werd geleverd door een groot blok. Tijdens
+            het lanceren viel het blok (mblok = 27,5 ton) van een kleine hoogte op de
+            grond. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            Het blok viel over een afstand van 0,8 m. De energie van het blok werd
+            gebruikt om het platform met McDougall (mtotaal = 85 kg) over een afstand
+            van 34 m vanuit stilstand omhoog te versnellen. Op die hoogte verliet hij
+            de katapult met een snelheid van 59 m s−1.
+4p    17    Bereken het rendement van de katapult.
+
+            Van de stunt is een videometing gemaakt.         figuur 4
+            In figuur 4 is de hoogte van McDougall
+            tijdens het eerste deel van de stunt in een
+            (h,t)-diagram weergegeven. In dit diagram
+            zijn geen waardes langs de assen
+            weergegeven.
+
+            Op de uitwerkbijlage staat een tabel met
+            drie fases van de stunt.
+2p    18    Omcirkel op de uitwerkbijlage in de tabel per
+            fase met welk punt in de grafiek
+            (a, b, c, d, e of f) deze fase overeenkomt.
+
+
+
+
+HA-1023-a-22-1-o                            13 / 18                          lees verder ►►►
+            Er is ook een (v,t)-diagram van de stunt gemaakt. Zie figuur 5.
+
+            figuur 5
+
+
+
+
+            In het diagram op de uitwerkbijlage zijn de eerste vijf seconden van de
+            stunt weergegeven.
+            Nadat McDougall het platform op t = 1,05 s had verlaten, nam de snelheid
+            van McDougall af met een vertraging groter dan de grootte van de
+            valversnelling g.
+4p    19    Voer de volgende opdrachten uit:
+             Bepaal met behulp van het diagram op de uitwerkbijlage de
+                versnelling van McDougall direct na het verlaten van het platform. Laat
+                in het diagram zien hoe je aan je antwoord komt. Geef het antwoord in
+                twee significante cijfers.
+             Geef een reden waarom de vertraging van McDougall groter was dan
+                de grootte van g.
+
+
+
+
+HA-1023-a-22-1-o                           14 / 18                            lees verder ►►►
+            Na 5,0 s bereikte McDougall een hoogte van 125 m en begon de val naar
+            beneden. Even later trok McDougall zijn parachute open voor het laatste
+            deel van de val tot de (veilige) landing. Van dit deel van de val ontbreekt
+            in het (v,t)-diagram op de uitwerkbijlage het stuk vanaf t = 10 s.
+5p    20    Voer de volgende opdrachten uit:
+             Bepaal met behulp van het (v,t)-diagram op de uitwerkbijlage de
+                afstand die McDougall aflegde tussen t = 5,0 s en t = 10 s.
+             Teken in hetzelfde diagram het verdere verloop van de ( v,t)-grafiek tot
+                McDougall de grond bereikte. Laat zien met behulp van een
+                berekening hoe je aan je antwoord komt.
+
+            Op de uitwerkbijlage staat een tabel die betrekking heeft op vier fasen van
+            de hele stunt.
+3p    21    Geef in de tabel per fase door omcirkelen aan of de resulterende kracht
+            op McDougall op dat moment naar boven gericht was, naar beneden
+            gericht was of gelijk was aan 0 N.
+
+
+
+
+HA-1023-a-22-1-o                            15 / 18                           lees verder ►►►
+      Exploderende draad
+
+            In 2016 werd in Eindhoven tijdens het festival Glow voor publiek
+            kunstmatig een ‘bliksem’ met een recordlengte van 80 m gemaakt. Zie
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            Voor het opwekken van de bliksem werd een dunne draad van koper
+            gebruikt met een weerstand van 35 Ω. De draad was 80 m lang. Een
+            menselijke haar heeft een diameter van 0,060 mm. Zowel de draad als
+            een mensenhaar is cilindervormig.
+
+4p    22    Toon met een berekening aan of de draad dikker of dunner was dan een
+            mensenhaar.
+
+
+
+
+HA-1023-a-22-1-o                          16 / 18                         lees verder ►►►
+            Om de bliksem op te wekken werd de draad op een hoge spanning
+            aangesloten. Hierdoor ging een grote stroom door de draad lopen. Er
+            werd een enorm vermogen van 7,1∙109 W in de draad ontwikkeld. Neem
+            aan dat de weerstand van de draad tijdens dit proces constant was.
+            Voor het vermogen dat in de draad wordt omgezet geldt:
+
+                        U2
+                   P
+                        R
+
+3p    23    Voer de volgende opdrachten uit:
+             Leid dit af met formules uit een informatieboek.
+             Bereken de spanning waarop de draad was aangesloten.
+
+            Tijdens dit proces bleef de weerstand van de draad echter niet constant.
+            De weerstand nam toe met de temperatuur.
+1p    24    Hoe heet dit type weerstand?
+            A LDR
+            B LED
+            C NTC
+            D PTC
+
+            Iemand vraagt zich af of voor het opwekken van deze bliksem veel
+            energie nodig was. Hij vergelijkt het met het opladen van een smartphone.
+            De draad leverde gedurende 1,4∙10−5 s een vermogen van 7,1∙109 W. Een
+            gewone smartphone accu heeft een capaciteit van 9,88 Wh.
+4p    25    Bereken hoe vaak deze accu opgeladen kan worden met de hoeveelheid
+            energie die nodig was voor het maken van de bliksem.
+
+            Het toevoeren van de energie verliep zó snel dat de draad explodeerde.
+            Hierbij ontstonden kleine druppels koper. Het publiek hoorde deze
+            explosie als een knal vergelijkbaar met de donder bij een bliksem.
+
+2p    26    Voer de volgende opdrachten uit. Gebruik daarbij het moleculair model
+            van materie.
+             Geef aan wat er met de beweging van de koperdeeltjes in de draad
+               gebeurde tijdens het toenemen van de temperatuur.
+             Geef aan wat er met de onderlinge posities van de koperdeeltjes
+               gebeurde bij de faseovergang van vast naar vloeibaar koper.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+HA-1023-a-22-1-o                           17 / 18                           lees verder ►►►
+            De hete druppels vlogen met een snelheid van 0,9 km s1 weg in de
+            richting van het publiek achter de hekken. Binnen 1,0 ∙ 10−4 s verdampten
+            de druppels.
+            Een gedeelte van figuur 1 staat vergroot in figuur 2.
+
+            figuur 2
+
+
+
+
+2p    27    Toon met behulp van figuur 2 aan of de druppels het publiek konden
+            bereiken.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a-22-1-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

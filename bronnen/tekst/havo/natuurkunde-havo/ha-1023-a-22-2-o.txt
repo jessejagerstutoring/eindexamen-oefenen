@@ -1,0 +1,496 @@
+                                                                  Examen HAVO
+
+                                                                        2022
+                                                                               tijdvak 2
+                                                                        tijdsduur: 3 uur
+
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-22-2-o
+      Straling tijdens vliegen
+
+            Hoog in de atmosfeer ontstaan snelle neutronen en gammastraling door
+            kosmische straling. Hoe hoger iemand zich in de atmosfeer bevindt, hoe
+            groter de schadelijke invloed van deze straling is. Studenten hebben
+            daarom onderzoek gedaan naar de ontvangen dosis als gevolg van snelle
+            neutronen en gammastraling tijdens een vlucht in een vliegtuig.
+
+            De wand van een vliegtuig is gemaakt van aluminium met een dikte van
+            2,2 mm. De gammastraling heeft een frequentie van 2,4·1020 Hz.
+4p    1     Voer de volgende opdrachten uit:
+             Bereken de energie van een foton van deze gammastraling in MeV.
+             Leg met Binas-tabel 28F of Sciencedata-tabel 5.9 uit of de wand van
+                een vliegtuig veel bescherming biedt tegen deze straling.
+
+            Net als gammastraling hebben de snelle neutronen ioniserende
+            eigenschappen. Om snelle neutronen te detecteren wordt een zogenaamde
+            bubbeldetector gebruikt. Dit is een doorzichtige buis gevuld met vloeistof.
+            Als deze vloeistof wordt geraakt door snelle neutronen ontstaan er bellen in
+            de vloeistof. Deze bellen blijven aanwezig tot de bellendetector gereset
+            wordt. Zie figuren 1 en 2.
+
+            figuur 1                      figuur 2
+
+
+
+
+            Om de bubbeldetector vóór de vlucht te testen, hebben de studenten hem
+            naast een bron met Americium-241 en Beryllium-9 gelegd. Am-241 is een
+            alfastraler.
+
+3p    2     Geef de vergelijking van de vervalreactie van Am-241.
+
+
+
+
+HA-1023-a-22-2-o                            2 / 15                           lees verder ►►►
+            Beryllium-9 neemt een alfadeeltje op. Hierbij ontstaan een nieuw deeltje
+            en een snel neutron. Op de uitwerkbijlage staat een deel van deze reactie
+            weergegeven.
+3p    3     Maak de vergelijking op de uitwerkbijlage af.
+
+            Snelle neutronen zijn in staat om door de wand van een vliegtuig te
+            dringen. De studenten hebben de bubbeldetector meegenomen tijdens de
+            vlucht om de ontvangen dosis als gevolg van de snelle neutronen te
+            bepalen.
+            Een tweede, identieke bubbeldetector is ter controle achtergebleven op
+            de grond. Beide detectoren zijn direct na de vlucht geanalyseerd. Zie
+            figuur 3.
+
+            figuur 3
+
+
+
+
+            In de technische gegevens van de gebruikte bubbeldetectoren staat:
+
+            Bij een neutronenergie van 1 MeV ontstaan 3 bubbels per
+            5,0 108 Gy ontvangen stralingsdosis.
+
+4p    4     Bepaal met behulp van figuur 3 de extra opgelopen equivalente dosis
+            door neutronen tijdens de vlucht. Ga hierbij uit van neutronen met een
+            energie van 1 MeV.
+
+
+
+
+HA-1023-a-22-2-o                            3 / 15                           lees verder ►►►
+      Ruimtepuin
+
+            Versleten satellieten en brokstukken van gebotste satellieten vliegen als
+            ruimtepuin rond de aarde. In 2018 heeft een kunstenaar geprobeerd om
+            mensen bewust te maken van dit ruimtepuin, dat vanaf de aarde
+            onzichtbaar is. Hij heeft met lasers vanaf de grond de positie van
+            ruimtepuin op hoogtes tussen 2,0·105 m en 2,0·107 m aangeduid. Zie een
+            artist’s impression in figuur 1.
+
+            figuur 1
+
+
+
+
+            In 2009 vond de eerste botsing tussen twee satellieten plaats. Door deze
+            botsing ontstonden veel brokstukken die nu nog om de aarde cirkelen.
+            De baansnelheid van een van de satellieten in zijn cirkelbaan voor de
+            botsing was 7,75·103 m s1.
+5p    5     Toon met een berekening aan of deze botsing plaatsvond op een hoogte
+            die de kunstenaar met de lichten heeft aangeduid.
+
+            Om botsingen te voorkomen wordt            figuur 2
+            tegenwoordig al vóór de lancering van
+            nieuwe satellieten nagedacht over het
+            opruimen ervan aan het einde van de
+            levensduur.
+            Een mogelijke oplossing voor een
+            geostationaire satelliet is om hem aan het
+            einde van zijn leven naar een speciale
+            baan om de aarde te brengen: de
+            kerkhofbaan. Zie figuur 2. Deze figuur is
+            schematisch en niet op schaal.
+
+
+
+
+HA-1023-a-22-2-o                           4 / 15                            lees verder ►►►
+            Voor de overgang van de geostationaire baan naar de kerkhofbaan moet
+            7,0 MJ arbeid worden verricht. Deze arbeid wordt geleverd door een
+            stuwraket die brandstof verbrandt met een rendement van 64%. De
+            brandstof die wordt gebruikt, heeft een stookwaarde van 19,4∙106 J kg−1.
+            De orde van grootte van de massa van een kleine satelliet is 100 kg.
+5p    6     Voer de volgende opdrachten uit:
+             Bereken hoeveel kilogram brandstof nodig is om de satelliet in de
+                kerkhofbaan te krijgen.
+             Leg uit op basis van deze hoeveelheid of dit een haalbare
+                mogelijkheid is.
+
+            Voor brokstukken die zijn ontstaan na een botsing, is een kerkhofbaan
+            sowieso geen oplossing. Een voorstel is om dit ruimtepuin op te ruimen
+            door bestraling met zeer krachtige lasers vanaf de aarde.
+
+            Door de bestraling met lasers neemt de snelheid van een brokstuk een
+            beetje af. Hierdoor komt het dichter bij de aarde en zal het uiteindelijk
+            door een snelle toename van temperatuur verdampen.
+
+1p    7     Welke kracht is de directe oorzaak voor deze snelle toename van
+            temperatuur?
+            A gravitatiekracht
+            B luchtweerstandskracht
+            C middelpuntzoekende kracht
+            D zwaartekracht
+
+            De lasers verrichten arbeid en remmen hierdoor een brokstuk af.
+            Dergelijke opruimacties zijn al gemodelleerd door wetenschappers, maar
+            zouden de lasers van de kunstenaar ook krachtig genoeg zijn om een
+            brokstuk voldoende af te remmen?
+            De arbeid die deze lasers samen per seconde verrichten op het brokstuk
+            is 1102 J. De snelheid van dit brokstuk (m = 2 kg) moet worden verlaagd
+            van 7,6∙103 m s−1 naar 7,5∙103 m s−1. De lasers raken het brokstuk in totaal
+            1 minuut.
+4p    8     Leg met behulp van een berekening uit of deze lasers in dat geval genoeg
+            arbeid verrichten om het brokstuk voldoende af te remmen.
+
+
+
+
+HA-1023-a-22-2-o                             5 / 15                            lees verder ►►►
+      Kreukelzone
+
+            Inzittenden van een auto worden tijdens een botsing onder andere
+            beschermd door kreukelzones. Jeroen wil het effect van een kreukelzone
+            tijdens een botsing onderzoeken door een karretje van een helling te laten
+            rijden en tegen een zelfgemaakte krachtsensor te laten botsen. Met een
+            afstandssensor bepaalt hij de plaats van het karretje op de baan tijdens
+            een botsproef. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Deel 1: de krachtsensor
+            Jeroen wil controleren wat de krachtsensor aangeeft voor krachten tot
+            25 N. Jeroen heeft 25 gewichten van 50 gram. Om tot 25 N te kunnen
+            controleren gebruikt Jeroen een hefboom met draaipunt D waarmee hij
+            met een staafje op de krachtsensor op tafel drukt. Hij kan hier twee
+            verschillende opstellingen ( I of II) voor gebruiken. Zie figuur 2. De massa
+            van de hefboom en het staafje mogen verwaarloosd worden.
+
+            figuur 2
+
+
+
+
+3p    9     Leg met de hefboomwet uit welke opstelling (I of II) Jeroen moet
+            gebruiken.
+
+
+
+HA-1023-a-22-2-o                             6 / 15                            lees verder ►►►
+            De krachtsensor zelf bestaat uit een       figuur 3
+            serieschakeling van een krachtgevoelige
+            weerstand R1 en een ohmse weerstand R2
+            van 5,6 kΩ. De weerstand van R1
+            verandert als er een grotere of kleinere
+            kracht op wordt uitgeoefend.
+
+            De spanningsbron levert 5,0 V. Zie
+            figuur 3.
+
+            Jeroen heeft het verband tussen de spanning over R2 (de zogenaamde
+            sensorspanning Usensor) en de kracht F op de sensor bepaald. Dit is
+            weergegeven in figuur 4.
+
+            figuur 4
+
+
+
+
+4p    10    Bepaal de grootte van de krachtgevoelige weerstand R1 bij een kracht van
+            15 N.
+
+
+
+
+HA-1023-a-22-2-o                           7 / 15                          lees verder ►►►
+            Als er geen kracht op de krachtsensor werkt, geeft deze sensor toch al
+            een beginspanning U0 die groter is dan 0 V.
+
+2p    11    Omcirkel op de uitwerkbijlage in elke zin het juiste antwoord.
+
+            Deel 2: de botsproef
+            Als het karretje in rust tegen de sensor staat, constateert Jeroen dat de
+            krachtsensor al een bepaalde spanning UA geeft die groter is dan U0. Hij
+            concludeert dat dat komt doordat het karretje op een helling staat.
+            Zie figuur 5. De rolweerstandskracht wordt verwaarloosd.
+
+            figuur 5
+
+
+
+
+            Het karretje heeft een massa van 0,26 kg.
+            Figuur 5 staat ook op de uitwerkbijlage. De zwaartekracht Fz is op schaal
+            ingetekend. In deze situatie is de kracht F op de sensor even groot als de
+            component van Fz parallel aan de helling.
+5p    12    Voer de volgende opdrachten uit:
+             Construeer in de figuur op de uitwerkbijlage deze component van Fz.
+             Bepaal de grootte van UA met behulp van figuur 4.
+
+
+
+
+HA-1023-a-22-2-o                            8 / 15                           lees verder ►►►
+            Jeroen test de opstelling. Hij laat het karretje (m  0, 26 kg) van de helling
+            rijden en tegen de krachtsensor botsen. Van deze test maakt hij een
+            (x,t)-diagram. Dit (x,t)-diagram staat op de uitwerkbijlage.
+4p    13    Bepaal met behulp van de figuur op de uitwerkbijlage de maximale
+            kinetische energie van het karretje tijdens deze test. Geef in de figuur aan
+            hoe je aan je antwoord komt. Noteer je antwoord in twee significante
+            cijfers.
+
+            Vervolgens voert Jeroen vanaf andere hoogtes twee vergelijkbare
+            botsproeven uit. Hij laat het karretje naar beneden rijden en tegen de
+            krachtsensor botsen. Eén keer botst het karretje direct tegen de sensor.
+            Daarna botst het met een vervormbaar luciferdoosje als kreukelzone
+            tussen het karretje en de krachtsensor. Zie figuur 6. De massa van het
+            luciferdoosje is verwaarloosbaar.
+
+            figuur 6
+
+
+
+
+            Van beide botsproeven maakt Jeroen een (F, x)-diagram. Hierin is x de
+            plek van het karretje op de baan. Deze diagrammen staan vereenvoudigd
+            op de uitwerkbijlage. De oppervlakte onder iedere grafiek is de arbeid die
+            de krachtsensor heeft verricht om het karretje af te remmen.
+            Jeroen constateert dat de kreukelzone tijdens de botsing een deel van de
+            energie van het karretje heeft geabsorbeerd. Beide botsingen vinden met
+            dezelfde snelheid plaats.
+
+3p    14    Bepaal met behulp van de diagrammen op de uitwerkbijlage de energie
+            die de kreukelzone tijdens de botsing heeft geabsorbeerd. Noteer je
+            antwoord in drie significante cijfers.
+
+            Jeroen trekt naar aanleiding van zijn onderzoek een aantal conclusies
+            over grootheden die kunnen veranderen door het gebruik van een
+            kreukelzone. Deze conclusies staan op de uitwerkbijlage.
+2p    15    Geef per conclusie met een kruisje aan of deze juist of onjuist is.
+
+
+
+
+HA-1023-a-22-2-o                             9 / 15                              lees verder ►►►
+      Ocarina
+
+            Een ocarina is een blaasinstrument dat bestaat uit een romp en een hals.
+            De ocarina wordt aangeblazen door de hals. In de romp zitten diverse
+            gaten die tijdens het spelen met de vingers kunnen worden afgesloten om
+            verschillende tonen te maken. Zie figuren 1 en 2.
+
+            figuur 1                             figuur 2
+
+
+
+
+            Met de ocarina wordt een toon gespeeld. In figuur 3 staat het oscillogram
+            van deze toon.
+
+            figuur 3
+
+
+
+
+HA-1023-a-22-2-o                           10 / 15                           lees verder ►►►
+2p    16    Bepaal met behulp van figuur 3 de frequentie van deze toon. Noteer je
+            antwoord in twee significante cijfers.
+
+            Een ocarina produceert op een bijzondere manier geluid: hij werkt als een
+            massa-veersysteem. In figuur 4 is een vereenvoudigd model van dit
+            systeem van de ocarina uit figuur 1 weergegeven.
+
+            figuur 4
+
+
+
+
+            De lucht in de hals heeft een massa (m). Deze massa wordt als constant
+            beschouwd. De lucht in de hals trilt op en neer. Door de op- en
+            neergaande beweging van de luchtmassa in de hals, werkt de lucht in de
+            romp als een soort veer met veerconstante C die samengedrukt en
+            uitgerekt wordt.
+
+            De ocarina brengt een bepaalde toon voort met een trillingstijd van
+            2,5∙10‒3 s. De lucht in de hals van de ocarina in figuur 1 heeft een volume
+            van 1,9∙10‒5 m3.
+3p    17    Bereken de grootte van de veerconstante C die uit het model volgt.
+            Noteer het antwoord in het juiste aantal significante cijfers.
+
+            Voor de ocarina geldt dat de golflengte van het geluid altijd even groot als
+            of groter dan de lengte van het instrument zal zijn.
+4p    18    Voer de volgende opdrachten uit:
+             Maak met behulp van figuur 2 een beredeneerde schatting van de
+                frequentie die deze ocarina produceert als de golflengte gelijk is aan
+                de lengte van het instrument.
+             Beredeneer of dit de hoogste of de laagste frequentie is die deze
+                ocarina kan produceren.
+
+
+
+
+HA-1023-a-22-2-o                            11 / 15                            lees verder ►►►
+            Voor de trillingstijd T van een toon die een ocarina produceert, geldt:
+
+                           Vd
+                   T k                      (1)
+                            A
+
+            Hierin is:
+             A de totale oppervlakte van de (niet-afgesloten) gaten;
+             d de wanddikte van de ocarina;
+             V het volume van de romp;
+             k een constante.
+
+            Een ocarina wordt gemaakt van klei. Nadat de klei is gedroogd, wordt de
+            ocarina verder afgebakken in een oven. Tijdens het afbakken wordt het
+            volume van de romp van de ocarina iets kleiner en wordt de toon van de
+            ocarina anders dan wanneer deze volumeverandering niet zou
+            plaatsvinden. De wanddikte blijft bij benadering constant. Om na het
+            bakken de juiste toonhoogte te krijgen, moet men een gat kleiner maken
+            met klei of groter slijpen.
+4p    19    Voer de volgende opdrachten uit:
+             Beredeneer met behulp van formule (1) of de toon van een ocarina
+                door de volumeverandering tijdens het afbakken hoger of lager wordt.
+             Beredeneer of na het bakken een gat groter of kleiner moet worden
+                gemaakt om de oorspronkelijke toonhoogte terug te krijgen.
+
+
+
+
+HA-1023-a-22-2-o                            12 / 15                            lees verder ►►►
+      Koffiepercolator
+
+            Een percolator is een apparaat dat in      figuur 1
+            één keer een grote hoeveelheid koffie
+            kan zetten en kan warmhouden.
+
+            Een percolator wordt met een
+            verlengsnoer aangesloten op een
+            stopcontact. Zie figuur 1.
+
+            Wanneer het verlengsnoer bij gebruik
+            niet volledig is afgerold, ontstaat er
+            brandgevaar bij overbelasting. Op het
+            verlengsnoer is aangegeven hoeveel
+            stroom er maximaal door de kabel mag
+            lopen wanneer hij opgerold of afgerold
+            wordt gebruikt. Zie figuur 2.
+
+
+
+
+            figuur 2
+
+
+
+
+            Het vermogen van de koffiepercolator is tijdens het koffiezetten 1,5 kW.
+            De koffiepercolator werkt op 230 V.
+3p    20    Toon met een berekening aan of het snoer moet worden afgerold voor
+            gebruik.
+
+
+
+
+HA-1023-a-22-2-o                           13 / 15                           lees verder ►►►
+            In figuur 3 is het (T,t)-diagram weergegeven van de koffie in een
+            percolator.
+
+            figuur 3
+
+
+
+
+            Tijdens fase I wordt de koffie gezet. Er wordt koffie gezet met 3,0 L water.
+            De stofeigenschappen van koffie zijn gelijk aan die van water. Gedurende
+            het koffiezetten is het vermogen van de koffiepercolator 1,5 kW.
+4p    21    Bepaal met behulp van figuur 3 het rendement van het verwarmen van het
+            water in de koffiepercolator tijdens fase I. Noteer je antwoord in twee
+            significante cijfers.
+
+            De percolator staat warmte af aan de omgeving. Het energieverlies per
+            seconde aan de omgeving wordt Pverlies genoemd. Zodra de koffie een
+            temperatuur van 94 °C heeft bereikt is hij klaar en schakelt het apparaat
+            over op een lager elektrisch vermogen om de koffie warm te houden. Dit
+            is fase II in figuur 3.
+            Op de uitwerkbijlage staat een tabel over figuur 3.
+2p    22    Geef in de tabel voor drie tijdstippen met een kruisje aan of Pelektrisch groter
+            is dan, even groot is als of kleiner is dan Pverlies.
+
+
+
+
+HA-1023-a-22-2-o                             14 / 15                              lees verder ►►►
+            De verwarming van de percolator bestaat uit drie weerstanden R1, R2 en
+            R3. In figuur 4 is het schakelschema weergegeven van het systeem dat
+            gebruikt wordt.
+
+            figuur 4
+
+
+
+
+            Gedurende fase I is een groot vermogen ingeschakeld om te verwarmen.
+            Gedurende fase II is een klein vermogen ingeschakeld om warm te
+            houden. Het omschakelen van fase I naar fase II gebeurt door een
+            (temperatuurgestuurde) schakelaar S.
+3p    23    Voer de volgende opdrachten uit:
+             Leg met behulp van de stroomsterkte uit of voor een groot elektrisch
+               vermogen een grote of kleine totale weerstand nodig is.
+             Geef aan of de schakelaar tijdens fase I open of gesloten moet zijn.
+
+            De ketel van deze percolator is gemaakt van enkelwandig massief
+            roestvrij staal. De fabrikant levert ook een percolator met een dubbele
+            wand van roestvrij staal. De holle ruimte tussen de binnenwand en de
+            buitenwand is vacuüm gemaakt.
+1p    24    Geef aan welke vorm van warmtetransport naar de buitenlucht wel
+            volledig wordt tegengehouden door een holle wand met vacuüm, maar
+            niet door een massieve wand van roestvrij staal.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a-22-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

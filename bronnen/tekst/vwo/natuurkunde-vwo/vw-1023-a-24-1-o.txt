@@ -1,0 +1,617 @@
+                                                                    Examen VWO
+
+                                                                        2024
+                                                                               tijdvak 1
+                                                                     donderdag 16 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-24-1-o
+      Snelheidsrecord op de fiets
+
+            In 2018 verbrak Denise Mueller-Korenek het wereldsnelheidsrecord op de
+            fiets, op een hooggelegen zoutvlakte in de Verenigde Staten. Tijdens de
+            recordpoging legde ze een afstand van vijf mijl af en werd haar snelheid
+            tijdens de laatste mijl nauwkeurig bepaald. Deze laatste mijl is heel
+            nauwkeurig gemeten, zodat de meetwaarde te schrijven is als
+            1,000 000 mijl. Denise haalde hier een gemiddelde snelheid van
+            183,932 mijl per uur.
+3p    1     Bereken in hoeveel seconden Denise de laatste mijl afgelegd heeft.
+            Noteer je antwoord in het juiste aantal significante cijfers.
+
+            Om haar recordsnelheid te kunnen halen, fietste Denise vlak achter een
+            raceauto. Zie figuur 1. In drie significante cijfers kunnen we haar snelheid
+            tijdens de laatste mijl als constant beschouwen. Deze was, omgerekend
+            naar SI-eenheden, 82,2 m s−1.
+
+            figuur 1                                                   figuur 2
+
+
+
+
+            De luchtweerstandskracht die Denise zou hebben ondervonden wanneer
+            er geen auto voor haar had gereden, kan theoretisch bepaald worden. In
+            figuur 2 zie je een vooraanzicht van Denise op haar fiets. De wielen van
+            de fiets hebben een diameter van 0,46 m. Neem aan dat de cw-waarde
+            van Denise met fiets gelijk is aan 0,70. De dichtheid van de lucht op deze
+            zoutvlakte is gelijk aan 1,1 kg m−3.
+            Het vooraanzicht staat ook weergegeven op de uitwerkbijlage.
+4p    2     Voer de volgende opdrachten uit:
+             Bepaal met behulp van de figuur op de uitwerkbijlage het frontaal
+                oppervlak van Denise met haar fiets. Noteer je antwoord in twee
+                significante cijfers.
+             Bereken hiermee de luchtweerstandskracht die bij de recordsnelheid
+                op Denise zou hebben gewerkt zonder auto.
+
+
+
+
+VW-1023-a-24-1-o                             2 / 18                               lees verder ►►►
+            Denise reed tijdens haar recordpoging vlak achter een auto. Hierdoor was
+            de totale weerstandskracht die ze ondervond veel kleiner. Tijdens de
+            laatste mijl leverde Denise een vermogen van 700 W.
+2p    3     Bereken de totale weerstandskracht die Denise tijdens de laatste mijl
+            ondervond.
+
+            Om bij het begin van de recordpoging snelheid te krijgen, was de fiets van
+            Denise met een kabel vastgemaakt aan de auto. Na één mijl ( 1609 m )
+            werd deze kabel automatisch losgekoppeld.
+
+            figuur 3
+
+
+
+
+            In figuur 3 staat het (s,t)-diagram van de recordpoging. Deze figuur staat
+            vergroot weergegeven op de uitwerkbijlage.
+3p    4     Bepaal met behulp van de figuur op de uitwerkbijlage de snelheid van
+            Denise in km h−1 op het moment van loskoppelen. Noteer je antwoord in
+            twee significante cijfers. Laat in de figuur zien hoe je aan je antwoord
+            komt.
+
+            Na de recordpoging remde de bestuurster van de raceauto voorzichtig af,
+            totdat de fiets van Denise contact maakte met de auto. De auto remde
+            vervolgens over een afstand van 1,5 km af van 82,2 m s−1 tot 50 m s−1 De
+            massa van Denise en de fiets samen was 71 kg.
+3p    5     Bereken de gemiddelde resulterende remkracht op Denise en haar fiets
+            tijdens het afremmen.
+
+
+
+
+VW-1023-a-24-1-o                            3 / 18                            lees verder ►►►
+      Goudlokje
+
+            Exoplaneten zijn planeten die om een andere ster draaien dan onze zon.
+            In 2018 werd de ruimtetelescoop TESS gelanceerd om met de
+            zogenaamde transit-methode nieuwe exoplaneten te ontdekken. Bij een
+            transit beweegt een exoplaneet voor de ster langs. Hierbij zal de
+            (licht)intensiteit die vanaf de aarde wordt waargenomen tijdelijk afnemen.
+            TESS meet deze afname in intensiteit. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Een van de eerste ontdekkingen van TESS was de exoplaneet HD21749b
+            (in het vervolg van de opgave aangeduid met ‘exoplaneet’). Deze
+            exoplaneet is groter dan de aarde en cirkelt rond de ster HD21749 (in het
+            vervolg ‘ster’ genoemd). De massa van deze ster is 67% van de massa
+            van de zon.
+
+            Via de transit-methode is de omlooptijd T van de exoplaneet bepaald op
+            36 dagen. Met behulp van de derde wet van Kepler kan vervolgens de
+            baanstraal van de exoplaneet berekend worden.
+
+            De derde wet van Kepler luidt:
+
+                   r 3 GM
+                                    (1)
+                   T 2 4π 2
+
+            Hierin is:
+             r     de baanstraal
+             T     de omlooptijd
+             M de massa van de ster waar de exoplaneet omheen draait
+             G     de gravitatieconstante
+
+3p    6     Toon aan dat de baanstraal van de exoplaneet gelijk is aan 2,8 1010 m.
+
+
+
+
+VW-1023-a-24-1-o                             4 / 18                           lees verder ►►►
+            In figuur 2 is een gemiddelde van een groot aantal metingen van een
+            transit van de exoplaneet te zien. Op de verticale as staat de
+            zogenaamde relatieve intensiteit. Dit is de verhouding tussen de gemeten
+            intensiteit op een bepaald moment en de maximaal gemeten intensiteit.
+            Wanneer er geen transit plaatsvindt, is de relatieve intensiteit dus 1,0000.
+
+            figuur 2
+
+
+
+
+            Met behulp van figuur 2 kan de verhouding tussen de straal van de
+            exoplaneet en de straal van de ster bepaald worden.
+4p    7     Bepaal deze verhouding. Noteer je antwoord in drie significante cijfers.
+
+            Aangenomen wordt dat op een exoplaneet alleen leven mogelijk is als de
+            gemiddelde oppervlaktetemperatuur tussen 0 ℃ en 100 ℃ ligt, dus als er
+            vloeibaar water zou kunnen zijn. Daarvoor moet de exoplaneet niet te
+            dicht bij de ster staan waar hij omheen draait, maar er ook niet te ver van
+            af.
+                                                      figuur 3
+            Het gebied rondom een ster waarin de
+            gemiddelde oppervlaktetemperatuur
+            tussen 0 ℃ en 100 ℃ ligt, wordt het
+            goudlokjegebied genoemd. Zie figuur 3.
+            De grenzen van het goudlokjegebied
+            volgen uit de eigenschappen van zowel
+            de ster als de exoplaneet.
+
+
+            In deze opgave onderzoeken we met een model of de door TESS
+            ontdekte exoplaneet binnen het goudlokjegebied van de bijbehorende ster
+            ligt. In dit model wordt aangenomen dat de exoplaneet geen atmosfeer
+            heeft.
+
+
+
+
+VW-1023-a-24-1-o                             5 / 18                            lees verder ►►►
+            De gemiddelde oppervlaktetemperatuur op een exoplaneet volgt uit het
+            feit dat een exoplaneet in thermisch evenwicht is met zijn omgeving. Dat
+            betekent dat de exoplaneet per seconde evenveel energie uitstraalt als hij
+            absorbeert.
+
+            Het ontvangen stralingsvermogen is gelijk aan het deel van het
+            stralingsvermogen van de ster dat op het frontaal oppervlak van de
+            exoplaneet valt. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            De straling die door de exoplaneet wordt ontvangen wordt deels
+            geabsorbeerd en deels gereflecteerd. Het gedeelte van het ontvangen
+            stralingsvermogen dat wordt gereflecteerd heet de albedo  . Dit is een
+            getal tussen 0 en 1 zonder eenheid.
+
+            Voor het geabsorbeerde vermogen van de exoplaneet geldt:
+
+                                  R2
+                   Pabs  Pster          (1  ) (2)
+                                  4r 2
+            Hierin is:
+             Pster het uitgestraalde vermogen van de ster
+             r     de baanstraal van de exoplaneet
+             R     de straal van de exoplaneet ( R  r )
+                  de albedo van de exoplaneet
+
+4p    8     Leid formule (2) af. Maak daarbij gebruik van formules uit het
+            informatieboek.
+
+
+
+
+VW-1023-a-24-1-o                                       6 / 18                lees verder ►►►
+            De exoplaneet zendt continu, en over het gehele boloppervlak, straling
+            uit. Bij een thermisch evenwicht is dit uitgezonden vermogen gelijk aan
+            het geabsorbeerde vermogen. In formulevorm:
+
+                   Pabs  Puit       (3)
+
+            Aan de hand van dit thermisch evenwicht kan onderzocht worden of de
+            exoplaneet (met baanstraal r  2,8 1010 m ) in het goudlokjegebied ligt.
+            Met behulp van formules (2) en (3) en de wet van Stefan-Boltzmann kan
+            het verband tussen de gemiddelde oppervlaktetemperatuur T (in K) van
+            de exoplaneet en de baanstraal r (in m) worden weergegeven als:
+
+                   r  CT           (4)
+
+            Hierin is:
+             C     een constante die niet van r en T afhangt
+             β     een geheel getal zonder eenheid
+
+            De buitengrens van het goudlokjegebied rondom de ster ligt op een
+            afstand van 5,8 1010 m van de ster.
+5p    9     Voer de volgende opdrachten uit:
+             Toon aan dat   2 .
+             Toon aan of de exoplaneet in het goudlokjegebied ligt.
+
+
+
+
+VW-1023-a-24-1-o                            7 / 18                            lees verder ►►►
+      Batterijtrein
+
+            figuur 1
+
+
+
+
+            Sari wil een batterijtrein maken. Ze gebruikt voor de trein een batterij en
+            een aantal sterke magneten. Als spoel gebruikt ze een lange, flexibele
+            veer van niet-geïsoleerd koperdraad. Zie figuur 1. De batterijtrein gaat
+            door de spoel heen bewegen. Om de batterijtrein te maken voert Sari de
+            volgende handelingen uit:
+
+                                    figuur 2a
+                                    Sari plaatst aan elke kant van de batterij een setje
+                                    sterke magneten. Elk setje wordt in het vervolg
+                                    van deze opgave gezien als één magneet.
+
+
+                                    figuur 2b
+                                    Ze schuift de voorkant van de batterijtrein in de
+                                    spoel, waarbij de voorste magneet contact maakt
+                                    met de spoel.
+
+
+                                    figuur 2c
+                                    Ze duwt de batterijtrein verder in de spoel totdat
+                                    de achterste magneet contact maakt met de spoel.
+
+
+
+
+                                    figuur 2d
+                                    De batterijtrein begint uit zichzelf door de spoel te
+                                    bewegen.
+
+
+
+
+VW-1023-a-24-1-o                             8 / 18                             lees verder ►►►
+            De situatie van figuur 2c staat vergroot weergegeven in figuur 3. De
+            magneten maken contact met de spoel. Hierdoor ontstaat er een gesloten
+            stroomkring met daarin de batterij, de magneten en het stuk van de spoel
+            tussen de batterijpolen. Dit stuk van de spoel gedraagt zich hierdoor als
+            een elektromagneet met een weerstand Rspoel. In figuur 3 zijn de posities
+            van beide batterijpolen met stippellijnen aangegeven. Wanneer de
+            batterijtrein gaat bewegen door de spoel, beweegt deze stroomkring mee.
+
+            figuur 3
+
+
+
+
+            De dikte van de koperdraad is 1,1 mm. De gemiddelde diameter van de
+            spoel is 1,9 cm.
+4p   10     Bepaal Rspoel.
+
+
+
+
+VW-1023-a-24-1-o                           9 / 18                           lees verder ►►►
+            In figuur 4 is het magnetisch veld weergegeven dat ontstaat wanneer er
+            een elektrische stroom door een spoel loopt.
+
+            figuur 4
+
+
+
+
+1p   11     Geef aan hoe uit figuur 4 blijkt dat de sterkte van het magnetisch veld in
+            punt P groter is dan in punt Q.
+
+            Figuur 4 staat ook op de uitwerkbijlage.
+1p   12     Geef in de figuur op de uitwerkbijlage de richting van de elektrische
+            stroom door de windingen van de spoel aan.
+
+
+            figuur 5
+
+
+
+
+            In figuur 5 is de complete batterijtrein schematisch weergegeven. Met
+            ‘noord’ en ‘zuid’ zijn de magnetische polen van de spoel aangegeven. L
+            en R zijn de twee magneten. Hierop zijn de punten 1 tot en met 4
+            aangegeven. Deze punten stellen de noord- en zuidpolen voor van de
+            magneten. Beide magneten ondervinden een kracht doordat ze zich in het
+            magnetisch veld van de spoel bevinden. De trein beweegt hierdoor naar
+            rechts.
+
+
+
+
+VW-1023-a-24-1-o                            10 / 18                            lees verder ►►►
+            Op de uitwerkbijlage staan vijf afbeeldingen over deze situatie. In de
+            bovenste afbeelding zijn de resulterende krachten op beide magneten,
+            veroorzaakt door de spoel, aangegeven met pijlen. In de afbeeldingen
+            eronder zijn de vier afzonderlijke magneetpolen weergegeven met de
+            punten 1 tot en met 4. Ook de magnetische kracht in punt 1, veroorzaakt
+            door de spoel, is weergegeven met een pijl. Alle pijlen zijn op dezelfde
+            schaal getekend.
+4p   13     Voer de volgende opdrachten uit:
+             Teken in de punten 2 tot en met 4 op de uitwerkbijlage zo nauwkeurig
+               mogelijk de magnetische kracht die op het aangegeven punt werkt,
+               veroorzaakt door het magnetisch veld van de spoel.
+             Geef, op basis van je tekening, in de tabel op de uitwerkbijlage bij elk
+               van de vier punten aan of er sprake is van een noordpool of een
+               zuidpool.
+
+            Tijdens het experimenteren met de batterijtrein wordt de spoel wat
+            warmer. Sari merkt echter op dat de batterij al na een paar seconden nog
+            veel warmer wordt.
+            Blijkbaar ontstaat er niet alleen warmte in de figuur 6
+            spoel, maar ook in de batterij. Om dit te
+            verklaren gebruikt Sari een model van een
+            batterij waarin de batterij bestaat uit een
+            spanningsbron U en een weerstand in serie.
+            Deze weerstand wordt de inwendige
+            weerstand Ri van de batterij genoemd. Zie
+            figuur 6.
+            In de stroomkring van de batterijtrein bevinden zich dus twee
+            weerstanden: Ri en Rspoel. De weerstand van de magneten wordt in dit
+            model verwaarloosd.
+
+            Voor de ontwikkelde vermogens in de batterij en in de spoel geldt:
+            Pi  Pspoel .
+3p   14     Leg hiermee uit welke van de twee weerstanden in de stroomkring, Ri of
+            Rspoel, het grootst is.
+
+
+
+
+VW-1023-a-24-1-o                           11 / 18                            lees verder ►►►
+      Temperatuurbepaling in een kernfusiereactor
+
+            In een kernfusiereactor is het mogelijk om twee lichte atoomkernen te
+            laten fuseren tot één zwaardere atoomkern. Hierbij komt veel energie vrij.
+            Deuterium (H-2) en een tweede atoomkern kunnen gefuseerd worden tot
+            een He-4 kern en een neutron.
+3p   15     Geef de vergelijking van deze kernreactie.
+
+            In een kernfusiereactor is de temperatuur zo hoog dat de elektronen
+            loskomen van de atoomkernen. Samen met de ontstane ionen vormen ze
+            een mengsel dat plasma genoemd wordt. Ondanks de hoge temperatuur
+            van het plasma is het volgens de klassieke natuurkunde erg
+            onwaarschijnlijk dat de kernen fuseren. Met een quantumfysisch model
+            kan verklaard worden waarom het optreden van kernfusie in werkelijkheid
+            veel waarschijnlijker is.
+
+            In het quantumfysische model bekijken we een deuteriumkern die naar
+            een andere kern toe beweegt. In figuur 1 is schematisch de potentiële
+            energie Epot van de deuteriumkern als functie van de afstand x tussen de
+            twee kernen weergegeven. Met stippellijnen zijn vier verschillende
+            mogelijke waarden aangegeven van de energie van de deuteriumkern (E1
+            tot en met E4).
+
+            figuur 1
+
+
+
+
+3p   16     Voer de volgende opdrachten uit:
+             Leg uit bij welke energie of energieën ( E1 , E2 , E3 en/of E4 ) de
+                   kernen volgens de klassieke natuurkunde kunnen fuseren.
+                  Geef aan waardoor volgens de quantumfysica een fusiereactie ook
+                   kan optreden bij de andere energieën.
+
+
+
+
+VW-1023-a-24-1-o                             12 / 18                           lees verder ►►►
+            De binnenkant van een kernfusiereactor is weergegeven in figuur 2.
+
+            figuur 2
+
+
+
+
+            Wanneer de reactor aanstaat, zal hij volledig gevuld zijn met plasma. De
+            atoomkernen in het plasma mogen niet botsen met de wand van de
+            reactor, omdat de wand daardoor te veel beschadigd raakt. Met behulp
+            van magneetvelden worden deze geladen deeltjes van de wand
+            weggehouden. Hierbij worden de He-4 kernen naar een soort afvoergoot
+            onder in de reactor, de divertor, geleid, terwijl de andere atoomkernen in
+            de reactor blijven.
+
+            De neutronen die tijdens de fusie vrijkomen botsen wel met de wand. De
+            energie die hierbij in de wand vrijkomt, wordt gebruikt om elektrische
+            energie op te wekken.
+
+            Elk atoom aan het oppervlak van de wand wordt gemiddeld eenmaal per
+            102 s geraakt door een neutron. De atoomdiameter van het gebruikte
+            wandmateriaal heeft een orde van grootte van 102 pm. Het oppervlak van
+            de wand heeft een orde van grootte van 103 m2.
+3p   17     Bereken de orde van grootte van het aantal neutronen dat per seconde de
+            wand raakt.
+
+            De He-4 kernen die door de divertor worden afgevoerd hebben ook veel
+            energie. Hierdoor dreigt de divertor oververhit te raken. Daarom wordt
+            onderzocht of deze oververhitting kan worden voorkomen door gassen in
+            de divertor te brengen. Door botsingen met de gasatomen raken de He-4
+            kernen energie kwijt, waardoor de divertor afkoelt.
+
+
+
+
+VW-1023-a-24-1-o                            13 / 18                           lees verder ►►►
+            Om de effectiviteit van het inspuiten van de gassen te onderzoeken, moet
+            de temperatuur in de divertor bepaald kunnen worden. Onderzoekers uit
+            Eindhoven doen dit door te kijken naar het licht dat uitgezonden wordt
+            door de gassen die aanwezig zijn in de divertor. Een van de aanwezige
+            gassen is (atomair) waterstof. In figuur 3 zie je het energieniveauschema
+            van waterstof.
+
+            figuur 3
+
+
+
+
+            Wanneer een waterstofatoom terugvalt van een hogere aangeslagen
+            toestand naar de eerste aangeslagen toestand, zendt het zichtbaar licht
+            uit. Deze overgangen zijn aangegeven in figuur 3 met H  , H  ,
+            enzovoort. De bijbehorende spectraallijnen heten Balmerlijnen. Bij het
+            onderzoek in Eindhoven wordt het licht van de overgangen H  tot en met
+             H waargenomen.
+4p   18     Bepaal met behulp van figuur 3 en een berekening de minimale golflengte
+            die bij dit onderzoek waargenomen wordt.
+
+
+
+
+VW-1023-a-24-1-o                           14 / 18                          lees verder ►►►
+            De verhoudingen tussen de intensiteiten van de verschillende
+            Balmerlijnen blijken afhankelijk te zijn van de temperatuur in de divertor.
+            In figuur 4 is een aantal van deze verhoudingen als functie van de
+            temperatuur weergegeven.
+
+            figuur 4
+
+
+
+
+            De onderzoekers hebben het spectrum van de Balmerlijnen bepaald bij
+            een bepaalde temperatuur van de divertor. In figuur 5 zie je een deel van
+            het uitgezonden spectrum bij deze temperatuur.
+
+            figuur 5
+
+
+
+
+3p   19     Bepaal met behulp van figuur 4 en figuur 5 de temperatuur die volgt uit
+            het spectrum. Noteer je antwoord in twee significante cijfers.
+
+
+
+
+VW-1023-a-24-1-o                            15 / 18                            lees verder ►►►
+      Echografie
+
+            Met behulp van echografie wordt een afbeelding gemaakt van weefsel
+            onder de huid. Zie figuur 1 en 2.
+
+            figuur 1                       figuur 2
+
+
+
+
+            Een transducer zendt ultrasoon geluid uit, dat in het lichaam op elke
+            grens tussen verschillende weefsellagen gedeeltelijk wordt teruggekaatst
+            en doorgelaten. De transducer vangt het teruggekaatste geluid weer op
+            en een computer verwerkt de informatie tot beelden. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            Hoeveel geluid wordt doorgelaten hangt af van het verschil in de
+            akoestische weerstand Z van de opeenvolgende (weefsel)lagen. Bij een
+            groot verschil in akoestische weerstand wordt weinig geluid doorgelaten.
+            Voor de akoestische weerstand van een stof geldt:
+
+                   Z   v   (1)
+
+            Hierin is:
+             ρ de dichtheid van de stof
+             v de voortplantingssnelheid van geluid door de stof
+
+
+
+
+VW-1023-a-24-1-o                           16 / 18                          lees verder ►►►
+            De dichtheden van zachte lichaamsweefsels, zoals de huid en vetweefsel,
+            zijn vergelijkbaar met die van water.
+
+            Als eenheid van de akoestische weerstand wordt vaak N s m−3 gebruikt.
+3p   20     Leid af, met behulp van formule (1), dat N s m−3 een eenheid is van Z.
+
+4p   21     Voer de volgende opdrachten uit:
+             Leg uit dat de akoestische weerstand van lucht veel kleiner is dan die
+               van lichaamsweefsels.
+             Leg hiermee uit dat het aanbrengen van een waterhoudende gel
+               tussen de huid en de transducer leidt tot betere echo’s van weefsels
+               onder de huid.
+
+            Het ultrasone geluid heeft een frequentie van 8,5 MHz. Dit geluid wordt in
+            pulsen van 3 trillingstijden uitgezonden. Dit is schematisch weergegeven
+            in figuur 4. Figuur 4 is niet op schaal.
+
+            figuur 4
+
+
+
+
+            Vóórdat een nieuwe puls wordt uitgezonden moet de teruggekaatste
+            geluidspuls in zijn geheel door de transducer ontvangen zijn. De
+            zogenaamde herhaalfrequentie is het aantal pulsen dat per seconde wordt
+            uitgezonden.
+
+            Bij een onderzoek moet een beeld gevormd worden van een laag
+            vetweefsel met een dikte van 1,5 cm die direct onder de huid ligt. De tijd
+            die de puls nodig heeft om door de gel en de huid te komen is 0,87 μs.
+            Neem voor de geluidssnelheid in vetweefsel 1, 45 103 m s 1.
+
+5p   22     Bereken de maximale herhaalfrequentie van de transducer bij dit
+            onderzoek.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1023-a-24-1-o                            17 / 18                            lees verder ►►►
+            In het vetweefsel zitten kleine structuren. De minimale lengte van details
+            die nog gezien kunnen worden, is gelijk aan de lengte van een halve puls.
+
+3p   23     Bereken de minimale lengte van een detail in het vetweefsel dat nog
+            gezien kan worden met deze echo.
+
+            In figuur 5 is een beeld van een echo van galstenen te zien. Deze liggen
+            op een diepte van ongeveer 5 cm. In figuur 5 bewegen de uitgezonden
+            geluidsgolven van boven naar beneden.
+
+            figuur 5
+
+
+
+
+            Op de uitwerkbijlage staat een tabel met beweringen die een mogelijke
+            verklaring geven voor de schaduw van de galstenen in figuur 5.
+2p   24     Geef in de tabel op de uitwerkbijlage van elke bewering aan of die een
+            juiste verklaring kan zijn of niet.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-24-1-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

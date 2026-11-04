@@ -1,0 +1,907 @@
+                                                                Examen HAVO
+
+                                                                      2022
+                                                                             tijdvak 2
+                                                                      tijdsduur: 3 uur
+
+
+
+                                                                         biologie
+
+
+
+
+ Dit examen bestaat uit 44 vragen.
+ Voor dit examen zijn maximaal 74 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een open vraag een verklaring, uitleg of berekening gevraagd wordt, worden
+ aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+ berekening ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1018-a-22-2-o
+            Tenzij anders vermeld, is er sprake van normale situaties en gezonde
+            organismen.
+
+      IJzertekort in de topsport
+
+            Arthur is een getalenteerde marathonschaatser en traint iedere dag. Zijn
+            prestaties zijn de laatste tijd echter iets teruggelopen. Zijn trainer denkt
+            dat dit veroorzaakt wordt door ijzertekort.
+
+            IJzertekort kan leiden tot een verlaagd hemoglobinegehalte in het bloed.
+2p    1     Leg uit hoe een verlaagd hemoglobinegehalte leidt tot verminderde
+            prestaties.
+
+            IJzer is een essentiële, maar ook giftige voedingsstof. Vrije ijzer-ionen
+            (Fe2+ of Fe3+) veroorzaken namelijk schade aan weefsels. Vrijwel al het
+            ijzer in het lichaam is gebonden aan eiwitten en de ijzeropname vanuit de
+            darmen wordt nauwkeurig gereguleerd.
+            Ferritine is een eiwit dat ijzer kan opslaan door het te binden. Vrijwel alle
+            ferritine bevindt zich in cellen, maar er is ook een kleine hoeveelheid
+            aanwezig in bloedplasma. Met behulp van de volgende formule kan de
+            totale hoeveelheid ijzer die in het lichaam aan ferritine gebonden is (Y)
+            worden bepaald:
+
+             Y = 120 × m × FB                Y:  aan ferritine gebonden ijzer in het
+                                                 lichaam (in µg)
+                                             m: lichaamsgewicht (in kg)
+                                             FB: ferritinegehalte bloedplasma (in µg/L)
+
+            De trainer stuurt Arthur naar de sportarts. Zij onderzoekt hoeveel procent
+            van het bloedvolume wordt ingenomen door rode bloedcellen: de
+            hematocrietwaarde. Verder onderzoekt zij het hemoglobinegehalte en het
+            ferritinegehalte in het bloed van Arthur.
+            De resultaten van het bloedonderzoek van Arthur worden vergeleken met
+            de gemiddelde waarden van mannen (tabel 1).
+
+            tabel 1
+                                                            Arthur         gemiddelde
+                                                                             waarde
+                                                                            mannen
+              hematocrietwaarde bloed (in %)                   41                47
+              hemoglobinegehalte bloed (in mmol/L)              9,2               9,8
+              ferritinegehalte bloedplasma (in µg/L)           17              150
+              lichaamsgewicht (in kg)                          68                85
+
+
+
+
+HA-1018-a-22-2-o                             2 / 23                             lees verder ►►►
+            Naar aanleiding van het bloedonderzoek worden de volgende uitspraken
+            gedaan:
+            1 Het volumepercentage rode bloedcellen in het bloed van Arthur is
+                lager dan gemiddeld.
+            2 De hoeveelheid hemoglobine per rode bloedcel is bij Arthur lager dan
+                gemiddeld.
+            3 De totale hoeveelheid aan ferritine gebonden ijzer is bij Arthur
+                ongeveer 1,4 gram lager dan gemiddeld.
+2p    2     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            Het bloedonderzoek doet vermoeden         afbeelding 1
+            dat Arthur een dreigend ijzertekort
+            heeft. Hij gaat op advies van de arts
+            meer ijzerhoudende voedingsmiddelen
+            eten, in combinatie met groenten en
+            fruit met een hoog vitamine-C-gehalte.
+            In de darmen wordt ijzer opgenomen in
+            de vorm van Fe2+. Afbeelding 1 laat
+            zien dat een darmcel een Fe2+-ion
+            opneemt met behulp van het
+            membraaneiwit Dmt1.
+            In de darmcel is het eiwit ferritine
+            aanwezig. Het transporteiwit
+            ferroportine transporteert Fe2+-ionen
+            vanuit de darmcel naar het bloed.
+
+            Bij een lage ijzerconcentratie in het bloed wordt de expressie van
+            bepaalde genen aangepast zodat meer ijzer uit de voeding kan worden
+            opgenomen. Hierdoor stijgt de ijzerconcentratie in het bloed.
+2p    3     Wordt de expressie van het gen voor Dmt1-eiwit bij een lage
+            ijzerconcentratie in het bloed hoger of lager? En de expressie van het gen
+            voor ferroportine?
+
+                   genexpressie Dmt1       genexpressie ferroportine
+
+            A      hoger                   hoger
+            B      hoger                   lager
+            C      lager                   hoger
+            D      lager                   lager
+
+
+
+
+HA-1018-a-22-2-o                            3 / 23                           lees verder ►►►
+      Avocado
+
+            Naomi is gek op avocado’s. Deze vruchten staan bekend als een gezonde
+            keuze in het dieet van de mens.
+
+            Avocado’s zijn rijk aan onverzadigde vetten, vitamine B en kalium. De
+            onverzadigde vetten en kalium hebben een gunstig effect op de
+            bloeddruk. Onverzadigde vetten beïnvloeden de wanden van de
+            bloedvaten en kalium-ionen bevorderen de uitscheiding van natrium-ionen
+            door de nieren.
+
+            Na het eten van voedingsmiddelen met veel natrium-ionen stijgt de
+            bloeddruk. Doordat vervolgens vaatverwijding optreedt, zal de bloeddruk
+            weer dalen.
+3p    4      Leg uit hoe een verhoogde inname van natrium-ionen eerst leidt tot
+               een hogere bloeddruk.
+             En verklaar hoe vaatverwijding de bloeddruk daarna laat dalen.
+
+            Bij de regulatie van de bloeddruk op langere termijn is de uitscheiding van
+            natrium-ionen in de nieren van belang.
+2p    5     Welk proces in de nieren regelt de hoeveelheid natrium-ionen die met de
+            urine wordt uitgescheiden? En waar vindt dit proces plaats?
+
+                   proces                                  plaats
+
+            A      reabsorptie (terugresorptie)            kapsels van Bowman
+            B      reabsorptie (terugresorptie)            nierbuisjes
+            C      ultrafiltratie                          kapsels van Bowman
+            D      ultrafiltratie                          nierbuisjes
+
+            Onverzadigde vetten dragen bij aan een gezonde bloeddruk doordat ze de
+            wanden van de bloedvaten gunstig beïnvloeden.
+2p    6     Hoe beïnvloeden onverzadigde vetten de bloedvatwanden? En in welke
+            bloedvaten is dit het meest van belang?
+
+                   de bloedvatwanden worden                type bloedvaten
+
+            A      elastischer                             aders
+            B      elastischer                             haarvaten
+            C      elastischer                             slagaders
+            D      stijver                                 aders
+            E      stijver                                 haarvaten
+            F      stijver                                 slagaders
+
+
+
+
+HA-1018-a-22-2-o                                  4 / 23                        lees verder ►►►
+            Naomi wil nu zelf een avocadoplant gaan kweken. Op een website leest
+            zij:
+
+            “Voor een goede groei van de avocadoplant mag de temperatuur niet
+            onder de 10 °C komen en moet de bodem niet te droog zijn.
+            Avocadoplanten wortelen voornamelijk in de bovenste laag van de bodem
+            en bezitten weinig wortelhaartjes. Maar als de grond rondom de wortels
+            continu nat is, gaan de wortels rotten. Een belangrijke veroorzaker van
+            wortelrot is fytoftora (Phytophthora cinnamomi).”
+
+            Naomi gebruikt de pit van een avocado die zij in de supermarkt heeft
+            gekocht om een avocadoplant te kweken. Nadat de pit is gekiemd, doet
+            ze hem in een pot met luchtige grond. Naomi plaatst de pot in een helder
+            verlichte ruimte met een constante temperatuur van 11 °C. Ze geeft de
+            gekiemde pit weinig water.
+            Milieufactoren zijn:
+            1 temperatuur
+            2 water
+            3 zuurstof
+2p    7     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende factor wel of niet beperkend kan zijn voor de groei van de
+            avocadoplant in deze situatie.
+
+            De beweeglijke sporen (zoösporen) van fytoftora verplaatsen zich door
+            het water in de grond en dringen plantenwortels binnen. In de wortel
+            ontwikkelt de zoöspore zich tot een meercellige zwamvlok die
+            sporendoosjes produceert waarin nieuwe sporen worden gevormd.
+
+            Over fytoftora worden de volgende uitspraken gedaan:
+            1 Fytoftora behoort tot de bacteriën.
+            2 Fytoftora behoort tot de producenten.
+            3 Fytoftora is een heterotroof organisme.
+2p    8     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            Als het lang en hard regent op een avocadoplantage kan de grond
+            verzadigd raken met water waardoor de wortels van de avocadoplanten
+            verzwakt raken. Dit maakt het voor de zoösporen gemakkelijker om de
+            plantenwortels binnen te dringen.
+            Een belangrijke oorzaak van de verzwakking van de wortels is een
+            afname van de stofwisseling in de wortelcellen.
+1p    9     Verklaar hoe de met water verzadigde bodem leidt tot een afname van de
+            stofwisseling in de wortelcellen.
+
+
+
+
+HA-1018-a-22-2-o                           5 / 23                           lees verder ►►►
+            Naomi weet dat avocadoplanten op plantages vaak zijn geënt. De rassen
+            die de hoogste opbrengst geven, hebben namelijk een wortelstelsel dat
+            gevoeliger is voor fytoftora-infecties dan rassen die minder en kleinere
+            vruchten dragen.
+            Bij het enten wordt een stengel van een ras met een hoge opbrengst
+            geplaatst op een wortelstelsel van een ras dat resistent is tegen fytoftora-
+            infecties in het wortelstelsel. Na het enten vergroeien de vaatstelsels van
+            wortelstelsel en stengel op zo’n manier dat transport van stengel naar
+            bladeren en van bladeren naar stengel kan plaatsvinden en de
+            avocadoplant kan groeien.
+
+            afbeelding 1
+
+
+
+
+            In afbeelding 1 zijn doorsnedes van een wortel en de stengel van een
+            jonge plant weergegeven. Met de letters P, Q, R en S zijn vaten
+            aangegeven. In twee van deze vaten vindt de anorganische sapstroom
+            plaats.
+2p    10    Welke letters geven deze vaten aan?
+            A P en R
+            B P en S
+            C Q en R
+            D Q en S
+
+            Op een avocadoplantage bestuiven de bloemen van de geënte
+            avocadobomen elkaar. Uit een bloem ontwikkelt zich na bevruchting een
+            avocado (vrucht) met een pit (zaad).
+1p    11    Zal de plant die zich ontwikkelt uit deze pit resistent zijn tegen fytoftora?
+            Verklaar je antwoord.
+
+
+
+
+HA-1018-a-22-2-o                              6 / 23                             lees verder ►►►
+      Borstvoeding
+
+            Ava en haar partner Glenn verwachten binnenkort hun eerste kind. Ze
+            bezoeken een voorlichtingsavond over borstvoeding. Lactatiekundige
+            Rosanne geeft informatie.
+
+            Tijdens de zwangerschap vinden veranderingen plaats in het borstweefsel
+            van een vrouw. Het aantal melkkanaaltjes neemt toe en dekweefselcellen
+            van de melkkanaaltjes differentiëren zich tot melkproducerende
+            kliercellen. Groepjes van deze cellen vormen samen de melkkliertjes.
+            Rondom elk melkkliertje ontwikkelen zich speciale oxytocine-gevoelige
+            spiercellen. Als deze spiercellen zich samentrekken, wordt melk in de
+            melkkanaaltjes geperst (afbeelding 1).
+
+            afbeelding 1
+
+
+
+
+1p    12    Welke verandering vindt plaats bij de differentiatie van een dekweefselcel
+            tot een melkproducerende cel?
+            A De expressie van genen voor melkproductie verandert.
+            B Genen voor dekweefselfuncties muteren tot genen voor melkproductie.
+            C Genen voor dekweefselfuncties verdwijnen en genen voor
+                melkproductie worden gevormd.
+
+
+
+
+HA-1018-a-22-2-o                           7 / 23                            lees verder ►►►
+            Na de bevalling komt de melkproductie meestal goed op gang. Als
+            zintuigcellen in de tepel gestimuleerd worden, ontstaan impulsen in
+            sensorische zenuwcellen. De impulsen worden verwerkt in het centraal
+            zenuwstelsel. Dit leidt tot de afgifte van oxytocine. Oxytocine komt
+            vervolgens terecht bij de melkkliertjes.
+2p    13    Bereikt oxytocine de melkkliertjes via het bloed of via motorische
+            zenuwcellen? En zijn melkkliertjes endocrien of exocrien?
+
+                   oxytocine getransporteerd door       melkkliertjes zijn
+
+            A      bloed                                endocrien
+            B      bloed                                exocrien
+            C      motorische zenuwcellen               endocrien
+            D      motorische zenuwcellen               exocrien
+
+            Rosanne adviseert om een borst steeds helemaal leeg te laten drinken
+            door de baby. De melkproductie wordt namelijk gestimuleerd doordat de
+            borst leeg is. Het FIL-eiwit dat aanwezig is in moedermelk regelt dit
+            proces.
+            Over het FIL-eiwit wordt een uitspraak gedaan waarin twee woorden
+            ontbreken:
+            De aanwezigheid van FIL-eiwit …(1)… de aanmaak van moedermelk; dit
+            proces heet …(2)… terugkoppeling.
+2p    14    Wat moet bij 1 en bij 2 worden ingevuld, zodat een juiste uitspraak
+            ontstaat?
+
+                   bij 1        bij 2
+
+            A      remt         negatieve
+            B      remt         positieve
+            C      stimuleert   negatieve
+            D      stimuleert   positieve
+
+            Glenn vraagt wat het verschil in samenstelling is tussen flesvoeding en
+            borstvoeding. Rosanne antwoordt dat moedermelk antistoffen bevat.
+            Daardoor is de baby gedurende de periode van borstvoeding immuun
+            voor veel ziekten, zoals maag- en darminfecties.
+2p    15    Welke vorm van immuniteit verkrijgt het kind door de antistoffen in de
+            borstvoeding?
+            A actieve kunstmatige immuniteit
+            B actieve natuurlijke immuniteit
+            C passieve kunstmatige immuniteit
+            D passieve natuurlijke immuniteit
+
+
+
+
+HA-1018-a-22-2-o                              8 / 23                         lees verder ►►►
+            Rosanne noemt nog een ander voordeel van borstvoeding: moedermelk
+            stimuleert een gunstige soortensamenstelling van darmbacteriën bij de
+            baby.
+            Moedermelk bevat namelijk oligosachariden die voor de baby
+            onverteerbaar zijn, zoals lacto-N-tetraose (afbeelding 2). Deze
+            oligosachariden kunnen wel worden afgebroken door bepaalde gunstige
+            darmbacteriën, de bifidobacteriën.
+
+            afbeelding 2
+
+
+
+
+            Over lacto-N-tetraose in borstvoeding worden de volgende uitspraken
+            gedaan:
+            1 Bij baby’s die borstvoeding krijgen, hebben bifidobacteriën een
+                selectievoordeel ten opzichte van bacteriën die geen oligosachariden
+                kunnen afbreken.
+            2 De klieren in het spijsverteringsstelsel van baby’s produceren geen
+                enzymen voor de afbraak van lacto-N-tetraose.
+            3 Lacto-N-tetraose bestaat uit een keten van aminozuren.
+2p    16    Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            Bij een baby met minder bifidobacteriën in de darm kunnen schadelijke
+            bacteriën in de darm zich makkelijker vermeerderen. Hierdoor kunnen
+            ontstekingen in de dikke darm ontstaan die leiden tot een sterke toename
+            van de darmperistaltiek. Door verminderde waterresorptie kan dan diarree
+            ontstaan.
+1p    17    Verklaar waardoor een toename in darmperistaltiek leidt tot een
+            verminderde waterresorptie.
+
+
+
+
+HA-1018-a-22-2-o                           9 / 23                           lees verder ►►►
+      Hoelang nog voor de Yangtze-bruinvissen?
+
+            In de rivier de Yangtze (Chang Jiang) in China leeft   afbeelding 1
+            een populatie Indische bruinvissen (afbeelding 1).
+            Deze populatie wordt ernstig met uitsterven
+            bedreigd. In 2018 waren er nog maar ongeveer
+            1000 Indische bruinvissen in de Yangtze.
+
+
+
+
+            De bruinvissen in de Yangtze leven in kleine groepen. Deze zoogdieren
+            jagen op vissen, weekdieren en kreeftachtigen. In de zeeën rond China
+            komt ook een variant voor van de Indische bruinvis. In afbeelding 2 is de
+            verspreiding van de Yangtze-variant en de zoutwatervariant weergeven.
+
+              afbeelding 2
+
+
+
+
+            Om te bepalen of de twee varianten aparte soorten zijn, hebben
+            onderzoekers het genoom van deze Indische bruinvissen bestudeerd.
+            Omdat de Yangtze-bruinvissen geografisch geïsoleerd zijn van de
+            zoutwaterbruinvissen, treedt er geen voortplanting op tussen deze twee
+            varianten.
+1p    18    Verklaar dat dit nog niet betekent dat de Yangtze-variant een aparte soort
+            is.
+
+
+
+
+HA-1018-a-22-2-o                           10 / 23                           lees verder ►►►
+            De onderzoekers vonden verschillen in het DNA van de zoutwatervariant
+            en dat van de Yangtze-variant. Binnen populaties van de zoutwatervariant
+            is er een hogere frequentie van allelen die helpen overleven bij een lage
+            zuurstofconcentratie in het lichaam. In zee zijn deze allelen gunstig omdat
+            bruinvissen aan het wateroppervlak lucht inademen en daarna in zee op
+            grote diepte hun prooien vangen.
+2p    19    Was de zuurstofconcentratie van het water een selecterende factor bij het
+            ontstaan van deze hogere frequentie van allelen? En was de diepte
+            waarop prooien voorkomen hierbij een selecterende factor?
+
+                   selectie door zuurstof-                selectie door diepte waarop
+                   concentratie van het water             prooidieren voorkomen
+
+            A      ja                                     ja
+            B      ja                                     nee
+            C      nee                                    ja
+            D      nee                                    nee
+
+            De twee varianten Indische bruinvissen verschillen ook in genen die te
+            maken hebben met de aanpassing aan de osmotische waarde van het
+            water waarin ze leven. Deze genetische verschillen leiden tot een verschil
+            in afgifte van ADH en in de osmotische waarde van de urine. Yangtze-
+            bruinvissen produceren daardoor meer urine dan zoutwaterbruinvissen.
+2p    20    Is de afgifte van ADH bij de Yangtze-bruinvissen hoger of lager dan bij
+            zoutwaterbruinvissen? En is de osmotische waarde van de urine bij de
+            Yangtze-bruinvissen hoger of lager dan bij zoutwaterbruinvissen?
+
+                   afgifte ADH    osmotische waarde urine
+
+            A      hoger          hoger
+            B      hoger          lager
+            C      lager          hoger
+            D      lager          lager
+
+            Door de grote genetische verschillen die ze vonden, zijn de onderzoekers
+            nu van mening dat er sprake is van twee aparte soorten. Dit is een extra
+            reden om de Indische bruinvissen in de Yangtze te beschermen om ze te
+            behoeden voor uitsterven.
+            De kans is groot dat de populatie Yangtze-bruinvissen zal uitsterven als
+            de populatiegrootte tot minder dan honderd dieren is gedaald.
+2p    21    Leg uit waardoor een kleine populatie makkelijk uitsterft.
+
+
+
+
+HA-1018-a-22-2-o                                11 / 23                             lees verder ►►►
+      Zoenen voor de wetenschap
+
+            Zoenen is heerlijk als je verliefd bent. Maar als je er goed over nadenkt,
+            heeft het ook iets onsmakelijks: je wisselt tijdens het zoenen speeksel,
+            etensresten, virussen en bacteriën uit. Microbioloog Remco Kort deed er
+            onderzoek naar.
+
+            In en op ons lichaam leven veel micro-organismen: bacteriën, gisten en
+            andere eencelligen. Samen vormen ze ons microbioom.
+            Remco Kort onderzocht bij verliefde stelletjes de overeenkomst in
+            samenstelling van het speekselmicrobioom voor en na een tongzoen, en
+            het aantal bacteriën dat bij een tongzoen wordt overgedragen.
+            Hij nam bij de geliefden wat speeksel af op verschillende tijdstippen en
+            onderzocht de monsters.
+            Zowel voor als na een tongzoen van tien seconden bleek een stelletje een
+            meer overeenkomstig speekselmicrobioom te hebben dan een willekeurig
+            tweetal.
+
+            De overeenkomst vóór de tongzoen kan veroorzaakt zijn door zoengedrag
+            in de periode voorafgaand aan het onderzoek, maar er zijn ook andere
+            verklaringen mogelijk, zoals het gebruik van dezelfde soort tandpasta.
+1p    22    Verklaar hoe het gebruik van dezelfde soort tandpasta kan leiden tot een
+            overeenkomstig speekselmicrobioom.
+
+            Korts hypothese was dat er meer overeenkomst is in het
+            speekselmicrobioom bij stelletjes met een hoge zoenfrequentie dan bij
+            stelletjes met een lage zoenfrequentie.
+            De stelletjes beantwoordden vragen over hun zoengedrag en Kort
+            verwerkte de resultaten in een diagram, waarin het verschil in microbioom
+            is uitgedrukt op een schaal van 0,0 (volledig gelijk) tot 1,0 (volledig
+            verschillend).
+
+
+
+
+HA-1018-a-22-2-o                            12 / 23                           lees verder ►►►
+            De resultaten van zijn onderzoek ondersteunden zijn hypothese. In
+            afbeelding 1 zijn vier diagrammen weergegeven.
+
+            afbeelding 1
+
+
+
+
+1p    23    Welk diagram uit afbeelding 1 geeft de resultaten van het onderzoek op
+            de juiste manier weer?
+            A diagram 1
+            B diagram 2
+            C diagram 3
+            D diagram 4
+
+
+
+
+HA-1018-a-22-2-o                          13 / 23                           lees verder ►►►
+            In een vervolgonderzoek met drie stelletjes wilde Kort te weten komen
+            hoeveel bacteriën overgedragen worden bij een tongzoen. Hij gebruikte
+            een yoghurtdrankje met bepaalde melkzuurbacteriën die nauwelijks in de
+            mond voorkomen. Het onderzoek verliep zoals weergegeven in
+            afbeelding 2.
+
+            afbeelding 2
+
+
+
+
+                  Het percentage melkzuurbacteriën in het speekselmicrobioom van de
+                   ontvanger wordt bepaald (meting 1).
+                  Eén persoon (de donor) van het stelletje drinkt het yoghurtdrankje.
+                  Hierna wordt het percentage melkzuurbacteriën in het
+                   speekselmicrobioom van de donor bepaald (meting 2).
+                  Er volgt een tongzoen van tien seconden.
+                  Direct daarna wordt nogmaals het percentage melkzuurbacteriën in
+                   het speekselmicrobioom van de ontvanger bepaald (meting 3).
+
+            De resultaten staan in afbeelding 3.
+
+            afbeelding 3
+
+
+
+
+1p    24    Licht toe waarom meting 1 nodig is om conclusies te kunnen trekken uit
+            dit experiment.
+
+
+HA-1018-a-22-2-o                              14 / 23                         lees verder ►►►
+            Over het onderzoek worden twee uitspraken gedaan. In elke uitspraak is
+            een woord weggelaten.
+             Doordat gebruik werd gemaakt van melkzuurbacteriën die nauwelijks
+               in de mond voorkomen werd de …(1)… van dit onderzoek beïnvloed.
+             Doordat meerdere stelletjes werden onderzocht, werd de …(2)… van
+               dit onderzoek beïnvloed.
+2p    25    Wat moet ingevuld worden bij 1 en bij 2 zodat er twee juiste uitspraken
+            staan?
+
+                   bij 1                   bij 2
+
+            A      betrouwbaarheid         betrouwbaarheid
+            B      betrouwbaarheid         validiteit
+            C      validiteit              betrouwbaarheid
+            D      validiteit              validiteit
+
+            Bij een tongzoen worden mogelijk ook ziekmakende bacteriën
+            overgedragen. Meestal krijgen deze bacteriën, die bijvoorbeeld ontstoken
+            tandvlees of cariës veroorzaken, geen kans om zich in de mond te
+            vestigen. De samenstelling van het speekselmicrobioom is namelijk
+            redelijk stabiel doordat de meeste micro-organismen in de mond
+            vastzitten aan het oppervlak van het gebit en de zachte weefsels.
+            Als je recent antibiotica hebt gebruikt, kun je beter niet zoenen met
+            iemand die ontstoken tandvlees of cariës heeft.
+2p    26    Leg uit waardoor het risico op een infectie na zoenen groter is als je
+            recent antibiotica hebt gebruikt.
+
+            Een deel van de bacteriën die overgedragen worden, wordt in de mond al
+            opgeruimd door lysozymen en antistoffen. De rest wordt gedood door het
+            zoutzuur in de maag.
+2p    27    Schrijf lysozymen, antistoffen en zoutzuur onder elkaar en noteer
+            erachter of de betreffende manier van afweer behoort tot de
+            aangeboren (niet-specifieke) afweer of tot de verworven (specifieke)
+            afweer.
+
+
+
+
+HA-1018-a-22-2-o                          15 / 23                           lees verder ►►►
+      Insecten resistent tegen GM-gewassen?
+
+            GM-gewassen zijn landbouwgewassen die genetisch gemodificeerd zijn.
+            Veel GM-gewassen produceren gifstoffen die hen beter beschermen
+            tegen vraat door insecten. Insecten ontwikkelen echter resistentie tegen
+            deze gifstoffen.
+
+            Met behulp van DNA-technieken brachten onderzoekers het Cry-gen van
+            de bodembacterie Bacillus thuringiensis in bij maisplanten en
+            katoenplanten. Het Cry-gen codeert voor een eiwit dat giftig is voor
+            insecten. Rupsen gaan enkele dagen na het eten van de planten dood,
+            waardoor er veel minder bestrijdingsmiddelen gebruikt hoeven worden bij
+            de teelt van deze gewassen.
+            Het eiwit dat wordt gemaakt bij de expressie van het Cry-gen vormt
+            eiwitkristallen. Deze kristallen lossen op bij een pH van 11 of hoger. Bij
+            veel insecten is de pH van de darm hoger dan 11. De opgeloste Cry-
+            eiwitten binden aan receptoren in het membraan van darmwandcellen,
+            waarna er gaten in de darmwand ontstaan (perforatie). Als gevolg hiervan
+            sterven de insecten.
+
+1p    28    Verklaar waardoor zelfs een kleine darmperforatie al dodelijk kan zijn.
+
+            Voor mensen is het eten van planten met Cry-eiwitten niet schadelijk.
+1p    29    Geef hiervoor een mogelijke verklaring.
+
+            De genetische modificatie met het Cry-gen         afbeelding 1
+            werd bij katoenplanten toegepast als
+            bestrijdingsmethode tegen het katoendaguiltje
+            (Helicoverpa armigera), dat zijn eitjes legt op
+            katoenplanten. De rupsen van deze vlinder
+            (afbeelding 1) eten van de katoenbladeren.
+            Een paar jaar na de introductie van de
+            genetisch gemodificeerde katoenplanten
+            werden er katoendaguiltjes gevonden die
+            resistent waren tegen het Cry-eiwit.
+
+            Het percentage resistente katoendaguiltjes op de GM-katoenplantages
+            wordt elk jaar groter.
+            Hiervoor worden de volgende verklaringen gegeven:
+            1 Dat is het gevolg van een verandering in een abiotische factor.
+            2 Niet-resistente rupsen gaan hun voedsel zoeken in plantages zonder
+                genetisch gemodificeerde katoenplanten.
+            3 Resistente rupsen hebben een hogere fitness dan niet-resistente
+                rupsen.
+2p    30    Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende verklaring juist of onjuist is.
+
+
+
+HA-1018-a-22-2-o                            16 / 23                           lees verder ►►►
+            Resistentie tegen het Cry-eiwit is ontstaan door een mutatie in het gen dat
+            codeert voor de receptor in het membraan van darmwandcellen. Hierdoor
+            kan het giftige eiwit niet binden aan deze receptor. Het allel met deze
+            mutatie is recessief. Alleen rupsen die homozygoot zijn voor de mutatie
+            zijn resistent.
+            Om te voorkomen dat deze resistentie zich verder verspreidt, worden in
+            katoenplantages stroken ingezaaid met zaad van katoenplanten die niet
+            genetisch gemodificeerd zijn.
+2p    31    Leg uit dat hierdoor het percentage resistente katoendaguiltjes in de
+            populatie laag blijft.
+
+            Een andere vorm van resistentie bij het katoendaguiltje wordt veroorzaakt
+            door een puntmutatie in het HaTSPAN1-gen. Het mutante allel is
+            dominant. Door de puntmutatie wordt op een positie in het HaTSPAN1-
+            eiwit het aminozuur serine ingebouwd in plaats van leucine.
+
+            De puntmutatie leidt tot de verandering van één base in het mRNA.
+1p    32    Welk codon in het oorspronkelijke RNA is veranderd door de puntmutatie?
+            A CUA of CUG
+            B CUU of CUC
+            C UUA of UUG
+
+            In tien jaar tijd is de allelfrequentie van het gemuteerde allel van het
+            HaTSPAN1-gen met een factor 100 toegenomen. Hierdoor is het een
+            serieuze bedreiging voor het succes van de GM-gewassen met het Cry-
+            gen. Om resistentie in nieuwe plantages voor langere tijd te voorkomen
+            willen de onderzoekers de genetische modificatie op een iets andere
+            manier doen: ze willen het stuk DNA veranderen dat ze in de gewassen
+            inbrengen.
+1p    33    Welke verandering zal het meeste succes hebben?
+            A behalve het Cry-gen een gen inbouwen voor een ander toxine dat
+                 insecten doodt
+            B behalve het Cry-gen een recessief HaTSPAN1-gen inbouwen
+            C meer kopieën van het Cry-gen inbouwen
+
+
+
+
+HA-1018-a-22-2-o                           17 / 23                            lees verder ►►►
+      Fantoompijn bestrijden met virtual reality
+
+            Corry van der Sluis is revalidatiearts en onderzoeker in het Universitair
+            Medisch Centrum Groningen. Ze hoopt met behulp van virtual reality
+            fantoompijn te kunnen bestrijden.
+
+            Fantoompijn is pijn die gevoeld wordt in een geamputeerd deel van het
+            lichaam. Een theorie is dat het pijngevoel wordt veroorzaakt door een
+            zogenoemd neuroma, dat gevormd wordt op de plaats waar een perifere
+            zenuw doorgesneden is als gevolg van een amputatie. Het ontstaan van
+            een neuroma is in afbeelding 1 in vier stappen weergegeven:
+
+            1      Een gezonde               afbeelding 1
+                   sensorische zenuwcel
+                   heeft een dendriet met
+                   een myelineschede.
+            2      Na de amputatie ruimen
+                   witte bloedcellen
+                   celresten op rondom de
+                   beschadigde zenuwcel.
+            3      De zenuwcel vormt
+                   nieuwe uitlopers.
+            4      De nieuwe uitlopers van
+                   meerdere zenuwcellen
+                   vormen een kluwen: een
+                   neuroma.
+
+
+
+            In het neuroma kunnen spontaan actiepotentialen (impulsen) ontstaan die
+            leiden tot het pijngevoel.
+
+2p    34          Noteer de naam van de cellen waaruit de myelineschede bestaat.
+                  Noteer de functie van de myelineschede.
+
+1p    35    Welke witte bloedcellen ruimen in stap 2 van afbeelding 1 de celresten
+            op?
+            A cytotoxische T-cellen
+            B macrofagen
+            C plasmacellen
+            D T-helpercellen
+
+
+
+
+HA-1018-a-22-2-o                              18 / 23                          lees verder ►►►
+            Bij de zenuwcellen in een neuroma kunnen sneller actiepotentialen
+            ontstaan dan in normale zenuwcellen.
+2p    36    Ontstaat een actiepotentiaal door het openen of door het sluiten van
+            Na+-kanaaltjes? En wat is er blijkbaar gebeurd met de drempelwaarde van
+            de zenuwcellen in een neuroma?
+
+                   Na+-kanaaltjes    drempelwaarde
+
+            A      openen            is verhoogd
+            B      openen            is verlaagd
+            C      sluiten           is verhoogd
+            D      sluiten           is verlaagd
+
+            Een tweede theorie is dat fantoompijn ontstaat doordat bepaalde centra
+            van de hersenschors zijn gereorganiseerd. Sensorische en motorische
+            gebieden die als gevolg van de amputatie ‘werkeloos’ zijn, worden in
+            gebruik genomen door naastgelegen hersengebieden.
+
+            In afbeelding 2 is met een zwarte cirkel een gebied van de hersenschors
+            aangegeven dat werkeloos is als gevolg van de amputatie van een hand.
+            Dit gebied wordt nu gebruikt door een nabijgelegen hersengebied dat
+            sensorische informatie van het gezicht verwerkt.
+
+            afbeelding 2
+
+
+
+
+1p    37    Noteer welke letter in afbeelding 2 het gebied aangeeft waarin de
+            sensorische informatie van het gezicht wordt verwerkt.
+
+
+
+
+HA-1018-a-22-2-o                           19 / 23                              lees verder ►►►
+            Corry van der Sluis behandelt patiënten met fantoompijn met behulp van
+            virtual reality.
+            Een man die lijdt aan fantoompijn krijgt elektrodes op de stomp van zijn
+            geamputeerde arm geplakt (afbeelding 3). Met de elektrodes worden
+            elektrische signalen opgevangen die ontstaan in de spieren in de stomp
+            wanneer hij zijn ontbrekende onderarm probeert te bewegen. Op een
+            beeldscherm ziet hij zichzelf bewegingen maken met zijn virtuele arm
+            (afbeelding 4).
+            Door te oefenen worden de bewegingen preciezer en kan hij steeds
+            moeilijkere opdrachten uitvoeren. Na tien sessies heeft de man voor het
+            eerst in 50 jaar momenten zonder fantoompijn.
+
+            afbeelding 3                                   afbeelding 4
+
+
+
+
+2p    38    Zijn de signalen in de stomp die de virtuele arm aansturen veroorzaakt
+            door motorische of door sensorische zenuwcellen? En komt het
+            computerprogramma in functie overeen met het animale zenuwstelsel of
+            met het autonome zenuwstelsel?
+
+                   zenuwcellen       zenuwstelsel
+
+            A      motorische        animale
+            B      motorische        autonome
+            C      sensorische       animale
+            D      sensorische       autonome
+
+            Op het beeldscherm ziet de man de bewegingen die hij probeert te
+            maken. Het lukt hem om de bewegingen steeds nauwkeuriger te maken
+            doordat het gebied in de hersenen waar het beeld wordt gevormd, in
+            contact staat met het gebied dat de spieren aanstuurt.
+1p    39    Noteer de naam van het gebied in de grote hersenen waar het beeld
+            wordt gevormd.
+
+
+
+
+HA-1018-a-22-2-o                           20 / 23                           lees verder ►►►
+      Op zoek naar de grootste bloedzuiger van Nederland
+
+            De grootste bloedzuiger van Nederland stelt hoge eisen aan zijn
+            leefgebied. In Nederland zijn nog maar een paar van deze gebieden. De
+            ecologen Ron Felix en Bram Koese onderzoeken verschillende methodes
+            om de populatiedichtheid van deze soort te bepalen.
+
+            De bloedzuiger Hirudo medicinalis, afbeelding 1
+            (afbeelding 1) komt voor in
+            vennetjes, beekjes en moerassen.
+            Zijn habitat moet aan een aantal
+            kenmerken voldoen. De eieren
+            moeten in een zelfgemaakt kuiltje
+            op een zandige oever naast
+            ondiep water gelegd kunnen
+            worden, waar ze door de warmte
+            van de zon tot ontwikkeling
+            kunnen komen.
+            Ook moet er voldoende voedsel
+            aanwezig zijn. De larven eten de eerste dagen waterslakjes.
+            Waterslakken komen alleen voor in water met een pH hoger dan 5,5. Na
+            een aantal dagen stapt de bloedzuiger over op bloed van amfibieën en
+            van zoogdieren, zoals reeën en grote grazers, die het water inlopen om
+            te drinken.
+
+            Verschillende milieufactoren zijn van invloed op het aantal bloedzuigers.
+            Enkele van deze factoren zijn:
+            1 diepte van het water
+            2 pH van het water
+            3 waterslakjes
+            4 zandige oever
+2p    40    Schrijf de nummers 1 tot en met 4 onder elkaar en noteer erachter of de
+            betreffende factor abiotisch of biotisch is.
+
+            Tussen organismen kunnen verschillende relaties voorkomen. Vier
+            relaties zijn: commensalisme; mutualisme; parasitisme; predatie.
+2p    41     Welke relatie bestaat er tussen een larve van de bloedzuiger en een
+                waterslak?
+             Welke relatie bestaat er tussen de volwassen bloedzuiger en een
+                zoogdier?
+            Noteer je antwoord zo:
+            relatie met waterslak: …
+            relatie met zoogdier: …
+
+
+
+
+HA-1018-a-22-2-o                           21 / 23                            lees verder ►►►
+            Als een zoogdier het water inloopt, veroorzaakt dit trillingen die door de
+            bloedzuigers waargenomen worden. Ze zwemmen vervolgens razendsnel
+            op hun doel af, zuigen zich vast met hun zuignap en maken met hun
+            scherpe tandjes een wondje. In het speeksel van de bloedzuiger zit een
+            stof die de plaats van de bijtwond verdooft, en een stof die de
+            bloedstolling remt (hirudine). De bloedzuiger kan daardoor in dertig
+            minuten zoveel bloed opzuigen, dat zijn gewicht vertienvoudigt. Daarna
+            laat hij los.
+
+            Het produceren van de verdovende stof is gedurende de evolutie
+            ontstaan.
+2p    42    Leg uit dat de productie van de verdovende stof selectievoordeel
+            opleverde voor de bloedzuigers die deze eigenschap hadden.
+
+            Hirudine blokkeert het enzym trombine, dat nodig is voor de bloedstolling.
+            In normale situaties veroorzaakt trombine de omzetting van een oplosbaar
+            plasma-eiwit naar onoplosbare eiwitdraden, waardoor een netwerk
+            ontstaat waarin bloedcellen blijven hangen: een bloedstolsel. Door de
+            werking van hirudine ontstaat er geen stolsel, waardoor de bijtwond blijft
+            bloeden. Afbeelding 2 is een schematische weergave van dit proces.
+            Hierin zijn vier eiwitten met een nummer aangegeven.
+
+            afbeelding 2
+
+
+
+
+            De vier genummerde eiwitten in afbeelding 2 zijn:
+             fibrine
+             fibrinogeen
+             hirudine
+             trombine
+2p    43    Schrijf de nummers 1 tot en met 4 onder elkaar en noteer achter elk
+            nummer de naam van het juiste eiwit.
+
+
+
+
+HA-1018-a-22-2-o                           22 / 23                             lees verder ►►►
+            Bloedzuigers zoeken met blote benen                         afbeelding 3
+            is niet moeilijk: je loopt een vennetje in
+            en als ze aanwezig zijn, zitten ze
+            binnen een paar minuten op je benen
+            (afbeelding 3).
+            Een nadeel van deze manier van
+            inventariseren is dat je er een verdoofd
+            gevoel in je been van krijgt en de
+            wondjes langdurig blijven bloeden.
+
+            Felix en Koese voeren daarom een vergelijkend onderzoek uit.
+            De onderzoeksvraag is: trekken benen in lieslaarzen ook bloedzuigers
+            aan? In afbeelding 4 zie je de twee ecologen rondlopen in een vennetje.
+            Alle aangetrokken bloedzuigers worden gevangen en tijdelijk in een
+            emmertje bewaard. De bloedzuigers blijken zowel op blote benen als op
+            benen in lieslaarzen af te komen.
+
+            afbeelding 4
+
+
+
+
+2p    44    Wat is in het onderzoek van Felix en Koese de onafhankelijke variabele?
+            En wat is de afhankelijke variabele?
+            Noteer je antwoord zo:
+            onafhankelijke variabele: …
+            afhankelijke variabele: …
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1018-a-22-2-o                                         23 / 23                                          lees verdereinde
+                                                                                                                       ►►► 
+

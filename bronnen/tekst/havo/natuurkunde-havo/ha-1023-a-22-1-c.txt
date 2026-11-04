@@ -1,0 +1,943 @@
+                                                   Correctievoorschrift HAVO
+
+                                                                           2022
+                                                                                   tijdvak 1
+
+
+
+
+                                                                        natuurkunde
+
+
+
+
+      Het correctievoorschrift bestaat uit:
+      1 Regels voor de beoordeling
+      2 Algemene regels
+      3 Vakspecifieke regels
+      4 Beoordelingsmodel
+      5 Aanleveren scores
+      6 Bronvermeldingen
+
+
+
+      1 Regels voor de beoordeling
+
+      Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en
+      42 van het Eindexamenbesluit VO.
+      Voorts heeft het College voor Toetsen en Examens op grond van artikel 2 lid 2d van
+      de Wet College voor toetsen en examens de Regeling beoordelingsnormen en
+      bijbehorende scores centraal examen vastgesteld.
+      Voor de beoordeling zijn de volgende aspecten van de artikelen 36, 41, 41a en 42 van
+      het Eindexamenbesluit VO van belang:
+      1 De directeur doet het gemaakte werk met een exemplaar van de opgaven, de
+          beoordelingsnormen en het proces-verbaal van het examen toekomen aan de
+          examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de
+          directeur. De examinator past de beoordelingsnormen en de regels voor het
+          toekennen van scorepunten toe die zijn gegeven door het College voor Toetsen en
+          Examens.
+      2 De directeur doet de van de examinator ontvangen stukken met een exemplaar van
+          de opgaven, de beoordelingsnormen, het proces-verbaal en de regels voor het
+          bepalen van de score onverwijld aan de directeur van de school van de
+          gecommitteerde toekomen. Deze stelt het ter hand aan de gecommitteerde.
+
+
+
+
+HA-1023-a-22-1-c                              1                               lees verder ►►►
+      3     De gecommitteerde beoordeelt het werk zo spoedig mogelijk en past de
+            beoordelingsnormen en de regels voor het bepalen van de score toe die zijn
+            gegeven door het College voor Toetsen en Examens.
+            De gecommitteerde voegt bij het gecorrigeerde werk een verklaring betreffende de
+            verrichte correctie. Deze verklaring wordt mede ondertekend door het bevoegd
+            gezag van de gecommitteerde.
+      4     De examinator en de gecommitteerde stellen in onderling overleg het behaalde
+            aantal scorepunten voor het centraal examen vast.
+      5     Indien de examinator en de gecommitteerde daarbij niet tot overeenstemming
+            komen, wordt het geschil voorgelegd aan het bevoegd gezag van de
+            gecommitteerde. Dit bevoegd gezag kan hierover in overleg treden met het bevoegd
+            gezag van de examinator. Indien het geschil niet kan worden beslecht, wordt
+            hiervan melding gemaakt aan de inspectie. De inspectie kan een derde
+            onafhankelijke corrector aanwijzen. De beoordeling van deze derde corrector komt
+            in de plaats van de eerdere beoordelingen.
+
+
+
+      2 Algemene regels
+
+      Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeling
+      van het College voor Toetsen en Examens van toepassing:
+      1 De examinator vermeldt op een lijst de namen en/of nummers van de kandidaten,
+         het aan iedere kandidaat voor iedere vraag toegekende aantal scorepunten en het
+         totaal aantal scorepunten van iedere kandidaat.
+      2 Voor het antwoord op een vraag worden door de examinator en door de
+         gecommitteerde scorepunten toegekend, in overeenstemming met
+         correctievoorschrift. Scorepunten zijn de getallen 0, 1, 2, ..., n, waarbij n het
+         maximaal te behalen aantal scorepunten voor een vraag is. Andere scorepunten die
+         geen gehele getallen zijn, of een score minder dan 0 zijn niet geoorloofd.
+      3 Scorepunten worden toegekend met inachtneming van de volgende regels:
+         3.1 indien een vraag volledig juist is beantwoord, wordt het maximaal te behalen
+             aantal scorepunten toegekend;
+         3.2 indien een vraag gedeeltelijk juist is beantwoord, wordt een deel van de te
+             behalen scorepunten toegekend in overeenstemming met het
+             beoordelingsmodel;
+         3.3 indien een antwoord op een open vraag niet in het beoordelingsmodel voorkomt
+             en dit antwoord op grond van aantoonbare, vakinhoudelijke argumenten als juist
+             of gedeeltelijk juist aangemerkt kan worden, moeten scorepunten worden
+             toegekend naar analogie of in de geest van het beoordelingsmodel;
+         3.4 indien slechts één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord
+             gevraagd wordt, wordt uitsluitend het eerstgegeven antwoord beoordeeld;
+         3.5 indien meer dan één voorbeeld, reden, uitwerking, citaat of andersoortig
+             antwoord gevraagd wordt, worden uitsluitend de eerstgegeven antwoorden
+             beoordeeld, tot maximaal het gevraagde aantal;
+         3.6 indien in een antwoord een gevraagde verklaring of uitleg of afleiding of
+             berekening ontbreekt dan wel foutief is, worden 0 scorepunten toegekend tenzij
+             in het beoordelingsmodel anders is aangegeven;
+
+
+
+
+HA-1023-a-22-1-c                               2                                lees verder ►►►
+            3.7 indien in het beoordelingsmodel verschillende mogelijkheden zijn opgenomen,
+                 gescheiden door het teken /, gelden deze mogelijkheden als verschillende
+                 formuleringen van hetzelfde antwoord of onderdeel van dat antwoord;
+            3.8 indien in het beoordelingsmodel een gedeelte van het antwoord tussen haakjes
+                 staat, behoeft dit gedeelte niet in het antwoord van de kandidaat voor te komen;
+            3.9 indien een kandidaat op grond van een algemeen geldende woordbetekenis,
+                 zoals bijvoorbeeld vermeld in een woordenboek, een antwoord geeft dat
+                 vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten
+                 toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke
+                 onjuistheid gemoeid zijn.
+      4     Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de
+            juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar
+            onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend
+            worden. Voor het juiste antwoord op een meerkeuzevraag wordt het in het
+            beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander
+            antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord
+            gegeven is, worden eveneens geen scorepunten toegekend.
+      5     Een fout mag in de uitwerking van een vraag maar één keer worden aangerekend,
+            tenzij daardoor de vraag aanzienlijk vereenvoudigd wordt en/of tenzij in het
+            beoordelingsmodel anders is vermeld.
+      6     Een zelfde fout in de beantwoording van verschillende vragen moet steeds opnieuw
+            worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
+      7     Indien de examinator of de gecommitteerde meent dat in een examen of in het
+            beoordelingsmodel bij dat examen een fout of onvolkomenheid zit, beoordeelt hij het
+            werk van de kandidaten alsof examen en beoordelingsmodel juist zijn. Hij kan de
+            fout of onvolkomenheid mededelen aan het College voor Toetsen en Examens.
+            Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een
+            eventuele fout wordt bij de definitieve normering van het examen rekening
+            gehouden.
+      8     Scorepunten worden toegekend op grond van het door de kandidaat gegeven
+            antwoord op iedere vraag. Er worden geen scorepunten vooraf gegeven.
+      9     Het cijfer voor het centraal examen wordt als volgt verkregen.
+            Eerste en tweede corrector stellen de score voor iedere kandidaat vast. Deze score
+            wordt meegedeeld aan de directeur.
+            De directeur stelt het cijfer voor het centraal examen vast op basis van de regels
+            voor omzetting van score naar cijfer.
+
+   NB1      T.a.v. de status van het correctievoorschrift:
+            Het College voor Toetsen en Examens heeft de correctievoorschriften bij regeling
+            vastgesteld. Het correctievoorschrift is een zogeheten algemeen verbindend
+            voorschrift en valt onder wet- en regelgeving die van overheidswege wordt verstrekt.
+            De corrector mag dus niet afwijken van het correctievoorschrift.
+
+
+
+
+HA-1023-a-22-1-c                                 3                                  lees verder ►►►
+   NB2      T.a.v. het verkeer tussen examinator en gecommitteerde (eerste en tweede corrector):
+            Het aangeven van de onvolkomenheden op het werk en/of het noteren van de
+            behaalde scores bij de vraag is toegestaan, maar niet verplicht. Evenmin is er een
+            standaardformulier voorgeschreven voor de vermelding van de scores van de
+            kandidaten. Het vermelden van het schoolexamencijfer is toegestaan, maar niet
+            verplicht. Binnen de ruimte die de regelgeving biedt, kunnen scholen afzonderlijk
+            of in gezamenlijk overleg keuzes maken.
+
+   NB3      T.a.v. aanvullingen op het correctievoorschrift:
+            Er zijn twee redenen voor een aanvulling op het correctievoorschrift: verduidelijking
+            en een fout.
+            Verduidelijking
+            Het correctievoorschrift is vóór de afname opgesteld. Na de afname blijkt pas welke
+            antwoorden kandidaten geven. Vragen en reacties die via het Examenloket bij de
+            Toets- en Examenlijn binnenkomen, kunnen duidelijk maken dat het correctie-
+            voorschrift niet voldoende recht doet aan door kandidaten gegeven antwoorden.
+            Een aanvulling op het correctievoorschrift kan dan alsnog duidelijkheid bieden.
+            Een fout
+            Als het College voor Toetsen en Examens vaststelt dat een centraal examen een
+            fout bevat, kan het besluiten tot een aanvulling op het correctievoorschrift.
+
+            Een aanvulling op het correctievoorschrift wordt door middel van een mailing vanuit
+            Examenblad.nl bekendgemaakt. Een aanvulling op het correctievoorschrift wordt zo
+            spoedig mogelijk verstuurd aan de examensecretarissen.
+            Soms komt een onvolkomenheid pas geruime tijd na de afname aan het licht. In die
+            gevallen vermeldt de aanvulling:
+
+            –      Als het werk al naar de tweede corrector is gezonden, past de tweede corrector
+                   deze aanvulling op het correctievoorschrift toe.
+                   en/of
+            –      Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert
+                   Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren.
+
+            Dit laatste gebeurt alleen als de aanvulling luidt dat voor een vraag alle scorepunten
+            moeten worden toegekend.
+
+            Als een onvolkomenheid op een dusdanig laat tijdstip geconstateerd wordt dat een
+            aanvulling op het correctievoorschrift ook voor de tweede corrector te laat komt,
+            houdt het College voor Toetsen en Examens bij de vaststelling van de N-term
+            rekening met de onvolkomenheid.
+
+
+
+
+HA-1023-a-22-1-c                                    4                                lees verder ►►►
+      3 Vakspecifieke regels
+
+      Voor dit examen zijn de volgende vakspecifieke regels vastgesteld:
+      1 Een afwijking in de uitkomst van een berekening/bepaling door acceptabel
+         tussentijds afronden wordt de kandidaat niet aangerekend.
+      2 Het laatste scorepunt, aangeduid met ‘completeren van de berekening/bepaling’,
+         wordt niet toegekend als:
+           een of meer rekenfouten gemaakt zijn,
+           de eenheid van een uitkomst niet of verkeerd vermeld is, tenzij gezien de
+             vraagstelling het weergeven van de eenheid overbodig is (In zo’n geval staat in
+             het beoordelingsmodel de eenheid tussen haakjes),
+           antwoordelementen foutief met elkaar gecombineerd zijn,
+           een onjuist antwoordelement een substantiële vereenvoudiging van de
+             berekening/bepaling tot gevolg heeft.
+      3 Het scorepunt voor het gebruik van een formule wordt toegekend als de kandidaat
+         laat zien kennis te hebben van de betekenis van de symbolen uit de formule. Dit
+         blijkt als:
+           de juiste formule is geselecteerd, én
+           voor minstens één symbool een waarde is ingevuld die past bij de betreffende
+             grootheid.
+
+
+
+
+HA-1023-a-22-1-c                               5                                 lees verder ►►►
+      4      Beoordelingsmodel
+
+  Vraag       Antwoord                                                                       Scores
+
+
+             Aan het juiste antwoord op een meerkeuzevraag wordt 1 scorepunt toegekend.
+
+      Muziekdoos
+
+      1      maximumscore 3
+             uitkomst: v  4 ∙ 10−3 m s−1
+
+             voorbeeld van een antwoord:
+             In de figuur is te zien dat de diameter van de rol ongeveer gelijk is aan de
+             dikte van een vinger. De straal van de rol kan hiermee geschat worden op
+             1 cm. Voor de baansnelheid geldt dan:
+
+                   2r 2 1 102 6,3 102
+             v                              4 103 m s 1.
+                    T       15         15
+                                   2r
+             •     gebruik van v                                                               1
+                                    T
+             •     beredeneerde schatting van de straal van de rol tussen 0,6 en 1,5 cm of
+                   de diameter van de rol tussen 1,2 en 3,0 cm                                  1
+             •     completeren van de schatting                                                 1
+
+      2      C
+
+
+
+
+HA-1023-a-22-1-c                                    6                                  lees verder ►►►
+  Vraag       Antwoord                                                                    Scores
+
+
+      3      maximumscore 3
+             uitkomst: f  3, 5 10 2 Hz (met een marge van 0,1·102 Hz)
+
+             voorbeeld van een antwoord:
+
+             methode 1
+              Er worden 3 trillingen geproduceerd in 8, 6 10 3 s,
+                         8, 6 103
+                   dus T            2,87 103 s.
+                              3
+                                              1     1
+             Voor de frequentie geldt: f               3
+                                                             3,5 102 Hz.
+                                              T 2,87 10
+              f1 of f’
+
+                                        benodigde tijd          1
+             •     inzicht dat geldt T                  en f                               1
+                                       aantal trillingen        T
+             •     completeren van de bepaling en significantie                              1
+             •     consequente keuze voor de muzieknoot                                      1
+
+             of
+
+             methode 2
+              Er worden 3 trillingen geproduceerd in 8, 6 10 3 s,
+                          3
+             dus f           3
+                                  3,5 102 Hz.
+                     8, 6 10
+              f1 of f’
+
+                                       aantal trillingen
+             •     inzicht dat geldt f                                                      1
+                                        benodigde tijd
+             •     completeren van de bepaling en significantie                              1
+             •     consequente keuze voor de muzieknoot                                      1
+
+      4      maximumscore 2
+             Om de tijdsduur van één volledige trilling van de strip met een fotocamera
+             te bepalen, is meer dan één foto per trilling nodig.
+
+             De beeldfrequentie van de camera moet dan hoger zijn dan de frequentie
+             van de trillende strip.
+
+             •     eerste zin goed                                                           1
+             •     tweede zin consequent met de eerste                                       1
+
+
+
+
+HA-1023-a-22-1-c                                    7                               lees verder ►►►
+  Vraag       Antwoord                                                                           Scores
+
+
+      5      maximumscore 2
+             voorbeeld van een antwoord:
+             De frequentie van de toon van ‘London Bridge’ is lager, de trillingstijd T is
+                                    m
+             dan hoger. Uit T  2     volgt dat (bij gelijke C) de massa m dan groter
+                                    C
+             is.
+
+             •     inzicht dat de lagere toon een kleinere frequentie of grotere trillingstijd
+                   heeft                                                                           1
+             •     een uit de formule van een massa-veersysteem volgende consequente
+                   conclusie over de massa                                                         1
+
+             Opmerking
+             Wanneer alleen is aangegeven dat een zwaardere strip een lagere toon
+             geeft, geen scorepunten toekennen.
+
+
+
+
+HA-1023-a-22-1-c                                      8                                   lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      New Horizons
+
+      6      maximumscore 1
+             Op positie 1.
+
+      7      maximumscore 4
+             voorbeeld van een antwoord:
+                                    mM mv 2
+             Er geldt: Fg  Fmpz  G 2     .
+                                     r   r
+             Hieruit volgt:
+                            GM   6, 674 1011  0,01311024
+             Binas: v                                       2, 64 102 ms1.
+                             r            12,5 10  6
+
+
+                                GM      6, 674 1011  0,0130 1024
+             Sciencedata: v                                         2, 63 102 ms1.
+                                 r               12,5 106
+             (Dit klopt met de snelheid die de ontwerpers hebben gevonden.)
+
+             •     inzicht dat Fg  Fmpz                                                           1
+                                      mM
+             •     gebruik van Fg  G      met opzoeken M Pluto en G                               1
+                                       r2
+                                      mv 2
+             •     gebruik van Fmpz                                                               1
+                                       r
+             •     completeren van de berekening                                                   1
+
+             Opmerkingen
+              Wanneer de eenheid niet vermeld is, dit niet aanrekenen.
+              De eerste deelscore niet toekennen voor Fz  Fmpz .
+
+
+
+
+HA-1023-a-22-1-c                                     9                                    lees verder ►►►
+  Vraag       Antwoord                                                                                                    Scores
+
+
+      8      maximumscore 4
+             uitkomst: m  3, 5 10 4 kg
+
+             voorbeeld van een antwoord:
+              Voor de arbeid die de raketmotor moet leveren
+               geldt:
+               Wmotor  Ekin  12 m(ve2  vb2 )  12  465  ((2, 6 10 2 ) 2  (1, 2 10 4 ) 2 )  ( )3, 35 1010 J.
+
+                                 3,35 1010
+                   Hiervoor is               3,5 104 kg hydrazine nodig.
+                                 0,95 10 6
+
+
+
+
+                   Door de brandstof is de totale massa bij het begin van het afremmen
+                    van NH veel groter dan 465 kg.
+
+             •      inzicht dat Wmotor  Ekin met Ekin  12 mv 2                                                           1
+                                              Wmotor
+             •      inzicht dat mhydrazine                                                                                 1
+                                             0,95 106
+             •      completeren van de berekening                                                                           1
+             •      inzicht dat de totale massa van NH door de brandstof groter is                                          1
+
+      9      maximumscore 3
+             voorbeeld van een antwoord:
+             238
+              94   Pu  234
+                         92 U  2 He
+                                4
+
+
+
+
+             •      Pu-238 links en alleen een alfadeeltje als vervaldeeltje rechts van de
+                    pijl                                                                                                    1
+             •      U rechts van de pijl (mits verkregen via kloppende atoomnummers)                                        1
+             •      aantal nucleonen links en rechts gelijk                                                                 1
+
+
+
+
+HA-1023-a-22-1-c                                               10                                              lees verder ►►►
+  Vraag       Antwoord                                                                              Scores
+
+
+      10     maximumscore 4
+             uitkomst:      t  120 jaar
+                            mb  9,0 kg
+
+             voorbeeld van een antwoord:
+              Uit het snijpunt van de raaklijn met de horizontale as volgt dat
+                 t  120 jaar.
+
+                  De activiteit bij de lancering is gelijk aan 6, 0 1015 Bq. Als deze
+                   activiteit constant zou zijn over de tijd, zouden alle Pu-238˗deeltjes in
+                   120 jaar volledig zijn omgezet. Hieruit volgt:
+                   N  (  )6, 0 1015  (120  365  24  3600)  2, 27 10 25 deeltjes.
+                   Dit komt overeen met een massa van
+                   mtot  N  mPu-238  2, 27 10 25  3,95 10 25  9, 0 kg.
+
+             •     aflezen van t (met een marge van 5 jaar) en significantie                          1
+             •     inzicht dat N  A  t                                                             1
+             •     inzicht dat mtot  N  mPu-238                                                     1
+             •     completeren van de berekening                                                       1
+
+      11     maximumscore 3
+             uitkomst: η = 0,046 of 4,6%
+
+             voorbeeld van een antwoord:
+             Het plutonium levert bij de start een vermogen van:
+             PPu-238  A  Everval  6, 0 1015  5, 59 106 1, 60 10 19  5, 37 103 W.
+             Het rendement van de generator is dan:
+                  P                248
+               elektrisch                0, 046 (  4, 6%).
+                   PPu-238    5, 37 103
+
+             •     inzicht dat PPu-238  A  Everval                                                   1
+                                    P
+             •     inzicht dat   elektrisch                                                          1
+                                     PPu-238
+             •     completeren van de berekening en significantie                                      1
+
+
+
+
+HA-1023-a-22-1-c                                            11                                lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      12     maximumscore 3
+             uitkomst: t = 2,6 ∙ 102 jaar (met een marge van 0,1 ∙ 102 jaar)
+
+             voorbeelden van een antwoord:
+
+             methode 1
+             Uit de grafiek is te bepalen dat de halveringstijd van Pu-238 gelijk is aan
+             88 jaar. Het vermogen van de generator halveert met het verstrijken van een
+             halveringstijd. Na 3 halveringstijden is het vermogen gedaald tot 31 W. Dat
+             is na 3 ∙ 88 = 2,6 ∙ 102 jaar.
+
+             •     inzicht dat t 1 bepaald moet worden                                           1
+                               2
+
+             •     inzicht dat het vermogen van de generator halveert per halveringstijd         1
+             •     completeren van de bepaling en significantie                                  1
+
+             of
+
+             methode 2
+             Het elektrische vermogen van de energiebron is recht evenredig met de
+             activiteit van de bron en dus het aantal deeltjes in de bron. Als de generator
+             stopt met functioneren is het vermogen van de bron gedaald tot
+               31
+                  100%  12,5% van het vermogen van de bron bij het begin.
+              248
+             Hieruit volgt dat ook het resterende percentage Pu-238 gelijk is aan 12,5%.
+             Aflezen in de grafiek levert t = 2,6 ∙ 102 jaar.
+
+             •     inzicht dat Pbron recht evenredig is met het resterende percentage
+                   Pu-238                                                                        1
+                                               P
+             •     inzicht dat de verhouding e berekend moet worden                              1
+                                               Pb
+             •     completeren van de bepaling en significantie                                  1
+
+
+
+
+HA-1023-a-22-1-c                                    12                                  lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      Lithografie
+
+     13      C
+
+      14     maximumscore 2
+             voorbeeld van een antwoord:
+             De begintemperatuur van het tin is hoger dan het smeltpunt. Het tin gaat
+             dus van vloeibaar naar gasvormig. Er is dus sprake van verdampen.
+
+             •     inzicht dat het tin bij aanvang vloeibaar is                                    1
+             •     consequente vermelding van de faseovergang                                      1
+
+             Opmerking
+             Voor een antwoord zonder toelichting geen scorepunten toekennen.
+
+      15     maximumscore 3
+             uitkomst: t  0,13 s
+
+             voorbeeld van een antwoord:
+                    E         2,5
+             Er zijn totaal          1, 67 104 pulsen nodig. Eén puls duurt 8, 0 10 6 s.
+                     Epuls 1,5 104
+             De totale tijd van belichten is dan 1, 67 10 4  8, 0 10 6  0,13 s.
+
+                                 Etotaal
+             •     inzicht dat            n pulsen                                                1
+                                 Epuls
+             •     inzicht dat t  n pulsen  tpuls met tpuls  8,0 106 s                        1
+             •     completeren van de bepaling                                                     1
+
+             Opmerking
+             Wanneer een kandidaat voor tpuls de waarde 8 10 6 s noteert, dit niet
+             aanrekenen.
+
+
+
+
+HA-1023-a-22-1-c                                            13                            lees verder ►►►
+  Vraag       Antwoord                                                                Scores
+
+
+      16     maximumscore 4
+             uitkomst: ℓ = 1,8 nm = 1,8∙10−9 m
+
+             voorbeeld van een antwoord:
+             De golflengte van de nieuwe fotonen is:
+                 E 1, 47 1017
+              f  f          34
+                                   2, 22 1016 Hz.
+                  h 6, 63 10
+                   c 3, 00 108
+                                   1,35 108 m.
+                   f 2, 22 1016
+             Voor de minimale breedte van een draad die met het nieuwe proces
+             gemaakt kan worden, geldt:
+                       1,35 108
+              nieuw              25 109  1,8 109 m = 1,8 nm.
+                       193 109
+
+             •     gebruik van Ef  hf met opzoeken van h                                1
+             •     gebruik van c = fλ met opzoeken van c                                 1
+                                        
+             •     inzicht dat  nieuw  nieuw   oud                                   1
+                                         oud
+             •     completeren van de berekening                                         1
+
+
+
+
+HA-1023-a-22-1-c                                  14                            lees verder ►►►
+  Vraag       Antwoord                                                                            Scores
+
+
+      Stunt in Dubai
+
+      17     maximumscore 4
+             uitkomst: η = 0,8 of 8 ∙ 101 %
+
+             voorbeeld van een antwoord:
+                          E      1
+                                   m v 2  mMcD ghMcD
+             Er geldt:   McD  2 McD
+                          Eblok       mblok ghblok
+
+             Hieruit volgt:
+                 1
+                    85  592  85  9,81 34 1, 48 105  2,84 104
+              2                                                    0,8 ( 8 101 %)
+                    2, 75 10  9,81 0,8
+                              4
+                                                      2, 2 105
+
+
+
+
+                                           EMcD
+             •     inzicht dat geldt           en EMcD  Ek  Ez                                   1
+                                           Eblok
+             •     gebruik van Ek  12 mv 2                                                          1
+             •     gebruik van Ez  mgh                                                              1
+             •     completeren van de berekening                                                     1
+
+             Opmerking
+             Als niet is voldaan aan de eerste deelscore, de laatste deelscore voor
+             completeren ook niet toekennen.
+
+      18     maximumscore 2
+
+
+                 fase                                                  punt in de grafiek
+                 McDougall komt los van de katapult.                              b
+                 McDougall bereikt het hoogste punt.                              d
+                 McDougall opent zijn parachute.                                  e
+
+             indien drie antwoorden juist                                                            2
+             indien twee antwoorden juist                                                            1
+             indien één of geen antwoord juist                                                       0
+
+
+
+
+HA-1023-a-22-1-c                                       15                                   lees verder ►►►
+  Vraag       Antwoord                                                                        Scores
+
+
+      19     maximumscore 4
+             uitkomst: a  (  )32 m s 2 ( 28 ms2  a  46 ms2 )
+
+             voorbeeld van een antwoord:
+
+                  De versnelling kan bepaald worden met behulp van de raaklijn aan de
+                   grafiek, direct na het loskomen van het platform op t = 1,05 s:
+
+
+
+
+                   Hieruit volgt:
+                       v                     70
+                   a               ( )               ()32 ms 2 .
+                       t raaklijn        2,90  0, 70
+
+             •     tekenen van de raaklijn direct na t = 1,05 s / aangeven van een relevant
+                   recht deel van de grafiek                                                     1
+                                    v 
+             •     gebruik van a                                                              1
+                                    t raaklijn
+             •     completeren van de bepaling en significantie                                  1
+
+                  voorbeeld van een antwoord:
+             •     Er werkt (behalve de zwaartekracht ook) luchtweerstand.                       1
+
+
+
+
+HA-1023-a-22-1-c                                          16                            lees verder ►►►
+  Vraag       Antwoord                                                                           Scores
+
+
+      20     maximumscore 5
+             uitkomst: s510  50 m (45 m  s  55 m)
+
+             voorbeeld van een antwoord:
+              De afstand kan bepaald worden door het bepalen van het aantal hokjes
+                tussen de grafiek en de t-as. Hieruit volgt dat de afgelegde afstand
+                tussen 5,0 s en 10 s gelijk is aan 50 m.
+
+                  McDougall viel met constante snelheid van ()8,0 m s1 over een
+                                                                            s 75
+                   afstand van 125  50  75 m. Deze val duurde tresterend        9, 4 s.
+                                                                            v 8, 0
+                   Hieruit volgt voor de grafiek:
+
+
+
+
+             •     inzicht dat de afstand bepaald kan worden uit de oppervlakte tussen de
+                   grafiek en de t-as                                                               1
+             •     completeren van de bepaling van de afstand                                       1
+             •     inzicht dat sresterend  125  s510                                             1
+             •     inzicht dat sresterend  vtresterend met 7, 5 m s 1  v  8, 5 m s 1           1
+             •     completeren van de bepaling van tresterend en consequent intekenen van
+                   een horizontale lijn tot teind  10  tresterend (met een marge van 0,5 s)       1
+
+
+
+
+HA-1023-a-22-1-c                                     17                                    lees verder ►►►
+  Vraag       Antwoord                                                                   Scores
+
+
+      21     maximumscore 3
+
+              fase                               De resulterende kracht is:
+
+              McDougall
+                                   naar boven
+              wordt versneld
+                                     gericht
+              door de katapult.
+              McDougall is op
+                                                                         naar beneden
+              het hoogste
+                                                                            gericht
+              punt.
+              McDougall daalt
+              met constante                             gelijk aan 0 N
+              snelheid.
+              McDougall
+                                   naar boven
+              wordt afgeremd
+                                     gericht
+              door de grond.
+
+             indien vier antwoorden juist                                                   3
+             indien drie antwoorden juist                                                   2
+             indien twee antwoorden juist                                                   1
+             indien één of geen antwoord juist                                              0
+
+
+
+
+HA-1023-a-22-1-c                                   18                              lees verder ►►►
+  Vraag       Antwoord                                                                           Scores
+
+
+      Exploderende draad
+
+      22     maximumscore 4
+             voorbeelden van een antwoord:
+
+             methode 1
+             Voor de oppervlakte van de doorsnede van de draad geldt:
+                        17 109  80
+             Adraad                    3,89 108 m 2 .
+                      R        35
+             Hieruit volgt: Adraad  3,89 10 8  πr 2  rdraad  1,11 10 4 m.
+             De diameter van de draad is 2 1,11 10 4  2, 2 10 4 m. Dit is dikker dan een
+             mensenhaar.
+
+             of
+
+             methode 2
+             Voor de oppervlakte van de doorsnede van de draad geldt:
+                        17 109  80
+             Adraad                      3,89 108 m 2 .
+                       R         35
+             Voor de oppervlakte van de doorsnede van de haar geldt:
+                     60 106
+             rhaar            30 106 m  Ahaar  πrhaar 2  2,8 109 m 2 .
+                         2
+             De draad is dus dikker dan een mensenhaar.
+
+                                   RA
+             •     gebruik van                                                                   1
+                                    
+             •     opzoeken van de soortelijke weerstand van koper                                 1
+             •     gebruik van A  πr 2 en juist gebruik van factor 2                              1
+             •     completeren van de berekening en consequente conclusie                          1
+
+             Opmerkingen
+              In Sciencedata is koper  16,8 109 Ωm.
+                  Het gebruik van de factor 2 mag ook impliciet.
+
+
+
+
+HA-1023-a-22-1-c                                       19                                 lees verder ►►►
+  Vraag       Antwoord                                                                         Scores
+
+
+      23     maximumscore 3
+             uitkomst: U  5, 0 105 V
+
+             voorbeeld van een antwoord:
+                                                     U
+                  Omschrijven van U  IR naar I      en dit invullen in P  UI levert:
+                                                     R
+                       U    U2
+                   P   U     .
+                       R    R
+
+                  Voor deze spanning over de draad geldt:
+                      U2              U2
+                   P      7,1109      U  7,1 109  35  5, 0 105 V.
+                       R              35
+
+             •     gebruik van P = UI en U = IR                                                   1
+             •     completeren van de afleiding                                                   1
+                                   U2
+             •     gebruik van P     en completeren van de berekening                            1
+                                   R
+
+      24     D
+
+      25     maximumscore 4
+             uitkomst: 2 keer
+
+             voorbeeld van een antwoord:
+             De benodigde energie voor de bliksem is gelijk aan
+             Ebliksem  Pt  7,1 109 1, 4 10 5  9,94 10 4 J.
+             Voor het opladen van de accu is Eaccu  9,88 10 3 kWh = 3, 56 10 4 J nodig.
+             Ebliksem 9,94 104
+                                 2,8 . Dus de accu kan 2 keer opgeladen worden.
+              Eaccu    3,56 104
+
+             •     gebruik van E = Pt                                                             1
+             •     omrekenen van (k)Wh naar J of omgekeerd                                        1
+                                                                    Ebliksem
+             •     inzicht dat voor het aantal keer opladen geldt                                 1
+                                                                     Eaccu
+             •     completeren van de berekening                                                  1
+
+             Opmerking
+             Als de uitkomst is gegeven als 2,8 keer of 3 keer opladen, dit goed rekenen.
+
+
+
+
+HA-1023-a-22-1-c                                    20                                   lees verder ►►►
+  Vraag       Antwoord                                                                          Scores
+
+
+      26     maximumscore 2
+             voorbeeld van een antwoord:
+              Toenemen van de temperatuur betekent dat de deeltjes sneller gingen
+                trillen/bewegen.
+              De koperdeeltjes kwamen los uit het rooster. / De koperdeeltjes
+                verloren hun onderlinge vaste positie.
+
+             •     inzicht in de relatie tussen temperatuur en snelheid van de deeltjes           1
+             •     inzicht dat bij deze faseovergang de koperdeeltjes hun vaste plek ten
+                   opzichte van elkaar verliezen                                                  1
+
+      27     maximumscore 2
+             voorbeeld van een antwoord:
+             De druppels leggen een afstand af van s  vt  0, 9 103 1, 0 10 4  0, 09 m.
+             Op de foto is te zien dat het publiek op veel grotere afstand dan 0,09 m van
+             de draad af stond, dus de druppels konden het publiek niet bereiken.
+
+             •     gebruik van s = vt                                                             1
+             •     completeren van de berekening en consequente conclusie                         1
+
+
+
+      5 Aanleveren scores
+
+      Verwerk de scores van de alfabetisch eerste vijf kandidaten per examinator in de
+      applicatie Wolf. Cito gebruikt deze gegevens voor de analyse van de examens.
+      Om de gegevens voor dit doel met Cito uit te wisselen dient u ze uiterlijk op 25 mei te
+      accorderen.
+
+      Ook na 25 mei kunt u nog tot en met 8 juni gegevens voor Cito accorderen. Deze
+      gegevens worden niet meer meegenomen in de hierboven genoemde analyses, maar
+      worden wel meegenomen bij het genereren van de groepsrapportage.
+
+      Na accordering voor Cito kunt u in Wolf de gegevens nog wijzigen om ze vervolgens vrij
+      te geven voor het overleg met de externe corrector. Deze optie is relevant als u Wolf
+      ook gebruikt voor uitwisseling van de gegevens met de externe corrector.
+
+
+
+
+HA-1023-a-22-1-c                                    21                                   lees verder ►►►
+      6 Bronvermeldingen
+
+      Lithografie
+      figuur 1         bron: Shutterstock stockillustratie-id: 142357873, fotograaf DeSerg
+      figuur 2         bron: Shutterstock stockillustratie-id: 429155548, fotograaf luchschenF
+      figuur 3         bron: Shutterstock stockillustratie-id: 727445440, fotograaf MS Mikel
+
+
+      Stunt in Dubai
+      figuur 1         bron: Shutterstock stockillustratie-id:423627184, fotograaf successo images
+      figuur 2 en 3    bron: fotograaf Jimmy Pouchinotti en stuntman Chris Mcdougall
+
+
+      Exploderende draad
+      figuur 1 en 2    bron: Bart van Overbeeke Fotografie
+
+
+
+
+HA-1023-a-22-1-c                                       22                                        lees verdereinde
+                                                                                                              ►►► 
+ aanvulling op het correctievoorschrift                                        2022-1
+
+natuurkunde havo
+
+Centraal examen havo
+
+Tijdvak 1
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor havo,
+
+Bij het centraal examen natuurkunde havo:
+
+
+Op pagina 6, bij vraag 1 moet
+
+uitkomst: v= 4 ⋅10−3 m s −1
+
+vervangen worden door:
+
+uitkomst: v = 4 ⋅10−3 m s −1 (2,5 ⋅10−3 m s −1 ≤ v < 6,5 ⋅10−3 m s −1 )
+
+en
+                     2πr
+•    gebruik van v =                                                            1
+                      T
+•    beredeneerde schatting van de straal van de rol tussen 0,6 en 1,5 cm of
+     de diameter van de rol tussen 1,2 en 3,0 cm                                1
+•    completeren van de schatting                                               1
+
+vervangen worden door:
+                    2πr
+•    gebruik van v =                                                            1
+                     T
+•    beredeneerde schatting van de straal of de diameter van de rol             1
+•    completeren van de schatting                                               1
+
+Ik verzoek u dit bericht door te geven aan de correctoren natuurkunde havo.
+
+
+Namens het College voor Toetsen en Examens,
+
+drs. P.J.J. Hendrikse,
+voorzitter
+
+
+
+
+HA-1023-a-22-1-c-A
+

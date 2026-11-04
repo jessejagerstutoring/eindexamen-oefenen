@@ -1,0 +1,615 @@
+                                                                     Examen HAVO
+
+                                                                           2018
+                                                                                  tijdvak 2
+                                                                           dinsdag 19 juni
+                                                                         13.30 - 16.30 uur
+
+
+                                                                         natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 28 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-18-2-o
+      Magische lamp
+
+            Amy heeft in een techniekmuseum een demonstratie van een magische
+            lamp gezien. Zie figuur 1.
+
+            De demonstratie ging als volgt:
+             Er werd een (brandende) lucifer onder een lampje gehouden. Het
+               lampje ging vervolgens aan.
+             Toen de lucifer werd weggehaald bleef het lampje licht geven.
+             Vervolgens werd er tegen het lampje geblazen. Tijdens het blazen
+               bewoog het lampje opzij en stopte het met licht geven.
+
+            In het doosje onder het lampje zit een klein gat waar het lampje doorheen
+            schijnt.
+            Amy vermoedt dat er in de opening onder het lampje een lichtgevoelige
+            weerstand (LDR) zit. Zie figuur 2.
+
+            figuur 1                                figuur 2
+
+
+
+
+                                                               LDR
+
+
+            Ze wil zelf een magische lamp gaan maken met een LED als lampje en
+            een LDR.
+
+
+
+
+HA-1023-a-18-2-o                           2 / 14                           lees verder ►►►
+             Eerst meet ze de lichtintensiteit (in W m2) op verschillende afstanden van
+             het lampje. Van deze metingen maakt ze het diagram dat is weergegeven
+             in figuur 3.
+
+             figuur 3
+                                5,0
+             lichtintensiteit
+                (W m−2)
+                                4,5
+
+                                4,0
+
+                                3,5
+
+                                3,0
+
+                                2,5
+
+                                2,0
+
+                                1,5
+
+                                1,0
+
+                                0,5
+
+                                 0
+                                      0   1       2     3    4       5   6         7   8       9     10
+                                                                                           afstand (cm)
+
+
+             Vervolgens wil ze het verband onderzoeken tussen de weerstand van de
+             LDR en de lichtintensiteit. Ze heeft een schakeling nodig om de
+             weerstand van de LDR te kunnen bepalen.
+1p       1   Welke van de onderstaande elektrische schakelingen moet Amy daarvoor
+             gebruiken?
+
+              + -                                 + -                        + -                          + -
+
+     A                      V                                        V                        A
+
+
+
+              LDR                                 LDR                        LDR                          LDR
+                                              A         V                    A                            V
+
+
+
+                A                                  B                         C                             D
+
+
+
+
+HA-1023-a-18-2-o                                            3 / 14                                        lees verder ►►►
+            Uit haar meting volgt het diagram dat is weergegeven in figuur 4.
+
+            figuur 4
+                    300
+             RLDR
+              (Ω)
+                    250
+
+                    200
+
+                    150
+
+                    100
+
+                     50
+
+                      0
+                          0   0,5   1,0   1,5   2,0   2,5   3,0   3,5     4,0     4,5   5,0
+                                                                   lichtintensiteit (W m−2)
+
+
+            De figuren 3 en 4 zijn ook weergegeven op de uitwerkbijlage.
+            Amy bouwt zelf een magische lamp met deze LDR en het lampje.
+            Het lampje hangt ze boven de LDR. Er valt alleen licht van het lampje op
+            de LDR. Het lampje brandt normaal, de weerstand van de LDR is dan
+            40 Ω.
+
+2p    2     Bepaal hoe hoog Amy het lampje boven de LDR heeft gehangen.
+
+            Haar schakeling is weergegeven in figuur 5.   figuur 5
+            De spanningsbron geeft een spanning van
+            3,6 V. Het lampje brandt normaal op een
+            spanning van 1,9 V. De LDR gaat kapot als hij
+                                                          +
+            meer dan 200 mW aan warmte produceert.         -
+4p    3     Toon met een berekening aan of de LDR heel
+            blijft als het lampje normaal brandt.
+                                                                                              LDR
+            Voordat het lampje licht gaat geven, moet het eerst ‘aangestoken’
+            worden. Dat doet Amy door een brandende lucifer tussen het lampje en
+            de LDR te houden. Na afloop kan Amy het lampje laten uitgaan door er
+            tegen te blazen.
+4p    4     Leg uit:
+             Waarom het lampje licht gaat geven wanneer de lucifer tussen het
+               lampje en de LDR wordt gehouden.
+             Waarom het lampje licht blijft geven als de lucifer daarna wordt
+               weggehaald.
+             Waarom het lampje vervolgens uitgaat als het opzij wordt geblazen.
+
+
+
+
+HA-1023-a-18-2-o                                      4 / 14                                        lees verder ►►►
+      Heftruck
+
+            Met een heftruck kunnen zware pakketten worden opgetild en vervoerd.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Als een pakket te zwaar is, kantelt de heftruck voorover. Neem      . Z2
+            aan dat het draaipunt D in de voorste as ligt. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+                    Z1           D          Z2
+
+
+
+
+            Het zwaartepunt van de heftruck is aangegeven met Z1 en het
+            zwaartepunt van het pakket met Z2. De massa van de heftruck zonder
+            de lading is 3,4 ton. Figuur 2 staat ook vergroot en op schaal op de
+            uitwerkbijlage.
+
+3p    5     Bepaal met behulp van de figuur op de uitwerkbijlage hoe groot de massa
+            van het pakket maximaal mag zijn voordat de heftruck gaat kantelen.
+
+
+
+
+HA-1023-a-18-2-o                           5 / 14                            lees verder ►►►
+            Een heftruck heeft een lift om pakketten hoog weg te kunnen zetten.
+            In figuur 3 is het pakket door de lift verticaal omhoog getild. In figuur 4 is
+            de lift een beetje schuin gezet.
+
+            figuur 3                                   figuur 4
+                                                                                     Z2
+                                             Z2
+
+
+
+
+                    Z1            D                             Z1            D
+
+
+
+
+            De heftruck staat stil in beide situaties. Het risico voor de heftruck om
+            voorover te kantelen neemt door het schuin zetten van de lift af.
+1p    6     Welke van de volgende stellingen geeft hiervoor de juiste reden?
+            A De arm van de kracht op de lading is kleiner geworden.
+            B De normaalkracht op de voorwielen is groter geworden.
+            C De normaalkracht op het pakket is afgenomen.
+            D De plaats van het zwaartepunt Z 1 van de heftruck is richting het
+               draaipunt verschoven.
+
+            Tijdens het rijden en het remmen mag het pakket niet van de lift
+            afschuiven. Vergelijk de stand van de lift in figuren 3 en 4 met elkaar.
+1p    7     Geef een natuurkundige reden waarom het pakket tijdens het remmen in
+            figuur 3 eerder van de lift schuift dan in figuur 4.
+
+            De lift wordt omhoog getrokken door figuur 5
+            2 kettingen. Zie figuur 5. Een ketting
+            is gemaakt van schakels. Iedere
+            schakel bestaat uit 2 staalplaatjes.
+            De treksterkte van een ketting is
+            gelijk aan de totale treksterkte van
+            die staalplaatjes in een schakel. Op
+            de uitwerkbijlage staan op ware
+            grootte een vooraanzicht en
+            zijaanzicht van de 2 kettingen. Met een lijn is aangegeven waar de
+            schakels breken bij te zware belasting. Op de uitwerkbijlage staat ook het
+            spanning-rekdiagram van de gebruikte staalsoort.
+5p    8     Bepaal de maximale (span)kracht die de kettingen samen kunnen
+            uitoefenen zonder blijvend te vervormen.
+
+
+
+
+HA-1023-a-18-2-o                              6 / 14                              lees verder ►►►
+            De heftruck wordt gebruikt om identieke pakketten te stapelen in een
+            magazijn.
+            De lift tilt ieder pakket in (gemiddeld) 7,0 s recht omhoog met een snelheid
+            van 0,44 m s1. Eén pakket heeft een massa van 2,0·103 kg.
+            Het elektrische vermogen van de lift is 11 kW.
+
+3p    9     Bereken het rendement van de lift.
+
+            De lift is aangesloten op een accu waarop staat: 48 V; 400 Ah. Deze
+            400 Ah betekent: de accu kan 400 uur lang een stroom leveren van 1 A,
+            200 uur lang 2 A, enzovoort.
+3p    10    Bereken hoe lang de lift kan werken als begonnen wordt met een volle
+            accu.
+
+            Heftrucks worden ook gebruikt om via een helling vrachtwagens te laden.
+            Zie figuur 6.
+
+            figuur 6
+
+
+
+
+            De zwaartekracht op de heftruck met lading is 5,3·104 N. De hoek van de
+            helling met de (horizontale) grond is 11°. De heftruck rijdt met een
+            constante snelheid tegen de helling omhoog.
+2p    11    Bereken de grootte van de kracht die de motor dan minimaal moet
+            leveren.
+
+
+
+
+HA-1023-a-18-2-o                            7 / 14                             lees verder ►►►
+      Rosetta
+
+            In 1969 is de komeet Churyumov-Gerasimenko ontdekt.
+            Deze komeet beweegt in een ellipsvormige baan om de zon. In figuur 1
+            staat een bovenaanzicht van de baan. Deze figuur staat vergroot op de
+            uitwerkbijlage.
+
+            figuur 1
+
+
+                                              komeet
+
+
+
+
+                       zon
+
+
+
+
+            De pijl geeft de bewegingsrichting van de komeet om de zon aan. De zon
+            oefent een gravitatiekracht uit op de komeet.
+4p    12    Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage de gravitatiekracht op de
+               komeet als een pijl met een lengte van 5 cm in de juiste richting.
+             Ontbind deze kracht in een component langs de baan en een
+               component loodrecht op de baan.
+             Leg uit of de grootte van de snelheid van de komeet op dit punt in de
+               baan verandert.
+
+            Wetenschappers hebben een eerste schatting kunnen maken van de
+            massa en de dichtheid van de komeet:
+             De massa ligt tussen 0,9·1013 kg en 1,1·1013 kg;
+                                               −3            3
+             De dichtheid ligt tussen 500 kg m en 550 kg m .
+
+            Zij willen berekenen wat de grootste waarde is die het volume van de
+            komeet zou kunnen hebben.
+1p    13    Welke waarden moeten zij dan in hun berekening gebruiken?
+            A De grootste massa en de grootste dichtheid.
+            B De grootste massa en de kleinste dichtheid.
+            C De kleinste massa en de grootste dichtheid.
+            D De kleinste massa en de kleinste dichtheid.
+
+
+
+
+HA-1023-a-18-2-o                           8 / 14                          lees verder ►►►
+            Om Churyumov-Gerasimenko van dichtbij te kunnen onderzoeken is de
+            ruimtesonde Rosetta gelanceerd. Na een reis van 10 jaar en 6,5 miljard
+            kilometer is Rosetta aangekomen bij de komeet.
+3p    14    Bereken de gemiddelde snelheid in km s1 van Rosetta tijdens de reis.
+
+            Rosetta draait in een cirkelvormige baan rondom de komeet. De baan
+            heeft een straal van 20·103 m.
+            De komeet heeft een massa van M = 1,0·1013 kg.
+4p    15    Bereken de baansnelheid van Rosetta.
+
+            Rosetta doet vanuit haar baan metingen aan de komeet. Zo is de
+            temperatuur van de komeet bepaald met behulp van de straling die door
+            de komeet wordt uitgezonden. De straling die de komeet het meest
+            uitzendt heeft een golflengte van 1,6 · 105 m.
+3p    16    Bereken de temperatuur van de komeet in °C.
+
+            Vanuit Rosetta is de          figuur 2
+            komeetlander Philae naar
+            de komeet afgedaald. Zie
+            figuur 2. De landing op de
+            komeet is anders verlopen
+            dan van tevoren was
+            bedacht. Philae zou na de
+            landing verankerd worden
+            aan het oppervlak van de
+            komeet. Dat is echter niet
+            gebeurd, zodat Philae
+            weer omhoog is gestuiterd ESA-C. Carreau/ATG medialab
+            na de landing. Zie figuur 3. De snelheid vlak voor de landing is 1,1 m s1.
+            Vlak na het opstuiten is de snelheid 0,38 m s1.
+
+3p    17    Bereken hoeveel procent van de kinetische     figuur 3
+            energie van Philae na de landing nog over is.
+
+            De ontsnappingssnelheid is de snelheid die
+            minimaal nodig is om te ontsnappen van een
+            hemellichaam en er niet meer op terug te
+            vallen. Hiervoor geldt:
+
+                        2GM
+                   v
+                         R
+
+            Hierin is G is de gravitatieconstante.
+            Voor de komeet geldt:
+             R = 2,9 km;
+             M = 1,0·1013 kg.
+                                                             ESA-C. Carreau/ATG medialab
+3p    18    Toon aan of Philae weer terug is gevallen
+            naar de komeet.
+
+
+HA-1023-a-18-2-o                             9 / 14                            lees verder ►►►
+      Renium-188
+
+            Renium-188-HEDP is een vorm van bestraling die gebruikt wordt om
+            bottumoren te behandelen. Atomen van het radioactieve renium-188
+            (Re-188) worden daarvoor gekoppeld aan atomen van een stof die door
+            botten wordt opgenomen. Hiermee kan men specifieke tumoren in botten
+            bestralen.
+
+            Re-188 ontstaat door het verval van wolfraam-188 (W-188). In een
+            laboratorium wordt eerst van het stabiele W-186 het isotoop W-188
+            gemaakt.
+
+1p    19    Hoe verschillen de atomen W-186 en W-188 van elkaar?
+            A  Een atoom W-188 heeft alleen twee elektronen meer dan een atoom
+               W-186.
+            B Een atoom W-188 heeft alleen twee neutronen meer dan een atoom
+               W-186.
+            C Een atoom W-188 heeft alleen twee protonen meer dan een atoom
+               W-186.
+            D Een atoom W-188 heeft twee protonen en twee elektronen meer dan
+               een atoom W-186.
+
+            Een laborant heeft een bepaalde hoeveelheid W-188 aangemaakt op
+            t = 0 s. In figuur 1 staat de grafiek van het verdere verloop van het aantal
+            kernen W-188 als functie van de tijd.
+
+            figuur 1
+                   500
+               N
+            (.1015)
+                   400
+
+                   300
+
+                   200
+
+                   100
+
+                    0
+                         0   20   40   60   80   100   120   140   160   180       200
+                                                                               t (dag)
+
+
+            Figuur 1 staat ook op de uitwerkbijlage.
+3p    20    Bepaal de activiteit van het wolfraam op t = 0 s. Geef daarbij in de figuur
+            op de uitwerkbijlage aan hoe je aan je antwoord komt.
+
+
+
+
+HA-1023-a-18-2-o                                 10 / 14                                 lees verder ►►►
+            Re-188 is een β- en γ-straler. In figuur 2 staat een tabel met een aantal
+            eigenschappen van Re-188.
+
+            figuur 2
+              Eigenschap                  Re-188
+              Uitgezonden straling         en 
+              Energie van de -fotonen    0,155 MeV
+              Energie van de -deeltjes   2,12 MeV
+              Halveringstijd              17 uur
+
+3p    21    Geef de vergelijking van de vervalreactie van Re-188 waarbij ook een
+            γ-foton wordt uitgezonden.
+
+3p    22    Welke soort straling levert de grootste bijdrage aan de behandeling van
+            de bottumor? Geef twee argumenten waarom de bijdrage van die soort
+            straling het grootst is.
+
+            In het ziekenhuis kan de arts een hoeveelheid van het gevormde renium
+            uit de generator halen voor de behandeling van een patiënt. Bij deze
+            patiënt wordt een hoeveelheid renium-188 toegediend met een activiteit
+            van 120 MBq. Omdat renium vervalt en ook wordt uitgescheiden via de
+            urine, is de totale stralingsbelasting door de β-straling voor het lichaam
+            niet zo hoog, namelijk 0,070 mGy per toegediende MBq.
+3p    23    Bereken de equivalente dosis die de patiënt als gevolg van de β-straling
+            zal ontvangen.
+
+
+
+
+HA-1023-a-18-2-o                            11 / 14                            lees verder ►►►
+      Elektrolarynx
+
+            De menselijke stem produceert geluid door het in trilling brengen van de
+            stembanden achter in de keel. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Deze trilling ontstaat als er lucht langs de stembanden geperst wordt. De
+            stembanden zijn dan te beschouwen als snaren die trillen.
+
+            Op de uitwerkbijlage staat een reeks foto’s die gemaakt zijn tijdens het
+            trillen van de stembanden van een man. De stembanden van deze man
+            zijn 22 mm lang. In deze opgave wordt aangenomen dat dit gelijk is aan
+            de golflengte.
+
+3p    24    Bepaal met behulp van de foto’s de golfsnelheid in de stembanden.
+
+            Roken kan ervoor zorgen dat de stembanden opzwellen door een
+            ophoping van vocht. Hierdoor neemt de massa van de stembanden toe.
+            De stembanden kunnen beschouwd worden als een massa-veersysteem
+            met een constante veerconstante.
+2p    25    Leg met behulp van de formule voor een massa-veersysteem uit of roken
+            zorgt voor een toename of afname van de frequentie van het stemgeluid.
+
+            Het (u,t)-diagram in figuur 2 is van een vrouw die een toon zingt. De toon
+            is een combinatie van een grondtoon met boventonen.
+
+            figuur 2
+            u
+
+
+
+
+                                                                                          t
+
+
+HA-1023-a-18-2-o                           12 / 14                            lees verder ►►►
+            Van het (u,t)-diagram is een zogenaamde frequentiekarakteristiek
+            gemaakt. Zie figuur 3.
+
+            figuur 3
+                              2e boventoon
+            geluids-
+             sterkte
+
+
+
+
+                                             5e boventoon
+
+
+
+
+                                                            8e boventoon
+
+
+
+
+                       0      500              1000         1500            2000
+                                                                           f (Hz)
+
+            Op de horizontale as van dit diagram is de frequentie uitgezet. Op de
+            verticale as staat een maat voor geluidssterkte.
+            In de karakteristiek zijn pieken te zien. Dit zijn boventonen van de
+            stembanden en deze boventonen bepalen de klank van het stemgeluid.
+            De pieken in de karakteristiek horen bij de 2e, 5e en 8e boventoon.
+
+            Voor de grondtoon en boventonen geldt:
+
+                   n
+                     c
+                   f
+
+            Hierin is:
+             n de toon; n = 1 is de grondtoon, n = 2 de eerste boventoon, etc.;
+             f de frequentie in Hz;
+             c een constante.
+
+3p    26    Bepaal met behulp van deze formule en de grafiek in figuur 3 de
+            grondtoon van de stembanden van de vrouw.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1023-a-18-2-o                                13 / 14                             lees verder ►►►
+            Soms is het noodzakelijk om          figuur 4
+            de stembanden te verwijderen. Ter
+            vervanging van de stembanden kan
+            een elektrolarynx worden gebruikt.
+            Dit is een apparaatje dat tegen de
+            keel wordt gedrukt. Het produceert
+            trillingen en geeft deze via de huid
+                                                       spieren
+            en de spieren door aan de mond.
+            Zie figuur 4. De frequentie van deze          huid
+            trillingen blijft gelijk tijdens de
+            voortplanting door de huid en de     elektrolarynx
+            spieren. De voortplantingssnelheid
+            in de huid is 1,73·103 m s1.
+3p    27    Geef in de tabel op de
+            uitwerkbijlage aan hoe de
+            grootheden veranderen bij de
+            overgang van huid naar spieren.
+
+            Het geluid van een elektrolarynx klinkt niet altijd zo natuurlijk als het
+            geluid van stembanden.
+            In figuur 5 staan de frequentiekarakteristieken van de natuurlijke stem van
+            een persoon en van dezelfde persoon die een elektrolarynx gebruikt.
+
+            figuur 5
+                                       2e boventoon
+                                                      5e boventoon
+            geluids-
+             sterkte
+
+
+
+
+                                                                             elektrolarynx
+                                                                             natuurlijke stem
+
+
+
+                       0              500               1000              1500
+                                                                      f (Hz)
+
+
+2p    28    Omcirkel in de zinnen op de uitwerkbijlage telkens het juiste alternatief.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a-18-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

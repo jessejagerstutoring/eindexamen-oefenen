@@ -1,0 +1,568 @@
+                                                                  Examen HAVO
+
+                                                                        2026
+                                                                               tijdvak 2
+                                                                        dinsdag 16 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 32 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-26-2-o
+      Smart StitchTM
+
+            Veel kleding wordt niet duurzaam ontworpen en eindigt na gebruik op
+            vuilstortplaatsen of in verbrandingsovens. Doordat bijvoorbeeld ritsen en
+            knopen zijn vastgenaaid, kan de kleding moeilijk gerecycled worden. Het
+            Belgische bedrijf Resortecs heeft hier iets op bedacht: smeltbaar garen
+            om de verschillende onderdelen mee vast te naaien (Smart Stitch™). De
+            kleding kan worden gerecycled in een speciale oven, waarin het Smart
+            Stitch™-garen smelt. Daarna valt de kleding zonder schade in losse
+            onderdelen uit elkaar. In een experiment met spijkerbroeken kon 70% van
+            de teruggewonnen spijkerstof worden gebruikt voor nieuwe
+            kledingstukken.
+
+2p    1     Voer de volgende opdrachten uit:
+             Geef een argument waarom gebruik van kleding met Smart Stitch™-
+               garen aansluit bij het cradle-to-cradle-principe.
+             Geef een argument waarom gebruik van kleding met Smart Stitch™-
+               garen niet aansluit bij het cradle-to-cradle-principe.
+
+            Resortecs maakt verschillende soorten Smart Stitch™-garen. Een
+            bepaalde soort Smart Stitch™-garen wordt gemaakt van polypropeen
+            (C3H6)n. Polypropeen is het additiepolymeer van propeen (figuur 1).
+
+            figuur 1
+
+
+
+2p    2     Geef de structuurformule van een fragment uit het midden van een
+            molecuul polypropeen. Dit fragment moet bestaan uit drie eenheden
+            propeen.
+
+            Het gebruikte polypropeen wordt gemaakt van fossiele brandstoffen. Aan
+            het eind van de levensduur wordt de kleding met het Smart Stitch™-garen
+            verbrand. Om de totale CO2-uitstoot door het gebruik van dit type Smart
+            Stitch™-garen te bepalen, is een levenscyclus-analyse uitgevoerd. Hierbij
+            worden alle processen meegenomen: productie, transport,
+            afvalverwerking en verbranding.
+            De totale CO2-uitstoot bleek 3,88 kg per kilogram garen te zijn. Een groot
+            deel van deze uitstoot was afkomstig van verbranding van het garen.
+
+5p    3     Bereken hoeveel procent van deze 3,88 kg CO 2-uitstoot werd veroorzaakt
+            door verbranding van 1,0 kg Smart Stitch™-garen.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+            Gebruik de volgende aannames:
+             Dit type Smart Stitch™-garen bestaat volledig uit polypropeen.
+             Bij de verbranding van een mol repeterende eenheden polypropeen
+               ontstaat 3 mol CO2.
+
+
+
+
+HA-1028-a-26-2-o                            2 / 16                           lees verder ►►►
+            Een ander soort Smart Stitch™-garen is een polyamide. Een van de
+            grondstoffen voor dit polyamide is ricinus-olie, die wordt gewonnen uit de
+            zaden van de ricinusplant. Uit de analyse blijkt dat het garen op basis van
+            dit polyamide gedurende de hele levenscyclus minder bijdraagt aan het
+            versterkt broeikaseffect dan het garen op basis van polypropeen.
+
+1p    4     Geef een argument waarom het garen op basis van dit polyamide
+            gedurende de hele levenscyclus minder bijdraagt aan het versterkt
+            broeikaseffect dan het garen op basis van polypropeen.
+
+            De algemene structuurformule van het gebruikte polyamide is
+            weergegeven in figuur 2.
+
+            figuur 2
+
+
+
+
+            Voor het recyclen in een oven is het belangrijk dat het Smart Stitch™-
+            garen de juiste smelttemperatuur heeft. De smelttemperatuur wordt
+            bepaald door de mate van binding tussen de ketens onderling. Zie
+            figuur 3.
+
+            figuur 3
+
+
+
+
+HA-1028-a-26-2-o                            3 / 16                            lees verder ►►►
+            Bij polyamides wordt deze aantrekking tussen ketens mede bepaald door
+            waterstofbruggen tussen C=O-groepen en NH-groepen. De
+            smelttemperatuur van polyamides blijkt afhankelijk te zijn van het aantal
+            CH2-groepen (n) per repeterende eenheid. Hoe groter dit aantal
+            CH2-groepen, hoe lager de smelttemperatuur.
+
+2p    5     Leg uit op microniveau dat een groter aantal CH2-groepen per
+            repeterende eenheid leidt tot een lagere smelttemperatuur van het
+            polyamide.
+             Gebruik gegevens uit figuren 2 en 3.
+             Ga ervan uit dat polyamides met een verschillend aantal CH2-groepen
+               per repeterende eenheid wel dezelfde gemiddelde ketenlengte
+               hebben.
+
+            In figuur 4 is het verband weergegeven tussen de smelttemperatuur van
+            de polyamides en het aantal CH2-groepen per repeterende eenheid in de
+            polyamides.
+
+            figuur 4
+
+
+
+
+            Het polyamide dat voor Smart Stitch™-garen wordt gebruikt, heeft een
+            smelttemperatuur van 195 °C.
+
+3p    6     Teken de structuurformule van het monomeer van dit polyamide. Gebruik
+            gegevens uit figuur 2 en 4.
+
+
+
+
+HA-1028-a-26-2-o                            4 / 16                           lees verder ►►►
+      Slimme kattenbakkorrels
+
+            Een kattenbak wordt gevuld met korrels van een stof die kattenurine kan
+            adsorberen, zoals silicagel. Silicagel bestaat uit een driedimensionaal
+            netwerk van voornamelijk silicium- en zuurstofatomen. Op de
+            uitwerkbijlage is een deel van een korrel silicagel vereenvoudigd
+            weergegeven.
+
+            Kattenurine bevat ammoniak. Deze stof heeft een onaangename geur.
+            Silicagel bindt ammoniak, waardoor de ammoniakgeur wordt verminderd.
+
+3p    7     Teken op de uitwerkbijlage twee moleculen ammoniak die elk met een
+            waterstofbrug zijn gebonden aan het oppervlak van silicagel.
+             Geef de moleculen ammoniak met structuurformules weer.
+             Geef de waterstofbruggen weer met een stippellijntje: •••.
+
+            Je kunt de gezondheid van je kat in de gaten houden door analyse van
+            zijn urine. Er zijn kattenbakkorrels op de markt waarin indicatoren zijn
+            verwerkt. Je kunt deze korrels mengen met de normale kattenbakkorrels.
+            De verkleuring van deze indicatorkorrels geeft dan aan of je met je kat
+            naar de dierenarts moet. Een van de indicatoren die gebruikt zou kunnen
+            worden, is de zuur-base-indicator broomthymolblauw (tabel 1).
+
+            tabel 1
+
+                              pH         kleur
+            zuur               < 6,0     geel
+            omslagtraject     6,0-7,6    groen
+            basisch           > 7,6      blauw
+
+            Urine van gezonde katten heeft een pH tussen 6,3 en 6,6. Een afwijkende
+            pH is een indicatie voor een nier- of blaasontsteking.
+
+2p    8     Bereken de minimale [H+] in mol L–1 in urine van gezonde katten.
+
+            Eslem gebruikt broomthymolblauw om de urine van haar kat te
+            controleren. De korrels kleuren groen.
+
+2p    9     Leg uit of de groene kleur in dit geval voldoende informatie geeft om vast
+            te stellen of de pH van de urine afwijkend is.
+
+
+
+
+HA-1028-a-26-2-o                            5 / 16                            lees verder ►►►
+            Er zijn kattenbakkorrels op de markt die glucose in de urine van katten
+            kunnen aantonen. Glucose in urine is een aanwijzing voor suikerziekte.
+            Deze kattenbakkorrels bevatten een mengsel van kaliumjodide, zetmeel
+            en twee enzymen. Aanwezige glucose kan enzymatisch worden omgezet
+            tot gluconolacton volgens reactie 1.
+
+
+
+
+            Reactie 1 is een redoxreactie. De halfreactie waarbij glucose wordt
+            omgezet, is onvolledig weergegeven op de uitwerkbijlage.
+
+2p    10    Maak de halfreactie op de uitwerkbijlage compleet met elektronen en
+            coëfficiënten.
+
+            Vervolgens katalyseert een ander enzym reactie 2 tussen het ontstane
+            H2O2 en jodide-ionen:
+
+            H2O2 + 2 I–  2 OH– + I2                                   (reactie 2)
+
+            Het jood (I2) dat in reactie 2 ontstaat, geeft een kleur aan het zetmeel dat
+            in de korrels zit. Hoe meer jood is ontstaan, hoe donkerder de kleur.
+            De kleur varieert van lichtgroen bij een kleine hoeveelheid jood tot zwart
+            bij een grote hoeveelheid jood.
+
+2p    11    Leg uit dat een donkere kleur van de korrels duidt op een grote
+            hoeveelheid glucose in de urine. Gebruik reacties 1 en 2.
+
+
+
+
+HA-1028-a-26-2-o                             6 / 16                            lees verder ►►►
+            Bij katten met suikerziekte moet de urine regelmatig worden
+            gecontroleerd. Dit gebeurt niet alleen met korrels, maar ook met teststrips
+            die de concentratie glucose in urine meten. Door urine op te vangen en de
+            teststrip erin te dopen, kan de katteneigenaar de concentratie glucose
+            bepalen. In tabel 2 is de schaalverdeling van twee merken teststrips
+            weergegeven, met de bijbehorende glucose-concentraties.
+            Merk A drukt de glucose-concentratie uit in mmol L–1 en merk B drukt de
+            glucose-concentratie uit in mg dL–1.
+
+            tabel 2
+
+            schaalverdeling       +          ++        +++       ++++
+            merk
+            A (mmol L–1)          15         30         60        110
+            B (mg dL–1)          250        500       1000       >2000
+
+            Roelof heeft een kat met suikerziekte. De dierenarts heeft niet gezegd
+            welk merk teststrips hij voor de urinetests moet gebruiken. Roelof kan na
+            een berekening gelukkig concluderen dat de waarde +++ op beide
+            schaalverdelingen behoorlijk overeenkomt.
+
+2p    12    Laat met een berekening zien dat de concentraties die bij merk A en B
+            aangegeven worden met de waarde +++ redelijk overeenkomen.
+
+
+
+
+HA-1028-a-26-2-o                            7 / 16                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-26-2-o                        8 / 16   lees verder ►►►
+      Terugwinning van lithium
+
+            Door de toename van het aantal elektrische auto’s zijn er steeds meer
+            lithium-ion-accu’s (LIA’s) nodig. Het metaal lithium is echter vrij schaars.
+            Daarom wordt veel onderzoek gedaan naar methodes voor het
+            terugwinnen van lithium en andere metalen uit oude LIA’s. Veel van deze
+            methodes gebruiken sterke zuren, zoals zoutzuur. Bij de methodes met
+            zoutzuur ontstaat het gevaarlijke gas chloor (Cl2). Voor chloor gelden
+            onder andere de gevarenaanduidingen H318 en H319.
+            Op basis van deze aanduidingen kunnen werknemers van
+            recyclebedrijven specifieke voorzorgsmaatregelen nemen.
+
+2p    13    Geef de nummers van twee P-zinnen die twee verschillende van deze
+            voorzorgsmaatregelen beschrijven. Gebruik Binas-tabel 96E of
+            ScienceData-tabel 38.3.
+
+            Zweedse onderzoekers hebben een methode op basis van oxaalzuur
+            (H2C2O4) bedacht om lithium en andere metalen uit LIA’s terug te winnen.
+            Hierbij ontstaan geen schadelijke gassen. Oxaalzuur is een triviale naam.
+
+2p    14    Geef de structuurformule van oxaalzuur.
+
+            De Zweedse onderzoekers gebruiken elektrodemateriaal van een bepaald
+            soort LIA. Hierin zijn grafiet, koper, aluminium en het zout NMC111
+            aanwezig. NMC111 is een oxide van de metalen lithium, nikkel, mangaan
+            en kobalt, met de verhoudingsformule Li3NiMnCoO6.
+            Het Co-ion in NMC111 heeft de lading 3+.
+
+2p    15    Leid de lading af van het mangaan-ion in NMC111.
+            Gebruik Binas-tabel 40A of ScienceData-tabel 8.1.
+
+
+
+
+HA-1028-a-26-2-o                             9 / 16                            lees verder ►►►
+            De methode die de Zweedse onderzoekers bedachten, is op de
+            uitwerkbijlage bij vraag 21 met een onvolledig blokschema weergegeven.
+            Als eerste wordt het elektrodemateriaal fijngemalen en gezeefd. Het
+            verkregen mengsel wordt ‘zwarte massa’ genoemd.
+            De zwarte massa wordt in reactor 1 (R1) met oxaalzuur-oplossing
+            gemengd. Het mengsel in R1 wordt intensief geroerd, zie figuur 1.
+            NMC111 uit de zwarte massa reageert met oxaalzuur.
+
+            figuur 1
+
+
+
+
+            Als het elektrodemateriaal is fijngemalen, hoeft het minder lang in de
+            reactor te verblijven voor volledige omzetting dan wanneer het niet
+            fijngemalen zou zijn. Dit kan met het botsende-deeltjesmodel worden
+            verklaard.
+
+2p    16    Geef deze verklaring.
+
+            De vergelijking van de reactie van NMC111 met oxaalzuur is als volgt:
+
+            reactie 1
+
+
+
+
+            Lithium-ionen blijven in oplossing. De andere metaal-ionen vormen met
+            oxalaat-ionen vaste stoffen. De gevormde zouten van positief geladen
+            metaalionen en C2O42–-ionen worden oxalaten genoemd. Reactie 1 is
+            zowel een zuur-basereactie als een redoxreactie.
+
+1p    17    Geef de formule van het deeltje in NMC111 dat als base optreedt in de
+            zuur-basereactie.
+
+            De lading van het kobalt-ion in NMC111 is 3+.
+
+2p    18    Leg uit, aan de hand van de ladingsverandering van de kobaltdeeltjes, of
+            de kobalt-ionen in NMC111 in reactie 1 als oxidator of als reductor
+            reageren. Noteer je antwoord als volgt:
+             lading van het kobalt-ion in CoC2O4: ...
+             uitleg en conclusie: …
+
+
+
+HA-1028-a-26-2-o                            10 / 16                           lees verder ►►►
+            In R1 reageert oxaalzuur ook met aluminium uit het elektrodemateriaal.
+            Hierbij ontstaat opgelost aluminiumoxalaat (reactie 2). Reactie 1 en 2
+            vinden tegelijk plaats. Het gevormde CO2 verlaat de reactor.
+            Het gevormde reactiemengsel wordt in scheidingsruimte 1 (S1)
+            gefiltreerd. In het filtraat zijn vooral opgeloste lithium-, aluminium- en
+            oxalaat-ionen aanwezig. Het residu bevat vooral de andere
+            metaaloxalaten.
+            In een experiment met 1,25 gram zwarte massa was de verblijftijd in R1
+            60 minuten. Het massapercentage lithium in de zwarte massa was 3,4%.
+            Het rendement waarmee lithium-ionen in het filtraat terechtkwamen was
+            98,8%.
+
+4p    19    Bereken de gemiddelde snelheid in mol s–1 waarmee lithium-ionen in het
+            filtraat terechtkwamen vanuit de zwarte massa.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+            In reactor 2 (R2) wordt een overmaat natronloog toegevoegd aan het
+            filtraat afkomstig uit S1. De hydroxide-ionen uit natronloog reageren met
+            de aluminium-ionen tot een vast zout dat bestaat uit aluminium-ionen en
+            hydroxide-ionen. De lithium-ionen en oxalaat-ionen blijven opgelost. Door
+            filtratie in scheidingsruimte 2 (S2) kan aluminiumhydroxide als residu
+            worden verkregen.
+
+3p    20    Geef de vergelijking van de reactie voor de vorming van vast
+            aluminiumhydroxide. Gebruik toestandsaanduidingen.
+
+            Ten slotte wordt in reactor 3 (R3) een overmaat van een
+            natriumcarbonaat-oplossing toegevoegd. Zo ontstaat het slecht oplosbare
+            lithiumcarbonaat. Na filtratie in scheidingsruimte (S3) wordt
+            lithiumcarbonaat als residu verkregen. Lithiumcarbonaat kan dienen als
+            grondstof voor het maken van nieuwe accu’s.
+            Op de uitwerkbijlage ontbreken stofstromen en bijschriften bij de
+            stofstromen.
+
+3p    21    Maak het blokschema op de uitwerkbijlage compleet.
+             Teken de pijlen van de ontbrekende stofstromen.
+             Noteer op de stippellijntjes en bij de zelf getekende pijlen de juiste
+              nummers van de onderstaande stoffen.
+              1 natronloog
+              2 oplossing van lithium-ionen
+              3 oplossing van natriumcarbonaat
+              4 oplossing van oxalaat-ionen
+              5 vast aluminiumhydroxide
+              6 vast lithiumcarbonaat
+             Sommige nummers moeten meerdere keren worden gebruikt.
+             Bij de pijl met een * hoeft geen nummer te worden genoteerd.
+
+
+
+
+HA-1028-a-26-2-o                            11 / 16                            lees verder ►►►
+      Gemodificeerd zetmeel
+
+            Zetmeel wordt vaak gebruikt als waterbindend middel in
+            voedingsmiddelen, zoals sauzen. De sauzen worden daardoor dikker. Om
+            de waterbindende eigenschappen te verbeteren, wordt zetmeel chemisch
+            veranderd, oftewel gemodificeerd. Een veelgebruikte methode is de
+            reactie van zetmeel met een oplossing van natriumhypochloriet (NaClO).
+            Het hypochloriet-ion (ClO–) zet daarbij een deel van de hydroxylgroepen
+            in zetmeel om tot onder andere carboxylgroepen. In figuur 1 zijn
+            structuurformules van zetmeel en gemodificeerd zetmeel weergegeven.
+
+            figuur 1
+
+
+
+
+            De omzetting vindt plaats in basisch milieu. In basisch milieu zal een
+            aantal van de ontstane carboxylgroepen van gemodificeerd zetmeel als
+            zuur reageren. Op de uitwerkbijlage is de structuurformule van een deel
+            van een keten van gemodificeerd zetmeel onvolledig weergegeven.
+
+2p    22    Maak in het omkaderde deel op de uitwerkbijlage de structuurformule
+            compleet. Uit de structuurformule moet blijken dat de carboxylgroep in
+            gemodificeerd zetmeel als zuur heeft gereageerd.
+
+
+
+
+HA-1028-a-26-2-o                           12 / 16                           lees verder ►►►
+            De omzetting van hydroxylgroepen tot carboxylgroepen is een
+            redoxreactie. De halfreacties die hierbij verlopen, zijn in figuur 2
+            weergegeven.
+
+            figuur 2
+
+
+
+
+            Halfreactie 1 is onvolledig weergegeven: er ontbreken coëfficiënten.
+
+3p    23    Voer op de uitwerkbijlage de volgende opdrachten uit:
+             Maak halfreactie 1 kloppend.
+             Leid met behulp van deze halfreactie en halfreactie 2 de vergelijking af
+               van de totale reactie.
+
+            Voor de productie van gemodificeerd zetmeel wordt een suspensie van
+            zetmeel gebruikt. Bij de omzettingen (figuur 2) komt een oplossing van
+            natriumchloride vrij. Deze oplossing moet worden weggespoeld voordat
+            het omgezette zetmeel kan worden gebruikt in voedingsmiddelen.
+
+3p    24    Bereken hoeveel gram natriumchloride er per kilogram suspensie van
+            zetmeel ontstaat. Ga uit van de volgende gegevens:
+             De suspensie bevat 39 massaprocent zetmeel.
+             Per gram zetmeel wordt 0,20 g NaClO verbruikt.
+             De molaire massa van NaClO is 74,5 g mol–1 en die van NaCl
+               is 58,5 g mol–1.
+             De molverhouding tussen NaClO en NaCl is 1 : 1.
+
+            Er zijn ook andere manieren om gemodificeerd zetmeel te produceren,
+            zoals door de reactie van zetmeel met waterstofperoxide. De totale
+            reactievergelijking kan worden weergegeven met reactie 1.
+             ~C6H10O5~ + 2 H2O2  ~C6H8O6~ + 3 H2O                      (reactie 1)
+            Deze reactie heeft een hogere atoomeconomie.
+
+2p    25    Bereken de atoomeconomie van reactie 1. Gebruik Binas-tabel 37H of
+            ScienceData-tabel 1.7.
+
+
+
+HA-1028-a-26-2-o                             13 / 16                               lees verder ►►►
+      Yoghurt
+
+            Yoghurt is een product dat wordt gemaakt van melk. De industriële
+            productie van yoghurt verloopt in een aantal stappen. Bij de eerste stap
+            wordt verse melk door centrifugeren gescheiden in drie stofstromen: vaste
+            deeltjes, room en magere melk. Magere melk bevat voornamelijk suikers,
+            eiwitten en water. De room bestaat voor een groot deel uit vet en blijft
+            daarom drijven op de magere melk. Een doorsnede van de centrifuge is in
+            figuur 1 weergegeven.
+
+            figuur 1
+
+
+
+
+            De centrifuge bevat een stapel schijven met gaten die zeer snel
+            ronddraaien en zo melk scheiden in vaste deeltjes, room en magere melk.
+            Deze drie stofstromen worden afzonderlijk afgetapt op de plekken die in
+            figuur 1 zijn aangeduid met 1, 2 of 3.
+
+3p    26    Voer de volgende opdrachten uit:
+             Geef het verschil in stofeigenschap waarop de scheiding door
+               centrifugeren berust.
+             Leg uit aan de hand van dit verschil in stofeigenschap op welke plek
+               (1, 2 of 3) de room wordt afgetapt.
+
+
+
+
+HA-1028-a-26-2-o                           14 / 16                          lees verder ►►►
+            Yoghurt wordt gemaakt met een mengsel van magere melk en room.
+            Op een zeker moment worden hieraan twee bacteriesoorten toegevoegd.
+            Uit onderzoek blijkt dat deze twee bacteriesoorten elkaar stimuleren,
+            waardoor het melkmengsel wordt omgezet tot yoghurt. Tijdens dit proces
+            zetten de bacteriën lactose ( C12H22O11) met water om tot melkzuur
+            (C3H6O3). Zie reactie 1. De bacteriën gebruiken de energie die bij deze
+            omzetting vrijkomt.
+
+            C12H22O11 (aq) + H2O (l)  4 C3H6O3 (aq)                 (reactie 1)
+
+            De vormingswarmte van C12H22O11 bedraagt –22,26·105 J mol–1 en die
+            van C3H6O3 bedraagt −7,00·105 J mol–1.
+
+3p    27    Bereken de reactiewarmte van reactie 1 in joule per mol melkzuur.
+            Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.
+
+            Melk bevat een stof met de formule CH4N2O. De bacteriën bevatten een
+            enzym dat CH4N2O met water omzet tot ammoniak en koolstofdioxide, zie
+            reactie 2.
+
+
+            CH4N2O (aq) + H2O (l)  CO2 (aq) + 2 NH3 (aq)            (reactie 2)
+
+
+            De H-atomen in CH4N2O zijn uitsluitend gebonden aan N-atomen.
+
+2p    28    Geef reactie 2 weer met structuurformules voor alle stoffen.
+
+            Door reactie 1 daalt de pH van het melkmengsel. Als de pH te veel daalt,
+            stoppen de enzymen in de bacteriën met de melkzuurproductie.
+            De ontstane NH3 gaat de pH-daling enigszins tegen.
+
+2p    29    Voer de volgende opdrachten uit:
+             Verklaar waarom de enzymen stoppen met de melkzuurproductie als
+               de pH te veel daalt.
+             Geef een verklaring voor het feit dat NH3 de pH-daling enigszins
+               tegengaat.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1028-a-26-2-o                           15 / 16                           lees verder ►►►
+            De bacteriën maken ook stoffen die invloed hebben op de smaak van
+            yoghurt. Een van deze smaakstoffen is aceetaldehyde, C2H4O, dat
+            ontstaat door een reactie waarbij het aminozuur threonine wordt omgezet
+            tot uitsluitend aceetaldehyde en één ander aminozuur.
+
+1p    30    Geef de naam van dit andere aminozuur.
+            Gebruik Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+            Yoghurt bevat stoffen die de gezondheid bevorderen. Een van deze
+            stoffen is een tripeptide dat kan worden weergegeven als: Val-Pro-Pro.
+
+3p    31    Geef de structuurformule van het tripeptide Val-Pro-Pro.
+            Gebruik Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+            De bacteriën maken ook korte sachariden die bestaan uit drie, vier of vijf
+            monomeereenheden.
+
+2p    32    Leid de molecuulformule af van de sacharide die is gevormd uit drie
+            glucose-moleculen. Gebruik eventueel Binas-tabel 67F of ScienceData-
+            tabel 13.1d.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1028-a-26-2-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

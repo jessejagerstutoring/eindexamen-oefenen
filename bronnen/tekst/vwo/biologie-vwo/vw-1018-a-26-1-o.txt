@@ -1,0 +1,744 @@
+                                                                   Examen VWO
+
+                                                                       2026
+                                                                              tijdvak 1
+                                                                        vrijdag 22 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                           biologie
+
+
+
+
+ Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+ Dit examen bestaat uit 41 vragen.
+ Voor dit examen zijn maximaal 65 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een open vraag een verklaring, uitleg of berekening vereist is, worden aan
+ het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+ berekening ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1018-a-26-1-o
+            Tenzij anders vermeld, is er sprake van normale situaties en gezonde
+            organismen.
+
+
+      Bloedplaatjes belaagd
+
+            Toen Rosie werd geboren, viel het de verloskundige op dat ze rode en
+            paarse vlekjes had over haar hele lichaam.
+
+            In het ziekenhuis werd de samenstelling van
+            Rosies bloed bekeken. Het bleek dat ze een
+            vorm van trombocytopenie heeft, een tekort
+            aan bloedplaatjes. De paarse vlekjes bij
+            Rosie zijn kleine bloedingen in de huid
+            (bloeduitstortinkjes).
+
+
+            Bloedplaatjes zorgen voor de instandhouding van de cell junctions: de
+            verbindingen tussen de endotheelcellen (dekweefselcellen) van de
+            bloedvaten.
+2p    1     Leg uit – aan de hand van dit gegeven – hoe de bloeduitstortinkjes in
+            Rosies huid ontstaan.
+
+            Bloedplaatjes ontstaan in het rode beenmerg. Bij de differentiatie van
+            megakaryoblasten ontstaan grote cellen die uiteindelijk uiteenvallen in
+            kleine blaasjes zonder celkern: de bloedplaatjes. De rijping van de
+            megakaryoblasten wordt gestimuleerd door het signaaleiwit TPO. Een
+            terugkoppelingsmechanisme met het aantal bloedplaatjes zorgt ervoor dat
+            in een gezonde situatie de concentratie bloedplaatjes in het bloed stabiel
+            blijft.
+2p    2     Neemt door een toename van het aantal bloedplaatjes de TPO-
+            concentratie af of toe? En is deze regulatie van de concentratie
+            bloedplaatjes een voorbeeld van negatieve terugkoppeling of van
+            positieve terugkoppeling?
+                   TPO-concentratie   terugkoppeling
+            A      neemt af           negatief
+            B      neemt af           positief
+            C      neemt toe          negatief
+            D      neemt toe          positief
+
+
+
+
+VW-1018-a-26-1-o                            2 / 19                           lees verder ►►►
+            Om de trombocytopenie bij Rosie vast te stellen, is het aantal
+            bloedplaatjes in het bloed bepaald. Door toevoeging van een kleurstof
+            aan een microscopisch preparaat van bloed, worden bloedplaatjes
+            zichtbaar als donkere vlekken.
+            In de afbeelding zijn een microscopisch preparaat van normaal bloed en
+            een microscopisch preparaat van het bloed van Rosie weergegeven.
+
+
+
+
+                      normaal bloed                            bloed Rosie
+
+2p    3     Hoeveel bloedplaatjes zijn ongeveer aanwezig in een mm3 bloed van
+            Rosie? Gebruik je informatieboek.
+            A 3
+            B 30
+            C 300
+            D 3.000
+            E 30.000
+
+            Door het tekort aan bloedplaatjes treedt bij Rosie tijdens een bloeding
+            verminderde bloedstolling op. Interne bloedingen zouden daardoor
+            ernstige gevolgen hebben voor Rosie.
+            Hieronder staan enkele stoffen die betrokken zijn bij bloedstolling.
+            1 protrombine
+            2 trombine
+            3 fibrinogeen
+            4 fibrine
+            Bij Rosie zal de concentratie van een aantal van deze stoffen lager zijn
+            dan bij een gezonde persoon.
+2p    4     Noteer de nummers van die stoffen.
+
+
+
+
+VW-1018-a-26-1-o                            3 / 19                            lees verder ►►►
+            Nadat andere oorzaken werden uitgesloten, vermoedden de artsen dat bij
+            Rosie sprake was van een afweerreactie tegen de antigenen op haar
+            bloedplaatjes. Deze antigenen worden HPA’s (human platelet antigens)
+            genoemd.
+            Elk bloedplaatje heeft een aantal verschillende HPA’s. Van de genen die
+            coderen voor deze HPA’s, komen alle aanwezige allelen tot expressie.
+            In tabel 1 zie je gegevens van twee van deze genen.
+
+            tabel 1
+              gen          chromosoom-       allel   antigeen     allelfrequentie in
+                           nummer                                 Noordwest-Europa
+              HPA1-gen            17          1a      HPA-1a              0,84
+                                              1b      HPA-1b              0,16
+              HPA5-gen            5           5a      HPA-5a              0,92
+                                              5b      HPA-5b              0,08
+
+1p    5     Waarvan is sprake bij het HPA1-gen en het HPA5-gen op basis van de
+            informatie?
+            A van co-dominante overerving
+            B van gekoppelde overerving
+            C van intermediaire overerving
+            D van multipele allelen
+
+            HPA-1a en HPA-1b bestaan beide uit 762 aminozuren. Het verschil
+            tussen HPA-1a en HPA-1b is slechts één aminozuur: op positie 33 is bij
+            HPA-1a leucine ingebouwd; bij HPA-1b proline. Dit is het gevolg van een
+            puntmutatie in het HPA1-gen.
+            Hieronder staan uitspraken over de mutatie.
+            1 De mutatie kan een insertie zijn.
+            2 De mutatie bevindt zich in een intron.
+            3 De mutatie betreft de derde base in het coderende triplet.
+2p    6     Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Als de antigenen op de bloedplaatjes van het kind verschillen van die van
+            de moeder, en er – bijvoorbeeld tijdens de bevalling – bloedplaatjes van
+            het kind in het bloed van de moeder terechtkomen, ontstaat er bij de
+            moeder een afweerreactie waarbij antistoffen worden gevormd. Hierdoor
+            kan trombocytopenie optreden bij een volgend kind.
+
+1p    7     Verklaar waardoor bloedplaatjes van de foetus normaal gesproken niet
+            terecht kunnen komen in het bloed van de moeder.
+
+
+
+
+VW-1018-a-26-1-o                           4 / 19                           lees verder ►►►
+            HPA-1a komt ook tot expressie in endotheelcellen van het placenta-
+            weefsel van de foetus. Hierdoor komt trombocytopenie soms al tijdens de
+            eerste zwangerschap voor.
+
+            Als het immuunsysteem van de moeder geactiveerd wordt, zijn daarbij
+            een antigeen, antigeen-presenterende cellen (APC’s) en T-helpercellen
+            betrokken.
+2p    8     Schrijf antigeen, APC’s en T-helpercellen onder elkaar. Noteer erachter of
+            deze dan van de foetus of van de moeder afkomstig zijn.
+
+            Om het tekort aan bloedplaatjes op te vangen, kreeg Rosie een infuus
+            met bloedplaatjes. Omdat nog niet bekend was welke antistoffen bij Rosie
+            aanwezig waren, werd gekozen voor bloedplaatjes zonder HPA-1a. De
+            kans is namelijk het grootst dat de trombocytopenie wordt veroorzaakt
+            door antistoffen tegen HPA-1a.
+2p    9     Hoeveel procent van de Noordwest-Europese populatie heeft bloedplaatjes
+            zonder HPA-1a? Neem aan dat de wet van Hardy-Weinberg geldt.
+            A 2,6%
+            B 4,0%
+            C 16%
+            D 27%
+            E 71%
+            F 84%
+
+            Uit het bloedonderzoek bleek dat Rosies bloed antistoffen bevat tegen
+            HPA-1a en tegen HPA-5b. Ook werd haar genotype en dat van haar
+            ouders bepaald. Rosie bleek een ander genotype voor HPA-1 en HPA-5
+            te hebben dan haar moeder. Daaruit concludeerden de artsen dat de
+            trombocytopenie bij Rosie werd veroorzaakt door antistoffen die ze van
+            haar moeder had gekregen tijdens de zwangerschap.
+
+            De afweerreactie die door de antistoffen wordt veroorzaakt in het lichaam
+            van Rosie wordt allo-immuniteit genoemd.
+2p   10     Is de allo-immuniteit bij Rosie een vorm van actieve immuniteit of van
+            passieve immuniteit? En welk type antistof tegen HPA-1a en HPA-5b
+            wordt bij haar aangetroffen?
+                   immuniteit   type antistof
+            A      actief       IgE
+            B      actief       IgG
+            C      passief      IgE
+            D      passief      IgG
+
+            Rosies vader heeft genotype 1a1b 5a5b. Met de informatie in het kader
+            boven vraag 10 zijn ook de genotypen van Rosie en van Rosies moeder
+            af te leiden voor de genen die coderen voor HPA-1 en HPA-5.
+2p   11     Schrijf Rosie en moeder onder elkaar. Noteer het genotype van de
+            betreffende persoon erachter. Gebruik de notatie uit tabel 1.
+
+
+VW-1018-a-26-1-o                                5 / 19                       lees verder ►►►
+      Synthetische biologie: ombouwen van E. coli
+
+            Biologen hebben onderzocht welke stappen nodig zijn om een heterotrofe
+            bacterie om te bouwen tot een chemo-autotrofe bacterie.
+
+            De biologen gebruikten voor hun onderzoek de darmbacterie Escherichia
+            coli. Het genoom van deze bacterie is bekend, en de bacterie is snel en
+            eenvoudig te kweken. E. coli is heterotroof en kan zowel aerobe als
+            anaerobe dissimilatie uitvoeren.
+            In de darmen van mensen bevordert E. coli de vertering en produceert
+            B-vitamines en vitamine K. Sommige varianten van de bacterie zijn voor
+            mensen ziekmakend.
+
+            Uit de tekst blijkt dat er sprake is van symbiose tussen de verschillende
+            E. coli-varianten en de mens:
+            1 tussen de mens en niet-ziekmakende varianten;
+            2 tussen de mens en ziekmakende varianten.
+2p   12     Schrijf de nummers 1 en 2 onder elkaar. Noteer erachter welke vorm van
+            symbiose het meest passend is bij de bijbehorende relatie.
+
+            Om E. coli autotroof te maken, brachten de biologen genen in die coderen
+            voor enkele enzymen van de calvincyclus. Deze genen zijn afkomstig van
+            de bacterie Pseudomonas. Ook werd een gen ingebracht dat codeert voor
+            het enzym FDH. Door dit enzym kan de stof methaanzuur dienen als
+            donor van energierijke elektronen.
+
+            In afbeelding 1 zijn de         afbeelding 1
+            stofwisselingsprocessen in de
+            autotrofe E. coli-bacterie
+            weergegeven zoals de
+            onderzoekers die ontworpen
+            hadden. In het kweekmedium
+            zijn methaanzuur en zuurstof
+            voldoende aanwezig.
+
+
+
+
+            In afbeelding 1 staan de stoffen Q en R, en het proces S dat op de
+            celmembraan plaatsvindt.
+2p   13     Schrijf de letters Q, R en S onder elkaar. Noteer de naam van de
+            bijbehorende stoffen achter Q en R, en de naam van het bijbehorende
+            proces achter S.
+
+
+
+
+VW-1018-a-26-1-o                            6 / 19                           lees verder ►►►
+            De aanpassingen die de biologen deden aan E. coli zijn een voorbeeld
+            van genetische modificatie.
+1p   14     Is de gemodificeerde E. coli cisgeen of transgeen? Licht je antwoord toe.
+
+            Bij de gemodificeerde E. coli is methaanzuur de donor van elektronen
+            voor het verloop van de calvincyclus.
+1p   15     Wat is de elektronendonor bij foto-autotrofe organismen?
+            A licht
+            B H2O
+            C O2
+
+
+            De volgende stap was het stimuleren van de autotrofe levenswijze van
+            E. coli. Dit kan worden bereikt door ervoor te zorgen dat E. coli geen
+            glucose meer kan gebruiken voor de productie van ATP. De biologen
+            schakelden daartoe drie genen uit die coderen voor enzymen die
+            betrokken zijn bij de glycolyse. Vervolgens werd deze gemodificeerde
+            E. coli gekweekt in een bioreactor (afbeelding 2) waaraan continu een
+            voedingsmedium werd toegevoegd. Dit bevatte onder andere
+            methaanzuur en de monosacharide xylose.
+            Xylose was nodig om ervoor afbeelding 2
+            te zorgen dat de bacteriën
+            niet meteen zouden sterven
+            aan energiegebrek. E. coli
+            kan xylose namelijk
+            omzetten in pyrodruivenzuur
+            zonder daarbij gebruik te
+            maken van de glycolyse.
+            Tijdens de kweekperiode
+            werd de hoeveelheid xylose
+            in het voedingsmedium
+            geleidelijk afgebouwd naar
+            nul.
+            Vanaf de bodem van de
+            reactor werd lucht met CO2
+            toegevoegd.
+
+            De E. coli-bacteriën waarmee werd gestart, hadden nog veel
+            stofwisselingsprocessen die passen bij een heterotrofe levenswijze. Na
+            300 dagen waren de bacteriën in de bioreactor echter volledig autotroof.
+2p   16     Leg uit hoe de E. coli-bacteriën in de bioreactor konden evolueren tot
+            volledig autotrofe bacteriën. Benoem ook de selectiedruk die hierbij een
+            rol speelde.
+
+            De biologen wilden weten of de gemodificeerde E. coli-bacteriën aan het
+            einde van de kweekperiode alleen CO 2 gebruikten als koolstofbron. Om
+            dat te onderzoeken, gebruikten ze koolstofverbindingen die gelabeld
+            waren met de koolstofisotoop 13C.
+
+
+
+VW-1018-a-26-1-o                           7 / 19                            lees verder ►►►
+            Ze maakten vier groepen die ze gelabeld of ongelabeld CO2, en gelabeld
+            of ongelabeld methaanzuur gaven. Als positieve controle was er een
+            vijfde groep met normale (wildtype) E. coli-bacteriën die gelabelde
+            glucose kregen. De vijf groepen bacteriën werden in aparte
+            proefopstellingen gedurende tien generaties verder gekweekt.
+            Na afloop werd het aandeel 13C in de aminozuren gemeten. De resultaten
+            van deze proeven zijn weergegeven in afbeelding 3.
+
+            afbeelding 3
+
+
+
+
+            E. coli maakt aminozuren van glucose en anorganische stoffen uit het
+            voedingsmedium. De positieve controle met wildtype E. coli laat zien dat
+            de 13C uit de glucose inderdaad terechtkomt in aminozuren.
+2p   17      Noteer de naam van het proces waarbij aminozuren geproduceerd
+                worden van glucose en anorganische stoffen.
+             Geef een voorbeeld van een anorganische verbinding die aan het
+                voedingsmedium moet worden toegevoegd om dit proces mogelijk te
+                maken.
+
+2p   18     Licht toe aan de hand van afbeelding 3 dat de gemodificeerde bacteriën
+            niet of nauwelijks methaanzuur, maar wel CO2 gebruiken voor de
+            productie van aminozuren.
+
+            De biologen maten bij gebruik van CO 2 en 13C-methaanzuur aanvankelijk
+            een hoger percentage 13C in aminozuren. De waarde die je ziet in
+            afbeelding 3 is hiervoor gecorrigeerd.
+1p   19     Verklaar aan de hand van afbeelding 1 dat bij gebruik van CO2 en
+            13
+               C-methaanzuur toch 13C in aminozuren terecht kan komen.
+
+
+
+
+VW-1018-a-26-1-o                           8 / 19                            lees verder ►►►
+      Imker door bijensteken naar de eerste hulp
+
+            Imker Bert werd bij de spoedeisende hulp van een ziekenhuis
+            binnengebracht nadat hij meerdere keren was gestoken door zijn bijen.
+            Dit veroorzaakte een allergische reactie waardoor zijn hele gezicht
+            opzwol.
+
+
+
+
+            De allergische reactie bij Bert was het gevolg van het binden van
+            antigenen uit het bijengif aan bepaalde witte bloedcellen, waardoor de
+            mediator histamine vrijkomt.
+
+            De zwellingen in Berts gezicht zijn het gevolg van oedeemvorming.
+2p   20     Leg uit hoe een allergische reactie oedeem veroorzaakt. Gebruik je
+            informatieboek.
+
+            Bert was al enkele keren eerder door zijn bijen gestoken, maar toen was
+            er geen sprake van een allergische reactie.
+1p   21     Verklaar waardoor er bij de eerste steek geen allergische reactie op
+            bijengif kan ontstaan.
+
+            Na een bijensteek kan de bloeddruk zo ver dalen dat er geen polsslag te
+            voelen is. In de ambulance werden Berts hartslag en bloeddruk gemeten.
+            Zijn bloeddruk was heel laag.
+2p   22     Welke verandering in de slagader van de pols is normaal voelbaar als de
+            polsslag? En welke druk heerst op dat moment in die slagader?
+                   polsslag voelbaar door               bloeddruk
+            A      samentrekken van de slagaderwand     diastolische druk
+            B      samentrekken van de slagaderwand     systolische druk
+            C      uitrekken van de slagaderwand        diastolische druk
+            D      uitrekken van de slagaderwand        systolische druk
+
+
+
+
+VW-1018-a-26-1-o                            9 / 19                           lees verder ►►►
+            De pijn van een bijensteek wordt veroorzaakt door mellitine, het
+            hoofdbestanddeel van bijengif.
+            Mellitine is opgebouwd uit 26
+            aminozuren. De aminozuurvolgorde
+            van mellitine is:
+            GIGAVLKVLTTGLPALISWIKRKRQQ
+            Hiernaast zie je de ruimtelijke structuur
+            van dit eiwit. Daarin zijn zes
+            aminozuren met hun letters
+            aangegeven.
+
+            In de volgende afbeelding zie je hoe de tertiaire structuur van eiwitten
+            wordt gevormd door hydrofobe interacties (1), door zwavelbruggen (2) en
+            door waterstofbruggen (3).
+
+
+
+
+            Uit de primaire structuur van mellitine is af te leiden dat een van deze
+            interacties geen rol speelt bij de vorming van de tertiaire structuur.
+1p   23     Noteer welk type interactie niet aanwezig is bij mellitine. Verklaar je
+            antwoord.
+
+            Het middelste deel van het eiwit (met de sequentie GLPALI) bestaat uit
+            aminozuren met apolaire restgroepen.
+            Mellitine komt terecht in de celmembraan. Een deel van het eiwit bevindt
+            zich dan binnen de cel, en een ander deel steekt uit buiten de cel.
+1p   24     Verklaar deze positie aan de hand van het apolaire deel van het eiwit.
+
+            Nadat mellitine is opgenomen in de celmembraan van een pijnreceptor,
+            opent die – via een aantal stappen – de calciumkanaaltjes. De diffusie van
+            Ca2+ door calciumkanaaltjes leidt bij pijnreceptoren tot het ontstaan van
+            een impuls.
+
+
+
+
+VW-1018-a-26-1-o                             10 / 19                           lees verder ►►►
+            De onderstaande afbeelding toont hoe na binding van mellitine het signaal
+            wordt doorgegeven zodat de calciumkanaaltjes opengaan.
+
+
+
+
+            De stoffen P en Q in de afbeelding vervullen een bepaalde functie in de
+            signaaloverdracht.
+1p   25     Wat is de biologische term voor stoffen met deze functie?
+            A enhancers
+            B cascades
+            C receptoren
+            D second messengers
+
+            De diffusie van Ca2+ door de calciumkanaaltjes leidt tot een verandering
+            van de membraanpotentiaal.
+2p   26     Welke verandering van de membraanpotentiaal kan leiden tot een impuls?
+            En is dit het gevolg van een Ca2+-instroom of van een Ca2+-uitstroom?
+                   kan leiden tot impuls   gevolg van
+            A      depolarisatie           Ca2+-instroom
+            B      depolarisatie           Ca2+-uitstroom
+            C      hyperpolarisatie        Ca2+-instroom
+            D      hyperpolarisatie        Ca2+-uitstroom
+
+            De arts schrijft een adrenalinepen voor. Als Bert dan nog eens gestoken
+            wordt, kan hij zichzelf daarmee meteen adrenaline toedienen zodat er
+            geen levensbedreigende verlaging van de bloeddruk kan optreden.
+            Hieronder staan enkele effecten van adrenaline.
+            1 samentrekking van glad spierweefsel in de slagadertjes
+            2 toename van de doorbloeding van skeletspieren
+            3 toename van de hartslagfrequentie
+            4 verwijding van de bronchiën
+2p   27     Schrijf de nummers 1 tot en met 4 onder elkaar. Noteer erachter of het
+            bijbehorende effect wel of geen toename van de bloeddruk zal
+            veroorzaken.
+
+
+
+
+VW-1018-a-26-1-o                           11 / 19                          lees verder ►►►
+      CRISPR in de strijd tegen overgewicht
+
+            Obesitas (een ernstige vorm van overgewicht) is een aandoening die kan
+            leiden tot hart- en vaatziekten en diabetes type 2. Wetenschappers
+            hebben onderzocht of de CRISPR-techniek kan worden gebruikt om
+            diabetes type 2 tegen te gaan. Met deze techniek veranderden ze
+            menselijke witte vetcellen in beige vetcellen.
+
+            In het menselijk lichaam komen drie typen vetcellen voor:
+            1 Witte vetcellen: deze slaan vet op als reservestof voor ATP-productie.
+            2 Bruine vetcellen: deze slaan vet op voor warmteproductie. Bij
+                blootstelling aan kou wordt het vet verbrand om warmte te produceren.
+                Bruine vetcellen zijn geclusterd aanwezig tussen de schouderbladen,
+                rond het hart en langs de grote bloedvaten.
+            3 Beige vetcellen: deze vetcellen hebben dezelfde functie als bruine
+                vetcellen, maar zijn verspreid aanwezig in andere weefsels (zoals in
+                spierweefsel). Deze vetcellen waren oorspronkelijk witte vetcellen die
+                door een toename van het aantal mitochondriën lichtbruin zijn
+                geworden.
+
+1p   28     Verklaar op organisme-niveau dat het functioneel is dat bruin vetweefsel
+            zich rond het hart en de grote bloedvaten bevindt.
+
+            Bij obese mensen is bruin vetweefsel niet tot nauwelijks aanwezig.
+            In afbeelding 1 is de activiteit van bruin vetweefsel zichtbaar gemaakt bij
+            twee proefpersonen, nadat zij twee uur lang zijn blootgesteld aan kou. In
+            de linker foto is bij een slanke persoon de aanwezigheid van bruin
+            vetweefsel goed zichtbaar. De rechter foto is van een obese persoon.
+
+            afbeelding 1
+
+
+
+
+VW-1018-a-26-1-o                            12 / 19                            lees verder ►►►
+            Obesitas zou een oorzaak, maar ook een gevolg kunnen zijn van de
+            afwezigheid van bruin vetweefsel bij obese mensen.
+2p   29      Verklaar hoe obesitas zou kunnen bijdragen aan de afwezigheid van
+               bruin vetweefsel.
+             Verklaar hoe de afwezigheid van bruin vetweefsel zou kunnen
+               bijdragen aan het ontstaan van obesitas.
+
+            In bruine en beige vetcellen komt het UCP1-gen tot expressie. Het UCP1-
+            eiwit (uncoupling protein 1) komt terecht in de mitochondriën. Tijdens de
+            oxidatieve fosforylering kunnen H+-ionen dan via het UCP1-eiwit terug
+            naar de matrix diffunderen, waardoor er geen ATP maar alleen warmte
+            wordt geproduceerd.
+
+1p   30     Verklaar op moleculair niveau dat bruine en beige vetcellen bij de
+            oxidatieve fosforylering geen ATP produceren.
+
+            Het UCP1-gen bevindt zich op chromosoom 4. Na de translatie komt het
+            eiwit in ongevouwen toestand terecht in het grondplasma. Daar wordt het
+            herkend door speciale eiwitten op de mitochondriën. Deze eiwitten
+            brengen het daarna in de mitochondriën, en plaatsen het met de juiste
+            vouwing in de binnenmembraan.
+2p   31     Vindt translatie van UCP1-RNA plaats aan ribosomen op het ER of aan
+            vrije ribosomen? En is de UCP1-polypeptideketen in het golgi-systeem
+            geweest?
+                   translatie aan          in het golgi-systeem geweest?
+            A      ribosomen op het ER     ja
+            B      ribosomen op het ER     nee
+            C      vrije ribosomen         ja
+            D      vrije ribosomen         nee
+
+            Als obese mensen meer bruin of beige vetweefsel zouden hebben, zou
+            dat misschien kunnen helpen tegen overgewicht. Onderzoekers zijn erin
+            geslaagd om in het laboratorium menselijke witte vetcellen te veranderen
+            in beige vetcellen. Ze gebruikten hiervoor een variant van de CRISPR-
+            techniek, waarmee ze in witte vetcellen het UCP1-gen tot expressie
+            kunnen brengen. De witte vetcellen worden op deze manier veranderd in
+            beige vetcellen.
+
+
+
+
+VW-1018-a-26-1-o                           13 / 19                           lees verder ►►►
+            De onderzoekers brachten met een virus een stuk DNA in het genoom
+            van witte vetcellen. Dit DNA bevat:
+             de genetische code voor een speciaal Cas-eiwit met activator-eiwitten
+               (transcriptiefactoren);
+             de genetische code voor het RNA dat aan de promotor van het UCP1-
+               gen kan hechten (gids-RNA).
+            Wanneer het Cas-eiwit met de activator-eiwitten en het gids-RNA door
+            een cel zijn gemaakt, schakelen deze moleculen het UCP1-gen aan.
+            Hierdoor gaat een witte vetcel het UCP1-eiwit produceren (afbeelding 2).
+
+            afbeelding 2
+
+
+
+
+1p   32     Verklaar wat de rol is van de activator-eiwitten bij het tot expressie komen
+            van het UCP1-gen in een beige vetcel.
+
+            Het effect van de beige vetcellen werd getest in muizen die al twaalf
+            weken lang een vetrijk dieet hadden gekregen en inmiddels obees waren
+            geworden. Deze muizen werden in drie groepen verdeeld en kregen
+            verschillende menselijke cellen getransplanteerd tussen de
+            schouderbladen:
+             groep 1: witte vetcellen;
+             groep 2: beige vetcellen (met CRISPR gemaakt);
+             groep 3: bruine vetcellen.
+            Gedurende vier weken werd het lichaamsgewicht bepaald. De muizen
+            werden gehouden bij kamertemperatuur en hielden al die tijd hun vetrijke
+            dieet.
+
+            De muizen die voor dit onderzoek zijn gebruikt, hebben een uitgeschakeld
+            immuunsysteem: ze zijn immunodeficiënt.
+1p   33     Licht toe dat het voor het onderzoek van belang is dat de muizen
+            immunodeficiënt zijn.
+
+
+
+
+VW-1018-a-26-1-o                            14 / 19                            lees verder ►►►
+            De verandering in lichaamsgewicht van de drie groepen is weergegeven
+            in afbeelding 3.
+
+            afbeelding 3
+
+
+
+
+1p   34     Beschrijf op basis van afbeelding 3 waaruit blijkt dat deze CRISPR-
+            techniek mogelijk succesvol gebruikt kan worden voor de behandeling van
+            obesitas.
+
+1p   35     Draagt het toevoegen van de derde groep (met bruine vetcellen) bij aan
+            de betrouwbaarheid of aan de validiteit van het onderzoek? Licht je
+            antwoord toe.
+
+            Obesitas kan leiden tot ongevoeligheid voor insuline (diabetes type 2). Bij
+            de muizen in het experiment werd na vier weken een glucosetolerantietest
+            uitgevoerd. De muizen kregen zes uur lang geen eten en kregen daarna
+            een injectie met een standaardhoeveelheid glucose. Tot 90 minuten na de
+            injectie werd het verloop van de glucoseconcentratie van het bloed
+            gemeten (afbeelding 4). Ook werd de concentratie insuline bepaald.
+            Hierin was geen verschil tussen de drie groepen.
+
+            afbeelding 4
+
+
+
+
+2p   36     Licht toe – aan de hand van afbeelding 4 – dat de beschreven CRISPR-
+            techniek het ontstaan van diabetes type 2 in de muizen heeft tegengegaan.
+
+
+VW-1018-a-26-1-o                           15 / 19                           lees verder ►►►
+      Zetmeelmatten voor de kust
+
+            Wereldwijd worden kust-ecosystemen aangetast door klimaatverandering
+            en andere menselijke invloeden. Wetenschappers van de Rijksuniversiteit
+            Groningen doen onderzoek naar de effectiviteit van het gebruik van
+            zetmeelmatten bij het herstel van deze ecosystemen.
+
+            Kust-ecosystemen zijn belangrijk als kraamkamer voor mariene organismen
+            en voor kustbescherming en recreatie. Veel kust-ecosystemen worden
+            gevormd door ‘biobouwers’ (ecosystem engineers). Dit zijn soorten die het
+            milieu waarin zij voorkomen in sterke mate positief beïnvloeden.
+            Voorbeelden zijn zeegrassoorten (Zostera sp., afbeelding 1) die
+            uitgestrekte velden vormen op ondiepe plekken langs de kust, en
+            slijkgrassoorten (Sporobolus sp., afbeelding 2) die alleen bij hoogwater
+            onder water staan.
+            afbeelding 1                  afbeelding 2
+
+
+
+
+            Zeegras- en slijkgrasvelden zijn een belangrijk onderdeel van kust-
+            ecosystemen. Deze velden remmen de waterstroming, waardoor zand en
+            slib kunnen bezinken. Hun wortelstelsels stabiliseren het sediment,
+            waardoor ook andere planten zich kunnen vestigen. Hierdoor neemt de
+            biodiversiteit toe.
+
+            Klimaatverandering heeft verschillende gevolgen die een negatieve invloed
+            hebben op biobouwers zoals zeegras en slijkgras. Hierdoor worden kust-
+            ecosystemen aangetast.
+1p   37     Noteer zo’n voorbeeld van een gevolg van klimaatverandering en licht toe
+            hoe dit biobouwers zoals zeegras en slijkgras negatief kan beïnvloeden.
+
+            De netto primaire productie (NPP) in kust-ecosystemen is hoger dan die
+            van een gelijke oppervlakte midden op de oceaan. Dat komt doordat in
+            kust-ecosystemen veel meer fotosynthese plaatsvindt.
+            Hieronder staan uitspraken over kust-ecosystemen.
+            1 Kust-ecosystemen dragen meer bij aan de opname van koolstof in
+                organische stoffen dan een gelijke oppervlakte midden op de oceaan.
+            2 De BPP van kust-ecosystemen is hoger dan die van de open oceaan.
+            3 De aanwezigheid van biobouwers vergroot het aantal niches in een
+                kust-ecosysteem.
+2p   38     Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+ VW-1018-a-26-1-o                          16 / 19                          lees verder ►►►
+            Aantasting van zeegrasvelden kan ertoe leiden dat het ecosysteem
+            compleet verandert. In afbeelding 3 is deze verandering weergegeven. Als
+            een zeegrasveld (fase 1) wordt aangetast, kan dit leiden tot een
+            omslagpunt (fase 2). Hierdoor raakt het ecosysteem blijvend veranderd
+            (fase 3), en is herstel naar fase 1 heel erg moeilijk.
+
+            afbeelding 3
+
+
+
+
+                      zeegras           zeegras en algen        algen
+
+            Hieronder staan uitspraken over het aantastingsproces van zeegrasvelden.
+            1 In fase 2 is sprake van een evenwichtssituatie.
+            2 De groei van zeegras stimuleert de opwerveling van sediment.
+            3 Fase 3 is een climax-ecosysteem.
+2p   39     Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+ VW-1018-a-26-1-o                          17 / 19                          lees verder ►►►
+            Het herstel van zeegras- en slijkgrasvelden mislukt vaak doordat structuren
+            ontbreken waaraan zij zich kunnen hechten. Bij de kust van Bonaire en de
+            kust van Texel werd onderzocht of het plaatsen van zetmeelmatten
+            (afbeelding 4) effectief is voor het herstel van zeegras- en slijkgrasvelden.
+
+            afbeelding 4
+
+
+
+
+                     van bovenaf gezien                    vanaf de zijkant gezien
+
+            De zetmeelmatten zijn gemaakt van aardappelafval. Daardoor worden er
+            geen producten gebruikt die anders als eten voor mensen of dieren gebruikt
+            zouden kunnen worden.
+1p   40     Geef een ander argument waaruit blijkt dat het gebruik van deze
+            zetmeelmatten een ecologisch duurzame manier is om kust-ecosystemen
+            te herstellen.
+
+            Zetmeelmatten kunnen op de zeebodem geplaatst worden om de
+            waterbeweging af te zwakken. Ze kunnen ook net onder het
+            bodemoppervlak geplaatst worden om het sediment te stabiliseren.
+            De onderzoekers hadden twee hypothesen geformuleerd:
+            1 Zetmeelmatten op de zeebodem hebben een positief effect op de
+                overleving en de groei van slijkgras.
+            2 Zetmeelmatten onder het bodemoppervlak hebben een positief effect op
+                de overleving en de groei van zeegras.
+            Om deze hypotheses te testen, werden zetmeelmatten aangebracht in de
+            proefgebieden en werden er daarna jonge planten (slijkgras of zeegras)
+            geplant in de matten. Als controle werd hetzelfde aantal jonge planten op
+            een oppervlak zonder zetmeelmatten geplant. Na ruim twaalf maanden
+            werd de overleving van de jonge planten bepaald. De groei werd bepaald
+            door het aantal nieuwe scheuten van deze planten te tellen per zetmeelmat
+            of per controle-oppervlak.
+
+
+
+
+ VW-1018-a-26-1-o                            18 / 19                                 lees verder ►►►
+            De resultaten van het experiment bij Bonaire en bij Texel zijn weergegeven
+            in afbeelding 5.
+
+            afbeelding 5
+
+
+
+
+            Hieronder staan uitspraken over de resultaten in afbeelding 5.
+            1 De resultaten ondersteunen hypothese 1 en hypothese 2.
+            2 De resultaten bewijzen dat zetmeelmatten onder het bodemoppervlak
+                het sediment stabiliseren.
+            3 De resultaten laten zien dat bij Texel beter kan worden gekozen voor
+                zeegras dan voor slijkgras.
+2p   41     Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+
+
+
+ Bronvermelding
+ Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+ behorende correctievoorschrift.
+
+ VW-1018-a-26-1-o                                         19 / 19                                          lees verdereinde
+                                                                                                                        ►►► 
+

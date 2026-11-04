@@ -1,0 +1,640 @@
+                                                                  Examen HAVO
+
+                                                                        2022
+                                                                               tijdvak 2
+                                                                        tijdsduur: 3 uur
+
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 38 vragen.
+Voor dit examen zijn maximaal 79 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-22-2-o
+      Houtspons
+
+            Bij scheepsongelukken kan olie lekken naar het water. Om milieuschade
+            te voorkomen hebben onderzoekers een materiaal op basis van hout
+            ontwikkeld, waarmee olie uit water kan worden opgenomen. De werking
+            van dit materiaal lijkt op die van een spons. Daarom heeft het de naam
+            ‘houtspons’ gekregen. Hout bestaat uit cellulose, lignine en hemicellulose.
+            Bij het maken van een houtspons moet het hout als volgt worden
+            behandeld:
+
+            stap 1:    Lignine wordt verwijderd.
+            stap 2:    Hemicellulose wordt verwijderd.
+            stap 3:    De overgebleven cellulose wordt gedroogd.
+            stap 4:    De gedroogde cellulose wordt hydrofoob gemaakt.
+
+            stap 1
+            Voor het verwijderen van lignine wordt een oplossing van natriumchloriet
+            gebruikt met een pH van 4,7. Deze oplossing bevat onder andere
+            chlorietionen (ClO2–). Uit deze chlorietionen wordt chloordioxide (ClO2)
+            gevormd volgens reactie 1.
+
+            5 ClO2– + 4 H+  4 ClO2 + Cl– + 2 H2O                              (reactie 1)
+
+            Chloordioxide (ClO2) reageert vervolgens met lignine. Bij deze
+            redoxreactie wordt ClO2 omgezet tot ClO2– volgens onderstaande
+            halfreactie a. Deze vergelijking is onvolledig: er ontbreekt een elektron.
+
+            ClO2  ClO2–                                                   (halfreactie a)
+
+2p    1     Bereken de [H+] in mol L–1 van een oplossing met een pH van 4,7.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+2p    2     Leg uit of ClO2 in halfreactie a reageert als oxidator of als reductor.
+
+            ClO2– wordt in reactie 1 omgezet en tijdens de reactie van ClO2 met
+            lignine weer gevormd. Toch is ClO2– geen katalysator.
+
+2p    3     Leg uit met behulp van reactie 1 en halfreactie a dat ClO2– geen
+            katalysator is.
+
+
+
+
+HA-1028-a-22-2-o                             2 / 15                              lees verder ►►►
+            De reactie met ClO2 veroorzaakt veranderingen in de structuur van
+            lignine. In figuur 1 is zo’n verandering schematisch weergegeven.
+
+            figuur 1
+
+                                CH3                                              H
+                                                                        O
+                                O                                            O
+                                                                         C
+                        HC    C                                    HC
+                       C        C O R                             C              O
+                           HC C                                       HC C       C   O−
+                                  R2                                        R2
+
+            fragment van een ligninemolecuul            fragment van een ligninemolecuul
+                 voor reactie met ClO2                       na reactie met ClO2
+
+
+            Door deze veranderingen wordt lignine beter oplosbaar in water en kan
+            lignine uit het hout verwijderd worden. De verbeterde oplosbaarheid is
+            onder andere te danken aan de vorming van waterstofbruggen met de
+            ontstane zuurgroep en door hydratatie van de geladen groep.
+
+3p    4     Voer de volgende opdrachten uit op de uitwerkbijlage:
+             Teken twee watermoleculen die de geladen groep hydrateren.
+             Teken nog eens twee watermoleculen die elk met een waterstofbrug
+               zijn verbonden met de ontstane zuurgroep. Geef de waterstofbruggen
+               weer met stippellijntjes (• • •).
+             Geef de watermoleculen weer met                  .
+
+            stap 2 en 3
+            Na het verwijderen van de lignine wordt de hemicellulose uit het hout
+            verwijderd met natronloog. Van het hout blijft dan alleen de cellulose over,
+            die nog een kleine hoeveelheid water bevat. Dit water moet ook nog
+            worden verwijderd. Hiertoe wordt de cellulose sterk afgekoeld, zodat het
+            aanwezige water bevriest. Door de luchtdruk steeds laag te houden,
+            verdampt het bevroren water en wordt dit vervolgens afgevoerd. Deze
+            scheidingsmethode heet ‘vriesdrogen’ en heeft overeenkomsten met het
+            indampen van een oplossing. Zo zijn bijvoorbeeld de fasen van het water
+            en van het residu, direct na uitvoering van het vriesdrogen, gelijk aan de
+            fasen direct na uitvoering van het indampen van een oplossing.
+
+2p    5     Geef de toestandsaanduidingen van het residu en van het water direct na
+            het vriesdrogen van cellulose.
+            Noteer je antwoord als volgt:
+            toestandsaanduiding residu: …
+            toestandsaanduiding water: …
+
+
+
+
+HA-1028-a-22-2-o                               3 / 15                                      lees verder ►►►
+            stap 4
+            Om olie te kunnen opnemen, moet het oppervlak van de cellulose
+            hydrofoob worden gemaakt. Dit gebeurt door een behandeling waardoor
+            op de cellulose een laagje van het polymeer polysiloxaan wordt gevormd.
+            Daarna is de houtspons klaar. In figuur 2 is de reactie tussen drie
+            monomeereenheden van polysiloxaan en drie monomeereenheden van
+            cellulose schematisch weergegeven.
+
+            figuur 2
+
+
+
+
+1p    6     Geef aan welke stof (X) bij deze reactie wordt afgesplitst.
+
+            Olie is een mengsel van koolwaterstoffen.
+
+2p    7     Leg uit waardoor olie beter aan houtspons bindt dan aan cellulose.
+            Gebruik de structuurformules die zijn weergegeven in figuur 2.
+
+            Geabsorbeerde olie kan uit houtspons worden verwijderd door deze
+            eenvoudigweg eruit te persen. De houtspons veert daarna terug tot zijn
+            oude vorm en kan opnieuw worden gebruikt. Onderzoekers hebben de
+            opname van olie door de houtspons gemeten tijdens een aantal cycli van
+            opname en uitpersen. De resultaten zijn in figuur 3 weergegeven. De
+            opname van olie is uitgedrukt in het aantal gram olie dat per gram
+            houtspons is opgenomen.
+
+
+
+
+HA-1028-a-22-2-o                             4 / 15                         lees verder ►►►
+            figuur 3
+
+                            30
+            opgenomen olie
+               (gram per
+            gram houtspons) 25
+
+                           20
+
+                           15
+
+                           10
+
+                            5
+
+                            0
+                                   0    1     2       3      4   5   6       7      8
+                                                                         aantal cycli
+                                 Legenda:
+                                      opname olie
+                                      uitpersen
+
+1p    8     Geef aan hoe uit figuur 3 blijkt dat de olie niet volledig uit de houtspons
+            geperst kan worden.
+
+            In 2018 botste in de Rotterdamse haven een Noorse olietanker op een
+            steiger, waardoor de tanker 200 ton olie verloor.
+
+3p    9     Bereken aan de hand van figuur 3 hoeveel cycli van opname en uitpersen
+            minimaal nodig zijn om 200 ton olie uit het water van de haven te
+            verwijderen met behulp van 100 kg houtspons.
+            Lees de opgenomen olie af in één decimaal.
+            Neem aan dat:
+             de gemiddelde opname per cyclus overeenkomt met die van cyclus 8.
+             1 ton = 103 kg
+
+
+
+
+HA-1028-a-22-2-o                                    5 / 15                              lees verder ►►►
+      Metal fuels
+
+            De komende jaren zullen steenkolencentrales worden gesloten om de
+            elektriciteitsproductie duurzamer te maken. Een onderzoeksteam van de
+            TU Eindhoven onderzoekt of deze centrales toch nog langer te gebruiken
+            zijn wanneer steenkool wordt vervangen door een zogeheten ‘metal fuel’.
+            Een metal fuel is een metaalpoeder dat verbrand kan worden. Het
+            onderzoeksteam gebruikt hiervoor ijzerpoeder.
+
+            De verbrandingsreactie van ijzerpoeder verloopt als volgt:
+
+            4 Fe (s) + 3 O2 (g)  2 Fe2O3 (s)                                   (reactie 1)
+
+            In deze opgave wordt de productie van elektrische stroom op basis van de
+            verbranding van ijzerpoeder beschreven. Op de uitwerkbijlage is hiervoor
+            een vereenvoudigd en nog onvolledig blokschema gegeven. Eerst wordt
+            ijzerpoeder dat in ruimte I is opgeslagen, gemengd met lucht. In een
+            verbrandingskamer (ruimte II) wordt dit lucht-ijzermengsel tot ontbranding
+            gebracht.
+
+2p    10    Leg uit met behulp van het botsende-deeltjesmodel dat de
+            verbrandingssnelheid van ijzerpoeder hoger wordt, wanneer eenzelfde
+            massa ijzerpoeder met een kleinere deeltjesgrootte wordt gebruikt.
+
+            De verbranding van ijzerpoeder in        figuur 1
+            ruimte II verloopt specifiek:
+            de zuurstof reageert aan het
+            oppervlak van de ijzerpoederdeeltjes
+            en er vormt zich een korst van
+            ijzeroxide. Dit is weergegeven in
+            figuur 1. De korst wordt steeds dikker
+            en uiteindelijk blijft er een vast                  poederdeeltje
+            deeltje over dat voornamelijk uit
+            Fe2O3 bestaat.
+
+            Wanneer ijzerpoederdeeltjes reageren in ruimte II nemen ze in massa
+            toe. Wanneer de poederdeeltjes na de verbranding groot en zwaar
+            genoeg zijn, zakken ze naar de onderkant van de verbrandingskamer en
+            komen ze in een opvangruimte terecht (ruimte III).
+
+1p    11    Geef een verklaring voor het toenemen van de massa van de
+            poederdeeltjes.
+
+
+
+
+HA-1028-a-22-2-o                            6 / 15                                lees verder ►►►
+            De overgebleven gassen uit de lucht
+            worden in ruimte II verhit, door de warmte   figuur 2
+            die vrijkomt bij de verbranding van
+            ijzerpoeder (zie uitwerkbijlage). De hete    apparaat (IV)
+            gassen worden boven uit ruimte II
+            afgetapt en gebruikt voor de productie van
+            hete stoom. Hiervoor moet de energie van
+            de hete gassen via een apparaat (IV)
+            worden overgedragen aan water. Het
+            symbool voor dit apparaat is in figuur 2
+            weergegeven. Met de gevormde hete
+            stoom wordt een stoomturbine (V) met
+            elektriciteitsgenerator (VI) aangedreven.
+            De stoom die uit de stoomturbine komt,
+            wordt afgekoeld in een koeler (VII) en het
+            gevormde afgekoelde water wordt weer
+            naar het apparaat (IV) teruggevoerd.
+
+1p    12    Geef de naam van het apparaat (IV) dat is weergegeven in figuur 2.
+2p    13    Vul het blokschema op de uitwerkbijlage aan:
+             Teken het symbool voor het apparaat (IV) en verbind deze met de
+               stoomturbine (V) en met de koeler (VII).
+             Geef aan welke waterstroom afgekoeld water en welke waterstroom
+               hete stoom bevat.
+             Noteer de letters van onderstaande stofstromen op de juiste plek in
+               het blokschema:
+               A hete gassen
+               B afgekoelde gassen
+
+            Het ontstane ijzeroxide bestaat voornamelijk uit Fe2O3 en is opgevangen
+            in ruimte III. Dit Fe2O3 wordt vervolgens in een recyclingproces weer
+            omgezet tot ijzerpoeder. Deze terugwinning van ijzer is mogelijk door
+            Fe2O3 te laten reageren met waterstof. Hierbij ontstaan ijzer en water.
+
+2p    14    Geef de vergelijking voor de reactie van Fe2O3 met waterstof.
+
+            In het eerder weergegeven blokschema op de uitwerkbijlage ontbreekt
+            een blok voor het recyclingproces.
+
+2p    15    Maak op de uitwerkbijlage het blokschema compleet.
+             Teken een blok voor het recyclingproces.
+             Teken de pijlen van de ontbrekende stofstromen.
+             Noteer de nummers van de onderstaande stoffen bij de juiste pijlen.
+              1 ijzer
+              2 ijzeroxide
+              3 water
+              4 waterstof
+
+
+HA-1028-a-22-2-o                           7 / 15                           lees verder ►►►
+      BioGlue®
+
+            BioGlue® is een lijm die chirurgen gebruiken bij het repareren van de
+            wand van een bloedvat. BioGlue® bevat onder andere de stof
+            glutaaraldehyde. Glutaaraldehyde kan worden gemaakt door stof X te
+            laten reageren met zuurstof. De molecuulformule van stof X is C5H8. In
+            een molecuul van stof X zijn alle C-atomen gerangschikt in een ring.
+
+2p    16    Geef de structuurformule van stof X.
+
+            De werking van BioGlue® is onder andere gebaseerd op de reactie van de
+            stof glutaaraldehyde met (vrije) NH2-groepen in de restgroepen van
+            eiwitten.
+
+2p    17    Geef de 3-lettersymbolen van de vier aminozuren die een (vrije)
+            NH2-groep in de restgroep hebben.
+
+            In figuur 1 is de reactie van de C=O-groepen van glutaaraldehyde met
+            NH2-groepen weergegeven.
+
+            figuur 1
+
+
+
+
+            Wanneer glutaaraldehyde-moleculen reageren met NH2-groepen in de
+            restgroepen van een eiwit, ontstaan crosslinks. Op de uitwerkbijlage is de
+            reactievergelijking voor de vorming van een crosslink tussen twee
+            eiwitmoleculen met één glutaaraldehyde-molecuul schematisch en
+            onvolledig weergegeven.
+
+3p    18    Maak de reactievergelijking op de uitwerkbijlage compleet.
+
+
+
+
+HA-1028-a-22-2-o                            8 / 15                            lees verder ►►►
+            BioGlue® wordt geleverd in een spuit met twee compartimenten met
+            verschillende oplossingen (figuur 2). Wanneer de spuit wordt ingedrukt,
+            komen een glutaaraldehyde-oplossing en een oplossing van het eiwit
+            albumine in de juiste verhouding gemengd bij elkaar in de tip. De druppels
+            BioGlue® die uit de tip komen, moeten vrijwel meteen op de wond worden
+            aangebracht.
+
+            figuur 2
+
+
+
+
+            De wand van een bloedvat bevat veel eiwitten. Om een gescheurd
+            bloedvat te repareren, brengt een chirurg BioGlue® aan op de wanden van
+            het bloedvat en drukt deze wanden samen. Door de reactie van
+            glutaaraldehyde met albumine én met de eiwitten in de wand van het
+            bloedvat ontstaat een netwerk dat de scheur afdicht (figuur 3). Hierbij
+            wordt BioGlue® hard. Dit wordt uitharden genoemd.
+
+            figuur 3
+
+                         wand                                        wand
+                        bloedvat                                    bloedvat
+
+
+                                   G           G                G
+                                                                                 = albumine-molecuul
+                                   G               G            G
+                                          G                                      = eiwitmolecuul in bloedvat
+                                   G                                           G = glutaaraldehyde-molecuul
+                                                       G        G
+                                           G
+
+            gescheurd
+             bloedvat              uitvergroting van de scheur
+
+            Het kan gebeuren dat de chirurg te lang wacht voor hij de lijm aanbrengt
+            nadat glutaaraldehyde en albumine zijn gemengd. In dat geval hardt de
+            lijm wel uit, maar wordt de scheur niet goed afgedicht.
+
+2p    19    Geef een verklaring op microniveau waarom de scheur niet goed wordt
+            afgedicht wanneer de chirurg te lang wacht met het aanbrengen van de
+            lijm. Gebruik eventueel figuur 3.
+
+
+
+
+HA-1028-a-22-2-o                                       9 / 15                                    lees verder ►►►
+            Onderzoekers hebben de snelheid onderzocht waarmee de lijm uithardt.
+            Zij mengden gelijke hoeveelheden albumine met verschillende
+            hoeveelheden glutaaraldehyde. Vervolgens werd de uithardingstijd van de
+            lijm gemeten. In figuur 4 zijn de resultaten weergegeven.
+
+            figuur 4
+
+                              200
+            uithardingstijd
+              (seconden)
+                              150
+                                                                              massa albumine
+                              100                                       α=
+                                                                             massa glutaaraldehyde
+                               50
+
+                                0
+                                    0   5       10       15        20
+                                                                    α
+
+
+
+3p    20    Leg uit aan de hand van figuur 4 of de reactiesnelheid van het uitharden
+            van de lijm toeneemt of afneemt, wanneer een grotere hoeveelheid
+            glutaaraldehyde wordt toegevoegd.
+
+            Om een optimale afstemming te krijgen tussen de uithardingstijd en het
+            dichten van de scheur, is het compartiment met albumine-oplossing vier
+            maal zo groot als het compartiment met glutaaraldehyde-oplossing.
+
+3p    21    Bereken de massaverhouding waarin glutaaraldehyde en albumine
+            gemengd worden bij het gebruik van BioGlue®.
+            Noteer je antwoord als volgt:
+            massa glutaaraldehyde : massa albumine = 1,0 : …
+            Neem aan dat:
+             de albumine-oplossing 45 massaprocent albumine bevat en een
+               dichtheid heeft van 1,1 g mL–1;
+             de glutaaraldehyde-oplossing 10 massaprocent glutaaraldehyde bevat
+               en een dichtheid heeft van 1,0 g mL–1.
+
+
+
+
+HA-1028-a-22-2-o                            10 / 15                             lees verder ►►►
+      Alcohol in de auto
+
+            Een fabrikant heeft een elektrische auto ontwikkeld die rijdt op een
+            oplossing van ethanol (alcohol, C2H6O). Deze auto maakt in een
+            ‘reformer’ waterstofgas uit de ethanoloplossing. Vervolgens produceert
+            een zogenoemde ‘solid oxide-brandstofcel’ (SOFC) elektrische stroom uit
+            waterstofgas. De elektrische energie wordt opgeslagen in een batterij en
+            kan worden gebruikt voor het aandrijven van de motor. In figuur 1 is deze
+            energievoorziening schematisch en vereenvoudigd weergegeven.
+
+            figuur 1
+
+
+
+
+1p    22    Geef de structuurformule van ethanol.
+
+            In de reformer wordt de ethanoloplossing omgezet tot waterstofgas en
+            koolstofdioxide. Dit proces kan vereenvoudigd worden weergegeven met
+            onderstaande vergelijking.
+
+            C2H6O (l) + 3 H2O (l)  6 H2 (g) + 2 CO2 (g)               (reactie 1)
+
+3p    23    Bereken de reactiewarmte van reactie 1 in J per mol waterstof (bij
+            T = 298 K en p = p0). Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.
+
+2p    24    Bereken de atoomeconomie voor de vorming van waterstof volgens
+            reactie 1. Gebruik Binas-tabel 37H of ScienceData-tabel 1.7.7.
+
+
+
+
+HA-1028-a-22-2-o                           11 / 15                           lees verder ►►►
+            In figuur 2 is de SOFC schematisch weergegeven. De gevormde waterstof
+            reageert bij elektrode A van de SOFC. Bij elektrode B reageert zuurstof
+            uit de lucht. Hierbij treden de volgende halfreacties op:
+
+            elektrode A:   H2 + O2  H2O + 2 e ̶
+            elektrode B:   O2 + 4 e ̶  2 O2
+
+            figuur 2
+
+
+
+
+            In figuur 2 ontbreken de stoffen die halfcel B verlaten.
+
+1p    25    Geef de naam van een van deze stoffen. Neem aan dat O2 volledig
+            reageert.
+
+2p    26    Geef met behulp van de vergelijkingen van bovenstaande halfreacties de
+            vergelijking van de totale reactie.
+
+            De elektrolyt in de SOFC is vast en kan bestaan uit zirkoniumoxide (ZrO2)
+            waaraan een kleine hoeveelheid yttriumoxide (Y2O3) is toegevoegd. In
+            figuur 3 zijn de roosters van zuiver ZrO2 en van het mengsel van ZrO2 en
+            Y2O3 schematisch weergegeven.
+
+            figuur 3
+
+
+
+
+2p    27    Geef de naam van het type kristalrooster in figuur 3, en geef de naam van
+            het type binding tussen de samenstellende deeltjes.
+
+
+HA-1028-a-22-2-o                            12 / 15                         lees verder ►►►
+            Door de toevoeging van Y2O3 ontstaan lege plekken in het rooster van
+            ZrO2 die ‘gaten’ worden genoemd. De oorzaak hiervan is dat er per twee
+            Zr4+-ionen die worden vervangen door twee Y3+-ionen, één O2–-ion minder
+            nodig is in het rooster.
+
+2p    28    Leg deze oorzaak uit aan de hand van de ionladingen van de betrokken
+            ionen.
+
+            De wijze waarop de elektrolyt elektrische stroom geleidt, is als volgt:
+             De SOFC wordt verhit tot 600 °C.
+             Bij deze temperatuur kunnen O2–-ionen naar een volgende lege plek
+               springen.
+             Netto verplaatsen zich op deze manier O2–-ionen door de elektrolyt
+               heen, van de ene elektrode naar de andere elektrode.
+
+2p    29    Leg uit met behulp van de gegeven halfreacties in welke richting de O2–
+            -ionen zich tijdens de stroomlevering verplaatsen, van elektrode A naar
+            elektrode B of van B naar A.
+
+            Tijdens het rijden wordt vanuit de reformer CO2 uitgestoten (reactie 1).
+            Toch is onder een bepaalde voorwaarde het rijden met deze auto
+            CO2-neutraal.
+
+2p    30    Geef deze voorwaarde en licht toe waarom rijden met deze auto dan
+            CO2-neutraal is. Noteer je antwoord als volgt:
+            voorwaarde: …
+            toelichting: …
+
+            Er zijn ook auto’s die rijden op waterstofgas. Op grond van de
+            uitgangspunten van de groene chemie kunnen voordelen en nadelen van
+            een SOFC-auto ten opzichte van een waterstofauto worden gegeven.
+
+2p    31    Geef een voordeel en een nadeel van een SOFC-auto ten opzichte van
+            een waterstofauto.
+             Baseer je antwoord op twee van de volgende
+               uitgangspunten: 2, 8 of 12.
+             Gebruik Binas-tabel 97F of ScienceData-tabel 38.6.
+             Noteer je antwoord als volgt:
+               uitgangspunt: …         voordeel: …
+               uitgangspunt: …         nadeel: …
+
+
+
+
+HA-1028-a-22-2-o                           13 / 15                            lees verder ►►►
+      Bijensteek
+
+            Een bij steekt de mens alleen uit verdediging. Tijdens een bijensteek
+            wordt gif in het lichaam gespoten. Het gif bestaat uit water en een aantal
+            vaste stoffen. Deze vaste stoffen vormen het ‘drooggewicht’. De meest
+            voorkomende vaste stoffen in bijengif staan in tabel 1.
+
+            tabel 1
+
+            stoffen in bijengif massapercentage van het drooggewicht
+            mellitine            50%
+            fosfolipase A2       12%
+            histamine            9%
+
+            Tijdens de bijensteek wordt 50 µg gif in het lichaam gespoten.
+
+4p    32    Bereken hoeveel mol mellitine door een bijensteek in het lichaam
+            terechtkomt. Geef de uitkomst in het juiste aantal significante cijfers.
+            Gebruik onder andere de volgende gegevens:
+             Het gif bestaat voor 88 massaprocent uit water.
+             De molaire massa van mellitine is 2847 g mol–1.
+
+            Op de plaats van de bijensteek veroorzaken de eiwitten mellitine en
+            fosfolipase A2 schade aan celmembranen. Een fragment van een
+            gedeelte van mellitine is: ~ Leu – Pro – Ala ~.
+
+4p    33    Geef de structuurformule van dit fragment. Gebruik Binas-tabel 67H1 of
+            ScienceData-tabel 13.7c.
+
+            Celmembranen bestaan uit fosfolipidemoleculen. Een fosfolipidemolecuul
+            is opgebouwd uit een glycerolmolecuul dat is veresterd met twee
+            vetzuurmoleculen en een fosforzuurverbinding. Een voorbeeld van een
+            fosfolipidemolecuul dat in celmembranen voorkomt is in figuur 1
+            weergegeven.
+
+            figuur 1
+
+
+
+
+2p    34    Geef de namen van de twee vetzuren die in het fosfolipidemolecuul van
+            figuur 1 zijn veresterd. Gebruik Binas-tabel 67G2 of
+            ScienceData-tabel 13.2g.
+
+HA-1028-a-22-2-o                            14 / 15                           lees verder ►►►
+            Het enzym fosfolipase A2 uit bijengif bevordert de hydrolyse van
+            fosfolipidemoleculen. Op de uitwerkbijlage is de vergelijking van deze
+            hydrolyse onvolledig weergegeven. Op de uitwerkbijlage zijn de
+            koolstofatomen van het fosfolipidemolecuul genummerd. De hydrolyse
+            vindt uitsluitend plaats bij de estergroep aan het C-atoom met nummer 2.
+            De andere estergroepen blijven ongewijzigd.
+
+3p    35    Geef op de uitwerkbijlage, in structuurformules, de vergelijking van deze
+            hydrolyse. Geef het koolwaterstofgedeelte van het vetzuur op dezelfde
+            manier weer als in het fosfolipidemolecuul.
+
+1p    36    Geef een verklaring voor het feit dat bij deze reactie uitsluitend de
+            estergroep aan het C-atoom met nummer 2 wordt gehydrolyseerd.
+
+            Op de plaats van de bijensteek geven bepaalde lichaamscellen histamine
+            af. Deze histamine én de histamine uit bijengif veroorzaken de zwelling,
+            roodheid en jeuk. De structuurformule van histamine is hieronder
+            weergegeven.
+
+
+                                                       histamine
+
+
+
+
+            In het lichaam wordt histamine gemaakt uit het aminozuur histidine.
+            Hierbij ontstaat behalve histamine nog één ander deeltje.
+
+1p    37    Geef de molecuulformule van het andere deeltje. Gebruik
+            Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+            Op de internetsite www.bijenhouders.nl staat dat het innemen van een
+            antihistamine-tablet de gevolgen van een bijensteek kan beperken. Een
+            andere internetsite geeft het advies om de plaats van een bijensteek te
+            behandelen met zuiveringszout, omdat zuiveringszout reageert met gif.
+            Bijengif heeft namelijk een lage pH van 4,5 tot 5,5. Helaas is dit middel
+            niet effectief, omdat het zuiveringszout niet in de huid kan binnendringen
+            waardoor het niet in contact komt met het gif.
+
+2p    38    Geef met behulp van Binas-tabel 66A of ScienceData-tabel 10.2a de
+            formule van zuiveringszout en licht toe waarom zuiveringszout met
+            bijengif met een lage pH reageert.
+            Noteer je antwoord als volgt:
+            formule zuiveringszout: …
+            toelichting: …
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1028-a-22-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

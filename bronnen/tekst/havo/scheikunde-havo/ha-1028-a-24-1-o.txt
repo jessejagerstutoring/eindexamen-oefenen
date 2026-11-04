@@ -1,0 +1,655 @@
+                                                                    Examen HAVO
+
+                                                                          2024
+                                                                                 tijdvak 1
+                                                                       donderdag 16 mei
+                                                                        13.30 - 16.30 uur
+
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 34 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald kunnen
+worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg, berekening
+of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd. Als er
+bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen, dan
+worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-24-1-o
+      Toiletpapier wordt bio-ethanol
+
+
+            Een rioolwaterzuiveringsinstallatie zuivert rioolwater voordat het in het
+            oppervlaktewater wordt geloosd. Het rioolwater ondergaat daarbij een
+            reinigingsstap om cellulosevezels te verwijderen die afkomstig zijn uit
+            toiletpapier. Cellulosevezels lossen namelijk slecht op in water en zijn
+            lastig afbreekbaar. Bovendien kunnen deze vezels nuttig worden gebruikt
+            als grondstof voor de brandstof bio-ethanol.
+
+2p    1     Voer de volgende opdrachten uit:
+            – Geef de naam van de scheidingsmethode die kan worden toegepast om de
+               cellulosevezels te verwijderen uit het rioolwater.
+            – Geef aan op welk verschil in eigenschap deze methode berust.
+
+            De slechte oplosbaarheid van cellulosevezels in water wordt onder meer
+            veroorzaakt doordat cellulosemoleculen onderling stevig zijn gebonden door
+            middel van waterstofbruggen. Op de uitwerkbijlage zijn fragmenten van twee
+            cellulosemoleculen in structuurformule weergegeven.
+
+2p    2     Teken op de uitwerkbijlage twee waterstofbruggen die de twee
+            cellulosemoleculen met elkaar verbinden.
+            Geef de waterstofbruggen weer met stippellijntjes (• • •).
+
+            In deze opgave worden twee processen (A en B) vergeleken waarmee
+            cellulose uit toiletpapier kan worden omgezet tot bio-ethanol.
+
+            In proces A wordt cellulose met stoom verhit bij een temperatuur van 700 °C.
+            Hierbij ontstaat een mengsel van gassen. Nadat verontreinigingen zijn
+            verwijderd, blijft syngas over. Syngas is een mengsel van waterstof en
+            koolstofmono-oxide. Dit syngas wordt vervolgens door bacteriën in een
+            waterige omgeving via reactie 1 en reactie 2 omgezet.
+
+            6 CO + 3 H2O → C2H6O + 4 CO2                                           (reactie 1)
+
+            2 CO2 + 6 H2 → C2H6O + 3 H2O                                           (reactie 2)
+
+            Hierbij wordt alle CO2 die in reactie 1 ontstaat, bij reactie 2 gebruikt.
+            Daardoor komt de totale reactie neer op de omzetting van syngas tot
+            uitsluitend ethanol (C2H6O) en water. De vergelijking van de totale reactie kun
+            je opstellen door beide reacties in de juiste verhouding bij elkaar op te tellen.
+
+3p    3     Voer de volgende opdrachten uit:
+            – Tel beide reacties in de juiste verhouding bij elkaar op.
+            – Laat zien dat in de totale reactie uitsluitend ethanol en water ontstaan
+               en vereenvoudig je vergelijking.
+
+
+
+
+HA-1028-a-24-1-o                              2 / 15                              lees verder ►►►
+            Proces B maakt gebruik van een samenwerking tussen een bacterie en een
+            gist. Bij een temperatuur van 30 °C zorgt de bacterie voor de omzetting van
+            cellulose met water tot onder andere het sacharide cellotriose (C18H32O16).
+            De gist zet vervolgens cellotriose om tot ethanol en CO2 volgens reactie 3.
+
+            C18H32O16 + 2 H2O → 6 C2H6O + 6 CO2                                 (reactie 3)
+
+            De productie van ethanol volgens reactie 3 heeft een lage atoomeconomie.
+
+2p    4     Bereken de atoomeconomie voor de productie van ethanol volgens reactie 3.
+
+            Proces A en proces B kunnen met elkaar worden vergeleken volgens de
+            uitgangspunten van de groene chemie. Een nadeel van proces B is de lage
+            atoomeconomie van de productie van ethanol in reactie 3. Toch zijn er ook
+            uitgangspunten die in het voordeel van proces B uitvallen.
+
+1p    5     Geef een uitgangspunt van de groene chemie dat in het voordeel uitvalt van
+            proces B ten opzichte van proces A. Licht je antwoord toe.
+            – Kies uit de uitgangspunten: 6, 8, 9 en 12.
+            – Gebruik Binas-tabel 97F of ScienceData-tabel 38.6.
+
+
+
+
+HA-1028-a-24-1-o                             3 / 15                           lees verder ►►►
+      Koeien boeren methaan op
+
+
+            Koeien stoten gemiddeld 13 gram methaan per liter melk uit. Deze uitstoot
+            heeft een even groot ongewenst effect op het klimaat als 1,24 kilogram
+            koolstofdioxide.
+
+1p    6     Geef de naam van dit ongewenste effect.
+
+            Methaan ontstaat door reacties die plaatsvinden tijdens de spijsvertering bij de
+            koe. Als een koe gras eet, komt dit gras terecht in de maag die de pens wordt
+            genoemd. Gras bevat cellulose. In de pens van een koe leven verschillende
+            soorten micro-organismen die cellulose door hydrolyse afbreken tot onder meer
+            monosachariden en disachariden. Op de uitwerkbijlage is de vergelijking van
+            de hydrolyse van het uiteinde van een cellulosemolecuul onvolledig
+            weergegeven.
+
+3p    7     Maak op de uitwerkbijlage de reactievergelijking compleet van de hydrolyse
+            van cellulose.
+            – Laat hierbij één disacharidemolecuul afsplitsen.
+            – Gebruik structuurformules.
+
+            Een aantal soorten micro-organismen die in de pens leven, voorzien in hun
+            energiebehoefte door de afbraak van de monosacharide glucose. Een
+            voorbeeld hiervan is de reactie waarbij glucose en water worden omgezet tot
+            azijnzuur, koolstofdioxide en waterstof.
+
+4p    8     Geef de vergelijking van deze reactie in molecuulformules. Neem aan dat per
+            molecuul glucose twee moleculen azijnzuur ontstaan.
+
+            De waterstof die in de pens ontstaat, wordt met behulp van het enzym MCR,
+            dat in bepaalde micro-organismen voorkomt, vrijwel meteen omgezet tot
+            methaan. Hierbij treedt reactie 1 op.
+
+            4 H2 (g) + CO2 (g) → CH4 (g) + 2 H2O (l)                             (reactie 1)
+
+            Methaan neemt in de pens van de koe een groot volume in.
+
+4p    9     Bereken het volume in liters methaan dat gemiddeld per dag in een koe
+            ontstaat. Geef de uitkomst in het juiste aantal significante cijfers.
+            Gebruik hierbij de volgende gegevens:
+            – In een koe wordt gemiddeld per dag 165 gram H2 omgezet tot CH4 volgens
+                reactie 1.
+            – 1,0 mol methaan heeft (in een koe) een volume van 25 liter.
+
+
+
+
+HA-1028-a-24-1-o                             4 / 15                             lees verder ►►►
+            Koeien boeren methaan op of laten scheten van methaan, waardoor methaan
+            in de lucht terechtkomt. Men kan de hoeveelheid methaan die een koe met
+            boeren uitstoot, laten afnemen door aan het voer een kleine hoeveelheid van
+            de stof 3-NOP toe te voegen.
+
+            Door de aanwezigheid van 3-NOP wordt het enzym MCR minder werkzaam.
+
+1p    10    Geef een mogelijke verklaring voor het effect van 3-NOP op de werking van
+            MCR.
+
+            In een onderzoek werd aangetoond dat 3-NOP in pensvloeistof (maagsap)
+            langzaam maar volledig wordt omgezet tot het onschadelijke propaan-1,3-diol.
+
+2p    11    Geef de structuurformule van propaan-1,3-diol.
+
+
+
+
+HA-1028-a-24-1-o                            5 / 15                           lees verder ►►►
+      Zuurstofvanger
+
+
+            Om voorverpakt voedsel lange tijd te kunnen bewaren, is het belangrijk dat er
+            zo weinig mogelijk zuurstof in de verpakking aanwezig is. Daarom is
+            OxyGuardTM ontwikkeld: een verpakkingsmateriaal dat in staat is om zuurstof in
+            de verpakking ‘weg te vangen’ en zuurstof buiten de verpakking erbuiten te
+            houden. OxyGuardTM is opgebouwd uit verschillende lagen poly-etheen (PE),
+            een laag aluminium en een laag poly-ethyleentereftalaat (PET). In figuur 1 is
+            deze opbouw vereenvoudigd weergegeven.
+
+            figuur 1
+
+                                        binnenzijde verpakking
+                                           O2 O2        O2
+
+
+              zakje OxyGuardTM                                             A: PE met silica
+                                                                           B: PE met onder andere ijzerdeeltjes
+                                                                           C: PE
+                                                                           D: aluminium
+                                                                           E: PET
+             voedsel
+                                        O2      O2      O2
+                                        buitenzijde verpakking
+
+
+
+            Laag A, B en C (figuur 1) zijn gemaakt van PE. Deze lagen van PE worden
+            gemaakt door extruderen met drie extruders. Hierna volgt een proces waarbij
+            de gesmolten lagen door een verdeelstuk gaan en er een folie ontstaat die uit
+            drie lagen bestaat. Figuur 2 toont deze processen en de structuurformule van
+            PE.
+
+            figuur 2
+                                 toevoerbuis
+              extruder
+              voor laag A                                    verdeelstuk
+                                                                                         H H
+              extruder                                                                   C C
+              voor laag B                                                                H H         n
+                                                                                          PE
+              extruder
+              voor laag C
+
+                                                   koelrol
+
+
+
+                                                                                             folie
+
+2p    12    Leg uit dat PE verwerkt kan worden door extruderen. Gebruik in je uitleg de
+            structuurformule van PE.
+
+
+HA-1028-a-24-1-o                               6 / 15                                          lees verder ►►►
+            Laag B bevat behalve PE onder andere ijzerdeeltjes, waardoor deze laag de
+            zuurstof die in de verpakking zit, kan ‘wegvangen’ volgens reactie 1.
+
+            3 O2 (g) + 4 Fe (s) → 2 Fe2O3 (s)                                       (reactie 1)
+
+            Deze reactie verloopt bij lage vochtigheid zeer langzaam. Daarom bevat laag A
+            silica (SiO2). Silica is nodig om water aan laag A te laten binden om zo reactie 1
+            in laag B te versnellen. PE zelf kan namelijk geen water binden.
+
+2p    13    Leg uit dat de stof PE geen water kan binden. Gebruik in je uitleg de
+            structuurformule van PE.
+
+            De hoeveelheid water die per m2 verpakkingsmateriaal gebonden is, heeft
+            invloed op de hoeveelheid zuurstof die weggevangen kan worden. In figuur 3
+            staat dit verband in een diagram weergegeven.
+
+            figuur 3
+
+                          0,030
+              hoeveelheid
+            weggevangen O2
+              (cm3 cm−2)
+                          0,025
+
+
+
+
+                          0,020
+
+
+
+
+                          0,015
+
+
+
+
+                             0
+                                  0      1,0        1,5          2,0
+                                               hoeveelheid gebonden
+                                                       water (g m−2)
+
+            Onderzoekers maakten een rechthoekig zakje uit 2 stukjes van 6,5 bij 7,75 cm
+            van het verpakkingsmateriaal OxyguardTM. Nadat het zakje was gevuld met een
+            droog voedingsmiddel en was afgesloten, bevond zich nog 13,4 cm3 lucht in
+            het zakje. De lucht bevatte 20,9 volumeprocent zuurstof.
+
+4p    14    Voer de volgende opdrachten uit:
+            – Bereken het volume zuurstof in cm3 in de 13,4 cm3 lucht in het zakje.
+            – Laat met een berekening zien of het verpakkingsmateriaal al deze zuurstof
+               kan wegvangen. Gebruik figuur 3 en het gegeven dat het gebruikte
+               verpakkingsmateriaal 1,40 g m–2 gebonden water bevatte. Noteer de
+               afgelezen waarde in drie significante cijfers.
+
+
+HA-1028-a-24-1-o                               7 / 15                            lees verder ►►►
+            Laag D en E van OxyGuardTM dienen ter versteviging. Laag D, gemaakt van
+            aluminium, laat geen zuurstof van buitenaf door. Laag E bestaat uit het
+            ketenpolymeer PET. De ketens van PET zijn hydrofoob. PET en aluminium zijn
+            beide niet poreus. Toch kan PET wel zuurstofmoleculen doorlaten en
+            aluminium (Al) niet.
+
+2p    15    Leg uit waarom aluminium geen zuurstofmoleculen kan doorlaten en PET wel.
+            Gebruik in je uitleg de relevante bindingstypen.
+            Noteer je antwoord als volgt:
+            bindingstype PET: …
+            bindingstype Al: …
+            uitleg: …
+
+            Verpakkingen van OxyGuardTM kunnen na gebruik niet worden verwerkt tot
+            nieuwe verpakkingen van OxyGuardTM.
+
+1p    16    Geef een reden waarom dat zo is.
+
+
+
+
+HA-1028-a-24-1-o                           8 / 15                           lees verder ►►►
+      Lithium-ion-accu’s recyclen
+
+
+            In steeds meer elektrische voertuigen zitten lithium-ion-accu’s (LIA’s). Daardoor
+            neemt ook het afval van afgedankte LIA’s toe. Afgedankte LIA’s moeten apart
+            ingezameld worden. De elektrolytvloeistof bevat namelijk de stof LiPF6, die
+            gemakkelijk reageert met water. Bij deze reactie ontstaan lithiumfluoride en de
+            giftige stoffen waterstoffluoride (HF) en fosforylfluoride (POF3).
+
+3p    17    Geef de vergelijking van deze reactie van LiPF6 met water.
+
+            De ingezamelde LIA’s kunnen worden gerecycled, om zo min mogelijk metalen
+            verloren te laten gaan. Figuur 1 toont de samenstelling van een bepaald type
+            LIA met aluminium behuizing.
+
+            figuur 1
+                                                 19% grafiet
+                                                 (negatieve elektrode)
+            33% actieve stof
+            (positieve elektrode)
+
+
+
+                                                         11% koper
+
+
+
+
+                   18% aluminium                   15% elektrolytvloeistof
+                   (inclusief behuizing)
+                                           4% plastics
+
+
+            De positieve elektrode van dit type LIA bevat een actieve stof met
+            lithium-ionen, nikkel-ionen, mangaan-ionen en kobalt-ionen.
+            De verhoudingsformule kan als volgt worden genoteerd:
+            LiNi0,80Mn0,10Co0,10O2.
+
+2p    18    Bereken de molaire massa in gram per mol van LiNi0,80Mn0,10Co0,10O2.
+
+            Afgedankte LIA’s zijn vaak nog deels opgeladen. Voordat de LIA’s worden
+            gerecycled, worden ze ontladen. Dit kan door ze in een oplossing van
+            natriumchloride in water te leggen. Beide elektroden moeten contact maken
+            met de oplossing.
+
+2p    19    Leg uit waarom de LIA niet ontlaadt in zuiver water, maar wel in water met
+            opgelost natriumchloride. Verwerk in je uitleg het soort deeltjes dat hierbij een
+            rol speelt.
+
+
+
+
+HA-1028-a-24-1-o                              9 / 15                              lees verder ►►►
+            Het Belgische bedrijf Umicore heeft een proces ontwikkeld om nikkel en kobalt
+            terug te winnen uit LIA’s. Dit proces maakt gebruik van een oven met drie
+            temperatuurzones (vereenvoudigd weergegeven in figuur 2).
+            De LIA’s worden samen met zand, aluminiumoxide en ongebluste kalk van
+            bovenaf in de oven gebracht. In elke zone vindt een ander onderdeel van het
+            recyclingproces plaats. De gassen die in zone 1, 2 en 3 ontstaan, stijgen op en
+            worden verzameld voor verdere reiniging. Gedurende het verblijf in de oven
+            zakken vaste stoffen en vloeistoffen naar beneden en komen ze in een steeds
+            hetere omgeving.
+
+            figuur 2
+            30-50% LIA’s            toevoer lucht   afvoer
+            zand                    met extra O2    gassen
+            aluminiumoxide
+            ongebluste kalk
+
+
+
+
+                                    {
+            zone 1
+            T < 300 °C
+            (elektrolyt verdampt)
+
+
+
+                                    {
+            zone 2
+            T ≈ 700 °C
+            (plastics ontleden)
+            zone 3
+            T = 1200 -1400 °C
+            (behuizing reageert)    {
+                                                             afvoer
+                                                             vaste stoffen en
+                                                             gesmolten metalen
+
+
+
+
+            Op de uitwerkbijlage staat een tabel over aluminium.
+
+2p    20    Vul de vier ontbrekende gegevens aan in de tabel op de uitwerkbijlage en geef
+            aan in welke fase de stof aluminium zich bevindt in zone 2. Gebruik figuur 2 en
+            Binas-tabel 40a of ScienceData-tabel 8.1.
+
+
+
+
+HA-1028-a-24-1-o                                      10 / 15                    lees verder ►►►
+            De hoge temperatuur in zone 3 wordt bereikt door de exotherme reactie tussen
+            aluminium en zuurstof (reactie 1).
+
+            4 Al + 3 O2 → 2 Al2O3                                                  (reactie 1)
+
+            Op de uitwerkbijlage is het energiediagram van reactie 1 onvolledig
+            weergegeven. In dit energiediagram ontbreekt het niveau van het
+            reactieproduct.
+
+3p    21    Voer op de uitwerkbijlage de volgende opdrachten uit:
+            – Bereken de reactiewarmte (∆E) in J per 4 mol aluminium van reactie 1.
+               Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.
+            – Teken in het energiediagram het ontbrekende energieniveau van
+               aluminiumoxide, met bijschrift.
+            – Geef ∆E op de juiste plaats in het energiediagram aan.
+
+            Aan de onderkant van de oven stroomt een mengsel van vaste stoffen
+            (Li2CO3 en Al2O3) en een vloeibare legering van koper, kobalt en nikkel naar
+            buiten. De vaste stoffen drijven op de vloeibare legering en kunnen gescheiden
+            worden van de legering. Dit kan worden opgevat als bezinken.
+
+1p    22    Geef aan op welk verschil in stofeigenschap de scheidingsmethode bezinken
+            berust.
+
+            De legering van koper, kobalt en nikkel wordt vervolgens na enkele
+            extractie‑stappen gebruikt om nieuwe actieve stof voor de positieve elektrode
+            te maken. Een voorbeeld van zo’n stap is een behandeling met zoutzuur.
+            Hierbij reageert zoutzuur met kobalt tot waterstofgas en een oplossing met
+            Co2+-ionen en Cl–-ionen.
+
+3p    23    Geef de vergelijking van deze reactie van zoutzuur met kobalt.
+
+
+
+
+HA-1028-a-24-1-o                            11 / 15                               lees verder ►►►
+      Plastic wordt olie
+
+
+            Amerikaanse onderzoekers hebben een nieuwe methode           figuur 1
+            bedacht om moeilijk recyclebaar plasticafval om te zetten
+            tot olie. Voor het testen van hun methode gebruikten de          CH3 H
+            onderzoekers polypropeen (PP, zie figuur 1).                     C C
+            De onderzoekers gebruikten een proces waarin bij hoge            H H n
+            temperatuur (380 - 450 °C) en hoge druk steeds 1,0 g         polypropeen (PP)
+            van de vaste stof PP in een reactor in contact wordt
+            gebracht met water. Het water reageert hierbij niet. Onder
+            de genoemde omstandigheden in de reactor ontleden PP-moleculen tot
+            kleinere moleculen. Het gebruikte batchproces bestaat uit de volgende
+            stappen:
+
+            stap 1:	PP en water worden in een reactor gebracht. Door vervolgens de
+                     temperatuur en de druk te verhogen ondergaat PP diverse reacties.
+            stap 2:	De reactor wordt afgekoeld en de ontstane gassen worden afgevoerd.
+                     In de reactor ontstaat een mengsel van olie, water en een vaste stof.
+                     Deze vaste stof bestaat ook uit PP. Maar de gemiddelde
+                     molecuulmassa is lager dan het PP dat de reactor ingaat.
+            stap 3:	Het reactormengsel wordt in scheidingsruimte S1 gefiltreerd, waardoor
+                     de vaste stof wordt afgescheiden.
+            stap 4:	Het filtraat wordt in scheidingsruimte S2 verder gescheiden.
+
+            Op de uitwerkbijlage is dit proces gedeeltelijk weergegeven.
+
+3p    24    Maak het blokschema op de uitwerkbijlage compleet.
+            – Teken de twee ontbrekende blokken van scheidingsruimten S1 en S2.
+            – Teken de pijlen van de ontbrekende stofstromen.
+            – Noteer de nummers van de onderstaande stoffen bij de juiste pijlen:
+               1 gassen
+               2 olie
+               3 vaste stof
+               4 water
+            – Sommige nummers moet je meer dan één keer gebruiken.
+
+            De onderzoekers wilden weten of de vaste stof (PP) die S1 verlaat, kan worden
+            gebruikt om de olie-opbrengst te vergroten.
+
+2p    25    Voer de volgende opdrachten uit:
+            – Geef aan welke handeling(en) de onderzoekers moeten verrichten om te
+               onderzoeken of de vaste stof gebruikt kan worden om de olie-opbrengst te
+               vergroten.
+            – Geef aan welk resultaat zou betekenen dat de vaste stof gebruikt kan worden
+               om de olie-opbrengst te vergroten.
+
+
+
+
+HA-1028-a-24-1-o                             12 / 15                            lees verder ►►►
+            Om de invloed te onderzoeken van reactietemperatuur en reactietijd op de
+            opbrengst en samenstelling van de reactieproducten, werden verschillende
+            experimenten uitgevoerd bij temperaturen tussen 380 °C en 450 °C en
+            reactietijden tussen 0,5 en 4 uur. Na afloop van elk experiment werd de
+            opbrengst aan vaste stof, olie en gassen bepaald. In figuur 2 zijn de resultaten
+            in drie diagrammen weergegeven.
+
+            figuur 2
+                   A                                           B
+            opbrengst 100               T = 380 °C          opbrengst 100                  T = 400 °C
+            (massa%)                                        (massa%)
+                       80                                              80
+
+                       60                                              60
+
+                       40                                              40
+                       20                                              20
+                        0                                               0
+                            0   1   2       3      4                        0   1      2       3      4
+                                         tijd (uren)                                        tijd (uren)
+                   C
+            opbrengst 100               T = 450 °C
+            (massa%)
+                       80                                   legenda
+
+                       60                                          olie
+                                                                   gas
+                       40                                          vaste stof (PP en PP-fragmenten)
+                       20
+                        0
+                            0   1   2       3      4
+                                         tijd (uren)
+
+3p    26    Verklaar aan de hand van het botsende-deeltjesmodel het verschil in
+            olie‑opbrengst tussen diagram A en B na een reactietijd van 4 uur.
+
+            Uit de resultaten in diagram C leidden de onderzoekers af dat bij 450 °C
+            en een langere reactietijd een deel van de gevormde olie ontleedt.
+
+2p    27    Leg dit uit aan de hand van diagram C.
+
+            Een bestanddeel van de ontstane olie is hexaan. Hexaan kan ontleden tot
+            etheen en ethaan.
+
+3p    28    Geef de reactievergelijking in molecuulformules voor de ontleding van hexaan
+            waarbij uitsluitend de reactieproducten etheen en ethaan ontstaan.
+
+
+
+
+HA-1028-a-24-1-o                                  13 / 15                                    lees verder ►►►
+      Ademende flowbatterij
+
+
+            Steeds meer elektrische energie wordt duurzaam opgewekt, bijvoorbeeld met
+            behulp van zonnecellen. Hierdoor stijgt de vraag naar betaalbare opslag van
+            energie. Een Amerikaans onderzoeksteam onder leiding van professor Chiang
+            heeft daarom een ‘flowbatterij’ ontwikkeld op basis van goedkope stoffen zoals
+            natriumpolysulfide (Na2S4).
+
+2p    29    Geef het aantal protonen en elektronen in het S42–-ion.
+            Noteer je antwoord als volgt:
+            aantal protonen: …
+            aantal elektronen: …
+
+            In figuur 1 is de flowbatterij schematisch weergegeven.
+
+            figuur 1
+
+                                    halfcel A                 halfcel B
+
+
+                    zuurstofdoorlatend
+                        membraan
+
+
+
+                                      elektrode A     elektrode B
+
+             voorraadvat A                                                       voorraadvat B
+                                    H2O                         S42
+                                      O2        Na+   Na+
+                                                                S22
+                                        H+
+
+                             pomp                                         pomp
+                                             Na+-doorlatend
+                                               membraan
+
+
+            De twee halfcellen A en B zijn ieder verbonden met een voorraadvat en zijn van
+            elkaar gescheiden door een membraan dat Na+-ionen doorlaat. Tijdens het
+            gebruik van de flowbatterij worden de oplossingen uit de voorraadvaten langs
+            de elektroden gepompt (de ‘flow’). De elektroden reageren zelf niet mee.
+            Wanneer de batterij nog niet is opgeladen, bevatten halfcel A en het daarop
+            aangesloten voorraadvat A een oplossing van natriumsulfaat en zwavelzuur.
+            Halfcel B en het daarop aangesloten voorraadvat B bevatten in niet opgeladen
+            toestand een natriumpolysulfide-oplossing.
+
+
+
+
+HA-1028-a-24-1-o                                      14 / 15                                    lees verder ►►►
+             Om nevenreacties te voorkomen, wordt de pH in halfcel B verhoogd.
+             Hiervoor is 3,0 M natriumhydroxide-oplossing gebruikt.
+
+2p    30     Bereken de pH van de gebruikte natriumhydroxide-oplossing (T = 298 K).
+
+             Tijdens het opladen treden de volgende halfreacties op:
+             elektrode A: 2 H2O → O2 + 4 H+ + 4 e–                                                            (halfreactie 1)
+             elektrode B: S42– + 2 e– → 2 S22–                                                                (halfreactie 2)
+
+1p    31     Geef de vergelijking van de totale reactie die optreedt tijdens het opladen van
+             de flowbatterij.
+
+2p    32     Leg uit of de pH van de oplossing bij elektrode A door het opladen hoger of
+             lager wordt.
+
+             Chiang stelt dat deze batterij als het ware zuurstof in- en uitademt.
+
+2p    33     Leg uit of de batterij tijdens het leveren van energie zuurstof inademt of juist
+             uitademt. Doe dit aan de hand van een gegeven uit de halfreacties.
+
+             Een van de halfcellen van de flowbatterij bevat een membraan waardoor
+             zuurstof kan passeren. Dit membraan bestaat onder andere uit een poreuze
+             koolstoflaag die is gemaakt door het polymeer PAN te verkolen. In figuur 2 is
+             de structuurformule van een gedeelte uit het midden van een PAN-molecuul
+             weergegeven. De bindingsstreepjes tussen het C-atoom en het N-atoom zijn
+             niet weergegeven.
+
+             figuur 2
+                        H            H             H
+                   CH2 C     CH2     C     CH2     C
+                        CN            CN           CN
+
+                                 PAN
+
+
+3p    34     Geef de structuurformule van het monomeer waaruit PAN is gevormd. Zorg dat
+             ook de ontbrekende bindingsstreepjes tussen het C-atoom en het N-atoom zijn
+             weergegeven.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende
+correctievoorschrift.
+
+
+HA-1028-a-24-1-o                                             15 / 15                                                        einde ■
+

@@ -1,0 +1,488 @@
+                                                                    Examen VWO
+
+                                                                        2018
+                                                                               tijdvak 2
+                                                                        dinsdag 19 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+Maak zo nodig gebruik van Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 26 vragen.
+Voor dit examen zijn maximaal 67 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-18-2-o
+      Mauveïne
+
+            In 1856 probeerde William Perkin kinine, een medicijn tegen malaria, te
+            synthetiseren. Hij verkreeg geen kinine maar een mengsel met een
+            paarse kleur. In de reactie was een paarse kleurstof gevormd, die later
+            geschikt bleek om textiel te verven. Perkin noemde deze stof mauveïne
+            en deze toevallige ontdekking werd een mijlpaal in de geschiedenis van
+            de textielverf.
+            In 1994 onderzocht men de samenstelling van de paarse kleurstof uit
+            verschillende historische textielmonsters. De kleurstof bleek een mengsel
+            te zijn van verwante verbindingen, waaronder mauveïne A, B, B2 en C.
+            Perkins gebruikte voor de synthese drie organische beginstoffen en een
+            oxidator. Hieronder zijn de structuurformules van de organische
+            beginstoffen weergegeven.
+
+                    aniline          o-toluïdine          p-toluïdine
+                         NH2                   NH2                   NH2
+                                      H3C
+
+
+                                                                     CH3
+
+
+
+            Op de uitwerkbijlage is de structuurformule van mauveïne B
+            weergegeven. In de structuur van mauveïne B is de oorspronkelijke
+            structuur van de drie organische beginstoffen te herkennen.
+
+2p    1           Omcirkel op de uitwerkbijlage de delen van het molecuul mauveïne B
+                   die afkomstig zijn van een van de organische beginstoffen.
+                  Noteer bij elk omcirkeld deel de naam van de betreffende beginstof.
+
+            In het onderzoek van de monsters mauveïne is gebruikgemaakt van
+            chromatografie. De onderzoekers gebruikten daarbij een hydrofobe
+            stationaire fase en methanol als mobiele fase.
+            De structuurformules van de drie stoffen die het meest in het paarse
+            mengsel aanwezig zijn, zijn hieronder weergegeven.
+
+                                                         CH3                                  CH3
+            H3C           N             H 3C         N                     H3C          N
+
+            H2N           N    NH       H 2N         N         NH          H2N          N           NH
+
+
+
+            mauveïne A         CH3      mauveïne B             CH3         mauveïne C   CH3         CH3
+
+
+2p    2     Leg aan de hand van de structuurformules uit welke van deze drie
+            mauveïnes de grootste retentietijd heeft in dit experiment.
+
+
+
+
+VW-1028-a-18-2-o                                     2 / 11                                               lees verder ►►►
+            Van het mengsel van mauveïnes van Perkin is een massaspectrum
+            gemaakt. Met de gebruikte techniek zagen de onderzoekers alleen de
+            pieken van de molecuulionen van de mauveïnes. De gegevens van de
+            mauveïnes A, B en C afkomstig uit het massaspectrum zijn in
+            onderstaande tabel gegeven.
+
+            tabel
+                              A         B        C
+              m/z-waarde     390        405     420
+              intensiteit    94         100      77
+
+2p    3     Bereken de massaverhouding waarin de mauveïnes A, B en C in het
+            mengsel van Perkin aanwezig waren. Geef je antwoord als volgt weer:
+            1,0 g A : …... g B : …… g C
+
+            De onderzoekers hebben mauveïne B2, een isomeer van mauveïne B, op
+            microschaal gesynthetiseerd. Een molecuul mauveïne B2 wordt gevormd
+            uit één molecuul aniline, één molecuul o-toluïdine en twee moleculen
+            p-toluïdine.
+            Zij hebben hiertoe 60 μL aniline, 60 μL o-toluïdine en 120 μL p-toluïdine
+            laten reageren. Ze verkregen 12 mg mauveïne B2.
+            De molaire massa van mauveïne B2 is 406 g mol–1.
+
+4p    4     Bereken het rendement van deze synthese.
+            Maak onder andere gebruik van de volgende gegevens:
+                                              aniline    o-toluïdine   p-toluïdine
+                            –1
+              dichtheid (g mL )               1,022         1,01          1,05
+                                   –1
+              molaire massa (g mol )           93,1         107           107
+
+            Bij nader onderzoek naar de structuur van de moleculen bleek dat
+            mauveïne A in twee vormen voorkomt. Deze vormen kunnen worden
+            opgevat als een cis- en een trans-isomeer.
+            Op de uitwerkbijlage is de Lewisstructuur gegeven van mauveïne A en de
+            onvolledige Lewisstructuur van een andere grensstructuur.
+            In deze grensstructuur is de positieve lading verplaatst naar een ander
+            N atoom. In het molecuul is dan ook een andere C=N binding aanwezig.
+            Met behulp van deze grensstructuur kan het bestaan van cis-trans-
+            isomerie in mauveïne A worden verklaard.
+
+3p    5     Maak op de uitwerkbijlage de onvolledige Lewisstructuur compleet met
+            elektronenparen en formele lading(en).
+2p    6     Geef een verklaring dat bij mauveïne A cis-trans-isomerie mogelijk is.
+
+
+
+
+VW-1028-a-18-2-o                                3 / 11                               lees verder ►►►
+      Stroom uit hout
+
+            In brandstofcellen die glucose of zetmeel gebruiken als energiebron
+            worden enzymen gebruikt. Zo kan amylose in zetmeel met behulp van
+            enzymen door hydrolyse worden omgezet tot glucose. Andere enzymen
+            zetten vervolgens de glucose om.
+            Op de uitwerkbijlage is de onvolledige reactievergelijking weergegeven
+            van de gedeeltelijke hydrolyse van amylose.
+
+3p    7     Maak op de uitwerkbijlage de reactievergelijking af van de gedeeltelijke
+            hydrolyse van amylose, waarbij van het weergegeven fragment twee
+            moleculen glucose worden afgesplitst. Geef koolstofverbindingen weer
+            met structuurformules.
+
+            Wetenschappers hebben een brandstofcel voor biomassa ontwikkeld
+            waarin geen enzymen worden gebruikt. Met deze brandstofcel kan
+            energie worden opgewekt uit biomassa waarvoor geen geschikte
+            enzymen bestaan. In het onderzoek naar een geschikte brandstofcel is
+            gebruikgemaakt van ammonium-12-molybdofosfaat.
+            De verhoudingsformule van deze stof is (NH4)3 PO4 (MoO3)12.
+            Ammonium-12-molybdofosfaat wordt gemaakt door ammonium-
+            orthomolybdaat ((NH4)2 MoO4) te verhitten in aanwezigheid van
+            fosforzuur en salpeterzuur. Als bijproducten ontstaan waterdamp en
+            ammoniumnitraat.
+
+3p    8     Geef de reactievergelijking voor het maken van
+            ammonium-12-molybdofosfaat.
+            Gebruik Binas-tabel 66B of ScienceData-tabel 10.2.b.
+
+            In oplossingen van ammonium-12-molybdofosfaat komen ionen
+            PO4 (MoO3)123– voor. Een ion PO4 (MoO3)123– wordt in de rest van deze
+            opgave voorgesteld als POM3–.
+            Het deeltje POM3– kan worden beschouwd als een fosfaat-ion dat wordt
+            omringd door twaalf eenheden molybdeen(VI)oxide (MoO3). Elke eenheid
+            MoO3 bestaat uit drie oxide-ionen en een Mo(VI)-ion.
+            Onder invloed van licht wordt een deeltje POM3– omgezet tot het zeer
+            reactieve deeltje rPOM3–, dat snel reageert met allerlei organische
+            stoffen. De structuur van POM3– en rPOM3– is gelijk, de deeltjes
+            verschillen alleen in de verdeling van de elektronen binnen het deeltje.
+            Bij de omzetting van POM3– tot rPOM3– wordt binnen een eenheid MoO3
+            één elektron van één oxide-ion overgedragen naar de N-schil van één
+            Mo(VI)-ion.
+
+3p    9     Geef op de uitwerkbijlage de opbouw van de elektronenwolk van het
+            omgezette oxide-ion en het omgezette molybdeen-ion in het reactieve
+            deeltje rPOM3–. Gebruik het Periodiek Systeem uit je informatieboek.
+
+
+
+VW-1028-a-18-2-o                            4 / 11                            lees verder ►►►
+            In hout is onder andere het biopolymeer lignine aanwezig. Lignine is een
+            netwerkpolymeer dat in brandstofcellen niet kan worden omgezet met
+            enzymen. Met het gebruikte ammonium-12-molybdofosfaat kan lignine wel
+            worden omgezet, zodat zelfs houtafval kan worden gebruikt in een
+            brandstofcel. Op de uitwerkbijlage is een van de optredende omzettingen
+            weergegeven. In stap 1 treedt oxidatie van lignine op. In stap 2 wordt het
+            omcirkelde H atoom als een H+ ion afgesplitst. Tevens wordt dan een
+            C–C binding verbroken en een H+ ion opgenomen. Dit H+ ion is
+            weergegeven in het kader.
+
+2p   10     Geef op de uitwerkbijlage in het omkaderde deel met pijlen aan hoe
+            elektronenparen zich verplaatsen.
+
+            In onderstaande figuur is de gebruikte opstelling schematisch
+            weergegeven. In een lichtdoorlatende reactor heeft men biomassa
+            gemengd met ammonium-12-molybdofosfaat. De reactor is vervolgens in
+            zonlicht geplaatst, zodat POM3– onder invloed van licht wordt omgezet
+            tot rPOM3–. Het rPOM3– reageert met de biomassa, waarbij onder
+            andere H3POM3– en CO2 worden gevormd.
+
+            figuur
+
+             reactor       zonlicht                        brandstofcel
+                       _              _
+               POM3          rPOM3                             POM3
+                                                                     _
+                                                                          H2O
+                                          _
+               biomassa         rPOM3                                 _
+                                                             H3POM3       O2
+                                              _
+                   CO2          H3POM3                               H+
+
+
+            Na verloop van tijd wordt het mengsel door de brandstofcel gepompt.
+            Het in de reactor ontstane H3POM3– wordt in de brandstofcel weer
+            omgezet tot POM3–.
+
+3p   11     Geef de vergelijkingen van de halfreacties die verlopen in de brandstofcel
+            en geef de totaalvergelijking.
+
+            In het onderzoek is een hoeveelheid verdunde biomassa gemengd met
+            20 mL van een 0,25 M oplossing ammonium-12-molybdofosfaat.
+            Nadat dit mengsel enige tijd in het zonlicht had gestaan, bleek dat 80%
+            van alle rPOM3– was omgezet tot H3POM3–. Het mengsel werd door de
+            brandstofcel gepompt tot alle ontstane H3POM3– weer was omgezet tot
+            POM3–. De brandstofcel leverde gedurende 30 minuten een gemiddelde
+            stroomsterkte van 0,530 A.
+
+4p   12     Bereken hoeveel procent van de elektronen die rPOM3– van de biomassa
+            heeft opgenomen, door H3POM3– is afgestaan in de brandstofcel. Maak
+            onder andere gebruik van de volgende gegevens:
+             1 A = 1 C s–1
+             een mol elektronen heeft een lading van 9,65·104 C.
+
+
+VW-1028-a-18-2-o                                  5 / 11                        lees verder ►►►
+      Haarverf
+
+            Haarverf moet hechten aan het haar, daarom
+            is kennis van de moleculaire structuur van
+            een haar belangrijk.
+            De buitenkant van een haar bestaat uit
+            schubben die de haar compleet bedekken.
+            Aan het oppervlak van deze schubben zijn
+            moleculen van het vetzuur 18-MEA gebonden
+            aan het eiwit keratine.
+
+            O
+
+              HO       18-MEA
+
+            18-MEA is aan keratine gebonden door middel van een thio-esterbinding.
+            Deze binding is ontstaan door een condensatiereactie tussen moleculen
+            18-MEA en SH groepen van cysteïne-eenheden in keratinemoleculen.
+            Deze reactie verloopt op dezelfde wijze als de condensatie van een zuur
+            en een alcohol.
+
+3p   13     Geef de structuurformule van een cysteïne-eenheid waaraan 18-MEA is
+            gebonden door middel van een thio-esterbinding. De cysteïne-eenheid
+            moet afkomstig zijn uit het midden van een peptideketen. Gebruik voor de
+            koolwaterstofrest van 18-MEA de notatie CxHy met de juiste getalwaarden
+            voor x en y.
+
+            Haarverf heeft een hoge pH. Bij deze hoge pH zwellen bepaalde delen
+            van keratine op en dringen pigmentmoleculen tot diep in een haar door.
+            Onderzoekers vermoeden dat het opzwellen van delen van keratine wordt
+            veroorzaakt doordat in de betrokken peptideketens relatief veel
+            aminozuureenheden met zure restgroepen aanwezig zijn.
+
+2p   14     Leg uit op microniveau dat de aanwezigheid van aminozuureenheden met
+            zure restgroepen bijdraagt aan het opzwellen van keratine bij hoge pH.
+
+
+
+
+VW-1028-a-18-2-o                           6 / 11                          lees verder ►►►
+            Voordat haarverf wordt aangebracht, behandelt men soms het haar met
+            waterstofperoxide (H2O2). Tijdens deze behandeling treden allerlei
+            redoxreacties op, die leiden tot veranderingen in de structuur van de
+            peptideketens in keratine.
+            Op de uitwerkbijlage is de halfreactie van de peptideketen in keratine
+            onvolledig weergegeven. In de andere halfreactie wordt H2O2 omgezet
+            tot OH–.
+
+3p   15     Maak op de uitwerkbijlage de onvolledige halfreactie compleet en geef
+            met behulp van de vergelijking van de halfreactie van H2O2 de
+            totaalreactie.
+            Gebruik Binas-tabel 48 of ScienceData-tabel 9.1.f.
+
+2p   16     Leg uit of door de op de uitwerkbijlage weergegeven omzetting de
+            primaire, de secundaire of de tertiaire structuur van de peptideketen in
+            keratine verloren gaat.
+
+            Een doosje permanente haarverf bevat twee flesjes, die de gebruiker
+            mengt vlak voordat hij de verf aanbrengt. Tijdens het aanbrengen en het
+            intrekken van het mengsel ontstaan pas de uiteindelijke kleurpigmenten.
+            Veelgebruikte componenten van haarverf zijn p-fenyleendiamine (PPD) en
+            waterstofperoxide. PPD wordt door waterstofperoxide omgezet tot stof B.
+            Stof B is een zwakke base. Bij de heersende pH is een klein deel van
+            stof B aanwezig als het geconjugeerde zuur (HB+).
+            In onderstaande figuur zijn de omzetting van PPD tot stof B en het
+            evenwicht tussen stof B en HB+ weergegeven.
+
+            figuur
+
+                                                                            H       H
+                       NH2                        NH                            N
+            H          C       H   2 H+   H       C        H            H       C       H
+                   C       C                  C       C            H+       C       C
+                   C       C                  C       C                     C       C
+            H          C       H          H       C        H            H       C       H
+                       NH2                        N                             N
+                                              H                             H
+            PPD                                       stof B                        HB+
+
+
+            Het deeltje HB+ is een sterk elektrofiel deeltje dat een rol speelt in het
+            verdere mechanisme van de vorming van de uiteindelijke pigmenten.
+
+2p   17     Maak de grensstructuur van HB+ op de uitwerkbijlage af en geef een
+            andere grensstructuur voor HB+. Gebruik Lewisstructuren.
+
+
+
+
+VW-1028-a-18-2-o                                          7 / 11                            lees verder ►►►
+            Door de hoge pH van haarverf is slechts een klein deel van stof B
+            aanwezig als HB+. De Kz van HB+ is 1,8·10–6.
+
+4p   18     Bereken hoeveel procent van de deeltjes B en HB+ aanwezig is als HB+
+            bij pH = 9,50 (T = 298 K).
+
+            In een bepaalde soort haarverf is behalve PPD ook de stof 3-aminofenol
+            aanwezig. PPD en 3-aminofenol ondergaan opeenvolgende additie- en
+            oxidatie-reacties. Op de uitwerkbijlage zijn de verlopende reacties
+            weergegeven.
+            Het mengsel met PPD en 3-aminofenol leidt tot een bruinrode haarkleur.
+            Het is ook mogelijk om een paarsrood pigment, stof 2, te verkrijgen.
+            Hiertoe wordt een andere beginstof gekozen dan 3-aminofenol.
+            Wanneer in het molecuul 3-aminofenol een H atoom aan de benzeenring
+            is vervangen door een CH3 groep, wordt uitsluitend stof 2 gevormd.
+            De C atomen van 3-aminofenol op de uitwerkbijlage zijn genummerd.
+
+2p   19     Leg uit op welk C atoom van 3-aminofenol de methylgroep zich moet
+            bevinden, zodat uitsluitend stof 2 wordt gevormd.
+            Neem aan dat de aanwezigheid van de methylgroep de kleur van dit
+            pigment niet verandert.
+
+
+
+
+VW-1028-a-18-2-o                           8 / 11                           lees verder ►►►
+      Van afvalgas naar brandstof
+
+            Afvalgassen uit de staal- en petrochemische industrie bevatten behalve
+            koolstofdioxide vaak ook veel koolstofmono-oxide.
+            Het bedrijf Lanzatech heeft een proces ontwikkeld waarbij deze
+            afvalgassen worden gemengd met waterstof en andere gassen afkomstig
+            van vergaste biomassa en vergaste kolen. Het verkregen mengsel wordt
+            vervolgens door speciale micro-organismen omgezet tot ethanol (C2H6O)
+            en andere alcoholen.
+            De totaalvergelijking van één van de biochemische routes waarmee deze
+            micro-organismen ethanol produceren, is weergegeven met reactie 1.
+
+            6 CO (g) + 3 H2O (l)  C2H6O (l) + 4 CO2 (g)              (reactie 1)
+
+3p   20     Bereken de reactiewarmte van reactie 1 per mol ethanol.
+
+            Een andere biochemische route kan met reactie 2 worden beschreven.
+
+            6 H2 + 2 CO2  3 H2O + C2H6O                              (reactie 2)
+
+            In de bioreactor wordt uiteindelijk alle CO en CO2 omgezet tot ethanol en
+            andere alcoholen. De opbrengst aan ethanol in het Lanzatech-proces
+            wordt uitgedrukt in MJ. Dit is de hoeveelheid energie die vrijkomt als het
+            geproduceerde ethanol zou worden verbrand.
+            De CO2-opname door de micro-organismen in het Lanzatech-proces
+            is 81,5 g CO2 per MJ. De CO2-uitstoot van de overige processen is
+            51 g CO2 per MJ.
+
+4p   21     Bereken de netto CO2-uitstoot uitgedrukt in g CO2 per MJ geproduceerde
+            energie wanneer het geproduceerde ethanol uiteindelijk wordt verbrand
+            (T = 293 K). De energie die vrijkomt bij de verbranding van ethanol is
+            2,15·1010 J m–3.
+
+
+
+
+VW-1028-a-18-2-o                            9 / 11                             lees verder ►►►
+            Het ethanol en de overige alcoholen worden door destillatie gescheiden
+            van het mengsel in de bioreactor. Behalve ethanol worden in de
+            Lanzatech-bioreactor ook butaan-1-ol, butaan-2-ol, 2-methylpropaan-1-ol
+            en 2-methylpropaan-2-ol gevormd door de micro-organismen.
+            Deze C4-alcoholen kunnen in een aansluitend proces worden gebruikt om
+            door additie-reacties koolwaterstoffen te produceren met 12 en 16
+            koolstofatomen in de moleculen. Deze koolwaterstoffen kunnen worden
+            toegevoegd aan kerosine. Dit proces is in onderstaand blokschema
+            weergegeven. Met C4 tot en met C16 is het aantal koolstofatomen in de
+            koolwaterstoffen aangegeven.
+
+            blokschema
+
+            C4 alcoholen
+                                  R1
+
+                           water                                     C4 C8 -alkenen
+                   C4-alcoholen
+                     C4 -alkenen
+                                                                   C4 C8 C12 C16
+                                  S1                      R2                          S2
+                                         C4 -alkenen                  alkenen
+                          water
+                   C4-alcoholen                                                            C12 C16 -alkenen
+
+                                                                        H2
+                                                                                      R3
+
+                                       C12 C16    is een mengsel                           H2
+                                                                                                         C12 C16
+                                       van alkanen en alkenen                              C12 C16
+
+                                                 voor kerosine     C12 C16            S3
+
+
+            In reactor 1 (R1) worden de C4-alcoholen onvolledig omgezet tot de
+            C4-alkenen methylpropeen, but-1-een en but-2-een. Hierbij ontstaat ook
+            water.
+
+2p   22     Geef de reactievergelijking voor de omzetting van 2-methylpropaan-1-ol
+            tot methylpropeen. Gebruik structuurformules voor de
+            koolstofverbindingen.
+
+            Het mengsel afkomstig uit R1 wordt in scheidingsruimte 1 (S1) afgekoeld.
+            Hierdoor worden de C4-alkenen afgescheiden van het water en van de
+            C4-alcoholen die niet hebben gereageerd.
+
+2p   23     Leg uit binnen welk temperatuurgebied deze scheiding kan plaatsvinden
+            (p = p0). Gebruik Binas-tabel 42B of ScienceData-tabel 8.3.b.
+            Het kookpunt van methylpropeen is 267 K.
+
+
+
+
+VW-1028-a-18-2-o                                           10 / 11                                       lees verder ►►►
+            In R2 vinden additiereacties plaats tussen de C4-alkenen, waarbij alkenen
+            met 8, 12 of 16 C atomen worden gevormd.
+            In S2 wordt het verkregen mengsel van alkenen gescheiden in twee
+            fracties. De fractie met de C4- en de C8-alkenen wordt teruggevoerd naar
+            R2. De fractie met de C12- en de C16-alkenen wordt doorgevoerd naar R3.
+            De scheiding in S2 kan eenvoudig plaatsvinden omdat bij de gebruikte
+            omstandigheden in de scheidingsruimte steeds één fractie in de vloeibare
+            fase is en de andere fractie in de gasfase.
+
+2p   24     Leg uit welke fractie in S2 vloeibaar is en welke fractie gasvormig is.
+
+            In R3 reageren de gevormde alkenen onvolledig met een overmaat
+            waterstof tot alkanen. In S3 wordt de overmaat waterstof gescheiden van
+            de rest van het mengsel en teruggevoerd naar R3.
+            Een deel van het mengsel afkomstig uit R3 wordt opgeslagen als een
+            product dat kan worden gebruikt als toevoeging aan kerosine. Het
+            overgebleven deel wordt weer naar R3 teruggevoerd. Deze recirculatie
+            zorgt voor een hoger rendement in R3.
+
+1p   25     Geef aan waarom door de recirculatie het rendement in R3 hoger wordt.
+
+            In R2 wordt per minuut 1,4·103 mol C4H8 omgezet tot evenveel
+            mol C12- als C16-alkenen. In het product dat uiteindelijk wordt opgeslagen
+            is 98% van de C12- en de C16-alkenen omgezet tot alkanen.
+
+2p   26     Bereken hoeveel mol H2 per minuut dan moet worden ingevoerd in R3.
+
+
+
+
+VW-1028-a-18-2-o                            11 / 11                             lees verdereinde
+                                                                                             ►►► 
+

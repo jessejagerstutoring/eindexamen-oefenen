@@ -1,0 +1,90 @@
+aanvulling op het correctievoorschrift                                                   2025-2
+
+natuurkunde vwo
+
+Centraal examen vwo
+
+Tijdvak 2
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen natuurkunde vwo:
+
+Op pagina 8, bij vraag 5 moet bij de laatste deelscore
+
+•    completeren van de bepaling                                                              1
+
+vervangen worden door:
+
+•    completeren van de bepaling en significantie                                             1
+
+en
+
+Op pagina 16, bij vraag 19 moet bij de tweede deelscore
+
+•    gebruik van formule (1) en tekenen van de grafiek voor leverweefsel,
+                          I              I
+     met eindpunt tussen    = 0, 002 en    = 0, 003                                           1
+                         I0             I0
+
+vervangen worden door:
+
+•    gebruik van d 1 , leverweefsel = 0,9 ⋅ d 1 , water en tekenen van de grafiek voor
+                      2                     2
+
+                                             I              I
+     leverweefsel, met eindpunt tussen         = 0, 002 en    = 0, 003                        1
+                                            I0             I0
+
+en de volgende opmerking worden toegevoegd:
+
+Opmerking
+Het derde scorepunt “inzicht in het verband tussen het contrast en het aantal
+halveringsdiktes” kan toegekend worden als:
+   • de kandidaat, overeenkomstig het voorbeeld van een antwoord, het inzicht toont
+       dat het contrast groter is bij een groot aantal halveringsdiktes, of;
+   • de kandidaat het inzicht toont dat het contrast groter is bij een klein aantal
+       halveringsdiktes.
+
+
+VW-1023-a-25-2-c-A1
+     Toelichting:
+     In de opgave zijn in de formule voor het contrast de teller en de noemer verwisseld,
+     waardoor het contrast volgens deze definitie maximaal is als:
+                                   I                 I 
+                                                   = 
+                                   I 0 leverweefsel  I 0 lichaamsweefsel
+     Dit leidt dan tot de conclusie dat het contrast groter is bij een klein aantal
+     halveringsdiktes. Daaruit volgt dan de consequente conclusie dat de halveringsdikte zo
+     groot mogelijk moet zijn en dat dus het contrast het grootst is bij grote fotonenergie.
+
+     Als een kandidaat het juiste fysische inzicht toont dat het contrast groter is bij een groot
+     aantal halveringsdiktes en dat dus het contrast het grootst is bij kleine fotonenergie,
+     moet dit ook goed gerekend worden.
+
+     NB
+     Als het werk al naar de tweede corrector is gezonden, past de tweede corrector deze
+     aanvulling op het correctievoorschrift toe in zowel de eigen toegekende scores als in de
+     door de eerste corrector toegekende scores en meldt deze wijziging aan de eerste
+     corrector. De tweede corrector vermeldt daarbij dat deze late wijziging een gevolg is van
+     de aanvulling door het CvTE.
+
+     Het CvTE is zich ervan bewust dat dit leidt tot enkele aanvullende handelingen van
+     administratieve aard. Deze extra werkzaamheden zijn in het belang van een goede
+     beoordeling van de kandidaten.
+
+     Ik verzoek u dit bericht door te geven aan de correctoren natuurkunde vwo.
+
+     Namens het College voor Toetsen en Examens,
+
+     drs. J.H. van der Vegt
+     voorzitter
+
+
+
+
+VW-1023-a-25-2-c-A1
+

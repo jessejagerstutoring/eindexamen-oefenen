@@ -1,0 +1,543 @@
+                                                                  Examen HAVO
+
+                                                                        2023
+                                                                               tijdvak 1
+                                                                     donderdag 25 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                      natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-23-1-o
+      Gasniveau meten
+
+            Een gasbarbecue gebruikt gas uit een stalen gasfles als energiebron. Zie
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            Hans en Sanne doen onderzoek naar verschillende methodes om te
+            bepalen hoe vol een stalen gasfles is. Een lege gasfles kan gevuld
+            worden met maximaal 6,1 kg vloeibaar propaan.
+            Hans en Sanne hebben een barbecue met een vermogen van 15 kW. De
+            stookwaarde van vloeibaar propaan is 13,8 kWh kg−1.
+4p    1     Bereken hoelang de barbecue kan branden als begonnen wordt met een
+            volle gasfles. Noteer je antwoord in het juiste aantal significante cijfers.
+
+            Ze merken dat na een tijd barbecueën de buitenzijde van de fles koud
+            aanvoelt en dat er waterdruppels op de fles ontstaan. Ze beredeneren dat
+            het vloeistofpeil van het propaan ongeveer gelijk moet staan aan de
+            bovenrand van de waterdruppels op de fles. Ze concluderen dat de fles
+            afkoelt door de faseovergang van het propaan in de fles van vloeibaar
+            naar gasvormig.
+            Op de uitwerkbijlage staan twee zinnen.
+2p    2     Omcirkel in elke zin het juiste antwoord.
+
+
+
+
+HA-1023-a-23-1-o                             2 / 17                             lees verder ►►►
+            Wanneer Hans tegen de gasfles slaat, produceert deze een toon. Hij
+            vraagt zich af of deze toon afhankelijk is van de vulstand van de fles.
+            Tijdens het vullen van een fles bepaalt Hans de frequentie van de
+            grondtonen die de gasfles produceert bij verschillende vulstanden, van
+            leeg tot vol. Hiervan maakt hij een diagram. Hierin is de vulstand als
+            percentage weergegeven. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Bij elke vulstand is er een laag gas boven de     figuur 3
+            vloeistof. Hans denkt dat de tonen ontstaan
+            door een staande golf in dit gas. Zie
+            schematisch in figuur 3.
+
+3p    3     Leg met behulp van figuren 2 en 3 uit dat Hans
+            ongelijk heeft.
+
+
+
+
+HA-1023-a-23-1-o                            3 / 17                           lees verder ►►►
+            Sanne heeft een andere verklaring voor de toon. Zij denkt dat de gasfles
+            zelf als een soort snaar werkt. Op de omtrek van de gasfles ontstaat dan
+            een staande golf met vier knopen K en vier buiken B, net als bij een
+            trillend wijnglas. Zie figuur 4 en schematisch in figuur 5.
+
+            figuur 4                        figuur 5
+
+
+
+
+            De gasfles is gemaakt van staal en heeft een omtrek van 72 cm. De
+            frequentie van de toon van de lege gasfles is 1,50·103 Hz.
+4p    4     Toon met een berekening aan of de golfsnelheid in de verklaring van
+            Sanne gelijk is aan de voortplantingssnelheid van geluid in staal bij
+            kamertemperatuur.
+
+            Hans en Sanne proberen of ze met behulp van figuur 2 de vulstand van
+            een gedeeltelijk gevulde gasfles kunnen bepalen. Ze gebruiken een
+            oscilloscoop-app. Met hun telefoon maken ze een oscillogram van de toon
+            die ontstaat door het aanslaan van de fles. Zie het screenshot in figuur 6.
+
+            figuur 6
+
+
+
+
+3p    5     Bepaal met behulp van figuren 2 en 6 de vulstand (in %) van deze
+            gasfles. Noteer je antwoord in twee significante cijfers.
+
+
+HA-1023-a-23-1-o                            4 / 17                            lees verder ►►►
+      Noodstopstrook
+
+            In bergachtige gebieden       figuur 1
+            liggen naast snelwegen
+            vaak noodstopstroken. Een
+            noodstopstrook is een lange
+            bak, gevuld met grind.
+            Zie figuur 1.
+
+            Als de remmen van een
+            vrachtwagen tijdens het
+            afdalen weigeren, kan de
+            chauffeur de noodstopstrook
+            gebruiken. Hoe verder de
+            vrachtwagen de strook
+            oprijdt, hoe dieper de
+            grindlaag wordt waar de vrachtwagen doorheen rijdt. De remkracht van
+            het grind op de vrachtwagen neemt daardoor toe.
+
+            Van een remmende vrachtwagen in het grind is een (v,t)-diagram
+            gemaakt. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Figuur 2 is ook op de uitwerkbijlage afgedrukt.
+3p    6     Bepaal met de figuur op de uitwerkbijlage de minimale lengte van deze
+            noodstopstrook. Noteer je antwoord in twee significante cijfers.
+
+
+
+
+HA-1023-a-23-1-o                           5 / 17                            lees verder ►►►
+            Uit veiligheidsoverwegingen is een ontwerp-eis van een noodstopstrook
+            dat de vertraging van de vrachtwagen niet groter mag zijn dan 0,90∙g.
+            Figuur 2 is nogmaals op de uitwerkbijlage afgedrukt.
+5p    7     Toon met behulp van de figuur op de uitwerkbijlage aan of de maximale
+            vertraging onder de ontwerp-eis blijft. Laat in de figuur zien hoe je aan je
+            antwoord komt.
+
+            In koude gebieden kan het grind aan elkaar vriezen, waardoor de
+            vrachtwagen er niet meer zo ver in wegzakt.
+            Figuur 2 is nogmaals op de uitwerkbijlage afgedrukt.
+2p    8     Schets in de figuur op de uitwerkbijlage de grafiek voor het afremmen van
+            de vrachtwagen onder dezelfde omstandigheden op een bevroren
+            noodstopstrook.
+
+            In Canada is een nieuw ontwerp uitgewerkt voor een noodstopstrook waar
+            vorst geen invloed op heeft. In plaats van grind worden vangnetten
+            gebruikt om de vrachtwagen af te remmen. De vangnetten zitten vast aan
+            trommels. In elke trommel bevindt zich een opgerolde stalen band waar
+            de vangnetten aan zijn bevestigd. Zie figuren 3 en 4.
+
+            figuur 3
+
+
+
+
+            figuur 4
+
+
+
+
+HA-1023-a-23-1-o                             6 / 17                             lees verder ►►►
+            Als een vrachtwagen een net raakt, worden de banden uit de trommels
+            getrokken. Iedere stalen band trekt tijdens het afrollen aan het net.
+            Hierdoor ontstaat in het net een constante spankracht Fs. Dit is
+            schematisch weergegeven in figuur 5. Deze figuur is niet op schaal.
+
+            figuur 5
+
+
+
+
+            Door de constante spankracht Fs werkt er een remkracht Frem op de
+            vrachtwagen. Op de uitwerkbijlage zijn twee situaties, I en II,
+            vereenvoudigd weergegeven. De klassieke grindstrook levert een steeds
+            grotere remkracht als de vrachtwagen verder het grind in rijdt.
+3p    9     Voer de volgende opdrachten uit:
+            − Construeer de remkracht Frem in situatie I.
+            − Leg uit of Frem door het vangnet ook steeds groter wordt.
+
+            Een band rolt af bij een spankracht      figuur 6
+            van 2,0·104 N. De band is gemaakt
+            van roestvrij staal en wordt elastisch
+            uitgerekt. De band is 5,0 cm breed en
+            3,0 mm dik. Zie figuur 6.
+            Een ontwerp-eis is dat de band niet te
+            ver mag uitrekken tijdens het
+            afremmen.
+
+4p    10    Toon met een berekening aan of de toename van de lengte door rek
+            kleiner is dan 10%.
+
+
+
+
+HA-1023-a-23-1-o                            7 / 17                         lees verder ►►►
+            Door de kracht van de vrachtwagen op het net rollen de stalen banden af.
+            Om zware vrachtwagens te stoppen, worden er meerdere vangnetten
+            achter elkaar opgehangen. Ieder net hangt aan meerdere trommels.
+            Iedere trommel is identiek. In figuur 7 zijn drie vangnetten in een klein
+            deel van de noodstopstrook te zien.
+
+            figuur 7
+
+
+
+
+            De noodstopstrook moet zowel lichte als zware vrachtwagens veilig
+            kunnen afremmen. Om veiligheidsredenen mag de vertraging nooit groter
+            zijn dan 0,90∙g, ongeacht het formaat van de vrachtwagen.
+            Het eerste net is opgehangen aan minder trommels dan de overige
+            netten.
+2p    11    Leg met de tweede wet van Newton uit waarom hiervoor is gekozen.
+
+            De drie vangnetten in figuur 7 zijn bevestigd aan in totaal 16 trommels.
+            De spankracht in iedere stalen band is constant 2,0·104 N. De lengte van
+            iedere band is 61 m.
+            Tijdens een test rijdt een vrachtwagen m(          )
+                                                     = 60 ⋅103 kg met een snelheid
+            van 24 m s−1 de noodstopstrook op.
+4p    12    Toon met een berekening met arbeid en kinetische energie aan of de drie
+            netten de vrachtwagen kunnen stoppen.
+
+
+
+
+HA-1023-a-23-1-o                           8 / 17                           lees verder ►►►
+      Kosmische explosie
+
+            Sinds de uitvinding van de telescoop hebben sterrenkundigen steeds
+            meer ontdekt over de sterrenhemel. Een bekende telescoop is de Hubble
+            telescoop. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De Hubble is een ruimtetelescoop.
+1p    13    Wat is het belangrijkste voordeel van een ruimtetelescoop ten opzichte
+            van een telescoop op aarde?
+            A Een ruimtetelescoop heeft geen last van de atmosfeer van de aarde.
+            B Een ruimtetelescoop kan naast zichtbaar licht ook radiogolven
+               waarnemen.
+            C Een ruimtetelescoop staat dichter bij de sterren.
+            D Op een ruimtetelescoop werkt geen zwaartekracht.
+
+
+
+
+HA-1023-a-23-1-o                           9 / 17                          lees verder ►►►
+            Sommige sterren zitten in een dubbelster-systeem.     figuur 2
+            Dit is een systeem van twee sterren
+            die om een gemeenschappelijk zwaartepunt Z
+            draaien. Zie schematisch in figuur 2.
+
+            Een bepaalde dubbelster heeft de naam
+            KIC9832227 (KIC) gekregen. Deze dubbelster
+            staat op 1, 70 ⋅1019 m afstand van de aarde.
+
+            Of twee sterren van een dubbelster met een
+            telescoop als afzonderlijke lichtbronnen waar te
+            nemen zijn, hangt af van een aantal variabelen.
+            Twee sterren zijn nog net van elkaar te onderscheiden als geldt:
+
+                   1, 22 ⋅ λ d
+                            =                        (1)
+                       D      
+
+            Hierin is:
+            − λ de grootte van de golflengte van het licht dat van het object wordt
+                   waargenomen;
+            − D de diameter van de telescoop;
+            − d de afstand tussen de middelpunten van de sterren;
+            −  de afstand van de aarde tot de dubbelster.
+
+            Hubble heeft een diameter van 2,4 m. Voor KIC geldt:=
+                                                                d 4,18 ⋅109 m.
+            Hubble neemt elektromagnetische straling waar met een fotonenergie van
+             1,0 eV.
+5p    14    Toon met behulp van een berekening aan of de diameter van Hubble
+            groot genoeg is om de twee sterren van KIC in dit deel van het
+            elektromagnetisch spectrum afzonderlijk waar te nemen.
+
+            Voor het verband tussen de omlooptijd T van de twee sterren van KIC en
+            de onderlinge afstand d geldt:
+
+                   d3
+                      =k                             (2)
+                   T2
+
+            Hierin is k een constante.
+
+            Enkele jaren geleden is bij dubbelster KIC geconstateerd dat de
+            frequentie waarmee de twee sterren om het gemeenschappelijke
+            zwaartepunt heen draaien verandert. Astronomen concludeerden uit deze
+            verandering dat de sterren steeds dichter naar elkaar toe bewegen.
+2p    15    Leg met behulp van formule (2) uit of de waargenomen frequentie
+            toeneemt of afneemt.
+
+
+
+HA-1023-a-23-1-o                           10 / 17                             lees verder ►►►
+            Als sterren steeds dichter naar elkaar toe bewegen, kunnen ze uiteindelijk
+            samensmelten in een kosmische explosie. Door de energie die bij zo’n
+            samensmelting vrijkomt, wordt de helderheid van het zichtbare licht van
+            de sterren tijdelijk veel groter.
+            In 2017 werd voorspeld dat in het jaar 2023 de kosmische explosie van
+            dubbelster KIC op aarde te zien zou zijn.
+            Dubbelster KIC staat op 1, 70 ⋅1019 m afstand van de aarde.
+
+            In figuur 3 staat een tabel met vier periodes.
+
+            figuur 3
+              periode                           kenmerkende gebeurtenis
+                   1   rond het jaar 0          begin Europese jaartelling
+                   2   rond het jaar 220        tijd van de Romeinen in Nederland
+                   3   rond het jaar 1800       ontstaan Koninkrijk der Nederlanden
+                   4   rond het jaar 2020       jouw middelbareschooltijd
+
+4p    16    Leg met behulp van een berekening uit in welke periode (1, 2, 3 of 4) de
+            kosmische explosie volgens de voorspelling zou hebben plaatsgevonden.
+
+
+
+
+HA-1023-a-23-1-o                            11 / 17                          lees verder ►►►
+      Radioactieve rook
+
+            Tabak wordt gemaakt van de bladeren van de tabaksplant. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Tabaksplanten halen water en (voedings)stoffen uit de bodem en de lucht.
+            Hierin zitten ook radioactieve isotopen. Een van die isotopen is Rn-222,
+            dat in een lange vervalreeks via diverse dochterkernen vervalt tot stabiel
+            Pb-206:
+             222       3,83d 218    3,05min           26,8min           19,7 min
+              86   Rn α → 84 Po α    → 214
+                                               82 Pb β    → 214
+                                                                 83 Bi β     → 214
+                                                                                    84 Po
+
+
+                            −4
+             214       1,6⋅10 s           22,6 y       5,0d         138d
+              84   Po   α   → 210
+                                   82 Pb 
+                                                 210
+                                            β → 83 Bi 
+                                                            210
+                                                         β → 84 Po 
+                                                                         206
+                                                                      α → 82 Pb
+
+
+
+            De dochterkernen uit deze vervalreeks komen in de bladeren van de
+            tabaksplant terecht.
+            Van deze bladeren wordt tabak voor sigaretten gemaakt. De tijd tussen
+            het oogsten van de plant en het roken van een sigaret van die plant is
+            gemiddeld twee jaar.
+
+            Na twee jaar is vooral Pb-210 aanwezig in de tabak
+2p    17    Leg dat uit met behulp van de halveringstijden uit de vervalreeks.
+
+
+
+
+HA-1023-a-23-1-o                                    12 / 17                                 lees verder ►►►
+            Naast Pb-210 bevat tabak ook een klein aandeel van de zeer gevaarlijke
+            radioactieve stof Po-210.
+            Een sigaret bevat 0,90 g tabak. Hierin zitten 2·105 atomen Po-210.
+3p    18    Bereken het percentage van de massa van de tabak dat bestaat uit
+            Po-210.
+
+            Van de totale massa van een sigaret komt een beperkt, maar wel zeer
+            schadelijk deel via de rook in de kwetsbare longen terecht.
+            Het ingeademde Po-210 plakt door teer in de rook vast op kleine plekken
+            in de longen, de zogenaamde hotspots.
+            De equivalente dosis H voor de longen als geheel, ten gevolge van het
+            ingeademde polonium, kan berekend worden met de formule:
+
+                        wR ⋅ Agem ⋅ ∆t ⋅ Ed
+                   H=                                   (1)
+                                m
+
+            Hierin is:
+            −    wR de weegfactor;
+            −    Agem de gemiddelde activiteit;
+            −    Δt de tijd dat het weefsel bestraald wordt;
+            −    Ed de energie van het vrijgekomen α-deeltje;
+            −    m de massa van het bestraalde weefsel.
+
+            Op de uitwerkbijlage staat een tabel met drie verschillende gegevens over
+            Po-210 in de longen.
+3p    19    Geef in de tabel met behulp van formule (1) per gegeven de reden
+            waarom Po-210 in de longen zo gevaarlijk is.
+
+
+
+
+HA-1023-a-23-1-o                              13 / 17                       lees verder ►►►
+      Zelfbouw zaklamp
+
+            Een hobbyist maakt een zaklamp met een zeer grote lichtsterkte.
+            Hij gebruikt voor de zaklamp meerdere leds. Iedere led heeft een
+            vermogen van 1,0·102 W bij een stroomsterkte van 3,0 A. Voor de
+            stroomvoorziening heeft hij de beschikking over 4 accu’s die elk een
+            spanning van 11,1 V leveren. Hij combineert een aantal van deze accu’s
+            tot een accupakket.
+
+4p    20    Voer de volgende opdrachten uit:
+            − Bereken uit hoeveel losse accu’s het accupakket moet bestaan om
+               iedere led op de juiste spanning en het juiste vermogen te laten
+               werken.
+            − Geef aan of de accu’s in serie of parallel moeten worden geschakeld.
+
+            Het gebruikte accupakket heeft een capaciteit van 5,0 Ah.
+            Eén led werkt op een stroomsterkte van 3,0 A. De zaklamp maakt gebruik
+            van 8 parallel geschakelde leds.
+4p    21    Bereken hoeveel minuten het accupakket de leds kan laten branden.
+
+            Iedere led heeft een elektrisch vermogen van 1,0·102 W. De led levert
+            licht en warmte. Het rendement van de leds is 35%. Om te voorkomen dat
+            de leds te heet worden, zijn deze op koelblokken geplakt. Op één koelblok
+            passen 4 leds. Het koelblok is gevuld met 25 gram water van 20 °C. Als
+            de leds worden ingeschakeld, zal het water opwarmen.
+            Neem aan dat alle warmte die de leds produceren door het water wordt
+            opgenomen.
+5p    22    Bereken hoelang het dan duurt voordat het water in één koelblok kookt.
+
+
+
+
+HA-1023-a-23-1-o                          14 / 17                           lees verder ►►►
+            Om het water zelf te koelen, wordt het rondgepompt. Een pomp verplaatst
+            het water van het koelblok naar een radiator die daardoor opwarmt. Een
+            draaiende ventilator koelt de radiator door er lucht langs te blazen.
+            Het afgekoelde water gaat weer terug naar het koelblok. Zie schematisch
+            in figuur 1. Er zijn drie plekken (I, II en III) aangegeven waar warmte
+            wordt getransporteerd.
+
+            figuur 1
+
+
+
+
+            Op de uitwerkbijlage staat een tabel.
+2p    23    Omcirkel in de tabel op de uitwerkbijlage voor elke plek (I, II en III) de
+            belangrijkste vorm van warmtetransport.
+
+
+
+
+HA-1023-a-23-1-o                             15 / 17                            lees verder ►►►
+            Pomp p en ventilator f moeten tegelijk met de leds ingeschakeld worden
+            en werken ieder op dezelfde spanning als de leds.
+            In figuur 2 staan vier schakelschema’s.
+
+            figuur 2
+
+
+
+
+                           I                              II
+
+
+
+
+                          III                             IV
+
+1p    24    Welk schakelschema is juist?
+            A schema I
+            B schema II
+            C schema III
+            D schema IV
+
+
+
+
+HA-1023-a-23-1-o                           16 / 17                         lees verder ►►►
+            De hobbyist wil tenslotte weten hoeveel licht zijn zelfbouw zaklamp geeft.
+            Dit doet hij door de oppervlaktes te vergelijken die hij kan belichten met
+            een zaklamp. Hij schijnt achtereenvolgens met een normale zaklamp en
+            de zelfbouw zaklamp op de gevel van een gebouw. Zie figuren 3 en 4. De
+            intensiteit (sterkte) van het licht op het gebouw is bij beide zaklampen
+            gelijk. De normale zaklamp belicht een klein vierkant oppervlak. De
+            zelfbouw zaklamp belicht een cirkelvormig oppervlak met dezelfde
+            diameter als de breedte van het gebouw. In figuren 3 en 4 is dit
+            gemarkeerd.
+
+            figuur 3
+
+
+
+
+            figuur 4
+
+
+
+
+1p    25    Hoeveel keer zo groot is het oppervlak dat verlicht wordt door de zelfbouw
+            zaklamp, vergeleken met het oppervlak dat door de normale zaklamp
+            wordt verlicht?
+            A 0 tot 50 keer zo groot
+            B 50 tot 100 keer zo groot
+            C 100 tot 150 keer zo groot
+            D 150 tot 200 keer zo groot
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-23-1-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

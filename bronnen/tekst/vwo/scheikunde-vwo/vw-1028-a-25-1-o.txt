@@ -1,0 +1,459 @@
+                                                                    Examen VWO
+
+                                                                        2025
+                                           1                                   tijdvak 1
+                                                                         vrijdag 163 mei
+                                                                                     uur
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 66 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-25-1-o
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+
+      Kwaliteitscontrole voor straight whiskey
+
+            ‘Straight whiskey’ is whiskey die minimaal twee jaar is gerijpt op
+            eikenhouten vaten. De vaten worden eerst van binnen gebrand, waarbij
+            door thermolyse onder andere karamel wordt gevormd. Straight whiskey
+            heeft daarom een karakteristieke bruine kleur. Whiskey die minder lang is
+            gerijpt, is lichter van kleur. Om deze whiskey dezelfde luxe uitstraling te
+            geven als straight whiskey, wordt vaak de kleurstof E-150 toegevoegd aan
+            het eindproduct. E-150 is een mengsel van verschillende stoffen dat wordt
+            verkregen door thermolyse van sacharose (C12H22O11) bij 200 C.
+            Als eerste reageren hierbij de OH-groepen die zijn gebonden aan de
+            C-atomen die in de ringen direct naast de etherbinding tussen de beide
+            ringen van sacharose liggen. Onder afsplitsing van een molecuul water
+            wordt een nieuwe etherbinding gevormd. De ontstane stof is
+            isosachrosan.
+            Op de uitwerkbijlage is de vergelijking van de omzetting van sacharose tot
+            isosachrosan onvolledig weergegeven.
+
+2p    1     Maak op de uitwerkbijlage deze vergelijking compleet. Gebruik
+            structuurformules zoals op de bijlage.
+
+            Een straight whiskey is wat betreft de kleur niet te onderscheiden van een
+            whiskey waaraan E-150 is toegevoegd. Om toch onderscheid te kunnen
+            maken is een test ontwikkeld. Deze test richt zich op de aanwezigheid van
+            de stoffen furfural (FF) en 5-hydroxymethylfurfural (HMF) die tijdens de
+            thermolyse van het eikenhouten vat ontstaan. De schematische
+            structuurformules van FF en HMF zijn in figuur 1 weergegeven.
+
+            figuur 1
+
+
+
+
+            In eikenhout komt behalve cellulose ook de polysacharide xylaan
+            (H–(C5H8O4)n–OH) voor. Tijdens de thermolyse van het eikenhout wordt
+            HMF gevormd uit cellulose, terwijl FF wordt gevormd uit xylaan. Het enige
+            bijproduct van de vorming van FF uit xylaan is water.
+
+3p    2     Geef de vergelijking van de vorming van FF uit xylaan. Gebruik hierbij
+            molecuulformules.
+
+
+
+
+VW-1028-a-25-1-o                            2 / 11                           lees verder ►►►
+            Op de uitwerkbijlage is de laatste reactiestap van het mechanisme van de
+            vorming van HMF weergegeven.
+
+2p    3     Maak op de uitwerkbijlage het mechanisme compleet.
+             Geef voor de pijl alle niet-bindende elektronenparen weer.
+             Geef voor de pijl met pijlen weer hoe elektronenparen worden
+              verplaatst tijdens de omzetting.
+
+            In straight whiskey ligt de molverhouding van HMF en FF in het gebied
+                      HM F
+             2, 0 <        < 2, 6.
+                       FF
+            In whiskey waar E-150 aan is toegevoegd, is deze verhouding anders.
+            Dit geeft de mogelijkheid om te controleren of een whiskey eventueel
+            onterecht als straight whiskey wordt verkocht.
+            Hiertoe bepaalt men met behulp van chromatografie de verhouding tussen
+            HMF en FF. Aangezien de detector een verschillende gevoeligheid kent
+            voor FF en HMF wordt eerst een chromatogram gemaakt met een
+            standaardoplossing. Deze standaardoplossing bevat de stoffen HMF en
+            FF in de molverhouding 1 : 1. In figuur 2 zijn het chromatogram van de
+            standaardoplossing en dat van een monster whiskey weergegeven. Naast
+            elke piek is het relatieve piekoppervlak genoteerd.
+
+            figuur 2
+
+
+
+
+            Dit onderzoek kon op twee manieren worden uitgevoerd:
+            1 een apolaire stationaire fase gecombineerd met een polaire mobiele
+                fase;
+            2 een polaire stationaire fase gecombineerd met een apolaire mobiele
+                fase.
+
+3p    4     Leg uit met behulp van figuur 1 en figuur 2 welke manier is gebruikt in
+            deze bepalingen.
+
+3p    5     Voer de volgende opdrachten uit:
+                  Bepaal de molverhouding HM F in het monster. Gebruik figuur 2.
+                                              FF
+                  Geef aan of het monster afkomstig kan zijn van een straight whiskey.
+
+
+
+
+VW-1028-a-25-1-o                               3 / 11                          lees verder ►►►
+      Zwavelproductie
+
+            Zwavel is een belangrijke grondstof voor onder andere de productie van
+            zwavelzuur. Vroeger werd zwavel gedolven uit sulfaat-ertsen, maar
+            tegenwoordig wordt vrijwel alle zwavel geproduceerd uit H2S, een product
+            dat vrijkomt bij de verwerking van aardolie.
+            De omzetting van H2S tot zwavel vindt plaats via het claus-proces. In het
+            claus-proces verlopen twee reacties.
+
+            2 H2S (g) + 3 O2 (g)  2 SO2 (g) + 2 H2O (g)              (reactie 1)
+                                        3
+            2 H2S (g) + SO2 (g)          Sx (g) + 2 H2O (g)          (reactie 2)
+                                        x
+
+            De waarde van x is hierin alleen afhankelijk van de temperatuur.
+            Op de uitwerkbijlage bij vraag 11 is een deel van een claus-installatie
+            weergegeven. In reactor 1 (R1) wordt H2S onvolledig omgezet volgens
+            reactie 1. In R1 verloopt ook al deels reactie 2.
+            Om het H2S verder om te zetten tot Sx volgens reactie 2 is een volgende
+            reactor (R2) nodig. In R2 verloopt alleen reactie 2. Door het gebruik van
+            een katalysator in R2 kan het evenwicht van reactie 2 zich snel instellen.
+            Om in het totale proces uiteindelijk een hoge omzettingsgraad van H2S
+            naar zwavel te verkrijgen, wordt de zuurstoftoevoer in R1 zodanig
+            geregeld dat de molverhouding H2S : O2 bij de invoer in R1 2 : 1 is.
+
+2p    6     Leid de totaalvergelijking voor het claus-proces af, waarbij alle H2S wordt
+            omgezet. Gebruik hierbij reactie 1 en reactie 2.
+
+            Een betrekkelijk kleine claus-installatie verwerkt per dag 20 ton H2S.
+            Lucht bevat 20,9 volume-% zuurstof.
+
+4p    7     Bereken het volume in m3 lucht dat per dag minimaal in deze installatie
+            moet worden ingevoerd.
+            Geef je antwoord in het juiste aantal significante cijfers.
+
+
+
+
+VW-1028-a-25-1-o                            4 / 11                             lees verder ►►►
+            Reactie 2 blijkt een bijzondere reactie te zijn. Omdat de waarde van x
+            afhangt van de temperatuur, heeft de reactiewarmte van reactie 2 geen
+            constante waarde. Dit wordt veroorzaakt doordat de vormingswarmtes
+            van S2 en S8 niet gelijk zijn. De vormingswarmte van S8 is gelijkgesteld
+            aan nul. De vormingswarmte van S2 is +1,28·105 J mol–1.
+
+3p    8     Bereken de reactiewarmte van reactie 2 in joule per mol H2S wanneer
+            uitsluitend S2 wordt gevormd.
+            Gebruik de waardes van de vormingswarmtes uit je informatieboek.
+
+            Het verband tussen de omzettingsgraad en de temperatuur in R2 van een
+            claus-installatie is onderzocht bij temperaturen boven 100 °C.
+            In de figuur zijn de resultaten van de metingen weergegeven.
+            De omzettingsgraad is in deze opgave gedefinieerd als het percentage
+            H2S dat wordt omgezet tot Sx. Behalve de omzettingsgraad is in de figuur
+            ook de gemiddelde waarde van x in Sx weergegeven.
+
+            figuur
+
+
+
+
+            Uit de figuur kan worden afgeleid of de reactie naar rechts van reactie 2
+            endotherm of exotherm is in het temperatuurgebied waar x > 6.
+
+3p    9     Leg uit of de reactie naar rechts van reactie 2 endotherm of exotherm is
+            in het temperatuurgebied waar x > 6.
+            Gebruik gegevens uit de figuur en reactie 2.
+
+
+
+
+VW-1028-a-25-1-o                            5 / 11                            lees verder ►►►
+            De normen voor de maximale uitstoot van H2S en SO2 zijn bijzonder
+            streng. Men streeft met het claus-proces dan ook naar de maximale
+            omzettingsgraad.
+
+1p   10     Geef een reden dat de norm vereist dat de maximale uitstoot van SO2
+            laag is.
+
+            De energie die in R1 vrijkomt, wordt door het gebruik van
+            warmtewisselaars voor een groot deel elders in het proces gebruikt als
+            bron van energie. In de warmtewisselaars wordt gebruikgemaakt van
+            water om energie op te nemen of af te staan.
+            Na R2 is er geen zuurstof meer aanwezig in het gasmengsel.
+            In scheidingsruimte 1 (S1) wordt een deel van de gevormde zwavel
+            gescheiden van de rest van de stoffen. Om de omzettingsgraad van H2S
+            en SO2 nog verder te vergroten, wordt het mengsel in een
+            warmtewisselaar weer verwarmd en in een volgende reactor (R3) geleid.
+            In R3 verloopt dezelfde reactie als in R2.
+            Na R3 zijn alle zwavelhoudende stoffen nog steeds niet volledig omgezet.
+
+3p   11     Maak op de uitwerkbijlage het blokschema compleet.
+             Teken R3, S1 en de tweede warmtewisselaar.
+             Teken ontbrekende pijlen en de ontbrekende stoffen bij deze pijlen.
+              Gebruik hierbij Sx als notatie voor zwavel.
+             Geef bij elke warmtewisselaar aan welke waterstroom warm is en
+              welke koud.
+
+
+
+
+VW-1028-a-25-1-o                           6 / 11                          lees verder ►►►
+      Veiligheidsglas
+
+            Gelaagd veiligheidsglas is een composiet, die is opgebouwd uit twee of
+            meer lagen glas, met daartussen steeds een laag van een kunststof. Dit
+            soort veiligheidsglas wordt gebruikt in auto’s en als kogelwerend glas.
+            De kunststof is vervormbaar, waardoor veiligheidsglas beter bestand is
+            tegen breuk en er geen stukken glas loslaten als een glaslaag toch
+            breekt. De glaslagen zorgen voor krasbestendigheid en vormvastheid.
+            De meest gebruikte kunststof voor gelaagd glas is het willekeurig
+            (random) copolymeer PVA-PVB. In figuur 1 is de structuurformule
+            gegeven van de twee monomeer-eenheden in de keten van PVA-PVB.
+            Hierbij staat VA voor vinylalcohol en VB voor vinylbutyral.
+
+            figuur 1
+
+
+
+
+            PVA-PVB wordt geproduceerd door PVA in een waterige oplossing te
+            laten reageren met butanal. Hierbij reageren steeds twee OH-groepen
+            van naast elkaar gelegen VA-eenheden met één molecuul butanal. Bij
+            deze reactie wordt een willekeurig (random) copolymeer gevormd en
+            ontstaat nog één andere stof. Op de uitwerkbijlage is deze omzetting
+            onvolledig weergegeven.
+
+3p   12     Maak de vergelijking op de uitwerkbijlage compleet.
+            Gebruik hierbij de structuurformule van butanal.
+2p   13     Leg uit dat bij deze reactie een willekeurig (random) copolymeer ontstaat
+            en niet een blok-copolymeer. Gebruik je informatieboek.
+
+            De reactie tussen PVA en butanal vindt plaats in een batch-reactor bij een
+            constante temperatuur. Op de uitwerkbijlage is een mogelijk verloop van
+            de reactiesnelheid tegen de tijd weergegeven. De reactiesnelheid is hier
+            gedefinieerd als de hoeveelheid butanal per liter mengsel die per seconde
+            reageert.
+            Op t0 bevindt zich in de reactor een oplossing van PVA en butanal in
+            water. Naarmate de reactie vordert, stijgt het percentage VB-eenheden.
+            Vanaf t1 begint zich een suspensie te vormen van het gevormde PVA-
+            PVB. De vorming van de suspensie heeft invloed op de reactiesnelheid.
+            Hierdoor is het verloop van de reactiesnelheid niet zoals dat in de grafiek
+            is weergegeven.
+
+
+
+VW-1028-a-25-1-o                            7 / 11                            lees verder ►►►
+3p   14     Voer op de uitwerkbijlage de volgende opdrachten uit:
+             Geef met behulp van het botsende-deeltjesmodel een verklaring voor
+               de daling van de reactiesnelheid in het gedeelte t0 – t1.
+             Schets hoe de grafiek na t1 mogelijk wel verder loopt.
+             Geef een verklaring voor het geschetste verloop van de
+               reactiesnelheid na t1.
+
+            Voor de toepassing in gelaagd glas moet de reactie worden gestopt
+            voordat alle OH-groepen met butanal hebben gereageerd. Voor gebruik in
+            autoruiten wordt PVA-PVB-78 gebruikt. Dit copolymeer bestaat voor
+            78 massa-% uit VB-eenheden.
+            De molaire massa van een eenheid VA is 44,1 g mol–1.
+
+3p   15     Bereken hoeveel procent van het oorspronkelijke aantal VA-eenheden
+            in PVA-PVB-78 over is. Gebruik figuur 1.
+
+            Met een titratie kan het percentage overgebleven OH-groepen worden
+            bepaald. Op deze wijze kan worden gecontroleerd of het geproduceerde
+            materiaal voldoet aan de specificaties.
+            Hieronder is deze bepaling beschreven:
+            1 Een monster PVA-PVB wordt in een organisch oplosmiddel opgelost.
+                Daarna wordt een reagens toegevoegd dat in een aflopende reactie
+                alle overgebleven OH-groepen omzet.
+                Per mol OH-groepen wordt hierbij 1 mol ethaanzuur gevormd.
+            2 Na de reactie wordt water toegevoegd. Ethaanzuur en het oplosmiddel
+                lossen op in water, de omgezette PVA-PVB lost niet op.
+                De gevormde oplossing wordt afgescheiden van de overige stoffen.
+            3 De oplossing die ethaanzuur bevat, wordt vervolgens getitreerd met
+                een KOH-oplossing met fenolftaleïen als indicator.
+            Voor een monster van 2,200 g PVA-PVB was 16,00 mL KOH-oplossing
+            met een molariteit van 0,650 M nodig om alle ethaanzuur volledig om te
+            zetten.
+
+2p   16     Geef de naam van de twee scheidingsmethoden die in stap 2 van deze
+            bepaling worden toegepast.
+
+2p   17     Geef de vergelijking van de reactie die tijdens de titratie verloopt.
+            Gebruik structuurformules voor de koolstofverbindingen.
+
+            Bij het omslagpunt van de indicator is alle ethaanzuur omgezet.
+
+4p   18     Bereken het massapercentage PVB in het onderzochte monster.
+            Geef je antwoord in het juiste aantal significante cijfers.
+
+
+
+
+VW-1028-a-25-1-o                             8 / 11                                 lees verder ►►►
+            De batch-productie van PVA-PVB levert korrels op. Deze korrels worden
+            verwarmd en gewalst tot een vervormbare folie. Bij een temperatuur van
+            70 °C wordt de folie vervolgens tussen de glaslagen aangebracht. Hierbij
+            wordt geen lijm gebruikt omdat de folie vanzelf hecht.
+            Wanneer de temperatuur tijdens het aanbrengen lager is dan 70 °C, is na
+            het afkoelen de hechting tussen het glasoppervlak en PVA-PVB minder
+            sterk. Dit is te verklaren aan de hand van de eigenschappen van
+            PVA-PVB bij verschillende temperaturen.
+
+2p   19     Leg uit dat het PVA-PVB slechter hecht aan het glasoppervlak bij een
+            lagere temperatuur tijdens het aanbrengen.
+
+            Van PVA-PVB bestaan vele varianten. Bij veel soorten wordt voor de
+            verwerking nog een weekmaker toegevoegd. In de tabel zijn enkele
+            gegevens over drie soorten PVA-PVB opgenomen.
+
+            tabel
+
+                             massapercentage         toegevoegde massa weekmaker
+                             PVB in PVA-PVB                per 100 g PVA-PVB
+                                   (%)                             (g)
+            materiaal I              78                          25
+            materiaal II             60                          25
+            materiaal III            78                          17
+
+            In figuur 2 zijn enkele atomen uit de bovenste lagen van het glasoppervlak
+            op microniveau weergegeven.
+
+            figuur 2
+
+
+
+
+2p   20     Leg uit of materiaal II beter of slechter hecht aan glas dan materiaal I.
+            Gebruik hierbij begrippen op microniveau en geef aan welke interactie(s)
+            hierbij een rol speelt (spelen).
+
+2p   21     Leg uit of materiaal I makkelijker of moeilijker vervormbaar is dan
+            materiaal III. Gebruik hierbij begrippen op microniveau en geef aan welke
+            interactie(s) hierbij een rol speelt (spelen).
+
+
+
+VW-1028-a-25-1-o                            9 / 11                           lees verder ►►►
+      Dystrofine
+
+            Dystrofine is een groot eiwit dat ervoor zorgt dat spiercellen na uitrekken
+            weer terugveren en hun stevigheid behouden. In dystrofine kunnen drie
+            belangrijke delen worden aangewezen: domeinen A, B en C.
+            Domein A van dystrofine bindt aan het eiwit actine. In een onderzoek naar
+            deze binding heeft men een verkort dystrofine-eiwit gemaakt dat alleen uit
+            domein A bestaat.
+            Het binden van actinemoleculen aan moleculen dystrofine-A (Dys-A) kan
+            worden opgevat als een evenwicht (evenwicht 1).
+            Actine (aq) + Dys-A (aq)  Actine–Dys-A (aq)             (evenwicht 1)
+            In een experiment is een oplossing gebruikt met 3,0 µM actine en
+            6,0 µM dystrofine-A. Toen het evenwicht zich had ingesteld, bleek dat
+            28% van de actinemoleculen aan moleculen Dys-A was gebonden.
+
+3p   22     Voer de volgende opdrachten uit:
+             Geef de evenwichtsvoorwaarde van evenwicht 1.
+             Bereken de waarde van de evenwichtsconstante van evenwicht 1.
+
+            In domein B zijn ruim 20 spectrine-repeats aanwezig. Een spectrine-
+            repeat is een deel van de peptideketen waarin alpha-helices in een
+            S-vormige lus zijn gevouwen (figuur 1). De achterzijde van de
+            peptideketen is hierbij weergegeven in het grijs.
+
+            figuur 1
+
+
+
+
+            Uit onderzoek aan domein B is gebleken dat dit domein elastische
+            eigenschappen heeft. De elasticiteit wordt toegeschreven aan de vorm
+            van de spectrine-repeats. Elke spectrine-repeat kan uitrekken en weer
+            terugveren. In figuur 1 is dit uitrekken schematisch weergegeven.
+            Als gevolg van het uitrekken verandert de ruimtelijke structuur van de
+            spectrine-repeats.
+
+2p   23     Leg uit welk(e) structuurkenmerk(en) van een peptideketen is (zijn)
+            veranderd door het uitrekken. Noteer je antwoord als volgt:
+             De primaire structuur is wel/niet veranderd, omdat…
+             De secundaire structuur is wel/niet veranderd, omdat…
+             De tertiaire structuur is wel/niet veranderd, omdat...
+
+
+
+
+VW-1028-a-25-1-o                           10 / 11                            lees verder ►►►
+            Domein C verbindt dystrofine met membraan-eiwitten. Hierbij speelt een
+            serine-eenheid in de peptideketen een grote rol.
+            Het H-atoom van de OH-groep in de restgroep van deze serine-eenheid is
+            vervangen door een PO32–-groep. De covalentie van het P-atoom is 5.
+
+3p   24     Teken de structuurformule van deze serine-eenheid. Deze eenheid
+            bevindt zich in het midden van de peptideketen.
+            Geef hierbij de niet-bindende elektronenparen en de formele ladingen
+            weer.
+
+            Dystrofine wordt gecodeerd door één gen. Niet het gehele mRNA wordt
+            uiteindelijk vertaald. Het startcodon van dystrofine bevindt zich namelijk
+            op het codon met base-nummers 209, 210 en 211 van het mRNA.
+            Dit startcodon codeert voor de aminozuureenheid met nummer 1.
+            Wanneer zich een mutatie bevindt in het gen dat codeert voor dystrofine,
+            heeft dat soms ernstige gevolgen. In figuur 2 is een gedeelte van de
+            mRNA-volgorde bij gezond dystrofine weergegeven en dat gedeelte van
+            de mRNA-volgorde bij een mutatie van de aangegeven base.
+
+            figuur 2
+
+               gezond mRNS heef code G A A A U G-3396 G
+               AUGGCUGA
+               mRNA met mutatie heft code G A A A U A-3396 G A U
+               GGCUGA
+
+
+            De base met nummer 3396 in gezond mRNA is onderdeel van een codon
+            dat codeert voor een aminozuureenheid in gezond dystrofine.
+
+4p   25     Voer de volgende opdrachten uit:
+             Leid af voor welke aminozuureenheid in gezond dystrofine dit codon
+               codeert.
+             Geef aan wat het gevolg van de mutatie is voor de eiwitsynthese.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1028-a-25-1-o                                         11 / 11                                                      ►►►
+                                                                                                          lees verdereinde
+

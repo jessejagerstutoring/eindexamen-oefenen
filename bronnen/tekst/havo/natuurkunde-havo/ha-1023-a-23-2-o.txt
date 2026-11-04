@@ -1,0 +1,536 @@
+                                                                  Examen HAVO
+
+                                                                        2023
+                                                                               tijdvak 2
+                                                                        tijdsduur: 3 uur
+
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 23 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-23-2-o
+      Vleermuisdetector
+
+            Charlotte en Fabio doen onderzoek naar het geluid van de roep van
+            vleermuizen. Ze ontdekken dat iedere soort vleermuis een eigen roep
+            heeft. Per vleermuissoort verschilt het verloop van de frequentie van de
+            roep in de tijd.
+            In figuur 1 is voor drie verschillende soorten vleermuizen weergegeven
+            hoe de frequentie van hun roep verloopt in de tijd.
+
+            figuur 1
+            dwergvleermuis           hoefijzervleermuis        laatvlieger
+
+
+
+
+            Fabio neemt een roep van een vleermuis op en verwerkt deze opname in
+            een (u,t)-diagram; hij zoomt hierbij in op het begin en het einde van de
+            geluidspuls. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+2p    1     Leg met behulp van figuur 1 uit van welke vleermuis Fabio de roep heeft
+            opgenomen.
+
+
+
+
+HA-1023-a-23-2-o                            2 / 18                           lees verder ►►►
+            De roep van een vleermuis wordt gevormd in het strottenhoofd. Charlotte
+            vat de holte in het strottenhoofd op als een luchtkolom met een open en
+            een gesloten uiteinde. Zie de dwarsdoorsnede van het strottenhoofd van
+            een vleermuis in figuur 3.
+
+            figuur 3
+
+
+
+
+            Mensen kunnen geluid met frequenties tussen 20 Hz en 20 kHz horen.
+
+            Figuur 3 staat vergroot op de uitwerkbijlage. Neem aan dat de
+            luchttemperatuur in het strottenhoofd 20 °C is.
+5p    2     Voer de volgende opdrachten uit:
+             Geef in de figuur op de uitwerkbijlage het patroon aan van knopen K
+                en buiken B dat hoort bij de grondtoon van deze luchtkolom.
+             Toon met dit patroon aan dat deze grondtoon niet hoorbaar is voor
+                mensen.
+
+
+
+
+HA-1023-a-23-2-o                           3 / 18                          lees verder ►►►
+            Een vleermuisdetector is een apparaat dat het geluid van een vleermuis,
+            dat voor de mens onhoorbaar is, via een tussenstap hoorbaar kan maken.
+            Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            Er bestaan twee verschillende soorten vleermuisdetectoren. De eerste
+            soort is de TE-detector. Deze detector neemt een aantal trillingen op en
+            speelt deze trillingen vertraagd weer af. De frequenties in het geluid van
+            de vleermuis worden daardoor verkleind met een ingestelde factor R.
+            In formulevorm:
+
+                                f vleermuis
+              f TE detector                           (1)
+                                    R
+
+            In figuur 5 staat een (u,t)-diagram met daarin een deel van het geluid van
+            de hoefijzervleermuis. De frequentie van dit geluid is 83 kHz. Daarnaast
+            staat het (u,t)-diagram van hetzelfde deel, maar dan na bewerking door
+            de TE-detector.
+
+            figuur 5
+
+
+
+
+3p    3     Voer de volgende opdrachten uit:
+             Bepaal de frequentie van het geluid na bewerking door de
+               TE-detector.
+             Bepaal met behulp van formule (1) de ingestelde waarde van R.
+
+
+
+HA-1023-a-23-2-o                              4 / 18                           lees verder ►►►
+            De tweede soort detector is de HD-detector. Deze detector gebruikt een
+            techniek waarbij de frequenties in het geluid worden ‘verschoven’. Met
+            een knop kan worden ingesteld hoeveel de frequenties van het geluid
+            moeten worden verschoven ( f instel ).
+            In formulevorm:
+
+              f HD detector  f vleermuis  f instel            (2)
+
+            In figuur 6 is aangegeven hoe deze techniek werkt voor de roep van de
+            laatvlieger (zie figuur 1).
+
+            figuur 6
+
+
+
+
+2p    4     Bepaal met behulp van figuur 6 op welke waarde f instel is ingesteld om het
+            geluid van de laatvlieger hoorbaar te maken.
+
+            Fabio wil de roep van de dwergvleermuis (zie figuur 1) volledig kunnen
+            horen.
+3p    5     Vul de eerste zin op de uitwerkbijlage aan en omcirkel in iedere volgende
+            zin het juiste antwoord.
+
+
+
+
+HA-1023-a-23-2-o                                        5 / 18                 lees verder ►►►
+      Noodstroom voor de Arena
+
+            Voetbalstadions als de Johan Cruijff Arena worden gebruikt voor grote
+            evenementen, zoals sportwedstrijden en concerten. Hiervoor wordt in de
+            Arena 9,0 miljoen kWh per jaar aan elektrische energie verbruikt.
+            De Arena wordt verduurzaamd. Een deel van de energie wordt nu
+            geleverd door een oppervlak van 7, 20 103 m 2 aan zonnepanelen.
+            Het rendement van de zonnepanelen is 18%. De zon schijnt gemiddeld
+            1, 2 103 h per jaar op de zonnepanelen met een gemiddeld
+            stralingsvermogen van 7,5 102 W per vierkante meter zonnepaneel.
+5p    6     Bereken hoeveel procent van het jaarlijkse energieverbruik in de Arena
+            door de zonnepanelen wordt geleverd. Noteer je antwoord in twee
+            significante cijfers.
+
+            De Arena is ook voorzien van een noodstroomsysteem. Als tijdens een
+            evenement het stroomnet buiten het stadion is uitgevallen, wordt de
+            elektriciteitsvoorziening binnen het stadion overgenomen door
+            dieselgeneratoren die elektriciteit opwekken door diesel te verbranden.
+            Diesel heeft een verbrandingswarmte van 36 109 J m 3 . In de Arena wordt
+            tijdens een evenement 1,3 103 kWh elektrische energie voor de verlichting
+            gebruikt.
+4p    7     Voer de volgende opdrachten uit:
+             Bereken hoeveel liter diesel minimaal nodig is voor de verlichting
+                tijdens dit evenement.
+             Geef een reden waarom het daadwerkelijke dieselverbruik hoger is.
+
+            Om de zonnepanelen ook geschikt te maken als duurzaam
+            noodstroomsysteem wordt de energie van de zonnepanelen opgeslagen
+            in een superbatterij. Hierdoor worden de dieselgeneratoren overbodig. Zie
+            figuur 1.
+            figuur 1
+
+
+
+
+HA-1023-a-23-2-o                            6 / 18                            lees verder ►►►
+            De superbatterij bestaat uit geschakelde accu’s.
+            Een accu is te beschouwen als een serieschakeling van een
+            spanningsbron U en een interne weerstand Rint . Deze serieschakeling
+            wordt aangesloten op een verbruiker met weerstand Rverb . Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De superbatterij van de Arena is gemaakt van gebruikte accu’s van
+            elektrische auto’s.
+
+            Op een gegeven moment wordt de accu uit de auto (Rverb is klein) gehaald
+            en in de superbatterij van de Arena geplaatst.
+            Iedere accu voorziet een klein deel van de Arena van energie. Per accu is
+            de Rverb dan groot. De Rint verandert niet bij de overplaatsing van de auto
+            naar de superbatterij. Als gevolg van de interne weerstand Rint wordt een
+            accu warm tijdens het gebruik.
+3p    8     Omcirkel in iedere zin op de uitwerkbijlage het juiste antwoord.
+
+
+
+
+HA-1023-a-23-2-o                            7 / 18                            lees verder ►►►
+            Voor het ontwerp van de superbatterij moest berekend worden hoeveel
+            accu’s nodig waren. Iedere accu bestaat uit 192 aparte cellen. Zie
+            figuur 3.
+
+            figuur 3
+
+
+
+
+            Elke cel in een gebruikte accu heeft een capaciteit van 31 Ah bij een
+            spanning van 3,0 V. De superbatterij in de Arena heeft een totale
+            energieopslag nodig van 2,8 103 kWh .
+4p    9     Voer de volgende opdrachten uit.
+             Bereken de energieopslag voor één gebruikte accu.
+             Bereken het benodigde aantal accu’s voor de Arena.
+
+
+
+
+HA-1023-a-23-2-o                            8 / 18                           lees verder ►►►
+      Caravanremmen
+
+            Caravans hebben een remsysteem dat remblokken tegen remtrommels in
+            de wielen drukt. Dit remsysteem kan op drie verschillende manieren
+            geactiveerd worden:
+            1 Handmatig door het aantrekken van een hefboom (handrem).
+            2 Met een breekkabel als de caravan losschiet van de trekhaak
+                (losbreekrem).
+            3 Doordat een afremmende auto tegen de koppeling duwt (oplooprem).
+            Zie figuren 1 en 2.
+
+            figuur 1                                 figuur 2
+
+
+
+
+            Handrem
+            De handrem wordt gebruikt bij het parkeren. De handrem werkt met een
+            hefboom die draait rond draaipunt D. Hiermee wordt een kracht
+            uitgeoefend op de remblokken bij de wielen. De hendel wordt omhoog
+            getrokken met een spierkracht. De wielen zijn geblokkeerd totdat de rem
+            wordt ontgrendeld met een knop.
+            Om de wielen te blokkeren moet op punt Q van de hefboom een kracht F
+            van 3,5 103 N werken.
+
+            Figuur 2 is een schematische weergave op schaal van figuur 1. In de
+            uitwerkbijlage staat figuur 2 vergroot weergegeven. Ook zijn de werklijnen
+            getekend van de twee krachten die op de hefboom werken.
+4p    10    Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage de armen van de krachten.
+             Bepaal de spierkracht waarmee de handrem moet worden
+                aangetrokken om de wielen te blokkeren.
+
+
+
+
+HA-1023-a-23-2-o                            9 / 18                           lees verder ►►►
+            Losbreekrem
+            Als de caravan tijdens het rijden van de auto losraakt, moet de caravan zo
+            snel mogelijk tot stilstand komen. Daarvoor zorgt de losbreekrem. Dit is
+            een kabel die aan één kant vastzit aan de auto en aan de andere kant aan
+            de hefboom van de handrem. Zie figuur 3.
+            Als de caravan tijdens het rijden loskomt van de auto, trekt de kabel de
+            handrem aan. Zodra de rem in de blokkeerstand is getrokken, breekt de
+            kabel en remt de caravan afzonderlijk van de auto af. Zie figuur 4.
+
+            figuur 3                                 figuur 4
+
+
+
+
+            De stalen breekkabel is ontworpen om te breken bij 3,5 103 N . Het
+            spanning-rekdiagram van de gebruikte staalsoort staat in figuur 5.
+
+            figuur 5
+
+
+
+
+4p    11    Bepaal de diameter (dikte) die de staalkabel moet hebben.
+
+
+
+
+HA-1023-a-23-2-o                           10 / 18                            lees verder ►►►
+            Oplooprem
+            Wanneer de auto afremt, werkt er een kracht van de auto op de caravan.
+            Hierdoor wordt het remsysteem van de caravan geactiveerd, zodat de
+            caravan zelf gaat remmen (oplooprem). Tijdens een lange afdaling kan
+            het remsysteem constant blijven remmen. De remtrommels worden
+            daardoor zeer heet. De ANWB heeft hier onderzoek naar gedaan. In
+            figuur 6 is een (v,t)-diagram van een auto met caravan tijdens een
+            afdaling weergegeven.
+
+            figuur 6
+
+
+
+
+            De combinatie auto met caravan heeft tijdens de afdaling een afstand
+            afgelegd van 4,3 km.
+
+1p    12    Geef aan hoe dat te bepalen is met behulp van figuur 6. Je hoeft de
+            bepaling niet uit te voeren.
+
+            De motor van de auto is tijdens de afdaling niet gebruikt. De
+            beginsnelheid en eindsnelheid van de rit zijn beide gelijk aan 0 m s 1.
+            Tussen het begin en het einde van de afdaling zit een hoogteverschil van
+            370 meter. De totale massa van de combinatie is 3, 0 103 kg.
+
+5p    13    Bereken met behulp van de wet van behoud van arbeid en energie de
+            gemiddelde remkracht op de combinatie. Noteer je antwoord in het juiste
+            aantal significante cijfers.
+
+            Tussen 550 s en 570 s remde de combinatie op een horizontale weg
+            eenparig af tot stilstand. Figuur 6 staat ook op de uitwerkbijlage.
+3p    14    Bepaal met de tweede wet van Newton en de figuur op de uitwerkbijlage
+            de grootte van de remkracht op de combinatie tijdens dit afremmen.
+
+
+
+
+HA-1023-a-23-2-o                           11 / 18                          lees verder ►►►
+            Tijdens de hele afdaling werd de temperatuur van de remtrommels
+            continu gemeten. Tussen 450 en 545 seconden was de snelheid constant.
+            De temperatuur van beide ijzeren remtrommels (mtot = 5,2 kg) is
+            gedurende deze periode opgelopen van 120 °C naar 175 °C.
+5p    15    Voer de volgende opdrachten uit:
+             Bereken hoeveel warmte minimaal per seconde in de remtrommels
+                werd ontwikkeld tijdens deze periode. Noteer je antwoord in het juiste
+                aantal significante cijfers.
+             Geef aan waarom het werkelijk opgewekte warmtevermogen in de
+                remtrommels groter was dan de berekende minimale waarde.
+
+
+
+
+HA-1023-a-23-2-o                           12 / 18                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1023-a-23-2-o                       13 / 18   lees verder ►►►
+      Aluminium
+
+            Aluminium is een metaal dat vanwege zijn stofeigenschappen veel
+            verschillende toepassingen heeft.
+            Door de lage dichtheid van aluminium is het bijvoorbeeld in voertuigen
+            een interessante vervanging voor ijzer. Vermindering van gewicht
+            betekent namelijk vermindering van energiegebruik door het voertuig.
+            Ingenieurs hebben ooit de volgende vuistregel bepaald:
+
+
+              In een voertuig kan ijzer worden vervangen door aluminium in de
+              verhouding 2:1 bij gelijkblijvende stevigheid van de constructie. Dit
+              betekent dat 2 kilogram ijzer kan worden vervangen door 1 kilogram
+              aluminium.
+            De stevigheid van een constructie wordt onder andere bepaald door de
+            treksterkte van het materiaal.
+3p    16    Voer de volgende opdrachten uit:
+             Bereken de verhouding tussen de dichtheden van ijzer en aluminium.
+             Geef een reden waarom de ingenieurs op een andere verhouding
+                uitkomen dan uit de dichtheden volgt.
+
+            De thermische eigenschappen van aluminium maken dit metaal ook
+            geschikt voor gebruik in zogenaamde koellichamen. In elektrische
+            apparaten worden koellichamen gebruikt om warmte op te nemen en af te
+            voeren tijdens langdurig gebruik van de elektronica. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Voor een koellichaam zijn twee materiaaleigenschappen van belang:
+             de soortelijke warmte
+             de warmtegeleidingscoëfficiënt
+
+
+
+
+HA-1023-a-23-2-o                            14 / 18                            lees verder ►►►
+            Op de uitwerkbijlage staan drie zinnen over de vergelijking tussen twee
+            koellichamen van gelijke vorm en grootte, het ene gemaakt van aluminium
+            en het andere van koper.
+3p    17    Omcirkel in iedere zin op de uitwerkbijlage het juiste antwoord.
+
+            De productie van nieuw aluminium uit erts kost veel energie. Aluminium is
+            echter goed herbruikbaar; gebruikt aluminium is met minder energie
+            volledig te recyclen. Om aluminium voor recycling te herkennen in een
+            mengsel van metaalafval, wordt gebruikgemaakt van de stofeigenschap
+            halveringsdikte.
+            Het metaalafval wordt eerst versnipperd en daarna doorstraald met een
+            evenwijdige bundel röntgenfotonen met een energie van 50 keV. Zie
+            figuur 2.
+
+            figuur 2
+
+
+
+
+            De hoeveelheid doorgelaten straling wordt gemeten. Wanneer een stukje
+            aluminium wordt gedetecteerd dan wordt dit stukje van de band geblazen
+            en opgevangen. De overige metalen blijven op de band liggen.
+
+            Er wordt een stukje metaal van 14 mm dikte doorstraald. Van de
+            röntgenstraling die erop valt wordt 17% doorgelaten.
+4p    18    Leg met een berekening uit of dit stukje moet worden weggeblazen.
+
+            De röntgenbron is extreem krachtig en daarom zeer goed afgeschermd.
+            De gebruikte bron zendt 15 kW aan stralingsvermogen uit.
+            Röntgenstraling heeft een weegfactor 1. Wanneer een medewerker per
+            ongeluk zijn hand (m = 500 g) gedurende 0,1 s onder de bron zou houden
+            en de hand 25% van de uitgezonden straling zou absorberen, dan zou de
+            jaarlijkse stralingsbeschermingsnorm van 500 mSv al flink worden
+            overschreden.
+4p    19    Toon dit met een berekening aan.
+
+
+
+
+HA-1023-a-23-2-o                           15 / 18                          lees verder ►►►
+      OSIRIS-REx
+
+            In 2016 werd de satelliet OSIRIS-REx gelanceerd. Deze satelliet moest
+            een bezoek brengen aan planetoïde Bennu om bodemmonsters op te
+            halen voor onderzoek. Een planetoïde is een klein hemellichaam dat net
+            als een planeet in een baan rond de zon beweegt.
+
+            Met behulp van observaties en metingen vanaf aarde hebben
+            onderzoekers de massa van Bennu bepaald op 7,329 1010 kg.
+
+            In 2020 arriveerde OSIRIS-REx bij Bennu. Om veilig te kunnen landen
+            moest de valversnelling op Bennu bekend zijn. De onderzoekers hebben
+            daarom een model van Bennu gemaakt. Bennu werd gemodelleerd als
+            een bol met een straal van 2, 45 102 m.
+            Volgens dit model is de gravitatieversnelling op Bennu 1, 2 105 keer zo
+            klein als de valversnelling op aarde.
+3p    20    Toon dit met een berekening aan.
+
+            De valversnelling bleek te klein voor een echte landing. Daarom werd een
+            andere methode gekozen: OSIRIS-REx maakte alleen met een robotarm
+            contact met Bennu. Zie figuur 1. Tijdens het contact werd gas door de kop
+            van de robotarm geperst. Dit gas liet stof van het oppervlak opwaaien. Dit
+            stof werd verzameld in stofcontainers. Het gas perste zich ten slotte via
+            openingen in de kop naar buiten. Zie schematisch in figuur 2.
+
+            figuur 1                 figuur 2
+
+
+
+
+HA-1023-a-23-2-o                           16 / 18                           lees verder ►►►
+            Het gas zorgde voor twee even grote krachten F aan de linker- en
+            rechterkant van de kop. De verticale componenten van beide krachten
+            zorgden ervoor dat de kop tegen het oppervlak van Bennu aangedrukt
+            werd.
+            Op de uitwerkbijlage is een vergroting van een deel van figuur 2
+            afgebeeld. Hierin is de richting van de kracht F ( F  3,3 101 N ) aan de
+            rechterkant weergegeven.
+4p    21    Voer de volgende opdrachten uit:
+             Bepaal met een constructie de grootte van de verticale component Fv
+               van deze kracht F.
+             Leg met behulp van figuur 2 uit dat de kop in horizontale richting geen
+               versnelling ondervond.
+
+            Door de kleine valversnelling was het moeilijk om nauwkeurig de massa te
+            bepalen van het verzamelde materiaal. Om deze massa toch te kunnen
+            bepalen, was een zogenaamde spin-manoeuvre bedacht.
+            Tijdens deze manoeuvre werd de robotarm met het verzamelde materiaal
+            volledig uitgestrekt. Vervolgens werd OSIRIS-REx met behulp van een
+            stuwraket rondgedraaid. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            Let op: de laatste opdrachten van dit examen staan op de volgende
+            pagina.
+
+
+
+
+HA-1023-a-23-2-o                            17 / 18                           lees verder ►►►
+            Van het ronddraaien van het materiaal kan een eenvoudig model worden
+            gemaakt. In dit model draait het materiaal met onbekende massa m aan
+            een massaloze arm met een bekende lengte rond een draaipunt D. Omdat
+            de massa van OSIRIS-REx veel groter is dan de massa van het materiaal
+            is D tevens het zwaartepunt van OSIRIS-REx. Zie het bovenaanzicht in
+            figuur 4.
+
+            figuur 4
+
+
+
+
+            De kracht van de robotarm op het materiaal werd gemeten.
+2p    22    Leg uit met behulp van een formule uit het informatieboek welke andere
+            grootheid ook gemeten moest worden om de massa te kunnen bepalen.
+
+            OSIRIS-REx moet het materiaal uiteindelijk afleveren op aarde. Om het
+            verzamelde materiaal ongeschonden door de dampkring heen te krijgen,
+            is het opgeslagen in een capsule met een hitteschild. De capsule is zo
+            ontworpen dat de warmtestroom door het hitteschild zo klein mogelijk is,
+            om de temperatuur in de capsule zo laag mogelijk te houden. Op de
+            uitwerkbijlage staat een tabel met verschillende eigenschappen van het
+            hitteschild waarvoor een ontwerpkeuze is gemaakt.
+2p    23    Geef op de uitwerkbijlage met een kruisje per eigenschap aan of die
+            eigenschap zo groot mogelijk of zo klein mogelijk moet zijn.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-23-2-o                                         18 / 18                                          lees verdereinde
+                                                                                                                       ►►► 
+

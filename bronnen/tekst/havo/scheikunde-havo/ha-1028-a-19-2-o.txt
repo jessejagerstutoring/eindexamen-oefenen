@@ -1,0 +1,622 @@
+                                                                  Examen HAVO
+
+                                                                        2019
+                                                                               tijdvak 2
+                                                                        dinsdag 18 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 37 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-19-2-o
+      Vitamine B6
+
+            Vitamine B6 speelt onder meer een rol bij de vorming van rode
+            bloedcellen en een goede werking van het zenuwstelsel. De aanduiding
+            ‘vitamine B6’ wordt gebruikt voor een aantal hydrofiele verbindingen die in
+            het lichaam in elkaar kunnen worden omgezet. De namen van twee van
+            deze verbindingen worden afgekort weergegeven met PL en PLP. De
+            structuurformules van PL en PLP zijn hieronder weergegeven.
+
+                           O        H                                                     H H
+                               C                                            O       H
+                                        H                                       C H H O O
+                                                H
+            H O                C            C                          H O     C   C   P
+                        C              C                                     C   C   O   O
+                                                O H
+               H                                                        H
+                        C              C                                     C   C
+                   C           N            H                             C        H
+             H                                                                 N
+                       H                                               H
+                                                                            H
+                               PL                                                   PLP
+            De structuurformule van PL is nogmaals weergegeven op de
+            uitwerkbijlage.
+
+2p    1     Geef op de uitwerkbijlage weer hoe twee watermoleculen aan een
+            PL-molecuul kunnen binden door middel van waterstofbruggen. Teken de
+            watermoleculen in structuurformules en geef de waterstofbruggen met
+            stippellijntjes (….) weer.
+
+            PL en PLP zijn betrokken bij een bepaalde omzetting die plaatsvindt door
+            reactie van één van beide stoffen met ATP. Hierbij ontstaat de andere stof
+            en ADP. De structuurformules van ATP en ADP staan hieronder.
+
+                                                              NH2
+                                                          N   C
+                    OH          OH                          C   N
+                                                       HC
+            HO P O              P O CH2
+                                                     O   N C N CH
+                    O           O
+                                           HC H          H CH
+                                              C          C
+                   ADP                              OH   OH
+
+
+                                                                       NH2
+                                                                   N   C
+                       OH          OH           OH                   C   N
+                                                                HC
+            HO P O                 P O          P O CH2
+                                                              O   N C N CH
+                       O           O            O
+                                                      HC H      H CH
+                                                         C      C
+                            ATP                           OH    OH
+
+
+
+HA-1028-a-19-2-o                                                 2 / 15                         lees verder ►►►
+2p    2     Leg uit aan de hand van de structuurformules of PLP bij deze omzetting
+            de beginstof of het reactieproduct is.
+
+            Het menselijk lichaam kan vitamine B6 niet zelf aanmaken. Daarom moet
+            deze vitamine uit voedsel worden opgenomen. De aanbevolen dagelijkse
+            hoeveelheid (ADH) voor vitamine B6 is 1,5 mg.
+
+            Op internet zijn verschillende tabellen te vinden met gegevens over de
+            hoeveelheid vitamines in voeding. Goede bronnen van vitamine B6 zijn
+            bijvoorbeeld vlees, bananen en eieren.
+            Het Voedingscentrum geeft aan dat 100 g banaan 0,291 mg vitamine B6
+            bevat. De website www.vitamine-info.nl vermeldt dat één banaan 28% van
+            de ADH van vitamine B6 bevat.
+
+2p    3     Toon met behulp van een berekening aan dat deze gegevens over de
+            hoeveelheid vitamine B6 in banaan nagenoeg met elkaar overeenkomen.
+            Ga ervan uit dat een banaan gemiddeld 147 gram weegt.
+
+            Vitamine B6 fungeert als een soort ‘hulpdeeltje’ van het enzym
+            glutaminezuurdecarboxylase (GAD). Wanneer vitamine B6 bindt aan GAD
+            ontstaat een biokatalysator die de ‘decarboxylering’ van het aminozuur
+            glutaminezuur katalyseert. Hierbij wordt uitsluitend glutaminezuur
+            omgezet. Deze decarboxylering is een reactie waarbij één molecuul
+            koolstofdioxide wordt afgesplitst. Er ontstaat dan een stof
+            (gamma-aminoboterzuur) die een rol speelt in het zenuwstelsel.
+
+1p    4     Noem de eigenschap van deze biokatalysator die ervoor zorgt dat er geen
+            andere stoffen dan glutaminezuur worden omgezet.
+
+2p    5     Geef de reactievergelijking in molecuulformules voor de decarboxylering
+            van glutaminezuur.
+            Maak gebruik van Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+
+
+
+HA-1028-a-19-2-o                           3 / 15                           lees verder ►►►
+      Sterretjes
+
+            Rond ‘Oud en Nieuw’ worden zogenoemde sterretjes
+            aangestoken. Een sterretje is een soort vuurwerk dat
+            langzaam opbrandt en daarbij wegspringende
+            vonken geeft. Een sterretje bestaat uit een stukje
+            ijzerdraad dat voor een deel is bedekt met een
+            zogenoemde sas.
+            De sas kan bestaan uit een zuurstofleverende stof
+            (bariumnitraat), een bindmiddel (bijvoorbeeld
+            dextrine), aluminiumpoeder en ijzervijlsel.
+            Bij een aangestoken sterretje treedt tegelijkertijd een
+            aantal reacties op, waarbij veel energie vrijkomt.
+            De vergelijking van één van de reacties die optreedt wanneer een
+            sterretje wordt aangestoken is hieronder weergegeven:
+
+            10 Al + 3 Ba(NO3)2  3 BaO + 3 N2 + 5 Al2O3
+
+            Hierdoor ontstaat gas waardoor gloeiende ijzerdeeltjes worden
+            weggeschoten. De voor sterretjes kenmerkende vonken ontstaan door de
+            snelle verbranding van deze wegvliegende ijzerdeeltjes met zuurstof uit
+            de lucht.
+
+            Wanneer ijzer reageert met zuurstof treedt de volgende exotherme reactie
+            op:
+
+            4 Fe + 3 O2  2 Fe2O3
+
+2p    6     Licht toe aan de hand van de reactiewarmte dat de reactie van ijzer met
+            zuurstof exotherm is. Gebruik hierbij Binas-tabel 57A of
+            ScienceData-tabel 9.2 en vermeld de waarde die je hebt gebruikt.
+
+            Guus onderzoekt of een sterretje kan branden in een kleine ruimte.
+            Daarom steekt hij een sterretje aan en stopt dat, met de aangestoken kant
+            naar beneden, in een smalle open fles.
+            Hij doet de volgende waarnemingen:
+            a In de fles is slechts enkele seconden een vonkenregen te zien.
+                Daarna niet meer.
+            b Bij de halsopening komen af en toe vonken uit de fles.
+            c Het sterretje brandt helemaal ‘op’: de sas is verdwenen.
+
+1p    7     Geef een mogelijke verklaring voor het verschijnsel dat de vonkenregen in
+            de fles wel begint, maar snel uitdooft (waarneming a).
+
+
+
+
+HA-1028-a-19-2-o                           4 / 15                           lees verder ►►►
+1p    8     Geef aan waardoor het mogelijk is dat het sterretje wel opbrandt
+            (waarneming c).
+
+            Het verbranden van ijzerdeeltjes veroorzaakt goudwitte vonken. Het
+            ontstaan van de vonken heeft te maken met de bouw van de
+            elektronenwolk van de aanwezige metaalatomen. Bij toevoer van energie
+            kan een elektron overgaan naar een hogere energietoestand. Dit elektron
+            zal echter snel teruggaan naar de oorspronkelijke energietoestand waarbij
+            de overtollige energie vrijkomt. Een deel hiervan wordt uitgezonden in de
+            vorm van licht.
+
+            Op de uitwerkbijlage is de kern van een ijzeratoom weergegeven met
+            daaromheen een K-, L-, M- en N-schil. De K- en L-schil zijn volledig
+            gevuld, de M-schil van een ijzeratoom bevat 14 elektronen en de N-schil 2
+            elektronen.
+
+4p    9     Geef op de uitwerkbijlage de bouw van een atoom Fe-56. Geef de plaats
+            van de protonen, neutronen en elektronen aan door middel van de
+            notaties p, n en e. Noteer hierbij ook steeds het aantal (protonen,
+            neutronen of elektronen).
+
+            Om vonken met een andere kleur te laten ontstaan kunnen
+            metaalverbindingen aan de sas worden toegevoegd. Ook wordt dan een
+            chloorverbinding toegevoegd, waardoor bij hoge temperaturen
+            metaalchloriden ontstaan die voor de kleureffecten zorgen. Zo kan
+            bijvoorbeeld strontiumcarbonaat worden gebruikt om rode vonken te laten
+            ontstaan.
+
+2p    10    Geef, met behulp van Binas-tabel 65A of ScienceData-tabel 8.9, de
+            formule van een ander carbonaat dat bij het branden van een sterretje
+            voor rode vonken zorgt.
+
+
+
+
+HA-1028-a-19-2-o                           5 / 15                              lees verder ►►►
+      Croda
+
+            Het bedrijf Croda laat zien dat duurzaamheid, innovatie en economische
+            doelen uitstekend samen kunnen gaan:
+
+            tekstfragment
+
+      1     Croda uit Gouda splitst oliën en vetten en maakt er glycerol en vetzuren
+      2     van. Van de onverzadigde vetzuren kan Croda monomeren maken voor
+      3     specifieke polymeren en coatings. Natuurlijke vetzuren hebben één
+      4     carboxylgroep aan het uiteinde van het molecuul. Samen met het bedrijf
+      5     Umicore ontwikkelde Croda een uniek katalytisch proces om ook aan het
+      6     andere uiteinde een carboxylgroep te krijgen. De basis voor deze
+      7     technologie is de alkeenmetathese-reactie, een vinding waarvoor in 2005
+      8     de Nobelprijs voor de chemie werd uitgereikt. Erik Philipse van Croda zegt
+      9     erover: “De vetzuren die wij uit natuurlijke oliën en reststromen isoleren
+     10     hebben veel dubbele bindingen. Die binding breken wij via
+     11     alkeenmetathese met behulp van een katalysator, die we steeds
+     12     terugwinnen in een energiezuinig proces met hoge selectiviteit. Daarna
+     13     zetten we de beide stukken van verschillende vetzuren weer aan elkaar
+     14     en beschikken dan over onverzadigde vetzuren met twee
+     15     carboxylgroepen. Deze dubbelfunctionele vetzuren zijn vervolgens zeer
+     16     goed te gebruiken als building blocks voor veel soorten polymeren, zoals
+     17     polyesters en polyamides.” Met deze technologie maakt Croda een
+     18     reuzenstap in de ontwikkeling van nieuwe biobased bouwstenen en
+     19     daarmee op de markt voor groene chemische producten.
+
+                   naar: Naar groene chemie en groene materialen
+
+
+            Een voorbeeld van een onverzadigd vetzuur (regel 2) is hieronder in een
+            vereenvoudigde structuurformule weergegeven:
+
+                O
+            H O C C17H33
+
+2p    11    Leid af dat dit vetzuur onverzadigd is. Gebruik hierbij bovenstaande
+            vereenvoudigde structuurformule.
+
+
+
+
+HA-1028-a-19-2-o                             6 / 15                          lees verder ►►►
+            Het ‘splitsen’ (regels 1 en 2) kan gebeuren door het vet te laten reageren
+            met water.
+
+3p    12    Geef, in structuurformules, de vergelijking weer van de reactie van een
+            vet met water. Gebruik daarvoor een vet waarin twee eenheden
+            palmitinezuur en één eenheid stearinezuur zijn veresterd met glycerol.
+            Noteer het koolwaterstofgedeelte van palmitinezuur als C15H31 en dat van
+            stearinezuur als C17H35.
+
+            Alkeenmetathese (regel 11) is een gekatalyseerde reactie die plaatsvindt
+            tussen twee onverzadigde koolstofverbindingen. In deze reactie worden
+            twee dubbele bindingen verbroken en twee nieuwe dubbele bindingen
+            gevormd. Er is sprake van zelfmetathese wanneer als beginstof slechts
+            één soort koolstofverbinding reageert. Het proces van zelfmetathese is in
+            figuur 1 schematisch weergegeven. R1 en R2 stellen verschillende
+            restgroepen voor.
+
+            figuur 1
+
+               H H
+                                         H            H
+            R1 C C R2
+                                      R1 C            C R2
+                   +                            +
+                                      R1 C            C R2
+            R1 C C R2                    H            H
+               H H
+
+
+            Bij de zelfmetathese van oliezuur (Binas-tabel 67G2 of
+            ScienceData-tabel 13.2g) ontstaat octadec-9-eendizuur (zie figuur 2) en
+            één andere stof (stof X).
+            Ook uit andere vetzuren kan, door zelfmetathese, octadec-9-eendizuur
+            ontstaan. In de uitwerkbijlage zijn de structuurformules van een aantal
+            vetzuren weergegeven.
+
+            figuur 2
+
+            H        O
+            C (CH2)7 C O H
+                     O
+            C (CH2)7 C O H
+            H
+
+2p    13    Geef de structuurformule van stof X, die ontstaat bij de zelfmetathese van
+            oliezuur.
+
+2p    14    Omcirkel op de uitwerkbijlage de dubbele C=C bindingen die worden
+            verbroken wanneer uit de gegeven vetzuren, via zelfmetathese,
+            octadec-9-eendizuur wordt gevormd.
+
+
+
+HA-1028-a-19-2-o                             7 / 15                           lees verder ►►►
+            Octadec-9-eendizuur is een hoogwaardig tussenproduct in de
+            polymeerindustrie. Het kan bijvoorbeeld via polycondensatie reageren tot
+            het copolymeer dat is weergegeven in figuur 3. Dit copolymeer speelt een
+            belangrijke rol bij de productie van bijvoorbeeld polyurethanen, die onder
+            meer worden gebruikt in autolakken.
+
+            figuur 3
+
+                  O                     O
+            H O ( C (CH2)7 CH CH (CH2)7 C O (CH2)2 O (n H
+
+2p    15    Geef de structuurformule van de verbinding die met octadec-9-eendizuur
+            bovenstaand copolymeer geeft.
+
+            In het tekstfragment wordt een aantal aspecten van het productieproces
+            bij Croda genoemd die vergeleken kunnen worden met de uitgangspunten
+            van de groene chemie.
+
+2p    16    Noem twee van dergelijke aspecten uit het tekstfragment met het
+            corresponderende regelnummer, en vermeld het bijbehorende
+            uitgangspunt van de groene chemie. Maak hierbij gebruik van
+            Binas-tabel 97F of ScienceData-tabel 38.6.
+            Noteer je antwoord als volgt:
+             aspect 1 uit tekst : …
+                regelnummer: …
+                uitgangspunt groene chemie: …
+             aspect 2 uit tekst : …
+                regelnummer: …
+                uitgangspunt groene chemie: …
+
+
+
+
+HA-1028-a-19-2-o                            8 / 15                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+HA-1028-a-19-2-o                        9 / 15   lees verder ►►►
+      Koele kauwgom
+
+             Even lekker een kauwgompje kauwen voor een frisse adem. Maar wat
+             maakt kauwgom nou zo lekker fris? Esther onderzoekt de verfrissende
+             werking van haar favoriete kauwgom ‘Xylifresh menthol ice’. Ze denkt dat
+             menthol zorgt voor een frisse adem. Op de verpakking leest zij de
+             volgende informatie:
+
+             SUGAR FREE GUM, GEZOET MET ZOETSTOFFEN.
+             INGREDIENTEN: ZOETSTOFFEN (XYLITOL 63%, ASPARTAAM 0,1%), GOMBASIS,
+             AROMA’S, DICALCIUMFOSFAAT 1,3%, STABILISATOR (GLYCEROL), KLEURSTOFFEN
+             (E141, E171), GLANSMIDDEL, GROENE THEE EXTRACT 0,1%
+
+             Op internet ontdekt ze dat menthol een natuurlijke aromatische stof is, die
+             inderdaad bijdraagt aan het verkoelende effect. Dit komt doordat in onze
+             zintuigcellen een eiwit (TRPM8) aanwezig is dat reageert op verandering
+             in temperatuur en waarschuwt voor kou. Merkwaardig genoeg kan niet
+             alleen kou, maar ook menthol dit eiwit activeren. Een mentholmolecuul
+             past namelijk precies in een holte van TRPM8. De hersenen verwerken dit
+             als een signaal voor kou.
+
+             In figuur 1 is in structuurformules weergegeven hoe een mentholmolecuul
+             (vet gedrukt) in de holte van TRPM8 past.
+
+             figuur 1
+
+
+
+
+2p    17     Geef, met behulp van Binas-tabel 67H1 of ScienceData-tabel 13.7c,
+             de 3-lettersymbolen van de aminozuureenheden die aanwezig zijn in het
+             hierboven weergegeven deel van TRPM8.
+
+2p    18     Licht toe aan de hand van figuur 1 en de begrippen hydrofoob en hydrofiel
+             waarom menthol zich bij voorkeur niet in water, maar in de holte van
+             TRPM8 bevindt.
+
+
+
+HA-1028-a-19-2-o                            10 / 15                            lees verder ►►►
+            Vervolgens ontdekt Esther dat het eigenlijk vooral het hoofdbestanddeel
+            van de kauwgom, xylitol, is dat zorgt voor verkoeling. Deze zoetstof is
+            goed oplosbaar in water (speeksel). Voor het oplossen van xylitol is
+            energie nodig.
+
+1p    19    Verklaar waardoor het oplossen van xylitol in speeksel zorgt voor een
+            verkoelend effect in de mond.
+
+            Esther merkt dat het verkoelende effect maar enkele minuten duurt. Ze
+            vraagt zich af of de xylitol zo snel uit de kauwgom weg is. Om dit te
+            onderzoeken weegt ze een kauwgompje (1,45 gram), doet het in haar
+            mond en kauwt goed. Om de zoveel tijd haalt ze het kauwgompje uit haar
+            mond, droogt het af en weegt het opnieuw. Haar resultaten zijn
+            weergegeven in figuur 2.
+
+            figuur 2
+
+              massa 1,6
+            kauwgom
+               (g)
+                    1,4
+
+                    1,2
+
+                    1,0
+
+                    0,8
+
+                    0,6
+
+                    0,4
+
+                       0
+                           0   1    2      3         4     5      6            7
+                                                                      tijd (min)
+
+
+            Na vijf minuten is ruim 90% van de xylitol uit het kauwgompje verdwenen.
+
+2p    20    Laat dit door middel van een berekening zien.
+             Maak gebruik van de massapercentages in de gegeven informatie op
+               de verpakking.
+             Neem aan dat xylitol de enige stof is die oplost in het speeksel.
+             Lees figuur 2 af in twee decimalen.
+
+3p    21    Bereken hoeveel °C de temperatuur van het speeksel met opgelost xylitol
+            ('speekselmengsel'), na één minuut is gedaald.
+            Maak gebruik van figuur 2 en neem aan dat:
+             voor het oplossen 153 J per gram xylitol nodig is;
+             xylitol gedurende de eerste minuut oplost tot 3 g speekselmengsel;
+             bij het afkoelen van 1 g speekselmengsel 4,2 J per °C vrijkomt.
+
+
+HA-1028-a-19-2-o                           11 / 15                                 lees verder ►►►
+      Honing
+
+            Honing wordt door bijen gemaakt uit nectar, een suikerrijke vloeistof uit
+            bloemen. Nectar bevat behalve water onder andere sacharose, glucose
+            en fructose. Bijen zetten deze nectar met behulp van enzymen om tot
+            honing, waarbij het massapercentage suikers (koolhydraten) toeneemt.
+            Daarbij wordt de sacharose grotendeels omgezet tot glucose en fructose.
+            Deze reactie is een hydrolyse.
+
+2p    22    Leg uit dat door de hydrolyse van sacharose het massapercentage
+            suikers toeneemt.
+
+            Honing heeft een antibacteriële werking. Wanneer op de huid rond een
+            wondje een beetje honing wordt gesmeerd, remt dit de bacteriegroei rond
+            de wond. Door de hoge concentratie suikers drogen de bacteriën uit.
+            Een andere oorzaak van deze ontsmettende werking kan worden
+            verklaard met de aanwezigheid van het enzym glucose-oxidase in honing.
+            In matig verdunde en enigszins zure honing wordt dit enzym actief.
+            Glucose-oxidase zet glucose met behulp van zuurstof en water om tot
+            gluconzuur (C6H12O7) en waterstofperoxide. Hierbij is zuurstof de oxidator.
+            Het gevormde waterstofperoxide remt de groei van bacteriën.
+
+2p    23    Geef de totale vergelijking van de reactie waarbij glucose met behulp van
+            zuurstof en water wordt omgezet tot gluconzuur en waterstofperoxide.
+
+2p    24    Geef de vergelijking van de halfreactie van de oxidator. Maak gebruik van
+            Binas-tabel 48 of ScienceData-tabel 9.1f.
+
+            De bovenstaande oorzaken zijn echter onvoldoende om de ontsmettende
+            werking van honing volledig te verklaren. Bij een onderzoek werd in een
+            bepaald soort honing het eiwit ‘defensine 1’ ontdekt. Bijen gebruiken
+            defensine 1 in hun afweersysteem. Defensine 1 is in de lichtzure honing
+            (pH = 4) positief geladen. De zijgroepen van bepaalde aminozuren in het
+            eiwit hebben dan een positieve lading. Deze positieve lading is
+            noodzakelijk voor de antibacteriële werking van het eiwit. Schematisch
+            kan het ontstaan van de positieve lading als volgt worden weergegeven:
+
+                           +                +
+            Def1 NH2 + H          Def1 NH3
+
+
+
+
+HA-1028-a-19-2-o                           12 / 15                            lees verder ►►►
+            Hieronder is de aminozuurvolgorde in een fragment van dit eiwit
+            weergegeven:
+
+                   Leu   Leu   Ser   Phe   Lys   Gly
+
+2p    25    Geef het 3-lettersymbool van het aminozuur in bovenstaand fragment dat
+            deze positieve lading zou kunnen krijgen.
+             Gebruik Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+             Licht je antwoord toe.
+
+2p    26    Leg uit waardoor er minder positieve lading aanwezig is in basisch milieu
+            (pH groter dan 7).
+
+            Honing zal na verloop van tijd kristalliseren. Door de honing voorzichtig te
+            verwarmen kan de honing weer kristalvrij worden gemaakt. Wanneer de
+            honing echter enige tijd boven 40 °C is verwarmd, blijkt een groot deel
+            van de antibacteriële activiteit, ook na afkoelen, verloren te zijn gegaan.
+
+2p    27    Geef aan de hand van de informatie uit deze opgave twee mogelijke
+            verklaringen voor deze afname van de antibacteriële activiteit.
+
+
+
+
+HA-1028-a-19-2-o                                  13 / 15                      lees verder ►►►
+      Beitsen en verzinken
+
+            IJzeren voorwerpen kunnen tegen corrosie worden beschermd door ze te
+            ‘verzinken’. Deze voorwerpen worden eerst enige tijd in een bad met
+            ‘beitszuur’ gehangen om reeds aanwezig roest (Fe2O3.3H2O) te
+            verwijderen. Beitszuur is zoutzuur dat ongeveer 50 gram opgelost HCl per
+            liter bevat. Daarbij treedt een reactie op die hieronder onvolledig is
+            weergegeven:
+
+            Fe2O3.3H2O + … H+ → … Fe3+ + … H2O
+
+2p    28    Bereken de pH van beitszuur dat 50 gram (opgelost) HCl per liter bevat.
+
+1p    29    Neem de onvolledige reactievergelijking over, en maak deze kloppend
+            door de drie ontbrekende coëfficiënten in te vullen.
+
+            Na het beitsen worden de ijzeren voorwerpen in een bad met vloeibaar
+            zink gedompeld. Hierdoor wordt een laagje ijzer-zinklegering gevormd op
+            het voorwerp.
+
+2p    30    Beschrijf op microniveau de roosteropbouw van een ijzer-zinklegering.
+            Verwerk in je antwoord het type binding tussen de deeltjes.
+
+            Op een website over thermisch verzinken wordt vermeld dat de
+            temperatuur van het zink in het bad ongeveer 400 °C moet zijn. Piet merkt
+            op dat dat niet juist kan zijn en zegt: “een temperatuur van 400 °C is niet
+            hoog genoeg.”
+
+2p    31    Geef aan of Piet gelijk heeft. Motiveer je antwoord met een gegeven uit
+            Binas of ScienceData.
+
+            De voorwerpen worden met behulp van gereedschappen uit het beitsbad
+            gehaald en in het zinkbad gedompeld. Het beitsbad raakt daardoor
+                                                 2–
+            verontreinigd. Hierbij ontstaan ZnCl4 ionen. Wanneer deze ionen niet
+            verwijderd worden, moet het verontreinigde zuur uit het beitsbad worden
+            afgevoerd als chemisch afval. Daarom wordt het verontreinigde afvalzuur
+                                                                              2–
+            door een zogenoemde selectieve ionenwisselaar geleid. De ZnCl4 ionen
+                                                                   2–
+            worden in de ionenwisselaar gebonden. Voor elk ZnCl4 ion dat wordt
+            gebonden, komen twee OH– ionen vrij.
+
+2p    32    Leg uit of de pH van het afvalzuur als gevolg van de ionenwisseling hoger
+            of lager wordt.
+
+
+
+
+HA-1028-a-19-2-o                           14 / 15                            lees verder ►►►
+            Het proces dat hiervoor is beschreven kan vereenvoudigd worden
+            weergegeven met een blokschema. Dit blokschema bevat drie blokken en
+            vijf stofstromen:
+             bad met beitszuur
+             bad met zink
+             ionenwisselaar
+            A: afvalzuur zonder ZnCl42– ionen
+            B: afvalzuur met ZnCl42– ionen
+            C: ijzeren voorwerpen met roest
+            D: ijzeren voorwerpen zonder roest
+            E: verzinkte ijzeren voorwerpen
+3p    33    Teken dit blokschema. Zet bij elke stofstroom de juiste letter (A tot en
+            met E) uit de bovenstaande opsomming. Noteer ook de juiste aanduiding
+            in de blokken.
+                                                        2–
+            Het afvalzuur waaruit de ZnCl4 ionen zijn verwijderd, kan worden
+            gebruikt voor de productie van ijzer(III)chloridesulfaat (FeClSO4).
+
+3p    34    Bereken hoeveel kg FeClSO4 kan worden geproduceerd uit 10 ton
+            (1 ton = 103 kg) afvalzuur dat 8,0 massaprocent Fe3+ bevat. Ga ervan uit
+            dat alle Fe3+ wordt omgezet tot FeClSO4.
+
+            Piet vraagt zich af of de in deze opgave beschreven methode waarmee
+            met het afvalzuur wordt omgegaan in overeenstemming is met het
+            cradle-to-cradle principe. Hij vindt op www.duurzaamheid.nl dat de
+            cradle-to-cradle ontwerpstrategie “ervan uitgaat dat alle materialen een
+            voortdurende en blijvende waarde houden en steeds weer in gesloten
+            kringlopen van productie, gebruik en recycling kunnen worden
+            opgenomen.”
+
+2p    35    Formuleer twee van de vragen waarop Piet antwoord nodig heeft om te
+            kunnen beoordelen of de beschreven methode past binnen het
+            cradle-to-cradle principe.
+
+            FeClSO4 wordt gebruikt in de afvalwaterzuivering om fosfaationen te
+            verwijderen. De ijzer(III)ionen uit het ijzer(III)chloridesulfaat reageren
+            met de fosfaationen, waarna het fosfaathoudende reactieproduct uit het
+            afvalwater kan worden verwijderd. Het gezuiverde afvalwater wordt
+            uiteindelijk op het oppervlaktewater geloosd.
+
+2p    36    Geef aan met welke scheidingsmethode het fosfaathoudende
+            reactieproduct uit het afvalwater kan worden verwijderd. Licht je antwoord
+            toe aan de hand van Binas-tabel 45A of ScienceData-tabel 8.4d.
+
+1p    37    Geef aan waarom het ongewenst is als fosfaationen (overvloedig) in het
+            oppervlaktewater terechtkomen.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1028-a-19-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

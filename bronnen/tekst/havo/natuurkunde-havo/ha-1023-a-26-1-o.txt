@@ -1,0 +1,598 @@
+                                                                   Examen HAVO
+
+                                                                        2026
+                                                                                 tijdvak 1
+                                                                            xxxx 26
+                                                                        dinsdag     xx mei
+                                                                       xx.xx -- 16.30
+                                                                      13.30     xx.xx uur
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 26 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-26-1-o
+      Hamsterwiel
+
+            Machteld heeft een hamster, die vooral         figuur 1
+            ’s nachts actief is in een hamsterwiel. Zie
+            figuur 1. Machteld wil de prestatie van haar
+            hamster vergelijken met die van een mens.
+
+            Eerst meet Machteld de snelheid waarmee
+            de hamster het wiel laat ronddraaien. De
+            meetopstelling die ze hiervoor bouwt
+            bestaat uit een magneetje en een sensor.
+            Ze bevestigt het magneetje op de zijkant
+            van het hamsterwiel. Het wiel heeft een
+            diameter van 24 cm. De sensor hangt aan
+            een statief ernaast. Zie figuur 2.
+            Als het magneetje langs de sensor beweegt,
+            geeft de sensor een spanningspuls. Machteld meet enige tijd de
+            sensorspanning U terwijl de hamster in het wiel loopt. Figuur 3 toont het
+            (U,t)-diagram.
+
+            figuur 2                                 figuur 3
+
+
+
+
+            De baansnelheid van het magneetje is gelijk aan de loopsnelheid van de
+            hamster.
+3p    1     Voer de volgende opdrachten uit:
+             Bepaal de omlooptijd van het magneetje. Noteer je antwoord in twee
+               significante cijfers.
+             Bepaal de loopsnelheid van de hamster.
+
+
+
+
+HA-1023-a-26-1-o                            2 / 21                            lees verder ►►►
+            Vervolgens meet Machteld gedurende een hele nacht. Zij rekent de
+            gegevens uit het (U,t)-diagram om tot een ( s,t)-diagram. Voor een deel
+            van de nacht is dit diagram afgebeeld in figuur 4.
+
+            figuur 4
+
+
+
+
+3p    2     Voer de volgende opdrachten uit:
+             Geef aan hoe uit de grafiek volgt dat de hamster gepauzeerd heeft.
+             Bepaal met behulp van figuur 4 de gemiddelde loopsnelheid van de
+               hamster over dit deel van de nacht. Noteer je antwoord in drie
+               significante cijfers.
+
+
+
+
+HA-1023-a-26-1-o                            3 / 21                           lees verder ►►►
+            Machteld leest op internet de volgende bewering:
+
+
+               Een hamster zet in één nacht net zoveel stappen als een mens tijdens
+               vier marathons.
+
+
+            Een mens zet tijdens een marathon gemiddeld 160 stappen per minuut.
+            De gemiddelde eindtijd is 4 uur en 21 minuten.
+            Om de bewering over het aantal stappen te controleren, bepaalt Machteld
+            de totale afstand die de hamster tijdens de nacht heeft afgelegd. Deze is
+            7,4 km. Ook maakt ze een video van de rennende hamster. Met behulp
+            van losse beeldjes uit de video bepaalt ze de stapgrootte van de hamster.
+            Zie figuur 5.
+
+            figuur 5
+
+
+
+
+            Machteld definieert één stap als het verzetten van een voorpoot van een
+            hamster of een been van een mens van achter naar voren.
+5p    3     Toon met behulp van figuur 5 aan of het aantal stappen van de hamster in
+            één nacht overeenkomt met het aantal stappen van een mens tijdens vier
+            marathons.
+
+
+
+
+HA-1023-a-26-1-o                            4 / 21                          lees verder ►►►
+            Om het vermogen van de rennende hamster te kunnen vergelijken met
+            dat van een marathonloper, wil Machteld bepalen hoe groot de afzetkracht
+            van een hamster tijdens het lopen ongeveer is. Ze constateert dat de
+            hamster tijdens de start even tegen een helling lijkt op te lopen voordat
+            het wiel gaat draaien. Machteld maakt een foto en tekent deze helling op
+            schaal in. Zie figuur 6.
+
+            figuur 6
+
+
+
+
+            Machteld neemt aan dat de kracht waarmee de hamster zich afzet zolang
+            het wiel nog niet draait, even groot is als de afzetkracht nadat het wiel is
+            gaan draaien. Figuur 6 is schematisch weergegeven op de uitwerkbijlage.
+            In die figuur is ook de zwaartekracht op de hamster aangegeven.
+            De hamster heeft een massa van 1,3·102 gram.
+
+            Machteld bepaalt dat de hamster zich afzet met een kracht parallel aan de
+            helling van minimaal 0,3 N.
+4p    4     Toon dat aan met behulp van een bepaling en de figuur op de
+            uitwerkbijlage.
+
+            Machteld neemt aan dat deze afzetkracht van de hamster tijdens het
+            lopen voortdurend 0,3 N blijft. Bij het hardlopen is het vermogen per
+            kilogram lichaamsgewicht een belangrijke grootheid. Voor een amateur
+            marathonloper is dit 3 W kg 1 . Tijdens een bepaald deel van de nacht
+            heeft de hamster een constante loopsnelheid van 2, 4 km h 1 .
+            Machteld denkt dat haar hamster op dat moment een lager vermogen per
+            kilogram lichaamsgewicht levert dan een marathonloper.
+4p    5     Voer de volgende opdrachten uit:
+             Bereken het vermogen dat de rennende hamster levert gedurende dit
+                deel van de nacht.
+             Toon met een berekening aan of Machteld gelijk heeft.
+
+
+
+HA-1023-a-26-1-o                             5 / 21                            lees verder ►►►
+      Solar Orbiter
+
+            In februari 2020 werd de satelliet Solar Orbiter gelanceerd. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Deze satelliet gaat op relatief kleine afstand van de zon metingen doen
+            aan het oppervlak van de zon.
+            Als Solar Orbiter dichter bij de zon komt, zal hij door de zon fors worden
+            opgewarmd.
+1p    6     Geef aan welke vorm van warmtetransport plaatsvindt tussen de zon en
+            Solar Orbiter.
+
+            Solar Orbiter nadert de zon tot een kleinste afstand van 43·106 km
+            (gemeten vanaf het middelpunt van de zon). Zie schematisch en niet op
+            schaal in figuur 2.
+
+            figuur 2
+
+
+
+
+            De intensiteit I is het invallend vermogen van het zonlicht per m2
+            bestraald oppervlak. Dit verandert met de afstand tot de zon volgens een
+            omgekeerd kwadratisch evenredig verband:
+
+                     1
+             I k                               (1)
+                     r2
+            Hierin is:
+             k een constante;
+             r de afstand tot het middelpunt van de zon.
+
+
+HA-1023-a-26-1-o                             6 / 21                            lees verder ►►►
+            Op het aardoppervlak is I in de orde van grootte van 103 W m 2 .
+            Om Solar Orbiter te beschermen tegen een te grote intensiteit van het
+            zonlicht is een hitteschild ontworpen. De ontwerpers hebben hierover een
+            regel opgenomen in het programma van eisen. Zie figuur 3.
+
+            figuur 3
+            Programma van eisen
+            Het hitteschild moet minimaal een intensiteit in de orde van grootte van
+             W m 2 kunnen weerstaan.
+
+            Op de puntjes in figuur 3 staat één van de volgende ordes van grootte:
+             102 , 104 , 106 of 108 .
+3p    7     Leg met figuur 2 en een berekening met formule (1) uit welke orde van
+            grootte in de ontwerpeis staat.
+
+            Het hitteschild bestaat uit drie reflecterende lagen. De afstand tussen
+            laag 1 en laag 2 is 245 mm. De lagen zijn van elkaar gescheiden door
+            titanium verbindingsstaafjes in vacuüm.
+            In figuur 4 is een deel van het hitteschild schematisch en niet op schaal
+            weergegeven. In deze figuur staan ook de verwachte temperaturen van
+            laag 1 en laag 2 dicht bij de zon.
+
+            figuur 4
+
+
+
+
+            De warmtegeleidingscoëfficiënt van titanium is 21,9 W m 1 K 1 . Er zijn 12
+            gelijke verbindingsstaafjes aangebracht tussen laag 1 en laag 2.
+            Een ontwerpeis voor het hitteschild is dat de warmtestroom door alle
+            verbindingsstaafjes tussen laag 1 en laag 2 samen maximaal 15 W mag
+            zijn.
+4p    8     Bereken de oppervlakte van de dwarsdoorsnede die een staafje maximaal
+            mag hebben om aan deze ontwerpeis te voldoen. Geef je antwoord in het
+            juiste aantal significante cijfers.
+
+
+
+HA-1023-a-26-1-o                             7 / 21                             lees verder ►►►
+            De kleinste afstand tussen Solar Orbiter en de zon is 43 106 km .
+3p    9     Bereken de versnelling die Solar Orbiter op deze afstand ondervindt als
+            gevolg van de gravitatiekracht van de zon.
+
+            Op 18 november 2020 maakte Solar Orbiter een foto. Zie figuur 5. Hierop
+            zijn Venus, Mars en de aarde (Earth) te zien.
+
+            figuur 5
+
+
+
+
+            In figuur 6 zijn schematisch de posities van de zon, Mercurius, Venus,
+            Mars en Solar Orbiter op deze datum te zien.
+
+            figuur 6
+
+
+
+
+HA-1023-a-26-1-o                            8 / 21                               lees verder ►►►
+            In figuur 6 is ook de baan van de aarde getekend. Er zijn vier posities
+            (I t/m IV) aangegeven.
+1p    10    Welke positie in figuur 6 komt overeen met de positie van de aarde op het
+            tijdstip van de foto in figuur 5?
+            A positie I
+            B positie II
+            C positie III
+            D positie IV
+
+
+            Net zoals de maan vanaf de aarde gezien maanfasen heeft, heeft Venus
+            vanaf Solar Orbiter gezien ook fasen. In figuur 7 zijn drie mogelijke fasen
+            van Venus afgebeeld.
+
+            figuur 7
+
+
+
+
+2p    11    Leg met behulp van figuur 6 uit welke fase (1, 2 of 3) het best
+            overeenkomt met de fase zoals gezien vanaf Solar Orbiter op
+            18 november 2020.
+
+
+
+
+HA-1023-a-26-1-o                            9 / 21                             lees verder ►►►
+      Lekdetectie
+
+            Een groot lek in een waterleiding is makkelijk te detecteren. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            In de industrie worden veel gassen en vloeistoffen door pijpleidingen
+            vervoerd. Een lek kan grote gevolgen hebben, maar is niet altijd zo
+            duidelijk waarneembaar. Er zijn daarom verschillende methodes om een
+            lek te detecteren.
+            Een lek in een bovengrondse gasleiding kan worden opgespoord met een
+            methode die gebruikmaakt van het geluid dat een gas of vloeistof bij
+            ontsnapping maakt. In het oscillogram in figuur 2 is het signaal
+            weergegeven van het geluid van een lek. Figuur 2 staat ook op de
+            uitwerkbijlage.
+
+            figuur 2
+
+
+
+
+            De tijd staat op de horizontale as en is ingesteld op 20 μs per hokje.
+            Ultrasoon geluid heeft een frequentie boven de 20 kHz.
+3p    12    Toon met een bepaling en de figuur op de uitwerkbijlage aan of dit geluid
+            ultrasoon is.
+
+
+
+HA-1023-a-26-1-o                            10 / 21                            lees verder ►►►
+            Om lekken onder de grond te detecteren wordt een andere methode
+            gebruikt. Hierbij wordt een capsule met een radioactieve tracer
+            meegevoerd door het gas of de vloeistof in de buis. De buis heeft overal
+            een gelijke doorsnede. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            Op diverse plaatsen boven de buis staat een meetinstrument. Ieder
+            meetinstrument bevat twee stralingsdetectoren op een vaste onderlinge
+            afstand s. De stralingsdetectoren registreren alleen straling die loodrecht
+            door de buiswand komt. Een klok in ieder meetinstrument meet het
+            tijdsverschil Δt dat de capsule nodig heeft om afstand s af te leggen.
+            Op de uitwerkbijlage staan een aantal zinnen.
+3p    13    Omcirkel op de uitwerkbijlage in iedere zin het juiste antwoord.
+
+            Voor het gebruik van deze methode bij ondergrondse metalen leidingen is
+            een eis dat de tracer in elk geval γ-straling uitzendt.
+
+1p    14    Wat is de reden van deze eis?
+            A Het ioniserende vermogen van γ -straling is altijd lager dan van α - of β-
+              straling.
+            B Het doordringend vermogen van γ -straling is altijd hoog.
+            C De activiteit van een γ -bron is altijd hoog.
+            D De halveringstijd van een γ -bron is altijd lang.
+
+
+
+
+HA-1023-a-26-1-o                            11 / 21                            lees verder ►►►
+            Bij een derde methode stroomt de radioactieve tracer zonder capsule mee
+            met de vloeistof in de buis. Boven de grond wordt op twee plekken de
+            intensiteit bepaald met een GM-teller. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            Een veelgebruikte tracer is Br-82.
+3p    15    Geef de vergelijking van de vervalreactie van Br-82.
+
+            De GM-tellers meten alleen straling die er loodrecht op valt. De intensiteit
+            van de gammastraling in deze richting binnen in de buis noemt men I0. Als
+            de γ-straling door de wand van de leiding komt is de intensiteit gehalveerd
+            als gevolg van de metalen wand van de buis. Vervolgens moet de straling
+            nog door 0,50 m grond. Zie figuur 4. De halveringsdikte van de grond is
+            5,0 cm.
+3p    16    Bereken welk percentage van I0 GM-teller 1 bereikt.
+
+            Bij een onderzoek aan een pijpleiding passeerde de tracer ( Br-82)
+            GM-teller 1 op tijdstip t = 0. Na 3 dagen werd de tracer bij GM-teller 2
+            gedetecteerd. Er werd bij GM-teller 2 een intensiteit gemeten die 8 keer
+            zo klein was als die bij GM-teller 1.
+3p    17    Leg uit of de gemeten intensiteit duidt op een lek in de pijpleiding tussen
+            GM-teller 1 en GM-teller 2.
+
+
+
+
+HA-1023-a-26-1-o                            12 / 21                            lees verder ►►►
+      Vierkantsweerstand
+
+            Bij elektronica wordt gebruikgemaakt van de grootheid
+            ‘vierkantsweerstand’. De vierkantsweerstand is de weerstand Rvw tussen
+            de zijvlakken P en Q van een vierkant stuk materiaal. Het vierkant kan
+            worden opgevat als een geleidende laag met een constante dikte d en
+            een lengte en breedte x. Zie figuur 1a. In figuur 1b is een zijaanzicht van
+            de laag weergegeven.
+
+            figuur 1a                                      figuur 1b
+
+
+
+
+            Voor de vierkantsweerstand Rvw van een geleidende laag geldt de
+            volgende formule:
+
+                     
+             Rvw                               (1)
+                     d
+
+            Hierin is ρ de soortelijke weerstand van het materiaal en d de dikte van de
+            laag.
+
+3p    18    Leid deze formule af met een formule uit het informatieboek en figuur 1a.
+
+
+
+
+HA-1023-a-26-1-o                            13 / 21                            lees verder ►►►
+            Uit formule (1) blijkt dat de vierkantsweerstand niet verandert als een
+            vierkant met een andere lengte en breedte x gekozen wordt.
+            In figuur 2 zijn afgebeeld: een klein vierkant en daarnaast een vierkant
+            met een drie keer zo lange zijde. Beide vierkanten zijn gemaakt van
+            hetzelfde geleidende materiaal met dezelfde dikte d.
+
+            figuur 2
+
+
+
+
+            Het kleine vierkant wordt voorgesteld als een weerstand R. Het grote
+            vierkant kan worden gemodelleerd als negen van deze weerstanden, die
+            onderling verbonden zijn volgens het schema in figuur 3.
+
+            figuur 3
+
+
+
+
+3p    19    Toon met behulp van de regels voor serie- en parallelschakelingen aan
+            dat de weerstand van het grote vierkant gelijk is aan die van het kleine
+            vierkant.
+
+
+
+
+HA-1023-a-26-1-o                            14 / 21                           lees verder ►►►
+            Bij de productie van computerchips wordt de vierkantsweerstand van de
+            geproduceerde lagen gemeten. Figuur 4 toont een mogelijke
+            meetopstelling. In een ideale situatie zonder weerstand van de
+            aansluitdraden volgt de vierkantsweerstand uit de ingestelde spanning
+            Ubron en gemeten stroomsterkte Ibron.
+
+            figuur 4
+
+
+
+
+            In de praktijk moet bij het meten van de vierkantsweerstand rekening
+            worden gehouden met de weerstand van de aansluitdraden. Zie figuur 5.
+
+            figuur 5
+
+
+
+
+            Op de uitwerkbijlage staan drie zinnen over de situaties in figuur 4 en 5.
+3p    20    Omcirkel op de uitwerkbijlage in iedere zin het juiste antwoord.
+
+
+
+
+HA-1023-a-26-1-o                            15 / 21                            lees verder ►►►
+            Weerstanden worden veel gebruikt in elektronica. Zie figuur 6.
+
+            figuur 6                           figuur 7
+
+
+
+
+            Een weerstand kan worden voorgesteld als een vierkant stuk geleidende
+            folie (met oppervlakte A en dikte d ) dat om een isolerende cilinder is
+            gerold. Aansluitpootjes maken via geleidende kappen contact met de
+            folie. Zie figuur 7.
+
+            Bij koolfilmweerstanden is de geleidende folie een grafietlaag. De dikte
+            van deze grafietlaag bepaalt de vierkantsweerstand en daarmee de
+            weerstandswaarde. Een veelvoorkomende weerstandswaarde is 330  .
+2p    21    Bereken met behulp van formule (1) de dikte van de grafietlaag bij deze
+            weerstandswaarde.
+
+
+
+
+HA-1023-a-26-1-o                           16 / 21                           lees verder ►►►
+            Tijdens het gebruik wordt een weerstand warm. De weerstandswaarde
+            van een koolfilmweerstand mag door de temperatuurtoename niet meer
+            dan 10% afwijken van de weerstandswaarde bij 20 °C. Figuur 8 toont hoe
+            de soortelijke weerstand van een bepaald soort grafiet afhangt van de
+            temperatuur.
+
+            figuur 8
+
+
+
+
+4p    22    Voer de volgende opdrachten uit:
+             Leg uit of een koolfilmweerstand zich gedraagt als PTC of NTC.
+             Bepaal de maximale temperatuur die deze weerstand mag krijgen.
+               Noteer je antwoord in twee significante cijfers.
+
+
+
+
+HA-1023-a-26-1-o                          17 / 21                         lees verder ►►►
+      Parapluspin
+
+            Lees onderstaand artikel.
+
+
+               Vliegen en muggen let op: hier komt de
+               parapluspin!
+               De meeste spinnen wachten in het web tot er vanzelf een prooi in vliegt.
+               De parapluspin jaagt actief door zichzelf met zijn web met grote
+               snelheid te katapulteren richting een prooi. Wetenschappers hebben
+               onderzocht hoe de spin het web gebruikt.
+               De parapluspin bouwt een parapluvormig web en gebruikt een scheerlijn
+               van spinrag om het web op spanning te trekken (1). Bij het zien van een
+               prooi laat de spin de scheerlijn schieten en wordt hij door middel van het
+               web gelanceerd in horizontale richting ( 2 en 3). Hij beweegt een paar
+               keer heen en weer rond de evenwichtstand om daar ten slotte tot
+               stilstand te komen (4).
+
+
+
+
+HA-1023-a-26-1-o                             18 / 21                           lees verder ►►►
+            Ishaan vindt een filmpje waarin de lancering van de parapluspin te zien is.
+            Hij gebruikt dit filmpje om een (v,t)-diagram van de beweging van de spin
+            in het web te maken. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Ishaan bepaalt met figuur 1 de uitrekking van het web vlak voor de
+            lancering. In figuur 2 staat het (v,t)-diagram vier keer afgebeeld. In elk
+            diagram zijn verschillende oppervlaktes gearceerd.
+
+            figuur 2
+
+
+
+
+2p    23    Leg uit in welk diagram (I, II, III of IV) de gearceerde oppervlakte
+            overeenkomt met de uitrekking van het web vlak voor de lancering.
+
+
+
+
+HA-1023-a-26-1-o                             19 / 21                            lees verder ►►►
+            Tijdens een bepaalde lancering neemt de snelheid van de parapluspin
+            over een afstand van 8,0 mm toe van 0 tot 3,0 m s-1. De parapluspin heeft
+            een massa van 0,20 mg.
+3p    24    Bereken met behulp van de wet van arbeid en kinetische energie de
+            gemiddelde resulterende kracht op de spin tijdens deze
+            snelheidstoename. Noteer je antwoord in twee significante cijfers.
+
+            Van een deel van een lancering van een andere parapluspin is ook een
+            (v,t)-diagram gemaakt. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            De wetenschappers uit het artikel beweren dat de parapluspin meer dan
+            10 keer de versnelling krijgt die gevechtspiloten maximaal kunnen
+            ondergaan.
+            Gevechtspiloten kunnen een maximale versnelling van 9g verdragen.
+            Figuur 3 staat ook op de uitwerkbijlage.
+4p    25    Toon met een bepaling in de figuur op de uitwerkbijlage aan of de
+            bewering over de versnelling van de spin klopt. Geef in de figuur aan hoe
+            je aan je antwoord komt.
+
+
+
+
+HA-1023-a-26-1-o                           20 / 21                           lees verder ►►►
+            Na de lancering blijft de spin nog even in zijn web natrillen. De
+            parapluspin in zijn web met scheerlijn is te beschouwen als een
+            massa-veersysteem. In figuur 4 staat het (x,t)-diagram als de spin geen
+            prooi heeft gevangen. Verder staan er twee mogelijke (x,t)-diagrammen
+            (I en II) als de spin wel een prooi heeft gevangen.
+            figuur 4
+
+
+
+
+2p    26    Leg uit met behulp van de formule voor de trillingstijd van een
+            massa-veersysteem welk (x,t)-diagram (I of II) van toepassing kan zijn als
+            de spin wel een prooi heeft gevangen.
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+HA-1023-a-26-1-o                                       21 / 21                                        lees verdereinde
+                                                                                                                   ►►► 
+

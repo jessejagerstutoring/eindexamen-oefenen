@@ -1,0 +1,584 @@
+                                                                  Examen HAVO
+
+                                                                        2023
+                                                                                tijdvak 2
+                                                                         tijdsduur 3 uur
+
+
+
+                                                                       scheikunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+ Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+ Dit examen bestaat uit 35 vragen.
+ Voor dit examen zijn maximaal 74 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-23-2-o
+      Okselgeur
+
+            Zweetklieren in de oksels produceren zweet. Zweet bestaat voornamelijk
+            uit water en opgeloste zouten. Mensen zweten om hun
+            lichaamstemperatuur te reguleren. Door verdamping van water vindt
+            namelijk afkoeling van de huid plaats.
+
+2p    1     Leg uit of het verdampen van water een exotherm of een endotherm
+            proces is.
+
+            Zweet bevat behalve water en opgeloste zouten ook andere stoffen, zoals
+            vetten en peptiden. Vers zweet heeft geen geur. Maar bacteriën op onze
+            huid breken vetten uit zweet af. Coryne-bacteriën vormen bij afbraak van
+            deze vetten uit zweet carbonzuren, zoals boterzuur. Deze zuren geven
+            een onplezierige geur aan zweet: okselgeur.
+
+2p    2     Geef de structuurformule van boterzuur. Gebruik Binas-tabel 66A of
+            ScienceData-tabel 10.2a.
+
+            Coryne-bacteriën zijn ook betrokken bij de vorming van een
+            veelvoorkomende geurstof in de okselgeur van mannen:
+            3-methylhex-2-eenzuur (3M2H). 3M2H wordt gevormd uit een stof die in
+            zweet voorkomt: stof A. Beide structuurformules zijn weergegeven in
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            3M2H ontstaat wanneer de peptidegroep in stof A gehydrolyseerd wordt
+            onder invloed van het enzym aminoacylase (ACY). Op de uitwerkbijlage is
+            deze reactie onvolledig weergegeven.
+
+3p    3     Maak de reactievergelijking op de uitwerkbijlage af. Geef de
+            koolstofverbindingen met structuurformules weer.
+
+            Een deodorant bevat stoffen die de vorming van okselgeur tegengaan
+            door de pH te verlagen. Bij een lagere pH produceert het enzym ACY in
+            Coryne-bacteriën namelijk een kleinere hoeveelheid 3M2H.
+
+1p    4     Geef een mogelijke verklaring voor het gegeven dat ACY bij een lagere
+            pH een kleinere hoeveelheid 3M2H produceert.
+
+
+HA-1028-a-23-2-o                            2 / 17                         lees verder ►►►
+            Zwitserse wetenschappers onderzochten de werking van het enzym ACY
+            voor een nieuw type deodorant. De werking van dit type deodorant is
+            gebaseerd op een stof die door het enzym ACY kan worden omgezet tot
+            parfum. Stof B is een voorbeeld van zo’n stof (figuur 2).
+
+            figuur 2
+
+
+
+
+            Stoffen A en B worden dus allebei omgezet door het enzym ACY. In de
+            structuurformule van zowel stof A als stof B is dezelfde
+            aminozuur-eenheid gebonden. Via deze eenheid worden beide stoffen
+            herkend door het enzym.
+
+            Op de uitwerkbijlage zijn de stoffen A en B nogmaals weergegeven.
+
+2p    5     Voer de volgende opdrachten uit. Gebruik hierbij Binas-tabel 67H1 of
+            ScienceData-tabel 13.7c.
+             Omcirkel in de figuur op de uitwerkbijlage de aminozuur-eenheid die
+               wordt herkend door het enzym ACY.
+             Geef het 3-lettersymbool van deze aminozuureenheid.
+
+
+
+
+HA-1028-a-23-2-o                          3 / 17                          lees verder ►►►
+      Afval van PET
+
+            PET (polyethyleentereftalaat) is een polyester, die onder meer wordt
+            gebruikt voor het maken van PET-flessen. In figuur 1 is de
+            structuurformule van PET weergegeven.
+
+            figuur 1
+
+
+
+
+            PET kan worden gevormd als copolymeer uit ethaan-1,2-diol en één
+            ander monomeer.
+
+2p    6     Geef de structuurformule van dit andere monomeer.
+
+            PET-flessen worden gemaakt door middel van een proces waarbij
+            PET-korrels worden geëxtrudeerd. Daarna worden er PET-flessen van
+            geblazen. Gebruikte PET-flessen kunnen worden fijngemalen tot korrels
+            die opnieuw kunnen worden geëxtrudeerd.
+
+2p    7     Leg uit dat PET geschikt is om in een extruder te worden verwerkt.
+            Gebruik in je uitleg figuur 1. De dubbele bindingen in de ring zijn niet
+            reactief.
+
+            Door extruderen veranderen de stofeigenschappen van PET.
+            Onderzoekers hebben het effect van herhaaldelijk extruderen op de
+            molaire massa onderzocht. De resultaten zijn in figuur 2 weergegeven.
+
+            figuur 2
+
+
+
+
+2p    8     Leg uit of de aantrekkingskracht tussen de polymeermoleculen toeneemt
+            of afneemt door herhaaldelijk extruderen. Gebruik hierbij figuur 2 en
+            benoem het type binding dat hierbij een rol speelt.
+HA-1028-a-23-2-o                             4 / 17                             lees verder ►►►
+            Een andere manier om gebruikte PET-flessen te verwerken is ‘chemisch
+            recyclen’. Bij dit proces wordt PET in aanwezigheid van een katalysator
+            omgezet tot de stof BHET. BHET is een grondstof voor de productie van
+            nieuw PET. De katalysator bindt ook kleurstoffen uit gekleurde
+            PET-flessen. In figuur 3 is een chemisch recycleproces met een
+            vereenvoudigd blokschema weergegeven. De gebonden kleurstof wordt
+            hierin weergegeven als: katalysator-kleurstof.
+
+            figuur 3
+
+
+
+
+            In de reactor (R) vinden een scheiding en de omzetting van PET tot BHET
+            plaats. In S1 wordt de katalysator met de daaraan gehechte kleurstof
+            verwijderd. In S2 verdampen water en ethaan-1,2-diol. Deze stoffen
+            worden als twee afzonderlijke fracties opgevangen. BHET wordt als residu
+            afgescheiden.
+
+1p    9     Geef de naam van de scheidingsmethode die plaatsvindt in de
+            reactor (R).
+
+1p    10    Geef de naam van de scheidingsmethode die plaatsvindt in S2.
+
+            De katalysator met de daaraan gehechte kleurstof wordt naar S3 geleid.
+            Hier wordt een oplosmiddel toegevoegd waarin hydrofobe kleurstoffen
+            oplossen, waardoor ze loslaten van de katalysator. Bij dit proces is
+            dichloormethaan als oplosmiddel gebruikt. Methanol (CH3OH) is hiervoor
+            minder geschikt.
+
+3p    11    Voer de volgende opdrachten uit:
+             Geef de structuurformule van dichloormethaan.
+             Leg uit waarom dichloormethaan meer geschikt is om hydrofobe
+               kleurstoffen in op te lossen. Doe dit aan de hand van een verschil in
+               de structuurformules van dichloormethaan en methanol.
+
+            De katalysator wordt in dit proces gerecirculeerd.
+
+1p    12    Geef aan welke twee andere stoffen in dit proces direct kunnen worden
+            gerecirculeerd. Gebruik figuur 3.
+HA-1028-a-23-2-o                            5 / 17                           lees verder ►►►
+      Ammoniak en mest
+
+            In stallen waar urine en mest van varkens niet gescheiden worden, wordt
+            ammoniakgas gevormd. Dit komt doordat ureum uit urine wordt omgezet
+            tot ammoniak door een enzym uit mest. Er zijn verschillende maatregelen
+            mogelijk om de uitstoot van ammoniak in het milieu te verminderen.
+            Wanneer bijvoorbeeld de hoeveelheid van één soort voedingsstof in
+            varkensvoer wordt verminderd, zal de urine van de varkens minder ureum
+            bevatten.
+
+            Ureum (CH4N2O) ontstaat bij de afbraak van een van de volgende
+            voedingsstoffen: vetten, koolhydraten of eiwitten.
+
+2p    13    Leg uit bij welke van de drie genoemde voedingsstoffen dit het meest
+            waarschijnlijk is. Gebruik in je uitleg de elementsamenstelling.
+
+            Een andere maatregel is het verwijderen van ammoniakgas uit stallucht
+            met een zogenaamde luchtwasser. In een luchtwasser stroomt water
+            binnen dat aangezuurd is met een overmaat geconcentreerd zwavelzuur.
+            Wanneer stallucht door de luchtwasser geleid wordt, treedt reactie 1 op.
+
+            H+ + NH3  NH4+                                                 (reactie 1)
+
+            Het water dat uit de luchtwasser stroomt, bevat behalve zwavelzuur ook
+            opgelost ammoniumsulfaat. In figuur 1 is de werking van een luchtwasser
+            met een vereenvoudigd blokschema weergegeven.
+
+            figuur 1
+
+
+
+
+            In een folder met informatie over dit type luchtwassers staat dat 1,5 L
+            zwavelzuur (H2SO4) nodig is om 1,0 kg ammoniak te verwijderen.
+
+4p    14    Laat met een berekening zien dat dit bij benadering klopt.
+             Gebruik hierbij de dichtheid van zwavelzuur: 1,84·103 g dm–3.
+             Neem aan dat H2SO4 en NH3 reageren in de molverhouding 1 : 2.
+
+
+
+
+HA-1028-a-23-2-o                            6 / 17                            lees verder ►►►
+            Bij het gebruik van dit type luchtwasser moet de boer niet alleen
+            zwavelzuur aanvullen. De boer moet ook water aanvullen omdat:
+            1 er een deel van het water verdampt;
+            2 er een deel van de uitstromende oplossing wordt afgevoerd.
+
+3p    15    Bereken hoeveel L water per varken per jaar moet worden aangevuld in
+            de luchtwasser. Geef de uitkomst in het juiste aantal significante
+            cijfers. Gebruik de volgende gegevens:
+             Een varken produceert gemiddeld 3,0 kg ammoniak per jaar.
+             Per kg ammoniak moet 30,0 L waswater worden afgevoerd.
+             Per uur wordt 35 m3 stallucht per varken geventileerd.
+             Gemiddeld verdampt 1,3 mL water per uur per m3 geventileerde
+                stallucht.
+
+
+
+
+HA-1028-a-23-2-o                            7 / 17                              lees verder ►►►
+      Groen cement
+
+            Cement is een veelgebruikt bouwmateriaal dat wordt gemaakt uit
+            kalksteen en klei. Kalksteen bestaat voornamelijk uit calciumcarbonaat,
+            en klei bestaat voornamelijk uit siliciumdioxide (SiO2). Bij de traditionele
+            productie van cement wordt een mengsel van fijngemalen kalksteen en
+            klei verhit in een lange, ronddraaiende ovenbuis (figuur 1). Door de licht
+            hellende opstelling van de ovenbuis schuift het mengsel langzaam in de
+            richting van de zeer hete vlammen, die ontstaan door verbranding van
+            steenkool.
+
+            figuur 1
+
+
+
+
+            De steenkool is tot poeder vermalen.
+
+2p    16    Leg uit dat de verbranding sneller verloopt als de steenkool eerst tot
+            poeder vermalen wordt. Gebruik in je uitleg het botsende-deeltjesmodel.
+
+            Boven in de ovenbuis ontleedt calciumcarbonaat bij een temperatuur van
+            700-900 °C tot calciumoxide (CaO) en CO2.
+
+            CaCO3 (s)  CaO (s) + CO2 (g)                                     (reactie 1)
+
+            Onder in de ovenbuis reageert calciumoxide met siliciumdioxide (SiO2) bij
+            een temperatuur van 1450 °C. Wanneer deze reactie plaatsvindt in de
+            molverhouding 3 : 1 ontstaat uitsluitend de stof aliet.
+
+2p    17    Geef de vergelijking van de reactie waarbij uitsluitend aliet ontstaat. De
+            formule voor aliet moet je zelf afleiden.
+
+
+
+HA-1028-a-23-2-o                             8 / 17                              lees verder ►►►
+            Er zijn verschillende oorzaken van het ontstaan van CO2 tijdens de
+            traditionele productie van cement. Een voorbeeld van zo’n oorzaak is
+            reactie 1.
+
+1p    18    Geef één andere oorzaak van het ontstaan van CO2 tijdens de traditionele
+            productie van cement.
+
+            In 2018 veroorzaakte de traditionele productie van cement 8% van de
+            wereldwijde uitstoot aan CO2. Omdat dit CO2 is verontreinigd met
+            stikstofoxiden (NOx) en koolstofmono-oxide, is het ongeschikt als
+            grondstof in andere processen.
+
+2p    19    Leg uit waarom stikstofoxiden (NOx) ontstaan tijdens de traditionele
+            productie van cement en noem een ongewenst effect van NOx op de
+            kwaliteit van lucht, water of bodem. Noteer je antwoord als volgt:
+            uitleg: …
+            ongewenst effect NOx: …
+
+
+
+
+HA-1028-a-23-2-o                           9 / 17                           lees verder ►►►
+            Amerikaanse onderzoekers hebben op laboratoriumschaal een nieuw
+            proces ontwikkeld voor de productie van cement. Dit nieuwe proces maakt
+            gebruik van een reactor (figuur 2) die calciumcarbonaat (CaCO3) met
+            behulp van elektrische stroom omzet tot calciumhydroxide (Ca(OH)2). De
+            reactor bestaat uit drie ruimtes die van elkaar gescheiden zijn door
+            membranen.
+
+            figuur 2
+
+
+
+
+            Wanneer de reactor is aangesloten op een spanningsbron, vinden de
+            volgende omzettingen plaats (tabel 1).
+
+            tabel 1
+
+              ruimte   nr.   vergelijking
+              I        1     2 H 2O  4 H + + O2 + 4 e–
+              I        2     2 H+ (aq) + CaCO3 (s)  H2O (l) + CO2 (g) + Ca2+(aq)
+              II       3     Ca2+ + 2 OH–  Ca(OH)2
+              III      4     2 H2O + 2e–  H2 + 2 OH–
+
+            Een van de vergelijkingen uit tabel 1 is van een zuur-basereactie.
+
+2p    20    Geef aan welke vergelijking dat is en geef aan welk deeltje als zuur en
+            welk deeltje als base reageert.
+
+            De onderzoekers hebben gemeten dat de gassen zuurstof, koolstofdioxide
+            en waterstof in de molverhouding 1 : 2 : 2 uit de reactor vrijkomen. Deze
+            verhouding is ook af te leiden door alle vergelijkingen in tabel 1 in de
+            juiste verhouding bij elkaar op te tellen.
+
+3p    21    Geef deze afleiding.
+
+
+
+HA-1028-a-23-2-o                            10 / 17                          lees verder ►►►
+            De gassen die in de reactor ontstaan, kunnen worden gebruikt voor het
+            opwekken van elektrische stroom in een brandstofcel (figuur 3). De
+            elektrische stroom kan weer gebruikt worden om de reactor aan te drijven.
+
+            figuur 3
+
+
+
+
+2p    22    Voer de volgende opdrachten uit:
+             Geef de halfreactie die optreedt aan elektrode A. Gebruik
+               Binas-tabel 48 of ScienceData-tabel 9.1f.
+             Leg uit of elektrode A de positieve of de negatieve elektrode is.
+
+            Het nieuwe proces voor de productie van cement verloopt in twee
+            stappen:
+
+            stap 1:    Calciumcarbonaat ( CaCO3) wordt in de reactor (figuur 2 en 3)
+                       omgezet tot calciumhydroxide (Ca(OH)2).
+            stap 2:    De calciumhydroxide wordt in de juiste verhouding gemengd
+                       met siliciumdioxide en binnen twee uur bij 1500 °C omgezet tot
+                       aliet.
+
+            Op basis van de uitgangspunten 3 en 6 van de groene chemie kunnen
+            voordelen van dit nieuwe productieproces benoemd worden ten opzichte
+            van de traditionele productie van cement (figuur 1).
+
+2p    23    Licht voor beide uitgangspunten een voordeel toe.
+             Noteer je antwoord als volgt:
+                toelichting uitgangspunt 3: …
+                toelichting uitgangspunt 6: …
+             Gebruik Binas-tabel 97F of ScienceData-tabel 38.6.
+
+
+
+
+HA-1028-a-23-2-o                           11 / 17                           lees verder ►►►
+      Booglassen
+
+            Booglassen is een techniek waarmee metalen voorwerpen aan elkaar vast
+            gemaakt worden. Daartoe worden de voorwerpen naast elkaar gelegd,
+            waardoor een smalle naad overblijft. Een van de voorwerpen en een
+            laselektrode worden aangesloten op een stroombron (figuur 1). In deze
+            opgave wordt uitgegaan van twee ijzeren voorwerpen.
+
+            figuur 1
+
+
+
+
+            Tijdens het booglassen houdt men de laselektrode vlak boven de naad.
+            Er ontstaat dan een felle hete vlam, die lasboog wordt genoemd. Door de
+            hitte smelten de randen van de voorwerpen en het uiteinde van de
+            kerndraad, waardoor de naad wordt gevuld met vloeibaar ijzer. Nadat het
+            ijzer is gestold, vormen de twee voorwerpen één geheel. Het gestolde
+            ijzer wordt ‘las’ genoemd.
+
+2p    24    Geef de naam van het bindingstype dat aanwezig is in de ijzeren
+            kerndraad en de naam van het soort deeltjes dat voor de elektrische
+            stroomgeleiding in deze kerndraad zorgt.
+            Noteer je antwoord als volgt:
+             bindingstype: …
+             soort deeltjes: …
+
+2p    25    Leid de temperatuur in °C af die de lasboog minimaal moet hebben.
+            Gebruik Binas-tabel 40A of ScienceData-tabel 8.1.
+
+
+
+
+HA-1028-a-23-2-o                          12 / 17                           lees verder ►►►
+            Om de ijzeren kerndraad in de laselektrode zit bekleding. Tijdens het
+            booglassen worden de stoffen in de bekleding van de kerndraad omgezet
+            tot zogeheten beschermende gassen en een laag van slak (figuur 2).
+
+            figuur 2
+
+
+
+
+            Slak is een bros, glasachtig materiaal dat de las afdekt. De
+            beschermende gassen en de slak-laag voorkomen dat het hete ijzer in de
+            las reageert met stikstof uit de lucht. Bij deze reactie kunnen namelijk
+            dunne ‘naaldjes’ ijzernitride ( Fe4N) ontstaan, die de las breekbaarder
+            maken.
+
+2p    26    Geef de vergelijking van de reactie waarbij ijzernitride ontstaat.
+
+            Een bepaald type bekleding van een elektrode reageert tot de
+            beschermende gassen koolstofmono-oxide en waterstof.
+            Pien weet dat dit gevaarlijke stoffen zijn en ze vraagt zich af of er geen
+            risico’s voor de lasser zijn. Haar docent legt uit dat deze gassen in dit
+            geval met de omringende lucht reageren en dus geen gevaar vormen.
+
+2p    27    Noem twee risico’s van koolstofmono-oxide en/of waterstof en vermeld bij
+            elk risico door welk gas het wordt veroorzaakt. Gebruik eventueel je
+            informatieboek. Noteer je antwoord als volgt:
+             risico 1: … veroorzaakt door …
+             risico 2: … veroorzaakt door …
+
+
+
+
+HA-1028-a-23-2-o                             13 / 17                             lees verder ►►►
+                                                        figuur 3
+
+            Tijdens het booglassen komt rook vrij,
+            die vaste deeltjes bevat. Onderzoekers
+            hebben met behulp van een
+            elektronenmicroscoop een opname
+            gemaakt van een gedeelte van zo’n
+            vast deeltje uit rook (figuur 3). Het
+            deeltje lijkt te bestaan uit meerdere
+            bolletjes, zoals onderdeel A in de
+            figuur.
+
+            1,0 cm in figuur 3 komt overeen met 73 nanometer. Een ijzeratoom
+            heeft een diameter van 252∙1012 m.
+
+2p    28    Bepaal de diameter van onderdeel A en leg uit of onderdeel A een
+            ijzeratoom kan zijn. Gebruik eventueel Binas-tabel 2 of
+            ScienceData-tabel 1.2a.
+
+            In de rook is een stof aangetoond met de formule MnFe2O4. Deze stof
+            bestaat uit Mn2+-ionen, ijzerionen en oxide-ionen.
+
+2p    29    Leg uit welke lading de ijzerionen in MnFe2O4 hebben.
+
+
+
+
+HA-1028-a-23-2-o                          14 / 17                          lees verder ►►►
+      De ritmische-vlammenproef
+
+            De ritmische-vlammenproef (figuur 1) is een demonstratieproef die als
+            volgt verloopt:
+             In een erlenmeyer wordt een laagje warme methanol gedaan.
+                Vervolgens wordt een gloeiende platinadraad in de erlenmeyer
+                gehangen.
+             De platinadraad gaat steeds feller gloeien.
+             Enige tijd later volgt een explosie.
+             Direct hierna gloeit de draad minder fel.
+             Na verloop van tijd gaat de platinadraad weer steeds feller gloeien tot
+                er een nieuwe explosie optreedt. Deze cyclus van gloeien en
+                exploderen kan urenlang doorgaan.
+
+            figuur 1
+
+
+
+
+2p    30    Geef de namen van de twee typen bindingen die worden verbroken
+            wanneer methanol (CH3OH) verdampt.
+
+
+
+
+HA-1028-a-23-2-o                           15 / 17                           lees verder ►►►
+            De verklaring voor de cyclus van gloeien en exploderen blijkt anders dan
+            tot nu toe werd gedacht. Een groep tweedejaarsstudenten van de
+            Universiteit Leiden heeft het experiment onderzocht.
+
+            tekstfragment
+
+           Studenten ontrafelen werking klassiek experiment
+         1 Volgens student Rick Spierenburg was de gangbare verklaring dat de
+         2 methanol met het platina reageert en zo formaldehyde ( CH 2 O ) en
+         3 waterstof vormt. “Maar wij ontdekten dat het eigenlijk anders zit.” (…) “Er
+         4 komt geen energie vrij als je formaldehyde vormt. Dat kan nooit explosies
+         5 veroorzaken.” Spierenburg en zijn medestudenten ontdekten dat tijdens
+         6 de reactie waterstofgas, koolstofmono-oxide en koolstofdioxide
+         7 ontstonden. “Je vormt wel formaldehyde, maar dat reageert direct weer
+         8 door tot onder andere het waterstofgas”, verklaart Spierenburg. “Bij die
+         9 reactie komt wel genoeg energie vrij en de waterstof zorgt voor de
+        10 explosies.”
+
+
+            naar: www.nemokennislink.nl
+
+            Platina reageert als katalysator in dit experiment.
+
+2p    31    Voer de volgende opdrachten uit:
+             Geef een karakteristieke eigenschap van een katalysator.
+             Licht toe hoe uit de samenstelling van de ontstane stoffen in regel 6
+               van het tekstfragment is af te leiden dat platina een katalysator is.
+
+            Formaldehyde is een gas met een sterke geur en een geurdrempel van
+            0,83 cm3 m–3. Dit betekent dat de geur van formaldehyde te ruiken is
+            wanneer minimaal 0,83 cm3 formaldehyde aanwezig is per m3.
+
+4p    32    Bereken de massa in gram formaldehyde die minimaal in een klaslokaal
+            aanwezig is op het moment dat er formaldehyde geroken kan worden.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+            Gebruik de volgende informatie:
+             De formaldehyde (CH2O) is gelijkmatig verdeeld over het lokaal.
+             Het volume van het lokaal is 156 m3.
+             1,00 mol formaldehydegas heeft een volume van 2,40∙104 cm3.
+
+            De reactie die in regel 2-3 van het tekstfragment wordt beschreven, is
+            hieronder weergegeven.
+
+            CH3OH  CH2O + H2                                              (reactie 1)
+
+2p    33    Geef de vergelijking van reactie 1 in structuurformules.
+
+
+
+
+HA-1028-a-23-2-o                            16 / 17                          lees verder ►►►
+            In regel 3-4 wordt de volgende bewering gedaan: “Er komt geen energie
+            vrij als je formaldehyde vormt.”
+
+3p    34    Leg uit of deze bewering juist is. Doe dit aan de hand van een berekening
+            van de reactiewarmte van reactie 1.
+             Gebruik Binas-tabel 57B of ScienceData-tabel 9.2b.
+             Gebruik de systematische naam van formaldehyde: methanal.
+
+            De demonstratieproef kan worden uitgebreid. Hierbij worden de gassen
+            door een oplossing van calciumhydroxide (Ca(OH)2) geleid, waardoor de
+            oplossing waarneembaar verandert. Deze verandering wordt veroorzaakt
+            doordat het ontstane gas koolstofdioxide reageert met de
+            calciumhydroxide-oplossing. Hierbij ontstaat de stof calciumcarbonaat.
+            Deze reactie is een zuur-basereactie.
+
+2p    35    Voer de volgende opdrachten uit:
+             Geef aan welke waarneming wordt gedaan aan de
+               calciumhydroxide-oplossing.
+             Verklaar deze waarneming aan de hand van Binas-tabel 45A of
+               ScienceData-tabel 8.4d.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1028-a-23-2-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

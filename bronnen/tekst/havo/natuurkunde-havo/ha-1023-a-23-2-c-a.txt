@@ -1,0 +1,64 @@
+ aanvulling op het correctievoorschrift                                          2023-2
+
+natuurkunde havo
+
+Centraal examen havo
+
+Tijdvak 2
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor havo,
+
+Bij het centraal examen natuurkunde havo:
+
+
+Op pagina 13, bij vraag 14 moet
+uitkomst: F    1, 4 103 N
+
+voorbeeld van een antwoord:
+Uit de helling van de grafiek tussen 550 s en 570 s volgt:
+    v     0  9, 0
+a                       0, 45 m s 2 .
+    t 570  550
+Voor de remkracht geldt dan:
+F  ma  3, 0 103   0, 45   1, 4 103 N.
+
+vervangen worden door:
+
+uitkomst: F     2, 7 103 N
+
+voorbeeld van een antwoord:
+Uit de helling van de grafiek tussen 550 s en 560 s volgt:
+    v     0  9, 0
+a                       0,90 m s 2 .
+    t 560  550
+Voor de remkracht geldt dan:
+F  ma  3, 0 103   0,90   2, 7 103 N.
+
+en moet de volgende Opmerking worden toegevoegd:
+
+Opmerking
+Als een kandidaat rekent met v  9, 0 m s 1 en t  20 s , dit goed rekenen.
+
+Toelichting:
+De gegevens in de stam van vraag 14 en in figuur 6 zijn niet met elkaar in
+overeenstemming. De vraag verwijst naar het bepalen met behulp van figuur 6. Uit die
+figuur blijkt dat er gedurende 10 s is afgeremd en niet gedurende de 20 s die de stam
+suggereert.
+
+
+HA-1023-a-23-2-c-A
+      Ik verzoek u dit bericht door te geven aan de correctoren natuurkunde havo.
+
+      Namens het College voor Toetsen en Examens,
+
+      drs. J.H. van der Vegt,
+      voorzitter
+
+
+
+
+HA-1023-a-23-2-c-A
+

@@ -1,0 +1,605 @@
+                                                                    Examen VWO
+
+                                                                        2022
+                                                                               tijdvak 1
+                                                                     donderdag 19 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-22-1-o
+      Vrije worp bij basketbal
+
+            figuur 1                           figuur 2
+                                                basketbal
+                                                massa bal                                    600 g
+                                                diameter bal                                 24 cm
+                                                hoogte ring                                 3,05 m
+                                                diameter ring                                45 cm
+                                                horizontale afstand van vrijeworplijn
+                                                tot midden van de ring                       4,6 m
+
+            Bij basketbal scoor je door de bal van bovenaf door een metalen ring te
+            gooien waaraan een netje bevestigd is. Rens en Dyon onderzoeken de
+            beweging van de bal bij een vrije worp. Bij een vrije worp probeert de
+            speler de bal door de ring te gooien terwijl hij achter de ‘vrijeworplijn’
+            staat. Zie figuur 1. In figuur 2 staat een tabel met een aantal gegevens
+            over basketbal.
+            Met behulp van een videometing is de beweging van de bal na de worp
+            geanalyseerd. Je kunt de beweging van de bal beschouwen als een
+            combinatie van een horizontale beweging (in de x -richting) en een
+            verticale beweging (in de y -richting). De videometing levert het
+            ( x, t )-diagram en het ( y, t )-diagram van de beweging van het middelpunt
+            van de bal. Zie de figuren 3a en 3b. Hierin is x de horizontale afstand
+            vanaf de vrijeworplijn en y de hoogte boven de grond. Op t  0 s verlaat
+            de bal de hand van de speler.
+            De grootheid snelheid is een vectorgrootheid, net als de grootheid kracht.
+            Je kunt daarom de grootte van de snelheid op dezelfde manier uit haar
+            componenten berekenen als bij kracht.
+
+            figuur 3a                                       figuur 3b
+
+
+
+
+VW-1023-a-22-1-o                             2 / 18                                     lees verder ►►►
+            Figuur 3a en figuur 3b staan vergroot weergegeven op de uitwerkbijlage.
+4p    1     Bepaal met behulp van de figuren op de uitwerkbijlage de grootte van de
+            snelheid op het moment dat de bal de hand van de speler verlaat. Noteer
+            je antwoord in twee significante cijfers.
+
+            In figuur 4 zijn foto’s te zien van een                 figuur 4
+            andere vrije worp. Op de linker foto is het
+            begin van de worp te zien, waarbij de speler
+            extra spierkracht begint uit te oefenen op de
+            bal om hem een snelheid te geven. Op de
+            rechter foto is het einde van de worp te zien,
+            waarbij de bal net is losgekomen van de hand
+            van de speler. Bij deze vrije worp verlaat de
+            bal de hand met een snelheid van 7,1 m s 1.
+            Figuur 4 is vergroot weergegeven op de
+            uitwerkbijlage.
+
+4p    2     Voer de volgende opdrachten uit:
+             Bepaal met behulp van de foto’s op de uitwerkbijlage en figuur 2 de
+               verplaatsing van de bal tijdens de worp. Noteer je antwoord in twee
+               significante cijfers.
+             Bereken hiermee het gemiddelde van de resulterende kracht op de bal
+               tijdens de worp.
+
+            Om een beter inzicht te krijgen in de beweging van de bal na de worp,
+            ontwerpen Rens en Dyon een vereenvoudigd model. Dit model is
+            weergegeven in figuur 5. Ook hier is t  0 s het moment dat de bal de
+            hand van de speler verlaat.
+
+            figuur 5
+              modelformules                 startwaarden
+              dx  vx  dt                   x  0,35 (m)
+              x  x  dx                     y  2,32 (m)
+              dv y  g  dt                  vx  4,6 (m s 1 )
+              v y  v y  dv y               v y  5, 4 (m s 1 )
+              dy  v y  dt
+                                             g  9,81 (m s 2 )
+              y  y  dy                     t  0 (s)
+              t  t  dt                     dt  0,0001 (s)
+
+
+
+
+VW-1023-a-22-1-o                            3 / 18                             lees verder ►►►
+            Rens en Dyon laten de computer het model een aantal keren
+            doorrekenen. Rens kiest eerst een aantal keren een andere startwaarde
+            voor v x , zonder die van v y te veranderen. Vervolgens zet hij de waarde
+            van v x terug naar de oorspronkelijke startwaarde. Daarna varieert Dyon
+            een aantal keren de startwaarde van v y , zonder die van v x te
+            veranderen. De resultaten van vijf berekeningen zijn weergegeven in
+            figuur 6.
+
+            figuur 6
+
+
+
+
+            In het model is ingebouwd dat de berekeningen stoppen als aan twee
+            voorwaarden is voldaan. Deze voorwaarden worden in de instellingen van
+            het programma ingevoerd.
+2p    3     Geef de twee voorwaarden zodat het model stopt zoals in figuur 6 is
+            weergegeven.
+
+            Bij resultaat C in figuur 6 wordt er gescoord.
+2p    4     Leg uit hoe dat blijkt uit figuur 6 in combinatie met figuur 2.
+
+            De verschillende resultaten in figuur 6 zijn het gevolg van variaties in de
+            startwaarde van v x door Rens of van variaties in de startwaarde van v y
+            door Dyon. Op de uitwerkbijlage staat een tabel.
+3p    5     Geef in de tabel op de uitwerkbijlage aan voor de resultaten A, B, D en E
+            of de verschuiving ten opzichte van resultaat C een gevolg is van een
+            variatie in de startwaarde van v x of van een variatie in de startwaarde van
+             v y . Licht je antwoord toe.
+
+
+
+
+VW-1023-a-22-1-o                              4 / 18                            lees verder ►►►
+      Qled-tv
+
+            In het scherm van een Qled-tv valt violet licht   figuur 1
+            afkomstig uit leds op een laagje met quantum-
+            dots. Quantum-dots zijn kleine bolletjes met
+            afmetingen variërend van 1 tot 20 nm,
+            gemaakt van een speciaal materiaal.
+            In figuur 1 staat een artist’s impression van
+            één quantum-dot (opgebouwd uit atomen).
+            De quantum-dots absorberen het violette licht
+            waarmee ze bestraald worden en zenden
+            daarna zelf licht uit met een andere kleur dan
+            violet.
+            Voor de werking van een Qled-tv zijn quantumdots nodig die blauw, groen
+            of rood licht uitzenden. De kleur van het uitgezonden licht hangt af van de
+            grootte van de quantum-dot. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De quantum-dots in een Qled-tv worden met violet licht bestraald.
+
+2p    6     Leg uit waarom gekozen is voor violet licht in plaats van een andere kleur
+            uit het zichtbare spectrum.
+
+            Halfgeleider
+            Een quantum-dot is gemaakt van een      figuur 3
+            zogenaamd halfgeleidermateriaal. In
+            een halfgeleider kan een elektron
+            slechts in banden van zeer dicht bij
+            elkaar gelegen energieniveaus
+            bestaan. Voor de werking van een
+            quantum-dot zijn slechts twee van deze
+            energiebanden van belang: de
+            valentieband en de geleidingsband.
+            Daartussen zit bij een halfgeleider een
+            energieverschil, de zogeheten bandgap Egap . Zie figuur 3.
+
+
+
+
+VW-1023-a-22-1-o                            5 / 18                            lees verder ►►►
+            Als een foton geabsorbeerd wordt maakt het één elektron vrij uit het
+            atoomrooster. De energie van dat foton moet daarvoor groot genoeg zijn.
+            Het elektron gaat dan van een energieniveau in de valentieband naar een
+            energieniveau in de geleidingsband. Dit betekent dat het loskomt uit het
+            atoomrooster van de halfgeleider. Het achterblijvende gat in de
+            valentieband kan worden opgevat als een positief deeltje dat door het
+            rooster beweegt. Het aangeslagen elektron en het achterblijvende gat
+            worden samen een elektron-gatpaar genoemd.
+            In figuur 4 is van enkele halfgeleiders de bandgap gegeven.
+
+            figuur 4
+                halfgeleider            Egap (eV)
+                     Si                   1,12
+                    CdSe                  1,74
+                   Si3 N 4                5,00
+                   GaAs                   1, 43
+                    GaP                   2, 26
+
+            Neem aan dat de fotonenergie van het gebruikte violette licht tussen
+            2,75 eV en 3,10 eV ligt.
+2p    7     Geef in de tabel op de uitwerkbijlage voor elke halfgeleider aan of deze
+            op grond van de bandgap geschikt is voor gebruik in een Qled-tv. Licht je
+            antwoord toe.
+
+            In goede benadering kunnen elektron en gat van een elektron-gatpaar
+            worden opgevat als vrije deeltjes. Als gevolg van de invloed van het
+            atoomrooster op hun beweging zijn de massa’s van deze deeltjes echter
+            niet gelijk aan de elektronmassa me . Ze krijgen beide een zogenaamde
+            effectieve massa meff . Voor de halfgeleider die wordt gebruikt in een
+            Qled-tv geldt: meff, elektron  0,13 me en meff, gat  0, 45 me .
+
+            Voor de debroglie-golflengte B van het elektron of het gat geldt:
+
+                               h
+                   B                            (1)
+                             2meff Ek
+
+            Hierin is:
+             h de constante van Planck
+             meff de effectieve massa
+                  Ek de kinetische energie
+
+
+
+
+VW-1023-a-22-1-o                                        6 / 18                   lees verder ►►►
+            Neem voor de kinetische energie van het elektron 1 eV.
+5p    8     Voer de volgende opdrachten uit:
+             Leid formule (1) af met behulp van formules uit het informatieboek.
+             Bereken B van het elektron.
+
+            Quantum-dot
+            In een oneindig grote halfgeleider kan de energie van het elektron-gatpaar
+             Eeg elke waarde hebben boven de bandgap. In een quantum-dot wordt
+            het elektron-gatpaar in een kleine ruimte opgesloten. Daardoor worden de
+            energieniveaus van het elektron-gatpaar gequantiseerd. Hoe kleiner de
+            ruimte, hoe groter de afstand tussen de afzonderlijke energieniveaus. Zie
+            figuur 5.
+
+            figuur 5
+
+
+
+
+            In een vereenvoudigd model kan de quantum-dot beschouwd worden als
+            een energieput met oneindig hoge wanden. Voor de nulpuntsenergie van
+            een deeltje in deze energieput kan worden uitgegaan van een
+            eendimensionale put, waarvan de lengte L gelijk is aan de straal R van
+            de quantum-dot. De energie Enul in figuur 5 is de som van de
+            nulpuntsenergieën van elektron en gat in deze energieput. Dus
+            Enul  Enul,elektron  Enul,gat .
+
+            Na zijn ontstaan komt het elektron-gatpaar door wisselwerking met het
+            atoomrooster uiteindelijk in de grondtoestand van de energieput terecht.
+            Als het elektron vervolgens terugvalt in het gat zendt de quantum-dot een
+            foton uit. In figuur 5 is dit schematisch weergegeven.
+
+
+
+
+VW-1023-a-22-1-o                           7 / 18                            lees verder ►►►
+            Voor de energie van het uitgezonden foton Ef geldt:
+
+                           C
+             Ef  Egap              (2)
+                           R2
+            Hierin is C een constante met de eenheid J m2 , die afhangt van
+            meff, elektron , meff, gat en h .
+
+4p    9     Bereken de waarde van de constante C. Leid hiertoe eerst formule (2) af
+            met behulp van een formule uit het informatieboek en figuur 5.
+
+            Een fabrikant van Qled-tv’s wil quantum-dots selecteren die na bestraling
+            met het violette licht groen licht uitzenden met een golflengte van 534 nm.
+            Door een coördinatentransformatie toe te passen, is van formule (2) een
+            lineaire grafiek gemaakt. Zie figuur 6.
+
+            figuur 6
+
+
+
+
+4p   10     Bepaal met behulp van figuur 6 de straal van de quantum-dots die de
+            fabrikant zoekt. Noteer je antwoord in twee significante cijfers.
+
+
+
+
+VW-1023-a-22-1-o                            8 / 18                            lees verder ►►►
+      Practicum warmtestraling
+
+            Tess en Fem voeren een practicum uit over warmtestraling waarmee ze
+            de constante van Stefan-Boltzmann gaan bepalen. Ze gebruiken de
+            opstelling zoals weergegeven in figuur 1.
+
+            figuur 1
+
+
+
+
+            In de opstelling zie je een oven. In de oven is      figuur 2
+            een verwarmingselement aangesloten op
+            gelijkspanning. Zie figuur 2.
+
+            Het verwarmingselement bestaat uit een draad van
+            constantaan met een diameter van 4,0 105 m en
+            een lengte van 0,35 m. De spanning wordt ingesteld
+            op 120 V.
+
+4p   11     Bereken het vermogen dat het verwarmingselement direct na inschakelen
+            opneemt.
+
+
+
+
+VW-1023-a-22-1-o                             9 / 18                         lees verder ►►►
+            De soortelijke weerstand van metaal is afhankelijk van de temperatuur
+            volgens de formule:
+                   T   0 1   T  T0     (1)
+
+            Hierin is:
+             T de soortelijke weerstand bij temperatuur T in  m
+             0 de soortelijke weerstand bij kamertemperatuur in  m
+              de weerstandstemperatuurcoëfficiënt in K1 (te vinden in het
+               informatieboek)
+             T de temperatuur in K
+             T0 de kamertemperatuur: 293 K
+
+            Het elektrisch vermogen dat het verwarmingselement opneemt, is
+            omgekeerd evenredig met de soortelijke weerstand T. Daardoor
+            verandert dit vermogen als de temperatuur toeneemt.
+
+            Tess en Fem discussiëren over de grootte van de verandering van de
+            soortelijke weerstand als de temperatuur toeneemt van 20 °C naar
+            300 °C.
+            Tess beweert dat deze verandering kleiner dan 5% is.
+            Fem beweert dat deze verandering groter dan 5% is.
+3p   12     Leg uit met een berekening wie van beiden gelijk heeft.
+
+            In figuur 3 is de opstelling schematisch in bovenaanzicht getekend.
+
+            figuur 3
+
+
+
+
+            De temperatuur van de oven kan gevarieerd worden. Midden in de oven is
+            een temperatuursensor geplaatst. De stralingsdetector staat vóór dit
+            geheel. De opstelling is zo afgesteld dat de stralingsdetector de
+                                                 P
+            uitgezonden stralingsintensiteit       in W m2 van de oven meet als functie
+                                                 A
+            van de temperatuur.
+
+
+
+
+VW-1023-a-22-1-o                                 10 / 18                         lees verder ►►►
+                                                                                 P
+            Tess en Fem maken van hun resultaten een grafiek waarin ze             uitzetten
+                                                                                 A
+            tegen T 4 . De grafiek staat in figuur 4. Figuur 4 staat ook op de
+            uitwerkbijlage.
+
+            figuur 4
+
+
+
+
+5p   13     Voer de volgende opdrachten uit:
+                                                   P
+                  Toon aan dat het plaatsen van     op de verticale as en T 4 op de
+                                                   A
+                   horizontale as theoretisch een rechte lijn door de oorsprong oplevert.
+                  Bepaal met behulp van de figuur op de uitwerkbijlage de constante
+                   van Stefan-Boltzmann die uit deze resultaten volgt. Noteer je antwoord
+                   in twee significante cijfers.
+
+            De oven bereikt uiteindelijk een maximale temperatuur van 383 °C.
+3p   14     Bereken de golflengte van de straling met de grootste intensiteit die de
+            oven bij die temperatuur uitzendt. Noteer je antwoord in het juiste aantal
+            significante cijfers.
+
+
+
+
+VW-1023-a-22-1-o                              11 / 18                              lees verder ►►►
+            Tess en Fem gaan een ander experiment doen: ze houden de
+            temperatuur van de oven constant, maar ze variëren de afstand van de
+            stralingsdetector tot de oven. Ze willen hiermee controleren of in deze
+            situatie de kwadratenwet geldt.
+            Ze meten hierbij de stralingsintensiteit I die op de stralingsdetector valt
+            als functie van de afstand. Hun meetresultaten staan weergegeven in
+            figuur 5.
+
+            figuur 5
+                   x (cm)   I (W m-2)
+                     40        4810
+                     50        1740
+                     60         980
+                     70         620
+
+4p   15     Toon aan of de kwadratenwet hier geldt. Doe dat aan de hand van de
+            meetresultaten in figuur 5.
+
+
+
+
+VW-1023-a-22-1-o                             12 / 18                            lees verder ►►►
+      Om het hoekje
+
+            Niels voert een practicum uit waarin hij het gedrag van bètadeeltjes in de
+            lucht onderzoekt. Hij gebruikt een radioactief preparaat als bron voor
+            β  -deeltjes. Neem aan dat deze bron bij de start van het practicum maar
+            één isotoop bevat. Tijdens het vervalproces van deze isotoop ontstaat
+            Yttrium-90 als vervalproduct. Bij dit vervalproces komt geen
+            gammastraling vrij.
+
+3p   16     Geef de vervalvergelijking van dat vervalproces.
+
+            Toch komt er gammastraling vrij uit de bron.
+
+1p   17     Geef aan hoe het mogelijk is dat er gammastraling uit de bron vrijkomt.
+
+            Niels bouwt de opstelling zoals weergegeven in figuur 1. Een loden blok is
+            zó geplaatst dat straling niet in een rechte lijn van de bron naar de
+            Geiger-Müller-sensor (GM-sensor) kan bewegen.
+
+            figuur 1
+
+
+
+
+VW-1023-a-22-1-o                           13 / 18                            lees verder ►►►
+            Verwaarloos bij het vervolg van deze opgave de eventuele invloed van de
+            gammastraling op de metingen.
+
+            Met behulp van een sterke hoefijzermagneet wil Niels bètadeeltjes om het
+            blok heen afbuigen richting de GM-sensor. Dit is weergegeven in figuur 2.
+
+            figuur 2
+
+
+
+
+3p   18     Leg uit aan welke kant (L of R) van de hoefijzermagneet zich de
+            noordpool bevindt.
+
+
+
+
+VW-1023-a-22-1-o                           14 / 18                            lees verder ►►►
+            Niels wil met zijn opstelling de snelheid van de bètadeeltjes bepalen. Hij
+            neemt aan dat in deze situatie de zwaartekracht op de bètadeeltjes
+            verwaarloosd mag worden. Verder neemt hij aan dat het magneetveld
+            homogeen is en dat de bètadeeltjes dus een cirkelbeweging uitvoeren.
+            Met behulp van formules uit het informatieboek leidt Niels de volgende
+            formule af voor de snelheid v van een bètadeeltje:
+                        Bqr
+                   v          (1)
+                         m
+            Hierin is:
+             B de sterkte van het magnetisch veld
+             q de lading van het bètadeeltje
+             r de straal van de cirkelbaan
+             m de massa van het bètadeeltje
+
+3p   19     Leid formule (1) af met behulp van formules uit het informatieboek.
+
+            Wanneer de snelheid van een deeltje groter is dan 10% van de
+            lichtsnelheid, moet er rekening gehouden worden met zogenaamde
+            relativistische effecten.
+
+            Het magnetisch veld tussen de polen is 0,1 T . Niels bepaalt de
+            gemiddelde straal van de cirkelbaan van de bètadeeltjes die op de GM-
+            sensor vallen en vindt 0, 20 m .
+3p   20     Leg uit of er in deze situatie rekening gehouden moet worden met
+            relativistische effecten. Bereken daartoe eerst de snelheid van de
+            bètadeeltjes volgens de methode van Niels.
+
+
+
+
+VW-1023-a-22-1-o                            15 / 18                            lees verder ►►►
+            Voordat Niels de bron en de magneet in de opstelling plaatst, doet hij
+            eerst driemaal een meting met de GM-sensor (figuur 3, reeks 1).
+            Vervolgens plaatst Niels de bron in de opstelling zonder magneet en doet
+            hij weer drie metingen (reeks 2). Ten slotte plaatst Niels ook de
+            hoefijzermagneet in de opstelling en doet hij nogmaals drie metingen
+            (reeks 3).
+
+            figuur 3
+                      reeks 1               reeks 2                 reeks 3
+                   zonder bron             met bron                met bron
+                 zonder magneet        zonder magneet           met magneet
+               (tellen per minuut)   (tellen per minuut)     (tellen per minuut)
+                       34                     160                    479
+                       27                     155                    497
+                       31                     165                    486
+
+1p   21     Geef aan hoe het kan dat Niels in de eerste meetreeks straling meet.
+
+            In de tweede meetreeks worden de bètadeeltjes nog niet afgebogen door
+            de magneet. Toch meet de GM-sensor al meer straling dan in de eerste
+            meetreeks.
+1p   22     Geef hiervan een mogelijke oorzaak.
+
+
+
+
+VW-1023-a-22-1-o                           16 / 18                          lees verder ►►►
+      Speciale fluit
+
+            In figuur 1 zie je een speciale fluit met twee gesloten uiteinden en slechts
+            drie gaten. We gaan uit van een kamertemperatuur van 20 oC.
+
+            figuur 1
+
+
+
+
+            Het middelste gat wordt gebruikt om de fluit aan te blazen. Zie figuur 2.
+            De andere twee gaten kunnen met een vinger afgesloten worden.
+
+            figuur 2
+
+
+
+
+            Daniël en Jonathan gaan onderzoeken hoe de toonvorming in de fluit
+            plaatsvindt.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1023-a-22-1-o                            17 / 18                            lees verder ►►►
+            Op de fluit kun je twee tonen spelen met één gat gesloten: toon I en
+            toon II. In figuur 3a en in figuur 3b zijn de twee mogelijkheden om een
+            toon te spelen met één gat gesloten schematisch weergegeven.
+            Een wit bolletje betekent een geopend gat en een zwart bolletje een gat
+            dat is gesloten met een vinger. De fluit wordt aangeblazen door het
+            middelste gat, dat is aangegeven met grijs.
+
+            figuur 3a
+
+
+
+
+            figuur 3b
+
+
+
+
+            Volgens het model van de staande golven ontstaat er bij het uiteinde aan
+            de kant van het gesloten gat een knoop (K) en ergens in de buurt van het
+            open gat een buik (B). De plaats van de knoop bij toon I en toon II is
+            weergegeven met een letter K. In beide gevallen is sprake van de
+            grondtoon.
+            Op de uitwerkbijlage staat figuur 3a nogmaals weergegeven. De lengte
+            van de afbeelding van de fluit is precies de helft van de werkelijke lengte.
+            De frequentie van toon I is 6, 0  10 2 Hz.
+
+6p   23     Voer de volgende opdrachten uit:
+             Geef in de figuur op de uitwerkbijlage met een letter B de plaats van
+               de buik bij toon I aan. Licht je antwoord toe met een berekening.
+             Leg uit of de frequentie van toon II hoger of lager is dan de frequentie
+               van toon I.
+
+            Daniël blaast de fluit aan door het middelste gat, met beide andere gaten
+            open. Jonathan ontdekt dat de toon die daardoor ontstaat veel hoger is
+            dan toon I en II.
+            Op de uitwerkbijlage is de fluit in deze situatie schematisch weergegeven.
+3p   24     Geef in de figuur op de uitwerkbijlage een mogelijkheid van de ligging van
+            de knopen (K) en buiken (B) aan, in het gebied tussen de stippellijnen.
+            Ga daarbij uit van het model van de staande golf. Een berekening is niet
+            nodig.
+
+            Daniël en Jonathan hebben al een tijdje op de fluit geblazen, waardoor de
+            lucht in de fluit een hogere temperatuur heeft gekregen.
+3p   25     Leg uit hoe de toonhoogte verandert als de temperatuur van de lucht in de
+            fluit toeneemt. Neem aan dat de golflengte niet verandert.
+
+
+
+
+VW-1023-a-22-1-o                            18 / 18                            lees verdereinde
+                                                                                            ►►► 
+

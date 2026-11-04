@@ -1,0 +1,487 @@
+                                                                    Examen VWO
+
+                                                                        2021
+                                                                              tijdvak 1
+                                                                     woensdag 26 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Maak zo nodig gebruik van Binas of ScienceData.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 23 vragen.
+Voor dit examen zijn maximaal 63 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-21-1-o
+              Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+              T = 298 K en p = p0.
+
+
+      ‘Groene’ verf?
+
+              Om textiel te verven, worden pigmenten gebruikt die slecht in water
+              oplossen. Deze pigmenten zijn apolaire vaste stoffen die zich tijdens het
+              verven hechten aan het oppervlak van de textielvezels. Met een vezel
+              wordt in deze opgave een bundel polymeerketens bedoeld.
+              Omdat het verven plaatsvindt in water, worden emulgatoren gebruikt om
+              de pigmenten te mengen met het water. Na afloop van het verven komen
+              deze milieubelastende emulgatoren in het afvalwater terecht.
+              Het Nederlandse bedrijf DyeCoo heeft een verftechniek ontwikkeld waarbij
+              geen afvalwater vrijkomt. In het proces wordt superkritisch CO2 gebruikt
+              als oplosmiddel. Superkritisch CO2 is CO2 dat bij T = 120 °C is
+              samengeperst tot p = 300 bar. In deze opgave mag je aannemen dat het
+              CO2 zich dan als een vloeistof gedraagt.
+              Het superkritisch CO2 is ook apolair, zodat de pigmenten in superkritisch
+              CO2 oplossen zonder gebruik van emulgatoren.
+
+2p    1       Geef de structuurformule van CO2 en leg daarmee uit dat CO2 een
+              apolaire stof is.
+
+              De verftechniek van DyeCoo is vooral geschikt voor het verven van
+              polyester kledingmateriaal. Als het CO2 in contact komt met polyester,
+              zwellen de vezels op. Dit komt doordat de CO2-moleculen tussen de
+              apolaire polymeerketens dringen.
+              Een gevolg van het opzwellen is dat een sterkere kleuring van polyester
+              kan worden verkregen dan met de op water gebaseerde verfmethode.
+
+1p    2       Geef aan waarom het opzwellen van de polyestervezels tot gevolg heeft
+              dat een sterkere kleuring van het polyester kan worden verkregen.
+
+              Wanneer het polyester enige tijd is behandeld met de pigment-oplossing,
+              wordt het polyester gescheiden van de pigment-oplossing.
+              Het mengsel van superkritisch CO2 en het overgebleven pigment wordt
+              gescheiden, zodat het pigment kan worden hergebruikt.
+
+2p    3       Leg uit hoe men het superkritisch CO2 van het overgebleven pigment kan
+              scheiden.
+
+
+
+
+VW-1028-a-o                                  2 / 13                           lees verder ►►►
+              Het proces van DyeCoo is met een aantal aanpassingen ook te gebruiken
+              voor katoen. Het katoen wordt dan voorbehandeld met een oplossing van
+              methanol in superkritisch CO2. Hierdoor zwelt het katoen op. Daarna
+              wordt een stroom superkritisch CO2 met een zogeheten reactief pigment
+              doorgeleid.
+              Een reactief pigment wordt gevormd door een geschikt pigment te laten
+              reageren met dichloortriazine. Het gevormde reactieve pigment reageert
+              vervolgens met het katoen. Deze reactie is op de uitwerkbijlage
+              schematisch en onvolledig weergegeven.
+              De reactie van het reactieve pigment met katoen is een substitutiereactie.
+              Het O-atoom van een OH-groep van katoen valt als nucleofiel aan op één
+              van de twee C-atomen waaraan een Cl-atoom is gebonden.
+
+2p    4       Maak de reactievergelijking op de uitwerkbijlage compleet.
+              Gebruik schematische structuurformules zoals op de uitwerkbijlage.
+
+              Het reactieve pigment wordt in ondermaat toegevoegd ten opzichte van
+              de OH-groepen in het katoen. Wanneer methanol ook tijdens het verven
+              wordt bijgemengd, blijkt dat het percentage pigmentmoleculen dat aan het
+              katoen is gebonden, terugloopt.
+
+2p    5       Leg uit dat het percentage gebonden pigmentmoleculen lager is wanneer
+              methanol ook tijdens het verven aanwezig is in het mengsel.
+
+
+
+
+VW-1028-a-o                                   3 / 13                           lees verder ►►►
+              Ga verder op de volgende pagina.
+
+
+
+
+VW-1028-a-o                               4 / 13   lees verder ►►►
+      Chloropreenfabriek
+
+              Chloropreen is de beginstof voor de productie van
+              neopreen. Neopreen is een synthetisch rubber. De
+              structuurformule van chloropreen is hiernaast
+              weergegeven.
+              Chloropreen wordt in een aantal stappen gemaakt.
+              De eerste stap is de additie-reactie van buta-1,3-dieen met chloor. Daarbij
+              ontstaat onder andere 3,4-dichloorbut-1-een (3,4-DCB). Het mechanisme
+              voor de vorming van 3,4-DCB is weergegeven in mechanisme 1.
+
+
+
+
+              In stap 1 van mechanisme 1 wordt een cyclisch chlorinium-ion gevormd.
+              Van dit ion kunnen ook twee niet-cyclische structuurisomeren worden
+              gevormd. Op de uitwerkbijlage is de Lewisstructuur van een niet-cyclische
+              structuurisomeer weergegeven, dit is structuurisomeer 1.
+              De andere niet-cyclische structuurisomeer is structuurisomeer 2. Van dit
+              deeltje kunnen twee grensstructuren worden gegeven. Deze
+              grensstructuren zijn op de uitwerkbijlage onvolledig weergegeven. In
+              beide grensstructuren heeft telkens één C-atoom geen volledig oktet.
+              Met behulp van de grensstructuren van structuurisomeer 2 kan worden
+              verklaard dat in stap 2 behalve 3,4-DCB ook 1,4-DCB
+              (1,4-dichloorbut-2-een) wordt gevormd.
+
+2p    6       Maak op de uitwerkbijlage beide grensstructuren van structuurisomeer 2
+              compleet.
+               Geef het Cl-atoom en de ontbrekende elektronenparen weer.
+               Geef de formele lading(en) weer.
+
+              Van het gevormde 1,4-DCB bestaan twee stereo-isomeren, namelijk
+              cis-1,4-DCB en trans-1,4-DCB. Een leerling doet een voorstel voor het
+              mechanisme voor het ontstaan van 1,4-DCB. Dit voorstel is in
+              mechanisme 2 weergegeven.
+
+
+
+
+VW-1028-a-o                                   5 / 13                            lees verder ►►►
+              Het blijkt dat het gevormde 1,4-DCB voor 19% uit de cis-vorm en voor
+              81% uit de trans-vorm bestaat.
+
+2p    7       Leg uit dat mechanisme 2 geen verklaring biedt voor de waargenomen
+              verhouding van de stereo-isomeren bij de vorming van 1,4-DCB uit chloor
+              en buta-1,3-dieen.
+
+              Op de uitwerkbijlage bij vraag 10 is het onvolledige blokschema van de
+              productie van chloropreen weergegeven. In reactor 1 (R1) reageert
+              buta-1,3-dieen met chloor. Het mengsel van 1,4-DCB en 3,4-DCB wordt
+              na een scheidingsstap (S1) als vloeistofmengsel naar reactor 2 (R2)
+              gevoerd. In R2 treedt evenwicht 1 op.
+              1,4-DCB      3,4-DCB                      (evenwicht 1)
+              De temperatuur in R2 ligt tussen 125 °C en 150 °C. De temperatuur is zo
+              gekozen dat eenvoudig een zo hoog mogelijke opbrengst aan 3,4-DCB
+              kan worden bereikt.
+              Bij de druk in R2 is het kookpunt van 3,4-DCB 119 °C. De kookpunten van
+              cis-1,4-DCB en trans-1,4-DCB liggen boven 152 °C.
+
+2p    8       Voer de volgende opdrachten uit:
+               Geef de evenwichtsvoorwaarde voor evenwicht 1. Houd hierbij
+                 rekening met de omstandigheden die heersen in R2.
+               Leg uit dat onder deze omstandigheden een zo hoog mogelijke
+                 opbrengst aan 3,4-DCB kan worden bereikt.
+
+              In reactor 3 (R3) reageert ten slotte 3,4-DCB met natronloog tot
+              chloropreen en een oplossing van natriumchloride. Op de uitwerkbijlage is
+              het mechanisme van deze reactie onvolledig weergegeven.
+
+3p    9       Voer op de uitwerkbijlage de volgende opdrachten uit:
+               Maak de reactievergelijking compleet.
+               Geef de niet-bindende elektronenparen en formele lading(en) weer.
+               Geef met pijlen weer hoe elektronenparen worden verplaatst tijdens
+                 de reactie.
+
+
+
+
+VW-1028-a-o                                  6 / 13                           lees verder ►►►
+              Het gehele productieproces is hieronder samengevat.
+               Chloor en buta-1,3-dieen worden als gas in R1 geleid, waar 3,4-DCB
+                 en 1,4-DCB en nevenproducten worden gevormd. De omzetting van
+                 chloor en buta-1,3-dieen in R1 is niet volledig.
+               Het mengsel afkomstig uit R1 is vloeibaar en wordt naar
+                 scheidingsruimte 1 (S1) geleid. In S1 wordt stikstof door het mengsel
+                 geblazen waardoor het ongereageerde chloor en buta-1,3-dieen uit de
+                 vloeistofstroom worden verwijderd. Het gasmengsel van stikstof,
+                 chloor en buta-1,3-dieen wordt boven uit S1 teruggeleid naar R1. Om
+                 ophoping van stikstof in het systeem te voorkomen wordt een deel van
+                 deze recycle-stroom afgetapt.
+                 De vloeistofstroom uit S1 wordt naar R2 geleid.
+               In R2 wordt 1,4-DCB onvolledig omgezet tot 3,4-DCB. Uit R2 komen
+                 twee stofstromen. De ene stroom, met uitsluitend 3,4-DCB, wordt
+                 doorgevoerd naar R3.
+               De andere stroom uit R2 bevat 1,4-DCB en de nevenproducten. Deze
+                 stroom wordt doorgevoerd naar een destilleerkolom (S2) waar
+                 het 1,4-DCB wordt afgescheiden en teruggeleid naar R2.
+                 De nevenproducten worden als vloeistofstroom afgevoerd.
+               In R3 reageert ten slotte 3,4-DCB met een overmaat natronloog tot
+                 chloropreen en een oplossing van natriumchloride. Het chloropreen
+                 verlaat R3 als gasstroom.
+
+4p   10       Maak het blokschema op de uitwerkbijlage compleet.
+               Teken S2.
+               Teken de ontbrekende pijlen en noteer de ontbrekende stoffen bij de
+                pijlen.
+               Geef de stofstromen in het schema weer met de volgende cijfers:
+                1 buta-1,3-dieen             6 natriumchloride-oplossing
+                2 chloor                     7 natronloog
+                3 chloropreen                8 nevenproducten
+                4 3,4-DCB                    9 stikstof
+                5 1,4-DCB
+               Cijfers voor de verschillende stofstromen kunnen meerdere malen
+                voorkomen.
+
+              Het rendement van de omzetting van buta-1,3-dieen tot 3,4-DCB in R1 en
+              R2 bedraagt in totaal 70%. Het rendement van de omzetting van 3,4-DCB
+              tot chloropreen in R3 bedraagt 93%.
+              Het molair volume van een gas onder de heersende omstandigheden is
+              2,45·10–2 m3 mol–1.
+
+5p   11       Bereken hoeveel m3 chloor minimaal nodig is voor de productie van
+              1,0 ton chloropreen. Een ton is 103 kg.
+              Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+
+
+VW-1028-a-o                                  7 / 13                          lees verder ►►►
+      IJzerstapeling
+
+              Hemochromatose of ijzerstapeling is een erfelijke ziekte waarbij te veel
+              ijzerionen uit de darminhoud worden opgenomen terwijl het lichaam niet in
+              staat is de overmaat aan ijzerionen uit te scheiden. Deze ziekte wordt
+              vaak veroorzaakt door een mutatie in het gen dat codeert voor het eiwit
+              HFE. HFE speelt een rol bij de opname van ijzerionen.
+              Bij de synthese van HFE wordt in eerste instantie mRNA gevormd dat
+              bestaat uit 2727 basen. De eerste 221 basen spelen echter geen rol bij de
+              synthese van HFE. Het startcodon begint pas bij base nummer 222. Dit is
+              tevens het codon voor het aminozuur met nummer 1.
+              Hieronder is een deel van de mRNA-volgorde bij mensen zonder en
+              mensen met hemochromatose weergegeven. De mutatie treedt op bij
+              base nummer 1066.
+
+
+
+
+              Met behulp van de 1-lettersymbolen van aminozuren kan men dit soort
+              mutaties vereenvoudigd weergeven. Zo kan een mutatie waarbij op
+              plaats 86 van een eiwit een glutaminezuur-eenheid is ingebouwd in plaats
+              van een glutamine-eenheid, worden weergeven als Q86E.
+
+4p   12       Leid met behulp van het gegeven voorbeeld af wat de notatie is van de
+              hierboven beschreven mutatie die hemochromatose veroorzaakt.
+
+              De uit de darminhoud opgenomen ijzerionen
+              komen in het bloed terecht. Daar worden deze
+              ionen gebonden door het eiwit transferrine en
+              worden zo getransporteerd naar de lever en
+              naar de plaatsen waar de productie van rode
+              bloedlichaampjes plaatsvindt. Het binden en
+              afstaan van de ijzerionen door transferrine is
+              afhankelijk van de pH. Daarbij zijn de
+              restgroepen van de aminozuren Tyr, Asp en
+              His betrokken. Hiernaast is schematisch
+              weergegeven hoe een Fe3+-ion in een molecuul
+              transferrine is gebonden.
+              Bij de pH van bloed (7,4) zijn Fe3+-ionen sterk gebonden aan transferrine.
+              Op de plaatsen in het lichaam waar transferrine de gebonden Fe3+-ionen
+              moet afstaan, is de pH aanzienlijk lager. De Fe3+-ionen komen dan vrij uit
+              de moleculen transferrine.
+
+2p   13       Leg uit dat bij lage pH Fe3+-ionen vrijkomen uit de moleculen transferrine.
+
+
+
+
+VW-1028-a-o                                   8 / 13                             lees verder ►►►
+              Patiënten met hemochromatose kunnen worden behandeld met
+              desferrioxamine, een stof die in opgeloste vorm met behulp van een
+              infuus wordt toegediend. Desferrioxamine bindt Fe3+. Via de nieren wordt
+              de ontstane verbinding uitgescheiden.
+              Een molecuul desferrioxamine ontstaat uit één molecuul ethaanzuur (E),
+              twee moleculen butaandizuur (B) en drie moleculen van een stof A.
+              De structuurformule van stof A is hieronder weergegeven.
+
+
+
+
+              Deze zes moleculen worden in de volgorde A – B – A – B – A – E
+              gekoppeld. Daarbij worden alleen C–N-bindingen gevormd. Per ontstane
+              C–N-binding wordt één molecuul water afgesplitst.
+
+3p   14       Geef de structuurformule van het fragment ~ B – A – E van een molecuul
+              desferrioxamine.
+
+              Om te onderzoeken of iemand hemochromatose heeft, wordt
+              bloedonderzoek gedaan. Voor het onderzoek is een bufferoplossing
+              bereid. Deze oplossing is bereid door per liter achtereenvolgens
+              0,338 mol NaHCO3 en 3,4·10–2 mol waterstofchloride (HCl) op te lossen.
+              In de uiteindelijke oplossing zijn onder andere deeltjes H2CO3 en HCO3–
+              aanwezig.
+
+5p   15       Bereken de pH van de uiteindelijke oplossing. Neem hierbij aan dat geen
+              gasvormig CO2 uit de oplossing ontwijkt.
+              Geef de uitkomst in het juiste aantal significante cijfers.
+
+              Van een patiënt wordt bloed afgenomen, waarna het bloedserum wordt
+              afgescheiden van de rode bloedlichaampjes. Het bloedserum bevat alle
+              transferrine. Bij het vaststellen of iemand hemochromatose heeft, is onder
+              andere de vrije ijzerbindende capaciteit CF van belang. Dit is het aantal
+              mol Fe3+ dat per liter bloedserum nog aan het transferrine kan worden
+              gebonden.
+              Bij gezonde mensen bevat het bloedserum gemiddeld 3,0 g transferrine
+              per liter en is gemiddeld 30% van de bindingsplaatsen van het transferrine
+              bezet met Fe3+-ionen. Per molecuul transferrine kunnen twee Fe3+-ionen
+              worden gebonden. De molaire massa van transferrine is 8,0·104 g mol–1.
+
+3p   16       Bereken met behulp van de bovenstaande gegevens de gemiddelde CF
+              in mol L–1 bij gezonde mensen.
+
+
+
+
+VW-1028-a-o                                  9 / 13                            lees verder ►►►
+      Suikerbatterij
+
+              Een suikerbatterij maakt gebruik van glucose als energiebron.
+              In de eerste suikerbatterij die is gemaakt, werd glucose met behulp van
+              enzymen geoxideerd tot onder andere ethaanzuur.
+              De totaalvergelijking van deze omzetting is hieronder weergegeven.
+
+              C6H12O6 + 2 O2      2 CO2 + 2 H2O + 2 CH3COOH
+
+              De maximale energie per mol glucose die in een batterij vrij kan komen, is
+              gelijk aan de verbrandingsenergie van glucose, dat is de energie die
+              vrijkomt bij de volledige verbranding.
+              De vormingswarmte van glucose is –12,61·105 J mol–1.
+
+4p   17       Bereken hoeveel procent van de maximale energie vrijkomt wanneer
+              glucose in deze suikerbatterij wordt omgezet.
+               Het gevormde water komt vrij als vloeistof.
+               Gebruik Binas-tabel 56 en 57 of ScienceData-tabel 8.7.a en 9.2.
+
+              Een groep onderzoekers heeft een batterij ontwikkeld waarbij de
+              polysacharide maltodextrine volledig werd omgezet tot CO2 en H2O.
+              Maltodextrine is opgebouwd uit glucose-monomeereenheden en kan
+              worden weergegeven als H–(C6H10O5)n–OH met 3 < n < 20.
+              Voor de volledige omzetting van maltodextrine tot CO2 en H2O hebben de
+              onderzoekers enzymen uit verscheidene micro-organismen gebruikt.
+              In de figuur is de gebruikte opstelling vereenvoudigd weergegeven.
+              Met reacties I, II en III zijn de verlopende (half)reacties bij stroomlevering
+              schematisch aangegeven.
+
+              figuur
+
+
+
+
+              Door de (half)reacties I t/m III wordt de maltodextrine uiteindelijk volledig
+              omgezet. Elektronen komen uitsluitend vrij in reactie II.
+
+
+
+
+VW-1028-a-o                                    10 / 13                            lees verder ►►►
+              Reactie I: maltodextrine reageert met een deeltje dat in de oplossing
+              aanwezig is. Dit deeltje wordt in deze opgave weergegeven met H–Pi.
+              Hierbij ontstaat onder andere glucose-6-fosfaat (C6H11O5–Pi). De keten
+              van maltodextrine wordt in reactie I één glucose-eenheid korter.
+              De vergelijking van reactie I is hieronder gegeven.
+
+              H–(C6H10O5)n–OH + H–Pi        C6H11O5–Pi + H–(C6H10O5)n-1–OH
+
+              Reactie II: in een halfreactie wordt C6H11O5–Pi omgezet tot onder andere
+              ribulose-5-fosfaat (C5H9O4–Pi).
+
+3p   18       Geef met behulp van de figuur de vergelijking voor halfreactie II.
+
+              Reactie III: het ontstane C5H9O4–Pi wordt weer omgezet tot
+              C6H11O5–Pi en H–Pi. Het C5H9O4–Pi is hierbij de enige bron van
+              koolstofatomen.
+
+2p   19       Geef met behulp van de figuur de vergelijking voor reactie III.
+
+
+
+
+VW-1028-a-o                                   11 / 13                              lees verder ►►►
+      Marquis-reagens voor alkaloïden
+
+              De politie controleert regelmatig op bezit
+              van harddrugs. Voor een snelle test is
+              onder andere het Marquis-reagens
+              ontwikkeld. Aan een zakje van dit reagens
+              voegt men wat van het te onderzoeken
+              monster toe. Als het monster drugs bevat,
+              ontstaat een kenmerkende kleur.
+
+
+              Het Marquis-reagens wordt bereid door oplossingen van zwavelzuur en
+              methanal te mengen in de volumeverhouding 20 : 1,0.
+              In de tabel staan enkele gegevens van de gebruikte oplossingen.
+
+              tabel
+
+                                              gehalte      dichtheid
+                                             (massa%)      (g mL–1)
+              zwavelzuur-oplossing               98          1,84
+              methanal-oplossing                 37          1,09
+
+4p   20       Bereken de molverhouding tussen methanal en zwavelzuur in Marquis-
+              reagens.
+              Noteer de verhouding als volgt: zwavelzuur : methanal = …… : 1,0.
+
+              Marquis-reagens wordt voornamelijk gebruikt om alkaloïden van elkaar te
+              onderscheiden. Veel alkaloïden zijn afgeleid van een aminozuur.
+              In de figuur zijn drie alkaloïden weergegeven die zijn ontstaan uit het
+              aminozuur tyrosine. De oorspronkelijke structuur van tyrosine is nog in de
+              drie structuren te herkennen.
+
+              figuur
+
+
+
+
+              Op de uitwerkbijlage is de structuurformule van morfine nogmaals
+              weergegeven.
+
+2p   21       Omcirkel op de uitwerkbijlage het deel van het molecuul morfine dat van
+              het aminozuur tyrosine afkomstig is.
+              Neem aan dat alle C-atomen van tyrosine in morfine zijn opgenomen.
+
+
+
+VW-1028-a-o                                  12 / 13                           lees verder ►►►
+              In alle alkaloïden zijn stikstofatomen aanwezig. Als zo’n stikstofatoom een
+              niet-bindend elektronenpaar heeft, kan het atoom een H+-ion binden
+              waardoor het alkaloïde als base kan reageren.
+
+2p   22       Leg uit welke van de drie alkaloïden uit de figuur niet als base reageert.
+
+              Heroïne en morfine geven beide met Marquis-reagens een paars-violette
+              kleur. Om toch onderscheid te kunnen maken tussen deze twee stoffen,
+              voert men nog een ander experiment uit.
+              Er treedt nu een reactie op, waarbij in moleculen van beide stoffen het
+              H-atoom op C1 wordt vervangen door een NO2-groep. Morfine geeft nu
+              een oranje kleur en heroïne een gele kleur.
+              De oorzaak van dit kleurverschil wordt toegeschreven aan het optreden
+              van een intramoleculaire interactie die bij morfine wel en bij heroïne niet
+              optreedt. Deze interactie kan worden opgevat als een waterstofbrug
+              waarbij een O-atoom van de NO2-groep is betrokken.
+              Op de uitwerkbijlage is een deel van het molecuul van de omgezette
+              morfine weergegeven. Hierbij zijn de bindende elektronenparen in de
+              NO2-groep onvolledig weergegeven.
+
+2p   23       Voer op de uitwerkbijlage de volgende opdrachten uit:
+               Geef de bindende elektronenparen in de NO2-groep weer.
+               Geef de formele en partiële lading(en) aan.
+               Geef de waterstofbrug weer met een stippellijn.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1028-a-o                                              13 / 13                                          lees verder ►►►
+

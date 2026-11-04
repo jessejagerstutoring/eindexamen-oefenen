@@ -1,0 +1,131 @@
+ aanvulling op het correctievoorschrift                                         2019-1
+
+natuurkunde vwo
+
+Centraal examen vwo
+
+Tijdvak 1
+
+Correctievoorschrift
+
+
+Aan de secretarissen van het eindexamen van de scholen voor vwo,
+
+Bij het centraal examen natuurkunde vwo:
+
+
+Op pagina 6 bij vraag 3 moet
+•    inzicht dat tot t = 6,0 s de snelheid van Schippers groter is dan die van Wüst
+     en Schippers dus een voorsprong opbouwt                                           1
+•    inzicht dat deze onderlinge afstand gelijk is aan het verschil in de oppervlakten
+     onder de beide grafieken van t = 0 s tot het snijpunt                             1
+
+vervangen worden door:
+
+    inzicht dat tot het gekozen tijdstip de snelheid van Schippers groter is dan
+     die van Wüst en Schippers dus een voorsprong opbouwt                             1
+•    inzicht dat deze onderlinge afstand gelijk is aan het verschil in de
+     oppervlakten onder de beide grafieken van t  0 s tot het gekozen tijdstip       1
+
+en
+
+Op pagina 9 bij vraag 12 moet de volgende Opmerking worden toegevoegd:
+
+Opmerking
+Bij de derde deelscore moet altijd 1 scorepunt worden toegekend, ongeacht
+of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord.
+
+en
+
+
+
+
+VW-1023-a-19-1-c-A
+      Op pagina 10, bij vraag 14 moet
+      voorbeeld van een antwoord:
+      Uit figuur 1 en 2 lezen we een intensiteitsverhouding af van
+       83 103
+                40 103 (met een marge van 4 103 ).
+         2,1
+      Dit zou overeen moeten komen (volgens de kwadratenwet) met het
+                                   afstand zon aarde
+      kwadraat van de verhouding                      .
+                                    straal van de zon
+                                      2              2
+                 afstand zon aarde   1,5 10 
+                                               11
+      Er geldt:                     
+                                              8 
+                                                     46 103.
+                 straal van de zon   7, 0 10 
+      (Het klopt dus heel aardig.)
+
+      •    bepalen van intensiteitsverhouding uit figuur 1 en 2                              1
+                                                 2
+                       I1  afstand zon aarde 
+      •    inzicht dat                                                                    1
+                       I 2  straal van de zon 
+      •    opzoeken van afstanden                                                            1
+      •    completeren van de bepaling                                                       1
+
+      Opmerkingen
+       Als de kandidaat het tweede scorepunt niet behaald heeft, kan hij/zij het
+         vierde scorepunt niet behalen.
+       Bij de vraag hoeft geen rekening gehouden te worden met significantie.
+
+      vervangen worden door:
+
+      voorbeeld van een antwoord:
+      Uit figuur 1 en 2 lezen we de maximale intensiteit af: I1  83  103 (W m 2 nm 1 )
+      met een marge van 8 103 (W m 2 nm 1 ) en I 2  2,1 (W m 2 nm 1 ) met een marge
+      van 0, 2 (W m 2 nm 1 ) .
+
+      De intensiteitsverhouding wordt dan:
+      83 103
+               40 103 .
+        2,1
+
+      Uit de kwadratenwet volgt dat:
+            Pbron
+                                         2              2
+       I1 4r12  afstand zon aarde   1,5 1011 
+                                              8 
+                                                           46 103.
+       I2   Pbron    straal van de zon   7, 0 10 
+            4r2 2
+      (Het klopt dus heel aardig.)
+
+          bepalen van de maximale intensiteiten uit figuur 1 en uit figuur 2                1
+                                            P 
+          gebruik van de kwadratenwet  I  bron2                                          1
+                                            4r 
+          opzoeken van de afstand zon-aarde en de straal van de zon                         1
+          completeren van de bepaling                                                       1
+
+VW-1023-a-19-1-c-A
+      Opmerkingen
+       Bij deze vraag hoeft geen rekening gehouden te worden met significantie.
+       Als de kandidaat het verschil in de intensiteiten bepaalt in plaats van de verhouding
+         tussen de intensiteiten, dit niet aanrekenen.
+
+      en
+
+      Op pagina 11, bij vraag 16 moet de volgende Opmerking worden toegevoegd:
+
+      Opmerking
+      Als de kandidaat de bijdrage van UV-A verwaarloost, dit niet aanrekenen. De uitkomst
+      wordt dan t = 33 (min) (met een marge van 8 min).
+
+
+      Ik verzoek u dit bericht door te geven aan de correctoren natuurkunde vwo.
+
+      Namens het College voor Toetsen en Examens,
+
+      drs. P.J.J. Hendrikse,
+      voorzitter
+
+
+
+
+VW-1023-a-19-1-c-A
+

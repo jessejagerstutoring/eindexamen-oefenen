@@ -6,7 +6,6 @@
  *   #/vak/<vak>/onderwerp/<id>        alle vragen over één onderwerp
  *   #/vak/<vak>/examen/<code>         alle vragen van één examen
  *   #/vak/<vak>/voortgang             je scores per onderwerp en een advies wat je nu oefent
- *   #/tips                            examentips, algemeen en per vak
  *   #/vraag/<vak>/<id>/<lijst>        één vraag; <lijst> is o-<onderwerp> of e-<examen> voor vorige/volgende
  */
 (() => {
@@ -35,18 +34,10 @@
     return cache[pad];
   }
   const vakData = vak => json(`data/${vak}.json`);
-  const tipsData = () => json('data/tips.json').catch(() => null);
   const SITE = 'https://jessejagerstutoring.nl';
   const komma = x => x.toFixed(1).replace('.', ',');
   // gemiddeld aantal punten dat een onderwerp per examen oplevert
   const perExamen = (vak, o) => o.punten / OVERZICHT.vakken[vak].examens.length;
-  const lijstje = l => `<ul>${l.map(x => `<li>${esc(x)}</li>`).join('')}</ul>`;
-  function aanpakBlok(tip, open, kop = 'Zo pak je dit aan') {
-    if (!tip) return '';
-    return `<details class="aanpak"${open ? ' open' : ''}><summary>${esc(kop)}</summary><div class="aanpak-in">
-      <div><h3>Aanpak</h3>${lijstje(tip.aanpak)}</div>
-      <div><h3>Hier gaan vaak punten verloren</h3>${lijstje(tip.valkuilen)}</div></div></details>`;
-  }
   const hulpBlok = () => `<aside class="hulp"><div><h2>Persoonlijke hulp nodig?</h2>
     <p>Eindexamen Oefenen is een gratis project van Jesse Jagers Tutoring. Kom je er met oefenen alleen niet uit, of wil je gericht toewerken naar je examen? Kijk dan voor bijles en begeleiding op de website.</p></div>
     <a class="knop vol" href="${SITE}" target="_blank" rel="noopener">jessejagerstutoring.nl</a></aside>`;
@@ -82,8 +73,7 @@
   function zetNav(actief) {
     const per = {};
     Object.entries(OVERZICHT.vakken).forEach(([k, v]) => (per[v.niveau] = per[v.niveau] || []).push([k, v]));
-    hoofdnav.innerHTML = Object.entries(per).map(([n, l]) => `<b>${OVERZICHT.niveaus[n]}</b>${l.map(([k, v]) => `<a href="#/vak/${k}" class="${k === actief ? 'aan' : ''}">${esc(v.naam)}</a>`).join('')}`).join('')
-      + `<a href="#/tips" class="los ${actief === 'tips' ? 'aan' : ''}">Examentips</a>`;
+    hoofdnav.innerHTML = Object.entries(per).map(([n, l]) => `<b>${OVERZICHT.niveaus[n]}</b>${l.map(([k, v]) => `<a href="#/vak/${k}" class="${k === actief ? 'aan' : ''}">${esc(v.naam)}</a>`).join('')}`).join('');
   }
   function toon(html, titel, vak) {
     zetNav(vak);
@@ -136,7 +126,6 @@
             <li>Bekijk het antwoordmodel en geef jezelf punten.</li>
             <li>Kijk bij <b>Mijn voortgang</b> waar je het beste verder kunt oefenen.</li>
           </ol>
-          <p class="klein">Lees ook de <a href="#/tips">examentips</a>: hoe je je tijd verdeelt en hoe je punten haalt.</p>
         </aside>
       </div>
       ${laatste ? `<p class="verder"><span>Verder waar je gebleven was:</span> <a href="#/vraag/${laatste.k}/${enc(laatste.id)}">${esc(vakNaam(laatste.k))}, examen ${laatste.e.jaar}-${tvKort(laatste.e.tijdvak)}, vraag ${esc(laatste.id.split(':')[1])}</a></p>` : ''}
@@ -190,12 +179,10 @@
     const v = OVERZICHT.vakken[vak];
     if (!v) return nietGevonden();
     const data = await vakData(vak);
-    let vragen, titel, sub, lijstId, boven, extra = '';
+    let vragen, titel, sub, lijstId, boven;
     if (soort === 'onderwerp') {
       const o = onderwerp(vak, sleutel);
       if (!o) return nietGevonden();
-      const tips = await tipsData();
-      extra = aanpakBlok(tips && tips.vakken[vak] && tips.vakken[vak].onderwerpen[sleutel], true);
       vragen = data.vragen.filter(q => q.onderwerp === sleutel);
       titel = o.naam;
       boven = `${vakNaam(vak)} · paragraaf ${nummer(vak, sleutel)} · syllabus ${o.code}`;
@@ -225,7 +212,6 @@
       document.querySelectorAll('.filters button').forEach(b => b.classList.toggle('aan', b.dataset.f === filter));
     };
     toon(`<header class="lijstkop"><p class="bovenkop">${esc(boven)}</p><h1>${esc(titel)}</h1><p class="inleiding">${esc(sub)}</p></header>
-      ${extra}
       <div class="filters" role="group" aria-label="Filter"><span>Toon:</span>
         <button data-f="alle">alle ${vragen.length} vragen</button>
         ${soort === 'onderwerp' ? `<button data-f="recent">2022 en later</button><button data-f="ouder">2018–2021</button>` : ''}
@@ -247,8 +233,6 @@
     const q = data.vragen.find(x => x.id === id);
     if (!q) return nietGevonden();
     const o = onderwerp(vak, q.onderwerp);
-    const tips = await tipsData();
-    const tip = tips && tips.vakken[vak] && tips.vakken[vak].onderwerpen[q.onderwerp];
     if (!lijst) lijst = `o-${q.onderwerp}`;
     // de lijst waar de leerling vandaan komt, voor vorige en volgende
     const reeks = lijst.startsWith('e-') ? data.vragen.filter(x => x.examen === lijst.slice(2)).sort((a, b) => a.vraag - b.vraag) : data.vragen.filter(x => x.onderwerp === lijst.slice(2));
@@ -290,8 +274,8 @@
           <div class="blad deze">${img(deze, `Vraag ${q.vraag}: ${q.tekst}`)}</div>
           ${q.uitwerkbijlage ? `<p class="opmerking">Bij deze vraag hoort een uitwerkbijlage. ${pdf.uitwerkbijlage ? `<a href="${pdf.uitwerkbijlage}" target="_blank" rel="noopener">Open de uitwerkbijlage (pdf)</a>.` : `Die staat achterin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.`}</p>` : ''}
           ${vak === 'wiskunde-a-havo' ? `<p class="opmerking">Het formuleblad staat voorin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.</p>` : ''}
-          ${aanpakBlok(tip, false, 'Hint: aanpak bij dit onderwerp')}
-          <div class="acties"><button class="knop vol" id="toon" aria-expanded="false">Bekijk het antwoordmodel</button></div>
+          <div class="acties"><button class="knop vol" id="toon" aria-expanded="false">Bekijk het antwoordmodel</button>${q.hint ? '<button class="knop stil" id="tipknop" aria-expanded="false" aria-controls="tip">Geef een tip</button>' : ''}</div>
+          ${q.hint ? `<p class="tip" id="tip" hidden><b>Tip</b>${esc(q.hint)}</p>` : ''}
           <section class="antwoordblok" id="antwoord" hidden>
             <h2>Antwoordmodel</h2>
             ${q.antwoord ? `<div class="blad">${img(q.antwoord, `Antwoordmodel vraag ${q.vraag}`)}</div>` : `<p class="opmerking">Het antwoordmodel staat in het <a href="${pdf.correctievoorschrift}" target="_blank" rel="noopener">correctievoorschrift (pdf)</a>.</p>`}
@@ -308,6 +292,12 @@
         </div>
       </div>`, `Vraag ${q.vraag}, ${vakNaam(vak)} ${q.jaar}-${tvKort(q.tijdvak)}`, vak);
 
+    const tipknop = document.getElementById('tipknop'), tip = document.getElementById('tip');
+    if (tipknop) tipknop.addEventListener('click', () => {
+      tip.hidden = !tip.hidden;
+      tipknop.setAttribute('aria-expanded', String(!tip.hidden));
+      tipknop.textContent = tip.hidden ? 'Geef een tip' : 'Verberg de tip';
+    });
     const knop = document.getElementById('toon'), ant = document.getElementById('antwoord');
     knop.addEventListener('click', () => {
       ant.hidden = !ant.hidden;
@@ -385,20 +375,6 @@
     });
   }
 
-  // ---------- examentips ----------
-  async function tipsPagina() {
-    const t = await tipsData();
-    if (!t) return nietGevonden();
-    zetKruimel([['Start', '#/'], ['Examentips', null]]);
-    toon(`<header class="lijstkop"><p class="bovenkop">Voorbereiding</p><h1>Examentips wiskunde</h1>
-        <p class="inleiding">Wat je in de laatste weken doet, hoe je je tijd verdeelt en hoe je je antwoorden opschrijft zodat je alle punten krijgt. De tips volgen de regels uit de correctievoorschriften.</p></header>
-      <div class="tips">${t.algemeen.map((x, i) => `<section class="tipblok"><h2><span class="hnr">${i + 1}</span>${esc(x.kop)}</h2>${lijstje(x.punten)}</section>`).join('')}</div>
-      <h2 class="sectiekop">Let op per vak</h2>
-      <div class="tipvakken">${Object.entries(t.vakken).filter(([k]) => OVERZICHT.vakken[k]).map(([k, x]) => `<section class="tipvak"><h3><a href="#/vak/${k}">${esc(vakNaam(k))}</a></h3>${lijstje(x.letop)}</section>`).join('')}</div>
-      <p class="klein">Bij elk onderwerp staat bovendien een korte aanpak met de fouten die het vaakst punten kosten.</p>
-      ${hulpBlok()}`, 'Examentips', 'tips');
-  }
-
   function nietGevonden() {
     zetKruimel([['Start', '#/']]);
     toon('<p class="leeg">Deze pagina bestaat niet (meer).</p><a class="knop" href="#/">Naar de start</a>', 'Niet gevonden');
@@ -411,7 +387,6 @@
     try {
       if (!OVERZICHT) OVERZICHT = await json('data/vakken.json');
       if (!d[0]) return begin();
-      if (d[0] === 'tips') return tipsPagina();
       if (d[0] === 'vak' && d[2] === 'voortgang') return voortgangPagina(d[1]);
       if (d[0] === 'vak' && d.length === 2) return vakPagina(d[1], /per=examen/.test(zoek || ''));
       if (d[0] === 'vak' && d[2] === 'onderwerp') return lijstPagina(d[1], 'onderwerp', d[3]);

@@ -1,0 +1,678 @@
+                                                                  Examen HAVO
+
+                                                                        2019
+                                                                               tijdvak 1
+                                                                        dinsdag 21 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 34 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-19-1-o
+       Kopergehalte van een munt
+
+             Vera heeft een munt die is gemaakt van een koperlegering. Zij onderzoekt
+             het kopergehalte van de munt. De munt brengt ze in een overmaat
+             geconcentreerd salpeterzuur. Alle metalen van de legering reageren met
+             het salpeterzuur en er ontstaat een heldere oplossing. Hieronder is de
+             vergelijking van de reactie van koper met geconcentreerd salpeterzuur
+             weergegeven. Dit is een redoxreactie.
+
+             Cu (s) + 2 NO3 (aq) + 4 H+ (aq)  Cu2+ (aq) + 2 NO2 (g) + 2 H2O (l)
+
+2p     1     Leg uit, aan de hand van de formules van beide soorten koperdeeltjes in
+             de reactievergelijking, of Cu de oxidator of de reductor is.
+
+             Voor het uitvoeren van dit onderzoek heeft Vera een risicoanalyse
+             uitgevoerd volgens het GHS-systeem. Er blijkt een aantal
+             veiligheidszinnen van toepassing op dit experiment, zoals H314 en H330.
+
+2p     2     Geef voor elke van deze veiligheidszinnen aan op welke stof deze van
+             toepassing is en geef een beschermende maatregel die genomen kan
+             worden tijdens de uitvoering van dit onderzoek.
+             Gebruik Binas-tabel 97E of ScienceData-tabel 38.3.
+             Noteer je antwoord als volgt:
+              H314 is van toepassing op de stof: ……… maatregel: ……………
+              H330 is van toepassing op de stof: ……… maatregel: ……………
+
+             Na afloop van de reactie brengt Vera het reactiemengsel over in een
+             maatkolf. Ze vult de oplossing aan met water zodat 1,000 L oplossing
+             ontstaat. Deze lichtblauw gekleurde oplossing wordt verder in deze
+             opgave ‘muntoplossing’ genoemd. De lichtblauwe kleur wordt veroorzaakt
+             door gehydrateerde koper( II)ionen die met de formule Cu(H2O)42+ kunnen
+             worden weergegeven. Uit deze formule blijkt dat elk koper(II)ion is
+             omringd door vier watermoleculen.
+             Op de uitwerkbijlage is schematisch een koper(II)ion weergegeven.
+
+2p     3     Teken op de uitwerkbijlage een deeltje Cu(H2O)42+.
+             Ga hierbij uit van het reeds getekende koper(II)ion en geef elk
+             watermolecuul weer met        O    .
+                                       H    H
+
+             Vervolgens voegt Vera 1,00 mL muntoplossing, 4,00 mL water en
+             5,00 mL ammonia bij elkaar in een reageerbuis en mengt deze stoffen
+             goed. Alle gehydrateerde koper( II)ionen worden omgezet tot
+             Cu(NH3)42+-ionen. Deze ionen zorgen ervoor dat er een donkerblauwe
+             oplossing ontstaat. De procedure die Vera heeft gevolgd, is in figuur 1
+             schematisch weergegeven.
+
+
+
+
+HA-1028-a-19-1-o                             2 / 15                            lees verder ►►►
+             figuur 1
+                                                                              1,00 mL     4,00 mL   5,00 mL
+                                                 reactiemengsel   water     muntoplossing water     ammonia
+
+
+
+
+                                                                                                        10,00 mL
+             geconcentreerd                                       1,000 L
+                                          Munt
+                salpeterzuur
+                                     reactiemengsel           muntoplossing              reageerbuis
+
+
+             Vera meet met behulp van een zogenoemde colorimeter de
+             kleurintensiteit van de verkregen donkerblauwe oplossing. De
+             kleurintensiteit heeft geen eenheid en is een maat voor de concentratie
+             Cu(NH3)42+-ionen. Ook meet Vera de kleurintensiteit van een aantal
+                                                                              2+
+             standaardoplossingen met een bekende concentratie Cu(NH3)4 -ionen.
+             Met behulp van deze laatste metingen maakt zij de ijklijn die in figuur 2 is
+             weergegeven.
+
+             figuur 2
+                           0,7
+               kleur-
+             intensiteit
+                           0,6
+
+                           0,5
+
+                           0,4
+
+                           0,3
+
+                           0,2
+
+                           0,1
+
+                            0
+                                 0 1,0•10−3                  5,0•10−3                       10,0•10−3
+                                                                                         [Cu(NH3)42+] mol L−1
+
+
+             De donkerblauwe oplossing in de reageerbuis van Vera heeft een
+             kleurintensiteit van 0,29. Met behulp van figuur 2 bepaalt Vera het
+             kopergehalte van de munt. De oorspronkelijke massa van de munt was
+             4,07 g.
+                                                                                            2+
+2p     4     Bereken met behulp van figuur 2 het aantal mol Cu(NH3)4 -ionen in de
+             10,00 mL oplossing in de reageerbuis. Lees de concentratie af in twee
+             decimalen.
+3p     5     Bereken het massapercentage koper in de munt.
+
+
+HA-1028-a-19-1-o                                            3 / 15                                      lees verder ►►►
+       Twee vliegen in één klap
+
+             Biogas kan een duurzaam, groen alternatief zijn voor fossiele
+             brandstoffen. Het hoofdbestanddeel van biogas is methaan. Biogas bevat
+             ook koolstofdioxide.
+
+2p     6     Geef de structuurformules van koolstofdioxide en methaan.
+
+             Omdat biogas vaak te veel koolstofdioxide bevat, moet biogas eerst
+             behandeld worden. In 2014 hebben Deense onderzoekers een duurzame
+             methode gepresenteerd om biogas te ontdoen van koolstofdioxide.
+             In hun experiment, dat op kleine schaal is
+             uitgevoerd, ‘voeren’ ze koolstofdioxide aan            O               O
+             bacteriën die er barnsteenzuur van maken. De      HO C CH2 CH2 C OH
+             structuurformule van barnsteenzuur is hiernaast          barnsteenzuur
+             weergegeven.
+
+             Via deze methode wordt biogas verkregen dat gebruikt kan worden voor
+             het aardgasnet. Daarbij wordt ook een product gemaakt dat als grondstof
+             gebruikt kan worden in de chemische industrie. Zo sla je twee vliegen in
+             één klap. De methode is in onderstaand tekstfragment kort beschreven.
+
+             tekstfragment
+
+             Onderzoekers van de Technische Universiteit van Denemarken hebben
+             een biotechnologische manier ontwikkeld om het gehalte methaan in
+             biogas te verhogen. Hierbij wordt een suspensie van bacteriën
+             blootgesteld aan een biogasmengsel van 60 volumeprocent methaan en
+       5     40 volumeprocent koolstofdioxide.
+             De bacteriën zijn volgens de onderzoekers in staat ‘twee
+             barnsteenzuurmoleculen te maken uit twee koolstofdioxidemoleculen en
+             één glucosemolecuul’.
+             Methaan wordt niet verbruikt en verstoort het proces niet.
+     10      Om de oplosbaarheid van CO2 te vergroten wordt de druk verhoogd.
+             Onder deze condities wordt per liter reactorvolume per dag 2,59 dm3 CO2
+             omgezet en 14,4 g barnsteenzuur geproduceerd.
+             Het gas dat de suspensie verlaat, bevat ruim 95 volumeprocent methaan.
+             Voor de meeste toepassingen is dat zuiver genoeg.
+
+                   naar: Chemisch2Weekblad
+
+
+
+
+HA-1028-a-19-1-o                             4 / 15                          lees verder ►►►
+             De beschrijving van de reactie die in de regels 6 tot en met 8 wordt
+             gegeven, is niet volledig.
+
+2p     7     Leg uit, aan de hand van de formules van de betrokken stoffen, of
+             barnsteenzuur het enige reactieproduct kan zijn.
+
+3p     8     Laat met behulp van een berekening zien dat voor elke mol
+             koolstofdioxide die wordt verbruikt, één mol barnsteenzuur ontstaat.
+             Gebruik hierbij:
+              gegevens uit de regels 11 en 12;
+              het gegeven dat het volume van 1,00 mol koolstofdioxide 21,3 dm3 is.
+
+             Barnsteenzuur kan worden gebruikt om PBS te maken. PBS is een
+             kunststof die wordt gebruikt in de verpakkingsindustrie. PBS wordt
+             gevormd uit barnsteenzuur en butyleenglycol. Hieronder is een fragment
+             van PBS weergegeven, bestaande uit twee monomeereenheden van
+             beide beginstoffen.
+
+                   O         O                     O         O
+                   C CH2 CH2 C O CH2 CH2 CH2 CH2 O C CH2 CH2 C O CH2 CH2 CH2 CH2 O
+
+                                                      PBS
+
+
+2p     9     Geef de structuurformule van butyleenglycol.
+
+             Het barnsteenzuur dat in het beschreven proces wordt gevormd, kan bij
+             de productie van PBS worden gebruikt in plaats van barnsteenzuur dat uit
+             aardolie afkomstig is. Dit PBS dat is gevormd uit “groen barnsteenzuur”,
+             kan dan “groen PBS” worden genoemd.
+
+2p    10     Geef het nummer van een van de uitgangspunten in de groene chemie
+             dat kan worden gebruikt als argument voor de benaming “groen
+             barnsteenzuur”.
+              Gebruik Binas-tabel 97F of ScienceData-tabel 38.6.
+              Licht je antwoord toe.
+
+
+
+
+HA-1028-a-19-1-o                             5 / 15                            lees verder ►►►
+       SCR-techniek
+
+             In de motor van een dieselauto wordt diesel verbrand.
+
+3p    11     Geef de vergelijking van de volledige verbranding van diesel. Gebruik de
+             formule C14H30 voor diesel.
+
+             De uitlaatgassen van een dieselauto bevatten behalve de
+             verbrandingsproducten van diesel ook stikstofoxiden ( NOx). De uitstoot
+             van NOx door dieselauto’s draagt in belangrijke mate bij aan de
+             concentratie van schadelijke NOx in de lucht. NOx heeft onder andere
+             ongewenste effecten op de luchtkwaliteit.
+
+2p    12     Geef een verklaring voor het ontstaan van NOx in de dieselmotor.
+
+2p    13     Noem twee ongewenste effecten van NOx op de luchtkwaliteit.
+
+             Selectieve katalytische reductie (Engels: SCR) is een                       O
+             technische voorziening in de uitlaat van een dieselauto die                 C
+             de uitstoot van NOx vermindert. SCR maakt gebruik van             H 2N          NH2
+             AdBlue®. AdBlue® is een oplossing van ureum (CH4N2O) in                   ureum
+             water. De structuurformule van ureum is hiernaast
+             weergegeven.
+
+2p    14     Leg uit, aan de hand van de structuurformule van ureum, dat ureum goed
+             oplosbaar is in water.
+
+             In onderstaande figuur is het SCR-systeem vereenvoudigd en
+             schematisch weergegeven.
+
+             figuur
+                           lucht
+                                                  AdBlue®- tank
+
+
+                                            AdBlue®
+
+
+                        dieselmotor                   zone 1      zone 2   zone 3
+             diesel
+                                      vervuilende                                    gereinigde
+                                      uitlaatgassen                                 uitlaatgassen
+
+
+
+
+HA-1028-a-19-1-o                                      6 / 15                         lees verder ►►►
+             Om NOx te verwijderen, vinden in de uitlaat de volgende processen
+             plaats:
+             zone 1: AdBlue® wordt in de uitlaat gespoten en mengt met de hete
+                     uitlaatgassen.
+             zone 2: Alle ureum in AdBlue® wordt onder invloed van een katalysator
+                     omgezet tot ammoniak en koolstofdioxide volgens:
+
+                       CH4N2O (s) + H2O (g)  2 NH3 (g) + CO2 (g)            (reactie 1)
+
+             zone 3:   Met behulp van de SCR-katalysator reageert NOx met
+                       ammoniak tot stikstof en waterdamp.
+                       De gereinigde uitlaatgassen verlaten uiteindelijk de uitlaat.
+
+             Reactie 1 is een endotherme reactie. De benodigde warmte hiervoor
+             wordt geleverd door de hete uitlaatgassen.
+
+3p    15     Bereken de reactiewarmte (bij 298 K en p = p0) voor reactie 1 in
+             J per mol ureum.
+              Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.
+              Gebruik voor de vormingswarmte van ureum –3,3∙105 J mol–1.
+
+             NOx is een mengsel van voornamelijk stikstofmono-oxide en
+             stikstofdioxide.
+
+3p    16     Geef de vergelijking van de reactie tussen stikstofdioxide (NO2) en
+             ammoniak (NH3) in zone 3. Hierbij ontstaan uitsluitend stikstof en
+             waterdamp.
+
+             Een grote dieselvrachtwagen heeft een AdBlue®-tank gevuld met
+             90 liter AdBlue ®. Deze hoeveelheid AdBlue® bevat 3,2∙104 gram ureum.
+
+3p    17     Bereken na hoeveel km deze vrachtwagen de 90 liter AdBlue ® geheel
+             heeft verbruikt.
+             Gebruik hierbij de volgende gegevens:
+              Voor de omzetting van 1,0 g NOx is 0,86 g ureum nodig.
+              92 massaprocent van de NOx die in de motor ontstaat, wordt in het
+                SCR-systeem door de reactie met ureum omgezet tot stikstof en
+                waterdamp.
+              8 massaprocent van de NOx die in de motor ontstaat, wordt via de
+                uitlaat in de lucht uitgestoten.
+              Per km stoot de vrachtwagen 0,50 g NOx via de uitlaat uit in de lucht.
+
+
+
+
+HA-1028-a-19-1-o                             7 / 15                             lees verder ►►►
+       Solar fuels
+
+             Wetenschappers onderzoeken manieren om zonne-energie op te slaan in
+             de vorm van brandstoffen, zogenoemde ‘solar fuels’.
+             De eerste stap daartoe is zonne-energie gebruiken om water om te zetten
+             tot waterstof en zuurstof. In de volgende stap moet men de gewonnen
+             waterstof laten reageren met koolstofdioxide tot een koolstofhoudende
+             brandstof. Dit proces komt in feite neer op het nabootsen van de
+             natuurlijke fotosynthese die plaatsvindt in planten.
+
+1p    18     Geef de naam van de koolstofhoudende brandstof die bij natuurlijke
+             fotosynthese wordt gevormd.
+
+             Veel onderzoek richt zich op het vinden van goede en goedkope
+             katalysatoren om water te ontleden tot waterstof en zuurstof.
+             Op de uitwerkbijlage is in diagram 1 het energiediagram van de ontleding
+             van water met katalysator onvolledig weergegeven. Het energieniveau
+             van de reactieproducten ontbreekt. Daarnaast is in diagram 2 het
+             energiediagram van de ontleding van water zonder katalysator onvolledig
+             weergegeven. In diagram 2 ontbreken het energieniveau van de
+             geactiveerde toestand en het energieniveau van de reactieproducten.
+             Beide diagrammen zijn op dezelfde schaal weergegeven.
+
+3p    19     Laat zien welke invloed de katalysator heeft op de ontleding van water,
+             door op de uitwerkbijlage in beide energiediagrammen de ontbrekende
+             energieniveaus met bijbehorende bijschriften te tekenen.
+
+
+
+
+HA-1028-a-19-1-o                             8 / 15                           lees verder ►►►
+             In onderstaand tekstfragment is een beschrijving gegeven van een
+             onderzoek naar een geschikte katalysator. Dit onderzoek richt zich op een
+             zogenoemd ‘kunstmatig plantenblad’.
+
+             tekstfragment
+
+             Het kunstmatige plantenblad (zie figuur 1 en 2) bestaat uit silicium met
+             aan de zonkant een kobaltkatalysator die is bevestigd op een laagje ITO
+             (een legering van onder andere indium en tin). Hier wordt H2O omgezet
+             tot O2, H+ en elektronen. De elektronen verplaatsen zich door het silicium.
+             Aan de andere kant zit een NiMoZn-katalysator, bevestigd aan een laagje
+             RVS (roestvast staal). Daar wordt H+ omgezet tot H2.
+
+             figuur 1
+
+                                                ITO                   RVS
+
+                           kobaltkatalysator               silicium           NiMoZn-katalysator
+
+                         zonlicht
+                                                       elektronen
+             2 H2O       O2 + 4 H+ + 4 e–                                   2 H+ + 2 e–   H2
+
+
+             Als het kunstmatige plantenblad in een bak water wordt gezet en zonlicht
+             op het blad valt, borrelen aan de zonkant zuurstofbelletjes en aan de
+             andere kant waterstofbelletjes omhoog. Dit is weergegeven in figuur 2.
+
+             figuur 2
+
+
+
+
+                                         H 2O
+                                    O2
+              zonlicht                                H2
+
+                    silicium bedekt
+                   met katalysatoren
+
+
+                   naar: Chemische feitelijkheden
+
+
+
+
+HA-1028-a-19-1-o                                            9 / 15                                 lees verder ►►►
+             De vaste stof ITO is een geleider en kan bijvoorbeeld worden gemaakt
+             door 90 gram In2O3 met 10 gram SnO2 te laten reageren. De stof ITO die
+             daarbij ontstaat, is op te vatten als een legering van indium en tin waarbij
+             in het rooster zuurstofmoleculen zijn ingebouwd.
+
+3p    20     Bereken de molverhouding In : Sn in ITO.
+             Noteer de uitkomst van je berekening als volgt: In : Sn = ... : 1,0.
+             Gebruik de volgende gegevens:
+              De molaire massa van In2O3 is 277,6 g mol–1.
+              De molaire massa van SnO2 is 150,7 g mol–1.
+              Alle indium- en tin-atomen komen in ITO terecht.
+
+2p    21     Geef de naam van het bindingstype dat aanwezig is in ITO en de naam
+             van het soort deeltjes dat voor de elektrische stroomgeleiding in ITO
+             zorgt. Noteer je antwoord als volgt:
+             bindingstype: …
+             soort deeltjes: …
+
+2p    22     Geef met behulp van de vergelijkingen van de halfreacties in figuur 1 de
+             vergelijking van de totale reactie die plaatsvindt in het kunstmatige
+             plantenblad.
+
+             Een van de solar fuels die uit waterstof en koolstofdioxide kan worden
+             gemaakt, is propaan-2-ol (C3H8O).
+
+2p    23     Geef de structuurformule van propaan-2-ol.
+
+             Door gebruik van micro-organismen is men in staat om propaan-2-ol te
+             produceren volgens de volgende reactie:
+
+             9 H2 + 3 CO2  C3H8O + 5 H2O                               (reactie 1)
+
+2p    24     Bereken de atoomeconomie voor de vorming van propaan-2-ol volgens
+             reactie 1. Gebruik Binas-tabel 37H of ScienceData-tabel 1.7.7.
+
+
+
+
+HA-1028-a-19-1-o                             10 / 15                                lees verder ►►►
+       Grondstoffen uit spaarlampen
+
+             Oude spaarlampen en oude tl-buizen bevatten stoffen die worden
+             aangeduid met de afkorting HALO. HALO geeft de gewenste kleur aan het
+             licht. De kleur wordt onder andere bepaald door een klein percentage
+             antimoonionen (Sb3+) in HALO. Het aantal elektronen (en de verdeling
+             ervan over de schillen) in de Sb3+-ionen zijn daarbij van belang.
+
+2p    25     Leid het totale aantal elektronen af dat voorkomt in een Sb3+-ion.
+
+             Aangezien antimoon hoog staat op de
+             lijst van elementen die schaars dreigen
+             te worden, is men op zoek naar
+             methoden om Sb3+-ionen uit HALO
+             terug te winnen.
+             Behalve Sb3+-ionen bevat HALO
+             fosfaationen en calciumionen die
+             kunnen worden gebruikt om hydroxy-
+             apatiet te maken. Hydroxy-apatiet is
+             een grondstof voor kunstmest.
+             Onderzoekers hebben daarom een
+             methode ontwikkeld waarbij uit HALO
+             twee producten worden verkregen:
+             antimoonoxide en hydroxy-apatiet.
+
+             In deze methode wordt een ionische vloeistof gebruikt. Een ionische
+             vloeistof is een zout dat vloeibaar is bij lage temperaturen, bijvoorbeeld bij
+             kamertemperatuur. De gebruikte ionische vloeistof ((C8H17)3CH3NCl)
+             bestaat uit (C8H17)3CH3N+-ionen en Cl–-ionen. De (C8H17)3CH3N+-ionen
+             zijn in figuur 1 met een vereenvoudigde structuurformule en op
+             schematische wijze weergegeven.
+
+             figuur 1
+
+                         CH3
+                     +
+                         N
+
+                                               = CH
+                                                                   +
+
+
+
+
+             vereenvoudigde structuurformule                      schematische weergave
+
+
+
+
+HA-1028-a-19-1-o                                 11 / 15                          lees verder ►►►
+             De vaste stof (C8H17)3CH3NCl heeft een veel lager smeltpunt dan het zout
+             NaCl. Het verschil in smeltpunt kan verklaard worden aan de hand van de
+             roosteropbouw van beide stoffen. Een mogelijke roosteropbouw van
+             (C8H17)3CH3NCl is vereenvoudigd en schematisch weergegeven in
+             figuur 2.
+
+             figuur 2
+
+                       −    +
+                                                +    −
+                       +    −
+                                                −    +
+                       −    +
+                                                +    −
+                       +    −
+                                                −    +
+                       −    +
+                                                +    −
+
+1p    26     Geef met behulp van een schets de roosteropbouw van NaCl weer.
+              Teken acht positieve en acht negatieve ionen.
+              Gebruik voor elk positief ion   en voor elk negatief ion
+                                                         +              .     −
+
+3p    27     Verklaar aan de hand van de bindingstypen tussen de samenstellende
+             deeltjes, dat (C8H17)3CH3NCl een lager smeltpunt heeft dan NaCl.
+             Noteer je antwoord als volgt:
+             bindingstype(s) in (C8H17)3CH3NCl: …
+             bindingstype(s) in NaCl: …
+             verklaring: …
+
+             De ontwikkelde methode verloopt in een aantal stappen.
+
+             stap 1:       Aan HALO wordt een overmaat zoutzuur gevoegd. Daarbij
+                           ontstaat een waterige oplossing. De Sb3+-ionen uit HALO
+                           worden omgezet tot SbCl4– -ionen.
+             stap 2:       Aan de oplossing uit stap 1 wordt de eerdergenoemde ionische
+                           vloeistof toegevoegd. De ionische vloeistof mengt niet met de
+                           oplossing die in stap 1 is ontstaan. Er ontstaat een
+                           twee-lagensysteem. Tussen de twee vloeistoffen worden de
+                           Cl–-ionen uit de ionische vloeistof met de SbCl4– -ionen van
+                           stap 1 uitgewisseld (zie figuur 3). Na enige tijd worden de twee
+                           vloeistoflagen A en B van elkaar gescheiden.
+
+                           figuur 3
+                           ionische vloeistof
+                              –                          laag A
+                            Cl
+
+
+                                                 –
+                                            SbCl4        laag B
+                           oplossing
+
+
+
+HA-1028-a-19-1-o                                     12 / 15                       lees verder ►►►
+             stap 3:   Aan laag A wordt een natriumhydroxide-oplossing toegevoegd.
+                       De twee vloeistoffen worden flink door elkaar geschud. De
+                       volgende reactie treedt op:
+
+                       2 SbCl4– + 6 OH–  Sb2O3 (s) + 3 H2O + 8 Cl–
+
+                       Sb2O3 wordt afgescheiden van de twee vloeistoffen.
+
+2p    28     Leg uit welke scheidingsmethode geschikt is om Sb2O3 te scheiden van de
+             twee vloeistoffen.
+
+             stap 4:   Nadat Sb2O3 is afgescheiden, worden ook de twee vloeistoffen
+                       (de ionische vloeistof en de ontstane natriumchloride-oplossing)
+                       van elkaar gescheiden.
+             stap 5:   Aan de laag B die in stap 2 is afgescheiden, wordt ook een
+                       natriumhydroxide-oplossing toegevoegd. Fosfaationen en
+                       calciumionen, afkomstig van HALO, reageren met
+                       hydroxide-ionen tot vast hydroxy-apatiet. Het hydroxy-apatiet en
+                       de overgebleven natriumchloride-oplossing (die ook enige
+                       verontreinigingen bevat) worden gescheiden.
+
+             Hydroxy-apatiet bestaat uit calciumionen, fosfaationen en
+             hydroxide-ionen. De fosfaationen en de hydroxide-ionen komen voor in de
+             molverhouding 3 : 1.
+
+2p    29     Leid de verhoudingsformule van hydroxy-apatiet af.
+             Noteer je antwoord als volgt:
+             totale lading van de negatieve ionen: …
+             verhoudingsformule hydroxy-apatiet: …
+
+             Op de uitwerkbijlage is het beschreven proces om Sb2O3 en
+             hydroxy-apatiet te produceren uit HALO, in een vereenvoudigd en nog
+             onvolledig blokschema weergegeven. In dit blokschema ontbreken enkele
+             stofstromen en de namen van de bijbehorende stoffen.
+
+4p    30     Maak het blokschema op de uitwerkbijlage compleet.
+              Noteer de ontbrekende pijlen en de nummers van de volgende
+               ontbrekende stoffen bij deze pijlen:
+               1 ionische vloeistof
+               2 natriumchloride-oplossing
+               3 natriumhydroxide-oplossing
+               4 zoutzuur
+              Sommige nummers moeten meer dan één keer worden gebruikt.
+              Houd rekening met hergebruik van stoffen.
+              Bij de reeds getekende pijlen hoeft geen nummer te worden
+               genoteerd.
+
+
+
+
+HA-1028-a-19-1-o                            13 / 15                           lees verder ►►►
+       Fluimucil ®
+
+             Bij een vastzittende hoest schrijft de huisarts soms Fluimucil® voor om het
+             vastzittende slijm in de longen gemakkelijker te kunnen ophoesten.
+             Het werkzame bestanddeel in Fluimucil ® is NAC (N-acetylcysteïne).
+             Behalve NAC bevat Fluimucil® onder andere de zoetstof aspartaam.
+             De structuurformules van NAC en aspartaam zijn in figuur 1
+             weergegeven.
+
+             figuur 1
+
+                                                                            CH
+                                                                     HC          CH
+                                                O       OH           HC          CH
+                      O  OH                         C                       C
+                   O H C                            CH2 O           H       CH2 O
+                                                1       2       3       4        5       6       7
+             CH3 C N C CH2 SH             H2N       C       C       N       C        C       O       CH3
+                     H                              H                       H
+
+                        NAC                                         aspartaam
+
+             Een molecuul aspartaam is opgebouwd uit twee aminozuureenheden die
+             door een peptidebinding aan elkaar gekoppeld zijn. Een van deze
+             aminozuureenheden is ook veresterd. In de structuurformule van
+             aspartaam is een aantal atoombindingen voorzien van een nummer.
+
+2p    31     Geef het nummer van de binding die is gevormd bij de koppeling van de
+             aminozuureenheden en het nummer van de binding die is gevormd bij de
+             verestering van een van de aminozuureenheden.
+             Noteer je antwoord als volgt:
+              koppeling van de aminozuureenheden: nummer …
+              verestering: nummer …
+2p    32     Geef de 3-letter-symbolen van de twee aminozuren die in aspartaam aan
+             elkaar gekoppeld zijn.
+             Gebruik Binas-tabel 67H1 of ScienceData-tabel 13.7c.
+
+
+
+
+HA-1028-a-19-1-o                            14 / 15                                                   lees verder ►►►
+             Slijm bestaat onder andere uit eiwitten, water en zouten.
+             In dik, vastzittend slijm komen relatief veel eiwitten voor. Tussen de
+             eiwitketens komen crosslinks voor in de vorm van S–S bindingen,
+             zogenoemde zwavelbruggen. In figuur 2 is zo’n zwavelbrug schematisch
+             weergegeven.
+
+             figuur 2
+
+                           eiwitketen
+               S
+               S
+                           eiwitketen
+
+             De werking van NAC berust op het verbreken van zwavelbruggen in het
+             slijm. Het verbreken van de zwavelbruggen is een redoxreactie. Op de
+             uitwerkbijlage is de vergelijking van de halfreactie van het verbreken van
+             zwavelbruggen in slijm schematisch weergegeven. De structuurformule
+             van NAC is hierbij weergegeven als R-CH2-SH. De vergelijking van deze
+             halfreactie is onvolledig: de elektronen (e–) en de coëfficiënten ontbreken.
+
+3p    33     Maak de onvolledige vergelijking op de uitwerkbijlage compleet door e–
+             aan de juiste kant van de pijl te zetten en de vergelijking kloppend te
+             maken.
+
+             Door Fluimucil® te gebruiken verandert de microstructuur van slijm,
+             waardoor het slijm beweeglijker wordt. Vastzittend slijm is hierdoor
+             gemakkelijker op te hoesten.
+
+2p    34     Leg uit op microniveau, dat slijm “beweeglijker” wordt door het gebruik
+             van Fluimucil®.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1028-a-19-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

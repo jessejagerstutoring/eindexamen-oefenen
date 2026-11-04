@@ -1,0 +1,676 @@
+                                                                    Examen VWO
+
+                                                                        2019
+                                                                               tijdvak 2
+                                                                        dinsdag 18 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                      natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-19-2-o
+      Pariser Kanone
+
+            Tegen het einde van de Eerste Wereldoorlog introduceerde het Duitse
+            leger een nieuw ontwerp kanon, het ‘Pariser Kanone’ (het Parijse Kanon).
+            Zie figuur 1. Dit kanon kon Parijs beschieten van achter de frontlinie, een
+            afstand van 120 km. Een granaat bereikte hierbij een hoogte van wel
+            40 km waarbij hij door zeer ijle lucht vloog. Tussen maart en augustus
+            1918 schoot het Duitse leger ongeveer 350 granaten af richting Parijs.
+
+            Gegevens van het Pariser Kanone                    figuur 1
+              diameter granaat           20 cm
+              massa granaat              106 kg
+              buskruit per schot         180 kg
+              uittree-snelheid           1640 m s1
+              afstand                    >120 km
+              hoogte                     >40 km
+
+            De loop was extra lang gemaakt, zodat de granaten een voldoende hoge
+            snelheid kregen om de afstand te overbruggen.
+            In figuur 2a en 2b zijn het (v,t)-diagram en het (Fres,t)-diagram van een
+            granaat weergegeven tijdens het afschieten. Op t = 0,04 s verlaat de
+            granaat de loop. Deze figuren staan vergroot op de uitwerkbijlage.
+
+ figuur 2a                                                figuur 2b
+               2,0                                                  8
+      v                                                     Fres
+ (103 m s-1)                                              (106 N)
+               1,6                                                  6
+
+               1,2                                                  4
+
+               0,8                                                  2
+
+               0,4                                                  0
+                                                                        0   0,01 0,02 0,03 0,04
+                                                                                           t (s)
+                   0
+                       0   0,01 0,02 0,03 0,04
+                                          t (s)
+
+3p    1     Bepaal met behulp van figuur 2a op de uitwerkbijlage de lengte van de
+            loop van het kanon.
+
+            De granaat bereikt zijn maximale versnelling op t = 0,01 s.
+5p    2     Bepaal met behulp van de figuren 2a en 2b op de uitwerkbijlage de massa
+            van een granaat, en laat zien of deze massa ligt binnen een marge van
+            10% van de waarde uit de tabel.
+
+
+VW-1023-a-19-2-o                                      2 / 15                                   lees verder ►►►
+               Er komt 3,0 MJ aan energie vrij per kilogram buskruit.
+4p    3        Bereken het rendement van het afschieten (tot t = 0,04 s) van het kanon.
+               Verwaarloos hierbij de toename van de zwaarte-energie.
+
+               Fabian wil met behulp van een model de baan simuleren van een granaat
+               nadat die door het kanon afgeschoten is. Hij beschouwt de baan als een
+               combinatie van een beweging in de x-richting en een beweging in de
+               y-richting. Zie figuur 3 voor het model.
+
+figuur 3
+ model                                    startwaarden in SI-eenheden
+ ‘luchtwrijving:’                         t 0
+ v  vx 2  v y 2                         dt  0,1
+                                          g  9,81
+ Fw  12    A  cw  v 2               m  106
+ ‘beweging in de x-richting:’             Fz  m  g
+             v                            1, 28
+ Fwx  Fw  x 
+              v                         v  1640
+ Fx   Fwx                               hoek  33 ‘in graden’
+                                          x0
+       F                                  y  19
+ ax  x
+        m                                 vx  v  cos(hoek )
+ vx  vx  ax  dt
+                                          v y  v  sin(hoek )
+  x  x  vx  dt
+                                          cw  0,18
+ ‘beweging in de y-richting:’
+                                          A  .....
+              vy 
+ Fwy  Fw  
+              v                                                    m
+ Fy  ......  Fwy
+          Fy                                                    cw
+                                                                     A
+                                                                          ρ
+ ay 
+        m
+ v y  v y  a y  dt                                                Fw
+                                                                              g
+
+  y  y  v y  dt                                                                Fwy
+                                                          Fwx
+ t  t  dt
+                                                  Fx                                    Fy
+ ‘stopconditie:…………’                        ax                                               ay
+                                                          vx                      vy
+                                                                     v
+                                                   x                                    y
+
+
+               De stopconditie bepaalt wanneer het model moet stoppen.
+4p    4        Voer de volgende opdrachten uit:
+                Beschrijf wat de stopconditie in dit model moet zijn.
+                Geef aan wat op de stippellijn moet komen in de regel: Fy  ......  Fwy
+                  Bereken de juiste waarde van A.
+
+
+VW-1023-a-19-2-o                                 3 / 15                                 lees verder ►►►
+            Met behulp van het model maakt Fabian een (y,t)-diagram en een
+            (y,x)-diagram van de baan van een granaat. Zie figuur 4a en 4b.
+
+            figuur 4a                                 figuur 4b
+                   14                                        14
+              y                                         y
+            (km)                                      (km)
+                   12                                        12
+
+                   10                                        10
+
+                   8                                         8
+
+                   6                                         6
+
+                   4                                         4
+
+                   2                                         2
+
+                   0                                         0
+
+2p    5     Leg uit welk diagram (figuur 4a of figuur 4b) het (y,t)-diagram van de
+            granaat weergeeft.
+
+            Fabian merkt op dat zijn model niet kan verklaren hoe een granaat met
+            een beginsnelheid van 1640 m s1 een afstand van 120 km kan afleggen.
+            Emily merkt op dat de luchtdichtheid van de atmosfeer afneemt als de
+            hoogte boven zeeniveau toeneemt.
+            Fabian breidt zijn model uit met een variabele luchtdichtheid en met dit
+            model simuleert hij de beweging van de granaat. Dit levert het
+            (v,t)-diagram van figuur 5. Na 190 s slaat de granaat in.
+
+
+
+
+VW-1023-a-19-2-o                            4 / 15                             lees verder ►►►
+            figuur 5
+                          18
+                 v
+            (102 m s-1)
+                          16
+
+                          14
+
+                          12
+
+                          10
+
+                           8
+
+                           6
+
+                           4
+
+                           2
+
+                           0
+                               0   20   40   60   80   100   120   140   160   180   200
+                                                                                     t (s)
+
+3p    6     Voer de volgende opdrachten uit:
+             Geef aan waarom de minimale snelheid van de granaat niet gelijk is
+               aan 0.
+             Leg uit waarom de snelheid van de granaat aan het eind van de
+               beweging afneemt.
+
+            Fabian wil nagaan of hij met dit model de vlucht van de granaat van het
+            kanon realistisch heeft gesimuleerd en of de granaat inderdaad 120 km
+            verderop inslaat. In figuur 5 bepaalt hij daarvoor de oppervlakte onder de
+            grafieklijn, tussen t = 0 en t = 190 s.
+            Emily merkt op dat Fabian nu een fout maakt.
+3p    7     Voer de volgende opdrachten uit:
+             Leg uit waarom Fabian de afstand tussen het kanon en de inslag van
+               de granaat niet op correcte wijze heeft bepaald.
+             Geef aan of de afstand die Fabian heeft gevonden te groot of te klein
+               is.
+
+
+
+
+VW-1023-a-19-2-o                                   5 / 15                                    lees verder ►►►
+      Elektrische gitaar
+
+            Het geluid van een elektrische gitaar wordt versterkt weergegeven via een
+            luidspreker. Op de gitaar zijn zogenaamde elementen gemonteerd, die de
+            mechanische trillingen van de snaren omzetten in elektrische trillingen.
+            Ook zijn er twee draaiknoppen op de elektrische gitaar gemonteerd.
+            Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            De drie elementen zijn met een pijl aangeduid. Een element bestaat uit
+            zes permanente magneten die elk in een spoel geplaatst zijn. Boven elke
+            magneet bevindt zich een snaar. Zie figuur 2.
+
+            figuur 2
+
+            snaar
+                            magneet
+
+
+                                      spoel
+
+
+
+
+            De snaren op een elektrische gitaar zijn gemaakt van roestvrij staal. In de
+            situatie van figuur 2 zal de snaar gemagnetiseerd worden. Op de
+            uitwerkbijlage zijn de snaar en de magneet uit figuur 2 schematisch en
+            sterk vergroot weergegeven.
+
+2p    8     Geef in de figuur op de uitwerkbijlage in elk cirkeltje aan of er op die
+            plaats sprake is van een noordpool of een zuidpool.
+
+
+
+
+VW-1023-a-19-2-o                              6 / 15                             lees verder ►►►
+            Als de gemagnetiseerde snaar in trilling wordt gebracht, ontstaat er een
+            spanning over de spoel. Dit is de uitgangsspanning van het element.
+            Een van de draaiknoppen op de gitaar is de volumeknop. Onder die
+            draaiknop zit een onderdeel, weergegeven in figuur 3a. Dit onderdeel is
+            opgenomen in een schakeling zoals weergegeven in figuur 3b.
+
+figuur 3a                     figuur 3b
+
+
+                                          weerstand
+
+
+
+                                L              draaiknop                     uitgangspanning
+                                                                             element
+                                R
+                                                                naar
+                                                                versterker
+
+
+
+
+            Door aan de knop te draaien kan de gitarist de grootte van de spanning
+            regelen die naar de versterker gaat.
+3p    9     Leg uit in welke richting, linksom (L) of rechtsom (R), de knop gedraaid
+            moet worden, zodat een kleinere spanning naar de versterker gaat.
+
+            Het verband tussen de golfsnelheid en de spankracht in een snaar wordt
+            gegeven door:
+
+                        F             m
+                   v       met  
+                                     
+
+            Hierin is:
+             v de golfsnelheid (in m s1);
+             F de spankracht (in N);
+              de massa per lengte-eenheid (in kg m1);
+             m de massa (in kg);
+              de lengte van de snaar (in m).
+
+            De lengte van de laagst klinkende gitaarsnaar (de E-snaar) is 64,5 cm.
+            De snaar is cilindervormig en massief en heeft een diameter van 1,42 mm.
+            De spankracht in de snaar is 1,5·102 N.
+
+            De frequentie van de grondtoon van de E-snaar van deze gitaar is 85 Hz.
+
+5p   10     Toon dit aan.
+
+
+
+
+VW-1023-a-19-2-o                              7 / 15                           lees verder ►►►
+            Een snaar kan in twee richtingen gaan           figuur 4
+            trillen als deze wordt aangeslagen: een
+            richting evenwijdig aan het element                             z
+            (de y-richting) en een richting loodrecht                               x
+            op het element (de z-richting). Zie figuur 4.                          y
+            Luc bouwt een opstelling waarmee hij een
+            snaar kan laten trillen in alleen de                     element
+            z-richting of alleen de y-richting.                snaar
+            Allereerst laat hij de E-snaar alleen in de
+            z-richting trillen en meet hij de spanning die het element levert. Het
+            resultaat van de meting in de z-richting is weergegeven in figuur 5.
+
+            figuur 5
+                    200
+             U
+            (mV)
+                    100
+
+                      0
+
+                   −100
+
+                   −200
+                          0   0,01      0,02            0,03   0,04     0,05
+                                                                        t (s)
+
+            De frequentie van de spanning als de E-snaar trilt in de z-richting, komt
+            overeen met de frequentie van de grondtoon van de E-snaar.
+
+2p   11     Toon dit aan.
+
+            Luc legt met een bewegingssensor ook de beweging van de E-snaar in de
+            z-richting vast. Dit levert het meetresultaat zoals weergegeven in figuur 6.
+
+            figuur 6
+                    1,0
+              u
+            (mm)
+                    0,5
+
+                      0
+
+                   −0,5
+
+                   −1,0
+                          0   0,01      0,02            0,03   0,04     0,05
+                                                                        t (s)
+
+2p   12     Leg uit waarom een maximale waarde van de spanning optreedt op het
+            moment dat de snaar door de evenwichtsstand beweegt.
+
+
+
+VW-1023-a-19-2-o                               8 / 15                            lees verder ►►►
+            Hierna laat Luc de E-snaar alleen in de y-richting trillen en meet hij de
+            spanning die het element levert. Het resultaat van deze meting in
+            de y-richting is weergegeven in figuur 7.
+
+            figuur 7
+                    100
+             U
+            (mV)
+                     50
+
+                      0
+
+                   −50
+
+                   −100
+                          0   0,01      0,02            0,03   0,04     0,05
+                                                                        t (s)
+            De frequentie van de spanning bij trillen in de y-richting is 2 maal zo groot
+            als de frequentie van de spanning bij trillen in de z-richting.
+3p   13     Leg uit hoe dat komt.
+
+            In figuur 8 is een elektrische gitaar weergegeven. De snaren trillen tussen
+            de brug en de topkam. Element 1 bevindt zich verder van de brug dan
+            element 2. Met behulp van een schakelaar kiest de gitarist welk element
+            hij gebruikt. Figuur 8 staat vergroot op de uitwerkbijlage.
+
+            figuur 8
+
+
+
+
+            De klank die de elektrische gitaar geeft, is anders bij gebruik van
+            element 1 dan bij gebruik van element 2. Dit wordt veroorzaakt door een
+            verschil in de sterkte van de boventonen. Dat komt doordat een element
+            sommige boventonen niet (of nauwelijks) detecteert. Bij element 1 zijn dat
+            andere boventonen dan bij element 2.
+3p   14     Geef aan met behulp van de figuur op de uitwerkbijlage wat de laagste
+            boventoon is die element 1 niet (of nauwelijks) detecteert. Licht je
+            antwoord toe met een bepaling.
+            a tweede boventoon
+            b derde boventoon
+            c vierde boventoon
+            d vijfde boventoon
+            e zesde boventoon
+
+
+VW-1023-a-19-2-o                               9 / 15                           lees verder ►►►
+      Elektronendiffractie
+
+            G.P. Thomson toonde experimenteel elektronendiffractie aan. Hij liet zien
+            dat er een interferentiepatroon ontstaat als elektronen op een stukje vaste
+            stof geschoten worden. Hiermee toonde hij aan dat elektronen een
+            golfkarakter hebben. In 1937 ontving hij hiervoor de Nobelprijs.
+
+            Bob en Marly gaan het experiment van Thomson uitvoeren met een
+            elektronendiffractiebuis. Zij willen daarmee de afstanden tussen de
+            atomen in grafiet bepalen. Zij gebruiken de opstelling die weergegeven is
+            in figuur 1.
+
+            figuur 1
+                                                  stukje
+                        gloeikathode     anode    grafiet
+
+
+                                                                           fosforscherm
+
+
+
+
+                           0V          0-10 kV elektronen             interferentieringen
+
+
+
+            De gloeikathode levert elektronen. Deze elektronen hebben een
+            verwaarloosbare snelheid. De elektronen doorlopen een versnelspanning
+            die variabel is tot 10 kV. De elektronen gaan door het stukje grafiet,
+            waarna ze op een fosforscherm een interferentiepatroon geven. Dit
+            interferentiepatroon kan worden verklaard doordat de elektronen een
+            golfkarakter vertonen.
+
+            Voor de debroglie-golflengte van de elektronen geldt:
+
+                           h
+                                                              (1)
+                          2emU
+
+            Hierin is:
+             h de constante van Planck;
+             e de lading van het elektron;
+             m de massa van het elektron;
+             U de versnelspanning.
+
+3p   15     Leid formule (1) af.
+
+2p   16     Bereken de debroglie-golflengte van de elektronen nadat ze een
+            versnelspanning van 5,0 kV hebben doorlopen.
+
+
+
+VW-1023-a-19-2-o                                      10 / 15                    lees verder ►►►
+            In grafiet liggen de koolstofatomen in lagen op elkaar. In de afzonderlijke
+            lagen liggen de koolstofatomen in regelmatige zeshoeken.
+            Het effect van elektronendiffractie vindt plaats binnen één laag en niet
+            tussen de lagen. In figuur 2 is één zo’n laag weergegeven.
+            In een laag liggen de atomen in evenwijdige lijnen. Aan deze lijnen vindt
+            reflectie plaats, de zogenaamde Braggreflectie. De elektronengolven die
+            terugkaatsen van de verschillende evenwijdige lijnen hebben een verschil
+            in weglengte waardoor ze interfereren. Dit is schematisch weergegeven in
+            figuur 3.
+
+            figuur 2                                   figuur 3
+
+
+
+
+                                                                          D
+                                                                      α
+                                                                                  C
+                                                                          A   B
+                                                                  d
+
+
+
+
+            Er treedt constructieve interferentie op als:
+
+                   2d sin   n met n  1, 2,3,...        (2)
+
+            Hierin is:
+             d de afstand tussen de roosterlijnen;
+             α de hoek waaronder de elektronenbundel de roosterlijn treft;
+             λ de debroglie-golflengte van de elektronen.
+
+            Figuur 3 staat ook op de uitwerkbijlage.
+
+4p   17     Voer de volgende opdrachten uit:
+             Geef op de uitwerkbijlage het verschil in weglengte tussen de twee
+               stralen aan.
+             Leid hiermee formule (2) af.
+
+
+
+
+VW-1023-a-19-2-o                                 11 / 15                              lees verder ►►►
+            In figuur 4 zijn verschillende lijnen te zien waaraan reflectie plaats kan
+            vinden. De afstanden tussen verschillende lijnen zijn aangegeven met
+            d1 en d2.
+
+            Bij een interferentiepatroon aan een monokristallijne laag grafiet (dat wil
+            zeggen een laag die uit één kristal grafiet bestaat) ontstaat het patroon
+            van figuur 5 op het scherm van de elektronendiffractiebuis uit figuur 1.
+
+            figuur 4                                 figuur 5           figuur 6
+                       d2
+
+
+
+
+                                          d1
+
+
+
+
+            Als er in de diffractiebuis geen monokristallijne laag grafiet zit maar een
+            polykristallijne laag (dat wil zeggen dat er vele kristallen kriskras door
+            elkaar zitten), ziet het interferentiepatroon eruit als in figuur 6.
+
+2p   18     Leg uit of de buitenste ring komt van interferentie aan lijnen met afstand
+            d1 of met afstand d2.
+
+            Bob en Marly meten bij verschillende versnelspanningen de straal van de
+            ringen op het scherm.
+            Bij lage versnelspanningen verschijnen geen ringen op het scherm.
+            Dan is alleen de stip in het midden op het scherm te zien.
+
+2p   19     Leg uit waarom bij lage versnelspanningen geen ringen verschijnen op het
+            scherm.
+
+
+
+
+VW-1023-a-19-2-o                               12 / 15                             lees verder ►►►
+            Van de metingen maken Bob en Marly een grafiek waarin ze de straal van
+            beide ringen uitzetten tegen de debroglie-golflengte van de elektronen.
+            Zie figuur 7.
+
+            figuur 7
+                        21
+                r
+            (10-3 m)
+                        19
+
+                        17
+
+                        15
+
+                        13
+
+                        11
+
+                        9
+
+                        7
+
+                        0
+                             0   1,2   1,3   1,4   1,5     1,6     1,7   1,8     1,9 2,0
+                                                                               λ (10-11 m)
+
+            Voor kleine afbuigingshoeken geldt bij benadering:
+
+                        2R
+                   r      n                                      (3)
+                         d
+
+            Hierin is:
+             r de straal van de ring op het scherm;
+             d de afstand tussen roostervlakken;
+             λ de debroglie-golflengte;
+             R de straal van de bol van de diffractiebuis (65 mm);
+             n = 1.
+
+            Figuur 7 staat ook op de uitwerkbijlage.
+4p   20     Bepaal met behulp van de figuur op de uitwerkbijlage zo nauwkeurig
+            mogelijk de grootte van d voor de buitenste ring.
+
+
+
+
+VW-1023-a-19-2-o                                         13 / 15                             lees verder ►►►
+      Gamma-chirurgie
+
+            Gamma-chirurgie (‘gamma knife radiosurgery’) figuur 1
+            wordt toegepast voor de behandeling van
+            tumoren die kleiner zijn dan ongeveer 3 cm
+            en in een gebied van de hersenen liggen dat
+            moeilijk bereikbaar is tijdens een operatie.
+            Er wordt gebruikgemaakt van -straling die
+            sterk geconcentreerd kan worden op het
+            aangetaste gebied.
+
+            Tijdens de behandeling draagt de patiënt een
+            speciaal soort helm waarin cobalt-60-bronnen
+            geplaatst zijn. Zie figuur 1.
+            Cobalt-60 is een radioactieve stof die vervalt
+            onder uitzending van -straling en -straling.
+            Het radioactieve verval van cobalt-60 kan op
+            twee manieren verlopen. Deze manieren zijn
+            weergegeven in figuur 2, met 1 en 2.
+
+            figuur 2
+            Co-60                  1    -
+                                       β (0,31 MeV)
+
+                       β- (1,48 MeV)          γ1
+                                       2
+
+
+                                              γ2 (1,33 MeV)
+
+
+
+            Verreweg de meeste deeltjes vervallen volgens manier 1.
+
+3p   21     Geef de vervalvergelijking van dit verval.
+
+3p   22     Bereken de golflengte van γ 2 .
+
+
+
+
+VW-1023-a-19-2-o                               14 / 15                lees verder ►►►
+            In figuur 3 is de situatie van figuur 1 schematisch weergegeven.
+
+            figuur 3
+
+
+
+
+            De γ-straling vanuit de cobalt-bronnen wordt sterk geconcentreerd op het
+            deel van de hersenen waar zich een tumor bevindt. De gebruikte
+            cobalt-bronnen hebben elk een activiteit van 1,1 TBq.
+
+4p   23     Bereken de massa van het cobalt-60 in een bron.
+
+            Bij een bepaalde patiënt staat de opstelling zo afgesteld dat een
+            bolvormige tumor met een diameter van 3,0 cm bestraald wordt.
+            Per seconde worden door de tumor 3,5 · 109 γ-fotonparen geabsorbeerd.
+            Om de tumor volledig te kunnen vernietigen is een stralingsdosis nodig
+            van 150 Gy. Hiertoe moet de patiënt gedurende een bepaalde tijd
+            bestraald worden.
+5p   24     Bereken deze tijd. Gebruik voor de tumor de eigenschappen van water.
+            Ga uit van het verval volgens manier 1 (van figuur 2).
+
+            De cobalt-bronnen worden jaren achter elkaar gebruikt. Om in de loop van
+            die jaren een gelijke stralingsdosis te kunnen realiseren is het
+            noodzakelijk de bestralingstijd bij te stellen.
+2p   25     Leg uit of deze bestralingstijd in de loop van de jaren langer of korter
+            wordt.
+
+
+
+
+VW-1023-a-19-2-o                           15 / 15                             lees verdereinde
+                                                                                            ►►► 
+

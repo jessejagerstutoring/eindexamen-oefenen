@@ -1,0 +1,603 @@
+                                                                    Examen VWO
+
+                                                                        2026
+                                                                               tijdvak 2
+                                                                        dinsdag 16 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 26 vragen.
+Voor dit examen zijn maximaal 73 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld
+
+
+VW-1023-a-26-2-o
+      Lost and found
+
+            Bij een Australisch mijnbouwbedrijf gebruikt men in een sensor voor
+            bodemonderzoek een capsule met radioactief cesium-137.
+
+            Cesium-137 kan op verschillende manieren vervallen naar een stabiele
+            dochterkern. In figuur 1 zijn de twee meest voorkomende vervalprocessen
+            weergegeven.
+
+            figuur 1
+
+
+
+
+2p    1     Leg uit welk element in figuur 1 bedoeld wordt met X.
+
+            De capsule moet vervangen worden zodra de activiteit van het cesium
+            met 30% is afgenomen.
+3p    2     Bepaal na hoeveel jaar de cesiumcapsule vervangen moet worden.
+
+            Om de capsule te vervangen wordt de sensor naar een onderhoudslocatie
+            gebracht. In januari 2023 ontdekten werknemers van het mijnbouwbedrijf
+            dat ergens langs een 1400 km lange route een capsule was zoekgeraakt.
+            De Australische overheid was bang dat iemand de capsule langs de weg
+            zou vinden, en deze zonder na te denken in zijn of haar broekzak zou
+            steken.
+
+
+
+
+VW-1023-a-26-2-o                           2 / 20                           lees verder ►►►
+            De wand van de capsule absorbeert alle bètastraling, maar laat de
+            gammastraling ten gevolge van vervalproces (1b) uit figuur 1 grotendeels
+            door. Deze gammastraling kan leiden tot schade aan menselijk weefsel.
+
+            Een gemiddelde persoon heeft een massa van 74 kg. Op 1,0 m afstand
+            van de capsule absorbeert deze persoon per uur 3·1012 fotonen van
+            662 keV. Tabel 1 geeft dosisequivalenten van verschillende röntgenfoto’s.
+
+            tabel 1
+                               equivalente dosis per foto
+              gebit            5 µSv
+              hart en longen   70 µSv
+              onderrug         0,6 mSv
+
+            In de Australische media werd beweerd dat het dosisequivalent dat een
+            persoon op 1 meter van de capsule in 1 uur zou ontvangen, overeenkomt
+            met het dosisequivalent van zeven röntgenfoto’s.
+4p    3     Leg met een berekening uit met welk type röntgenfoto in tabel 1 het
+            dosisequivalent in deze bewering is vergeleken.
+
+            Er werd een zoekactie gestart waarbij een auto met een stralingsdetector
+            langs de route reed. Zie figuur 2. Deze figuur is niet op schaal getekend.
+
+            figuur 2
+
+
+
+
+            De activiteit van het cesium in de capsule is 19 GBq. Vervalproces (1b)
+            komt voor bij 85% van alle cesium-137-kernen die vervallen. De wand van
+            de capsule laat 96% van de gammastraling door. De oppervlakte van de
+            detector is 6,3 cm². Voor een bruikbaar signaal moeten er per seconde
+            minimaal 2,0103 gammafotonen op dit oppervlak vallen.
+4p    4     Bereken de maximale afstand waarop de capsule nog gedetecteerd kan
+            worden.
+
+
+
+
+VW-1023-a-26-2-o                            3 / 20                            lees verder ►►►
+            De capsule is gevonden in de berm op twee meter van de weg. Uit een
+            rekenmodel blijkt dat passerende automobilisten weinig gevaar hebben
+            ondervonden van de straling uit de capsule. Het model berekent het
+            dosisequivalent dat een persoon per seconde ontvangt op verschillende
+            posities x langs de weg. Op de uitwerkbijlage staat een grafiek met het
+            resultaat van die berekening. Op x = 0 bevindt de auto zich het dichtst bij
+            de capsule.
+
+            Neem aan dat een automobilist de capsule passeert met een constante
+            snelheid van 90 km h1.
+4p    5     Bepaal met behulp van de figuur op de uitwerkbijlage het extra
+            dosisequivalent dat de automobilist op het weergegeven traject
+            ondervindt. Noteer je antwoord in één significant cijfer.
+
+
+
+
+VW-1023-a-26-2-o                             4 / 20                            lees verder ►►►
+      Sporen op Phobos
+
+            In 1977 maakte de ruimtesonde Viking 1 een foto van Phobos. Zie
+            figuur 1. Phobos is een maan van de planeet Mars.
+
+            In tabel 1 staan de gegevens over Phobos die bij deze opgave gebruikt
+            moeten worden.
+
+            figuur 1                              tabel 1
+
+                                                    gemiddelde straal (R)    1,11104 m
+                                                    omtrek                   6,9104 m
+                                                    valversnelling (g)       5,7103 m s2
+                                                    massa (M)                1,071016 kg
+
+
+
+
+            In figuur 1 zijn een grote inslagkrater en lange sporen over het oppervlak
+            te zien. Over het ontstaan van de sporen zijn verschillende hypotheses
+            opgesteld. Een daarvan luidt dat er rotsblokken werden weggeslingerd
+            tijdens de inslag waardoor de krater ontstond. Deze rotsblokken kwamen
+            met een snelheid in het gebied buiten de krater neer en werden na het
+            neerkomen langzaam afgeremd door de schuifwrijvingskracht. Daarbij
+            werden de sporen over het oppervlak van Phobos getrokken.
+
+            Model 1
+            Men onderzoekt deze hypothese eerst met een eenvoudig model. Daarin
+            wordt de kromming van het oppervlak van Phobos verwaarloosd. In het
+            model gelden de volgende regels:
+            1 Er werken drie krachten op het rotsblok: de zwaartekracht Fz, de
+               normaalkracht FN en de schuifwrijvingskracht Fw.
+            2 De schuifwrijvingskracht is gelijk aan Fw  0, 25  FN .
+            3      Het rotsblok schuift over een horizontaal vlak, waarbij FN  Fz .
+
+            Sommige sporen lopen helemaal om Phobos heen. Volgens model 1 komt
+            een rotsblok met een beginsnelheid van 14 m s1 na precies 1 ronde van
+            6,9104 m tot stilstand.
+
+4p    6     Toon dit aan.
+
+
+
+
+VW-1023-a-26-2-o                                5 / 20                            lees verder ►►►
+            De beginsnelheid van 14 m s1 die volgt uit model 1 is groter dan de
+            ontsnappingssnelheid van een object op Phobos.
+3p    7     Bereken deze ontsnappingssnelheid met behulp van de gegevens in
+            tabel 1.
+
+            Een rotsblok met de beginsnelheid die volgt uit model 1 zou van Phobos
+            ontsnappen en geen spoor over het oppervlak trekken. Er is dus een
+            gedetailleerder model nodig om de hypothese over het ontstaan van de
+            sporen te toetsen.
+
+            Model 2
+            In model 2 wordt aangenomen dat Phobos bolvormig is en dat het
+            rotsblok in een cirkelbaan over het oppervlak van Phobos beweegt.
+            Figuur 2 toont het bijbehorende computermodel. De afgelegde afstand s
+            wordt (in regel 7) steeds met een stapje ter grootte van ds opgehoogd,
+            waarna de andere grootheden opnieuw worden berekend.
+
+            figuur 2
+                   modelformules                      startwaardes
+            1           2Ek                           s  0 (m)
+                   v
+                          m
+            2             mv 2                        ds  10 (m)
+                   Fmpz 
+                            R
+            3      FN  Fz  Fmpz                     f  0, 25
+            4      Fw  f FN                          m  1,0 104 (kg)
+            5      d Ek   Fw d s                    R  1,11 104 (m)
+            6      Ek  Ek  dEk                      g  5,7 103 (m s 2 )
+            7      s  s  ds                         Fz  mg (N)
+            8      als Ek  0 dan stop eindals        v  7,5 (ms 1 )
+            9                                         Ek  12 mv 2 (J)
+
+
+
+
+VW-1023-a-26-2-o                             6 / 20                             lees verder ►►►
+            In figuur 3 is voor beide modellen de grafiek van de kinetische energie Ek
+            van het rotsblok als functie van s getekend. Bij gelijke beginsnelheid is de
+            lengte van het spoor volgens model 2 veel groter dan volgens model 1.
+
+            figuur 3
+
+
+
+
+            In figuur 3 is te zien dat het energieverlies per afgelegde meter aan het
+            eind van het spoor bij beide modellen even groot is.
+2p    8     Leg uit hoe dit resultaat verklaard wordt met behulp van de modelregels
+            van model 2 en model 1.
+
+
+
+
+VW-1023-a-26-2-o                             7 / 20                            lees verder ►►►
+            Met model 2 is de lengte van het spoor bij verschillende beginsnelheden
+            van het rotsblok bepaald. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            Uit figuur 4 blijkt dat het rotsblok precies een volledige ronde over het
+            oppervlak van Phobos kan maken bij een beginsnelheid die lager is dan
+            de ontsnappingssnelheid.
+1p    9     Bepaal deze beginsnelheid. Noteer je antwoord in drie significante cijfers.
+
+            In figuur 4 is ook te zien dat de lengte van het spoor bij grotere
+            beginsnelheden steeds sterker toeneemt. Bij een bepaalde beginsnelheid
+            vgrens blijft het rotsblok oneindig lang door bewegen in de cirkelbaan over
+            het oppervlak van Phobos. Het computermodel geeft dan geen uitkomst
+            voor de lengte van het spoor. vgrens is kleiner dan de
+            ontsnappingssnelheid.
+4p   10     Voer de volgende opdrachten uit:
+             Bereken vgrens.
+             Geef aan wat er met het rotsblok gebeurt bij beginsnelheden tussen
+                 vgrens en de ontsnappingssnelheid.
+
+
+
+
+VW-1023-a-26-2-o                            8 / 20                            lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1023-a-26-2-o                        9 / 20   lees verder ►►►
+      Munt krimpen
+
+            Een webshop verkoopt ‘gekrompen’ munten. Figuur 1 toont een munt voor
+            het krimpen en een munt na het krimpen.
+
+            figuur 1
+
+
+
+
+            Na het krimpen is de diameter van de munt kleiner geworden en de dikte
+            van de munt toegenomen.
+3p   11     Bepaal met behulp van figuur 1 hoeveel keer zo dik de munt is geworden.
+            Noteer je antwoord in twee significante cijfers.
+
+            Om het krimpen uit te voeren, wordt de munt in een spoel geplaatst. De
+            spoel wordt via twee aansluitpunten en een schakelaar aangesloten op
+            een hoogspanningsbron. Zie de foto in figuur 2 en de tekening in figuur 3.
+
+            figuur 2                                    figuur 3
+
+
+
+
+VW-1023-a-26-2-o                           10 / 20                           lees verder ►►►
+            Tijdens het krimpen van de munt wordt de stroom zo groot dat een
+            gewone schakelaar zou smelten. Daarom wordt de stroomkring gesloten
+            door twee massieve metalen bollen dicht bij elkaar te brengen. Zie
+            figuur 4.
+
+            figuur 4
+
+
+
+
+            In de gesloten toestand van de schakelaar is de elektrische veldsterkte
+            tussen de bollen groot, waardoor de tussenliggende luchtmoleculen
+            ioniseren. De lucht wordt dan geleidend en er vindt een ontlading plaats.
+            In figuur 5 staan vier schetsen van het elektrisch veld en van de netto
+            ladingsverdeling op de buitenkant van de bollen.
+
+            figuur 5
+
+
+
+
+1p   12     Welke schets in figuur 5 (I, II, III of IV) geeft het elektrisch veld en de
+            ladingsverdeling vlak voor het moment van de ontlading het best weer?
+            A schets I
+            B schets II
+            C schets III
+            D schets IV
+
+
+
+
+VW-1023-a-26-2-o                             11 / 20                            lees verder ►►►
+            Tijdens de ontlading loopt er een stroom Ispoel door de spoel en ontstaat er
+            binnen de spoel een magnetisch veld loodrecht op het vooraanzicht van
+            de munt. Figuur 6 toont het (Ispoel,t)-diagram.
+
+            figuur 6                                                   figuur 7
+
+
+
+
+            Door elektromagnetische inductie gaan vrije elektronen langs de rand van
+            de munt bewegen. Zie figuur 7. Dit leidt tot een elektrische stroom die we
+            de inductiestroom noemen.
+3p   13     Geef aan op welk tijdstip in het (Ispoel,t)-diagram van figuur 6 de
+            inductiestroom in de munt maximaal is. Licht je antwoord toe.
+
+            Ten gevolge van het magnetisch veld van         figuur 8
+            de spoel ondervinden de elektronen die
+            langs de rand van de munt bewegen een
+            lorentzkracht. De lorentzkracht is naar het
+            midden van de munt gericht. Hierdoor
+            wordt de rand van de munt naar binnen
+            geperst en krimpt de munt. In figuur 8 is
+            de lorentzkracht aangegeven met pijlen.
+            Ook is een winding van de spoel
+            getekend.
+
+            Op de uitwerkbijlage staan twee zinnen over de situatie in figuur 8.
+2p   14     Omcirkel in elke zin op de uitwerkbijlage het juiste alternatief.
+
+
+
+
+VW-1023-a-26-2-o                            12 / 20                               lees verder ►►►
+            Om de munt te laten krimpen moet de hoogspanningsbron vermogen
+            leveren. De spanning die wordt gebruikt is 7 kV. In figuur 9 staan een
+            aantal voorbeelden van (gemiddelde) elektrische vermogens.
+
+            figuur 9
+
+
+
+
+3p   15     Bepaal met behulp van figuur 6 bij welk voorbeeld in figuur 9 het
+            vermogen van dezelfde orde van grootte is als het maximale opgenomen
+            vermogen tijdens het krimpen van de munt.
+
+
+
+
+VW-1023-a-26-2-o                           13 / 20                           lees verder ►►►
+      Kneedbare weerstand
+
+            Van elektrisch geleidende klei is een cilinder gevormd. Door meetsnoeren
+            in de klei te steken kan de cilinder worden opgenomen in een elektrische
+            schakeling. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            In de schakeling van figuur 2 wordt met een spanningsmeter de spanning
+            over een deel van de cilinder gemeten.
+
+            figuur 2
+
+
+
+
+2p   16     Leg uit dat de spanningsmeter in figuur 2 een spanning van 3,0 V
+            aangeeft.
+
+            De spanningsmeter wordt vervangen door een lampje dat optimaal brandt
+            bij 3,0 V. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            In de schakeling van figuur 3 brandt het lampje niet optimaal.
+3p   17     Leg uit of aansluitpunt B van het lampje richting punt A of richting punt C
+            verplaatst moet worden om het lampje wel optimaal te laten branden.
+
+
+
+VW-1023-a-26-2-o                            14 / 20                            lees verder ►►►
+            Bij een volgende proef wordt van de klei een gelijkzijdige driehoek PQR
+            gemaakt, zie figuur 4.
+
+            figuur 4
+
+
+
+
+            De twee aansluitsnoeren van de spanningsbron worden bij punt P en
+            punt R in de klei gestoken, en de totale stroomsterkte I wordt gemeten.
+            Vervolgens wordt het linker aansluitsnoer in stapjes vanaf P via Q naar R
+            verplaatst. We noemen de afstand waarover de aansluiting van het linker
+            aansluitsnoer is verplaatst s. Zie figuur 4. Het rechter aansluitsnoer wordt
+            niet verplaatst.
+
+            Op de uitwerkbijlage staat een (I,s)-diagram. De totale stroomsterkte voor
+            de situatie dat het linker aansluitpunt in P ligt (s = 0), is hierin aangegeven.
+3p   18     Voer de volgende opdrachten uit in het diagram op de uitwerkbijlage:
+             Geef de totale stroomsterkte aan voor de situatie dat het linker
+               aansluitsnoer zich in punt Q bevindt.
+             Schets het verloop van de (I,s)-grafiek vanaf P tot aan R.
+
+
+
+
+VW-1023-a-26-2-o                              15 / 20                             lees verder ►►►
+      Temperatuurbepaling uit lijnverbreding
+
+            In een gasontladingslamp bevindt zich een gas in een afgesloten buis. Als
+            de lamp wordt aangezet, komen de gasatomen in een aangeslagen
+            toestand en zenden vervolgens licht uit.
+
+            In figuur 1 staat het spectrum van een gasontladingslamp die gevuld is
+            met een mengsel van waterstofgas en een ander gas.
+
+            figuur 1
+
+
+
+
+1p   19     Geef aan welk ander gas aanwezig is in de lamp. Gebruik tabel 20 uit
+            Binas of tabel 5.1e uit ScienceData.
+
+            De emissielijn bij 656 nm wordt uitgezonden door waterstofatomen die
+            terugvallen van de tweede naar de eerste aangeslagen toestand. Deze
+            emissielijn wordt H genoemd. Figuur 2 toont een nauwkeurige meting
+            van het spectrum rond de H-lijn.
+
+            figuur 2
+
+
+
+
+VW-1023-a-26-2-o                           16 / 20                          lees verder ►►►
+            Uit figuur 2 blijkt dat H bij 656,28 nm ligt. Om de golflengte van H ook
+            met deze nauwkeurigheid te berekenen, moeten de energieniveaus
+            (in eV) van het waterstofatoom nauwkeurig bekend zijn. Er geldt:
+                                                    13,5983
+                                           En                                          (1)
+                                                       n2
+            Ook moet er rekening worden gehouden met het feit dat de meting van
+            het spectrum in figuur 2 in lucht is uitgevoerd. In lucht is de lichtsnelheid
+            kleiner dan in vacuüm, namelijk clucht  2,99706  108 m s 1 .
+4p   20     Toon met bovenstaande gegevens aan dat de golflengte van H in lucht
+            gelijk is aan 656,28 nm.
+
+            In figuur 2 is te zien dat de H-lijn een breedte heeft. Er worden dus ook
+            fotonen waargenomen met een iets grotere en iets kleinere golflengte dan
+            656,28 nm. De oorzaak hiervan is het dopplereffect ten gevolge van de
+            beweging van de waterstofatomen in de lamp.
+
+            In figuur 3 is een dwarsdoorsnede van de lamp getekend. Hierin is de
+            willekeurige beweging van de waterstofatomen schematisch
+            weergegeven. De pijlen geven de richting en grootte van de snelheid van
+            individuele atomen aan. Het licht dat de atomen uitzenden, wordt
+            waargenomen met een spectrometer die zich aan de rechterkant van de
+            lamp bevindt.
+
+            figuur 3
+
+
+
+
+            Op de uitwerkbijlage staat figuur 3 met alleen de atomen 1, 2 en 3. Deze
+            drie atomen behoren tot de snelst bewegende waterstofatomen in de
+            lamp. De H-lijn uit figuur 2 staat ook op de uitwerkbijlage. Er zijn daar vijf
+            verschillende golflengtegebieden A t/m E aangegeven. Het uitgezonden
+            licht van elk van de drie atomen wordt door de spectrometer in een ander
+            golflengtegebied waargenomen.
+2p   21     Kruis in de tabel op de uitwerkbijlage bij elk atoom het juiste
+            golflengtegebied aan.
+
+
+
+
+VW-1023-a-26-2-o                             17 / 20                             lees verder ►►►
+            Als de temperatuur T van het gas in de lamp         figuur 4
+            hoger wordt, neemt de gemiddelde
+            kinetische energie van de gasatomen toe.
+            Het dopplereffect wordt dan sterker en de
+            emissielijn breder. De breedte b van een
+            emissielijn wordt gemeten op de helft van de
+            maximale intensiteit. Zie figuur 4.
+
+            De fotonen die worden waargenomen bij een
+            dopplerverschuiving   12 b zijn uitgezonden
+            door gasatomen die met een kinetische energie Ek,x  ln 2  kBT naar de
+            spectrometer toe of van de spectrometer af bewegen. Hieruit volgt het
+            verband tussen de breedte van de emissielijn en de temperatuur van het
+            gas:
+                                              b T                                  (2)
+3p   22     Leid dit verband af.
+
+            De spectrale resolutie van een bepaald type spectrometer is 12 pm. Dit
+            betekent dat deze spectrometer één waarde van de intensiteit meet per
+            golflengtebandje van 12 pm breed. Deze golflengtebandjes zijn te zien in
+            de meting van de H-lijn in figuur 5. De stippellijn geeft de vorm van de
+            emissielijn die het best past bij de intensiteiten in de golflengtebandjes.
+
+            figuur 5
+
+
+
+
+            Wetenschappers hebben uit figuur 5 bepaald dat de temperatuur van het
+            waterstofgas gelijk is aan 5,9⋅103 K. Zij willen met dezelfde spectrometer
+            ook meten aan een andere gasontladingslamp, met een temperatuur van
+            ongeveer 500 K.
+3p   23     Toon met behulp van formule (2) aan of de temperatuur van deze andere
+            lamp met dezelfde spectrometer gemeten kan worden.
+
+
+
+
+VW-1023-a-26-2-o                            18 / 20                            lees verder ►►►
+      Wolfstoon
+
+            Een cello is een snaarinstrument. Met een strijkstok wordt een van de
+            snaren in trilling gebracht. De positie van een vinger die op de snaar
+            wordt gezet, bepaalt de frequentie van de gespeelde toon. De lucht in de
+            klankkast trilt mee, waardoor een duidelijk hoorbaar geluid ontstaat.
+
+            figuur 1
+
+
+
+
+            In figuur 1 zijn het voorblad en de klankkast van de cello aangegeven. Het
+            voorblad heeft een eigenfrequentie. Als die frequentie wordt gespeeld,
+            kan resonantie optreden. De trillingsenergie wordt dan steeds verplaatst
+            van de trillende snaar en meetrillende lucht in de klankkast, naar het
+            houten voorblad en weer terug. Daardoor varieert de amplitude van het
+            geluid sterk. Men noemt dit een zweving, het geluid hiervan klinkt
+            onprettig. De frequentie waarbij de resonantie plaatsvindt, noemt men de
+            wolfstoon van de cello.
+
+            Op de uitwerkbijlage is een geluidsregistratie weergegeven van een cello
+            waarop de wolfstoon wordt gespeeld.
+3p   24     Bepaal de frequentie van de gespeelde toon. Noteer je antwoord in twee
+            significante cijfers.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1023-a-26-2-o                           19 / 20                           lees verder ►►►
+            Een cellobouwer wil de frequentie fwt waarbij de wolfstoon optreedt
+            veranderen naar een andere frequentie die minder vaak gespeeld wordt.
+            Hij schaaft op sommige plekken een beetje hout van het voorblad weg en
+            constateert dat fwt na het schaven kleiner is geworden. Het voorblad van
+            de cello kan worden gemodelleerd als een massa-veersysteem.
+4p   25     Voer de volgende opdrachten uit:
+             Leg uit dat de afname van fwt niet kan worden verklaard door de
+                verandering van de massa van het voorblad.
+             Geef aan hoe de afname van fwt wel verklaard kan worden met het
+                model van het massa-veersysteem.
+
+            Door het schaven is de wolfstoon verschoven naar een minder vaak
+            gespeelde frequentie. Als een cellospeler deze toonhoogte toch nodig
+            heeft, kan hij de zweving verminderen door ‘vibrato’ te spelen. De vinger
+            van de linkerhand wordt daarbij snel heen en weer bewogen rond de
+            positie waar de snaar normaal gesproken ingedrukt wordt. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+2p   26     Leg uit waarom het bewegen van de vinger de zweving bij de wolfstoon
+            vermindert.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-26-2-o                                         20 / 20                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,679 @@
+                                                                    Examen VWO
+
+                                                                        2023
+                                                                               tijdvak 1
+                                                                      maandag 15 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-23-1-o
+      Langlaufen in klassieke stijl
+
+            Langlaufen is een wintersport waarbij een         figuur 1
+            langlaufer vooruitkomt op ski’s door zich af te
+            zetten tegen een besneeuwde ondergrond.
+            Bij de klassieke stijl moet de langlaufer
+            gedurende de hele beweging zijn beide ski’s
+            evenwijdig aan elkaar houden, zodat ze in de
+            twee gleuven in de sneeuw, de loipe, blijven. Zie
+            figuur 1.
+            Binnen de klassieke stijl zijn twee verschillende
+            technieken mogelijk: de dubbelstoktechniek
+            (figuur 1) en de diagonaalpastechniek (figuur 2).
+
+            Dubbelstoktechniek
+            Bij de dubbelstoktechniek is het                   figuur 2
+            mogelijk om in korte tijd een hoge snelheid
+            te ontwikkelen. De langlaufer gebruikt dan
+            alleen de twee skistokken om zichzelf vooruit te
+            duwen, terwijl beide ski’s naast elkaar blijven.
+
+            In figuur 3 is één bewegingscyclus van de
+            dubbelstoktechniek schematisch weergegeven
+            in vier plaatjes.
+
+
+            figuur 3
+
+
+
+
+                   3a            3b            3c              3d
+               Begin afzet   einde afzet    glijfase      Begin afzet
+
+
+            Met behulp van videometen is de beweging van een langlaufer met de
+            dubbelstoktechniek vastgelegd. In figuur 4 staat een klein gedeelte van
+            deze beweging afgebeeld. De figuur toont iets meer dan één volledige
+            bewegingscyclus.
+
+
+
+
+VW-1023-a-23-1-o                            2 / 20                           lees verder ►►►
+            figuur 4
+
+
+
+
+            Figuur 4 staat ook op de uitwerkbijlage.
+4p    1     Bepaal met behulp van de figuur op de uitwerkbijlage de afstand die de
+            langlaufer aflegt in één bewegingscyclus. Noteer je antwoord in twee
+            significante cijfers.
+
+            Diagonaalpastechniek
+            De tweede klassieke techniek is de diagonaalpastechniek. Bij deze
+            techniek steunt de langlaufer afwisselend met zijn gewicht op een van
+            beide ski’s. Op dat moment raakt de ski over zijn volle lengte de
+            ondergrond en kan de langlaufer zich met één ski afzetten. In figuur 5 is
+            de diagonaalpastechniek schematisch weergegeven in vijf plaatjes.
+
+            figuur 5
+
+
+
+
+                         5a            5b             5c           5d             5e
+                   na afzet rechts   glijfase   na afzet links   glijfase   na afzet rechts
+
+
+            Een klassieke langlaufski is licht gebogen. Daardoor raakt het midden van
+            de ski de grond pas als de ski voldoende belast wordt. Zo’n ski heet een
+            camberski. De maximale hoogte boven de grond wordt de camberhoogte
+            genoemd. Zie figuur 6.
+
+
+
+
+VW-1023-a-23-1-o                                3 / 20                             lees verder ►►►
+            figuur 6
+
+
+
+
+            Het middengedeelte van de onderkant van de ski is ruw gemaakt.
+            Hiermee kan de langlaufer zich afzetten als het middengedeelte de
+            sneeuw raakt. In de glijfase verdeelt de langlaufer zijn gewicht over beide
+            ski’s en is hij in staat om te glijden. Om te kunnen glijden mag het
+            middengedeelte van de ski’s de sneeuw niet raken als de langlaufer op
+            twee ski’s staat. Als de langlaufer op één ski staat, moet het
+            middengedeelte van de ski de sneeuw wel raken om te kunnen afzetten.
+            Het is daarom essentieel dat de langlaufer ski’s gebruikt waarvan de
+            flexibiliteit en de camberhoogte passen bij zijn massa. Een ski is daarbij in
+            eerste benadering vergelijkbaar met een veer.
+
+            Een langlaufer met een massa van 80 kg wil langlaufski’s gebruiken met
+            een camberhoogte van 3,0 mm en een veerconstante van 100 kN m−1.
+            Aan de voorwaarde dat het middengedeelte van de ski de sneeuw raakt
+            als de langlaufer op één ski staat, is in dit geval voldaan.
+
+4p    2     Controleer met een berekening of de ski’s ook geschikt zijn voor deze
+            langlaufer als hij op beide ski’s staat.
+
+            Wanneer de flexibiliteit van een langlaufski in detail bekeken wordt, blijkt
+            dat de benadering van de veer niet precies klopt. Het verband tussen de
+            verticale kracht F en de hoogte h van het midden van de ski blijkt namelijk
+            niet lineair te zijn. In figuur 7 is het verband tussen kracht en hoogte
+            weergegeven voor twee typen ski’s: een ski voor amateurs en een ski
+            voor professionals.
+
+            figuur 7
+
+
+
+
+VW-1023-a-23-1-o                             4 / 20                            lees verder ►►►
+            In een ( F , s ) -diagram staat bij de horizontale as de indrukking s van de
+            ski, gemeten vanaf de camberhoogte, en bij de verticale as de verticale
+            kracht F . In figuur 8 staan vier ( F , s ) -diagrammen.
+
+            figuur 8         a                                      b
+
+
+
+
+                             c                                      d
+
+
+
+
+4p    3     Voer de volgende opdrachten uit:
+            − Leg uit welk ( F , s ) -diagram uit figuur 8 (a, b, c of d) overeenkomt met
+               het ( h, F ) -diagram uit figuur 7.
+            − Leg uit bij welk type ski (amateur of professional) de meeste arbeid
+               nodig is om de ski op de grond te drukken.
+
+
+
+
+VW-1023-a-23-1-o                              5 / 20                             lees verder ►►►
+            Voor de wrijvingskracht tussen een ski in beweging en de sneeuw geldt:
+
+                   Fw = f d Fn           (1)
+
+            Hierin is:
+            − Fw de wrijvingskracht in N
+            −      f d de dynamische wrijvingscoëfficiënt
+            −      Fn de normaalkracht op de ski in N
+
+            De dynamische wrijvingscoëfficiënt is bij langlaufen afhankelijk van de
+            snelheid.
+            In Innsbruck bevindt zich een proefopstelling waarmee f d bepaald kan
+            worden. Met deze proefopstelling meet men bij verschillende snelheden
+            de normaalkracht en de wrijvingskracht op de ski terwijl die horizontaal
+            over de sneeuw beweegt met snelheid v .
+
+            In figuur 9 zijn resultaten van dergelijke metingen weergegeven.
+
+            figuur 9
+
+
+
+
+4p    4     Voer de volgende opdrachten uit:
+            − Leg uit of uit figuur 9 volgt dat er een recht evenredig verband is
+               tussen de massa van de langlaufer en de wrijvingscoëfficiënt f d .
+            −      Leg uit of uit figuur 9 volgt dat er een recht evenredig verband is
+                   tussen de snelheid v en de wrijvingscoëfficiënt f d .
+
+
+
+
+VW-1023-a-23-1-o                                 6 / 20                            lees verder ►►►
+      Cappuccino
+
+            Cappuccino bestaat uit espressokoffie en               figuur 1
+            met stoom opgeschuimde melk. Met een
+            espressoapparaat kan je koffiezetten en
+            stoom maken om de melk op te
+            schuimen.
+
+            Het espressoapparaat dat is afgebeeld in
+            figuur 1 gebruikt voor beide handelingen
+            één verwarmingselement. Dit
+            verwarmingselement bevindt zich in de
+            boiler. Dit is de ketel waarin water (onder
+            druk) wordt opgewarmd.
+            Op het voorpaneel van het apparaat
+            zitten twee knoppen:
+            − de aan-uitknop: alleen als deze knop aanstaat, werkt het apparaat.
+                Het verwarmingselement verwarmt dan het water tot een temperatuur
+                van net onder 100 °C;
+            − de stoomknop: als deze knop ook aanstaat, verwarmt het
+                verwarmingselement water onder druk tot een temperatuur van
+                120 °C.
+
+            Als de aan-uitknop aangezet wordt, gaat het lampje branden. Het lampje
+            brandt totdat het water de juiste temperatuur heeft. In figuur 2 op de
+            volgende bladzijde is een gedeelte van het schakelschema met het
+            verwarmingselement weergegeven. Het apparaat is aangesloten op de
+            netspanning (230 V). De temperatuurregeling gebeurt met behulp van
+            thermostaten die in de boiler zijn aangebracht. Een thermostaat kan
+            gezien worden als een schakelaar die onder een bepaalde temperatuur
+            gesloten is en boven die temperatuur open is.
+
+            Het espressoapparaat bevat drie thermostaten:
+            − een warmwaterthermostaat: deze is afgesteld op een temperatuur van
+               iets onder 100 °C;
+            − een stoomthermostaat: deze is afgesteld op een temperatuur van
+               120 °C;
+            − een veiligheidsthermostaat (niet afgebeeld in figuur 2): deze schakelt
+               het verwarmingselement uit wanneer de temperatuur toch te hoog
+               wordt doordat een van de andere thermostaten niet goed werkt. Deze
+               thermostaat is afgesteld op een temperatuur van rond 150 °C.
+
+
+
+
+VW-1023-a-23-1-o                           7 / 20                             lees verder ►►►
+            figuur 2
+
+
+
+
+            In de schakeling in figuur 2 is de stoomknop nog niet aangesloten.
+            Figuur 2 staat ook op de uitwerkbijlage.
+
+2p    5     Teken in de figuur op de uitwerkbijlage de verbindingen die nodig zijn om
+            de stoomknop op de juiste manier aan te sluiten.
+
+            In figuur 2 is de veiligheidsthermostaat nog niet opgenomen. Als de
+            veiligheidsthermostaat het verwarmingselement uitschakelt, blijft het
+            lampje branden.
+1p    6     Geef in de figuur op de uitwerkbijlage een mogelijke positie aan voor de
+            veiligheidsthermostaat.
+
+            Het verwarmingselement levert een nuttig vermogen van 0,80 kW bij een
+            rendement van 95%. Hieruit volgt dat de weerstand van het element gelijk
+            is aan 63 Ω.
+3p    7     Toon dit aan met een berekening.
+                                                                        figuur 3
+            Het verwarmingselement in de boiler bestaat uit een staaf
+            in spiraalvorm. Zie figuur 3.
+            De staaf heeft een lengte van 0,60 m. Volgens Silvia is de
+            staaf van massief nichroom waar de stroom doorheen
+            loopt. Mara beweert dat de staaf een holle buis is met
+            daarin een dunnere draad van nichroom.
+4p    8     Geef aan wie er gelijk heeft. Licht je antwoord toe met een
+            berekening van de diameter van de draad.
+
+
+
+
+VW-1023-a-23-1-o                            8 / 20                           lees verder ►►►
+      Poollicht
+
+            Lees de onderstaande tekst.
+
+              In de gebieden bij de Noordpool en de Zuidpool kun je vaak ’s nachts
+              gekleurd licht zien. Dit poollicht wordt respectievelijk noorderlicht of
+              zuiderlicht genoemd (zie figuur 1).
+
+              figuur 1                                figuur 2
+
+
+
+
+              Het poollicht wordt veroorzaakt door een zogenaamd plasma van
+              positief geladen en negatief geladen deeltjes. Dit plasma verlaat de
+              zon bij een zonne-uitbarsting (zie figuur 2) en bereikt 17 uur later onze
+              dampkring.
+              Als de deeltjes botsen met moleculen in de lucht geeft dit de
+              spectaculaire lichtverschijnselen van het poollicht.
+
+            Het plasma moet een bepaalde minimale snelheid hebben om aan het
+            gravitatieveld van de zon te kunnen ontsnappen.
+4p    9     Bereken deze snelheid. Noteer je antwoord in vier significante cijfers.
+
+            De afstand die het plasma aflegt van de zon naar de aarde is 1,5∙1011 m.
+2p   10     Bereken de gemiddelde snelheid van het plasma over dat traject.
+
+            In figuur 3 is de aarde met haar magneetveld te zien. De aarde is op te
+            vatten als een staafmagneet.
+
+            figuur 3
+
+
+
+
+            Figuur 3 staat vergroot op de uitwerkbijlage.
+
+
+VW-1023-a-23-1-o                             9 / 20                             lees verder ►►►
+1p   11     Geef in de figuur op de uitwerkbijlage met een N aan waar de
+            magnetische noordpool van de aarde zich bevindt.
+
+            Als het plasma het aardmagnetisch           figuur 4
+            veld binnenkomt, gaan geladen
+            deeltjes van het plasma een
+            schroefvormige beweging maken om de
+            magnetische veldlijnen. In figuur 4 is de
+            baan van één geladen deeltje
+            weergegeven.
+
+            In het rechthoekige kader in figuur 4 is één
+            omloop van het geladen deeltje om een
+            veldlijn van het aardmagnetisch veld te
+            zien. Op de uitwerkbijlage is deze omloop
+            vereenvoudigd weergegeven, zoals je
+            deze ziet als je in de richting van het
+            magnetisch veld kijkt. De richting van de
+            veldlijn en de component van de snelheid loodrecht op de veldlijn zijn ook
+            weergegeven.
+
+3p   12     Voer de volgende opdrachten uit:
+            − Teken in de figuur op de uitwerkbijlage de richting van de
+               lorentzkracht op het deeltje.
+            − Leg uit of het deeltje positief of negatief geladen is.
+
+            De snelheid van het deeltje heeft niet alleen een component loodrecht op
+            de veldlijn, maar ook een component in de richting van de veldlijn. Die
+            laatste component zorgt ervoor dat het deeltje richting de magnetische
+            noordpool of zuidpool beweegt. Deze beweging langs de veldlijn levert in
+            combinatie met de cirkelbeweging om de veldlijn de schroefvormige baan
+            in figuur 4 op.
+2p   13     Leg met behulp van figuur 4 uit waarom de straal van de cirkelbeweging
+            steeds kleiner wordt naarmate het deeltje dichter bij de pool komt.
+
+
+
+
+VW-1023-a-23-1-o                            10 / 20                          lees verder ►►►
+            Het plasma wordt dus door het aardmagnetisch veld afgebogen naar de
+            polen en zorgt daar voor het ontstaan van het poollicht. Het poollicht
+            ontstaat vooral als gevolg van botsingen van de plasmadeeltjes met
+            zuurstofatomen O en stikstofmoleculen N2. De volgende processen komen
+            voor:
+            − Een aangeslagen N2-molecuul zendt bij terugvallen een combinatie
+               van golflengtes uit, die wij zien als de kleur magenta.
+            − Een aangeslagen O-atoom zendt bij het terugvallen vooral rood licht
+               uit, tenzij het botst met een N2-molecuul.
+            − Bij een botsing tussen een aangeslagen O-atoom en een N2-molecuul
+               draagt het N2-molecuul energie over aan het O-atoom, dat vervolgens
+               de dominante kleur in het poollicht uitzendt. De fotonen van dit licht
+               hebben een energie van 2,22 eV.
+
+4p   14     Geef aan wat de dominante kleur in het poollicht is. Bereken daarvoor
+            eerst de golflengte van de fotonen.
+
+            In figuur 5 is het aantal deeltjes per cm3 uitgezet tegen de hoogte.
+
+            figuur 5
+
+
+
+
+            De dominante kleur in het poollicht ontstaat vooral op hoogtes tussen
+            ongeveer 100 km en 200 km.
+3p   15     Voer de volgende opdrachten uit. Maak daarvoor gebruik van figuur 5:
+            − Leg uit dat deze kleur op grote hoogte (> 300 km) nauwelijks ontstaat.
+            −      Geef aan welke kleur op hoogtes kleiner dan 100 km vooral ontstaat.
+
+
+
+
+VW-1023-a-23-1-o                              11 / 20                          lees verder ►►►
+      Boomwhackers
+
+            Jelle heeft een set van acht boomwhackers. Zie figuur 1. Boomwhackers
+            zijn kunststof buizen met twee open uiteinden waarmee je muziek kunt
+            maken. Als je met een boomwhacker ergens tegenaan tikt, ontstaat er
+            een toon doordat er staande golven in de buis ontstaan. De lengte van de
+            buis bepaalt de hoogte van de toon.
+
+            figuur 1
+
+
+
+
+            Jelle meet de frequenties van de grondtoon en de boventonen van buis 1.
+            Zijn meetresultaten wijken een klein beetje af van wat hij verwacht op
+            basis van de lengte van de buis. Dit komt doordat de buiken niet exact
+            samenvallen met de uiteinden van de buis. De afstand tussen de buiken
+            aan beide uiteinden van de buis wordt de akoestische lengte genoemd.
+            Deze akoestische lengte bepaalt dus de toonhoogte.
+
+
+
+
+VW-1023-a-23-1-o                          12 / 20                          lees verder ►►►
+            In figuur 2 staat weergegeven welke frequenties vóórkomen in de toon
+            van buis 1. De meting is gedaan bij een temperatuur van 20 °C.
+
+            figuur 2
+
+
+
+
+4p   16     Bepaal de akoestische lengte van buis 1 met behulp van figuur 2. Noteer
+            je antwoord in twee significante cijfers.
+
+            Jelle gaat op zoek in de literatuur en vindt de volgende formule voor de
+            akoestische lengte:
+
+                   La = L + 2 ⋅ 0,31 ⋅ d   (1)
+
+            Hierin is:
+            − La de akoestische lengte van de buis in m
+            −      L de werkelijke lengte van de buis in m
+            −      0,31 een experimenteel bepaalde correctiefactor
+            −      d de binnendiameter van de buis in m
+            −      2 het aantal open uiteinden van de buis
+
+2p   17     Leg uit met behulp van formule (1) of de buiken aan de uiteinden van de
+            buis binnen of buiten de buis vallen.
+
+            Jelle meet de lengte en de binnendiameter van de buizen op met een
+            meetlint. Voor buis 8 vindt hij een lengte van 30,1 cm. Hij meet voor elke
+            buis een binnendiameter van 4,0 cm.
+
+            Jelle bedenkt dat hij de binnendiameter ook kan meten met een
+            schuifmaat. De meetwaarde voor de binnendiameter wordt dan
+            nauwkeuriger en kan daardoor worden opgegeven in één significant cijfer
+            méér dan met het meetlint.
+            Jelle beweert dat de akoestische lengte, en dus de golflengte van de toon,
+            nu weergegeven kan worden met een groter aantal significante cijfers.
+3p   18     Leg uit of Jelle gelijk heeft.
+
+
+
+VW-1023-a-23-1-o                                 13 / 20                      lees verder ►►►
+            Jelle wil nu de geluidssnelheid bepalen. Daarom berekent hij, uit zijn
+            metingen met het meetlint, met behulp van formule (1) de golflengte van
+            de grondtoon van elke buis. Bovendien meet hij van elke buis de
+            frequentie f van de grondtoon. Van zijn resultaten maakt hij de grafiek van
+            figuur 3. Hij geeft hierbij ook de meetonnauwkeurigheid in de frequentie f
+            aan.
+
+            figuur 3
+
+
+
+
+            De meetonnauwkeurigheid in de frequentie is vastgesteld op 2 ⋅101 Hz.
+            Dat betekent dat elke frequentie in werkelijkheid 2 ⋅101 Hz naar onder of
+            naar boven kan afwijken. In de grafiek is deze meetonnauwkeurigheid,
+            ook wel foutmarge genoemd, aangegeven met verticale streepjes van
+            2 ⋅101 Hz onder tot 2 ⋅101 Hz boven elk grafiekpunt.
+
+            De berekende golflengte kent ook een foutmarge.
+2p   19     Leg uit dat de foutmarge in de golflengte te klein is om zichtbaar
+            weergegeven te kunnen worden in figuur 3.
+
+
+
+
+VW-1023-a-23-1-o                            14 / 20                              lees verder ►►►
+            Om de geluidssnelheid zo nauwkeurig mogelijk te bepalen voert Jelle een
+            coördinatentransformatie uit. Het resultaat hiervan is weergegeven in
+            figuur 4.
+            Figuur 4 staat ook op de uitwerkbijlage.
+
+            figuur 4
+
+
+
+
+            Jelle voert de volgende drie handelingen uit:
+            − Hij zet bij de horizontale as het juiste bijschrift.
+            − Hij trekt in het diagram twee rechte lijnen door de oorsprong die net
+                binnen alle foutmarges liggen.
+            − Hij bepaalt hieruit in twee significante cijfers de minimale en de
+                maximale geluidssnelheid die uit de metingen volgen.
+4p   20     Voer de drie bovenstaande handelingen van Jelle uit in de figuur op de
+            uitwerkbijlage.
+
+
+
+
+VW-1023-a-23-1-o                           15 / 20                           lees verder ►►►
+      Ramsauer en Townsend
+
+            Het botsende-deeltjesmodel is een veelgebruikt model om verschijnselen
+            in materie te verklaren. In dit model worden atomen en elektronen
+            beschouwd als kleine, harde knikkertjes die tegen elkaar botsen.
+            Het botsende-deeltjesmodel is een klassiek model.
+
+            In een experiment wordt een bundel elektronen door een gas geschoten.
+            Dit proces beschrijven we met een model waarin de gasatomen stilstaan
+            en de elektronen bewegen. De intensiteit van de bundel is gedefinieerd
+            als de grootte van de elektronenstroom in de richting van de bundel per
+            oppervlakte-eenheid. De bewegende elektronen kunnen botsen met de
+            gasatomen, waardoor de intensiteit van de bundel kan veranderen. Zie
+            figuur 1 voor een schematische tekening.
+
+            figuur 1
+
+
+
+
+2p   21     Leg uit met behulp van het botsende-deeltjesmodel dat de intensiteit van
+            de bundel afneemt naarmate er een grotere afstand door het gas is
+            afgelegd.
+
+            De transmissie T is de verhouding tussen de intensiteit van de bundel
+            nadat hij een afstand x door het gas heeft afgelegd en de intensiteit van
+            de bundel bij de bron. Volgens het botsende-deeltjesmodel geldt voor T:
+
+                           x
+                      I  −
+                   T = =e           (1)
+                      I0
+
+            Hierin is:
+            − x de afstand die door de bundel in het gas is afgelegd in m
+            −  de gemiddelde vrije weglengte, dat wil zeggen de gemiddelde
+                   afstand die een elektron aflegt voordat het botst, in m
+            − I de intensiteit van de bundel na een afstand x in m−2 s−1
+            − I0 de intensiteit van de bundel bij de bron in m−2 s−1
+
+
+
+
+VW-1023-a-23-1-o                           16 / 20                            lees verder ►►►
+            In figuur 2 is T als functie van x weergegeven. In de figuur staat ook 
+            aangegeven.
+
+            figuur 2
+
+
+
+
+            De vorm van het (T, x)-diagram is vergelijkbaar met die van een
+            doorlaatkromme bij ioniserende straling.
+            Figuur 2 staat ook op de uitwerkbijlage.
+3p   22     Voer de volgende opdrachten uit:
+            − Geef in de figuur op de uitwerkbijlage de grootte van de
+               halveringsdikte d 1 aan.
+                                    2
+
+            −      Toon aan, met behulp van een berekening, dat  in figuur 2 correct is
+                   weergegeven.
+
+            Quantumrevolutie: het Ramsauer-Townsend-effect
+            Rond 1920 deden de wetenschappers Carl Ramsauer en John Townsend
+            (zie figuur 3), los van elkaar, een verrassende ontdekking. Bij
+            experimenten met xenongas bleek de transmissie T van de elektronen
+            sterk afhankelijk te zijn van de energie van de elektronen Eelek.
+
+            figuur 3
+
+
+
+
+              Carl Ramsauer        John Townsend
+
+
+
+
+VW-1023-a-23-1-o                              17 / 20                           lees verder ►►►
+            Figuur 4 is een (T, Eelek)-grafiek van metingen aan xenongas. Bij een
+            elektronenenergie Eelek van 1, 0 eV gebeurt er iets verrassends: de
+            elektronen lijken plotseling geen hinder meer te ondervinden van de
+            xenonatomen. De transmissie wordt dan gelijk aan 1, ongeacht de grootte
+            van de afgelegde weg.
+
+            figuur 4
+
+
+
+
+            Om dit effect te verklaren beschreven Ramsauer en Townsend het
+            elektron niet als een deeltje, maar als een golf met bijbehorende
+            debroglie-golflengte.
+3p   23     Bereken de debroglie-golflengte van een vrij elektron met een energie van
+            1, 0 eV .
+
+
+
+
+VW-1023-a-23-1-o                           18 / 20                           lees verder ►►►
+            Ramsauer en Townsend benaderden het xenonatoom als een
+            eendimensionale energieput met een diepte Eput en een lengte L. In
+            figuur 5 is schematisch de situatie getekend van een elektron dat een
+            xenonatoom passeert. Het elektron beweegt van gebied I (voor het
+            xenonatoom) via gebied II (het xenonatoom) naar gebied III (na het
+            xenonatoom).
+
+            figuur 5
+
+
+
+
+            Bij bepaalde waarden van Eelek blijkt de golf van het elektron te resoneren
+            in gebied II. Deze resonantie leidt ertoe dat het elektron ongehinderd zijn
+            weg kan vervolgen naar gebied III.
+
+            Resonantie in gebied II treedt op als aan de volgende voorwaarde wordt
+            voldaan:
+
+                         λ 
+                   L = n  II       (2)
+                          2 
+
+            Hierin is:
+            − L de diameter van het xenonatoom
+            − n een positief geheel getal (1, 2, 3, …)
+            − λII de debroglie-golflengte van het elektron in gebied II
+
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1023-a-23-1-o                            19 / 20                           lees verder ►►►
+            Voor de kinetische energie van het elektron in gebied II geldt:
+
+                   Ekin = Eelek + Eput          (3)
+
+            In figuur 4 zijn meerdere pieken te zien waarbij T = 1 . Er zijn dus
+            verschillende waarden van Eelek waarbij resonantie optreedt. Dit is te
+            verklaren met behulp van de formules (2) en (3) en ten minste één
+            formule uit het informatieboek.
+4p   24     Geef deze verklaring.
+
+            De waarden van de energie Ekin in gebied II, waarbij resonantie optreedt,
+            komen overeen met de energieniveaus van een deeltje in een
+            eendimensionale energieput met oneindig hoge wanden. Neem aan dat
+            de eerste piek in figuur 4 hoort bij n = 1 in de formule van deze
+            energieniveaus.
+            De diameter van het xenonatoom is 0, 22 nm .
+4p   25     Bereken Eput in eV. Noteer je antwoord in het juiste aantal significante
+            cijfers.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-23-1-o                                         20 / 20                                          lees verdereinde
+                                                                                                                       ►►► 
+

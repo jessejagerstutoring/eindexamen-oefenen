@@ -1,0 +1,549 @@
+                                                                    Examen HAVO
+
+                                                                          2021
+                                                                                 tijdvak 2
+                                                                       donderdag 17 juni
+                                                                        13.30 - 16.30 uur
+
+
+                                                                        natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 27 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+ HA-1023-a-21-2-o
+       Zweven op geluid
+
+               Het is mogelijk om kleine druppels te laten zweven op geluid. Zie figuur 1.
+               De opstelling die daarvoor nodig is, bestaat uit een toongenerator met een
+               losse luidspreker en een reflector die het geluid terugkaatst. Dit is
+               schematisch weergegeven in figuur 2. Deze figuur is niet op schaal.
+
+               figuur 1                        figuur 2
+
+
+
+
+               Tussen de luidspreker en de reflector wordt de lucht in trilling gebracht en
+               er ontstaat een golfpatroon van knopen en buiken.
+
+               Op de uitwerkbijlage staan twee zinnen over de golven tussen de
+               luidspreker en de reflector.
+2p     1       Omcirkel in iedere zin het juiste antwoord.
+
+
+
+
+HA-1023-a- o                                    2 / 19                            lees verder ►►►
+               In figuur 3 is een oscillogram weergegeven van het signaal van de
+               toongenerator tijdens een experiment met de opstelling van figuur 2.
+
+               figuur 3
+
+
+
+
+               De horizontale schaalverdeling is 10 μs per hokje.
+
+               De toongenerator is ingesteld op 22 kHz.
+3p     2       Toon dat met behulp van figuur 3 aan.
+
+               Figuur 4 is een foto van zes zwevende druppels. De afbeelding is niet op
+               ware grootte.
+
+               figuur 4
+
+
+
+
+               De zwevende druppels bevinden zich in opeenvolgende knopen. De
+               toongenerator is ingesteld op 22 kHz. De temperatuur van de omgeving is
+               20 °C.
+4p     3       Bereken de werkelijke afstand tussen (het midden van) de eerste en de
+               zesde druppel.
+
+
+
+
+HA-1023-a- o                                   3 / 19                           lees verder ►►►
+               Onderzocht wordt of met deze methode druppels vloeibaar medicijn
+               opgeslagen kunnen worden. Door het zweven is de kans op vervuiling van
+               het medicijn namelijk kleiner.
+               Probleem is dat de druppels niet te groot gemaakt mogen worden. Een te
+               grote druppel wordt platgedrukt in de geluidsgolf en springt vervolgens uit
+               elkaar. Zie figuur 5.
+
+               figuur 5
+
+
+
+
+               Er zijn twee mogelijke oplossingen voor dit probleem:
+                de geluidssterkte verlagen,
+                de toonhoogte verlagen.
+
+               Op de uitwerkbijlage staat het (u,t)-diagram van een signaal waarbij
+               alleen een kleine druppel heel blijft.
+2p     4       Schets op de uitwerkbijlage in het (u,t)-diagram een signaal waarin beide
+               oplossingen gecombineerd zijn, zodat ook een grotere druppel heel blijft.
+
+
+
+
+HA-1023-a- o                                   4 / 19                            lees verder ►►►
+       Sirius
+
+               Sterren vormen soms een zogenaamd                  figuur 1
+               dubbelstersysteem.
+               In een vereenvoudigd dubbelstersysteem
+               bewegen twee sterren in eigen cirkelbanen
+               om een gemeenschappelijk middelpunt M.
+               Zie figuur 1.
+               Sterren P en Q hebben dezelfde omlooptijd.
+2p     5       Zet in de tabel op de uitwerkbijlage in elke rij
+               een kruisje in de juiste kolom.
+
+               De ster Sirius lijkt in de tijd heen en weer te
+               bewegen. In 1844 concludeerden astronomen
+               hieruit dat Sirius een dubbelstersysteem is, bestaande uit Sirius A en
+               Sirius B.
+               Dat de twee sterren van Sirius toen niet apart van elkaar werden
+               waargenomen, komt doordat de hoek α waaronder Sirius A en Sirius B
+               vanaf de aarde gezien kunnen worden zeer klein is. Deze hoek kan
+               worden vergeleken met de hoek waaronder koplampen van een auto
+               gezien worden. De (gemiddelde) afstand tussen Sirius A en Sirius B is
+               20 keer zo groot als de afstand tussen de aarde en de zon. Sirius staat op
+               8,7 lichtjaar van de aarde. De afstand tussen twee koplampen is 1,5 m.
+               Zie figuur 2.
+
+               figuur 2
+
+
+
+
+               Sirius A en Sirius B worden onder een bepaalde hoek α gezien vanaf de
+               aarde.
+3p     6       Bereken op welke afstand s van de waarnemer de auto moet staan om de
+               koplampen onder dezelfde hoek α te zien.
+
+
+
+
+HA-1023-a- o                                     5 / 19                         lees verder ►►►
+               In 1862 werd met een verbeterde telescoop de kleinere Sirius B voor het
+               eerst apart van Sirius A gezien. Daarna noteerden astronomen de positie
+               van Sirius B ten opzichte van Sirius A. Sirius B beschrijft dan een baan
+               om Sirius A met de wijzers van de klok mee. Deze baan is een ellips.
+               Zie figuur 3.
+
+               figuur 3
+
+
+
+
+4p     7       Voer de volgende opdrachten uit:
+                Teken in de figuur op de uitwerkbijlage de gravitatiekracht die Sirius B
+                  op Sirius A uitoefent als een pijl met een lengte van 3 cm.
+                Teken de gravitatiekracht die Sirius A op Sirius B uitoefent.
+                Leg uit of de snelheid van Sirius B ten opzichte van Sirius A in deze
+                  situatie toeneemt, afneemt of gelijk blijft.
+
+
+
+
+HA-1023-a- o                                   6 / 19                           lees verder ►►►
+               Uit de waarnemingen waren diverse gegevens over Sirius A en Sirius B te
+               bepalen. Zie figuur 4. Gegevens van sterren worden vaak uitgedrukt in
+               vergelijking met onze zon.
+
+               figuur 4
+                eigenschap                    Sirius A               Sirius B
+                massa                         2,063·Mzon             1,018·Mzon
+                straal                        1,8·Rzon               0,022·Rzon
+                λmax                          293·109 m             117·109 m
+
+               Een van de eigenschappen waarmee sterren onderling vergeleken worden
+               is de dichtheid.
+3p     8       Beredeneer met behulp van figuur 4 welke van de sterren (Sirius A of
+               Sirius B) de grootste dichtheid heeft.
+
+               Sterren zijn op basis van hun eigenschappen in te delen in categorieën.
+               Een vereenvoudigd overzicht van vijf categorieën sterren staat in figuur 5.
+
+               figuur 5
+                categorie    m                             T
+                bruine       0,01∙Mzon < Mster < 0,08∙Mzon               Tster < 1,6∙103 K
+                dwerg
+                rode         0,08∙Mzon < Mster < 0,5∙Mzon   2,3∙103 K < Tster < 3,5∙103 K
+                dwerg
+                witte        0,5∙Mzon < Mster < 1,4∙Mzon    3,5∙103 K < Tster
+                dwerg
+                rode         0,3∙Mzon < Mster < 8∙Mzon                 Tster < 4,75∙103 K
+                reus
+                blauwe       8∙Mzon < Mster                 1,0∙104 K < Tster < 6,0∙104 K
+                reus
+
+4p     9       Toon met een berekening aan in welke categorie Sirius B valt. Gebruik
+               daarbij figuren 4 en 5.
+
+
+
+
+HA-1023-a- o                                       7 / 19                          lees verder ►►►
+       Schommelsprong
+
+               Een schommelsprong is een stunt waarbij een springer aan een speciaal
+               touw van een brug springt. Het touw hangt onder de brug door en is aan
+               de andere zijde bevestigd. Na een korte val recht omlaag gaat de springer
+               daardoor over in een schommelbeweging. Zie de figuren op de
+               uitwerkbijlage.
+
+               In figuur 1 zijn schematisch de beginsituatie en de baan van de beweging
+               getekend. Er wordt gesprongen vanaf punt A. Het touw zit vast in punt B.
+               In het laagste punt van de baan gaat de springer door evenwichtsstand E.
+
+               figuur 1
+
+
+
+
+               Lara voert voor een praktische opdracht metingen uit aan een video van
+               een vrouw die een schommelsprong maakt. Uit de videometing volgt het
+               (v,t)-diagram in figuur 2. Hierbij is de grootte van de snelheid positief
+               weergegeven op de heenweg (van S richting E) en negatief op de
+               terugweg (van E richting S).
+
+
+
+
+HA-1023-a- o                                   8 / 19                            lees verder ►►►
+               figuur 2
+
+
+
+
+               De schommelsprong begint met een val totdat het touw strak staat.
+               Daarna gaat de beweging over in een schommelbeweging. Zie punt S in
+               figuur 1. Een deel van figuur 2 staat vergroot op de uitwerkbijlage.
+3p    10       Bepaal de afstand van de val met behulp van de figuur op de
+               uitwerkbijlage.
+
+               Op het moment dat de springer voor de eerste keer in het laagste punt
+               van de baan door de evenwichtsstand E slingert, is de spankracht in het
+               touw maximaal. Deze maximale spankracht Fs max is op dat moment te
+               bepalen met de volgende formule:
+
+                  Fs max  Fz  Fmpz
+
+               De springer (m = 60 kg) gaat met een snelheid van 16,8 m s1 door de
+               evenwichtsstand E. Het touw heeft een lengte van 18 m.
+
+3p    11       Voer de volgende opdrachten uit:
+                Bereken met behulp van de snelheid de grootte van de
+                  middelpuntzoekende kracht.
+                Toon aan dat de maximale spankracht gelijk is aan 1,5 103 N.
+
+
+
+HA-1023-a- o                                  9 / 19                             lees verder ►►►
+               Bergbeklimmers gebruiken speciaal touw om veilig te kunnen klimmen.
+               Een veelgebruikt klimmerstouw heeft een diameter van 10 mm en een
+               treksterkte van 2,4·108 N m−2. Volgens de fabrikant mag het touw niet
+               zwaarder belast worden dan 20% van de treksterkte. Lara vraagt zich af
+               of dat touw ook sterk genoeg is voor deze schommelsprong met een
+               maximale spankracht van 1,5·103 N.
+4p    12       Toon aan of dit touw sterk genoeg is voor de schommelsprong die Lara
+               heeft onderzocht.
+
+               In de uiterste standen van de schommelbeweging is de snelheid nul. In
+               figuur 3 staan vier verschillende opties voor de kracht of krachten op de
+               springer in de uiterste stand. Voor alle krachten is het bevestigingspunt
+               van het touw als aangrijpingspunt gebruikt. De baan waarlangs de
+               springer beweegt, is ook weergegeven.
+
+               figuur 3
+                I                                        II
+
+
+
+
+                III                                      IV
+
+
+
+
+1p    13       Geef aan welke optie (I, II, III of IV) de resulterende kracht het best
+               weergeeft.
+
+
+
+
+HA-1023-a- o                                   10 / 19                            lees verder ►►►
+               De springer heeft een massa van 60 kg. Ze ondervindt luchtwrijving
+               waardoor ze afgeremd wordt. De rek in het touw wordt hier verwaarloosd.
+4p    14       Bepaal met behulp van de figuur op de uitwerkbijlage de arbeid die de
+               luchtwrijvingskracht heeft verricht tussen het passeren van de
+               evenwichtsstand op tijdstippen tp en tq.
+
+
+
+
+HA-1023-a- o                                 11 / 19                          lees verder ►►►
+       Elektrische eierkoker
+
+               Aart heeft een elektrische eierkoker. Zie figuur 1.
+
+               figuur 1
+
+
+
+
+               Deze eierkoker werkt als volgt:
+               De eierkoker wordt gevuld met maximaal 7 eieren en een beetje koud
+               water en afgedekt met een deksel.
+               Na inschakelen wordt het water door een elektrisch verwarmingselement
+               tot het kookpunt verhit en omgezet in waterdamp. De waterdamp verhit de
+               eieren. Zodra het water volledig is verdampt, loopt de temperatuur van het
+               element op tot boven 100 °C. Op dat moment schakelt het
+               verwarmingselement uit en schakelt een zoemer in.
+
+               Op de uitwerkbijlage staat een deel van het elektrisch schakelschema
+               getekend. In de eierkoker zit een automatische schakelaar T met twee
+               standen. Als de temperatuur lager is dan of gelijk is aan 100 °C staat de
+               schakelaar in stand I. Als de temperatuur hoger is dan 100 °C staat de
+               schakelaar in stand II.
+
+               De eierkoker voldoet aan de volgende drie ontwerpeisen:
+               1 De eierkoker gaat aan en uit met een schakelaar S.
+               2 Als het verwarmingselement R aan is, brandt een controlelampje L.
+                  Beide werken op een spanning van 230 V.
+               3 Als de temperatuur boven de 100 °C komt, schakelen R en L uit en
+                  schakelt een zoemer Z in.
+
+4p    15       Teken op de uitwerkbijlage de overige draden in het schema zodat de
+               eierkoker functioneert volgens de drie ontwerpeisen.
+
+
+
+
+HA-1023-a- o                                   12 / 19                           lees verder ►►►
+               De eierkoker heeft een deksel met een gaatje waar waterdamp door
+               ontsnapt. Zie figuur 1.
+
+               De werktijd t is de tijd tussen het aanzetten van de eierkoker en het
+               automatisch uitschakelen van het verwarmingselement.
+
+               Aart meet nog zonder eieren hoe t afhangt van de massa van het water.
+               Hij voert de metingen uit zonder deksel en met deksel. Het resultaat staat
+               in figuur 2.
+
+               figuur 2
+
+
+
+
+               Aart ziet dat waterdamp op het deksel condenseert en terugloopt in de
+               eierkoker.
+2p    16       Leg uit dat deze waarneming in overeenstemming is met zijn meting dat
+               de werktijd met deksel langer is dan zonder deksel.
+
+               De werktijd t wordt bepaald door het ontwerp van de eierkoker. Op de
+               uitwerkbijlage staat een tabel met mogelijke aanpassingen in het ontwerp.
+2p    17       Geef per aanpassing aan of t daardoor afneemt of toeneemt.
+
+
+
+
+HA-1023-a- o                                   13 / 19                            lees verder ►►►
+               In de gebruiksaanwijzing vindt Aart een tabel met een opvallende
+               opmerking. Zie figuur 3.
+
+               figuur 3
+                ‘Hoe meer eieren er gekookt worden, hoe minder water er toegevoegd
+                hoeft te worden.’
+                aantal eieren                        1     2     3      4     5     6      7
+                toe te voegen water (gram)           52    48    44     40    36    32     28
+               Aart meet t voor 1 tot en met 7 eieren en zet zijn resultaten in een grafiek.
+               Zie figuur 4. Voor iedere meting zijn het deksel en de voorgeschreven
+               hoeveelheid water gebruikt.
+
+               figuur 4
+
+
+
+
+               In figuur 4 staat ook de grafiek van de eerdere metingen met deksel,
+               zonder eieren. In figuur 4 is te zien dat t voor 7 eieren en 28 gram water
+               veel langer is dan voor alleen 28 gram water. Voor 1 ei en 52 gram water
+               is t maar iets langer dan voor alleen 52 gram water.
+
+               Het rendement van het koken van de eieren is de verhouding tussen de
+               nuttige energie die door de eieren is opgenomen en de totale elektrische
+               energie die de eierkoker heeft opgenomen.
+3p    18       Leg met behulp van figuur 4 uit of het rendement van de eierkoker bij het
+               in één keer koken van 7 eieren groter is dan, kleiner is dan of even groot
+               is als bij het koken van 1 ei.
+
+
+
+
+HA-1023-a- o                                   14 / 19                             lees verder ►►►
+               Het verwarmingselement heeft een vermogen van 320 W.
+               Op internet leest Aart dat een ei tijdens het koken ongeveer 14 kJ energie
+               opneemt.
+3p    19       Toon met figuur 4 en met een berekening aan of deze stelling kan kloppen
+               voor het koken van 1 ei met de eierkoker.
+
+               Tot slot wil Aart weten of eieren koken met de elektrische eierkoker
+               energiezuiniger is dan eieren koken in een pan met water op een gaspit.
+               Hij kookt vier eieren op een gaspit. Zie figuur 5.
+
+               figuur 5
+
+
+
+
+               De elektrische eierkoker gebruikt voor het koken van vier eieren
+               5,7 ∙ 102 kWh elektrische energie. Met de pan gebruikt Aart 14 gram
+               aardgas.
+3p    20       Toon met een berekening aan of de elektrische eierkoker energiezuiniger
+               is dan de gaspit bij het koken van vier eieren. Ga uit van ‘Gronings’
+               aardgas (Binas) of ‘gemiddeld’ aardgas (Sciencedata).
+
+
+
+
+HA-1023-a- o                                  15 / 19                           lees verder ►►►
+       Stralingsdetectie
+
+               In een ziekenhuis wordt vaak gewerkt met radioactieve isotopen.
+               Medewerkers moeten daarbij goed in de gaten houden dat ze geen te
+               grote stralingsdosis oplopen. Hiervoor bestaan verschillende vormen van
+               stralingsdetectie.
+               Een van de isotopen waarmee wordt gewerkt is kobalt-60. Op de
+               uitwerkbijlage staat een (N,Z)-diagram. Hierin is Z het aantal protonen en
+               N het aantal neutronen in een kern.
+               Kobalt-60 zendt β- en γ-straling uit.
+4p    21       Voer de volgende opdrachten uit:
+                Geef de vergelijking van de vervalreactie van kobalt-60.
+                Geef op de uitwerkbijlage deze reactie in het (N,Z)-diagram aan met
+                   een pijl.
+
+               Bij een bepaalde methode van stralingsdetectie wordt gebruikt gemaakt
+               van een zogenaamde badge. Deze wordt door een medewerker aan de
+               kleding bevestigd. Zie figuur 1.
+
+               figuur 1                            figuur 2
+
+
+
+
+               Een badge registreert hoeveel ioniserende straling er op valt. In een
+               bepaalde badge zit filmmateriaal dat steeds donkerder wordt naarmate er
+               meer ioniserende straling op valt. Vóór de film zijn drie verschillende
+               ‘vensters’ naast elkaar aangebracht. Zie figuur 2. Deze vensters zijn ieder
+               van een ander materiaal gemaakt:
+               1 mica
+               2 karton
+               3 lood
+
+
+
+
+HA-1023-a- o                                   16 / 19                           lees verder ►►►
+               De badge wordt geraakt door γ-straling afkomstig van een bepaalde bron.
+               Lood heeft een halveringsdikte van 0,061 cm voor deze fotonen. Karton
+               heeft een grotere halveringsdikte. Het karton en het lood hebben elk een
+               dikte van 0,183 cm.
+3p    22       Beantwoord de volgende vragen:
+                Bereken het percentage van de γ-straling dat door het lood wordt
+                   doorgelaten.
+                Leg uit of het percentage doorgelaten γ-straling bij het karton groter is
+                   dan, kleiner is dan of even groot is als bij het lood.
+
+               Na verloop van tijd wordt de badge geopend en is uit de kleur van het
+               filmmateriaal af te leiden welke soort straling de badge heeft geraakt.
+               Gegeven is dat α-straling alleen door mica heen gaat en β-straling zowel
+               door mica als karton.
+               Op de uitwerkbijlage staan twee badges die ieder gedurende langere tijd
+               door één soort straling geraakt zijn.
+1p    23       Omcirkel voor iedere badge de soort straling die de film op deze manier
+               heeft gekleurd.
+
+
+
+
+HA-1023-a- o                                   17 / 19                           lees verder ►►►
+               De badge wordt tegenwoordig vaak vervangen door een modernere
+               stralingsdetector, de draagbare geiger-müllerteller (GMT). Zie figuur 3.
+
+               figuur 3                            figuur 4
+
+
+
+
+               Een GMT bevat een serieschakeling van een telbuis en een weerstand R.
+               Zie figuur 4. De telbuis is gevuld met een niet-geleidend gas. Over de
+               telbuis staat een spanning. Zolang er geen ioniserende straling op de
+               telbuis valt, werkt deze telbuis als een open schakelaar in de
+               serieschakeling. Wanneer ioniserende straling door het venster valt en het
+               gas raakt, wordt een deel van de gasatomen gesplitst in ionen en
+               elektronen.
+               Op de uitwerkbijlage staat een tabel over de beweging van de deeltjes in
+               de telbuis.
+2p    24       Geef met een kruisje in iedere rij aan in welke richting de deeltjes
+               bewegen.
+
+               Door de ioniserende straling werkt de telbuis even als een gesloten
+               schakelaar. Hierdoor verandert de spanning U over weerstand R. Zie
+               figuur 4. Dit wordt door een teller geregistreerd.
+2p    25       Leg uit wat er gebeurt met de spanning U over weerstand R zodra de
+               telbuis geraakt wordt door ioniserende straling.
+
+               De GMT van figuur 3 wordt gedragen door een werknemer (ouder dan
+               18 jaar) die beroepshalve te maken heeft met straling. Deze werknemer
+               leest de meetwaarde af van het scherm. Zie figuur 3.
+3p    26       Leg met een berekening uit of deze werknemer met deze
+               stralingsbelasting het risico loopt om over de jaarlijkse dosislimiet voor
+               werknemers te gaan.
+
+
+
+
+HA-1023-a- o                                   18 / 19                            lees verder ►►►
+               De GMT heeft als technisch ontwerp voordelen ten opzichte van de badge
+               als het gaat om de bescherming van de medewerker.
+1p    27       Geef een voordeel van de GMT ten opzichte van de badge.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-1023-a- o                                             19 / 19                                          lees verdereinde
+                                                                                                                       ►►► 
+

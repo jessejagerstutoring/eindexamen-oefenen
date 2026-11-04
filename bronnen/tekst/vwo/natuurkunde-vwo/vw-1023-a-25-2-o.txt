@@ -1,0 +1,542 @@
+                                                                    Examen VWO
+
+                                                                        2025
+                                                                               tijdvak 2
+                                                                              dinsdagd
+                                                                        dinsdag 17   juni
+                                                                          13.30 - 16.30
+
+
+                                                                     natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld
+
+
+VW-1023-a-25-2-o
+      Lampjespracticum
+
+            In een practicum worden de eigenschappen van een gloeilampje
+            onderzocht. In figuur 1 is hiervan het (I,U)-diagram weergegeven.
+
+            figuur 1
+
+
+
+
+3p    1     Leg met behulp van figuur 1 uit of het lampje beschouwd kan worden als
+            een PTC of als een NTC.
+                                                         figuur 2
+            Twee van deze lampjes worden in serie
+            aangesloten op een regelbare
+            gelijkspanningsbron. Zie figuur 2.
+            Een spanningsmeter wordt toegevoegd
+            aan de schakeling om de spanning over
+            lampje L1 te meten.
+
+            De spanningsbron wordt zo ingesteld dat de spanningsmeter 5,0 V
+            aangeeft.
+4p    2     Bepaal met behulp van figuur 1 de grootte van de totale weerstand van
+            beide lampjes samen. Noteer je antwoord in twee significante cijfers.
+
+
+VW-1023-a-25-2-o                           2 / 17                           lees verder ►►►
+            Vervolgens wordt parallel aan lampje L1 een ohmse weerstand
+            toegevoegd. De bronspanning blijft gelijk en toch gaan beide lampjes
+            hierdoor anders branden. Met een stroommeter wordt de totale
+            stroomsterkte gemeten.
+2p    3     Maak op de uitwerkbijlage het schakelschema van de opstelling compleet,
+            inclusief beide meters.
+
+4p    4     Voer de volgende opdrachten uit:
+             Leg uit of de totale stroomsterkte nu groter of kleiner is geworden.
+             Leg voor elk lampje uit of dit nu feller of minder fel brandt dan eerst.
+
+
+
+
+VW-1023-a-25-2-o                             3 / 17                            lees verder ►►►
+      Springende hydrogelballetjes
+
+            Op internet zijn verschillende filmpjes te vinden van hydrogelballetjes, die
+            in een hete koekenpan hevig op en neer stuiteren. Zie figuur 1.
+
+                                                   figuur 1
+            Hydrogelballetjes zijn elastische
+            balletjes die voor het grootste deel
+            uit water bestaan. Ze hebben een
+            massa van 1,75 gram per balletje.
+
+
+
+
+            Nathalie en Karim zijn gefascineerd door de filmpjes en onderzoeken de
+            beweging van de hydrogelballetjes. In hun eerste experiment laten ze een
+            hydrogelballetje los vanaf een hoogte van 9,2 cm boven een koude
+            koekenpan. Met behulp van videometen maken ze een ( y,t)-diagram van
+            de beweging van het balletje. Zie figuur 2. Hierin is y de positie van de
+            onderkant van het balletje.
+
+            figuur 2
+
+
+
+
+            De hele stuiterbeweging is de beweging van top tot top. Nathalie en Karim
+            delen deze beweging op in drie delen:
+            I het naar beneden vallen van het balletje
+            II het stuiteren op de koekenpan, dit noemen ze de “stuit”
+            III het naar boven bewegen van het balletje
+
+
+
+
+VW-1023-a-25-2-o                             4 / 17                            lees verder ►►►
+            Na een stuit bereikt het balletje een kleinere maximale hoogte dan
+            daarvoor. Het balletje verliest dus energie.
+
+            Op de uitwerkbijlage staat een deel van figuur 2 vergroot weergegeven.
+3p    5     Bepaal met behulp van de figuur op de uitwerkbijlage het energieverlies
+            van het balletje tijdens de eerste hele stuiterbeweging. Noteer je antwoord
+            in twee significante cijfers.
+
+            Nathalie en Karim willen weten wat de oorzaak van het energieverlies is.
+            Daarvoor hebben ze twee mogelijkheden bedacht:
+            1 Het energieverlies wordt veroorzaakt door luchtweerstand.
+            2 Het energieverlies wordt veroorzaakt tijdens de stuit.
+
+            mogelijkheid 1
+            Het energieverlies door de luchtweerstand kan berekend worden uit de
+            beginhoogte van 9,2 cm en de snelheid waarmee het balletje de pan
+            raakt. Helaas blijkt de bepaling van deze snelheid uit de beschikbare
+            metingen zo onnauwkeurig te zijn dat het energieverlies zowel 0% als
+            13% kan zijn en alles daar tussenin.
+4p    6     Voer de volgende opdrachten uit:
+             Bereken de snelheid waarmee het balletje de pan raakt als het
+               energieverlies door luchtweerstand gelijk is aan 13%.
+             Toon aan dat deze snelheid zonder energieverlies door
+               luchtweerstand even groot is, als je de berekende snelheden in het
+               juiste aantal significante cijfers noteert.
+
+            mogelijkheid 2
+4p    7     Leg uit hoe je met behulp van de figuur op de uitwerkbijlage zou kunnen
+            bepalen hoe groot het energieverlies, in procenten, is tijdens de stuit. Laat
+            duidelijk zien hoe je de figuur hierbij moet gebruiken.
+
+
+
+
+VW-1023-a-25-2-o                             5 / 17                            lees verder ►►►
+            Helaas blijken de metingen van Nathalie en Karim te onnauwkeurig om te
+            bepalen wat de oorzaak van het energieverlies is. Onderzoekers in Leiden
+            hebben het gedrag van de hydrogelballetjes ook onderzocht. Om het
+            energieverlies nauwkeurig te kunnen bepalen hebben zij de
+            stuiterbeweging gefilmd met een hogesnelheidscamera. Ze lieten de
+            balletjes van verschillende hoogtes vallen op een koude koekenpan. Bij
+            elke valhoogte h bepaalden zij hoe groot het energieverlies is bij één
+            stuiterbeweging. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+VW-1023-a-25-2-o                           6 / 17                          lees verder ►►►
+            Vervolgens lieten de onderzoekers de balletjes vallen op een hete
+            koekenpan. Ze namen waar dat de balletjes gedurende enkele minuten
+            bleven stuiteren en dat hun stuiterhoogte al na een paar seconden niet
+            meer afnam. Dit laatste noemen we de ‘stabiele situatie’. De massa van
+            de balletjes verandert in deze situatie niet.
+            In figuur 4 is het y(t)-diagram weergegeven van balletjes die stuiteren op
+            een hete koekenpan.
+
+            figuur 4
+
+
+
+
+            De figuren 3 en 4 zijn vergroot op de uitwerkbijlage weergegeven.
+2p    8     Bepaal met behulp van de figuren op de uitwerkbijlage hoeveel energie de
+            hete koekenpan per stuit overdraagt aan het balletje tijdens de stabiele
+            situatie. Noteer je antwoord in één significant cijfer.
+
+
+
+
+VW-1023-a-25-2-o                            7 / 17                            lees verder ►►►
+      Sterrenlicht
+
+            Het spectrum van een ster is een belangrijke bron van informatie over de
+            natuurkundige eigenschappen ervan. Om dit spectrum zichtbaar te maken
+            is niet per se een dure ingewikkelde professionele telescoop nodig. Dit
+            kan al met een amateurtelescoop en een gewone digitale camera waar
+            een tralie voor geplaatst wordt. Zie figuur 1.
+            figuur 1
+
+
+
+
+            De afbuighoek α van de eerste-orde-maxima hangt af van de kleur van
+            het sterrenlicht. De cameralens beeldt deze maxima af op een beeldchip.
+            Hierbij geldt: hoe groter hoek α, des te verder het afgebeelde maximum
+            van het midden van de chip ligt.
+
+            Op de chip worden nu beide eerste-orde-spectra van de ster zichtbaar.
+            Het nulde-orde-maximum is een afbeelding van de ster zelf. Zie figuur 2.
+            figuur 2
+
+
+
+
+            Er zijn tralies verkrijgbaar met 200 lijnen per millimeter en met 100 lijnen
+            per millimeter. Met beide tralies worden de eerste-orde-spectra op de chip
+            afgebeeld. Om deze spectra zo nauwkeurig mogelijk te kunnen
+            waarnemen moet de afbeelding zo groot mogelijk zijn.
+2p    9     Leg uit welke van de tralies hiervoor gekozen moet worden.
+
+            In figuur 2 zijn met Gr de plekken aangegeven waar groen licht, met een
+            golflengte van 0,58 μm, wordt afgebeeld. Het gebruikte tralie heeft
+            100 lijnen per millimeter.
+3p   10     Bereken de afbuighoek α waarover het licht met deze kleur door het tralie
+            wordt afgebogen.
+
+
+
+VW-1023-a-25-2-o                            8 / 17                             lees verder ►►►
+            Luna vergelijkt de afbeelding die met behulp van een tralie gemaakt wordt
+            met het interferentiepatroon van een dubbele spleet. Zij weet dat dit
+            interferentiepatroon een weergave is van de waarschijnlijkheid om het
+            foton op een bepaalde plaats te kunnen detecteren. Bij een tralie liggen
+            de plaatsen van de maxima op de chip bij een gegeven golflengte vast.
+            Hieruit concludeert Luna dat fotonen met dezelfde golflengte bij een tralie
+            op dezelfde plaats op de chip vallen en dat er dus geen sprake is van een
+            waarschijnlijkheidsverdeling voor de detectie van fotonen op de chip.
+2p   11     Leg uit dat Luna geen gelijk heeft.
+
+
+
+
+VW-1023-a-25-2-o                            9 / 17                            lees verder ►►►
+      Experiment van Millikan
+
+            In 1909 voerden Robert Millikan en Harvey Fletcher een experiment uit
+            waarmee ze de lading van het elektron bepaalden. In figuur 1 staat een
+            opstelling voor dit experiment afgebeeld. In figuur 2 is de opstelling
+            schematisch weergegeven. In het bovenste gedeelte wordt olie verneveld
+            tot kleine druppeltjes. De druppeltjes krijgen met behulp van ioniserende
+            straling een lading. Door een kleine opening in de bovenste van twee
+            platen kunnen enkele druppels omlaag vallen in het onderste gedeelte.
+            Tussen deze platen kan een homogeen elektrisch veld gecreëerd worden
+            door een spanningsbron aan te sluiten op de platen. Wanneer daar geen
+            spanning over staat, vallen de druppels naar beneden. Als er wel een
+            spanning staat kunnen de druppels ook omhoog bewegen. Tijdens het
+            experiment lieten Millikan en Fletcher een druppel een aantal keren op en
+            neer bewegen.
+
+            figuur 1                          figuur 2
+
+
+
+
+            Om de lading van één zo’n druppel te bepalen moet eerst de straal van
+            die druppel bepaald worden. Deze kan bepaald worden door de
+            valsnelheid van de druppel te meten op het moment dat er geen spanning
+            over de platen staat. Tijdens het vallen werken er dan twee krachten op
+            de druppel, de zwaartekracht Fz en de wrijvingskracht Fw.
+            Voor de wrijvingskracht geldt:
+                                            Fw  6π rv                                 (1)
+
+            Hierin is:
+              de viscositeit van de lucht, ook wel stroperigheid genoemd
+             r de straal van de druppel
+             v de snelheid van de druppel
+
+            De grootte van de viscositeit is 1,828 105 , uitgedrukt in SI-eenheden.
+3p   12     Leid met behulp van formule (1) de eenheid van de viscositeit  af in
+            (grond)eenheden van het SI, zoals ze staan in Binas-tabel 3A en
+            ScienceData-tabel 1.3a.
+
+
+
+
+VW-1023-a-25-2-o                            10 / 17                             lees verder ►►►
+            De bolvormige druppel valt met een constante valsnelheid. Door deze
+            snelheid te meten kan de straal van een druppel bepaald worden. Voor de
+            straal geldt dan:
+                                                     9 v
+                                             r                                       (2)
+                                                   2 g  olie
+
+            Hierin is:
+             g        de valversnelling
+             olie de dichtheid van de olie
+
+            De overige grootheden zijn dezelfde als in formule (1).
+
+4p   13     Leid formule (2) af met behulp van formule (1) en formules uit het
+            informatieboek.
+
+            Tijdens het vallen werkt er eigenlijk nog een tweede omhoog gerichte
+            kracht op de druppel. Dit is de opwaartse kracht. De grootte van deze
+            kracht is gelijk aan de zwaartekracht op de hoeveelheid lucht die door de
+            druppel wordt verplaatst. Het volume van de verplaatste lucht is dus gelijk
+            aan het volume van de oliedruppel.
+            De opwaartse kracht is verwaarloosbaar klein ten opzichte van de
+            zwaartekracht op de druppel.
+            Millikan vond voor de druppel een valsnelheid van 0,084 cm s−1. De straal
+            van de druppel is dan gelijk aan 2,7 μm.
+
+4p   14     Voer de volgende opdrachten uit:
+             Toon aan dat de dichtheid van de olie, die Millikan gebruikte, gelijk is
+               aan 9,7 102 kg m 3 .
+                  Leg uit dat de opwaartse kracht verwaarloosbaar is ten opzichte van
+                   de zwaartekracht op de druppel.
+
+            Door de ioniserende-stralingsbron ontstaan er in het bovenste gedeelte
+            van de opstelling vrije elektronen in de lucht. Deze elektronen hechten
+            aan de oliedruppel, waardoor de druppel een lading krijgt.
+
+            Om het homogene elektrisch veld te maken wordt een spanning
+            aangesloten tussen de platen. Zie figuur 2.
+
+
+
+
+VW-1023-a-25-2-o                              11 / 17                          lees verder ►►►
+            Voor de elektrische veldsterkte tussen de platen geldt:
+                                                      U
+                                               E                                        (3)
+                                                      d
+            Hierin is:
+             E de sterkte van het elektrisch veld
+             U de spanning
+             d de afstand tussen de platen
+
+            De gebruikte spanning is 5,1 kV. De afstand tussen de platen is 16 mm.
+            De richting van het elektrisch veld is zodanig dat de druppel uiteindelijk
+            met een constante snelheid omhoog beweegt.
+
+            Een deel van figuur 2 staat ook op de uitwerkbijlage.
+3p   15     Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage het elektrisch veld tussen de
+               platen. Gebruik daarbij minimaal vijf veldlijnen.
+             Toon aan dat de grootte van het elektrisch veld tussen de platen gelijk
+               is aan 3, 2  105 N C 1 .
+
+            Op de uitwerkbijlage staat de druppel weergegeven. In de figuur zijn de
+            zwaartekracht en de wrijvingskracht op de druppel op schaal
+            weergegeven.
+5p   16     Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage de elektrische kracht op de
+               druppel.
+             Bepaal de lading van de druppel. Noteer je antwoord in twee
+               significante cijfers.
+
+            Millikan heeft op deze manier de lading voor veel verschillende druppels
+            bepaald. Hij kwam erachter dat de lading elke keer een veelvoud van
+            hetzelfde getal was. Dit getal is het elementair ladingsquantum. In figuur 3
+            staat de lading van 15 verschillende druppels op een horizontale as. De
+            streepjes boven de as geven de verschillende metingen aan. Je mag
+            aannemen dat het elementair ladingsquantum uit deze metingen te
+            bepalen is.
+            In 1909 drukte men de lading standaard uit in ESU. Er geldt:
+            1 ESU  3,34 1010 C .
+            figuur 3
+
+
+
+
+3p   17     Bepaal met behulp van figuur 3 het elementair ladingsquantum in
+            coulomb. Noteer je antwoord in drie significante cijfers.
+
+
+VW-1023-a-25-2-o                            12 / 17                            lees verder ►►►
+      Lever zichtbaar maken
+
+            Voor een bepaald medisch onderzoek          figuur 1
+            is het nodig om de lever van een patiënt in
+            beeld te brengen. Dit kan onder andere
+            met röntgenstralen. De patiënt ligt dan
+            boven een röntgenbron en boven de
+            patiënt bevindt zich een fotodetector die
+            meet hoeveel röntgenstraling er door de
+            patiënt heen gaat. Dit is schematisch
+            weergegeven in figuur 1.
+
+            De röntgenfotonen hebben een energie
+            van 100 keV. De romp van de patiënt laat gemiddeld 1,2% van de fotonen
+            door. Neem aan dat de gemiddelde halveringsdikte van lichaamsweefsel
+            gelijk is aan de halveringsdikte van water.
+3p   18     Bereken de gemiddelde dikte van de romp van de patiënt.
+
+            De halveringsdikte van de lever verschilt enigszins van de halveringsdikte
+            van ander lichaamsweefsel. Door dit verschil is het mogelijk om op de
+            röntgenfoto de lever te onderscheiden van het omliggende
+            lichaamsweefsel. Voor leverweefsel geldt:
+                                     d 1 2, leverweefsel  0,9  d 1 2, water
+
+            Om de lever goed te kunnen zien moet het contrast in de afbeelding zo
+            groot mogelijk zijn. Dit contrast wordt gedefinieerd als de verhouding van
+            de doorgelaten intensiteiten van lever- en lichaamsweefsel. In
+            formulevorm:
+                                                I 
+                                                
+                                                I 0 leverweefsel
+                                    contrast                                          (1)
+                                                I 
+                                                
+                                                I 0 lichaamsweefsel
+            Op de uitwerkbijlage staat een grafiek waarin voor water de doorgelaten
+            stralingsintensiteit ten opzichte van de opvallende intensiteit van de
+            röntgenstraling is uitgezet tegen het aantal halveringsdiktes van water.
+5p   19     Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage de grafiek voor leverweefsel.
+             Leg met behulp van de grafiek en Binas-tabel 28F of ScienceData-
+                tabel 5.9 uit of het contrast het grootst is bij kleine of juist grote
+                fotonenergie.
+
+
+
+
+VW-1023-a-25-2-o                                13 / 17                         lees verder ►►►
+      WASP
+
+            WASP-31b is een zogenaamde exoplaneet. Exoplaneten zijn planeten die
+            niet om de zon draaien, maar om een andere ster. De exoplaneet WASP-
+            31b draait om de ster WASP-31. Zie figuur 1 voor een zogenaamde
+            artist’s impression. In de rest van deze opgave wordt WASP-31b de
+            exoplaneet genoemd en WASP-31 de ster.
+            In 2021 is een team van Europese astronomen erin geslaagd om de
+            aanwezigheid van verschillende moleculen aan te tonen in de atmosfeer
+            van de exoplaneet.
+
+            figuur 1
+
+
+
+
+            Het totale stralingsvermogen P van de ster is 2,0 keer zo groot als dat van
+            de zon. De oppervlaktetemperatuur van de ster is 6,30·103 K.
+
+            Op de uitwerkbijlage staat een Hertzsprung-Russelldiagram weergegeven.
+3p   20     Teken in het diagram op de uitwerkbijlage de positie van de ster. Licht je
+            antwoord toe met een berekening.
+
+            Exoplaneten worden vaak ontdekt met         figuur 2
+            behulp van de zogenaamde
+            transitmethode. Als de exoplaneet
+            voor een ster langs beweegt, wordt
+            dat een transit genoemd. Zie figuur 2.
+
+
+
+
+VW-1023-a-25-2-o                           14 / 17                           lees verder ►►►
+            Tijdens een transit wordt een             figuur 3
+            gedeelte van het licht van de ster
+            geblokkeerd en zal de gemeten
+            intensiteit van de ster tijdelijk
+            afnemen. Zie figuur 3.
+
+
+
+
+            De exoplaneet behoort tot de zogenaamde ‘hete jupiters’, een type
+            exoplaneet dat goed te observeren is via de transitmethode. Deze hete
+            jupiters kenmerken zich doordat:
+             ze relatief groot zijn, namelijk vergelijkbaar met de grootte van de
+                planeet Jupiter,
+             de baanstraal relatief klein is en de exoplaneet daardoor een kleine
+                omlooptijd heeft.
+
+2p   21     Geef, voor elk van beide kenmerken, een reden waardoor dit kenmerk
+            zorgt voor een grotere kans op ontdekking via de transitmethode.
+
+            De massa van de ster is 1,2 keer zo groot als de massa van de zon. De
+            exoplaneet voert een cirkelbeweging uit met een baansnelheid van
+            1,5 105 ms 1 .
+4p   22     Bereken de verhouding tussen de baanstraal van de exoplaneet en die
+            van Jupiter.
+
+            De exoplaneet heeft een eigen atmosfeer. Het licht van de ster kan hier
+            doorheen schijnen (transmissie). Zie figuur 4. Door dit licht te
+            onderzoeken kan informatie verkregen worden over de samenstelling van
+            de atmosfeer van de exoplaneet.
+            figuur 4
+
+
+
+
+1p   23     Geef aan of het licht dat op aarde wordt waargenomen een
+            absorptiespectrum of een emissiespectrum van de atmosfeer van de
+            exoplaneet laat zien.
+
+
+
+VW-1023-a-25-2-o                            15 / 17                         lees verder ►►►
+            Door de transit van de exoplaneet bij verschillende golflengtes waar te
+            nemen, kan de atmosfeer van de exoplaneet onderzocht worden. Dit
+            principe kan duidelijk gemaakt worden aan de hand van een simulatie,
+            waarin het effect wordt berekend van de atmosfeer van de exoplaneet op
+            de gemeten intensiteit bij verschillende golflengtes. Door een bepaalde
+            samenstelling van de atmosfeer van de exoplaneet aan te nemen, kan
+            berekend worden hoe de meting van figuur 3 eruit zou zien bij
+            verschillende golflengtes. Drie van deze simulaties staan in figuur 5.
+
+            figuur 5
+
+
+
+
+            In het model waarmee deze berekeningen zijn gedaan, is uitgegaan van
+            twee opties: óf het licht van de betreffende golflengte gaat ongehinderd
+            door de atmosfeer van de exoplaneet heen, óf het wordt volledig
+            tegengehouden.
+            Met behulp van de grafieken van figuur 5 is het mogelijk het spectrum te
+            reconstrueren dat tijdens een transit gemeten wordt. In figuur 6 zijn
+            vier mogelijkheden weergegeven. De stippellijn geeft hierbij de situatie
+            aan wanneer het licht niet zou worden tegengehouden door de atmosfeer.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1023-a-25-2-o                          16 / 17                          lees verder ►►►
+            figuur 6
+
+
+
+
+2p   24     Leg uit welk spectrum in figuur 6 (I, II, III of IV) overeenkomt met de
+            simulaties in figuur 5.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-25-2-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

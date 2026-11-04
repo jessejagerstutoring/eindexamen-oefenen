@@ -1,0 +1,485 @@
+                                                                    Examen VWO
+
+                                                                        2026
+                                                                               tijdvak 2
+                                                                        dinsdag 16 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 64 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-26-2-o
+          Ga verder op de volgende pagina.
+
+
+
+
+VW-1028-a-26-2-o                       2 / 14   lees verder ►►►
+           Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+           T = 298 K en p = p0.
+
+
+     Fischer-Tropsch
+
+           In de jaren 20 van de vorige eeuw ontwikkelden de Duitse geleerden
+           Fischer en Tropsch een proces om synthesegas om te zetten tot vloeibare
+           brandstoffen. Synthesegas is een gasmengsel van koolstofmono-oxide en
+           waterstof. Bij de zogeheten Fischer-Tropsch-reactie ontstaan diverse
+           koolwaterstoffen, vooral alkanen. Als bijproduct ontstaat alleen water.
+
+3p   1     Geef de reactievergelijking voor de vorming van een alkaan via de
+           Fischer-Tropsch-reactie. Gebruik CnH2n + 2 als algemene formule van een
+           alkaan.
+
+           De benodigde koolstofmono-oxide en waterstof kunnen uit allerlei
+           grondstoffen worden bereid, zoals kolen, aardgas of biomassa.
+           Biomassa moet worden voorbewerkt, bijvoorbeeld door het te verhitten,
+           waardoor het gehalte koolstof stijgt. In figuur 1 is een schema gegeven
+           van de energiestromen tijdens het verhitten van biomassa.
+
+           figuur 1
+
+
+
+
+2p   2     Bereken het energierendement van deze omzetting van biomassa tot
+           bewerkte biomassa.
+
+           De bewerkte biomassa wordt vervolgens met lucht omgezet tot een
+           gasmengsel dat onder andere koolstofmono-oxide en waterstof bevat.
+           In figuur 2 is een onvolledig blokschema weergegeven van een fabriek die
+           met behulp van de Fischer-Tropsch-reactie stoffen zoals nafta en diesel
+           produceert.
+
+
+
+
+ VW-1028-a-26-2-o                           3 / 14                           lees verder ►►►
+           figuur 2
+
+
+
+
+           In reactor 1 (R1) treden de Fischer-Tropsch-reactie en evenwicht 1 op.
+           CO (g) + H2O (g)        CO2 (g) + H2 (g)                  (evenwicht 1)
+           Van evenwicht 1 is de reactiewarmte van de reactie naar rechts
+           – 4,1·104 J per mol CO. De verhouding tussen de stoffen CO en H2 in de
+           stofstroom die R1 verlaat, kan worden geoptimaliseerd door de
+           omstandigheden in de reactor te variëren. Door de temperatuur te
+           veranderen, kan via evenwicht 1 meer of juist minder H2 gevormd worden.
+
+2p   3     Leg uit of de temperatuur verhoogd of verlaagd moet worden om
+           evenwicht 1 meer naar rechts te laten verschuiven.
+
+
+
+
+ VW-1028-a-26-2-o                          4 / 14                            lees verder ►►►
+           De reacties in R1 verlopen niet volledig. Een nadeel van de Fischer-
+           Tropsch-reactie is dat in R1 een mengsel ontstaat waarin zich alkanen
+           bevinden met één tot zeer veel koolstofatomen per molecuul. Dit mengsel
+           wordt met C1+ aangeduid.
+           In scheidingsruimte 2 (S2) wordt de fractie alkanen met vijf of meer dan
+           vijf koolstofatomen per molecuul (C5+) afgescheiden van de rest van het
+           reactiemengsel. De rest van het mengsel, waarin zich onder andere de
+           alkanen bevinden met 1 tot en met 4 C-atomen per molecuul ( C1 - C4),
+           wordt doorgevoerd naar scheidingsruimte 4 (S4). In S4 wordt het mengsel
+           afkomstig uit S2 gescheiden met behulp van extractie. Dit wordt gedaan
+           omdat een scheiding van de stoffen door afkoeling van het mengsel niet
+           het gewenste resultaat geeft. Het extractiemiddel dat wordt gebruikt, is
+           niet opgenomen in het blokschema.
+
+2p   4     Leg uit, met behulp van de kookpunten van de betrokken stoffen, dat deze
+           scheiding in S4 inderdaad niet kan worden uitgevoerd door afkoeling van
+           het mengsel.
+            Gebruik informatie uit het blokschema;
+            Neem hierbij aan dat het kookpunt van CO2 195 K is;
+            Gebruik je informatieboek.
+
+           De fractie C1 - C4 afkomstig uit S4 wordt in reactor 3 (R3) met behulp van
+           zuurstof geheel omgezet tot waterstof en koolstofmono-oxide. R3 is niet in
+           het blokschema opgenomen. De fractie C5+ afkomstig uit S2 ondergaat in
+           reactor 2 (R2) een reactie die hydrocracking wordt genoemd. Tijdens
+           hydrocracking worden C–C-bindingen in de alkanen verbroken. Hierbij
+           ontstaan onder andere onverzadigde koolwaterstoffen. Vervolgens
+           worden in dezelfde reactor de ontstane onverzadigde koolwaterstoffen
+           met waterstof onder invloed van een katalysator omgezet tot alkanen. Op
+           de uitwerkbijlage is het energiediagram voor de vorming van propaan uit
+           propeen (R2) tweemaal onvolledig weergegeven: met en zonder
+           katalysator.
+
+3p   5     Voer op de uitwerkbijlage de volgende opdrachten uit:
+            Leg uit of deze vorming van propaan uit propeen een exotherme of
+              een endotherme reactie is. Gebruik Binas-tabel 57 of
+              ScienceData-tabel 9.2.
+            Teken de ontbrekende energieniveaus met bijbehorende bijschriften
+              zodat duidelijk wordt wat de invloed van de katalysator is.
+
+
+
+
+ VW-1028-a-26-2-o                           5 / 14                           lees verder ►►►
+           Door de reacties in R2 ontstaat uiteindelijk een mengsel dat weer kan
+           worden aangeduid met C1+. In S3 wordt het mengsel afkomstig uit R2
+           gescheiden in vier fracties. De fractie C1 - C4 wordt teruggevoerd in het
+           proces. De fracties C5 - C11 en C12 - C20 worden verkocht als nafta en
+           diesel. Van de fractie C21+ wordt een deel verkocht en de rest wordt
+           teruggevoerd in het proces. In het blokschema ontbreekt een aantal
+           stofstromen. Ook ontbreekt R3.
+
+3p   6     Maak op de uitwerkbijlage het blokschema compleet.
+            Teken R3.
+            Teken de ontbrekende pijlen en noteer de ontbrekende stofnamen die
+             daarbij horen. Houd daarbij rekening met terugvoer van stoffen.
+
+
+
+
+ VW-1028-a-26-2-o                            6 / 14                            lees verder ►►►
+      DNA-analyse
+
+            Voor het monitoren van infectieziekten en het ontwikkelen van vaccins
+            wordt gebruikgemaakt van analysetechnieken. Hiermee kan de volgorde
+            van de basenparen in het DNA van bijvoorbeeld virussen worden bepaald.
+            In een van de stappen wordt dubbelstrengs-DNA omgezet tot
+            enkelstrengs-DNA.
+
+2p    7     Noem de twee soorten bindingen die hierbij tussen de DNA-strengen
+            worden verbroken.
+
+            In figuur 1 is weergegeven hoe men bij zo’n DNA-analyse te werk gaat.
+
+            figuur 1
+
+
+
+
+            De stappen van de DNA-analyse in figuur 1 zijn hieronder beschreven:
+            1 Het DNA van het te onderzoeken monster wordt vermenigvuldigd tot
+               miljoenen kopieën DNA.
+            2 Deze kopieën DNA worden verdeeld over vier verschillende
+               reageerbuisjes en door behandeling met hitte enkelstrengs gemaakt.
+            3 In deze reageerbuisjes zitten ook de basen A, C, T en G. Behalve
+               deze basen bevatten de buisjes ook één speciaal soort base: een
+               dideoxy-base (dd). Elk buisje bevat een andere dd-base: ddA, ddT,
+               ddC of ddG. In elk buisje wordt de matrijsstreng gebruikt om een
+               nieuwe coderende streng te maken.
+            4 Zodra een dd-base wordt gekoppeld aan een groeiende coderende
+               streng, stopt de groei van deze streng. De coderende strengen die zo
+               ontstaan, hebben alle mogelijke lengtes.
+            5 Van elk buisje wordt het ontstane dubbelstrengs-DNA weer omgezet
+               tot enkelstrengs-DNA. Dit enkelstrengs-DNA wordt op lengte
+               gescheiden. Uit het resultaat van de scheiding is de DNA-volgorde af
+               te lezen van de coderende streng.
+
+
+
+
+VW-1028-a-26-2-o                           7 / 14                          lees verder ►►►
+            De concentratie van een dd-base moet bij deze methode ongeveer 100x
+            zo groot zijn als de concentratie gewone basen (A, C, T en G). Bij veel
+            lagere of veel hogere concentraties dd-base leidt de analyse van een
+            DNA-monster niet tot het gewenste resultaat.
+
+2p    8     Leg uit dat bij de beschreven methode een veel hogere concentratie
+            dd-base niet leidt tot het gewenste resultaat.
+
+            De fragmenten coderend DNA die worden gebruikt in stap 5 zijn negatief
+            geladen. Onder invloed van elektrische spanning worden de fragmenten
+            op lengte gescheiden in een polyacrylamide-gel. Deze gel bevat een
+            netwerkpolymeer van methyleen-bis-acrylamide (BIS) en acrylamide. Zie
+            figuur 2. Het monomeer BIS zorgt voor de vorming van crosslinks.
+
+            figuur 2
+
+
+
+
+3p    9     Teken de structuurformule van een gedeelte van de polyacrylamide-gel.
+             Dit gedeelte moet komen uit het midden van het polymeer en moet zijn
+               gevormd uit één eenheid BIS en twee eenheden acrylamide.
+             In de structuurformule moet duidelijk worden hoe twee ketens door
+               middel van een crosslink zijn verbonden.
+
+            In de gel zijn ruimtes tussen de ketens van het netwerkpolymeer. De
+            DNA-fragmenten bewegen hier doorheen. Het percentage BIS in het
+            netwerkpolymeer bepaalt hoe groot deze ruimtes zijn. De
+            DNA-fragmenten die gescheiden moeten worden kunnen lang of kort zijn.
+            Afhankelijk van de lengte van deze DNA-fragmenten is een ander
+            percentage BIS te adviseren.
+
+2p   10     Leg uit of voor een goede scheiding van lange DNA-fragmenten een
+            relatief hoog of een relatief laag percentage BIS moet worden gebruikt bij
+            het maken van het netwerkpolymeer.
+
+
+
+
+VW-1028-a-26-2-o                            8 / 14                            lees verder ►►►
+            Tijdens de analyse van een DNA-monster is na stap 2 het volgende
+            matrijs-DNA verkregen:
+
+            matrijs-DNA      start   AGCCTGGCGACCATCGAG
+
+            Aan dit monster is in stap 3 behalve A, C, T en G ook ddG toegevoegd.
+            Vanaf de ‘start’ wordt tegen de matrijs-streng een coderende streng
+            gevormd. In figuur 3 is het resultaat weergegeven van de scheiding van
+            deze coderende strengen (stap 5).
+
+            figuur 3
+
+
+
+
+2p   11     Geef de basevolgorde van de coderende streng van het fragment met
+            nummer 2 in figuur 3.
+
+            Door middel van DNA-analyse kan gemonitord worden of er bij een virus
+            mutaties optreden in het DNA. Met behulp van de 1-lettersymbolen van
+            aminozuren kan men dit soort mutaties vereenvoudigd weergeven. Zo
+            geeft bijvoorbeeld de notatie ‘V408M’ een mutatie weer waarbij op plaats
+            408 van een eiwit een valine-eenheid is vervangen door een methionine-
+            eenheid. Bij het monitoren van het Cowpox-virus werd een mutatie
+            gevonden die is weergegeven in figuur 4.
+
+            figuur 4
+
+
+
+
+            De code voor het aminozuur met nummer 1 begint bij het basenpaar met
+            nummer 1. Figuur 4 toont de coderende streng van het DNA.
+
+3p   12     Leid met behulp van het gegeven voorbeeld af wat de notatie is van de
+            mutatie in figuur 4.
+
+
+
+
+VW-1028-a-26-2-o                            9 / 14                           lees verder ►►►
+      Polydopamine
+
+            Polydopamine is een polymeer dat hecht aan bijna alle mogelijke
+            oppervlakken, zelfs in waterig milieu.
+            De synthese van het monomeer dopamine is vereenvoudigd in een
+            blokschema weergegeven. Zie figuur 1. De structuurformules van enkele
+            stoffen die in de synthese voorkomen, zijn onder het blokschema
+            weergegeven.
+
+            figuur 1
+
+
+
+
+2p   13     Geef de molecuulformules van stof X en van stof Y.
+
+            Op de uitwerkbijlage zijn de structuurformules van enkele stoffen uit het
+            proces weergegeven.
+
+2p   14     Voer op de uitwerkbijlage de volgende opdrachten uit:
+             Geef per stof aan of stereo-isomerie niet of wel mogelijk is. Doe dit
+               door steeds ‘niet’ of ‘wel’ te omcirkelen.
+             Als stereo-isomerie wel mogelijk is, geef dan aan welke vorm van
+               stereo-isomerie dat is.
+
+
+
+
+VW-1028-a-26-2-o                            10 / 14                           lees verder ►►►
+            Catechol wordt nu voornamelijk geproduceerd door de petrochemische
+            industrie. Vlaamse wetenschappers hebben echter ontdekt dat catechol in
+            een eenstapsreactie geproduceerd kan worden uit ferulazuur. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            Ferulazuur bevindt zich in de afvalstromen van de verwerkingsprocessen
+            van rijst, tarwe en maïs. Ferulazuur reageert bij 250 °C onder hoge druk
+            met water tot catechol, methanol, koolstofdioxide en ethanal. De
+            vergelijking van deze reactie is onvolledig weergegeven op de
+            uitwerkbijlage.
+
+2p   15     Maak op de uitwerkbijlage deze vergelijking compleet. Gebruik
+            structuurformules.
+
+            De omzetting van ferulazuur (C10H10O4) tot catechol (C6H6O2) heeft een
+            E-factor van 2,0.
+
+3p   16     Bereken het rendement van deze reactie. Neem hierbij aan dat ferulazuur
+            en water in de molverhouding van de reactievergelijking uit vraag 15
+            aanwezig zijn.
+
+            Polydopamine kan op het oppervlak van een voorwerp worden
+            aangebracht, door het voorwerp in contact te brengen met een oplossing
+            van onder andere dopamine en de stof Tris. Tris is een zwakke base. In
+            deze oplossing treedt evenwicht 1 op.
+
+            Tris + H2O        OH– + Tris-H+             (evenwicht 1)
+
+            De oplossing met Tris heeft een pH van 8,5. De waarde van de Kb van
+            Tris is 1,2∙10‒6.
+
+4p   17     Bereken hoeveel procent van de aanwezige deeltjes Tris en
+            Tris-H+ aanwezig is in de vorm van Tris.
+
+            Polydopamine heeft een complexe structuur die nog niet geheel is
+            opgehelderd. In figuur 3 zijn twee reacties in het vormingsproces van
+            polydopamine vereenvoudigd weergegeven: een redoxreactie en een
+            ringsluiting.
+
+
+
+
+VW-1028-a-26-2-o                           11 / 14                           lees verder ►►►
+            figuur 3
+
+
+
+
+            De vergelijking van de halfreactie waarbij stof P wordt omgezet tot stof Q
+            is hieronder weergegeven.
+
+            (C8H9O2N)n + 2n OH–  (C8H7O2N)n + 2n H2O + 2n e‒
+
+            Voor de omzetting van stof P tot stof Q is zuurstof nodig. Zuurstof wordt
+            hierbij omgezet tot waterstofperoxide (H2O2).
+
+3p   18     Voer de volgende opdrachten uit:
+             Geef de vergelijking van de halfreactie van zuurstof tot
+               waterstofperoxide.
+             Geef de totaalvergelijking van de redoxreactie.
+
+            De ringsluiting verloopt in een aantal stappen. In de eerste stap wordt de
+            vijfring gevormd. In deze stap speelt een grensstructuur van de
+            monomeereenheid in stof Q een belangrijke rol.
+            In deze grensstructuur heeft uitsluitend het koolstofatoom waaraan het
+            stikstofatoom gaat binden een formele lading van 1+. Hierdoor kan het
+            stikstofatoom optreden als nucleofiel deeltje. Deze grensstructuur is
+            onvolledig weergegeven op de uitwerkbijlage.
+
+3p   19     Maak op de uitwerkbijlage de lewisstructuur van deze grensstructuur
+            compleet:
+             Geef ook formele ladingen aan.
+             Alleen het koolstofatoom met de formele lading voldoet niet aan de
+               octetregel.
+
+            Polydopamine (stof R) hecht zowel aan hydrofiele als aan hydrofobe
+            oppervlakken.
+
+2p   20     Leg uit dat polydopamine aan hydrofiele oppervlakken hecht.
+
+
+
+
+VW-1028-a-26-2-o                            12 / 14                           lees verder ►►►
+      Alternatieve brandstoffen
+
+            Vrachtwagens die goederen vervoeren rijden vaak op fossiele
+            brandstoffen. In het onderzoek naar alternatieven is ook de verbranding
+            van fijnverdeelde metalen onderzocht.
+            In de figuur op de uitwerkbijlage zijn de energiedichtheid (kWh dm–3) en
+            de energie-inhoud per massa-eenheid ( kWh kg–1) van verschillende
+            brandstoffen weergegeven.
+            Alternatieve brandstoffen die momenteel worden onderzocht, zijn onder
+            andere waterstof en ijzer. De energie-inhoud van ijzer is 7,4·106 J kg–1.
+            In de figuur op de uitwerkbijlage ontbreekt nu nog het punt van Fe.
+
+3p   21     Voer de volgende opdrachten uit:
+            1 Bereken van ijzer de energie-inhoud in kWh kg–1 en de
+               energiedichtheid in kWh dm–3 (T = 293 K).
+                Gebruik hierbij 1,0 Wh = 3,6·103 J.
+            2 Teken op de uitwerkbijlage het punt van Fe in de grafiek.
+
+            Als een vrachtwagen rijdt op een alternatieve brandstof, moet worden
+            voldaan aan twee belangrijke eisen:
+            Eis 1 Het benodigde volume van de brandstoftank mag niet te groot zijn,
+                   want dan blijft er te weinig ruimte voor een vracht over.
+            Eis 2 De benodigde massa brandstof mag niet te groot zijn, want dan
+                   kost het vervoer van de brandstof zelf veel extra energie.
+
+2p   22     Leg uit aan de hand van de figuur op de uitwerkbijlage of volgens deze
+            eisen diesel of zink de beste brandstof is. Betrek beide eisen in je
+            antwoord.
+
+            Bij het gebruik van metalen als brandstof voor vrachtwagens bestaat de
+            mogelijkheid om het verbrandingsafval te recyclen, namelijk door het
+            metaaloxide met waterstof te laten reageren. De optimale temperatuur
+            voor de reactie van ijzer(III)oxide (Fe2O3) met waterstof ligt tussen 970 K
+            en 1120 K.
+
+3p   23     Voer de volgende opdrachten uit:
+             Geef de vergelijking van de reactie van ijzer( III)oxide met waterstof tot
+               ijzer en één andere stof.
+             Bereken de reactiewarmte in joule per mol gevormd ijzer. Gebruik de
+               waardes van de vormingswarmtes uit je informatieboek.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1028-a-26-2-o                            13 / 14                           lees verder ►►►
+            Waterstof kan op industriële schaal worden geproduceerd door elektrolyse
+            van water. Een andere manier om waterstof te maken gaat via stoom-
+            reforming van methaan. Hierbij treden twee reacties op:
+
+            reactie 1
+
+            CH4 + H2O                  CO + 3 H2               reactiewarmte: + 206 kJ per mol CH4
+
+            reactie 2
+
+            CO + H2O                  CO2 + H2                  reactiewarmte: – 41 kJ per mol CO
+
+            Als eindproducten uit deze reactie worden uitsluitend CO2 en H2
+            verkregen. Bij stoom-reforming komt in totaal per kilogram waterstof
+            9,0 kg CO2 vrij. Een gedeelte daarvan komt vrij als product van reactie 2.
+            Hoeveel dit is, kan worden afgeleid uit de reactieverhoudingen in reacties
+            1 en 2. Er wordt echter ook nog extra CO2 uitgestoten. Deze extra uitstoot
+            van CO2 wordt door andere processen veroorzaakt.
+
+4p   24     Bereken de massa in kilogram CO2 die vrijkomt door andere processen bij
+            de productie van 1,0 kg waterstof. Noteer de uitkomst in het juiste
+            aantal significante cijfers.
+
+            Een groot deel van de extra CO2-uitstoot bij stoom-reforming kan worden
+            verklaard met behulp van de gegeven reactiewarmtes.
+
+2p   25     Leg uit hoe de extra CO2-uitstoot bij stoom-reforming kan worden
+            verklaard. Dit kan eventueel aan de hand van een berekening.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1028-a-26-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

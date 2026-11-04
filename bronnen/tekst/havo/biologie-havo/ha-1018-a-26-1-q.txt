@@ -1,0 +1,198 @@
+QuickScan CSE HAVO biologie - 2026 tijdvak 1
+
+
+
+Vak Informatie
+
+
+                  Kandidaten                         Scholen                          Docenten
+ Reacties   Ingeschreven   Ingezonden   Totaal     Ingevuld    Percentage   Totaal   Ingevuld   Percentage
+   878         20662         18569       577         540          94         864       737         85
+
+
+
+
+                                               1
+Moelijkheidsgraad
+
+Wat is uw oordeel over de moeilijkheidsgraad van het examen?
+
+
+          600
+
+
+
+
+          400
+
+
+ Aantal
+
+          200
+
+
+
+
+            0
+                te moeilijk    moeilijk   precies goed    makkelijk      te makkelijk
+                                          Antwoord
+
+
+                     Antwoord             Codering       Aantal       Percentage
+                     te moeilijk               1               7            0.8%
+                     moeilijk                  2             149           17.0%
+                     precies goed              3             629           71.6%
+                     makkelijk                 4              90           10.3%
+                     te makkelijk              5               3            0.3%
+                     geen                                    178
+
+                     Gemiddelde [SD]:     2.92 [0.56]
+
+
+
+
+                                                   2
+Lengte
+
+Wat is uw oordeel over de lengte van het examen in verhouding tot de tijd die de kandidaat
+ervoor beschikbaar heeft?
+          800
+
+
+
+
+          600
+
+
+
+
+ Aantal
+          400
+
+
+
+
+          200
+
+
+
+
+            0
+                  te lang             precies goed             te kort
+                                      Antwoord
+
+
+                Antwoord              Codering       Aantal   Percentage
+                te lang                    1             70           8.0%
+                precies goed               2            775          88.3%
+                te kort                    3             33           3.8%
+                geen                                    178
+
+                Gemiddelde [SD]:      1.96 [0.34]
+
+
+
+
+                                               3
+Inhoud
+
+Wat is uw oordeel over de inhoudelijke aansluiting van het examen bij het gegeven onderwijs?
+
+          400
+
+
+
+
+          300
+
+
+
+
+ Aantal   200
+
+
+
+
+          100
+
+
+
+
+            0
+                slecht    onvoldoende    voldoende       goed        zeer goed
+                                        Antwoord
+
+
+                   Antwoord             Codering      Aantal    Percentage
+                   slecht                    1              2           0.2%
+                   onvoldoende               2             61           6.9%
+                   voldoende                 3            408          46.5%
+                   goed                      4            373          42.5%
+                   zeer goed                 5             34           3.9%
+                   geen                                   178
+
+                   Gemiddelde [SD]:     3.43 [0.69]
+
+
+
+
+                                                 4
+Waardering
+
+Welk cijfer zou u dit examen geven?
+
+
+
+          400
+
+
+
+          300
+
+
+
+ Aantal   200
+
+
+
+          100
+
+
+
+            0
+                1     2    3     4      5        6    7         8       9    10
+                                       Antwoord
+
+
+                    Antwoord           Codering      Aantal         Percentage
+                    1                        1              0             0.0%
+                    2                        2              0             0.0%
+                    3                        3              4             0.5%
+                    4                        4              5             0.6%
+                    5                        5             30             3.4%
+                    6                        6            144            16.4%
+                    7                        7            448            51.0%
+                    8                        8            219            24.9%
+                    9                        9             28             3.2%
+                    10                      10              0             0.0%
+                    geen                                  178
+
+                    Gemiddelde [SD]:   7.05 [0.89]
+
+
+
+
+                                             5
+Correlaties
+
+
+                                   Lengte   Inhoud   Waardering
+              Moeilijkheidsgraad    0.19     0.21       0.32
+              Lengte                         0.08       0.13
+              Inhoud                                    0.53
+
+
+
+
+                                      6
+

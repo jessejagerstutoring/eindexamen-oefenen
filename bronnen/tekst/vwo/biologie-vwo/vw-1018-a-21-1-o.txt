@@ -1,0 +1,777 @@
+                                                                   Examen VWO
+
+                                                                       2021
+                                                                              tijdvak 1
+                                                                     woensdag 19 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                           biologie
+
+
+
+
+  Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 39 vragen.
+Voor dit examen zijn maximaal 66 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een open vraag een verklaring, uitleg of berekening vereist is, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1018-a-21-1-o
+              Tenzij anders vermeld, is er sprake van normale situaties en gezonde
+              organismen.
+
+      Ledlampjes voorkomen hartritmestoornis
+
+              De meest voorkomende hartritmestoornis is boezemfibrilleren. De stoornis
+              komt veel voor bij ouderen. Onderzoeker Daniël Pijnappels werkt aan een
+              therapie die gebruikmaakt van ledlampjes.
+
+              Hartspiercellen vormen – net als neuronen – aan elkaar gekoppelde
+              banen die impulsen kunnen geleiden. Die impulsen veroorzaken het
+              samentrekken van hartspiercellen. In principe kunnen hartspiercellen
+              impulsen in twee richtingen geleiden, maar als gevolg van een refractaire
+              periode na het optreden van een actiepotentiaal gebeurt dat niet. Zo
+              ontstaan er regelmatige spiersamentrekkingen die zich in een bepaalde
+              richting verplaatsen.
+              Bij beschadiging van hartspiercellen in een hartboezem kunnen impulsen
+              wél de andere kant op lopen. Hierdoor ontstaan onregelmatige en
+              ongecoördineerde samentrekkingen: het boezemfibrilleren. In afbeelding 1
+              is het impulsverloop bij een normale hartslag en bij boezemfibrilleren
+              schematisch weergegeven, met daaronder de bijbehorende
+              elektrocardiogrammen (ECG).
+
+              afbeelding 1
+
+
+
+
+              Bij boezemfibrilleren kunnen bloedstolsels ontstaan als gevolg van de
+              beperkte doorstroming in het hart. Daardoor is er een verhoogd risico op
+              een beroerte (herseninfarct).
+2p    1       Kan een herseninfarct veroorzaakt worden door een stolsel gevormd in de
+              linkerboezem, in de rechterboezem of zijn beide mogelijk?
+              A alleen in de linkerboezem
+              B alleen in de rechterboezem
+              C beide zijn mogelijk
+
+
+
+
+VW-1018-a-o                                  2 / 20                           lees verder ►►►
+              Het spierweefsel van de boezems wordt door een bindweefseltussenschot
+              gescheiden van het spierweefsel van de kamers. Bindweefsel is een
+              slechte geleider van elektrische impulsen.
+              In het bovenaanzicht van een hart waarvan de boezems niet getekend zijn
+              (afbeelding 2), is het lichtgekleurde bindweefsel te zien.
+
+              afbeelding 2
+
+
+
+
+              Drie momenten in de hartcyclus zijn:
+              1 het einde van de hartpauze
+              2 het midden van de boezemsystole
+              3 het midden van de kamersystole
+2p    2       Op welk van deze momenten komt de stand van de kleppen overeen met
+              die in afbeelding 2?
+              A alleen op moment 1
+              B alleen op moment 2
+              C alleen op moment 3
+              D zowel op moment 1 als 2
+              E zowel op moment 1 als 3
+              F zowel op moment 2 als 3
+
+              Dankzij het bindweefseltussenschot en de AV-knoop daarin blijft de
+              pompfunctie van de hartkamers tijdens boezemfibrilleren grotendeels
+              behouden.
+2p    3       Beschrijf hoe dankzij het bindweefseltussenschot en de AV-knoop de
+              pompfunctie van de hartkamers tijdens boezemfibrilleren behouden blijft.
+
+
+
+
+VW-1018-a-o                                  3 / 20                           lees verder ►►►
+              Vaak gaat boezemfibrilleren vanzelf weer over, maar het kan ook een
+              permanent karakter krijgen. Daarom neemt de cardioloog na de diagnose
+              meestal maatregelen om het normale hartritme te herstellen.
+              Chronisch boezemfibrilleren kan behandeld worden met een externe
+              defibrillator. Deze geeft bij fibrilleren een sterke stroomstoot om alle
+              hartspiercellen te depolariseren, waarna de normale boezemcontractie
+              hersteld wordt. Dat is een heftige ingreep.
+              In het Leids Universitair Medisch Centrum is ‘optogenetica’ ingezet om
+              een schokvrije inwendige defibrillator te ontwikkelen. Optogenetica maakt
+              gebruik van een lichtgevoelig eiwit uit groenalgen. Het eiwit is een
+              ionkanaal dat geopend wordt bij blootstelling aan blauw licht. In transgene
+              hartspiercellen met dit lichtgevoelige eiwit, kunnen door een lichtflits
+              impulsen opgewekt worden.
+
+              De onderzoeksgroep van Daniël Pijnappels gebruikte een virus om een
+              gen uit de algen over te brengen in gekweekte hartspiercellen om ze
+              lichtgevoelig te maken.
+              Bij gebruik van een virus als vector komt het transgen op een willekeurige
+              plaats in het DNA van de hartspiercel terecht.
+1p    4       Beschrijf op moleculair niveau een mogelijk nadelig gevolg hiervan voor
+              deze cel.
+
+              Met behulp van ledlampjes kunnen de onderzoekers de transgene
+              hartspiercellen regelmatig laten samentrekken (pacemakerfunctie) of alle
+              samentrekkingen in één keer laten stoppen (defibrillatorfunctie). In de
+              toekomst kunnen bij patiënten met hartritmestoornissen de hartspiercellen
+              misschien lichtgevoelig worden gemaakt. Het hartritme kan dan worden
+              beïnvloed met behulp van kleine ledlampjes rondom het hart die
+              lichtflitsen afgeven.
+
+              Wanneer de ledlampjes worden gebruikt als inwendige pacemaker, blijft
+              het hart in het juiste ritme kloppen. Meestal is een pacemaker nodig als
+              het hartritme te langzaam is.
+              Om ervoor te zorgen dat de ledlampjes op het juiste moment een lichtflits
+              afgeven, moeten ze verbonden zijn aan sensoren.
+              Enkele sensoren zijn:
+              1 bewegingssensor
+              2 lichtsensor
+              3 spanningssensor
+1p    5       Welke twee van deze sensoren zouden geschikt zijn om de inwendige
+              pacemaker aan te sturen?
+              A 1 en 2
+              B 1 en 3
+              C 2 en 3
+
+
+
+
+VW-1018-a-o                                   4 / 20                            lees verder ►►►
+              Twee variabelen voor de ledlampjes rondom het hart, met de te gebruiken
+              instellingen zijn:
+              1 de duur van de lichtflits: relatief kort of lang
+              2 het te belichten gebied: relatief klein of groot
+1p    6       Neem de volgende tabel over op je antwoordblad:
+
+                                               als defibrillator        als pacemaker
+               1   (duur lichtflits)
+               2   (te belichten gebied)
+
+              Vul de tabel in voor variabele 1 en 2: welke instelling maakt de ledlampjes
+              geschikt voor de defibrillatorfunctie en welke instelling maakt ze geschikt
+              voor de pacemakerfunctie? Kies elk vetgedrukt woord een keer.
+
+
+      Een vismigratierivier
+
+              Tijdens de grote onderhoudsbeurt die voor de Afsluitdijk gepland is, wordt
+              de migratieroute voor trekvissen hersteld.
+
+              Het huidige IJsselmeer                afbeelding 1
+              (afbeelding 1) was vroeger een
+              estuarium: een brede
+              riviermonding die uitliep in de
+              Zuiderzee. Estuaria zijn over het
+              algemeen relatief warme en rijke
+              ecosystemen en voor veel
+              vissoorten een belangrijk deel van
+              de trekroute tussen zout water en
+              zoet water. Door de aanleg van de
+              Afsluitdijk werd deze route voor
+              trekvissen geblokkeerd en
+              veranderde de zoute Zuiderzee in
+              het zoete IJsselmeer.
+              Voor veel vissoorten is een
+              estuarium een aantrekkelijke
+              plaats om eitjes af te zetten, omdat
+              de uitgekomen vislarven er snel en
+              veilig kunnen opgroeien. In het relatief warme IJsselmeerwater
+              groeien vislarven sneller dan in de Waddenzee.
+
+              De groeisnelheid van vislarven in het relatief warme IJsselmeerwater
+              beïnvloedt de overlevingskans van deze individuen.
+1p    7       Verklaar hoe de snelle groei van vislarven kan leiden tot verhoging van
+              hun overlevingskans.
+
+
+
+
+VW-1018-a-o                                   5 / 20                            lees verder ►►►
+              Een koker dwars door de Afsluitdijk, met aansluitend een kilometerslange
+              brakwaterrivier, maakt het IJsselmeer weer bereikbaar voor veel
+              vissoorten. Afbeelding 2 geeft een impressie hiervan.
+
+              afbeelding 2
+
+
+
+
+              Bij eb stroomt zoet water uit het IJsselmeer door deze vismigratierivier
+              richting Waddenzee. Bepaalde trekvissen zullen dan, aangelokt door het
+              zoete water, tegen de stroom in naar binnen zwemmen. Dat lukt alleen de
+              sterke zwemmers, zoals de zalm. Bij vloed stroomt zout zeewater de
+              vismigratierivier in en dan pas kunnen ook zwakke zwemmers, zoals
+              jonge palingen (glasaaltjes), het IJsselmeer bereiken.
+              De koker van de vismigratierivier wordt afgesloten zodra de zoutbelasting
+              van het IJsselmeer te groot wordt.
+
+              Ecologen gebruikten een computermodel om de omstandigheden in het
+              sterkst stromende deel van de geplande vismigratierivier te simuleren.
+              Afbeelding 3 toont het resultaat hiervan voor een periode van 48 uur.
+
+              afbeelding 3
+
+
+
+
+VW-1018-a-o                                  6 / 20                           lees verder ►►►
+              Een zwakke zwemmer, zoals een glasaaltje, moet soms wachten voor hij
+              door de stroom meegevoerd wordt in de richting van het IJsselmeer.
+2p    8       Hoelang moet dit visje volgens het computermodel in het ongunstigste
+              geval wachten?
+              A ongeveer 2 uur
+              B ongeveer 6 uur
+              C ongeveer 12 uur
+              D ongeveer 18 uur
+
+              Trekvissen handhaven een osmotische waarde van het inwendige milieu
+              die lager is dan die van zeewater.
+              In zeewater moeten ze waterverlies voorkomen en passieve zoutopname
+              compenseren. Dit doen ze door de in het darmkanaal geabsorbeerde
+              zouten via de kieuwen en nieren uit te scheiden (afbeelding 4, linker
+              tekening).
+              Een verblijf in zoet water veroorzaakt wateropname en verlies van zouten.
+              Om dit tegen te gaan nemen trekvissen actief zouten op via de kieuwen
+              en produceren ze meer urine (afbeelding 4, rechter tekening).
+
+              afbeelding 4
+
+
+
+
+              Bij trekvissen ontbreekt de lis van Henle in de niereenheden.
+2p    9       Wat kunnen deze vissen hierdoor niet?
+              A de pH in het inwendig milieu handhaven door H+ uit te scheiden
+              B de pH in het inwendig milieu handhaven door HCO 3 - te resorberen
+              C urine produceren die sterk hypertoon is ten opzichte van het inwendig
+                   milieu
+              D urine produceren die sterk hypotoon is ten opzichte van het inwendig
+                   milieu
+
+
+
+
+VW-1018-a-o                                  7 / 20                           lees verder ►►►
+              Echte zoetwatervissen zijn aangepast aan het leven in zoet water. Om te
+              kunnen overleven in zoet water zijn de nieren van echte zoetwatervissen
+              anders gebouwd dan die van echte zoutwatervissen: er is een verschil in
+              het aantal glomeruli en in de permeabiliteit van de wand van de
+              verzamelbuisjes.
+2p   10       Zal een echte zoetwatervis relatief meer of minder glomeruli hebben dan
+              een echte zoutwatervis? En zal de permeabiliteit voor water van de
+              verzamelbuisjes bij zo’n zoetwatervis groter of kleiner zijn dan bij zo’n
+              zoutwatervis?
+
+                  glomeruli       permeabiliteit verzamelbuisjes
+                  zoetwatervis    zoetwatervis
+
+              A   meer            groter
+              B   meer            kleiner
+              C   minder          groter
+              D   minder          kleiner
+
+              Bij vissen zijn de kieuwen de belangrijkste organen voor osmoregulatie.
+              Tussen de kieuwepitheelcellen bevinden zich bepaalde mitochondriën-
+              rijke cellen (MR-cellen). Er zijn twee typen MR-cellen:
+              1 MR-α-cellen die zoutuitscheiding in zeewater bevorderen
+              2 MR-β-cellen die zoutopname in zoet water bevorderen
+              Deling vanuit stamcellen en de daaropvolgende differentiatie tot het ene
+              of tot het andere type MR-cel gebeurt onder invloed van hormonen.
+              Bij trekvissen kunnen MR-cellen van het ene type overgaan in het andere.
+              Het ionentransport in MR-cellen type α en type β in de kieuwen van
+              trekvissen is weergegeven in afbeelding 5.
+
+              afbeelding 5
+
+
+
+
+VW-1018-a-o                                   8 / 20                           lees verder ►►►
+              Bij trekvissen in zeewater zijn de MR-α-cellen actief. Door deze cellen
+              worden chloride-ionen uit het inwendig milieu uitgescheiden via
+              chloridekanaaltjes (afbeelding 5). Voor dit transport is indirect energie
+              nodig.
+3p   11        Leg uit met behulp van bovenstaande informatie dat het transport van
+                   Cl–-ionen via de MR-α-cel op zich geen energie kost,
+               maar dat er indirect wel energie voor nodig is.
+
+1p   12       Verklaar de aanwezigheid van de vele mitochondriën aan de hand van de
+              functie van de MR-cellen.
+
+              Het oppervlak van de MR-β-cellen heeft aan de waterzijde microvilli.
+2p   13       Leg uit hoe de aanwezigheid van microvilli de functie van de MR-β-cellen
+              ondersteunt.
+
+              Het water in de vismigratierivier is brak door het binnendringende
+              zeewater. In het kilometerslange traject hebben binnentrekkende vissen
+              de gelegenheid om te wennen (acclimatiseren) aan het steeds zoeter
+              wordende water.
+2p   14       Verklaar aan de hand van de gegeven informatie
+               hoe op moleculair niveau kleine kortdurende schommelingen in
+                 zoutconcentratie direct opgevangen kunnen worden door trekvissen,
+                 en
+               dat een grote, langdurige verandering in zoutconcentratie een langere
+                 acclimatisatie vergt.
+
+              Niet iedereen kan zich vinden in het idee van de vismigratierivier.
+              Een voormalige visser reageert: “Vismigreren? Als je in Den Oever tijdens
+              doodtij de sluisdeuren aan de kant van de Waddenzee op een kiertje
+              opende, zwom de sluis vol met glasaal en andere vis, zij roken het zoet.
+              Als daarna de sluisdeuren aan de IJsselmeerzijde opengingen zwom die
+              vis zo het IJsselmeer in”.
+              Doodtij, wanneer de eb- en vloedbeweging minimaal is, treedt slechts
+              twee keer per maand op. De vismigratierivier kan in principe elke dag
+              door vissen als migratieroute gebruikt worden.
+1p   15       Geef nog een verklaring waardoor meer vissen zullen trekken via de
+              migratierivier dan via de sluizen.
+
+
+
+
+VW-1018-a-o                                  9 / 20                            lees verder ►►►
+      Yoghurt zonder klonten
+
+              Zuivelbedrijven die yoghurt bereiden, krijgen soms een opbrengst van
+              waterige melk met klonten, veroorzaakt door bacteriofagen in de
+              yoghurtcultuur. Dankzij CRISPR-Cas kan dit voorkomen worden.
+
+              Yoghurt wordt gemaakt door melk te enten met de melkzuurbacteriën
+              Streptococcus thermophilus en Lactobacillus bulgaricus. Deze bacteriën
+              zetten melkeiwitten om en verbruiken lactose (melksuiker) uit de melk
+              voor hun energievoorziening. Hierdoor verzuurt de melk snel en krijgt die
+              een andere smaak, structuur en voedingswaarde: het wordt yoghurt.
+              Doordat yoghurt veel minder lactose bevat dan melk is het een geschikt
+              zuivelproduct voor mensen met lactose-intolerantie.
+              Na het eten van yoghurt hebben de yoghurtbacteriën die levend de darm
+              bereiken een gunstig effect op de darmflora, de stoelgang en het
+              immuunsysteem van de darm.
+
+              De twee bacteriesoorten zijn samen efficiënter in het veranderen van de
+              melk in yoghurt dan ieder apart. Zo produceert L. bulgaricus voornamelijk
+              endopeptidasen, enzymen die peptidebindingen binnen een peptideketen
+              verbreken, en produceert S. thermophilus voornamelijk exopeptidasen,
+              enzymen die peptide-bindingen aan de uiteinden van een peptideketen
+              verbreken.
+              De enzymactiviteit van S. thermophilus is hoger als deze bacterie samen
+              met L. bulgaricus aan melk wordt toegevoegd dan als alleen
+              S. thermophilus wordt toegevoegd.
+1p   16       Verklaar deze hogere enzymactiviteit van S. thermophilus op moleculair
+              niveau.
+
+              Dankzij de activiteit van de melkzuurbacteriën zijn voedingsstoffen uit
+              yoghurt sneller op te nemen dan uit melk, ook voor mensen die geen
+              lactose-intolerantie hebben.
+1p   17       Geef hiervoor een verklaring.
+
+
+
+
+VW-1018-a-o                                   10 / 20                           lees verder ►►►
+              Als de melkzuurbacteriën geïnfecteerd worden door virussen kan de
+              yoghurt mislukken. Zo’n type virus wordt bacteriofaag, of kortweg faag
+              genoemd (afbeelding 1).
+              In afbeelding 2 is een bacterie weergegeven met daarop vele fagen.
+
+              afbeelding 1             afbeelding 2
+
+
+
+
+              De fagen vermeerderen zich door enzymen te gebruiken van de bacteriën
+              die ze hebben geïnfecteerd.
+2p   18       Welk type polymerase van de bacterie wordt gebruikt voor de
+              vermeerdering van deze fagen?
+              A alleen DNA-polymerase
+              B alleen RNA-polymerase
+              C zowel DNA-polymerase als RNA-polymerase
+
+              Bacteriën kunnen zich verdedigen tegen fagen met behulp van restrictie-
+              enzymen die de vermeerdering van de fagen remmen. Restrictie bij
+              bacteriën is te vergelijken met immunologische afweer bij de mens. Bij
+              beide processen vindt herkenning van een moleculaire structuur plaats.
+2p   19       Welk type molecuul wordt herkend bij restrictie? En welk type molecuul
+              wordt doorgaans herkend bij een immunologische reactie bij de mens?
+
+                  herkend bij          herkend bij immunologische
+                  restrictie           reactie bij de mens
+
+              A   eiwit                DNA
+              B   eiwit                eiwit
+              C   DNA                  DNA
+              D   DNA                  eiwit
+
+
+
+
+VW-1018-a-o                                    11 / 20                         lees verder ►►►
+              Een zuivelbedrijf gaf microbiologen de opdracht om te bepalen welke
+              DNA-sequenties van melkzuurbacteriën betrokken zijn bij de afweer tegen
+              fagen. Het mechanisme dat de bacteriën gebruiken om zich tegen fagen
+              te verdedigen, is met hulp van microbiologen van Wageningen UR verder
+              ontrafeld en staat nu bekend onder de naam CRISPR-Cas. CRISPR’s
+              (clustered regularly interspaced short palindromic repeats) zijn plaatsen in
+              het bacteriële DNA waar, ingesloten tussen repeats, korte segmenten
+              vreemd DNA zijn ingebouwd. Cas-eiwitten (CRISPR-associated eiwitten)
+              kunnen hiermee vreemd DNA herkennen en doorknippen.
+              In afbeelding 3 is de reactie van het CRISPR-Cas-systeem op een eerste
+              contact met faag-DNA (primaire reactie) en op een volgend contact
+              (secundaire reactie) schematisch weergegeven.
+              afbeelding 3
+              primaire reactie (immunisatie)             secundaire reactie (immuunreactie)
+
+
+
+
+              1 Een faag hecht aan een bacterie          5 Bij een volgend contact met
+                en injecteert het faag-DNA in de           faag-DNA, wordt op basis van
+                bacterie.                                  deze spacers RNA gemaakt.
+              2 Bepaalde stukjes faag-DNA                6 Dit spacer-RNA wordt opgeknipt
+                worden als vreemd herkend: de              in losse RNA’s.
+                proto-spacers.                           7 Deze RNA’s binden aan
+              3 Een complex van Cas-eiwitten               complexen van Cas-eiwitten tot
+                knipt uit het faag-DNA enkele              CRISPR-Cas.
+                proto-spacers.                           8 CRISPR-Cas bindt aan de
+              4 Deze worden op de CRISPR-                  complementaire sequentie in het
+                locus in het bacteriechromosoom            faag-DNA, waarna dat
+                geplakt en heten nu spacers.               doorgeknipt wordt.
+
+
+
+
+VW-1018-a-o                                    12 / 20                            lees verder ►►►
+              De CRISPR-locus bouwt zo na immunisatie een geheugen op van al het
+              vreemde DNA dat in de bacterie terecht is gekomen. Is een
+              binnengedrongen faag een ‘oude bekende’ van de bacterie, dan volgt snel
+              een immuunreactie: het faag-DNA wordt herkend en afgebroken.
+
+              In een bacterie kunnen de volgende processen plaatsvinden:
+              1 translatie van Cas-RNA
+              2 transcriptie van CRISPR-DNA
+              3 translatie van faag-RNA
+2p   20       Welk proces is of welke processen zijn essentieel voor de CRISPR-Cas-
+              immuunreactie? Schrijf de nummers 1, 2 en 3 onder elkaar en noteer
+              erachter of het betreffende proces wel of niet essentieel is.
+
+              Doordat bacteriën en hun fagen elkaar bestrijden, treedt co-evolutie op.
+2p   21       Leg uit hoe selectiedruk deze co-evolutie veroorzaakt.
+
+              Het CRISPR-Cas-afweersysteem en de faag-spacers worden bij deling
+              doorgegeven aan de volgende generatie bacteriën. Dit wordt verticale
+              genoverdracht genoemd.
+              De genoverdracht voor afweer kan ook horizontaal plaatsvinden door
+              conjugatie. Na conjugatie geven de donor-spacers pas immuniteit aan de
+              ontvangende bacterie na inbouw in de CRISPR-locus van deze bacterie.
+              In afbeelding 4 is weergegeven hoe een melkzuurbacterie (donor) door
+              conjugatie immuniteit doorgeeft aan een andere bacterie (ontvanger).
+
+              afbeelding 4
+
+
+
+
+              In de legenda van afbeelding 4 zijn vier delen genummerd.
+2p   22       Schrijf de nummers 1 tot en met 4 onder elkaar en noteer de naam van
+              het betreffende deel erachter.
+
+
+
+
+VW-1018-a-o                                  13 / 20                           lees verder ►►►
+              De opheldering van het bacterieel immuunsysteem CRISPR-Cas is
+              fundamenteel onderzoek waar zuivelbedrijven gebruik van kunnen maken.
+              Met behulp hiervan kunnen zij hun melkzuurbacteriën beschermen tegen
+              verschillende soorten fagen en zo voorkómen dat hun yoghurtcultuur
+              eindigt als een waterige melk met klonten.
+              Drie suggesties voor een methode om een melkzuurbacterie te verkrijgen
+              die immuun is voor meerdere soorten fagen zijn:
+              1 achtereenvolgens verschillende soorten fagen toedienen aan een
+                  bacteriestam die voor deze fagen nog niet immuun is
+              2 horizontale genoverdracht bevorderen tussen bacteriën met
+                  verschillende immuniteit voor deze fagen
+              3 met recombinant-DNA-techniek de CRISPR-locus van bacteriën
+                  uitbreiden met spacers van deze fagen
+2p   23       Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+              betreffende methode wel of niet kan leiden tot een bacterie die voor
+              meerdere soorten fagen immuun is.
+
+
+      Aardappels veredelen
+
+              Dankzij een innovatieve techniek, ontwikkeld door een Nederlands
+              plantenveredelingsbedrijf, kunnen boeren verbeterde aardappels telen uit
+              zaad in plaats van uit pootaardappels.
+
+              Aardappelplanten (Solanum             afbeelding 1
+              tuberosum) krijgen bloemen
+              die na bestuiving uitgroeien tot
+              bessen met honderden zaden.
+              Beter bekend is de voort-
+              planting door ondergronds
+              gevormde zetmeelrijke knollen:
+              de aardappels (afbeelding 1).
+              De teelt van
+              consumptieaardappels in
+              Nederland is vooral gebaseerd
+              op het gebruik van de knollen:
+              een teler koopt ze als
+              pootaardappels bij een
+              vermeerderingsbedrijf en zet
+              ze in de grond. Uit elke
+              pootaardappel groeit een
+              aardappelplant die weer
+              nieuwe knollen produceert.
+
+
+
+
+VW-1018-a-o                                      14 / 20                      lees verder ►►►
+              Gebruik van pootaardappels heeft voor een aardappelteler het voordeel
+              dat de aardappelplanten die daaruit groeien, aardappels vormen van een
+              constante kwaliteit.
+2p   24        Verklaar waardoor de aardappels uit pootaardappels over het
+                  algemeen een constante kwaliteit hebben.
+               Noteer een oorzaak waardoor er toch verschillen kunnen zijn.
+
+              Zodra de pootaardappels of de uitlopers daarvan boven de grond
+              uitkomen en er licht op valt, worden ze groen door de vorming van
+              chlorofyl. In het licht neemt ook de hoeveelheid solanine, een giftige stof,
+              in de bovengrondse delen van de plant snel toe.
+              Solanine wordt niet afgebroken tijdens het koken. Het Voedingscentrum
+              raadt daarom aan de groene delen van aardappels vóór bereiding ruim
+              weg te snijden.
+              Een middelgrote aardappel weegt 50 gram. De niet-groene delen van
+              aardappels bevatten maximaal 10 mg solanine per 100 gram.
+              Vergiftigingsverschijnselen zoals misselijkheid, braken en
+              hartritmestoornissen treden op bij een inname van 2,5 mg solanine per
+              kilogram lichaamsgewicht per dag.
+2p   25       Leg aan de hand van een berekening uit in hoeverre solaninevergiftiging
+              door het eten van aardappels voor iemand van 80 kg een reëel risico is.
+
+              Tetraploïde (4n) aardappelplanten zijn vaak groter en produceren grotere
+              knollen dan de diploïde planten. Doordat de rassen die in de landbouw
+              worden gebruikt vrijwel allemaal tetraploïd zijn, is aardappelveredeling
+              lastig.
+
+2p   26       Hoeveel verschillende genotypen zijn bij tetraploïde aardappelplanten
+              mogelijk voor één eigenschap met twee allelen?
+              A 2
+              B 3
+              C 4
+              D 5
+              E 6
+              F 8
+
+              Aardappelveredelaars hebben eeuwenlang getracht door kruising en
+              selectie gewenste eigenschappen homozygoot in de tetraploïde planten te
+              krijgen, zoals resistentie tegen het aardappelvirus PVS.
+              Een recessief allel r codeert voor deze resistentie.
+              Twee tetraploïde aardappelplanten met genotype RRrr worden met elkaar
+              gekruist. Bij tetraploïde planten ontstaan na meiose diploïde
+              geslachtscellen.
+2p   27        Noteer de genotypenverhouding van de mannelijke geslachtscellen in
+                  deze kruising.
+               Noteer de kans op PVS-resistentie voor een nakomeling uit deze
+                  kruising.
+
+
+
+VW-1018-a-o                                   15 / 20                             lees verder ►►►
+              Tetraploïde aardappelrassen veredelen om een hogere opbrengst te
+              verkrijgen, is moeilijk en tijdrovend. De Wageningse onderzoeker Pim
+              Lindhout begon daarom met diploïde rassen. Hij kruiste een diploïde
+              S. tuberosum die relatief grote knollen vormt, met de verwante soort
+              S. chacoense die kleine knolletjes maakt.
+              Bij de in de landbouw gebruikte aardappelrassen komt alleen
+              kruisbestuiving (bestuiving met stuifmeel van een andere plant) voor, wat
+              het lastig maakt om een homozygote zuivere lijn te verkrijgen.
+              S. chacoense-planten kunnen echter ook ‘zelfbestuiven’ (bevrucht worden
+              door eigen stuifmeel) wanneer ze ten minste één BS-allel bezitten.
+              Met een diploïd ras dat kan zelfbestuiven, wordt het veredelen een stuk
+              eenvoudiger.
+
+              In bloemen van de diploïde S. tuberosum kan alleen kruisbestuiving
+              optreden.
+2p   28       Leg uit hoe kruisbestuiving kan leiden tot een evolutionair voordeel ten
+              opzichte van zelfbestuiving.
+
+              Lindhout voerde een kruising uit tussen een S. chacoense- en een
+              S. tuberosum-plant. Bij de aardappelplanten die daaruit ontstonden (F1)
+              werd zelfbestuiving toegepast om een F2 te krijgen.
+              Van de planten in de F1 kon ongeveer 50% zelfbestuiven en in de F2
+              waren dat er 10 van de 13.
+              Met behulp van een kruisingsschema kunnen deze verhoudingen worden
+              verklaard.
+2p   29        Geef de twee kruisingstabellen waaruit de genotypen in de F1 en de
+                  F2 blijken. Gebruik de symbolen B en BS voor de allelen.
+               Geef in beide tabellen aan welk gedeelte kan zelfbestuiven.
+
+              Een voordeel van zaad is dat het relatief vrij van ziekten en plagen kan
+              worden geproduceerd in kassen, terwijl er bij de productie van
+              pootaardappels in de volle grond meer risico op infectie is.
+1p   30       Noteer nog een ander voordeel van zaad ten opzichte van pootaardappels
+              bij de aardappelteelt.
+
+
+
+
+VW-1018-a-o                                   16 / 20                           lees verder ►►►
+              In tabel 1 is de totale opbrengst en het geoogste oppervlak van drie typen
+              aardappels weergegeven voor 2010 en 2015.
+
+              tabel 1
+
+
+
+
+              In 2015 was de pootaardappel-opbrengst groter dan in 2010. Iemand
+              beweert dat dit komt door een hogere productiviteit van de aardappel-
+              planten in 2015 in vergelijking met 2010.
+1p   31       Geef een argument om deze bewering te weerleggen.
+
+              Inmiddels zijn door kruisingen aardappels verkregen met een hoger
+              eiwitgehalte dan gewone aardappels. Deze eiwitten kunnen worden
+              toegepast ter vervanging van melk en eieren in bijvoorbeeld ijs en
+              slagroom.
+              De productie van plantaardige eiwitten is ecologisch duurzamer dan de
+              productie van dierlijke eiwitten.
+2p   32       Leg dit uit aan de hand van de energiestroom in de voedselketen.
+
+
+
+
+VW-1018-a-o                                  17 / 20                           lees verder ►►►
+      Teken en de ziekte van Lyme
+
+              De ziekte van Lyme wordt veroorzaakt door een bacterie die meestal op
+              de mens wordt overgedragen door een besmette schapenteek. Onderzoek
+              laat zien dat het aantal tekenbeten en het aantal besmette teken de
+              laatste jaren toeneemt.
+
+              Teken zijn spinachtigen die voorkomen in bossen en velden. Ze leven van
+              het bloed van gewervelde dieren.
+              In afbeelding 1 is de levenscyclus van de schapenteek Ixodes ricinus
+              weergegeven. De cyclus kan twee tot zes jaar duren en bestaat uit vier
+              fasen: ei, larve, nimf en adult. Van elke levensfase overleeft ongeveer tien
+              procent. Om een volgende fase te bereiken, heeft een teek meestal maar
+              één bloedmaaltijd nodig.
+
+              afbeelding 1
+
+
+
+
+VW-1018-a-o                                   18 / 20                            lees verder ►►►
+              De bloedmaaltijd van een teek duurt enkele dagen tot een week. De
+              tijdsduur hangt samen met de grootte van de teek. De schapenteek kan
+              als larve, nimf en adult ook een mens of een hond gebruiken als gastheer.
+              Tijdens de bloedmaaltijd kan de bacterie Borrelia burgdorferi worden
+              opgezogen uit de gastheer. Deze bacterie vermenigvuldigt zich in de
+              darmen van de teek. B. burgdorferi wordt niet overgedragen op de eitjes,
+              maar kan wel via het speeksel worden overgedragen op een nieuwe
+              gastheer. Bij mensen kan deze bacterie de ziekte van Lyme veroorzaken.
+
+              Als je de ziekte van Lyme hebt, is de kans groter dat je de ziekte hebt
+              opgelopen door de beet van een nimf dan door de beet van een larve of
+              een adult van de schapenteek.
+2p   33        Verklaar waardoor meer mensen de ziekte oplopen door de beet van
+                  een nimf dan door de beet van een larve.
+               Verklaar waardoor meer mensen de ziekte oplopen door de beet van
+                  een nimf dan door de beet van een adult.
+
+              Volwassen vrouwtjesteken zuigen vaker en meer bloed dan volwassen
+              mannetjesteken.
+1p   34       Geef hiervoor een verklaring.
+
+              Teken hebben een stekende zuigsnuit om de huid van hun gastheer te
+              doorboren, waarna ze bloed kunnen opzuigen.
+              In het bloed kunnen de volgende processen plaatsvinden:
+              1 activatie van T-lymfocyten
+              2 antistofproductie
+              3 migratie van macrofagen
+2p   35       Worden deze processen in gang gezet onmiddellijk na het doorboren van
+              de huid van de gastheer? Schrijf de nummers 1, 2 en 3 onder elkaar en
+              noteer erachter of het betreffende proces wel of niet onmiddellijk in gang
+              gezet wordt.
+
+              Om een immuunreactie van de gastheer tegen te gaan, spuit een teek
+              altijd eerst wat speeksel bij de gastheer naar binnen. Een van de
+              speekseleiwitten remt afweercellen die een sleutelrol spelen bij het
+              opwekken van een immuunrespons bij de gastheer.
+1p   36       Welke afweercellen spelen deze sleutelrol?
+              A APC’s
+              B B-lymfocyten
+              C cytotoxische T-cellen
+              D plasmacellen
+
+
+
+              Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+VW-1018-a-o                                  19 / 20                            lees verder ►►►
+              Gewoonlijk wordt een infectie met een bepaalde ziekteverwekker
+              vastgesteld door een bloedonderzoek waarmee de aanwezigheid van de
+              betreffende ziekteverwekker direct of indirect kan worden aangetoond.
+2p   37       Waarop wordt getest bij het direct aantonen van de ziekteverwekker? En
+              waarop bij het indirect aantonen?
+
+                  direct                                              indirect
+
+              A   antigenen van ziekteverwekker                       antistoffen tegen ziekteverwekker
+              B   antigenen van ziekteverwekker                       DNA van ziekteverwekker
+              C   antistoffen tegen ziekteverwekker                   antigenen van ziekteverwekker
+              D   antistoffen tegen ziekteverwekker                   DNA van ziekteverwekker
+
+              De enige preventieve maatregel tegen het krijgen van de ziekte van Lyme
+              is het vermijden van een tekenbeet. Om het risico op tekenbeten te
+              verkleinen moet het aantal teken verminderd worden.
+              Een mogelijke aanpak is het gebruik van nematoden, microscopisch
+              kleine rondwormen, die bepaalde symbiotische bacteriën bij zich dragen.
+              Wanneer de nematode een teek binnendringt, gaan deze bacteriën zich
+              ten koste van de teek vermenigvuldigen. De nematode voedt zich
+              vervolgens met deze bacteriën.
+              Naar aanleiding van deze gegevens wordt de volgende stelling gedaan:
+              De relatie tussen de nematode en de bacteriën die hij bij zich draagt, is
+              mutualisme.
+2p   38        Geef een argument dat deze stelling ondersteunt.
+               Noteer welk ander type relatie tussen de nematode en de bacteriën
+                  ook van toepassing is.
+
+              Schapen worden wel tekenstofzuigers genoemd, omdat ze heel
+              aantrekkelijk zijn voor teken zonder er zelf veel last van te hebben.
+              Onderzocht wordt of het inzetten van ‘lokschapen’ langs paden waar
+              mensen lopen, een significante vermindering van het aantal teken kan
+              opleveren.
+1p   39       Noteer een aanvullende handeling die nodig is om het aantal teken te
+              verminderen bij het op deze manier inzetten van lokschapen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1018-a-o                                              20 / 20                                          lees verdereinde
+                                                                                                                       ►►► 
+

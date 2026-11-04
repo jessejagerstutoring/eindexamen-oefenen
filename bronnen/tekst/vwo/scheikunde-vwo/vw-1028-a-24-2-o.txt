@@ -1,0 +1,457 @@
+                                                                    Examen VWO
+
+                                                                        2024
+                                                                               tijdvak 2
+                                                                      maandag 24 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 65 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-24-2-o
+              Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+              T = 298 K en p = p0.
+
+
+        TCP en het aerotoxisch syndroom
+
+              Het aerotoxisch syndroom is een aandoening die in verband wordt
+              gebracht met regelmatig vliegen. Een van de mogelijke oorzaken van
+              deze aandoening is verontreiniging van de lucht in het vliegtuig door
+              minimale hoeveelheden tri-cresylfosfaat (TCP).
+              TCP wordt toegevoegd aan de smeerolie van straalmotoren en kan via
+              kleine lekkages in de lucht van het vliegtuig terechtkomen.
+              In figuur 1 is de reactievergelijking gegeven van de vorming van TCP uit
+              onder andere cresol.
+
+              figuur 1
+
+
+
+
+              De reactie in figuur 1 is slechts een voorbeeld. Het gebruikte cresol is
+              namelijk een mengsel van drie structuurisomeren met dezelfde naam van
+              de hoofdketen.
+
+2p      1     Geef de systematische namen van deze drie structuurisomeren.
+
+              Het fosforatoom in TCP heeft een 4-omringing. De ruimtelijke verdeling
+              van de atoombindingen rondom het fosforatoom is vergelijkbaar met die
+              rondom een koolstofatoom met 4-omringing.
+
+2p      2     Leg uit welke vorm van stereo-isomerie kan optreden bij TCP.
+
+              Een mogelijke oorzaak van de aandoening is een verandering in een
+              belangrijk enzym in de lever. In de lever komt het enzym BChE voor, dat
+              een rol speelt bij de hydrolyse van bepaalde esters.
+              Wanneer het lichaam TCP opneemt, wordt een van de isomeren van TCP
+              in de lever omgezet tot stof A (zie figuur 2).
+              Vervolgens wordt in drie reacties een serine-eenheid van BChE omgezet
+              tot een fosfoserine-eenheid. In het vervolg van deze opgave wordt de
+              omgezette BChE aangeduid met BChE-P.
+
+
+
+
+     VW-1028-a-24-2-o                           2 / 12                           lees verder ►►►
+              figuur 2
+
+
+
+
+              Reactie 2 begint met een aanval van de OH-groep van een serine-
+              eenheid op het fosforatoom in CBDP. Hierbij ontstaat onder meer stof X.
+
+2p      3     Teken de structuurformule van stof X.
+
+              In een onderzoek kon de aanwezigheid van BChE-P in bloed worden
+              aangetoond. Men volgde hierbij de volgende stappen:
+              1 afname van bloed bij gezonde mensen en bij mensen met klachten
+              2 isolatie van BChE uit bloed waarin eventueel BChE-P voorkomt
+              3 hydrolyse van BChE; hierbij worden korte peptideketens gevormd
+              Van het mengsel van peptideketens afkomstig uit stap 3 werden
+              vervolgens massaspectra gemaakt. Uit de resultaten kon worden
+              opgemaakt dat de omzetting van de serine-eenheid uitsluitend
+              aantoonbaar is in peptideketen 1.
+
+              Phe – Gly – Glu – Ser – Ala – Gly – Ala – Ala – Ser      (peptideketen 1)
+
+              In de massaspectra van zowel gezonde mensen als patiënten is bij
+              m/z = 794 een piek te zien die afkomstig is van peptideketen 1.
+              Bij de ionisatie in de massaspectrometer wordt een H+-ion afgesplitst van
+              de ongeladen peptideketens die in stap 3 zijn gevormd.
+
+2p      4     Leg uit met behulp van een berekening dat de piek bij m/z = 794 hoort bij
+              peptideketen 1.
+              Gebruik hierbij gegevens uit de tabel op de uitwerkbijlage.
+
+3p      5     Teken de structuurformule van het gedeelte ~ Glu – Ser – Ala ~ waarin de
+              serine-eenheid is omgezet tot een fosfoserine-eenheid.
+
+
+
+     VW-1028-a-24-2-o                           3 / 12                           lees verder ►►►
+        Lignine: nuttig afval
+
+              Hout bevat vooral de biopolymeren cellulose en lignine. Bij de isolatie van
+              cellulose voor bijvoorbeeld papier, komt een grote hoeveelheid lignine vrij.
+              De stof lignine kent nog weinig toepassingen.
+              In hout komen ook andere biopolymeren voor, zoals glucomannan.
+              Glucomannan is een polysacharide, opgebouwd uit (D-glucose en
+              D-mannose.
+              De structuur van een molecuul D-mannose is gelijk aan die van
+              (D-glucose, waarbij de stereochemie op C2 anders is.
+              De koppeling tussen beide monosachariden vindt uitsluitend plaats via de
+              OH-groepen op C1 en C4.
+
+3p      6     Teken de structuurformule van een gedeelte van een molecuul
+              glucomannan. Dit gedeelte moet komen uit het midden van het molecuul
+              en moet zijn ontstaan uit een molecuul D-mannose en een molecuul
+              (D-glucose.
+               Gebruik de notatie die ook in het informatieboek wordt gehanteerd.
+               Gebruik Binas-tabel 67F1 of ScienceData-tabel 13.1d.
+
+              Cellulose is een lineair ketenpolymeer van glucose. Cellulose kan door
+              regelmatige stapeling van de ketens kristallijne gebieden vormen.
+              Lignine (zie figuur 1) bevindt zich tussen de ketens van cellulose in hout.
+
+              figuur 1
+
+
+
+
+2p      7     Leg met behulp van figuur 1 uit of lignine ook kristallijne gebieden kan
+              vormen.
+
+
+
+     VW-1028-a-24-2-o                            4 / 12                            lees verder ►►►
+           Het kraft-proces is het meest gebruikte proces om cellulose te verkrijgen
+           uit hout. Het kraft-proces omvat enkele stappen.
+           Eerst wordt houtpulp wordt met water en chemicaliën verhit, zodat de
+           lignine gedeeltelijk wordt gehydrolyseerd. Daarna wordt cellulose
+           afgescheiden van het mengsel van lignine en chemicaliën. Ten slotte
+           wordt de cellulose gedroogd en de chemicaliën worden deels
+           teruggewonnen.
+           De benodigde warmte voor het drogen van cellulose wordt verkregen door
+           de verbranding van de verkregen lignine. Hierbij wordt ook elektrische
+           energie opgewekt.
+           Het kraft-proces voldoet aan een aantal uitgangspunten van de groene
+           chemie.
+
+2p   8     Geef twee verschillende uitgangspunten van de groene chemie, waaraan
+           het kraft-proces voldoet.
+           Noteer je antwoord als volgt:
+           Uitgangspunt … – toelichting: …
+           Uitgangspunt … – toelichting: …
+
+           De lignine kan mogelijk ook worden toegepast in de elektrochemische
+           productie van waterstof. Deze verloopt efficiënter wanneer hierbij een
+           hulpstof zoals lignine wordt gebruikt.
+           In een onderzoek naar deze toepassing van lignine hebben onderzoekers
+           twee afzonderlijke reacties uitgevoerd:
+           stap 1     Biomassa wordt gemengd met een oplossing van het sterke zuur
+                      fosfomolybdeenzuur ( H3PMo12O40 of H3POM).
+           stap 2     Elektrolyse van het mengsel dat na enige tijd is ontstaan.
+           De opstelling en de optredende halfreacties zijn in figuur 2 schematisch
+           weergegeven.
+
+           figuur 2
+
+
+
+
+ VW-1028-a-24-2-o                           5 / 12                            lees verder ►►►
+           Bij elk experiment werd in stap 1 telkens 10 mL oplossing gebruikt waarin
+           bij aanvang [POM3–] = 0,50 M.
+
+2p   9     Bereken de massa fosfomolybdeenzuur die is gebruikt bij elk experiment.
+
+           De invloed van de temperatuur op de reacties in stap 1 is onderzocht. In
+           figuur 3 zijn de resultaten weergegeven.
+
+           figuur 3
+
+
+
+
+2p   10    Leg uit, aan de hand van het botsende-deeltjes-model, welk experiment
+           bij de hoogste temperatuur is uitgevoerd.
+
+           In stap 1 en tijdens de elektrolyse ontstaan allerlei      figuur 4
+           nuttige afbraakproducten van lignine. Met behulp van
+           gaschromatografie is onder andere de vorming van
+           vanilline (zie figuur 4) bewezen. Een monster van de
+           aanwezige stoffen werd hiervoor in een polaire kolom
+           ingespoten met decaan als referentiestof.
+
+
+3p   11    Leg uit of vanilline bij deze kolom een kleinere of een grotere retentietijd
+           heeft dan decaan.
+
+           In een experiment werd een maximale ladingsoverdracht van 18 mmol
+           elektronen per gram lignine bereikt. De lignine was afkomstig van droog
+           naaldhout met een gemiddeld ligninegehalte van 28 massa%.
+
+5p   12    Bereken het volume in m3 waterstof dat op deze wijze kan worden
+           geproduceerd met behulp van 1,0 kg droog naaldhout.
+           Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+
+
+ VW-1028-a-24-2-o                             6 / 12                             lees verder ►►►
+     Geosmine
+
+           Als na een langere periode van droogte in de zomer een regenbui valt,
+           ruik je buiten een karakteristieke geur. Deze geur wordt mede veroorzaakt
+           door de stof geosmine. Geosmine wordt geproduceerd door bepaalde
+           bacteriën in de bodem.
+           In figuur 1 zijn de volledige en de schematische structuurformule van
+           (–)-geosmine weergegeven. Deze isomeer van geosmine is de enige
+           stereo-isomeer die wordt gevormd door de bacteriën.
+
+           figuur 1
+
+
+
+
+           In het laboratorium is het spiegelbeeld van (–)-geosmine gesynthetiseerd.
+
+2p   13    Teken de schematische structuurformule van het spiegelbeeld van
+           (–)-geosmine.
+
+           In het vervolg van deze opgave worden uitsluitend schematische
+           structuurformules gebruikt. In figuur 2 is de biosynthese van geosmine
+           weergegeven. Een deeltje FPP wordt door één enzym in twee stappen
+           omgezet tot een molecuul geosmine.
+
+           figuur 2
+
+
+
+
+ VW-1028-a-24-2-o                           7 / 12                           lees verder ►►►
+           In stap 1 worden twee elektronenparen verplaatst waardoor het ion P2O74−
+           wordt afgesplitst en zich ion A+ (C15H25+) vormt. Vervolgens reageert A+
+           door tot germacradienol. In de structuurformule van ion A+ bevindt zich
+           een ring van 10 C-atomen met daarin twee dubbele bindingen.
+
+2p   14    Teken de schematische structuurformule van ion A+. Je hoeft hierbij geen
+           rekening te houden met stereo-isomerie.
+
+           Het mechanisme van stap 2 is lang onduidelijk geweest. Om hierover
+           duidelijkheid te krijgen, is in germacradienol een H-atoom vervangen door
+           een D-atoom (2H). Het enzym produceert dan geosmine-D.
+           Onderzoeker Cane presenteerde een mechanisme waarbij het D-atoom
+           met elektronenpaar naar C3 wordt verplaatst (zie figuur 3).
+
+           figuur 3
+
+
+
+
+           In beide stappen in figuur 3 wordt zowel een H+-ion gebonden als weer
+           afgesplitst. Bij de omzetting van germacradienol- D tot geosmine-D wordt
+           een molecuul van stof X gevormd.
+
+2p   15    Geef de systematische naam van stof X.
+
+           Dit mechanisme was volgens een ander wetenschappelijk team onder
+           leiding van Boland niet juist. Zij stelden een ander mechanisme voor,
+           waarin het D-atoom naar de linker zesring wordt verplaatst in plaats van
+           naar de rechter.
+           Massaspectrometrie gaf uiteindelijk uitsluitsel welk mechanisme het best
+           past bij de vorming van geosmine-D.
+
+
+
+
+ VW-1028-a-24-2-o                           8 / 12                           lees verder ►►►
+           In figuur 4 zijn de twee manieren weergegeven hoe het geosmine-D, dat
+           volgens Cane wordt gevormd, na ionisatie fragmenteert in de
+           massaspectrometer.
+           Bij fragmentatie 1 worden in de linker ring twee C–C-bindingen verbroken.
+           Hierbij worden pent-1-een en fragment-ion Y+ gevormd.
+           Bij fragmentatie 2 worden op een vergelijkbare manier ook twee
+           C–C-bindingen verbroken, maar dan in de rechter ring.
+
+           figuur 4
+
+
+
+
+           Beide manieren van fragmenteren treden op.
+
+3p   16    Teken de schematische structuurformule van het neutrale deeltje dat
+           wordt afgesplitst bij fragmentatie 2.
+
+           Het massaspectrum van geosmine-D is weergegeven in figuur 5.
+
+           figuur 5
+
+
+
+
+           Het fragment-ion Z+ is verantwoordelijk voor de piek bij m/z = 126 in het
+           massaspectrum.
+
+2p   17    Leg uit dat het massaspectrum een aanwijzing geeft dat het mechanisme
+           voorgesteld door Boland niet juist kan zijn.
+
+
+
+ VW-1028-a-24-2-o                            9 / 12                            lees verder ►►►
+     Distikstoftetraoxide
+
+           Distikstoftetraoxide (N2O4) is een sterke oxidator, die onder andere wordt
+           gebruikt in raketmotoren. N2O4 ontstaat als bijproduct bij de productie van
+           salpeterzuur (HNO3). Door de toegenomen vraag naar N2O4 wordt
+           onderzoek gedaan of het mogelijk is om salpeterzuurfabrieken om te
+           bouwen naar N2O4-fabrieken.
+           Op basis van het onderzoek werd een aangepast proces voorgesteld met
+           twee reactoren. In reactor 1 (R1) reageert ammoniak met een overmaat
+           zuurstof tot stikstofmono-oxide en waterdamp.
+
+4p   18    Voer de volgende opdrachten uit:
+            Geef de vergelijking van de reactie die verloopt in R1.
+            Bereken de reactiewarmte van deze reactie in joule per mol
+              ammoniak.
+
+           Het gasmengsel afkomstig uit R1 wordt in scheidingsruimte 1 (S1)
+           gebracht, waar water volledig wordt afgescheiden. Het gevormde
+           stikstofmono-oxide reageert vervolgens in reactor 2 (R2) met zuurstof tot
+           stikstofdioxide, waarbij zich twee evenwichten instellen.
+           2 NO (g) + O2 (g)  2 NO2 (g)                           (evenwicht 1)
+           2 NO2 (g)  N2O4 (g)                                    (evenwicht 2)
+           De reactie naar rechts is voor beide evenwichten in R2 exotherm.
+           Onderdeel van het onderzoek was de vraag hoe het rendement van de
+           productie van N2O4 kan worden verhoogd door de druk en de temperatuur
+           in R2 te variëren.
+
+2p   19    Noteer in de tabel op de uitwerkbijlage hoe de ligging van elk evenwicht
+           wordt beïnvloed als de druk en/of de temperatuur wordt verhoogd.
+            Noteer ‘links’ als de reactie naar links wordt bevorderd.
+            Noteer ‘rechts’ als de reactie naar rechts wordt bevorderd.
+
+           De uitstroom van R2 wordt in een scheidingsruimte gebracht, waar N2O4
+           in vloeibare vorm wordt afgescheiden van de rest van het gasmengsel.
+           De onderzoekers hebben op basis van het onderzoek een mogelijk
+           blokschema voorgesteld van een N2O4-fabriek.
+
+4p   20    Maak op de uitwerkbijlage het voorgestelde blokschema compleet.
+           Neem aan dat in de uitstroom van R2 geen zuurstof meer aanwezig is.
+            Teken ontbrekende reactoren en scheidingsruimtes.
+            Teken ontbrekende pijlen en noteer ontbrekende stoffen bij alle pijlen.
+              Houd hierbij rekening met hergebruik van stoffen.
+            Neem aan dat bij het proces behalve water geen afval vrijkomt.
+
+
+
+
+ VW-1028-a-24-2-o                           10 / 12                            lees verder ►►►
+          N2O4 kan in een raketmotor worden          figuur
+          gebruikt als oxidator. De brandstof is
+          hierbij bijvoorbeeld monomethyl-
+          hydrazine (MMH, zie de figuur).
+
+
+           MMH en N2O4 vormen een zogeheten ‘hypergool mengsel’. Dat is een
+           mengsel dat spontaan ontbrandt als de stoffen worden gemengd.
+           Onderzoek heeft uitgewezen dat er bij contact tussen MMH en N2O4 twee
+           reacties verlopen.
+           Eerst verloopt een ontstekingsreactie (reactie 1) die genoeg energie
+           levert, zodat de uiteindelijke verbrandingsreactie (reactie 2) kan starten.
+           In reactie 2 worden MMH en N2O4 omgezet tot stikstof, koolstofdioxide en
+           waterdamp.
+
+3p   21    Geef de vergelijking van reactie 2. Gebruik hierbij molecuulformules.
+
+           Op de uitwerkbijlage zijn twee energiediagrammen onvolledig
+           weergegeven: een voor de ontstekingsreactie (reactie 1) en een voor de
+           uiteindelijke verbrandingsreactie (reactie 2). Beide energiediagrammen
+           zijn op dezelfde schaal weergegeven.
+
+2p   22    Maak op de uitwerkbijlage beide energiediagrammen compleet met de
+           energieniveaus van de geactiveerde toestanden en van de
+           reactieproducten. Je hoeft geen bijschriften te vermelden.
+
+           Bij onderzoek in de jaren 60 naar de ontstekingsreactie is de reactie
+           tussen MMH en N2O4 onderzocht bij zeer lage temperaturen.
+           MMH is vloeibaar bij de gebruikte temperaturen terwijl N2O4 vast is.
+           Het smeltpunt van MMH is –52 °C.
+
+2p   23    Leg uit tussen welke temperatuurgrenzen dit onderzoek heeft
+           plaatsgevonden. Noteer je antwoord als volgt: … K ≤ temperatuur ≤ … K.
+           Gebruik Binas-tabel 42A of ScienceData-tabel 8.3a.
+
+
+           Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+     VW-1028-a-24-2-o                          11 / 12                             lees verder ►►►
+            Uit dit onderzoek volgde dat meerdere isomeren van N2O4 in het mengsel
+            aanwezig waren en dat een van deze isomeren, ONONO2 betrokken was
+            bij de ontstekingsreactie.
+            Door de koeling vonden vervolgreacties niet plaats en was men in staat
+            de reactieproducten van de ontstekingsreactie te onderzoeken.
+            Op de uitwerkbijlage is het ONONO2-isomeer weergegeven samen met
+            het MMH-molecuul waarmee het reageert. Verder zijn de reactieproducten
+            van de ontstekingsreactie gegeven.
+
+3p   24     Voer de volgende opdrachten uit:
+             Teken op de uitwerkbijlage links van de pijl de ontbrekende niet-
+               bindende elektronenparen. Geef ook formele ladingen aan.
+             Geef met pijlen weer hoe elektronenparen worden verplaatst tijdens
+               de reactie.
+
+            In 1975 is er bijna een ongeluk gebeurd met een Apollo-ruimtevaartuig.
+            Tijdens de terugkeer in de dampkring werd een luchtinlaat geopend,
+            waardoor N2O4 in de cabine terechtkwam. De drie aanwezige astronauten
+            konden op tijd een zuurstofmasker opzetten.
+            Bij het incident is ongeveer 11 gram N2O4 in de cabine met een volume
+            van 5,9 m3 terechtgekomen. Gehaltes van N2O4 boven de waarde
+            300 volume-ppm worden als levensgevaarlijk beschouwd.
+            Het molair volume van een gas is 2,39·10–2 m3 mol–1.
+
+4p   25     Voer de volgende opdrachten uit:
+             Bereken het gehalte N2O4 in de cabine in volume-ppm.
+               Geef de uitkomst in het juiste aantal significante cijfers.
+             Geef aan of het gehalte boven de grens van levensgevaar is
+               gekomen.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+ VW-1028-a-24-2-o                                          12 / 12                                          lees verder
+                                                                                                                    einde 
+                                                                                                                        ►►►
+

@@ -1,0 +1,433 @@
+                                                                    Examen VWO
+
+                                                                        2026
+                                            1                                  tijdvak 1
+                                                                        dinsdag 193 mei
+                                                                                     uur
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 25 vragen.
+ Voor dit examen zijn maximaal 68 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-26-1-o
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+
+      Bubbelbad
+
+            Een bubbelbad is een verwarmd zitbad voor meerdere personen. De
+            watertemperatuur is meestal zo rond de 37 °C. Het water in een
+            bubbelbad moet vrij worden gehouden van micro-organismen zoals
+            bacteriën en van zogeheten zwemmersvuil (bijvoorbeeld zweet,
+            cosmetica). Oplossingen van onderchlorigzuur (HClO) en
+            natriumhypochloriet (NaClO) zijn hiervoor effectieve middelen. Beide
+            oplossingen bevatten een sterke oxidator die zwemmersvuil afbreekt.
+            Het chlooratoom in HClO en ClO‒ wordt ‘actief chloor’ genoemd, en kan
+            worden beschouwd als een Cl+ deeltje . Dit Cl+ is een reactief deeltje.
+
+2p    1     Geef de lewisstructuur van Cl+ en leg uit dat Cl+ een reactief deeltje is.
+
+            Een molecuul HClO kan het celmembraan van micro-organismen
+            passeren en bacteriën doden. Een celmembraan kan worden voorgesteld
+            als een dubbellaag van fosfolipide-deeltjes (figuur 1).
+
+            figuur 1
+
+
+
+
+            Het ClO‒-ion kan het celmembraan niet passeren.
+
+2p    2     Leg uit dat het ClO‒-ion het celmembraan niet kan passeren. Maak
+            eventueel gebruik van je informatieboek.
+
+
+
+
+VW-1028-a-26-1-o                             2 / 11                             lees verder ►►►
+            In een bubbelbad waarin HClO en ClO‒ aanwezig zijn, treedt evenwicht 1
+            op.
+
+            HClO + H2O                   H3O+ + ClO‒           (evenwicht 1)
+
+                       H 3O   ClO  
+            met K z                          .
+                             HClO
+
+            Een bubbelbad heeft een gemiddelde temperatuur van 37 °C.
+            De Kz-waarde van HClO bij die temperatuur is 6·10–8.
+            Omdat HClO-deeltjes beter de cel binnendringen dan ClO‒, is het
+            reinigend vermogen van een oplossing van actief chloor vooral afhankelijk
+            van de hoeveelheid HClO.
+            De ligging van evenwicht 1 is afhankelijk van de temperatuur, waardoor
+            ook de totaal reinigende werking afhankelijk is van de temperatuur.
+
+3p    3     Leg uit met behulp van de evenwichtsvoorwaarde of de totaal reinigende
+            werking bij 37 °C hoger of lager is dan die bij 25 °C.
+             Gebruik Binas-tabel 49 of ScienceData-tabel 9.1.c.
+             Ga ervan uit dat de pH-waarde van water onafhankelijk is van de
+               temperatuur.
+
+            HClO en ClO‒ zijn niet bestand tegen uv-straling. Ze worden afgebroken
+            tot reactieproducten die nauwelijks een reinigende werking hebben.
+            Zo wordt HClO in water afgebroken tot zoutzuur en zuurstof.
+
+2p    4     Geef de vergelijking voor deze afbraak van HClO.
+
+            In bubbelbaden die worden blootgesteld aan zonlicht kan daarom beter
+            het uv-bestendige trichloorisocyanuurzuur (TCCA) worden gebruikt.
+            TCCA wordt industrieel gemaakt uit ureum, natronloog en chloor. Hierbij
+            wordt onder andere het tussenproduct cyanuurzuur (H3Cy) gevormd.
+            De optredende omzettingen zijn in figuur 2 onvolledig weergegeven.
+
+            figuur 2
+
+
+
+
+3p    5     Noteer op de uitwerkbijlage de formules van de deeltjes P, Q, R en S.
+
+
+
+
+VW-1028-a-26-1-o                                  3 / 11                       lees verder ►►►
+            Elk chlooratoom in TCCA kan ook optreden als ‘actief chlooratoom’,
+            omdat in een oplossing van TCCA in water reactie 1 optreedt.
+
+
+
+
+            Bregje en Martin gebruiken TCCA-tabletten voor het reinigen van hun
+            bubbelbad. Enkele gegevens van het bad en de tabletten staan in de
+            tabel.
+
+            tabel
+
+              dichtheid van het water       1,0∙103 kg m‒3
+              massa TCCA in een tablet           10 g
+              molaire massa TCCA             232 g mol‒1
+              waterinhoud bubbelbad             2,3 m3
+
+            Elk TCCA-tablet genereert in het bubbelbad een gehalte ‘actief chloor’
+            van 2,0 massa-ppm Cl.
+
+3p    6     Toon dit aan. Neem aan dat de dichtheid van het badwater niet verandert
+            door toevoeging van tabletten.
+
+            Wanneer de TCCA op is, voegen zij een nieuw tablet aan het water toe.
+            Met elk tablet stijgt de concentratie van H3Cy.
+            Men adviseert het bubbelbadwater te verversen als het gehalte H3Cy
+            boven 65 massa-ppm komt.
+
+2p    7     Bereken na hoeveel TCCA-tabletten Bregje en Martin het water moeten
+            verversen. De molaire massa van H3Cy is 129 g mol‒1.
+            Neem aan dat de totale massa van het badwater niet verandert door
+            toevoeging van tabletten.
+
+
+
+
+VW-1028-a-26-1-o                           4 / 11                            lees verder ►►►
+      Bio-SAP uit kleding
+
+            Een superabsorberend polymeer (SAP) is een materiaal dat grote
+            hoeveelheden water kan absorberen. Dit kan bijvoorbeeld worden
+            toegepast in luiers. Onderzoekers hebben een biologisch afbreekbaar
+            superabsorberend polymeer (bio-SAP) ontwikkeld op basis van gebruikt
+            katoen. Katoen bestaat voornamelijk uit cellulose en voor een klein deel
+            uit pectine. Pectine is een polysacharide opgebouwd uit eenheden
+            ()-D-galacturonzuur.
+            Een eenheid ()-D-galacturonzuur kan worden voorgesteld als een
+            eenheid ()-D-galactose, waarin de oriëntatie van de OH-groep op C1
+            anders is. Verder is de CH2OH-groep vervangen door een carboxylgroep.
+            In pectine zijn de eenheden ()-D-galacturonzuur aan elkaar verbonden
+            door middel van de OH-groepen aan de C-atomen met nummers 1 en 4.
+
+3p    8     Teken de structuurformule van een fragment uit het midden van een keten
+            van pectine. Dit fragment moet bestaan uit twee eenheden
+            ()-D-galacturonzuur.
+             Gebruik de ruimtelijke notatie die ook in je informatieboek wordt
+                gehanteerd.
+             Gebruik Binas-tabel 67F1 of ScienceData-tabel 13.1.d.
+
+            In de productie van het bio-SAP wordt eerst cellulose gewonnen uit
+            gebruikt katoen, waarna de cellulose wordt omgezet tot carboxy-
+            methylcellulose (CMC). De omzetting vindt plaats in oplossing A bij 30 °C.
+            Oplossing A wordt bereid door ethanol (C2H6O) en natriumhydroxide
+            (NaOH) in een molverhouding van 1 : 1 in water op te lossen.
+            Het uiteindelijke massapercentage van ethanol en natriumhydroxide
+            samen bedraagt 18%. De dichtheid van oplossing A is 1,13103 kg m–3.
+
+4p    9     Bereken de pH van oplossing A bij 30 °C. Maak onder andere gebruik van
+            een gegeven uit Binas-tabel 50A of ScienceData-tabel 9.1.e.
+
+            Als eerste stap wordt cellulose toegevoegd aan oplossing A. Vervolgens
+            wordt monochloor-ethaanzuur toegevoegd aan het reactiemengsel.
+            In de optredende reacties wordt een klein deel van de OH-groepen in
+            cellulose omgezet tot OCH2COO–-groepen.
+            Bij deze reactie ontstaan behalve CMC ook chloride-ionen en water.
+            De omzetting van een OH-groep van cellulose is op de uitwerkbijlage
+            onvolledig weergegeven.
+
+3p   10     Maak op de uitwerkbijlage de reactievergelijking compleet.
+            Gebruik structuurformules voor de organische deeltjes.
+
+
+
+
+VW-1028-a-26-1-o                            5 / 11                           lees verder ►►►
+            Om de gevormde CMC te kunnen omzetten tot het bio-SAP, worden eerst
+            de nog aanwezige negatief geladen groepen geneutraliseerd met een
+            zure oplossing. Vervolgens wordt CMC gemengd met citroenzuur (zie de
+            figuur). CMC wordt dan door condensatiereacties omgezet tot het bio-
+            SAP.
+
+            figuur
+
+
+
+
+3p   11     Voer de volgende opdrachten uit:
+             Geef aan welke karakteristieke groepen worden gevormd bij deze
+               reacties.
+             Leg uit of er een netwerkpolymeer kan ontstaan.
+
+            Om het bio-SAP te maken hebben de onderzoekers CMC volledig laten
+            reageren met citroenzuur in de massaverhouding
+            CMC : citroenzuur = 9,0 : 1,0. De gemiddelde molaire massa van de
+            gebruikte CMC bedraagt 152103 g mol–1.
+            Het gemiddelde aantal monomeereenheden per CMC-molecuul is 6,2102.
+
+4p   12     Bereken het aantal monomeereenheden CMC per molecuul citroenzuur in
+            het materiaal. Geef de uitkomst in het juiste aantal significante cijfers.
+
+            Ten slotte wordt het gevormde bio-SAP nog behandeld met een base.
+            Door deze behandeling zijn in het materiaal weer OCH2COO–-groepen
+            aanwezig met daaraan gebonden natriumionen. Wanneer water wordt
+            opgenomen in dit bio-SAP gaan de OCH2COO–-groepen elkaar afstoten.
+            Hierdoor ontstaat meer afstand tussen de ketens waardoor het materiaal
+            zeer veel water kan opnemen.
+            Wanneer dit bio-SAP wordt toegepast in luiers, is de hoeveelheid water
+            die kan worden opgenomen afhankelijk van de pH van de urine.
+
+3p   13     Leg uit of het materiaal bij lagere pH meer of minder water kan
+            opnemen dan bij pH = 7. Betrek in je antwoord de interacties die een rol
+            spelen bij het opnemen van water door bio-SAP.
+
+
+
+
+VW-1028-a-26-1-o                            6 / 11                           lees verder ►►►
+      DHA en zelfbruiners
+
+            Van nature wordt de huid bruin onder invloed van de zon. Bij de
+            natuurlijke bruinkleuring van de huid spelen melaninen een belangrijke
+            rol. Deze groep stoffen wordt in het lichaam vooral gesynthetiseerd uit de
+            aminozuren tyrosine en cysteïne. Op de uitwerkbijlage is een mogelijke
+            structuurformule van feomelanine weergegeven.
+            Bij de vorming van een molecuul van deze stof worden van twee cysteïne-
+            eenheden uitsluitend H-atomen afgesplitst.
+
+1p   14     Omcirkel op de uitwerkbijlage alle atomen die afkomstig zijn van deze
+            twee cysteïne-eenheden.
+
+            Om ook zonder zon de huid te bruinen, kan een
+            zelfbruiner worden gebruikt. Dat is meestal een
+            crème die DHA bevat (figuur 1).
+            DHA is een klein acyclisch koolhydraat.
+
+            Wanneer een oplossing van DHA langzaam wordt ingedampt, vormt zich
+            een dimeer. Het O-atoom van een OH-groep van het ene molecuul DHA
+            valt hierbij als nucleofiel aan op het C-atoom van de C=O-groep van het
+            andere molecuul DHA. Deze reactie kan ook worden opgevat als de
+            additie van een OH-groep aan de C=O-groep. Omdat dit tweemaal
+            gebeurt, vormt zich het cyclische dimeer van DHA (figuur 2).
+
+            figuur 2
+
+
+
+
+2p   15     Geef op de uitwerkbijlage bij elk O-atoom met een cijfer aan of deze
+            afkomstig is uit een C=O-groep of uit een OH-groep van DHA.
+            Gebruik hiervoor de volgende cijfers:
+            1 voor een O-atoom afkomstig uit een C=O-groep van DHA.
+            2 voor een O-atoom afkomstig uit een OH-groep van DHA.
+
+
+
+
+VW-1028-a-26-1-o                            7 / 11                           lees verder ►►►
+            DHA vormt in de huid een bruine kleur doordat het reageert met
+            aminozuureenheden. Op de uitwerkbijlage is een stap uit het mechanisme
+            van de reactie van DHA met een aminozuureenheid weergegeven.
+            In deze stap spelen H2O-moleculen en H3O+-ionen een rol.
+
+2p   16     Voer op de uitwerkbijlage de volgende opdrachten uit:
+             Teken in het omkaderde deel de niet-bindende elektronenparen.
+             Geef in het omkaderde deel met pijlen weer hoe elektronenparen
+               worden verplaatst tijdens de reactie.
+
+            DHA kan elektrochemisch worden geproduceerd
+            op basis van glycerol (propaan-1,2,3-triol).
+            In figuur 3 is deze elektrochemische omzetting onvolledig weergegeven.
+
+
+
+
+            Aan de ene elektrode verloopt de omzetting van glycerol tot DHA, terwijl
+            aan de andere elektrode waterstof wordt gevormd.
+            Tijdens een experiment werd in een tijd van 3,0 uur een hoeveelheid van
+            8,4 mol DHA gevormd.
+
+4p   17     Geef de vergelijkingen van de halfreacties die verlopen en geef de
+            totaalvergelijking. Gebruik molecuulformules.
+3p   18     Bereken de minimale stroomsterkte in ampère die nodig was tijdens het
+            experiment. 1 A = 1 C s–1.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+
+
+VW-1028-a-26-1-o                           8 / 11                           lees verder ►►►
+      De productie van propeenoxide
+
+            Propeenoxide (figuur 1) wordt onder andere gebruikt als
+            grondstof voor de productie van koelmiddelen.
+            Op de uitwerkbijlage bij vraag 24 is het blokschema van
+            een veelgebruikte productiemethode van propeenoxide
+            onvolledig weergegeven.
+
+            De productie start in reactor 1 (R1) met de reactie van 2-methylpropaan
+            met lucht. Hierbij wordt de stof MPHO gevormd. In figuur 2 is een deel
+            van het mechanisme van deze reactie weergegeven.
+
+            figuur 2
+
+
+
+
+            In het mechanisme komt het MPO-radicaal voor. De structuurformule van
+            dit deeltje is niet weergegeven in figuur 2.
+
+2p   19     Teken de lewisstructuur van het MPO-radicaal.
+
+            In R1 wordt behalve MPHO ook 2-methylpropaan-2-ol gevormd. Tevens
+            ontstaan hier de belangrijkste nevenproducten propanon en water.
+            Het reactiemengsel afkomstig uit R1 bevat geen zuurstof meer.
+            Het mengsel wordt in scheidingsruimte 1 (S1) gedestilleerd. De gasstroom
+            die S1 verlaat, bevat stikstof, propanon en 2-methylpropaan.
+            De andere stroom is vloeibaar en bevat MPHO, 2-methylpropaan-2-ol en
+            water. Het kookpunt van MPHO is hoger dan dat van
+            2-methylpropaan-2-ol.
+
+2p   20     Geef aan tussen welke temperatuurgrenzen het mengsel afkomstig uit R1
+            moet worden gedestilleerd.
+            Gebruik in je antwoord gegevens uit je informatieboek.
+
+
+
+
+VW-1028-a-26-1-o                           9 / 11                           lees verder ►►►
+            De gasstroom vanuit S1 met stikstof, propanon en 2-methylpropaan wordt
+            naar een koeler geleid. Het propanon wordt vanuit de koeler afgevoerd als
+            afval. De rest van de gasstroom wordt van de koeler teruggevoerd naar
+            R1. Het is noodzakelijk om een deel van de gasstroom die van de koeler
+            naar R1 gaat, af te voeren als afvalstroom.
+
+2p    21    Leg uit dat een deel van deze gasstroom moet worden afgevoerd.
+
+            De vloeistofstroom afkomstig uit S1 wordt doorgevoerd naar reactor 2
+            (R2). In R2 wordt propeen toegevoegd. MPHO en propeen worden in R2
+            volledig omgezet tot propeenoxide en (extra) 2-methylpropaan-2-ol (vanaf
+            nu 2-MP-ol). De totaalreactie van het proces in R1 en R2 is hieronder
+            gegeven.
+
+            totaalreactie
+            C3H6 + O2 +        C4H10        →         C 3H 6O    +    C4H10O
+            propeen           2-methylpropaan         propeenoxide    2-MP-ol
+
+            De grondstoffen zijn in dit proces zo gekozen, dat niet alleen
+            propeenoxide maar ook het bijproduct 2-MP-ol kan worden verkocht.
+            Bij de gelijktijdige vorming van 1,0·103 mol propeenoxide en 1,0·103 mol
+            2-MP-ol ontstaat 7,80 kg afval. Dit afval bestaat uit de afvalstroom vanuit
+            de koeler en vervuild proceswater.
+
+4p    22    Voer de volgende opdrachten uit:
+             Geef aan wat de atoomeconomie van de totaalreactie is.
+             Bereken de E-factor van het totale proces.
+
+            Water, 2-MP-ol en propeenoxide afkomstig uit R2 zijn volledig mengbaar.
+            In scheidingsruimte 2 (S2) worden deze stoffen door gefractioneerde
+            destillatie gescheiden in drie afzonderlijke stromen.
+            Dat propeenoxide volledig mengbaar is met water, kan onder andere
+            worden verklaard uit de afwijkende bindingshoeken rondom het O-atoom.
+
+2p    23    Voer de volgende opdrachten uit:
+             Leg uit hoe groot de verwachte bindingshoek C-O-C in een molecuul
+               propeenoxide is volgens de VSEPR-theorie.
+             Leg uit, met behulp van figuur 1, hoe groot de bindingshoek C-O-C in
+               het molecuul propeenoxide is.
+
+            In het blokschema ontbreken S2 en enkele stofstromen.
+
+4p    24    Maak op de uitwerkbijlage het blokschema compleet.
+             Teken S2.
+             Teken ontbrekende pijlen en noteer ontbrekende stoffen bij alle pijlen.
+              Houd hierbij rekening met hergebruik van stoffen.
+             Bij stofstromen aangeduid met een * hoef je niets aan te geven.
+
+
+
+
+VW-1028-a-26-1-o                            10 / 11                             lees verder ►►►
+            Het eindproduct propeenoxide kan vervolgens worden omgezet tot het
+            polymeer PPG. Een keten van PPG wordt in enkele stappen gevormd:
+            stap 1    reactie van propeenoxide met water tot propaan-1,2-diol
+            stap 2    reactie van propaan-1,2-diol met n moleculen propeenoxide
+            stap 3    terminatie
+
+            Het mechanisme van stap 2 is in figuur 3 weergegeven.
+
+            figuur 3
+
+
+
+
+3p    25    Teken de structuurformule van een fragment uit het midden van een
+            molecuul van het ontstane polymeer. Dit gedeelte moet zijn ontstaan uit drie
+            moleculen propeenoxide.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1028-a-26-1-o                                         11 / 11                                                      ►►►
+                                                                                                          lees verdereinde
+

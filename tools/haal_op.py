@@ -1,12 +1,13 @@
 """
-Haalt de centrale examens wiskunde van examenblad.nl op (examenjaren 2018 t/m nu).
+Haalt de centrale examens (standaard wiskunde) van examenblad.nl op (examenjaren 2018 t/m nu).
 
 Per examenjaar en niveau zoekt het script de vakpagina's van wiskunde, leest daar de
 documenten van tijdvak 1 en 2 (opgaven, correctievoorschrift, aanvullingen, uitwerkbijlage)
 en zet ze in pdf/<niveau>/<vak>/. Van elke pdf komt ook een tekstversie in tekst/ (pdftotext -layout).
 
 Draaien (vanuit de map eindexamen-oefenen):
-    python3 tools/haal_op.py
+    python3 tools/haal_op.py                                   alle wiskundevakken, alle niveaus
+    python3 tools/haal_op.py natuurkunde scheikunde --niveau havo vwo
 
 Al opgehaalde bestanden worden overgeslagen, dus opnieuw draaien haalt alleen wat nieuw is.
 De pdf's blijven lokaal (*.pdf staat in .gitignore). Auteursrecht: Staat der Nederlanden;
@@ -52,13 +53,19 @@ def soort(code):
 
 
 def main():
+    args = sys.argv[1:]
+    niveaus = NIVEAUS
+    if '--niveau' in args:
+        i = args.index('--niveau')
+        niveaus, args = args[i + 1:], args[:i]
+    vakpatroon = '|'.join(args or ['wiskunde'])
     lijst_pad = HIER / 'documenten.json'
     lijst = json.loads(lijst_pad.read_text()) if lijst_pad.exists() else []
     gezien = {d['code'] for d in lijst}
     for jaar in JAREN:
-        for niveau in NIVEAUS:
+        for niveau in niveaus:
             html = haal(f'{BASIS}/{jaar}/{niveau}/vakken/exacte-vakken')
-            vakken = sorted(set(re.findall(rf'/{jaar}/{niveau}/vakken/exacte-vakken/(wiskunde[a-z0-9-]*)', html)))
+            vakken = sorted(set(re.findall(rf'/{jaar}/{niveau}/vakken/exacte-vakken/((?:{vakpatroon})[a-z0-9-]*)', html)))
             for vak in vakken:
                 vhtml = haal(f'{BASIS}/{jaar}/{niveau}/vakken/exacte-vakken/{vak}')
                 docs = sorted(set(re.findall(rf'/{jaar}/{niveau}/documenten/(cse-[12])/([a-z]{{2}}-\d{{4}}-[a-z]-\d\d-[12][a-z0-9-]*)', vhtml)))

@@ -1,0 +1,633 @@
+                                                                       Examen VWO
+
+                                                                           2018
+                                                                                  tijdvak 2
+                                                                           dinsdag 19 juni
+                                                                         13.30 - 16.30 uur
+
+
+                                                                         natuurkunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 24 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-18-2-o
+VW-1023-a-18-2-o   2 / 15   lees verder ►►►
+      Mechanische doping
+
+            Begin 2016 werd in de wielrennerij ‘mechanische doping’ ontdekt: in het
+            frame van een racefiets zaten een elektromotortje en een accu verborgen.
+            Zie figuur 1.
+
+            figuur 1
+                                                               elektromotor
+                                   schakelaartje
+
+
+
+
+                                                                                trapas
+
+
+
+
+            Het motortje is via tandwielen met de trapas verbonden. Het kan aangezet
+            worden met een schakelaartje aan het stuur.
+            Het elektromotortje moet minstens figuur 2
+            een half uur lang een vermogen
+                                                 Accu
+            van 250 W leveren.
+            Stel dat het rendement van het       Spanning per cel (V)        3,6-3,7
+                                                                         1
+            elektromotortje 80% is.              Energiedichtheid ( Wh kg ) 190
+            In figuur 2 staat een tabel met      Dichtheid (103 kg m3)      3,0
+            gegevens van de accu.
+
+5p    1     Bereken met behulp van gegevens in de tabel het minimale volume van
+            de accu.
+
+            Om erachter te komen       figuur 3
+            wie gebruikmaakt van
+            deze mechanische
+            doping maakt men tijdens
+            de race met een
+            thermografische camera
+            een opname. Zie figuur 3.
+            Daarin is bij de pijl te
+            zien dat in het frame iets
+            zit dat net zo warm is als
+            de kuiten van de
+            wielrenner.
+3p    2     Leg met behulp van een berekening en met Tabel 19B van Binas of
+            Tabel 5.1.c van Sciencedata uit voor welke soort straling deze camera
+            gevoelig is.
+
+
+
+VW-1023-a-18-2-o                              3 / 15                          lees verder ►►►
+            Een andere manier om sneller vooruit te komen is met behulp van
+            elektromagneten. In de velg van een kunststof achterwiel zijn
+            24 elektromagneten weggewerkt. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+            De elektromagneten staan in serie en zijn aangesloten op de batterij in de
+            velg, die een spanning van 1,5 V levert. De batterij heeft een capaciteit
+            van 2,3 Ah. (Dit houdt in dat de volledig opgeladen batterij gedurende
+            1,0 uur een stroom van 2,3 A kan leveren, of gedurende 2,0 uur een
+            stroom van 1,15 A, enzovoort.)
+
+            De elektromagneten bestaan uit koperdraad met een diameter van
+            0,50 mm. In elke elektromagneet is 3,0 m koperdraad gebruikt.
+5p    3     Bereken hoe lang de elektromagneten werken op de batterij als die in het
+            begin volledig opgeladen is. (Verwaarloos de lengte van de draden tussen
+            de elektromagneten.)
+
+            In de buizen van het frame (zie figuur 4) zijn de spoelen K en L
+            verborgen. Spoel K vangt het magneetveld op van de elektromagneten.
+            Op grond van het signaal van spoel K zorgt het computertje ervoor dat
+            spoel L iedere keer op het juiste moment een stroomstoot krijgt, zodat de
+            elektromagneet in de velg bij spoel L een zetje krijgt.
+
+1p    4     Hoe heet het verschijnsel waardoor in spoel K een signaal opgewekt
+            wordt?
+
+
+
+
+VW-1023-a-18-2-o                            4 / 15                           lees verder ►►►
+            In figuur 5 staan twee elektromagneten uit de velg samen met spoel L
+            afgebeeld met de veldlijnen van de elektromagneten. De pijl rechts geeft
+            de bewegingsrichting van de spoelen in het wiel aan. Figuur 5 staat ook
+            op de uitwerkbijlage.
+
+            figuur 5
+                                        N
+
+
+
+
+                                        Z    A
+
+
+            spoel L                                  bewegings-
+                                                     richting
+                                   C
+                                             B
+                                        N
+
+
+
+
+                                        Z
+
+4p    5     Voer de volgende opdrachten uit:
+             Geef in de figuur op de uitwerkbijlage in de punten A, B en C met een
+               pijl de richting van de magnetische veldlijnen aan.
+             Geef in de figuur op de uitwerkbijlage met een pijl de stroomrichting in
+               spoel L aan.
+
+2p    6     Leg uit waarom de frequentie waarmee spoel L stroomstoten krijgt
+            aangepast moet kunnen worden.
+
+
+
+
+VW-1023-a-18-2-o                            5 / 15                           lees verder ►►►
+      Gravitron
+
+            Figuur 1 toont de kermisattractie Gravitron. Hierbij nemen de passagiers
+            plaats in een soort ton die gaat draaien. De passagiers blijven vanaf een
+            bepaald toerental aan de wand van de ton ‘plakken’. Zie figuur 2.
+
+            figuur 1                                                figuur 2
+
+
+
+
+            In figuur 3 staat voor een rit in de Gravitron het toerental (het aantal
+            omwentelingen per minuut) uitgezet tegen de tijd. De Gravitron heeft op
+            de plaats waar de passagiers zich bevinden een diameter van 6,4 m.
+            Figuur 3 staat ook op de uitwerkbijlage.
+
+            figuur 3
+                        25
+            toerental
+             (min-1)
+                        20
+
+                        15
+
+                        10
+
+                         5
+
+                         0
+                             0   20   40   60   80    100     120   140   160   180   200   220
+                                                                                            t (s)
+
+
+            Een passagier die in de Gravitron rondjes draait, legt tijdens de rit een
+            aanzienlijke afstand af langs de cirkelbaan.
+4p    7     Bepaal deze afstand met behulp van de figuur op de uitwerkbijlage.
+
+
+
+
+VW-1023-a-18-2-o                                     6 / 15                                    lees verder ►►►
+            In figuur 4 is schematisch een passagier getekend           figuur 4
+            in de Gravitron. De passagier heeft een massa van
+            71 kg en ligt tegen de schuine wand van de ton.
+            De Gravitron staat nog stil. Om te begrijpen hoe de
+            krachten werken, gaan we uit van het volgende model:
+             De kracht van de vloer op de passagier staat                               Z
+                 evenwijdig aan de wand.
+             De wrijvingskracht stellen we op nul.
+
+            Figuur 4 staat vergroot op de uitwerkbijlage. Daarin is          70˚
+            de zwaartekracht aangegeven met een vectorpijl. Op
+            de passagier werken nog twee andere krachten.
+4p    8     Construeer de grootte en de richting van die twee
+            andere krachten op de passagier. Laat in de tekening de krachten
+            aangrijpen in punt Z.
+
+            Als de Gravitron begint te draaien, verandert de normaalkracht van de
+            wand op de passagier.
+2p    9     Leg uit dat die normaalkracht groter wordt.
+
+            In werkelijkheid is er natuurlijk wel wrijvingskracht. Tijdens de rit halen
+            veel passagiers allerlei capriolen uit tegen de wand. Zo kan een passagier
+            ook ondersteboven tegen de wand gaan hangen. Zie figuur 5. Deze figuur
+            is niet op schaal.
+
+            figuur 5
+
+
+
+
+                     A                                       B
+
+
+
+
+                         70˚
+
+
+
+
+            Een passagier probeert in de draaiende Gravitron zijn hoofd op te lichten
+            van de wand met het hoofd boven (A) en met het hoofd beneden (B).
+4p   10     Voer de volgende opdrachten uit:
+             Toon aan dat bij constante omlooptijd T voor de middelpuntzoekende
+               kracht op een voorwerp met massa m in een cirkelbaan met straal r
+                                 42 mr
+                   geldt: Fmpz         .
+                                  T2
+                  Leg hiermee uit in welke situatie, A of B, het meer moeite kost om het
+                   hoofd op te lichten van de wand.
+
+
+VW-1023-a-18-2-o                               7 / 15                              lees verder ►►►
+      Kleurstoflaser
+
+ Een laser is een lichtbron die een smalle,           figuur 1
+ evenwijdige en intense lichtbundel
+ produceert. De bundel wordt
+ geproduceerd in de laserruimte, die zich
+ tussen spiegel S1 en de halfdoorlatende              S1                                 S2
+ spiegel S2 bevindt. Zie de artist’s
+ impression in figuur 1. In de laserruimte
+ worden heen en weer kaatsende fotonen                            laserruimte
+ geproduceerd.
+
+            Bij laserwerking ontstaat een lawine van fotonen doordat reeds aanwezige
+            fotonen aangeslagen moleculen dwingen om zelf fotonen uit te zenden.
+            Het oorspronkelijke foton is daarbij identiek aan het geproduceerde foton:
+            ze hebben dezelfde fase en dezelfde golflengte. Hierdoor heeft een laser
+            een hogere intensiteit dan een gewone lichtbron, die fotonen produceert
+            die niet dezelfde fase hebben.
+            In figuren 2a en 2b zijn een aantal individuele lichtgolven geschetst van
+            respectievelijk een gewone lichtbron en een laser.
+
+            figuur 2a                                 figuur 2b
+
+
+
+
+            Ook als de amplitude van de individuele golven gelijk is, is de totale
+            amplitude (en dus de intensiteit) van het laserlicht groter dan die van de
+            gewone lichtbron.
+2p   11     Leg uit hoe dit komt aan de hand van de figuren 2a en 2b.
+
+            Anders dan bij gaslasers zenden vloeistoflasers een breedbandig
+            spectrum van meer golflengtes tegelijk uit. Voor een bepaalde
+            breedbandige vloeistoflaser wordt de kleurstof Rhodamine 6G gebruikt.
+            Bij complexe moleculen als de kleurstof Rhodamine 6G bestaat zowel de
+            grondtoestand (g) als de aangeslagen toestand ( a) uit veel zeer dicht op
+            elkaar gelegen energieniveaus. Zie figuur 3a.
+            Zo’n stof heeft daardoor geen lijnenspectrum maar een bandenspectrum.
+            In figuur 3b is links de absorptieband en rechts de emissieband van
+            Rhodamine 6G weergegeven.
+            Omdat de aangeslagen moleculen eerst een gedeelte van hun energie
+            afgeven in de vorm van warmte (interne stralingsloze overgangen),
+            is in figuur 3b het emissiespectrum naar rechts verschoven ten opzichte
+            van het absorptiespectrum.
+
+
+
+VW-1023-a-18-2-o                             8 / 15                             lees verder ►►►
+figuur 3a                               figuur 3b
+
+                                                                        25 nm
+                        interne          relatieve 100
+          (a)           stralingsloze   intensiteit
+                                                    90
+                        overgangen          (%)
+                                                    80
+                                                    70
+                                                    60
+                                                    50
+                                                           absorptie                   emissie
+E       absorptie    emissie                        40
+                                                    30
+                                                    20
+                                                    10
+                                                     0
+                                                     450       500     550          600           650        700
+                                                                                                 golflengte (nm)
+          (g)
+
+
+
+2p   12     Leg uit waarom het emissiespectrum naar rechts verschoven is.
+
+            Een Rhodamine-6G-molecuul kan men ook beschrijven met een
+            eenvoudig model van een eendimensionale energieput waarin
+            22 elektronen opgesloten zijn. Hierbij zijn een aantal energieniveaus
+            (n-waarden) steeds gevuld met twee elektronen per niveau. Samen vormt
+            dit de grondtoestand (g).
+            Als het molecuul door absorptie van een foton aangeslagen wordt, gaat
+            één elektron van de hoogste bezette n-waarde naar de volgende
+            n-waarde.
+                                                                         (122  112 )  h
+            Dan geldt voor de lengte van de energieput: L                                       .
+                                                                                8mc
+
+            Hierin is:
+             λ de golflengte die vereist is om het molecuul aan te slaan;
+             h de constante van Planck;
+             m de massa van een elektron;
+             c de lichtsnelheid.
+
+4p   13     Leid deze formule af gebruikmakend van formules uit een tabellenboek.
+
+            Figuur 4 geeft de structuur van             figuur 4
+            Rhodamine 6G weer. De waarde L                                   1,70 nm
+            komt bij benadering overeen met                                     N
+            de waarde in figuur 4.
+3p   14     Toon dit aan met een berekening.            H 3C                                               CH3
+                                                               N                S                    N+
+                                                               CH3                                   CH3
+
+
+
+
+VW-1023-a-18-2-o                               9 / 15                                            lees verder ►►►
+      Ontspannen lopen
+
+            Daniël en Lotte willen met een eenvoudig model de loopsnelheid bepalen
+            die energetisch het voordeligst is.
+            Daartoe laten ze 25 proefpersonen met elk een verschillende snelheid op
+            een loopband lopen. Zie figuur 1.
+            Van elke proefpersoon wordt de massa bepaald en het vermogen dat hij
+            levert tijdens het lopen.
+
+figuur 1                         figuur 2
+                                      450
+                                   P
+                                  (W) 400
+
+                                      350
+
+                                      300
+
+                                      250
+
+                                      200
+
+                                      150
+
+                                      100
+
+                                       50
+
+                                        0
+                                            0        0,5     1,0   1,5   2,0    2,5        3,0
+                                                                                      v (m s-1)
+
+
+            De proefpersonen hebben allemaal een verschillende massa m, en dat
+            heeft een storende invloed op de resultaten. Zie figuur 2. Om het effect
+            van de massa te elimineren en daardoor de meetresultaten onderling
+            beter te kunnen vergelijken, rekenen Lotte en Daniël alle vermogens om
+                                                           P
+            naar een genormaliseerd vermogen: P            .
+                                                           m
+            Ze veronderstellen dat P alleen afhangt van de snelheid.
+
+2p   15     Leg uit of het verband tussen P en m dan recht evenredig of omgekeerd
+            evenredig is.
+
+
+
+
+VW-1023-a-18-2-o                                10 / 15                        lees verder ►►►
+            Bij het lopen van volwassenen gaan Daniël en Lotte in hun eenvoudige
+            model uit van de volgende aannames:
+             er is een constant vermogen nodig om recht overeind te staan;
+             de netto spierkracht die nodig is voor de voortbeweging is recht
+                evenredig met de snelheid.
+
+            Met deze uitgangspunten volgt voor het genormaliseerde vermogen van
+            een volwassene die met een snelheid v loopt, de formule:
+               P  pv 2  q .
+
+3p   16     Leg dit uit.
+
+            In figuur 3 staat het genormaliseerde vermogen P van de proefpersonen
+            uitgezet tegen v 2 . Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 3
+         ~     6
+        P
+      (W kg-1)
+               5
+
+                   4
+
+                   3
+
+                   2
+
+                   1
+
+                   0
+                       0   1        2         3        4         5         6             7
+                                                                               v2 (m2 s-2)
+
+
+            Om de benodigde energie te kunnen leveren, gebruiken de proefpersonen
+            chemische energie uit voedsel. Lotte en Daniël nemen aan dat dit met een
+            rendement van 20% gaat. Zij volgen een proefpersoon van 80 kg, die
+                                                                 1
+            gedurende 1,0 uur loopt met een snelheid van 7,0 km h .
+5p   17     Bepaal aan de hand van figuur 3 hoeveel chemische energie deze
+            proefpersoon daarvoor volgens het model aan voedsel moet
+            binnenkrijgen.
+
+
+
+
+VW-1023-a-18-2-o                          11 / 15                          lees verder ►►►
+            Niet alleen het genormaliseerd vermogen P , maar ook de stapgrootte S
+            blijkt af te hangen van de snelheid v.
+            Voor het aantal stappen per seconde geldt:
+                         v
+                   f      .
+                         S
+
+            Bewegingswetenschappers kijken bij inspanning bij lopen niet naar de
+            geleverde energie per seconde, maar naar de geleverde energie per
+            afgelegde meter. Voor deze grootheid geldt de uitdrukking:
+                         P
+                   R       .
+                         v
+
+            De resultaten van dit model zijn weergegeven in de figuren 4a en 4b.
+
+            figuur 4a
+                     f
+                   (Hz)
+
+                         1,8
+
+
+
+
+                         1,5
+
+
+
+
+                         1,2
+
+                           0
+                                0   0,5   1,0             1,5    2,0           2,5
+                                                                         v (m s-1)
+            figuur 4b
+                       2,5
+                 R
+            (J kg-1 m-1)
+
+
+
+
+                         2,0
+
+
+
+
+                         1,5
+                           0
+                                0   0,5   1,0             1,5    2,0           2,5
+                                                                         v (m s-1)
+
+3p   18     Bepaal met behulp van de figuren 4a en 4b de optimale stapgrootte van
+            een proefpersoon die de minimale energie per afgelegde meter R levert.
+
+
+VW-1023-a-18-2-o                                12 / 15                      lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1023-a-18-2-o                       13 / 15   lees verder ►►►
+      Wijnfraude opsporen
+
+            Om na te gaan of het jaartal op het etiket van een
+            wijnfles klopt met de inhoud van de fles, zijn
+            verschillende methodes mogelijk.
+            Bij methode 1 wordt gekeken naar de activiteit van
+            de β-straling van de isotopen in de wijn. Maar
+            daarvoor moet de fles geopend worden.
+            Bij oude dure wijn wil je de fles niet openmaken. Dan
+            kan men met methode 2 kijken naar de γ-straling van
+            Cs-137. Deze isotoop komt pas sinds 1950 voor in de
+            atmosfeer ten gevolge van kernproeven. Vanaf die
+            tijd is er Cs-137 in de wijndruiven terechtgekomen.
+
+            over methode 1
+            In wijn komen de radioactieve isotopen C-14, O-15 en H-3 voor. De
+            activiteit van deze isotopen in wijn is gemeten als de wijn de fles in gaat
+            en dus bekend. Bij een fles wijn waar op het etiket staat dat deze 5 jaar
+            oud is, wil men uit de afname van de activiteit afleiden hoe oud deze wijn
+            werkelijk is. Voor deze methode is alleen H-3 geschikt.
+
+3p   19     Leg uit waarom voor deze methode alleen H-3 geschikt is, met behulp van
+            gegevens uit het tabellenboek. Geef daartoe aan waarom de twee andere
+            isotopen niet geschikt zijn.
+
+            In figuur 1 is het verband uitgezet van het product van de dichtheid
+            (in g cm 3 ) en de dracht R (in cm) tegen de energie van het β-deeltje.
+
+            figuur 1               10-1
+                           ρR
+                        (g cm-2)
+                                   10-2
+
+
+                                   10-3
+
+
+                                   10-4
+
+
+                                   10-5
+
+
+                                   10-6
+                                     0,001        0,01           0,1              1
+                                                                            E (MeV)
+            Door het glas van een wijnfles met een dikte van 3,5 mm komt geen
+            β-straling van H-3.
+
+4p   20     Toon dat aan met behulp van figuur 1 en een berekening van de dracht.
+
+
+
+
+VW-1023-a-18-2-o                             14 / 15                           lees verder ►►►
+            over methode 2                            figuur 2
+            Bij de tweede methode kijkt men                 137 Cs
+            naar Cs-137, dat vervalt onder                   55
+            uitzending van β-deeltjes.                                   0,51 MeV (95%) β−
+            95% van de kernen van Cs-137
+            vervalt naar een metastabiele             1,17 MeV (5%) β−
+            toestand, waarna het onder                                         γ
+            uitzending van een γ-foton de
+            grondtoestand bereikt. Zie figuur 2.
+
+3p   21     Geef de vergelijking van het meest voorkomende verval van Cs-137 naar
+            de grondtoestand.
+
+3p   22     Bereken de golflengte van het γ-foton.
+
+            De activiteit van de γ-straling van een groot aantal Franse wijnen waarvan
+            het productiejaar met zekerheid was vastgesteld, is gemeten. Om de
+            meetwaarden te kunnen vergelijken zijn de gemeten activiteiten
+            omgerekend alsof alles gemeten is op 1 januari 2000. Zie figuur 3.
+
+            figuur 3
+                          1200
+             activiteit
+             van 137Cs
+            (mBq L−1)
+                          1000
+
+
+                          800
+
+
+                          600
+
+
+                          400
+
+
+                          200
+
+
+                            0
+                            1950    1960           1970          1980        1990               2000
+
+            Op het etiket van een wijnfles (75 cL) staat dat de wijn uit 1960 komt.
+            Halverwege 2018 meet men de activiteit van de γ-straling van Cs-137 van
+            die fles wijn.
+
+4p   23     Bepaal wat de verwachte activiteit van Cs-137 (γ-straling) van die fles wijn
+            is als die echt uit 1960 komt.
+
+            Als bij een test van een fles wijn de omgerekende activiteit 50 mBq L1
+            bedraagt, is niet exact vast te stellen uit welk jaar die wijn komt.
+1p   24     Geef de reden waarom.
+
+
+
+VW-1023-a-18-2-o                            15 / 15                                 lees verdereinde
+                                                                                                 ►►► 
+

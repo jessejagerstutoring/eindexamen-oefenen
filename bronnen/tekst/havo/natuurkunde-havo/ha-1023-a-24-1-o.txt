@@ -1,0 +1,530 @@
+                                                                   Examen HAVO
+
+                                                                        2024
+                                                                               tijdvak 1
+                                                                   vrijdag 24  mei
+                                                                         vrijdag  242024
+                                                                                     mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 24 vragen.
+ Voor dit examen zijn maximaal 76 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1023-a-24-1-o
+      Schip uit koers
+
+            In 2017 liep een groot containerschip op de oever van de Schelde.
+            Een onderzoeker deed onderzoek naar dit ongeluk. Hij zag dat het schip
+            over een afstand van 50% van zijn lengte op de oever was geschoven. Zie
+            figuur 1. Op internet zijn de gegevens van het schip te vinden. Zie
+            figuur 2.
+
+            figuur 1                                     figuur 2
+                                                         gegevens containerschip
+                                                         massa         1,55·105 ton
+                                                         lengte        366 m
+                                                         maximaal      7,2·107 W
+                                                         vermogen
+
+                                                         maximale      46 km h−1
+                                                         snelheid
+
+
+            Van ieder schip wordt elke 2 minuten de positie bijgehouden. Met deze
+            informatie bepaalde de onderzoeker de snelheid van het schip voor het
+            ongeluk. Die bleek 7,1 m s 1 te zijn. Hij ging ervan uit dat de
+            wrijvingskracht op het schip tijdens het vastlopen op de oever constant
+            was. Hij berekende dat die wrijvingskracht 2,1 107 N was.
+4p    1     Toon met behulp van arbeid en kinetische energie aan dat deze waarde
+            voor de wrijvingskracht klopt.
+
+            Met de gegevens uit figuur 2 kan de maximale kracht van de motor
+            berekend worden. De onderzoeker concludeerde uit deze berekening dat
+            de wrijvingskracht te groot was en het schip met de eigen motor niet los
+            kon komen van de oever.
+3p    2     Toon met een berekening aan dat die conclusie klopt.
+
+
+
+
+HA-1023-a-24-1-o                           2 / 17                           lees verder ►►►
+            Er werden duwboten ingezet om het schip los te duwen van de oever. Zie
+            figuur 3. De duwboten duwden eerst het schip aan de achterkant opzij.
+            Het schip is hierbij als hefboom te beschouwen. Om 19.00 uur begonnen
+            de duwboten te duwen, het schip lag toen nog stil. Een paar minuten later
+            begon het schip om een punt te draaien dat met D is aangegeven.
+
+            figuur 3
+
+
+
+
+            Op de uitwerkbijlage is de situatie van 19.00 uur, zoals getekend in figuur
+            3, vergroot weergegeven. In de figuren op de uitwerkbijlage zijn het
+            aangrijpingspunt W van de wrijvingskracht Fw en het aangrijpingspunt B
+            van de totale duwkracht Fduwboten weergegeven.
+
+3p    3     Voer de volgende opdrachten uit:
+             Teken in de figuren op de uitwerkbijlage de armen van Fw en Fduwboten.
+             Leg met behulp van de hefboomwet uit of om 19.00 uur de totale
+               duwkracht Fduwboten groter was dan Fw, kleiner was dan Fw of even
+               groot was als Fw.
+
+
+
+
+HA-1023-a-24-1-o                            3 / 17                            lees verder ►►►
+            Om het schip los te duwen, moesten de duwboten de wrijvingskracht
+            tussen het schip en de oever overwinnen. Deze wrijvingskracht is
+            evenredig met de normaalkracht van de oever op het schip.
+            Behalve de normaalkracht werkte er ook een opwaartse kracht van het
+            water op het schip. Zie schematisch en niet op schaal weergegeven in
+            figuur 4.
+            Hoe dieper een schip in het water ligt, hoe groter deze opwaartse kracht
+            is.
+
+            figuur 4
+
+
+
+
+            Tijdens opkomende vloed (hoogwater) begon het water in de Schelde te
+            stijgen.
+
+            Op de uitwerkbijlage staat een tabel.
+2p    4     Omcirkel in de tabel wat er gebeurde tijdens het stijgen van het water.
+
+
+
+
+HA-1023-a-24-1-o                            4 / 17                            lees verder ►►►
+      Kampeerbrander op hout
+
+            Tijdens een kampeervakantie wordt vaak gekookt op een brander met een
+            gasblikje. Zie figuur 1.
+
+            figuur 1
+
+
+
+
+            Omdat gasblikjes niet overal verkrijgbaar zijn, willen Jos en Martijn voor
+            hun profielwerkstuk een brander ontwerpen die op hout werkt. Met deze
+            brander moet ook een telefoon opgeladen kunnen worden.
+            Ze stellen een programma van eisen op waar hun brander aan moet
+            voldoen.
+
+            Enkele eisen zijn:
+            1 Het rendement voor water koken moet hoger zijn dan 40%.
+            2 De brander moet een elektrische spanning kunnen opwekken van
+               5,0 V voor het opladen van een telefoon.
+            3 Er moet zichtbaar gemaakt worden of de spanning hoog genoeg is om
+               de telefoon op te laden.
+            4 De telefoon moet volledig kunnen opladen tijdens het koken van een
+               maaltijd.
+
+            Ze bouwen een brander die hout verbrandt en koken daarmee water om
+            de eerste eis te controleren. Om 400 gram water van 10 °C aan de kook te
+            brengen, hebben ze 18 gram hout nodig.
+4p    5     Toon met een berekening aan of het ontwerp van de jongens daarmee
+            aan de eerste ontwerpeis voldoet.
+
+
+
+
+HA-1023-a-24-1-o                             5 / 17                            lees verder ►►►
+            Als spanningsbron gebruiken ze een zogenaamd peltier-element. Een
+            peltier-element levert een elektrische spanning Upelt als er een
+            temperatuurverschil is tussen de twee zijden van het element. Jos en
+            Martijn verwarmen de ene kant met het vuur en koelen de andere kant
+            met een ventilator. Aan beide zijdes van het peltier-element zijn
+            warmtegeleiders van metaal bevestigd. Zie figuur 2.
+
+            figuur 2
+
+
+
+
+            De warmtegeleiders moeten zo snel mogelijk warmte geleiden naar en
+            van het peltier-element.
+2p    6     Beredeneer met behulp van een stofeigenschap of Jos en Martijn daarom
+            beter een warmtegeleider van aluminium of een warmtegeleider van koper
+            kunnen kiezen.
+
+            De spanning Upelt is afhankelijk van het temperatuurverschil tussen beide
+            zijdes van het element. Bij benadering geldt:
+
+             U pelt  C T
+
+            Hierin is:
+             Upelt          de opgewekte spanning;
+             C              een constante;
+             T             het temperatuurverschil.
+
+2p    7     Leid de eenheid van C af.
+
+
+
+
+HA-1023-a-24-1-o                                6 / 17                       lees verder ►►►
+            Jos en Martijn meten de temperatuur aan beide zijdes van het
+            peltier-element. Deze is 160 °C voor de verwarmde zijde en 63 °C voor de
+            gekoelde zijde. Het peltier-element levert dan een spanning Upelt
+            van 2,8 V. Om hun telefoon te kunnen opladen, is echter een spanning
+            van 5,0 V nodig.
+
+3p    8     Bereken het temperatuurverschil dat nodig is om een Upelt
+            van 5,0 V op te wekken.
+
+            Ze voeren de spanning Upelt op door het vuur heter te stoken.
+            Jos en Martijn willen kunnen zien of de spanning al hoog genoeg is om de
+            telefoonaccu op te laden (de derde ontwerpeis). Ze sluiten daarom een
+            led-schakeling aan op het peltier-element. De led-schakeling bestaat uit
+            een led en een weerstand R1. Het peltier-element werkt dus als
+            voedingsbron. Zie figuur 3.
+
+            figuur 3                 figuur 4
+
+
+
+
+            In figuur 4 is het (I,U)-diagram van deze led weergegeven. Jos en Martijn
+            zien dat de led licht gaat geven bij een spanning Uled van 1,5 V.
+            De led moet licht gaan geven bij een spanning Upelt van 5,0 V.
+4p    9     Bepaal met behulp van figuur 4 de grootte die de weerstand R1 moet
+            hebben. Noteer je antwoord in twee significante cijfers.
+
+            Op het peltier-element sluiten ze nu de ventilator, de led-schakeling en
+            een lader voor een telefoonaccu parallel aan elkaar aan. Ze houden het
+            peltier-element op temperatuur zodanig dat het 5,0 V blijft leveren.
+            Ze meten dat het peltier-element een stroomsterkte van 0,41 A levert.
+            Door de ventilator en de led-schakeling samen loopt een totale stroom
+            van 0,30 A. De telefoonaccu heeft een capaciteit van 2,6 Ah.
+4p    10    Voer de volgende opdrachten uit:
+             Bereken de tijd die minimaal nodig is om de lege accu volledig op te
+                laden met deze opstelling.
+             Leg uit welke conclusie Jos en Martijn moeten trekken over het halen
+                van de vierde ontwerpeis.
+
+
+HA-1023-a-24-1-o                           7 / 17                           lees verder ►►►
+      Falcon heavy
+
+            In februari 2018 is de Falcon 9 heavy (kortweg F9h) getest. Dit is een
+            raket die naar Mars moet reizen. Zie figuur 1.
+
+            Het bovenaanzicht van het testtraject is schematisch en niet op schaal
+            weergegeven in figuur 2. F9h werd gelanceerd (I) richting een baan om
+            de aarde. Daar aangekomen werd de raket tijdelijk ‘geparkeerd’ in deze
+            baan om de aarde, de zogenaamde parkeerbaan ( II). Daarna vervolgde
+            hij zijn weg verder richting Mars (III).
+
+            figuur 1                        figuur 2
+
+
+
+
+            I Lancering
+            Om in de parkeerbaan te komen, moest de raket brandstof verbranden om
+            voldoende kinetische energie en zwaarte-energie te krijgen. De benodigde
+            zwaarte-energie is niet afhankelijk van de plek waar de raket vanaf aarde
+            gelanceerd werd. De benodigde kinetische energie is wel afhankelijk van
+            de plek van lancering. Omdat de aarde om de aardas draait, heeft het
+            lanceerplatform zelf een snelheid vL. Hierdoor had de raket al voor de
+            lancering kinetische energie.
+
+4p    11    Voer de volgende opdrachten uit:
+             Leg met behulp van een formule uit het informatieboek uit dat de
+               snelheid vL bij de evenaar het grootst is.
+             Leg met behulp van een formule uit het informatieboek uit dat er
+               minder brandstof nodig is als de lanceerplek dicht bij de evenaar ligt.
+
+
+
+
+HA-1023-a-24-1-o                            8 / 17                            lees verder ►►►
+            Van de eerste minuten van de beweging van F9h is een ( v,t)-diagram
+            gemaakt. Zie figuur 3.
+
+            figuur 3
+
+
+
+
+            De raket gebruikte een hoofdmotor en extra hulpmotoren. Na ruim
+            3 minuten werden de hulpmotoren uitgeschakeld en bleef alleen de
+            hoofdmotor van de raket werken. Figuur 3 staat ook op de uitwerkbijlage.
+4p    12    Bepaal met behulp van de figuur op de uitwerkbijlage de versnelling op
+            t = 180 s. Laat in de figuur zien hoe je aan je antwoord komt. Noteer je
+            antwoord in drie significante cijfers.
+
+
+
+
+HA-1023-a-24-1-o                           9 / 17                           lees verder ►►►
+            II Parkeerbaan
+            In figuur 4 is in een (h,t)-diagram de hoogte van F9h boven het
+            aardoppervlak uitgezet tegen de tijd.
+
+            figuur 4
+
+
+
+
+            Ongeveer acht minuten na de lancering bereikte F9h de cirkelvormige
+            parkeerbaan.
+5p    13    Bepaal met behulp van figuur 4 en een berekening de baansnelheid van
+            F9h in de parkeerbaan. Noteer je antwoord in drie significante cijfers.
+
+            III Op weg naar Mars
+            Na een tijd verliet F9h de parkeerbaan en vervolgde de raket de reis naar
+            Mars. Aangenomen wordt dat de snelheid van F9h in dit traject constant
+            was en anders dan de snelheid van F9h in de parkeerbaan. Tijdens een
+            deel van de vlucht werd F9h door een waarnemer W twee keer
+            gefotografeerd. Het zijaanzicht van de baan is schematisch en niet op
+            schaal weergegeven in figuur 5.
+
+            figuur 5
+
+
+
+
+            F9h legde tussen de tijdstippen van foto 1 en foto 2 een afstand s af.
+            Deze afstand kan bepaald worden uit:
+             het hoogteverschil Δh van 9, 21 106 m.
+                  de afstand Δx, die door de waarnemer is bepaald op 4,38∙106 m.
+
+            Tussen het maken van foto 1 en foto 2 zat een tijd van 20,0 minuten.
+3p    14    Voer de volgende opdrachten uit:
+             Bereken de afstand s.
+             Bereken de snelheid van F9h op het traject richting Mars.
+
+
+HA-1023-a-24-1-o                              10 / 17                         lees verder ►►►
+      Sarcoïde
+
+            Een veelvoorkomende tumor bij paarden is een zogenaamde sarcoïde. Dit
+            is een huidtumor. Er bestaan verschillende methodes om deze tumor te
+            behandelen.
+            Een eerste behandelmethode is bestraling. Hierbij kunnen afgesloten
+            capsules gebruikt worden met radioactieve isotopen die ioniserende
+            straling uitzenden. Deze capsules worden in de tumor geplaatst. In
+            figuur 1 staat een tabel met een aantal capsules met verschillende
+            isotopen die gebruikt kunnen worden.
+
+            figuur 1
+              capsule    isotoop         vervalproducten                  t1/2
+              I          Au-198          β en Hg-198 (niet radioactief)   3,8 dagen
+              II         Co-60           β en Ni-60 (niet radioactief)    5,3 jaar
+              III        Cs-137          β en Ba-137 (niet radioactief)   30 jaar
+              IV         Ir-192          β en Pt-192 (niet radioactief)   74 dagen
+
+            Een van de capsules mag blijven zitten na de behandeling. De overige
+            capsules moeten verwijderd worden wanneer de sarcoïde voldoende is
+            bestraald.
+3p    15    Voer de volgende opdrachten uit:
+             Leg uit welke capsule (I, II, III of IV) mag blijven zitten.
+             Geef een reden waarom de isotopen uit figuur 1 alleen geschikt zijn
+               om de tumor van binnenuit te behandelen.
+
+            Een sarcoïde kan ook worden behandeld met de isotoop Sr-90.
+3p    16    Geef de vergelijking van de vervalreactie van Sr-90.
+
+            Een bepaalde sarcoïde heeft een massa van 7,9·10−5 kg en wordt
+            behandeld met Sr-90. Tijdens één bestraling ontvangt deze tumor een
+            dosis van 20 Gy. De energie die per vervallen Sr-90-kern aan de tumor
+            wordt afgegeven is 2,9 MeV. De gemiddelde activiteit tijdens de
+            bestraling is 3,1 106 Bq.
+5p    17    Bereken de tijdsduur van één bestraling van deze sarcoïde.
+
+
+
+
+HA-1023-a-24-1-o                                11 / 17                               lees verder ►►►
+            Een andere behandelmethode voor een sarcoïde is hyperthermie. Dit is
+            een methode waarbij de tumor vernietigd wordt door hem van buitenaf te
+            verhitten met microgolfstraling met een frequentie van 2,45 GHz. De
+            stralingsbron levert 6, 2 1025 fotonen per seconde.
+            Om een bepaalde sarcoïde op de behandeltemperatuur te brengen moet
+            de stralingsbron 7, 2  102 J stralingsenergie leveren. Nadat de
+            behandeltemperatuur is bereikt, wordt de sarcoïde nog 30 s lang bestraald
+            met microgolfstraling om haar op temperatuur te houden.
+5p    18    Bereken de benodigde totale tijd voor de hyperthermie-behandeling van
+            deze sarcoïde.
+
+            Bij hyperthermie moet een tumor verhit worden tot minimaal 42 °C. In
+            figuur 2 is de temperatuur die bij deze behandelmethode gehaald kan
+            worden, uitgezet tegen de diepte in het weefsel. In figuur 3 is schematisch
+            de doorsnede van de huid van een paard weergegeven. De huid bestaat
+            uit de opperhuid en de lederhuid. Onder de lederhuid begint het
+            onderhuids weefsel.
+
+            figuur 2
+
+
+
+
+HA-1023-a-24-1-o                           12 / 17                            lees verder ►►►
+            figuur 3
+
+
+
+
+2p    19    Leg uit met behulp van figuren 2 en 3 of hyperthermie geschikt is om
+            sarcoïdes in de hele huiddikte te behandelen.
+
+
+
+
+HA-1023-a-24-1-o                           13 / 17                          lees verder ►►►
+      Infrasone trillingen
+
+            In de jaren 80 deed wetenschapper Vic Tandy een toevallige ontdekking.
+            Hij had een zwaard vastgeklemd om het schoon te maken. Het vrije
+            uiteinde van het zwaard bleek uit zichzelf te trillen. Zie schematisch in
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            Hij verplaatste het zwaard in de kamer. Midden in de kamer trilde het
+            zwaard het hardst. Richting de wanden nam de trilling af, bij de wanden
+            trilde het zwaard niet.
+
+            Tandy concludeerde dat infrasone geluidsgolven de oorzaak waren van
+            het trillen van het zwaard. Infrasoon geluid is onhoorbaar voor mensen
+            omdat het een frequentie heeft lager dan 20 Hz. De lengte L van de
+            ruimte is 11,0 m en de temperatuur is 20 °C.
+
+4p    20    Voer de volgende opdrachten uit:
+             Geef in de figuur op de uitwerkbijlage op de stippellijn het patroon aan
+               van knopen (K) en buiken (B) van de grondtoon in de kamer.
+             Toon met een berekening aan dat de geluidsgolven infrasoon waren.
+
+
+
+
+HA-1023-a-24-1-o                           14 / 17                           lees verder ►►►
+            In 2012 vertoonde een nieuw gebouw van Rijkswaterstaat ongewenste
+            trillingen. Zie figuur 2 voor een foto van dit gebouw. Al snel werd gedacht
+            aan infrasone trillingen. Men startte een onderzoek naar de oorzaak van
+            die trillingen.
+            Tijdens het onderzoek hebben onderzoekers in beeld gebracht hoeveel
+            klachten er binnen waren gekomen per verdieping. In hun rapport zijn de
+            resultaten weergegeven op de manier van figuur 3.
+
+            figuur 2                        figuur 3
+
+
+
+
+            Hoe donkerder de verdieping is weergegeven, hoe groter het percentage
+            klagers op deze verdieping.
+            De onderzoekers hebben geconstateerd dat het gaat om een golf in het
+            gebouw.
+2p    21    Leg met behulp van figuur 3 uit of dit patroon van klachten beter past bij
+            een staande golf of bij een lopende golf.
+
+            Ook staat in het rapport:
+
+            Veel melders zeggen dat de glaswasinstallatie op dat moment in gebruik
+            was, maar wijzen de glaswasinstallatie niet aan als mogelijke oorzaak. De
+            melders kunnen zich niet voorstellen dat deze installatie dergelijke heftige
+            trillingen in het gebouw kan veroorzaken.
+
+1p    22    Noem het natuurkundig verschijnsel dat hiervoor toch een verklaring kan
+            zijn.
+
+
+
+
+HA-1023-a-24-1-o                            15 / 17                            lees verder ►►►
+            In het rapport staat verder dat de medewerkers hun bureaus soms heftig
+            op en neer voelden trillen. Tijdens het onderzoek zijn daarom de infrasone
+            eigenfrequenties van de bureaus bepaald.
+            Een mogelijke methode om deze eigenfrequenties te bepalen is een
+            bureau tussen een luidspreker en een microfoon te plaatsen en de
+            luidspreker steeds een toon met een vaste (infrasone) frequentie te laten
+            uitzenden. Zie schematisch in figuur 4.
+
+            figuur 4
+
+
+
+
+            Het signaal dat de microfoon opvangt, wordt vastgelegd in een
+            (u,t)-diagram. In figuur 5 staan vier (u,t)-diagrammen. De gestippelde lijn geeft
+            in elke grafiek de trilling van de microfoon weer als er geen bureau tussen de
+            luidspreker en de microfoon staat. De doorgetrokken streep geeft een
+            mogelijke meetuitkomst als er wel een bureau tussen de luidspreker en de
+            microfoon staat.
+
+
+
+
+HA-1023-a-24-1-o                              16 / 17                              lees verder ►►►
+            figuur 5
+ I                                                            II
+
+
+
+
+ III                                                          IV
+
+
+
+
+1p     23   Welk diagram geeft het juiste meetresultaat weer als de infrasone
+            frequentie van de luidspreker overeenkomt met de eigenfrequentie van
+            het bureau?
+            A diagram I
+            B diagram II
+            C diagram III
+            D diagram IV
+
+
+            In het rapport staat verder:
+
+            Toevalligerwijs valt de frequentie van het trillen van de glaswasinstallatie
+            samen met de eigenfrequentie van de bureaus ( 4 Hz).
+
+            De glaswasinstallatie bestaat uit een bak die aan staalkabels hangt,
+            waarin de glazenwassers kunnen staan. De totale massa van bak en
+            glazenwassers is 350 kg. De lange staalkabels kunnen worden
+            beschouwd als een veer. De veerconstante van de kabels samen is
+            2,2·105 N m−1. De massa van de kabels wordt verwaarloosd.
+3p     24   Toon met een berekening aan dat de eigenfrequentie van de
+            glaswasinstallatie met glazenwassers gelijk is aan die van de bureaus.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1023-a-24-1-o                                         17 / 17                                          lees verdereinde
+                                                                                                                       ►►► 
+

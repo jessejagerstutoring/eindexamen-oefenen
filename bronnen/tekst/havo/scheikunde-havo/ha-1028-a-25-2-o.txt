@@ -1,0 +1,576 @@
+                                                                  Examen HAVO
+
+                                                                        2025
+                                                                               tijdvak 2
+                                                                        dinsdag 17 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 36 vragen.
+Voor dit examen zijn maximaal 78 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-25-2-o
+      Bacteriën maken aniline uit suiker
+
+            Aniline (C6H5NH2) is een grondstof voor onder andere schuimrubber.
+            In 2022 werd 9,4 miljoen ton aniline geproduceerd. Het meest gebruikte
+            proces voor de productie van aniline is het nitrobenzeenproces.
+            Het nitrobenzeenproces verloopt in twee stappen:
+            Stap 1:    Benzeen ( C6H6) reageert met geconcentreerd salpeterzuur tot
+                       nitrobenzeen (C6H5NO2) en water. Als katalysator wordt
+                       geconcentreerd zwavelzuur gebruikt.
+                       C6H6 + HNO3 → C6H5NO2 + H2O                    (reactie 1)
+            Stap 2:    Nitrobenzeen wordt met behulp van waterstof omgezet tot
+                       aniline en water. Dit gebeurt bij een temperatuur van 200 °C
+                       tot 300 °C in aanwezigheid van een tweede katalysator.
+                       C6H5NO2 + 3 H2 → C6H5NH2 + 2 H2O               (reactie 2)
+
+            Het hele proces kan met één vergelijking worden weergegeven.
+
+4p    1           Geef de totale vergelijking voor de productie van aniline uit benzeen
+                   via het nitrobenzeenproces.
+                  Bereken de atoomeconomie van het nitrobenzeenproces.
+
+            Het nitrobenzeenproces is niet “groen” te noemen. Gebruik van de stof
+            benzeen past niet bij uitgangspunt 7 van de groene chemie, omdat
+            benzeen een bestanddeel is van aardolie. Gebruik van geconcentreerd
+            salpeterzuur past niet bij uitgangspunt 12 van de groene chemie.
+
+1p    2     Leg uit dat het gebruik van geconcentreerd salpeterzuur niet bij
+            uitgangspunt 12 van de groene chemie past.
+
+            In Duitsland heeft Covestro een fabriek gebouwd die gebruik maakt van
+            genetisch aangepaste bacteriën voor de productie van aniline. Figuur 1a
+            toont een onvolledig blokschema voor deze fabriek. In een reactor die
+            bacteriën bevat (R1), wordt een oplossing van onder andere glucose en
+            ammoniumchloride ( NH4Cl) ingevoerd als voedingsstof voor de bacteriën.
+            Bacteriën zetten deze stoffen om tot anthraniline (figuur 1b).
+
+            figuur 1
+
+
+
+
+HA-1028-a-25-2-o                               2 / 16                            lees verder ►►►
+            Na een bepaalde tijd zijn de voedingsstoffen omgezet en wordt de inhoud
+            van de reactor gefiltreerd (S1). Het residu bestaat uit bacteriën die
+            kunnen worden hergebruikt. Omdat de bacteriën zich vermenigvuldigen,
+            wordt een deel hiervan afgevoerd.
+            In het filtraat zijn onder andere water, anthraniline en wateroplosbare
+            bijproducten aanwezig. De pH van het filtraat is 7,5. Bij deze pH hebben
+            moleculen anthraniline een H+-ion afgestaan.
+
+3p    3     Bereken [OH–] in mol L–1 bij pH = 7,5 (T = 298 K).
+            Geef je antwoord in het juiste aantal significante cijfers.
+
+1p    4     Omcirkel in de figuur op de uitwerkbijlage welk H-atoom van anthraniline
+            als H+-ion is afgestaan bij pH = 7,5.
+
+            Het filtraat wordt geleid naar een tweede reactor (R2). Bij een
+            temperatuur van 160 °C wordt anthraniline volledig omgezet tot aniline en
+            koolstofdioxide. In R2 wordt koolstofdioxide afgescheiden van het
+            mengsel van water, aniline en wateroplosbare bijproducten.
+            Vervolgens wordt aniline in scheidingsruimte 2 (S2) gescheiden van de
+            rest van het reactiemengsel door middel van extractie met dodecaan-1-ol.
+            De extractie in S2 wordt uitgevoerd met dodecaan-1-ol, omdat aniline
+            hierin beter oplost dan in water. In figuur 2 is schematisch weergegeven
+            hoe twee moleculen dodecaan-1-ol een anilinemolecuul omringen.
+
+            figuur 2
+
+
+
+
+            Tussen moleculen aniline en dodecaan-1-ol zijn verschillende
+            bindingstypen aanwezig.
+
+2p    5     Geef de twee bindingstypen die aanwezig zijn tussen moleculen aniline en
+            moleculen dodecaan-1-ol.
+
+
+
+
+HA-1028-a-25-2-o                           3 / 16                           lees verder ►►►
+            Omdat water en dodecaan-1-ol niet mengen, ontstaan in S2 twee
+            vloeistoflagen. De vloeistoflaag met daarin dodecaan-1-ol vormt hierbij de
+            bovenste laag.
+
+1p    6     Geef aan door welk verschil in stofeigenschap de laag met dodecaan-1-ol
+            boven de waterlaag in S2 terechtkomt.
+
+            De vloeistoflaag met dodecaan-1-ol en aniline wordt in S2 afgescheiden
+            van de laag met water en de wateroplosbare bijproducten.
+            De laag met dodecaan-1-ol en aniline wordt gescheiden in
+            scheidingsruimte 3 (S3). Dodecaan-1-ol wordt hergebruikt.
+            In de tabel is informatie opgenomen over aniline en dodecaan-1-ol.
+
+            tabel
+
+              stof             structuurformule      kookpunt (°C)
+              aniline                                      184
+
+
+
+
+               dodecaan-1-ol                               259
+
+2p    7     Leg uit welke scheidingsmethode kan worden toegepast om
+            dodecaan-1-ol en aniline te scheiden in S3.
+
+            Op de uitwerkbijlage is het onvolledige blokschema van figuur 1a
+            nogmaals weergegeven.
+
+4p    8     Maak het blokschema op de uitwerkbijlage compleet.
+             Teken de blokken S2 en S3.
+             Teken de pijlen van de ontbrekende stofstromen bij R2, S2 en S3.
+             Noteer de nummers van de onderstaande stoffen bij de juiste pijlen:
+               1 aniline
+               2 dodecaan-1-ol
+               3 koolstofdioxide
+               4 water
+               5 wateroplosbare bijproducten
+             Je moet sommige nummers meer dan één keer gebruiken.
+             Houd rekening met hergebruik van stoffen.
+             Bij de voorgedrukte pijlen hoef je geen nummers te noteren.
+
+
+
+
+HA-1028-a-25-2-o                            4 / 16                             lees verder ►►►
+      Zeewater-accu
+
+            De huidige lithium-ionbatterij is geschikt voor de duurzame opslag van
+            energie, maar het benodigde lithium is schaars. Daarom wordt onderzoek
+            gedaan naar een accu die natrium-ionen gebruikt. Na+-ionen zijn
+            overvloedig aanwezig in zeewater. De molariteit van de Na+-ionen hierin
+            is gemiddeld 470 mmol per liter zeewater.
+
+2p    9     Bereken de concentratie van de Na+-ionen in zeewater in gram per liter.
+
+            Een accu die Na+-ionen uit zeewater gebruikt, wordt een zeewater-accu
+            genoemd. Het opladen van een bepaald type zeewater-accu is in figuur 1
+            schematisch weergegeven.
+
+            figuur 1
+
+
+
+
+            Oplossing A bevat het zout natriumtrifluormethaansulfonaat (NaCF3SO3).
+            Dit zout bevat twee soorten ionen: Na+-ionen en trifluormethaansulfonaat-
+            ionen.
+
+1p    10    Geef de formule van het trifluormethaansulfonaat-ion.
+
+            Bij het opladen vindt aan de natriumelektrode een halfreactie plaats
+            waarbij Na+-ionen uit oplossing A worden omgezet tot natrium.
+            Zeewater is licht basisch. Aan de koolstofelektrode reageren bij het
+            opladen hydroxide-ionen tot zuurstof en water volgens halfreactie 1.
+
+            opladen:         4 OH–  O2 + 2 H2O + 4 e–            (halfreactie 1)
+
+2p    11          Geef de halfreactie die aan de natriumelektrode plaatsvindt bij het
+                   opladen.
+                  Leid de totale vergelijking af van de reacties bij het opladen.
+
+
+
+HA-1028-a-25-2-o                               5 / 16                               lees verder ►►►
+            De accu kan uiteraard ook stroom leveren.
+
+2p    12    Leg uit of aan de koolstofelektrode bij stroomlevering de halfreactie van
+            een oxidator of een reductor plaatsvindt. Doe dit aan de hand van
+            halfreactie 1.
+
+            De natrium-elektrode is goed afgesloten voor water. Als toch een kleine
+            hoeveelheid water in de elektroderuimte terechtkomt, kan water reageren
+            met natrium. Hierbij wordt vast natriumhydroxide (NaOH) gevormd.
+            Ook ontstaat een andere stof, hierop is gevarenzin H220 van toepassing.
+
+2p    13    Voer de volgende opdrachten uit:
+             Geef de vergelijking van de reactie tussen natrium en water.
+             Geef aan op welke stof H220 van toepassing is.
+            Gebruik de Binas-tabellen 48 en 96E of ScienceData-tabellen 9.1F en
+            38.3. Noteer je antwoord als volgt:
+            reactie: …
+            H220 is van toepassing op de stof: …
+
+            Vanwege de risico’s van het gebruik van natriumelektroden is onderzoek
+            gedaan naar het gebruik van andere elektroden in zeewater-accu’s. Een
+            van de onderzochte elektroden is een elektrode van di-antimoontrisulfide
+            (Sb2S3). Deze stof reageert bij opladen met Na+-ionen tot het metaal
+            antimoon (Sb) en een zout (halfreactie 2). Vervolgens worden Sb-atomen
+            en Na+-ionen omgezet tot de legering Na3Sb (halfreactie 3).
+
+            Sb2S3 + 6 Na+ + 6 e–  2 Sb + 3 Na2S                         (halfreactie 2)
+            2 Sb + 6 Na+ + 6 e–  2 Na3Sb                                (halfreactie 3)
+
+            In halfreactie 3 neemt een van de deeltjes elektronen op.
+
+2p    14          Geef de formule van het deeltje in halfreactie 3 dat elektronen
+                   opneemt.
+                  Geef aan welk type rooster aanwezig is in de legering Na3Sb.
+
+            Uit halfreacties 2 en 3 blijkt dat per mol Sb2S3 veel elektronen worden
+            opgenomen. Dit is een belangrijk gegeven voor de energiedichtheid van
+            een accu. De energiedichtheid van deze accu is de hoeveelheid energie
+            die per kg elektrodemateriaal (Sb2S3) kan worden geleverd.
+            De energiedichtheid wordt uitgedrukt in Wh kg–1 (wattuur per kg).
+            De maximale energie die deze accu per mol elektronen kan leveren, is
+            51 Wh.
+
+4p    15    Bereken de energiedichtheid van deze accu. Geef je antwoord in het
+            juiste aantal significante cijfers.
+            Gebruik halfreacties 2 en 3 en het volgende gegeven:
+            De molaire massa van Sb2S3 is 340 g mol–1.
+
+
+HA-1028-a-25-2-o                               6 / 16                             lees verder ►►►
+            Een probleem met een massieve Sb2S3-elektrode is dat Na+-ionen moeilijk
+            tot het binnenste gedeelte van de elektrode kunnen doordringen
+            (figuur 2a). Hierdoor is de elektrode minder efficiënt. De onderzoekers
+            hebben daarom een elektrode gemaakt waarin het Sb2S3 in de vorm van
+            dunne naaldjes (figuur 2b) aanwezig is.
+
+            figuur 2
+
+                   SB2S3-elektrode                      elektronenmicroscoop-opname
+                   (bestaande uit een massieve staaf    van een SB2S3-elektrode
+                                                       (bestaande uit naaldjes)
+
+
+
+
+            De gemiddelde diameter van de atomen in de naaldjes is 3,7 Å
+            (1,0 Å = 0,1 nm).
+
+2p    16    Bepaal hoeveel atomen dik een naaldje minimaal is.
+            Gebruik de dikte van het naaldje aangegeven met k in figuur 2b.
+
+2p    17    Leg uit of een accu met een elektrode in de vorm van naaldjes meer of
+            minder energie kan opslaan dan een accu met een elektrode in de vorm
+            van een even zware massieve staaf. Gebruik figuur 2.
+
+
+
+
+HA-1028-a-25-2-o                              7 / 16                          lees verder ►►►
+      Stikstofbindende bacteriën maken etheen
+
+            Planten halen hun voedingsstoffen uit de bodem en de lucht.
+            Voedingsstoffen voor planten moeten onder andere het element stikstof
+            bevatten. Zonder het element stikstof kunnen planten een bepaalde
+            bouwstof niet aanmaken.
+
+1p    18    Geef de naam van deze bouwstof die het element stikstof bevat.
+
+            Planten kunnen stikstofmoleculen uit de lucht niet opnemen of omzetten.
+            Planten nemen daarom het element stikstof op in de vorm van
+            stikstofhoudende verbindingen. Rondom de wortels van planten kunnen
+            stikstofbindende bacteriën voorkomen. Deze bacteriën zijn in staat om bij
+            kamertemperatuur stikstofmoleculen om te zetten tot ammoniakmoleculen
+            (NH3). Als mensen daarentegen ammoniak willen maken, dan gebeurt dat
+            in fabrieken of laboratoria bij een temperatuur van ongeveer 500 °C.
+
+2p    19    Geef de structuurformules van de stoffen stikstof en ammoniak.
+
+2p    20    Leg uit hoe het mogelijk is dat in bacteriën de omzetting van
+            stikstofmoleculen tot ammoniakmoleculen wel bij kamertemperatuur kan
+            verlopen. Gebruik in je uitleg het begrip activeringsenergie.
+
+            Planten nemen geen ammoniakmoleculen op, maar ammonium-ionen.
+            Ammoniak is een base. Als ammoniak reageert met water, ontstaan onder
+            andere ammonium-ionen.
+
+2p    21    Geef de vergelijking voor de reactie van ammoniak met water waarbij
+            onder andere ammonium-ionen ontstaan.
+
+
+
+
+HA-1028-a-25-2-o                           8 / 16                            lees verder ►►►
+            Stikstofbindende bacteriën gebruiken sulfaat-ionen om het aminozuur
+            methionine te maken. Wanneer de concentratie sulfaat laag is, kunnen
+            sommige soorten bacteriën ook op een andere manier methionine maken.
+            Als bijproduct wordt dan etheen gevormd. Onderzoekers hebben
+            vastgesteld dat in deze bacteriën uiteindelijk een stof met de formule
+            C3H8SO wordt omgezet tot etheen. Deze omzetting is een redoxreactie.
+
+            Een van de halfreacties is hieronder onvolledig weergegeven
+            (halfreactie 1).
+
+            C3H8SO  CH3SH + C2H4 + H2O                       (halfreactie 1)
+
+            In deze halfreactie ontbreken H+-ionen en elektronen.
+
+3p    22    Neem de onvolledige halfreactie 1 over en maak deze compleet.
+             Zet H+ en e– aan de juiste kant van de pijl.
+             Maak de halfreactie kloppend.
+
+            De stof etheen kan problemen vormen bij het telen van gewassen.
+            De etheen-concentratie in de bodem kan namelijk door aanwezigheid van
+            een bacteriesoort, zoals R. rubrum, steeds hoger worden. Onderzoek
+            heeft aangetoond dat de groei van plantenwortels wordt verstoord bij een
+            etheen-concentratie die hoger is dan 0,1 cm3 per m3 grond.
+            De onderzoekers hebben de etheenproductie van deze bacteriën gemeten
+            in het laboratorium. Onder geschikte omstandigheden werd door de
+            bacteriën in een reageerbuisje in 1 uur tijd 3·10–2 μmol etheen gevormd.
+
+            Roos probeert zich voor te stellen wat het effect van deze hoeveelheid
+            etheen is. Ze wil deze hoeveelheid vergelijken met de concentratie etheen
+            waarbij de wortelgroei wordt verstoord.
+            Ze berekent daarom het volume grond in dm3 waarbij de wortelgroei net
+            niet wordt verstoord door 3·10–2 μmol etheen.
+
+3p    23    Geef deze berekening van het volume grond in dm3.
+            Ga ervan uit dat:
+             het volume van 1 mol etheen 24 dm3 is;
+             alle gevormde etheen gelijkmatig door de grond verspreid is en blijft.
+
+
+
+
+HA-1028-a-25-2-o                            9 / 16                              lees verder ►►►
+      Mondkapjes
+
+            Tijdens de covid-19-pandemie werden er grote hoeveelheden mondkapjes
+            gebruikt, zoals het mondkapje type IIR (figuur 1).
+
+            figuur 1
+
+
+
+
+            Dit mondkapje bestaat uit drie lagen:
+             laag 1: de buitenlaag die grote vochtdruppels tegenhoudt.
+             laag 2: de middenlaag met zeer kleine poriën. Deze laag houdt
+                kleinere vochtdruppels tegen die virusdeeltjes kunnen bevatten.
+             laag 3: de binnenlaag die vocht uit de uitgeademde lucht kan
+                opnemen.
+
+            Lagen 1 en 2 kunnen worden gemaakt van polymeer A (figuur 2).
+            Polymeer A is een additiepolymeer.
+
+            figuur 2
+
+
+
+
+2p    24    Geef de structuurformule van het monomeer waaruit polymeer A is
+            gevormd.
+
+            Lagen 1 en 2 houden druppels water tegen, maar laten waterdamp door.
+            De losse watermoleculen in waterdamp binden namelijk niet aan
+            polymeer A.
+
+2p    25    Leg aan de hand van figuur 2 uit dat watermoleculen niet binden aan
+            polymeer A. Gebruik in je antwoord begrippen op microniveau.
+
+            Bij de productie van laag 2 wordt aan polymeer A een hulpstof
+            toegevoegd. Deze hulpstof is opgebouwd uit magnesium-ionen en
+            stearaat-ionen (C17H35COO–).
+
+1p    26    Geef de verhoudingsformule van deze hulpstof.
+
+
+
+HA-1028-a-25-2-o                           10 / 16                           lees verder ►►►
+            Laag 2 van het mondkapje wordt geproduceerd in 2 stappen (figuur 3):
+
+            Stap 1:      Polymeer A en de hulpstof worden in een extruder gemengd en
+                         verwarmd.
+            Stap 2:      Onder invloed van een sterke warme luchtstroom wordt het
+                         vloeibare mengsel tot zeer kleine vezeltjes geblazen. Deze
+                         vezeltjes vormen laag 2.
+
+            figuur 3
+
+
+
+
+            Een stofeigenschap van polymeer A maakt het materiaal geschikt om te
+            verwerken in een extruder. Deze stofeigenschap kan onder andere
+            worden verklaard uit een kenmerk op microniveau.
+
+2p    27          Geef aan welke stofeigenschap polymeer A heeft, waardoor het
+                   geschikt is om te verwerken in een extruder.
+                  Geef aan hoe deze eigenschap kan worden verklaard uit een kenmerk
+                   op microniveau.
+
+
+
+
+HA-1028-a-25-2-o                            11 / 16                         lees verder ►►►
+            Laag 3 van het mondkapje wordt vaak ook gemaakt van polymeer A, maar
+            polymeer A kan geen water binden. Om laag 3 waterbindende
+            eigenschappen te geven wordt door reactie met zuurstof een deel van de
+            polymeerketens voorzien van carboxylgroepen.
+            In figuur 4 is de vergelijking van deze reactie onvolledig weergegeven.
+
+            figuur 4
+
+
+
+
+            Door de reactie breekt een polymeerketen in twee fragmenten.
+            Fragment X bevat een carboxylgroep.
+
+2p    28    Geef de structuurformule van fragment X.
+
+            In 2020 werden wereldwijd op een gegeven moment per dag 2,0 miljard
+            mondkapjes met polymeer A in afvalovens verbrand.
+
+3p    29    Bereken hoeveel ton CO2 per dag vrijkwam door de verbranding van
+            polymeer A in deze mondkapjes.
+            Gebruik de volgende gegevens en aannames:
+             Een mondkapje bevat gemiddeld 2,45 gram polymeer A.
+             De massa van de repeterende eenheid in polymeer A is 42,1 u.
+             Bij de verbranding ontstaan drie moleculen CO2 per repeterende
+               eenheid in polymeer A.
+             1 ton = 103 kg.
+
+
+
+
+HA-1028-a-25-2-o                          12 / 16                          lees verder ►►►
+      Hyaluronzuur in fillers
+
+            Om rimpels op te vullen, kan een ‘filler’ in de huid geïnjecteerd worden.
+            Moderne fillers bevatten vaak de polysacharide hyaluronzuur (HyZ).
+            Volgens fabrikanten houdt je huid door het gebruik van een filler met HyZ
+            beter water vast. Hierdoor worden rimpels opgevuld en ziet je huid er
+            strakker uit. In figuur 1 is de structuurformule van een repeterende
+            eenheid van HyZ weergegeven.
+
+            figuur 1
+
+
+
+
+            HyZ heeft een zeer hoog waterbindend vermogen. Een klein deel van de
+            gebonden watermoleculen is via waterstofbruggen direct gebonden aan
+            HyZ. Een groter deel is niet direct gebonden, maar is via andere
+            watermoleculen gebonden aan HyZ.
+
+2p    30    Voer op de uitwerkbijlage de volgende opdrachten uit:
+             Teken een watermolecuul dat met een waterstofbrug direct gebonden
+               is aan de repeterende eenheid van HyZ.
+             Teken een tweede watermolecuul dat via één waterstofbrug gebonden
+               is aan het eerste watermolecuul.
+             Geef de waterstofbruggen weer met stippellijntjes (• • •).
+             Geef de watermoleculen weer met           .
+
+            Tijdens een onderzoek is bepaald dat 1,0 gram HyZ 44 gram water kan
+            binden.
+
+2p    31    Bereken het aantal watermoleculen dat volgens dit onderzoek gebonden
+            kan worden aan een repeterende eenheid van het HyZ. De massa van
+            een repeterende eenheid HyZ is 379 u.
+
+
+
+
+HA-1028-a-25-2-o                           13 / 16                           lees verder ►►►
+            HyZ is een polysacharide en wordt in een ongebruikte filler langzaam
+            afgebroken door hydrolyse. Daarom kan een ongebruikte filler niet
+            oneindig lang worden bewaard. Op de uitwerkbijlage is de vergelijking van
+            de hydrolyse van een repeterende eenheid HyZ onvolledig weergegeven.
+            De plaats van de hydrolyse is met een pijl aangegeven.
+
+3p    32    Maak op de uitwerkbijlage de reactievergelijking van deze hydrolyse
+            compleet. Gebruik structuurformules voor de koolstofverbindingen.
+
+            Onderzoekers hebben de hydrolyse van HyZ onderzocht. Gedurende
+            meerdere maanden hebben de onderzoekers in een filler de gemiddelde
+            molaire massa van HyZ gemeten. In figuur 2 zijn de onderzoeksresultaten
+            weergegeven.
+
+            figuur 2
+
+
+
+
+            Figuur 2 toont de molaire massa van HyZ als de filler wordt bewaard bij
+            kamertemperatuur. Op de uitwerkbijlage is figuur 2 nogmaals
+            weergegeven.
+
+2p    33    Schets op de uitwerkbijlage het verloop van de gemiddelde molaire massa
+            van HyZ als de filler gedurende dezelfde tijd in de koelkast wordt
+            bewaard.
+
+
+
+
+HA-1028-a-25-2-o                           14 / 16                           lees verder ►►►
+            Ook in het lichaam wordt HyZ afgebroken. Dit gebeurt onder invloed van
+            het enzym hyaluronidase. Deze afbraak in het lichaam verloopt snel in
+            vergelijking met buiten het lichaam. Om de enzymatische afbraak van HyZ
+            in het lichaam tegen te gaan, wordt in een filler vaak gebruikgemaakt van
+            HyZ waarin de ketens met crosslinks aan elkaar zijn gekoppeld (figuur 3).
+
+            figuur 3
+
+
+
+
+            De enzymatische afbraak van HyZ door hyaluronidase verloopt niet in de
+            delen van HyZ met crosslinks. De ingespoten filler behoudt hierdoor
+            langer zijn werking.
+
+1p    34    Geef een verklaring voor het feit dat de enzymatische afbraak van HyZ
+            niet verloopt in de delen van HyZ met crosslinks.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-1028-a-25-2-o                          15 / 16                           lees verder ►►►
+            Een stof die veel gebruikt wordt als crosslinker is BDDE. Maar deze stof is
+            zeer reactief en kan schade aan weefsels opleveren. Er mag daarom van
+            het niet-gereageerde BDDE maximaal 1,0·10–5 mol L–1 in de filler
+            aanwezig zijn.
+
+3p    35    Bereken het gehalte BDDE in massa-ppm dat maximaal in de filler
+            aanwezig mag zijn. Gebruik de volgende gegevens:
+             De dichtheid van de filler is 1,0 g mL–1.
+             De molecuulformule van BDDE is C10H18O4.
+
+            In het lichaam zal het gecrosslinkte HyZ uiteindelijk toch worden
+            afgebroken. De BDDE-crosslink wordt hierbij omgezet tot de
+            lichaamseigen stoffen glycerol en butaandizuur.
+
+3p    36    Geef de structuurformule van butaandizuur.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1028-a-25-2-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

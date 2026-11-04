@@ -1,0 +1,752 @@
+                                                                   Examen VWO
+
+                                                                       2024
+                                                                              tijdvak 1
+                                                                       dinsdag 14 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                           biologie
+
+
+
+
+ Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+ Dit examen bestaat uit 42 vragen.
+ Voor dit examen zijn maximaal 68 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een open vraag een verklaring, uitleg of berekening vereist is, worden aan
+ het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+ berekening ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1018-a-24-1-o
+            Tenzij anders vermeld, is er sprake van normale situaties en gezonde
+            organismen.
+
+
+      Nicotine tijdens de vroege embryonale ontwikkeling
+
+            Het is al lang bekend dat roken tijdens de zwangerschap kan leiden tot
+            een miskraam, een laag geboortegewicht, vroeggeboorte en nadelige
+            gezondheidseffecten bij de baby. Amerikaanse wetenschappers van de
+            Stanford University School of Medicine hebben een model ontwikkeld om
+            te onderzoeken hoe nicotine een embryo beïnvloedt.
+
+            Nicotine is een gifstof met verslavende en verdovende effecten. In het
+            beloningscentrum van de grote hersenen bindt nicotine aan
+            acetylcholinereceptoren die zich bevinden op de axonen van dopamine-
+            producerende neuronen. Zowel na binding van acetylcholine als na
+            binding van nicotine, neemt de dopamine-afgifte in de synaps toe,
+            waardoor het beloningscentrum actiever wordt. Dopamine wordt
+            heropgenomen in het presynaptisch neuron (afbeelding 1).
+
+            afbeelding 1
+
+
+
+
+            Over afbeelding 1 worden de volgende uitspraken gedaan:
+            1 Nicotine is een antagonist van acetylcholine.
+            2 Dopamine komt via endocytose in de synapsspleet terecht.
+            3 Heropname van dopamine vindt plaats door dopaminereceptoren.
+2p    1     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            Nicotine wordt niet afgebroken door acetylcholinesterase, dat in de
+            weefselvloeistof aanwezig is.
+3p    2     Leg uit dat in aanwezigheid van nicotine het beloningscentrum meer
+            geactiveerd wordt dan in aanwezigheid van acetylcholine.
+
+
+
+VW-1018-a-24-1-o                           2 / 19                           lees verder ►►►
+            De gifstof nicotine wordt gemaakt door planten van de familie
+            Solanaceae. In deze familie worden de grootste hoeveelheden nicotine
+            geproduceerd door de planten van het geslacht Nicotiana.
+
+1p    3     Noteer wat de functie is van de aanmaak van nicotine door planten.
+
+            Nicotiana-soorten die gebruikt worden voor de productie van tabak
+            hebben hogere gehaltes aan nicotine dan wilde tabaksplanten. Dit komt
+            door een bepaald proces waarbij door middel van kruisingen en selectie
+            een hogere aanmaak van nicotine in deze productiesoorten is verkregen.
+1p    4     Noteer de naam van dit proces.
+
+            De Amerikaanse wetenschappers wilden onderzoeken hoe nicotine de
+            verschillende celtypen in een embryo beïnvloedt. Onderzoek doen aan
+            menselijke embryo’s is in veel landen niet toegestaan of mag alleen onder
+            zeer strikte voorwaarden. Daarom gebruikten de wetenschappers
+            stamcellen afkomstig uit een menselijk embryo van vijf dagen oud
+            (blastula). Een kweek van deze stamcellen vormt spontaan bolletjes die
+            ‘embryoid bodies’ (EB’s) worden genoemd. Om het effect van nicotine op
+            de ontwikkeling van deze stamcellen te onderzoeken, voegden de
+            wetenschappers nicotine toe aan het kweekmedium. De opzet van het
+            onderzoek is in afbeelding 2 weergegeven.
+
+            afbeelding 2
+
+
+
+
+            Stamcellen hebben een bepaalde potentie.
+2p    5     Welke potentie hebben de stamcellen bij de start van het onderzoek? En
+            welke potentie hebben ze na 21 dagen ontwikkeling?
+                   start onderzoek   na 21 dagen
+            A      multipotent       pluripotent
+            B      multipotent       totipotent
+            C      pluripotent       multipotent
+            D      pluripotent       totipotent
+            E      totipotent        multipotent
+            F      totipotent        pluripotent
+
+
+
+
+VW-1018-a-24-1-o                           3 / 19                           lees verder ►►►
+            De concentratie nicotine van het kweekmedium was gelijk aan de
+            gemiddelde concentratie in het bloed van embryo’s waarvan de moeder
+            rookt. Na 21 dagen incubatie werd de diameter van de EB’s bepaald. De
+            diameter is een maat voor het aantal cellen in de EB’s.
+            Afbeelding 3 toont een microscopisch beeld van EB’s die aan nicotine zijn
+            blootgesteld en van controle-EB’s. De EB’s zijn als donkere vlekken
+            zichtbaar. In afbeelding 4 zijn de metingen van de diameter van de EB’s in
+            de twee groepen weergegeven.
+
+            afbeelding 3                            afbeelding 4
+
+
+
+
+                                                             * significant verschil in
+                                                              gemiddelde diameter
+
+            Over het resultaat worden de volgende uitspraken gedaan:
+            1 Het aantal cellen in een controle-EB is gemiddeld groter dan in een EB
+               die aan nicotine is blootgesteld.
+            2 Het verschil in gemiddelde diameter tussen de twee groepen EB’s
+               berust op toeval.
+2p    6     Welke uitspraak wordt ondersteund door de gegevens?
+            A geen van beide
+            B alleen 1
+            C alleen 2
+            D zowel 1 als 2
+
+            De onderzoekers hebben ook het effect van nicotine op de genexpressie
+            van de EB’s onderzocht. Om de verschillen in expressie tussen
+            verschillende celtypen te onderzoeken, werd de genexpressie van
+            afzonderlijke cellen bepaald.
+
+            Om de genexpressie te bepalen werd – op basis van al het RNA – cDNA
+            gemaakt, dat vervolgens werd vermenigvuldigd met de PCR-techniek.
+            Aan de hand van de gevonden genexpressie werd een expressieprofiel
+            opgesteld waarmee de cellen konden worden ingedeeld in verschillende
+            celtypen. Afbeelding 5 toont de stappen van dit deel van het onderzoek.
+
+
+
+
+VW-1018-a-24-1-o                           4 / 19                                  lees verder ►►►
+            afbeelding 5
+
+
+
+
+            Over de stappen in afbeelding 5 worden de volgende uitspraken gedaan:
+            1 Om cDNA te maken, zijn andere enzymen nodig dan bij de PCR.
+            2 Om cDNA te maken, zijn andere nucleotiden nodig dan bij de PCR.
+            3 Bij de PCR in dit onderzoek wordt in totaal één kenmerkend gen
+                vermenigvuldigd.
+2p    7     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            In de tabel hieronder zijn twee celtypen genoemd waarvan de
+            genexpressie was veranderd door nicotine, met het bijbehorend effect op
+            de embryonale ontwikkeling.
+                   celtype            effect van nicotine
+              1    epitheelcellen     toename van celdeling
+              2    endotheelcellen    verminderde vorming van haarvaten
+            Kinderen van wie de moeder rookte tijdens de zwangerschap, hebben op
+            latere leeftijd een grotere kans op longproblemen.
+2p    8     Schrijf de nummers 1 en 2 onder elkaar en licht voor elk celtype uit de
+            tabel toe hoe het betreffende effect van nicotine kan leiden tot problemen
+            bij de gaswisseling op latere leeftijd. Doe dit aan de hand van een factor
+            uit de wet van Fick.
+
+            Het is niet ideaal om EB’s te gebruiken als een model om de gevolgen
+            van nicotinegebruik tijdens de zwangerschap op de ontwikkeling van het
+            embryo te onderzoeken. Een voorbeeld van een tekortkoming is dat een
+            EB geen echt embryo is en effecten voor de latere periode van de
+            zwangerschap dus niet bestudeerd kunnen worden.
+1p    9     Noteer een andere tekortkoming van EB’s als model in het onderzoek
+            naar effecten van nicotine op de embryonale ontwikkeling.
+
+
+
+
+VW-1018-a-24-1-o                            5 / 19                           lees verder ►►►
+      Spitsbergenrendier verandert zijn dieet
+
+            Door klimaatverandering wordt de vegetatie in arctische gebieden
+            ’s winters steeds vaker door een ijslaag bedekt. De Noorse bioloog Brage
+            Bremset Hansen en zijn collega’s hebben aangetoond dat het dieet van
+            Spitsbergenrendieren dan verandert. Dit veroorzaakt een verandering in
+            de nutriëntenkringloop in het ecosysteem.
+
+            Rendieren komen voor op de toendra’s in het gebied rondom de
+            Noordpool. Het Spitsbergenrendier (Rangifer tarandus platyrhynchus) is
+            de kleinste van de zeven ondersoorten en komt alleen voor op
+            Spitsbergen, een eilandengroep in de Noordelijke IJszee (afbeelding 1).
+            Het Spitsbergenrendier heeft korte poten, een relatief kleine, ronde kop
+            en een dikke vacht (afbeelding 2).
+
+            afbeelding 1                             afbeelding 2
+
+
+
+
+            Spitsbergenrendieren eten grassen, mossen en dwergstruikjes. In de
+            zomerperiode slaan ze overtollige energie uit het voedsel op in een dikke
+            vetlaag. Om in de winter bij hun voedsel te komen, schrapen ze sneeuw
+            weg met hun hoeven.
+
+            Een aantal aanpassingen maakten deze ondersoort geschikt om te
+            overleven in de kou op Spitsbergen. Zo hebben ze een dikke vacht,
+            waardoor ze minder energie verbruiken om warm te blijven, en door hun
+            korte poten is hun oppervlakte-inhoudsverhouding gunstig.
+2p   10      Licht toe hoe kortere poten de oppervlakte-inhoudsverhouding
+                beïnvloeden.
+             Licht toe hoe dit leidt tot een lager energieverbruik.
+
+
+
+
+VW-1018-a-24-1-o                            6 / 19                           lees verder ►►►
+            De poten van het Spitsbergenrendier zijn kort, maar ook de rest van zijn
+            lichaam is klein vergeleken met ondersoorten die op andere plaatsen
+            leven. Een mogelijke verklaring hiervoor is de afwezigheid van predatoren
+            zoals de wolf. Kleinere dieren vallen daardoor niet vaker ten prooi aan
+            wolven dan grotere exemplaren. Selectiedruk door andere factoren leidde
+            tot de kleine ondersoort op Spitsbergen.
+3p   11     Leg uit hoe op Spitsbergen een ondersoort kon ontstaan die kleiner is dan
+            andere ondersoorten.
+
+            Onderzoekers hebben geconstateerd dat temperatuurstijging als gevolg
+            van klimaatverandering in de arctische gebieden een hogere productiviteit
+            van de vegetatie veroorzaakt.
+            Een aantal effecten van temperatuurstijging zijn:
+            1 De dissimilatie door plantencellen neemt toe.
+            2 De periode waarin reducenten in de bodem actief zijn, wordt langer.
+            3 De stikstofassimilatie verloopt sneller.
+2p   12     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de netto
+            primaire productie wel of niet zal toenemen door het betreffende effect.
+
+            De populatiegrootte van sommige soorten herbivoren neemt toe door een
+            hogere productiviteit van de vegetatie.
+1p   13     Verklaar waardoor de populatiegrootte van andere soorten herbivoren
+            juist kan afnemen.
+
+
+
+
+VW-1018-a-24-1-o                           7 / 19                           lees verder ►►►
+            In de winter is de vegetatie op Spitsbergen bedekt met sneeuw. Wanneer
+            er regen valt op het sneeuwdek, vormt zich een ijslaag over de vegetatie.
+            Hierdoor kunnen herbivoren minder makkelijk aan voedsel komen. Deze
+            ijslagen komen door klimaatverandering vaker voor.
+            Hansen en collega’s onderzochten wat het effect hiervan is op het dieet van
+            Spitsbergenrendieren. Hun hypothese was dat als landplanten
+            onbereikbaar zijn, Spitsbergenrendieren zeewier eten dat is aangespoeld
+            op de kust.
+
+            De onderzoekers bepaalden negen jaar lang de ruimtelijke spreiding van
+            Spitsbergenrendieren en de gemiddelde dikte van de ijslaag die ontstaat
+            door regen-op-sneeuw.
+            In afbeelding 3 is de relatie weergegeven tussen de dikte van de ijslaag en
+            het aandeel Spitsbergenrendieren dat aan de kust voedsel zoekt. Elk
+            bolletje stelt het gemiddelde voor van één jaar van een bepaalde populatie.
+
+            afbeelding 3
+
+
+
+
+            Over afbeelding 3 worden de volgende uitspraken gedaan:
+            1 Alleen wanneer er een ijslaag aanwezig is, zoeken
+                Spitsbergenrendieren voedsel aan de kust.
+            2 Het aandeel Spitsbergenrendieren dat aan de kust voedsel zoekt in
+                populatie 1 wordt gemiddeld groter naarmate de ijslaag dikker is.
+            3 Als de ijsdikte meer dan 9 cm is, zoekt 31% van de
+                Spitsbergenrendieren uit populatie 2 voedsel aan de kust.
+2p   14     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            Met een onderzoek aan de uitwerpselen toonden de onderzoekers aan dat
+            het dieet van Spitsbergenrendieren inderdaad is veranderd:
+            Spitsbergenrendieren blijken nu ook zeewier te eten.
+            Het veranderde dieet heeft invloed op de lokale stikstofkringloop.
+1p   15     Verklaar hoe het veranderde dieet van de Spitsbergenrendieren de
+            stikstofkringloop op de toendra van Spitsbergen beïnvloedt.
+
+ VW-1018-a-24-1-o                           8 / 19                            lees verder ►►►
+      Koolmezen dood door bestrijding buxusmot?
+
+            In het voorjaar van 2018 kwamen er verontrustende berichten over
+            opvallend veel dode koolmeesjongen in nestkasten. Ook Henriëtte had zo’n
+            nestje met dode koolmezen in de tuin.
+
+            De koolmees (Parus major, afbeelding 1) is een veelvoorkomende
+            broedvogel in Nederland. De koolmees leeft van zaden en insecten. Totdat
+            jonge koolmezen het nest verlaten, worden ze door hun ouders gevoerd
+            met kleine insecten zoals de rupsen van de buxusmot.
+            afbeelding 1
+                                                     In 2018 en 2019 hadden veel
+                                                     Nederlandse tuineigenaren last
+                                                     van de rupsen van de buxusmot.
+                                                     Ook Henriëttes buxus-heg werd
+                                                     kaalgevreten. In het tuincentrum
+                                                     haalde ze toen een middel om de
+                                                     buxusmot te bestrijden. Henriëtte
+                                                     vraagt zich nu af of het nestje dode
+                                                     koolmeesjes in haar tuin misschien
+                                                     het gevolg was van dit
+                                                     bestrijdingsmiddel.
+
+            Veel insectenbestrijdingsmiddelen behoren tot de pyrethroïden. Deze
+            stoffen verhinderen het sluiten van de spannings-afhankelijke Na +-kanalen
+            in de uitlopers van neuronen.
+            Over het effect van pyrethroïden op een neuron worden de volgende
+            uitspraken gedaan:
+            1 Door pyrethroïden ontstaan er constant nieuwe impulsen in de axonen.
+            2 Doordat de Na+-kanalen niet sluiten, treedt hyperpolarisatie op.
+            3 De oorspronkelijke rustpotentiaal wordt niet meer bereikt.
+2p   16     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+
+
+
+ VW-1018-a-24-1-o                           9 / 19                              lees verder ►►►
+            In het voorjaar van 2019 hebben onderzoekers van het Centrum voor
+            Landbouw en Milieu 41 nesten met dode jonge koolmezen onderzocht op
+            aanwezigheid van diverse bestrijdingsmiddelen in de koolmezen. Er waren
+            nesten uit stedelijke gebieden waar bestrijdingsmiddelen tegen de
+            buxusmot waren gebruikt, uit stedelijke gebieden waar dit niet was
+            gebeurd, en uit bossen. In geen van de 41 onderzochte nesten werden de
+            insecticiden aangetroffen die werden gebruikt tegen de buxusmot.
+            In tabel 1 zijn de bestrijdingsmiddelen weergegeven die wel werden
+            aangetroffen in de dode koolmezen op de verschillende plaatsen.
+
+            tabel 1
+             werkzame stof        type                        aantal nesten
+                                  middel            stad (wel   stad (geen      bos
+                                                   bestrijding) bestrijding)
+             DDT                  insecticide             9          9            4
+             DEET                 insecticide             -          -            3
+             bifenyl-2-ol         fungicide               1          5            3
+             fipronil             insecticide             6          2            1
+             fluralaner           insecticide             1          1            1
+             fluroxypyr meptyl    herbicide               -          1            -
+             imidacloprid         insecticide             1          -            -
+             permethrin           insecticide             4          3            4
+             insecticide: gifstof die insecten doodt
+             fungicide: gifstof die schimmels doodt
+             herbicide: gifstof die planten doodt
+
+            Verontrustend was de aanwezigheid van DDT in veel van de dode jonge
+            koolmezen. DDT is al meer dan 50 jaar een verboden stof in Nederland.
+            Deze gegevens laten zien hoe slecht afbreekbaar dit gif is.
+1p   17     Noteer de term die wordt gebruikt voor zo’n slecht afbreekbare gifstof.
+
+            De onderzoekers troffen in de koolmezen uit één nest de herbicide
+            fluroxypyr meptyl aan.
+1p   18     Verklaar hoe een herbicide in de jonge koolmezen terecht kan komen.
+
+
+
+
+ VW-1018-a-24-1-o                               10 / 19                        lees verder ►►►
+            Veel van de insecticiden uit tabel 1 worden gebruikt als bestrijdingsmiddel
+            tegen vlooien en teken bij honden en katten. Henriëtte ontvlooit haar hond
+            elke vier weken met zo’n middel. Misschien hebben jonge koolmezen in
+            haar tuin de gifstoffen via de huid opgenomen na contact met de haren
+            van de hond. Koolmezen gebruiken haren namelijk als binnenbekleding
+            van het nest (afbeelding 2).
+
+            afbeelding 2
+
+
+
+
+            Gifstoffen kunnen echter veel gemakkelijker via de darm worden
+            opgenomen dan via de huid.
+2p   19      Noteer een eigenschap op orgaanniveau waardoor opname via de
+                darm makkelijker verloopt.
+             Noteer een eigenschap op celniveau waardoor opname via de darm
+                makkelijker verloopt.
+
+            Het Centrum voor Landbouw en Milieu heeft ook de haren uit nestjes met
+            dode koolmeesjongen onderzocht. De gevonden haren bleken permethrin,
+            DEET, fipronil en imidacloprid te bevatten. Een landelijk dagblad
+            publiceerde na dit onderzoek een artikel met de volgende kop:
+            “Koolmeesjes sterven massaal door vlooien- en tekengif”
+            Toen Henriëtte dat las voelde ze zich weer schuldig aan de dood van de
+            koolmeesjongen.
+1p   20     Beargumenteer dat de onderzoekers deze kop niet als conclusie zullen
+            hebben gepresenteerd.
+
+
+
+
+VW-1018-a-24-1-o                           11 / 19                            lees verder ►►►
+      Drop
+
+            Anna heeft last van een hoge bloeddruk. Als ze voor controle naar haar
+            huisarts gaat, vraagt de huisarts of ze vaak drop eet of zoethoutthee
+            drinkt. Bepaalde stoffen in deze voedingsmiddelen kunnen namelijk een
+            hoge bloeddruk veroorzaken.
+
+           afbeelding 1                                Drop en zoethoutthee bevatten
+                                                       glycyrrhizine (GL). Deze stof
+                                                       zorgt voor de typische
+                                                       dropsmaak en heeft een grote
+                                                       zoetkracht. GL wordt in de
+                                                       darmen door darmbacteriën
+                                                       gehydrolyseerd. Hierbij
+                                                       ontstaat glycyrrhetinezuur
+                                                       (GA), dat wordt opgenomen in
+                                                       het bloed. In de lever wordt
+                                                       een gedeelte van het GA
+                                                       omgezet in een aantal
+                                                       verschillende stoffen die via de
+                                                       gal worden afgevoerd.
+            Een gedeelte daarvan wordt in de darm weer omgezet in GA en
+            vervolgens opgenomen en getransporteerd naar de lever. Deze cyclus
+            heet de enterohepatische circulatie (afbeelding 1).
+
+            Over de aanwezigheid van GA in het lichaam worden de volgende
+            uitspraken gedaan:
+            1 GA komt alleen terecht in de lever via de poortader.
+            2 Door de enterohepatische circulatie duurt het langer voordat GA
+                volledig uit het lichaam is verwijderd.
+            3 Een trage passage van de voedselbrij in de darm verlaagt de
+                hoeveelheid GA in het lichaam.
+2p   21     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            GA heeft effect op bepaalde cellen in de nierbuisjes (afbeelding 2). In het
+            grondplasma van deze cellen bevinden zich mineralocorticoïd-receptoren.
+            Door binding van cortisol wordt een mineralocorticoïd-receptor (MR)
+            geactiveerd. De geactiveerde MR verplaatst zich naar de kern, waar dit
+            complex bindt aan een hormoon-respons-element (HRE). Daardoor
+            komen bepaalde genen tot expressie, wat leidt tot de synthese van
+            Na+-kanalen die in het celmembraan terechtkomen. GA verhindert de
+            werking van het enzym 11β-HSD2 in deze niercellen. Dit enzym zet
+            normaliter cortisol om in cortison. Cortison kan niet binden aan de MR.
+
+
+
+
+VW-1018-a-24-1-o                            12 / 19                           lees verder ►►►
+            afbeelding 2
+
+
+
+
+            De geactiveerde MR is als transcriptiefactor betrokken bij de synthese van
+            Na+-kanalen.
+1p   22     Welke functie heeft de geactiveerde MR bij de transcriptie? Gebruik je
+            informatieboek.
+            A activator
+            B enhancer (versterker)
+            C promotor
+            D repressor
+
+            De opname van GA leidt tot een toename van de osmotische waarde van
+            het bloed.
+2p   23     Leg dit uit aan de hand van afbeelding 2.
+
+            De toename van de osmotische waarde leidt tot een hoge bloeddruk. Dit
+            kan oedeem veroorzaken.
+1p   24     Verklaar hoe een hoge bloeddruk oedeem kan veroorzaken.
+
+            De hoeveelheid glycyrrhizine in drop wordt aangegeven met het
+            GA-gehalte. Het advies voor de hoeveelheid drop die je per dag veilig kan
+            eten, gaat uit van een ‘no effect level’ van 2,0 mg GA per kilogram
+            lichaamsgewicht per dag. Mensen die een hoge bloeddruk hebben zoals
+            Anna, moeten deze waarde door 10 delen.
+            Hieronder is het GA-gehalte van verschillende soorten drop vermeld. Een
+            dropje weegt gemiddeld 5 gram.
+              soort drop                       GA-gehalte (mg/kg)
+              zoete drop                             1259
+              mild-zoute drop                         801
+              dubbelzoute drop                        343
+2p   25     Bereken het maximale aantal zoete dropjes dat Anna per dag mag eten
+            volgens bovenstaand advies. Ga ervan uit dat Anna 70 kg weegt.
+
+
+
+VW-1018-a-24-1-o                           13 / 19                           lees verder ►►►
+      Bonenziekte
+
+            De burgemeester van een Italiaans dorp heeft het verbouwen van
+            tuinbonen verboden vanwege Fabio, een jongen uit het dorp die lijdt aan
+            bonenziekte (favisme). Het eten van tuinbonen of het inademen van
+            pollen van tuinboonplanten leidt bij Fabio tot een versnelde afbraak van
+            rode bloedcellen, waardoor een levensbedreigende situatie kan ontstaan.
+
+            Bonenziekte is het gevolg van een mutatie in het gen dat codeert voor het
+            enzym glucose-6-fosfaatdehydrogenase (G6PD). Hierdoor is bij Fabio dit
+            enzym minder goed werkzaam. G6PD katalyseert de eerste reactie in de
+            pentose-fosfaatweg (‘pentose phosphate pathway’ of PPP).
+            De PPP (afbeelding 1) is een stofwisselingsroute waarbij glucose-
+            moleculen worden omgezet in pentosemoleculen (C5-moleculen). Hierbij
+            worden ook NADPH-moleculen gevormd.
+            NADPH (bekend van de fotosynthese bij planten) is in menselijke cellen
+            nodig bij de productie van bepaalde organische stoffen zoals glutathion.
+            Glutathion kan schadelijke reactieve zuurstofmoleculen zoals O 2–
+            onschadelijk maken (afbeelding 1).
+
+            afbeelding 1
+
+
+
+
+            In de PPP wordt NADPH gevormd.
+2p   26     Kan NADPH energierijke elektronen afstaan of opnemen? En bij welk type
+            stofwisselingsproces wordt NADPH dan verbruikt?
+                   energierijke elektronen   type stofwisselingsproces
+            A      afstaan                   assimilatie
+            B      afstaan                   dissimilatie
+            C      opnemen                   assimilatie
+            D      opnemen                   dissimilatie
+
+
+
+VW-1018-a-24-1-o                             14 / 19                        lees verder ►►►
+            De PPP is betrokken bij de productie van vetzuren. Met behulp van
+            afbeelding 1 kan worden afgeleid wat het gevolg is voor de productie van
+            vetzuren als G6PD onwerkzaam is.
+1p   27     Wat gebeurt er met de productie van vetzuren als G6PD onwerkzaam is?
+            A Die neemt toe.
+            B Die neemt af.
+            C Die verandert niet.
+
+            In de rode bloedcellen wordt normaal ongeveer 30% van de glucose via
+            de PPP gedissimileerd. Zo ontstaat er voldoende glutathion om reactieve
+            zuurstofmoleculen onschadelijk te maken. Reactieve zuurstofmoleculen
+            kunnen ontstaan door infecties, door gebruik van bepaalde medicijnen en
+            ook door stoffen in tuinboonplanten.
+            Doordat er bij Fabio te weinig G6PD-activiteit is in zijn rode bloedcellen, is
+            er een tekort aan glutathion. Als Fabio tuinbonen eet of pollen van
+            tuinboonplanten inademt, hopen reactieve zuurstofmoleculen zich op in
+            zijn rode bloedcellen en veroorzaken ze oxidatie van hemoglobine.
+            Hierdoor denatureert de hemoglobine en vormt klonten. Doordat de rode
+            bloedcellen vervolgens openbarsten (hemolyse), ontstaat bloedarmoede.
+
+            In de andere cellen van Fabio wordt de ophoping van reactieve
+            zuurstofmoleculen beter bestreden, doordat extra G6PD wordt
+            aangemaakt als er te weinig G6PD-activiteit is.
+1p   28     Verklaar dat aanmaak van extra G6PD niet kan plaatsvinden in rode
+            bloedcellen.
+
+            Symptomen die Fabio kan krijgen na het eten van tuinbonen, zijn een gele
+            huid en geelverkleuring van zijn oogwit.
+2p   29     Leg uit hoe hemolyse leidt tot deze geelverkleuring.
+
+            Nadat Fabio een keer tuinbonen had gegeten, veranderden zijn
+            ademhaling en hartslag.
+2p   30     Zal zijn ademhalingsfrequentie zijn verhoogd of verlaagd? En zijn
+            hartslagfrequentie?
+                   ademhalingsfrequentie     hartslagfrequentie
+            A      verhoogd                  verhoogd
+            B      verhoogd                  verlaagd
+            C      verlaagd                  verhoogd
+            D      verlaagd                  verlaagd
+
+
+
+
+VW-1018-a-24-1-o                             15 / 19                            lees verder ►►►
+            Er zijn verschillende mutaties van het G6PD-gen bekend. Het zijn met
+            name puntmutaties en kleine deleties, die leiden tot een minder goed
+            werkzaam G6PD-enzym.
+
+            Over mutaties worden de volgende uitspraken gedaan:
+            1 Een deletie van één basenpaar in een exon leidt tot verandering van
+                het leesraam.
+            2 Elke puntmutatie in een exon heeft effect op de werkzaamheid van het
+                eiwit waarvoor wordt gecodeerd.
+            3 Een puntmutatie in een exon kan de afwezigheid van het eiwit
+                waarvoor wordt gecodeerd tot gevolg hebben.
+2p   31     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak juist of onjuist is.
+
+            Fabio is niet de enige in zijn familie met bonenziekte. In afbeelding 2 is
+            een stamboom weergegeven van zijn familie. Het gen voor G6PD ligt op
+            het X-chromosoom. Fabio’s oma Francesca is drager van het gemuteerde
+            G6PD-allel. De kinderen van Francesca zijn in de stamboom met een
+            letter aangegeven.
+
+            afbeelding 2
+
+
+
+
+            Francesca heeft de ziekte niet, maar is wel drager. Dat betekent dat ze
+            heterozygoot is. Ook uit het fenotype van een van de kinderen van
+            Francesca blijkt dat Francesca niet homozygoot kan zijn voor het
+            gemuteerde G6PD-allel.
+2p   32     Noteer de letter van deze persoon. Licht je antwoord toe.
+
+            Bij vrouwen die drager zijn van het gemuteerde G6PD-allel kan soms toch
+            een tekort aan werkzaam G6PD ontstaan, doordat in de voorlopercellen
+            van rode bloedcellen een van de X-chromosomen geïnactiveerd wordt.
+1p   33     Licht toe dat de inactivatie van het X-chromosoom een vorm van
+            epigenetica is.
+
+
+
+
+VW-1018-a-24-1-o                           16 / 19                           lees verder ►►►
+            Fabio’s nicht Stella is in verwachting van een jongen.
+2p   34     Hoe groot is de kans dat de baby het gemuteerde G6PD-allel erft?
+            A      0
+                   1
+            B
+                   16
+                    1
+            C
+                   8
+                   1
+            D
+                   4
+                   1
+            E
+                   2
+
+
+            Bonenziekte komt relatief veel voor in bepaalde gebieden in Afrika. In een
+            populatie in Nigeria heeft het gemuteerde G6PD-allel een frequentie van
+            20%.
+2p   35     Hoeveel procent van de vrouwen en hoeveel procent van de mannen in
+            deze populatie heeft bonenziekte? Ga ervan uit dat de wet van Hardy-
+            Weinberg van toepassing is en laat epigenetische processen buiten
+            beschouwing.
+            Noteer je antwoord als volgt:
+            vrouwen: …%
+            mannen: …%
+
+            Met name op plaatsen waar malaria heerst, blijkt het G6PD-allel een hoge
+            frequentie te hebben. Dat komt waarschijnlijk doordat rode bloedcellen die
+            een kleinere hoeveelheid werkzaam G6PD hebben, minder gevoelig zijn
+            voor infectie door de malariaparasiet.
+1p   36     Hoe kan de hogere frequentie van het gemuteerde G6PD-allel in
+            malariagebieden het best worden verklaard?
+            A door gene-flow
+            B door het flessenhalseffect (bottleneckeffect)
+            C door het stichtereffect (foundereffect)
+            D door migratie
+            E door natuurlijke selectie
+
+            Op verschillende websites wordt de bonenziekte ook wel bonenallergie
+            genoemd.
+1p   37     Beargumenteer dat bonenziekte geen allergische reactie is.
+
+
+
+
+VW-1018-a-24-1-o                           17 / 19                           lees verder ►►►
+      PFAS in groentetuintjes
+
+            In Nederland ontstond grote ophef toen PFAS (poly- en
+            perfluoralkylstoffen) werden aangetroffen in afvalwater, oppervlaktewater
+            en zelfs drinkwater. PFAS leveren namelijk risico’s op voor de
+            volksgezondheid en het milieu. Wetenschappers van het RIVM
+            (Rijksinstituut voor Volksgezondheid en Milieu) onderzochten of PFAS via
+            besmette groentetuintjes terecht kunnen komen in voedsel voor mensen.
+
+            PFAS zijn synthetische stoffen die      afbeelding 1
+            onder andere worden gebruikt voor de
+            productie van waterafstotende kleding
+            en verpakkingsfolies. Een van deze
+            stoffen is PFOA (perfluoroctaanzuur,
+            afbeelding 1).
+            Onderzoek bij proefdieren heeft aangetoond dat PFOA onder andere
+            lever- en niertumoren kan veroorzaken. Ook tast de stof het
+            immuunsysteem aan. Het gebruik van PFOA is daarom nu verboden.
+
+            PFOA wordt nauwelijks afgebroken of uitgescheiden door het lichaam van
+            de mens. Voor PFOA is de grenswaarde een dagelijkse inname van
+            0,63 ng/kg lichaamsgewicht per dag. Deze waarde is afgeleid van de
+            waarde van 750 ng/kg lichaamsgewicht per dag die uit onderzoek bij
+            ratten kwam.
+2p   38     Waarom is deze waarde voor mensen lager dan voor ratten?
+            A Mensen behoren tot een ander trofisch niveau dan ratten.
+            B Mensen hebben relatief meer vetweefsel dan ratten.
+            C Mensen leven langer dan ratten.
+            D Mensen zijn groter dan ratten.
+
+            PFOA wordt nauwelijks uitgescheiden doordat veel PFOA-moleculen
+            binden aan plasma-eiwitten in het bloed. De PFOA-moleculen die niet
+            gebonden zijn, kunnen wel worden uitgescheiden.
+1p   39     Verklaar waardoor de binding van PFOA aan plasma-eiwitten de
+            uitscheiding van PFOA belemmert.
+
+            Hoewel PFOA geen mutagene effecten heeft, wordt in proefdieren toch
+            een verhoogd aantal tumoren gevonden.
+
+            Tumoren kunnen – onder invloed van mutagene factoren – ontstaan door
+            mutaties in bepaalde genen die een regulerende functie hebben bij
+            celdeling.
+1p   40     Noteer de naam van een bepaald type genen dat door mutatie een
+            verhoogde kans op tumoren geeft.
+
+
+
+
+VW-1018-a-24-1-o                           18 / 19                          lees verder ►►►
+            De toename van het aantal tumoren bij de proefdieren zou een gevolg
+            kunnen zijn van een verminderde hoeveelheid T-lymfocyten.
+2p   41     Wordt een kankercel herkend aan MHC- I of aan MHC-II? En worden
+            kankercellen gedood door fagocytose of door lysis?
+                    herkenning aan              doding door
+            A       MHC-I                       fagocytose
+            B       MHC-I                       lysis
+            C       MHC-II                      fagocytose
+            D       MHC-II                      lysis
+
+            Door de besmetting van grond- en oppervlaktewater met PFAS zouden
+            deze stoffen terecht kunnen komen in voedselgewassen die in de directe
+            omgeving geteeld worden. Om te onderzoeken of dit werkelijk gebeurt,
+            werden groenten uit volkstuintjes in de omgeving van een groot
+            chemiebedrijf in Dordrecht getest op aanwezigheid van PFOA.
+            Behalve groenten uit volkstuintjes in de omgeving van het chemisch bedrijf
+            in Dordrecht werden ook groenten uit volkstuintjes in Bilthoven, dat 60 km
+            verderop ligt, getest op de aanwezigheid van PFOA. De resultaten staan in
+            afbeelding 2.
+
+            afbeelding 2
+
+
+
+
+1p   42     Licht toe waarom er ook groenten uit Bilthoven getest werden.
+
+ Bronvermelding
+ Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+ behorende correctievoorschrift.
+
+ VW-1018-a-24-1-o                                         19 / 19                                          lees verdereinde
+                                                                                                                        ►►► 
+

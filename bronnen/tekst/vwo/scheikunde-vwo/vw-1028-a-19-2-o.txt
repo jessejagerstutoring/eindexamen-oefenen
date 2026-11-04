@@ -1,0 +1,554 @@
+                                                                        Examen VWO
+
+                                                                             2019
+                                              2                                    tijdvak 2
+                                                                            dinsdag 18 juni
+                                                                          13.30 - 16.30 uur
+
+
+                                                                            scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Maak zo nodig gebruik van Binas of ScienceData.
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 27 vragen.
+Voor dit examen zijn maximaal 67 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-19-2-o
+      Lang houdbare appels
+
+            Een rijpe appel produceert etheen. Op de uitwerkbijlage bij vraag 5 staat
+            de biosynthese van etheen in appels schematisch weergegeven in een
+            reactieschema. In reactie I van het reactieschema wordt onder invloed
+            van het enzym SAM-synthetase het deeltje SAM gevormd uit onder
+            andere ATP en het aminozuur methionine.
+                                                         NH2
+                   O NH2             CH3           N
+                                                             N
+            HO C C         CH2 CH2   S+
+                                            O      N     N
+                     H               CH2
+
+                   SAM                     HO OH
+            Het methionine heeft maar één stereo-isomeer. Bij de vorming van SAM
+            verandert de ruimtelijke bouw rondom het C*-atoom van methionine niet.
+            Toch kunnen in reactie I twee stereo-isomeren van SAM worden gevormd.
+            Dit wordt veroorzaakt doordat de groepen rondom het S-atoom in SAM,
+            net als bij een koolstofatoom, op twee verschillende manieren kunnen zijn
+            gerangschikt.
+
+2p    1     Leg uit dat van SAM twee stereo-isomeren bestaan.
+             Geef in je antwoord de Lewisstructuur van SAM.
+             Gebruik hierbij de aanduiding R1 enzovoort als notatie voor de
+               atoomgroepen rondom het S-atoom.
+
+            Uit onderzoek blijkt dat slechts een van beide stereo-isomeren van SAM
+            wordt gevormd door SAM-synthetase.
+
+1p    2     Leg uit waarom slechts een van beide stereo-isomeren van SAM wordt
+            gevormd door SAM-synthetase.
+
+            In reactie II van het reactieschema wordt SAM onder invloed van het
+            enzym ACC-synthase omgezet. De biosynthese van dit enzym verloopt in
+            twee stappen. Op basis van de DNA-code wordt eerst een
+            aminozuurketen gevormd van 473 aminozuren. Vervolgens wordt de
+            aminozuurketen op twee plaatsen gehydrolyseerd, waardoor de ACC-
+            synthase nog 421 aminozuren bevat. Een van de beide plaatsen waar
+            hydrolyse optreedt, is tussen de aminozuren Gly–430 en Glu–431.
+
+3p    3     Geef de hydrolyse van het gedeelte ~Gly – Glu~ in een reactievergelijking
+            weer. Gebruik structuurformules.
+
+            Het in reactie II gevormde ACC (C4H7NO2) wordt in reactie III onder
+            invloed van het enzym ACC-oxidase omgezet tot onder andere etheen. Uit
+            één molecuul ACC wordt hierbij één molecuul etheen gevormd.
+
+2p    4     Geef de vergelijking van reactie III in molecuulformules. Gebruik
+            informatie uit het reactieschema.
+
+
+
+VW-1028-a-19-2-o                                2 / 12                          lees verder ►►►
+            Uit het reactieschema is af te leiden dat de atomen in etheen, via SAM en
+            ACC, uiteindelijk van methionine afkomstig zijn.
+
+2p    5     Omcirkel op de uitwerkbijlage in de structuurformules van methionine,
+            SAM en ACC de atomen die uiteindelijk in etheen terechtkomen.
+
+            Het etheen komt vrij uit de appel en bevordert de rijping van andere
+            appels. Om appels lang houdbaar te maken, moet de vorming van etheen
+            worden geremd. De biosynthese van etheen kan worden geremd met het
+            gas 1-methylcyclopropeen (MCP).
+            Het effect van MCP op de activiteit van de enzymen ACC-synthase en
+            ACC-oxidase is onderzocht. Hiertoe werden appels direct na de pluk in
+            drie groepen verdeeld en 20 uur lang onder verschillende
+            omstandigheden bewaard:
+             groep 1: in gewone lucht
+             groep 2: in lucht met MCP
+             groep 3: in lucht met MCP en etheen
+            Hierbij was [MCP]groep2 = [MCP]groep3 = [etheen]groep3 .
+            Direct na de pluk en na afloop van de bewaarperiode werd de activiteit
+            van de beide enzymen gemeten. Ook werd het gehalte ACC in de appels
+            bepaald. In de tabel zijn de resultaten van deze metingen weergegeven.
+
+            tabel
+
+                                         activiteit         activiteit        gehalte
+                                       ACC-synthase       ACC-oxidase          ACC
+
+                                        (nmol ACC          (nL etheen      (nmol ACC
+                                       per mg enzym       per mg enzym     per g appel)
+            groep                         per uur)           per uur)
+                    direct na pluk          1,0                 40              2,1
+            1       gewone lucht            2,6                128              3,8
+            2       lucht met MCP           1,2                 56              4,3
+            3       lucht met MCP           1,8                 72              4,1
+                    en etheen
+
+            Uit deze resultaten is af te leiden dat de activiteit van beide enzymen door
+            MCP wordt geremd.
+
+2p    6     Leg uit aan de hand van gegevens uit de tabel van welk enzym de
+            activiteit meer wordt geremd door MCP: van ACC-synthase of
+            van ACC-oxidase.
+
+
+
+
+VW-1028-a-19-2-o                            3 / 12                             lees verder ►►►
+      Zonnepanelen voor ethanol
+
+            Er is tegenwoordig veel vraag naar duurzame energiebronnen zoals
+            bio-ethanol. Bio-ethanol wordt veel geproduceerd uit zetmeel van
+            bijvoorbeeld aardappelen of mais.
+            De omzettingen die optreden bij de vorming van zetmeel in planten en de
+            productie van bio-ethanol uit het zetmeel zijn in figuur 1 vereenvoudigd
+            weergegeven.
+
+            figuur 1
+
+                           plant                                          fabriek
+                                                 oogst
+              CO2       C6H12O6        zetmeel           zetmeel        C6H12O6         C2H6O
+
+
+            De gemiddelde opbrengst per hectare bedraagt in Nederland
+            4,5·104 kg aardappelen per jaar. Aardappelen bevatten gemiddeld
+            19 massa% zetmeel. Het zetmeel wordt in bioreactoren gehydrolyseerd
+            tot glucose. De glucose wordt door vergisting omgezet tot koolstofdioxide
+            en ethanol. Hierbij ontstaat twee mol ethanol per mol glucose.
+
+4p    7     Bereken het volume in L ethanol dat maximaal per jaar kan worden
+            geproduceerd per hectare aardappelen (T = 293 K).
+             Neem aan dat zetmeel geheel uit amylose bestaat.
+
+            Om te kunnen berekenen wat de minimale hoeveelheid energie is die
+            nodig is om ethanol te produceren uit CO2, wordt zetmeel weggelaten uit
+            bovenstaande omzettingen. De resterende processen kunnen dan worden
+            weergegeven met de volgende reactievergelijkingen:
+
+            6 CO2 + 6 H2O  C6H12O6 + 6 O2                 fotosynthese
+            C6H12O6  2 C2H6O + 2 CO2                      vergisting
+
+2p    8     Geef de totaalvergelijking voor deze vorming van ethanol uit CO2 en H2O.
+2p    9     Bereken de reactiewarmte in joule per mol ethanol van deze vorming van
+            ethanol (T = 298 K, p = p0). Neem aan dat water en ethanol in vloeibare
+            vorm voorkomen.
+
+            In het wetenschappelijk tijdschrift Nature is een artikel gepubliceerd over
+            het gebruik van elektrische energie om ethanol te produceren uit CO2.
+            Dit zou een alternatief kunnen zijn voor de genoemde productie van
+            bio-ethanol.
+
+
+
+
+VW-1028-a-19-2-o                             4 / 12                                 lees verder ►►►
+            Het elektrochemische proces bestaat uit twee stappen. In de eerste stap
+            wordt CO2 omgezet tot CO. In de tweede stap wordt CO door elektrolyse
+            omgezet tot ethanol.
+            De elektrolyse-opstelling die wordt gebruikt, is in figuur 2 vereenvoudigd
+            weergegeven. In beide halfcellen zijn OH–-ionen en water aanwezig.
+            Alleen OH–-ionen en watermoleculen kunnen door het membraan tussen
+            beide halfcellen bewegen.
+
+            figuur 2
+                        zonnepanelen
+
+            O2           _             _
+                                           CO
+                       OH        OH
+                                      -
+                       H2O       HOH
+                                  2
+                                    O
+                                           o.a. ethanol
+                   membraan      H2O
+
+
+            In de rechter halfcel worden acht elektronen opgenomen per molecuul
+            ethanol dat wordt gevormd.
+
+3p   10     Geef de vergelijking van de halfreactie van de vorming van ethanol in de
+            rechter halfcel.
+2p   11     Geef de vergelijking van de halfreactie die plaatsvindt in de linker halfcel
+            en geef de totaalvergelijking.
+
+            Aan de negatieve elektrode worden behalve ethanol enkele bijproducten
+            gevormd. Hierdoor is het rendement van de productie van ethanol nog
+            laag. De twee belangrijkste bijproducten zijn ethanoaat en waterstof.
+            De vergelijkingen van de halfreacties waarbij ethanoaat en waterstof
+            worden gevormd, zijn hieronder weergegeven.
+            2 CO + 3 H2O + 4 e–  CH3COO– + 3 OH–
+            2 H2O + 2 e–  H2 + 2 OH–
+            De onderzoekers vonden dat onder optimale omstandigheden 43% van de
+            toegevoerde elektronen werd gebruikt voor de productie van ethanol en
+            13% voor de productie van ethanoaat. De rest werd gebruikt voor de
+            productie van waterstof. Zowel ethanol als waterstof werd vervolgens
+            gebruikt als brandstof.
+
+3p   12     Bereken de molverhouding waarin ethanoaat, ethanol en waterstof
+            worden geproduceerd. Noteer je antwoord als volgt:
+            ethanoaat : ethanol : waterstof = 1,0 : … : …
+2p   13     Laat met een berekening zien bij welke verbranding de meeste energie
+            vrijkomt: bij de verbranding van de waterstof die bij de elektrolyse is
+            geproduceerd of bij de verbranding van de geproduceerde ethanol.
+             Het water dat wordt gevormd bij de verbrandingen, komt vrij als
+                 vloeistof.
+             Gebruik Binas-tabellen 56 en/of 57 of ScienceData-tabellen 8.7a en/of
+                 9.2a.
+
+
+VW-1028-a-19-2-o                                   5 / 12                       lees verder ►►►
+      Diesel uit houtafval
+
+            Bij de verwerking van hout tot bijvoorbeeld papier komt veel afvalwater
+            vrij. In een onderzoek is gekeken of het mogelijk is om op industriële
+            schaal dieselachtige koolwaterstoffen te produceren op basis van dit
+            afvalwater. Afvalwater van de papierindustrie bevat een hoog gehalte
+            xylose-oligomeren. Een xylose-oligomeer is een sacharide met de formule
+            H–(C5H8O4)n–OH met 3 ≤ n ≤ 20.
+            Xylose (C5H10O5) kan worden voorgesteld als een eenheid ()D-glucose,
+            waarbij de CH2-OH-groep op C-atoom nummer 5 is vervangen door een
+            H-atoom.
+            In een xylose-oligomeer zijn de xylose-eenheden aan elkaar verbonden
+            door middel van de OH-groepen aan de C-atomen met nummers 1 en 4.
+
+3p   14     Geef een gedeelte uit het midden van een xylose-oligomeer in
+            structuurformule weer. Dit gedeelte moet zijn ontstaan uit twee eenheden
+            xylose.
+             Gebruik de notatie die ook in het informatieboek wordt gehanteerd.
+             Gebruik Binas-tabel 67F1 of ScienceData-tabel 13.1d.
+
+            De onderzoekers hebben op basis van het onderzoek een
+            productieproces ontworpen. Op de uitwerkbijlage bij vraag 19 is het
+            vereenvoudigde blokschema voor dit proces onvolledig weergegeven.
+            Het proces start met de volledige hydrolyse van de xylose-oligomeren tot
+            xylose. Hiertoe worden in reactor 1 (R1) zoutzuur en een oplossing van
+            xylose-oligomeren geleid. Beide oplossingen worden zo gedoseerd, dat
+            aan het begin van de reacties het gehalte xylose-oligomeren 2,1 massa%
+            is. Er is dan 3,1 mol HCl aanwezig per mol xylose-eenheden.
+
+4p   15     Bereken de pH van het reactiemengsel (T = 298 K).
+             De dichtheid van de gebruikte xylose-oplossing is 1,08·103 g L–1.
+             De molaire massa van een xylose-eenheid is 132 g mol–1.
+             Neem hier aan dat nog geen xylose is ontstaan.
+
+            Aan het mengsel wordt tevens THF toegevoegd.                   O
+                                                                    H2C         CH2
+            De structuurformule van THF is hiernaast weergegeven.
+            Omdat de oplosbaarheid van THF in water laag is,         H2C       CH2
+            ontstaan in R1 twee vloeistoflagen.                           THF
+
+
+3p   16     Voer de volgende opdrachten uit:
+             Leg uit op microniveau waardoor THF oplosbaar is in water.
+             Leg uit dat deze oplosbaarheid laag is.
+
+
+
+
+VW-1028-a-19-2-o                           6 / 12                               lees verder ►►►
+            In R1 verloopt ook de omzetting van xylose tot furfural               H
+            en bijproducten. De structuurformule van furfural is         O      C
+                                                                    HC       C     O
+            hiernaast weergegeven.
+                                                                     HC CH
+            In R1 ontstaat 1 mol furfural uit 1 mol xylose. Het
+            gevormde furfural lost op in de THF-laag, waardoor         furfural
+            volgreacties van furfural met water worden beperkt.
+            Na afloop van de reacties wordt natriumchloride toegevoegd aan het
+            reactiemengsel. Hierdoor wordt THF volledig onoplosbaar in water en kan
+            in scheidingsruimte 1 (S1) de THF-laag volledig worden gescheiden van
+            de waterlaag. De waterlaag met daarin zoutzuur, natriumchloride en
+            bijproducten wordt opgeslagen.
+            De THF-laag met daarin alleen furfural wordt doorgevoerd naar
+            reactor 2 (R2). In R2 wordt aan het mengsel dat afkomstig is uit S1 één
+            mol propanon per twee mol furfural toegevoegd en een overmaat
+            natronloog.
+            In R2 worden furfural en propanon volledig omgezet tot stof A. De
+            vergelijking voor deze omzetting is hieronder weergegeven.
+
+                                   O                                          H       O       H
+                                                 O
+                        O          C                                 O        C       C       C        O
+                   HC       C          H         C             HC        C        C       C       C        CH
+            2                              H3C       CH3                                                            2 H2O
+                   HC       CH                                  HC       CH       H       H       HC       CH
+                        furfural             propanon                     stof A
+
+            De vorming van stof A verloopt via een aantal tussenstappen. Twee
+            stappen uit het reactiemechanisme zijn op de uitwerkbijlage
+            weergegeven. In stap 2 wordt stof B gevormd.
+            Hierbij neemt een OH–-ion eerst een H+-ion op van het organische deeltje
+            dat in het kader is weergegeven. Het OH–-ion treedt in stap 2 op als
+            katalysator.
+
+2p   17     Voer de volgende opdrachten uit:
+             Geef op de uitwerkbijlage in het kader alle niet-bindende
+               elektronenparen weer.
+             Geef met pijlen weer hoe elektronenparen worden verplaatst tijdens
+               stap 2.
+
+            In scheidingsruimte 2 (S2) wordt de THF-laag met daarin uitsluitend stof A
+            volledig afgescheiden van de vloeistoflaag met daarin het natronloog.
+            Omdat het natronloog geen organische stoffen bevat, kan het worden
+            hergebruikt in het proces. Om de reactie in R2 telkens onder gelijke
+            omstandigheden te laten verlopen, moet het natronloog in een ruimte Z
+            worden bewerkt voordat het wordt teruggevoerd in R2.
+
+2p   18     Leg uit welke bewerking in ruimte Z wordt uitgevoerd zodat het natronloog
+            uit S2 geschikt is voor hergebruik.
+
+
+
+
+VW-1028-a-19-2-o                                           7 / 12                                               lees verder ►►►
+            Het mengsel van THF en stof A wordt doorgevoerd naar reactor 3 (R3).
+            In R3 reageert stof A volledig met waterstof tot tridecaan (C13H28) en
+            water. Het ontstane tridecaan is onvertakt.
+            Het mengsel afkomstig uit R3 wordt ten slotte in scheidingsruimte 3 (S3)
+            gescheiden in drie stromen: tridecaan, water en THF.
+            Het tridecaan kan worden gebruikt als toevoeging aan diesel of een
+            andere brandstof.
+
+4p   19     Maak het blokschema op de uitwerkbijlage compleet.
+             Noteer ontbrekende pijlen en stoffen bij de pijlen. Houd daarbij
+              rekening met hergebruik van stoffen.
+             Wanneer bij een stofstroom al stofnamen zijn vermeld, hoeft niets te
+              worden aangegeven.
+
+3p   20     Geef de totaalvergelijking voor de vorming van tridecaan uit xylose.
+            Gebruik molecuulformules.
+2p   21     Bereken de atoomeconomie van deze vorming van tridecaan uit xylose.
+
+
+
+
+VW-1028-a-19-2-o                           8 / 12                            lees verder ►►►
+      Stikstofmono-oxide en stikstofdioxide
+
+              Stikstofmono-oxide (NO) en stikstofdioxide (NO2) zijn schadelijke gassen
+              die ontstaan in het verkeer en bij grootschalige verbrandingsprocessen
+              zoals bij de productie van elektriciteit.
+              In de afvalgassen van de gasturbine van een energiecentrale is gemeten
+              hoe de uitstoot van onder andere CO en NO afhangt van de temperatuur
+              in de turbine. In figuur 1 zijn de resultaten van deze metingen
+              weergegeven.
+
+              figuur 1
+
+
+
+
+            gehalte CO (volume-ppm)                                                                    gehalte NO (volume-ppm)
+                                      120                                                         30
+                                                                                   NO
+                                      100                                                         25
+
+
+                                      80                                                          20
+                                                     CO
+                                      60                                                          15
+
+
+                                      40                                                          10
+
+
+                                      20                                                          5
+
+
+                                       0                                                           0
+                                           1500   1600    1700        1800      1900           2000
+                                                                             temperatuur (K)
+
+
+2p   22       Geef een verklaring voor de stijging van de lijn van NO in figuur 1.
+              Gebruik (een) gegeven(s) uit Binas of ScienceData.
+
+              In een molecuul NO komen zeven niet-bindende elektronen voor.
+
+3p   23       Geef twee grensstructuren van stikstofmono-oxide.
+              Geef formele ladingen aan als deze voorkomen.
+
+
+
+
+VW-1028-a-19-2-o                                                 9 / 12                                                   lees verder ►►►
+            Stikstofdioxide wordt in de turbine gevormd door de reactie van
+            stikstofmono-oxide met zuurstof. Een molecuul stikstofdioxide heeft een
+            niet-cyclische structuur. Voor de volgorde van de atomen in het molecuul
+            zijn twee mogelijkheden: NOO en ONO. Met behulp van
+            massaspectrometrie kan worden bepaald welke van de twee
+            mogelijkheden de juiste is.
+            Het massaspectrum van NO2 is in figuur 2 weergegeven.
+
+            figuur 2
+
+            relatieve 100
+            intensiteit
+                        90
+                       80
+                       70
+                       60
+                       50
+                       40
+                       30
+                       20
+                       10
+                        0
+                             10      20              30      40          50
+                                                                         m/z
+
+
+            In dit massaspectrum zijn pieken waarin de isotopen N-15, O-17 en O-18
+            voorkomen niet weergegeven.
+            Uit de vier pieken in het massaspectrum kan geen conclusie worden
+            getrokken over de volgorde van de atomen in NO2.
+
+2p   24     Leg uit waarom de piek in het massaspectrum van NO2 met m/z = 30,
+            geen uitsluitsel geeft over de volgorde van de atomen in het molecuul
+            NO2.
+
+            Doordat bij een bepaalde m/z-waarde in het massaspectrum een piek
+            ontbreekt, kan toch worden bepaald of de volgorde NOO of ONO is.
+
+2p   25     Voer de volgende opdrachten uit:
+             Geef deze m/z-waarde van die piek.
+             Leg uit waarom op grond van die piek wél een uitspraak kan worden
+               gedaan of de volgorde NOO of ONO is.
+
+
+
+
+VW-1028-a-19-2-o                           10 / 12                             lees verder ►►►
+            De vorming van stikstofdioxide uit stikstofmono-oxide en zuurstof is
+            hieronder weergegeven.
+
+            2 NO + O2  2 NO2                                    (reactie 1)
+
+            De snelheid s1 van reactie 1 is gedefinieerd als het aantal mol NO2 dat per
+            seconde per liter reactiemengsel ontstaat.
+            Bij het onderzoek naar de snelheid van reactie 1 werd in twee
+            experimenten een aantal metingen uitgevoerd met verschillende
+            beginconcentraties van NO en O2.
+            De resultaten van het onderzoek zijn weergegeven in de tabel.
+
+            tabel
+
+                                   [NO]0                 [O2]0              s1 op t0
+               exp     meting
+                                  (mol L–1)             (mol L–1)         (mol L–1 s–1)
+                   1    1.1      8,0·10–5               1,6·10–3               7,2·10–8
+                        1.2      1,2·10–4               1,6·10–3               1,6·10–7
+                        1.3      1,6·10–4               1,6·10–3               2,9·10–7
+                        1.4      2,4·10–4               1,6·10–3               6,5·10–7
+                   2    2.1      8,0·10–5               2,4·10–3               1,1·10–7
+                        2.2      8,0·10–5               3,2·10–3               1,4·10–7
+                        2.3      8,0·10–5               4,8·10–3               2,2·10–7
+                        2.4      8,0·10–5               6,4·10–3               2,9·10–7
+
+            Op basis van de vergelijking van reactie 1 verwachtte men dat voor de
+            snelheid van reactie 1 de volgende reactiesnelheidsvergelijking geldt:
+
+            s1 = k1 [NO]2 [O2]                                   (snelheidsvergelijking 1)
+
+            De constante k1 wordt de reactieconstante genoemd.
+
+2p   26     Leg uit dat snelheidsvergelijking 1 in overeenstemming is met de
+            gegevens in de tabel.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+
+
+VW-1028-a-19-2-o                              11 / 12                                     lees verder ►►►
+            Lange tijd heeft men gedacht dat de reactie tussen NO en O2 verloopt
+            doordat twee moleculen NO en één molecuul O2 op hetzelfde moment
+            tegen elkaar botsen. De kans op zo’n botsing tussen drie moleculen is
+            echter uiterst klein. Nader onderzoek leverde op dat tijdens de reactie
+            deeltjes met de formule N2O2 worden gevormd. Op grond van dit gegeven
+            werd voor de reactie een mechanisme voorgesteld dat uit twee stappen
+            bestaat.
+            In de eerste stap stelt zich evenwicht 1 in.
+
+            2 NO  N2O2                                 (evenwicht 1)
+
+                                                              [N 2 O 2 ]
+            De evenwichtsvoorwaarde voor evenwicht 1 is K                 .
+                                                               [NO]2
+
+            In de tweede stap verloopt reactie 2.
+
+            N2O2 + O2  2 NO2                           (reactie 2)
+
+            De snelheid van reactie 2 kan worden weergegeven door:
+
+            s2 = k2 [N2O2] [O2]                         (snelheidsvergelijking 2)
+
+            Mede met behulp van de evenwichtsvoorwaarde van evenwicht 1 en
+            snelheidsvergelijking 2 kan de experimenteel gevonden
+            snelheidsvergelijking 1 worden afgeleid.
+            Hierbij moet worden aangenomen dat de snelheid van reactie 2 sterk
+            verschilt van de snelheid waarmee evenwicht 1 zich instelt.
+            Op deze manier heeft men aangetoond dat het bovenbeschreven
+            mechanisme voor reactie 1 juist kan zijn.
+
+3p   27     Leg uit dat het reactiemechanisme via het gevormde deeltje N2O2 in
+            overeenstemming is met de experimenteel gevonden
+            snelheidsvergelijking 1.
+            Gebruik in je uitleg de evenwichtsvoorwaarde van evenwicht 1 en
+            snelheidsvergelijking 2.
+
+
+
+
+VW-1028-a-19-2-o                           12 / 12                             lees verdereinde
+                                                                                            ►►► 
+

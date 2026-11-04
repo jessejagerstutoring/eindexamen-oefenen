@@ -1,0 +1,751 @@
+                                                                   Examen VWO
+
+                                                                       2022
+                                                                              tijdvak 1
+                                                                        vrijdag 13 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                                           biologie
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 39 vragen.
+Voor dit examen zijn maximaal 67 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een open vraag een verklaring, uitleg of berekening vereist is, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1018-a-22-1-o
+            Tenzij anders vermeld, is er sprake van normale situaties en gezonde
+            organismen.
+
+      Gevaarlijk afslankmiddel
+
+            In tegenstelling tot wat veel mensen denken, zijn natuurgeneesmiddelen
+            niet altijd veilig. Zo kunnen sommige Chinese kruidenpreparaten met
+            Aristolochia ernstige nierschade veroorzaken.
+
+            Ruim honderd Belgische vrouwen die in de jaren 90 een bepaald
+            afslankmiddel op basis van kruiden hadden gebruikt, ontwikkelden ernstig
+            nierfalen. De oorzaak was aristolochiazuur, afkomstig van de Aristolochia-
+            plant die in het middel verwerkt was. Bij sommige vrouwen was de
+            nierschade zo groot dat een niertransplantatie nodig was. Bij anderen
+            werden jaren later tumoren in de urinewegen aangetroffen.
+
+            De toepassing van Aristolochia in afslankmiddelen berust op de
+            diuretische (vochtafdrijvende) werking van aristolochiazuur.
+2p    1     Beredeneer in hoeverre je van een diuretisch afslankmiddel echt zal
+            afslanken.
+
+            Het werkingsmechanisme van aristolochiazuur is nog niet helemaal
+            bekend. Aanvankelijk werd aangenomen dat het vochtafdrijvend werkt
+            door de afgifte van een bepaald hypofysehormoon te beïnvloeden.
+2p    2     Welk hormoon kan dit zijn? En zou de afgifte van dit hormoon dan worden
+            gestimuleerd of geremd door aristolochiazuur?
+
+                   hormoon                           de afgifte wordt
+
+            A      TSH (SSH)                         gestimuleerd
+            B      TSH (SSH)                         geremd
+            C      renine                            gestimuleerd
+            D      renine                            geremd
+            E      ADH                               gestimuleerd
+            F      ADH                               geremd
+
+            Inmiddels neemt men aan dat aristolochiazuur diuretisch werkt doordat
+            deze stof de permeabiliteit van de verzamelbuisjes voor ureum verlaagt.
+2p    3     Beredeneer hoe een verlaagde permeabiliteit voor ureum leidt tot meer
+            waterverlies via de urine.
+
+            De nierschade bij de Belgische vrouwen werd meestal toevallig ontdekt na
+            een routine-bloedonderzoek. Het bloedonderzoek toonde bij deze
+            vrouwen vaak ernstige bloedarmoede aan. Bij nader onderzoek bleken de
+            nieren gekrompen en vervormd te zijn.
+1p    4     Verklaar het optreden van het tekort aan rode bloedcellen.
+
+
+
+VW-1018-a-22-1-o                            2 / 20                           lees verder ►►►
+            Van aristolochiazuur is bekend dat het mutaties kan veroorzaken. Daarom
+            was het aannemelijk dat de tumoren in de nieren van de Belgische
+            vrouwen te wijten waren aan het gebruik van het afslankmiddel met
+            Aristolochia.
+            Aristolochiazuur wordt door cellen van de nier, maar ook door levercellen,
+            omgezet in de stof aristolactam, dat bindt aan bepaalde basen van het
+            DNA. Zo’n stof die gebonden is aan het DNA wordt een DNA-adduct
+            genoemd. Op de plaats van zo’n adduct kan bij replicatie een verkeerde
+            base worden ingebouwd in de nieuwe DNA-streng.
+
+            In de uitwerkbijlage is een DNA-nucleotide afgebeeld met daaraan
+            gebonden een DNA-adduct dat ontstaat door gebruik van Aristolochia.
+2p    5      Omcirkel het adduct in de afbeelding in de uitwerkbijlage.
+             Noteer onder de afbeelding de naam van de stikstofbase waaraan dit
+                adduct gebonden is.
+
+            Wanneer DNA-adducten aan basen van proto-oncogenen of
+            tumorsuppressor-genen binden, kan kanker ontstaan. Een van de genen
+            die werd onderzocht bij de Belgische vrouwen is het TP53-gen, dat
+            codeert voor tumorsuppressor p53. Dit eiwit is betrokken bij de controle
+            van het DNA tijdens de celcyclus. Indien er grote schade aan het DNA
+            ontstaat, zet p53 aan tot apoptose.
+
+2p    6     Leg uit dat het risico op kanker sterk toeneemt in een cellijn waarin het
+            TP53-gen defect is.
+
+
+
+
+VW-1018-a-22-1-o                             3 / 20                            lees verder ►►►
+            Het TP53-gen omvat 11 exons en 10 introns. Afbeelding 1 geeft de
+            locaties weer van alle mutaties die gevonden zijn in het TP53-gen in
+            niertumoren van 42 patiënten die kruidenpreparaten met Aristolochia
+            gebruikt hebben. Er werden 47 mutaties gevonden in de exons, vooral in
+            basenkoppel A-T, maar ook in het koppel G-C. Deze mutaties zijn
+            weergegeven met gesloten pijlen. De plaats van de introns is in de
+            afbeelding alleen met een nummer aangegeven, met daarbij als
+            driehoekjes de 12 mutaties die werden gevonden in de splice-plaatsen
+            van introns. Splice-plaatsen markeren het begin en eind van een intron.
+            Mutaties binnen de introns zelf zijn niet onderzocht.
+
+            afbeelding 1
+
+
+
+
+2p    7           Verklaar waarom mutaties binnen de introns zelf niet zijn onderzocht.
+                  Verklaar waarom mutaties op de splice-plaatsen van de introns wel
+                   zijn onderzocht.
+
+            Over de resultaten in afbeelding 1 worden drie beweringen gedaan:
+            1 De mutaties in de exons zijn allemaal puntmutaties.
+            2 De mutaties in de exons zijn allemaal het gevolg van aristolochiazuur.
+            3 De introns zijn korter dan de exons.
+2p    8     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende bewering wel of niet kan worden afgeleid uit afbeelding 1.
+
+            Vrouwen die kruidenpreparaten met Aristolochia hebben gebruikt, weten
+            niet precies hoeveel aristolochiazuur ze hebben binnengekregen.
+            Om te bepalen in hoeverre zij risico lopen op het ontwikkelen van kanker
+            aan de urinewegen, kunnen twee methoden worden toegepast:
+            1 in het DNA van cellen van de urinewegen het aantal aristolactam-
+                adducten bepalen
+            2 in het DNA van cellen van de urinewegen het aantal ‘A-T naar T-A’-
+                mutaties bepalen
+            Ga ervan uit dat beide methoden even betrouwbaar zijn; ze zijn echter
+            niet even valide.
+1p    9     Licht toe dat methode 1 minder geschikt is om het risico te bepalen dan
+            methode 2.
+
+
+
+
+VW-1018-a-22-1-o                               4 / 20                           lees verder ►►►
+      Zeegrasherstel in de Waddenzee
+
+            Zeegrasvelden zijn ecosystemen die bijdragen aan een grote biodiversiteit
+            in kustgebieden. Van de 15.000 hectare zeegras die oorspronkelijk in de
+            Nederlandse Waddenzee aanwezig was, is nu nog maar zo’n vijf hectare
+            over. De Waddenvereniging, Rijkswaterstaat en Natuurmonumenten
+            proberen nu de zeegrasvelden weer te herstellen.
+
+            Groot zeegras (Zostera marina) is een zaadplant die permanent in brak en
+            zout water kan leven. Groot zeegras kent twee varianten: een flexibele
+            eenjarige variant en een robuuste variant die meestal meerjarig is. Deze
+            varianten komen elk in een eigen zone voor. Door de getijdenverschillen
+            komt de flexibele variant regelmatig droog te liggen (afbeelding 1); de
+            robuuste variant is permanent ondergedoken (afbeelding 2).
+
+            afbeelding 1                            afbeelding 2
+
+
+
+
+            In afbeelding 3 zijn verschillende delen van zeegras aangegeven.
+
+            afbeelding 3
+
+
+
+
+            De stevigheid van de varianten groot zeegras verschilt. De bladschedes
+            van de flexibele variant zijn slapper dan die van de robuuste.
+2p   10     Licht toe dat de slappe bladschedes van de flexibele variant een
+            aanpassing zijn aan de plaats waar deze variant voorkomt.
+
+
+
+
+VW-1018-a-22-1-o                           5 / 20                              lees verder ►►►
+            Als gevolg van een wereldwijd optredende ziekte, stierf de robuuste
+            variant van groot zeegras rond 1930 in de Nederlandse Waddenzee uit.
+            Herintroductie van de robuuste variant van groot zeegras is alleen
+            mogelijk als zowel de visserij met sleepnetten als de eutrofiëring van het
+            water wordt beperkt.
+
+3p   11     Beredeneer hoe eutrofiëring van het water een succesvolle herintroductie
+            van de robuuste variant van het groot zeegras kan belemmeren.
+
+            Flexibel zeegras plant zich voornamelijk voort door middel van zaden,
+            terwijl de robuuste variant zich vooral uitbreidt via wortelstokken.
+2p   12     Leg uit dat de voortplantingswijze van de robuuste variant van invloed kan
+            zijn geweest op het uitsterven van de populatie in de Nederlandse
+            Waddenzee.
+
+            Zowel de bladeren als de wortels van zeegras hebben luchtruimtes.
+            Overdag wordt de geproduceerde zuurstof naar de wortels en
+            wortelstokken getransporteerd en wordt een deel van deze zuurstof aan
+            het sediment afgegeven (afbeelding 4). ’s Nachts raakt de zuurstof in het
+            sediment snel op.
+
+            afbeelding 4
+
+
+
+
+            In de cellen van de wortel leidt het zuurstoftekort ’s nachts tot de
+            productie van ethanol.
+            Enkele deelprocessen van de dissimilatie zijn:
+            1 oxidatieve fosforylering
+            2 omzetting van NADH in NAD+
+            3 omzetting van NAD+ in NADH
+            4 vorming van ATP
+2p   13     Welke van deze processen vinden in de zuurstofloze situatie in de
+            wortelcellen plaats? Schrijf de nummers 1 tot en met 4 onder elkaar en
+            noteer erachter of het betreffende proces dan wel of niet plaatsvindt.
+
+
+
+
+VW-1018-a-22-1-o                            6 / 20                            lees verder ►►►
+            Een aantal jaren achtereen zaaiden vrijwilligers op vier percelen in de
+            Nederlandse Waddenzee zaden van groot zeegras, geoogst uit het Duitse
+            deel van de Waddenzee waar nog grote velden met groot zeegras zijn.
+            De getallen in afbeelding 5
+            geven aan hoeveel plantjes er    afbeelding 5
+            zijn opgekomen.
+            De zaden ontkiemen wel, maar
+            er vestigen zich onvoldoende
+            planten om een zeegras-
+            populatie te verkrijgen die
+            zichzelf in stand kan houden.
+            Onderzoekers noemen als
+            mogelijke oorzaken van het
+            slechte resultaat: zeewier,
+            golfslag en de aanwezigheid
+            van wadpieren.
+
+            Om informatie te krijgen over de invloed van de drie factoren in de
+            Waddenzee (zeewier, golfslag en wadpieren), is een proefopstelling
+            aangelegd op vier locaties met zeegras. Op elke locatie werden acht
+            proefvlakken uitgezet: zeven proefvlakken kregen elk een andere
+            combinatie van behandelingen; één proefvlak diende als controle
+            (tabel 1).
+
+            tabel 1
+
+
+
+
+            De verschillende behandelingen werden als volgt gerealiseerd:
+             Zeewier werd tegengehouden door een kooi van fijn gaas te plaatsen.
+             Golfslag werd tegengehouden door zandzakken te leggen.
+             Wadpieren werden tegengehouden door gaas op de zeebodem aan te
+               brengen.
+3p   14      Licht toe waarom de onderzoekers in hun proefopstelling deze zeven
+               combinaties van behandelingen hebben opgenomen.
+             Noteer het nummer van de controle.
+
+
+
+
+VW-1018-a-22-1-o                           7 / 20                           lees verder ►►►
+      Tijgermuggen
+
+            Al jarenlang lift de tijgermug mee op bamboeplanten en autobanden die
+            vanuit Azië geïmporteerd worden. Kan deze overbrenger van virusziekten
+            zoals chikungunya, ook in Nederland problemen geven?
+
+            De Aziatische tijgermug (Aedes albopictus) komt oorspronkelijk uit Oost-
+            Azië, maar heeft zich inmiddels gevestigd in delen van Noord- en Zuid-
+            Amerika, Afrika en Zuid-Europa. In gematigde streken overleven
+            volwassen tijgermuggen de winter niet. Toch kan de soort daar overleven
+            omdat tijgermugvrouwtjes voor de winter diapauze-eitjes kunnen leggen.
+            Diapauze-eitjes komen niet snel uit en kunnen kou en droogte overleven.
+
+            De eitjes worden afgezet vlak boven een klein waterreservoir dat dode
+            plantenresten bevat. In het voorjaar komen de larven uit de eitjes en leven
+            van de plantenresten in het water. Afbeelding 1 toont de oorspronkelijke
+            larvenbroedplaats: holle bamboestengels in Azië. Afbeelding 2 toont een
+            nieuwe larvenbroedplaats: plastic containers in Frankrijk.
+
+            afbeelding 1                             afbeelding 2
+
+
+
+
+            Volwassen mannetjes en vrouwtjes leven van nectar uit bloemen. In mei
+            beginnen de vrouwtjes met het steken van zoogdieren en vogels om extra
+            voedingstoffen te krijgen voor het leggen van gewone eitjes. Onder
+            gunstige omstandigheden ontstaat er zo elke drie weken een nieuwe
+            generatie tijgermuggen.
+
+            Tijdens haar levenscyclus behoort een tijgermugvrouwtje tot verschillende
+            trofische niveaus. Enkele trofische niveaus zijn:
+            1 consument van de 1e orde
+            2 consument van de 2e orde
+            3 consument van de 3e orde
+            4 producent
+            5 reducent
+2p   15     Tot welk of welke van deze trofische niveaus kan de tijgermug behoren
+            als larve? En als volwassen vrouwtje?
+            Schrijf larve en volwassen vrouwtje onder elkaar en noteer het juiste
+            nummer of de juiste nummers erachter.
+
+VW-1018-a-22-1-o                            8 / 20                            lees verder ►►►
+            Twee abiotische factoren die kunnen wijzen op het invallen van de winter,
+            zijn daglengte en temperatuur. Tijgermuggen blijken vooral de daglengte
+            te gebruiken om het moment te bepalen waarop ze diapauze-eitjes gaan
+            leggen.
+1p   16     Licht toe dat daglengte een betrouwbaardere stimulus is voor het leggen
+            van diapauze-eitjes dan temperatuur.
+
+            In 1985 werd voor het eerst een grote hoeveelheid tijgermuggen gezien in
+            Texas (VS), vermoedelijk afkomstig uit een container autobanden uit
+            Japan. Geholpen door het transport van de autobanden kon de tijgermug
+            zich over een groot deel van Noord-Amerika verspreiden.
+            Kort na deze invasie in Noord-Amerika hebben onderzoekers de ‘kritische
+            fotoperiode’ bepaald van tijgermugpopulaties uit de VS en Japan. De
+            kritische fotoperiode is de daglengte die in het najaar bij 50% van de
+            vrouwtjes leidt tot de productie van diapauze-eitjes.
+            In beide landen werden tijgermuggen verzameld in een gebied dat zich
+            uitstrekt van zuid naar noord (van 26° tot 42° noorderbreedte). De
+            resultaten van dit onderzoek zijn weergegeven in afbeelding 3, diagram 1.
+            Twintig jaar later is het onderzoek opnieuw uitgevoerd. De resultaten
+            hiervan zijn weergegeven in diagram 2.
+
+            afbeelding 3
+
+
+
+
+            Over de resultaten van de onderzoeken worden drie beweringen gedaan:
+            1 In 2008 legden tijgermuggen in de VS gemiddeld later in het jaar
+                diapauze-eitjes dan in 1988.
+            2 Populaties die in Noord-Amerika of Japan zuidelijker leven dan 26° NB
+                kunnen geen diapauze-eitjes leggen.
+            3 De Noord-Amerikaanse tijgermuggen zijn afstammelingen van een
+                Japanse populatie uit een gematigde regio, noordelijker dan 30° NB.
+2p   17     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer bij elk nummer of de
+            betreffende bewering wel of niet wordt ondersteund door de gegevens in
+            afbeelding 3.
+
+1p   18     Geef een verklaring voor de geringe variatie in kritische fotoperiode van
+            de Amerikaanse populaties in 1988.
+
+
+VW-1018-a-22-1-o                            9 / 20                            lees verder ►►►
+            Als een tijgermug bloed zuigt bij iemand die het chikungunya-virus draagt,
+            dan wordt deze mug drager van het virus. De mug heeft hier geen last
+            van. Het virus kan vervolgens met het muggenspeeksel in elke persoon
+            terechtkomen die daarna door de mug gestoken wordt. Op deze manier is
+            het virus sinds 2013 in het Caribisch deel van ons koninkrijk verspreid en
+            leidt daar tot uitbraken van de ziekte chikungunya, die ernstig is voor
+            mensen.
+
+            In afbeelding 4 zijn de symbiotische relaties tussen mens, tijgermug en
+            het chikungunya-virus weergegeven met nummers.
+
+            afbeelding 4
+
+
+
+
+2p   19     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer bij elke relatie welke
+            vorm van symbiose hier het meest passend is.
+
+            Veel van de virusziekten die de tijgermug overbrengt, kunnen nog niet
+            genezen worden en vaccins ontbreken nog.
+            Muggenexpert Bart Knols heeft een stof gevonden die bij een uitbraak van
+            zo’n virusziekte ingezet kan worden om verdere besmetting in te dammen.
+            Het gaat om een middel dat gebruikt wordt om honden te ontvlooien.
+            Knols slikte de werkzame stof en binnen een uur vielen alle muggen die
+            hem staken dood neer, en dat 18 uur lang.
+
+            Het vlooienmiddel van Knols is op de markt gebracht voor gebruik bij
+            honden. Het middel mag pas verkocht worden voor gebruik bij mensen als
+            eerst meer onderzoek is gedaan.
+2p   20     Noteer twee aspecten die onderzocht moeten zijn voordat het middel door
+            mensen gebruikt kan worden.
+
+
+
+
+VW-1018-a-22-1-o                           10 / 20                            lees verder ►►►
+      Evolutie van de menstruatie
+
+            De mens is een van de weinige zoogdieren die menstrueert.
+            Evolutiebiologen onderzoeken hoe dit in de evolutie is ontstaan.
+
+            Bij zoogdieren wordt tijdens de rijping van eicellen in de eierstokken het
+            baarmoederslijmvlies dikker door de invloed van oestrogeen. Het
+            gereedmaken van het verdikte baarmoederslijmvlies voor de innesteling
+            van een embryo wordt bij niet-menstruerende zoogdieren pas in gang
+            gezet als een embryo in de baarmoeder aanwezig is. De
+            baarmoederslijmvliescellen van de moeder worden dan aangezet tot
+            decidualisatie. Dit is het vormen van een cellaag (de decidua) waarin het
+            embryo zich kan innestelen. Als de innesteling uitblijft, wordt dit verdikte
+            baarmoederslijmvlies niet afgestoten maar geabsorbeerd. Er volgt dus
+            geen menstruatie.
+            Bij menstruerende zoogdieren begint de vorming van de decidua ‘vanzelf’:
+            het progesteron dat door het geel lichaam wordt afgegeven, veroorzaakt
+            de celdifferentiatie in het baarmoederslijmvlies. Dit wordt spontane
+            decidualisatie genoemd. Bij de menstruatie wordt de decidua
+            afgescheiden.
+
+
+
+
+VW-1018-a-22-1-o                            11 / 20                            lees verder ►►►
+            Menstruatie is relatief recent in de evolutie ontstaan. In afbeelding 1 is in
+            een fylogenetische stamboom van een groot aantal zoogdieren
+            aangegeven of ze wel of niet menstrueren of dat dat niet bekend is.
+
+            afbeelding 1
+
+
+
+
+            Drie beweringen over de fylogenetische stamboom in afbeelding 1 zijn:
+            1 Menstruatie is in de evolutie ten minste drie keer onafhankelijk
+                ontstaan.
+            2 Tijdens de evolutie van primaten is het menstrueren in ten minste één
+                afstammingslijn weer verloren gegaan.
+            3 Menstruerende vleermuizen zijn meer verwant aan primaten dan niet-
+                menstruerende vleermuizen.
+2p   21     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende bewering wel of niet wordt ondersteund door de
+            fylogenetische stamboom in afbeelding 1.
+
+
+
+VW-1018-a-22-1-o                             12 / 20                             lees verder ►►►
+            Huismuizen menstrueren niet (afbeelding 1). Het is onderzoekers echter
+            wel gelukt een menstruatie bij huismuizen op te wekken. Hiervoor lieten
+            ze een huismuisvrouwtje paren met een onvruchtbaar huismuismannetje.
+            Hierdoor ontstond een schijnzwangerschap: het geel lichaam geeft
+            progesteron af, waardoor kenmerken van een zwangerschap ontstaan.
+            Tijdens deze schijnzwangerschap werd het oppervlak van het
+            baarmoederslijmvlies heel voorzichtig bekrast, waardoor decidualisatie
+            optrad. Na tien dagen eindigde de schijnzwangerschap en trad er bij het
+            huismuisvrouwtje een bloeding uit de baarmoeder op.
+
+            De bloeding bij dit huismuisvrouwtje en de maandelijkse menstruatie bij
+            de mens worden op dezelfde manier in gang gezet.
+2p   22     Leg uit hoe bij de mens afwezigheid van een embryo leidt tot de
+            menstruatie.
+
+            Sommige wetenschappers zien een evolutionair verband tussen de
+            bloeding na een schijnzwangerschap bij de huismuis, en de menstruatie
+            bij primaten. De eigenschap menstruatie zou dan zijn ontstaan uit de
+            eigenschap bloeden na schijnzwangerschap.
+1p   23     Welk gegeven zou dit evolutionaire verband aannemelijk maken?
+            A dat het soendaspookdier menstrueert
+            B dat de dwergmuismaki bloedt na een schijnzwangerschap
+            C dat het konijn bloedt na een schijnzwangerschap
+
+            Een evolutionaire verklaring voor het ontstaan van spontane
+            decidualisatie is dat de moeder zich hiermee beschermt tegen het
+            embryo. Doordat moeder en foetus geen identiek genenpakket hebben,
+            zijn hun belangen evolutionair gezien verschillend. De foetus probeert via
+            de placenta zo veel mogelijk voedingsstoffen aan de moeder te
+            onttrekken. Het belang van de moeder is investeren in de groeiende
+            foetus, maar ook in toekomstige kinderen.
+
+            Op verschillende organisatieniveaus komt het evolutionaire moeder-
+            foetus-conflict naar voren. Twee veranderingen tijdens innesteling en
+            vroege zwangerschap zijn:
+            1 De slagadertjes in de decidua van de moeder verliezen hun
+                spierweefsel.
+            2 Placentahormonen maken de moeder minder gevoelig voor insuline.
+2p   24     Licht toe dat zowel verandering 1 als verandering 2 gunstig is voor de
+            foetus.
+
+            Een andere verklaring voor het ontstaan van spontane decidualisatie is
+            dat de cellen van de decidua de kwaliteit van het embryo ‘beoordelen’. De
+            innesteling van embryo’s met grote chromosomale afwijkingen wordt
+            geremd, waarna de decidua kan worden afgestoten: een miskraam. Dit
+            gebeurt naar schatting met 30 tot 60% van de embryo’s.
+1p   25     Licht toe wat het evolutionaire voordeel is van zo’n miskraam.
+
+
+VW-1018-a-22-1-o                           13 / 20                            lees verder ►►►
+            De vorming van de decidua wordt bij niet-menstruerende zoogdieren
+            veroorzaakt doordat het embryo via een aantal tussenstappen zorgt voor
+            een toename van de second messenger cAMP in de cellen van het
+            baarmoederslijmvlies, die daardoor differentiëren tot decidua-cellen.
+            Bij menstruerende zoogdieren leidt progesteronproductie tijdens de
+            maandelijkse cyclus tot de toename van cAMP en de daaropvolgende
+            celdifferentiatie van de baarmoederslijmvliescellen.
+            In afbeelding 2 is deze signaalcascade schematisch weergegeven.
+
+            afbeelding 2
+
+
+
+
+1p   26     Licht toe dat cAMP een second messenger wordt genoemd.
+
+            Drie uitspraken die de werking van progesteron bij menstruerende
+            zoogdieren in verband brengen met een toename van cAMP in
+            baarmoederslijmvliescellen zijn:
+            1 Progesteron vormt met de membraanreceptor een complex dat aan
+                het DNA bindt en zo de expressie van cAMP verhoogt.
+            2 Progesteron zet bepaalde cellen aan tot de afgifte van een signaalstof
+                die bindt aan de membraanreceptor op baarmoederslijmvliescellen.
+            3 Progesteron veroorzaakt in baarmoederslijmvliescellen verminderde
+                expressie van het enzym adenylcyclase.
+2p   27     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende uitspraak wel of niet juist kan zijn.
+
+            Tijdens de zwangerschap en de daaropvolgende zoogperiode ligt de
+            menstruatiecyclus van menstruerende zoogdieren stil. Het zuigen van het
+            jong beïnvloedt de afgifte van GnRH en LH bij het moederdier.
+2p   28     Wordt door het zogen de afgifte van GnRH bij de moeder gestimuleerd of
+            geremd? En wordt de afgifte van LH dan gestimuleerd of geremd?
+
+                   GnRH-productie   LH-productie
+
+            A      gestimuleerd     gestimuleerd
+            B      gestimuleerd     geremd
+            C      geremd           gestimuleerd
+            D      geremd           geremd
+
+
+VW-1018-a-22-1-o                          14 / 20                           lees verder ►►►
+      Lachgas, geen onschuldige partydrug
+
+            Lachgas (N2O) wordt door jongeren steeds vaker gebruikt als partydrug.
+            Zij beschouwen het als een relatief onschadelijk middel dat je een
+            lachkick bezorgt. Vwo-scholier Lia liep ernstige zenuwschade op door het
+            gebruik van lachgas.
+
+            Bij lachgasgebruik wordt een ballon gevuld met het gas. Vervolgens wordt
+            een paar keer in- en uitgeademd in de ballon. Hierdoor ontstaat een
+            kortdurend vrolijk gevoel. Dit gevoel ontstaat waarschijnlijk doordat
+            lachgas NMDA-receptoren in synapsen in de hersenen blokkeert. Er
+            ontstaat ook duizeligheid door een tijdelijk zuurstofgebrek in de hersenen.
+
+            De NMDA-receptor is een ionkanaal dat geactiveerd wordt als
+            glutaminezuur en glycine er tegelijk aan binden. Geactiveerde NMDA-
+            receptoren veroorzaken excitatie van het postsynaptisch neuron.
+2p   29     Bevindt de NMDA-receptor zich in het presynaptisch of in het
+            postsynaptisch membraan? En voorkomt binding van N2O depolarisatie,
+            repolarisatie of hyperpolarisatie van het postsynaptisch neuron?
+
+                   plaats NMDA-receptor                binding van N2O voorkomt
+
+            A      presynaptisch membraan              depolarisatie
+            B      presynaptisch membraan              repolarisatie
+            C      presynaptisch membraan              hyperpolarisatie
+            D      postsynaptisch membraan             depolarisatie
+            E      postsynaptisch membraan             repolarisatie
+            F      postsynaptisch membraan             hyperpolarisatie
+
+            N2O werkt snel. Binnen een minuut is het effect op de hersenen
+            merkbaar, maar dit effect is even snel alweer voorbij.
+            Enkele bloedvaten zijn:
+            1 aorta
+            2 halsader
+            3 halsslagader
+            4 longader
+            5 longslagader
+            6 onderste holle ader
+1p   30     Door welke van deze bloedvaten gaat een N2O-molecuul op de kortste
+            route van de plaats van opname tot de plaats waar het effect heeft?
+            Noteer de betreffende nummers in de juiste volgorde.
+
+
+
+
+VW-1018-a-22-1-o                             15 / 20                              lees verder ►►►
+            Doordat de lucht in de ballon geen zuurstof bevat, daalt tijdens het in- en
+            uitademen in de ballon de pO2 in de longen naar ongeveer 6 kPa.
+            Bovendien stijgt het koolstofdioxidegehalte (pCO2) in de longen.
+2p   31     Welk gevolg heeft deze hogere pCO2 voor het verloop van de
+            zuurstofverzadigingscurve van hemoglobine? En neemt de hoeveelheid
+            zuurstof die wordt gebonden door hemoglobine in de longhaarvaten
+            hierdoor af of toe?
+
+                   curve verschuift naar    hoeveelheid zuurstof die wordt gebonden
+                                            door hemoglobine in de longhaarvaten
+
+            A      links                    neemt af
+            B      links                    neemt toe
+            C      rechts                   neemt af
+            D      rechts                   neemt toe
+
+            Lia gebruikte lachgas gelukkig nooit samen met alcohol. De combinatie
+            van lachgas en alcohol kan namelijk leiden tot een levensgevaarlijke
+            onderdrukking van de ademreflex. Alcohol onderdrukt het ademcentrum
+            en lachgas onderdrukt de respons van de betrokken chemoreceptoren.
+2p   32     Waar bevindt zich het ademcentrum? En in welke bloedvaten bevinden
+            zich de chemoreceptoren die bij de ademreflex betrokken zijn?
+
+                   ademcentrum in de        chemoreceptoren in de
+
+            A      hersenschors             aorta en halsslagaders
+            B      hersenschors             bovenste holle ader en halsaders
+            C      hersenschors             longaders
+            D      hersenstam               aorta en halsslagaders
+            E      hersenstam               bovenste holle ader en halsaders
+            F      hersenstam               longaders
+
+
+
+
+VW-1018-a-22-1-o                            16 / 20                            lees verder ►►►
+            Het is niet altijd meteen duidelijk dat zenuwschade het gevolg kan zijn van
+            lachgasgebruik. Lia kreeg minder gevoel in haar benen en ze kreeg
+            moeite met lopen. Toen ze met deze klachten bij haar huisarts kwam,
+            verwees die haar door naar een neuroloog. De neuroloog onderzocht haar
+            beenreflexen en vermoedde een probleem in de impulsgeleiding als
+            gevolg van aantasting van de myelineschedes. Lia vertelde niet over haar
+            lachgasgebruik.
+
+1p   33     In welk deel van het zenuwstelsel bevinden zich myelineschedes?
+            A alleen in het centraal zenuwstelsel
+            B alleen in het perifeer zenuwstelsel
+            C zowel in het centraal zenuwstelsel als in het perifeer zenuwstelsel
+
+            De neuroloog testte de geleiding         afbeelding 1
+            van de zenuwen in het been door
+            op een bepaalde plaats de zenuw
+            te stimuleren en met sensoren te
+            meten wanneer de opgewekte
+            impuls op een andere plaats
+            aankomt. In afbeelding 1 zijn de
+            plaatsen van de twee sensoren en
+            de plaats van stimulering
+            aangegeven.
+
+
+            Uit de metingen bleek dat bij Lia de impulsgeleiding was verstoord. De
+            impulsen komen bij Lia later aan dan bij iemand bij wie de
+            myelineschedes wel goed functioneren.
+1p   34     Verklaar waardoor de impulsen bij Lia niet even snel aankomen als bij
+            een gezond persoon.
+
+
+
+
+VW-1018-a-22-1-o                           17 / 20                            lees verder ►►►
+            Op basis van de verstoorde impulsgeleiding en bloedonderzoek
+            vermoedde de neuroloog bij Lia het syndroom van Guillain-Barré, een
+            auto-immuunreactie tegen myeline. Bij deze ontstekingsreactie worden
+            antistoffen gevormd die leiden tot de afbraak van de cellen van Schwann
+            door macrofagen (afbeelding 2).
+
+            afbeelding 2
+
+
+
+
+2p   35     Leg uit hoe antistoffen en macrofagen veroorzaken dat de cellen van
+            Schwann vernietigd worden.
+
+            Om de ontstekingsreactie te remmen, werd Lia gedurende vijf dagen
+            behandeld met intraveneus immuunglobuline (IVIg). Deze behandeling
+            remt de productie van cytokine IL-2 door T-helpercellen. Cytokine IL-2
+            heeft een stimulerend effect op onder andere T-helpercellen zelf.
+1p   36     Welk proces wordt verhinderd door de IVIg-behandeling?
+            A antigeenpresentatie door T-helpercellen
+            B antistofproductie door T-helpercellen
+            C kloneren en differentiëren van T-helpercellen
+
+            Na doorvragen van de neuroloog biechtte Lia op dat zij in de weken
+            voorafgaand aan haar klachten regelmatig lachgas had gebruikt.
+            Lachgasgebruik was een zeer plausibele verklaring voor haar klachten,
+            omdat lachgas vitamine B12 inactiveert. Functioneel vitamine B12 is
+            onmisbaar voor de vorming van myeline in de cellen van Schwann.
+
+
+
+
+VW-1018-a-22-1-o                           18 / 20                           lees verder ►►►
+            Afbeelding 3 laat op vereenvoudigde wijze zien hoe vitamine B12 uit de
+            voeding via enkele omzettingen terecht kan komen in het bloed.
+
+            afbeelding 3
+
+
+
+
+            Bij opname van vitamine B12 zijn drie verschillende eiwitten betrokken:
+            haptocorrine, intrinsieke factor en dierlijk eiwit uit de voeding.
+            Elk van deze eiwitten heeft bepaalde eigenschappen die dat eiwit geschikt
+            maken voor zijn rol in de vitamine-B12-opname.
+
+            Enkele eigenschappen van drie betrokken eiwitten zijn:
+            1 wordt alleen afgebroken door proteasen (eiwitsplitsende enzymen) uit
+                 de alvleesklier
+            2 wordt afgebroken door proteasen uit de maag en de alvleesklier
+            3 is bestand tegen proteasen uit de maag en de alvleesklier
+1p   37     Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de
+            betreffende eigenschap een eigenschap is van haptocorrine, van
+            intrinsieke factor of van dierlijk eiwit.
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+VW-1018-a-22-1-o                          19 / 20                           lees verder ►►►
+            Een bloedonderzoek kan geen onderscheid maken tussen functioneel en
+            niet-functioneel vitamine B12. Daarom wordt het tekort aan functioneel
+            vitamine B12 indirect aangetoond.
+            In afbeelding 4 is te zien dat twee vormen van vitamine B12 als cofactor
+            betrokken zijn bij bepaalde enzymatische omzettingen.
+
+            afbeelding 4
+
+
+
+
+            Het bloedonderzoek bij Lia toonde aan dat ze inderdaad een tekort had
+            aan functioneel vitamine B12.
+2p   38     Welke bloedwaarden van methylmalonzuur en homocysteïne wijzen op
+            een tekort aan functioneel vitamine B12?
+
+                   concentratie methylmalonzuur                            concentratie homocysteïne
+
+            A      verhoogd                                                verhoogd
+            B      verhoogd                                                verlaagd
+            C      verlaagd                                                verhoogd
+            D      verlaagd                                                verlaagd
+
+            Nadat Lia vitamine-B12-injecties kreeg, verdwenen de symptomen snel.
+            Vitamine-B12 kan ook als pil worden ingenomen.
+1p   39     Verklaar waarom een injectie met vitamine B12 te verkiezen is boven
+            orale toediening van vitamine B12 via een pil.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1018-a-22-1-o                                         20 / 20                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -145,6 +145,8 @@ img { max-width: 100%; display: block; }
 .blad.deze { border: 1px solid var(--blauw); border-left: 5px solid var(--blauw); }
 .opmerking { margin: 14px 0 0; padding: 10px 14px; border-left: 3px solid var(--oker); background: #f6f0e3; font-size: 15px; }
 .acties { display: flex; flex-wrap: wrap; gap: 10px; margin: 22px 0 0; }
+.tip { margin: 14px 0 0; padding: 12px 16px; background: var(--wit); border: 1px solid var(--lijn); border-left: 3px solid var(--oker); font-size: 16px; max-width: 70ch; }
+.tip b { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .09em; color: var(--oker); margin-bottom: 2px; }
 .antwoordblok { margin-top: 28px; }
 .antwoordblok h2 { font-size: 20px; margin-bottom: 10px; }
 .zelfscore { margin-top: 18px; padding: 16px 0 0; border-top: 1px solid var(--lijn); display: grid; gap: 10px; }
@@ -190,24 +192,12 @@ img { max-width: 100%; display: block; }
   .kantlijn dl { grid-template-columns: 1fr 1fr; }
 }
 
-/* ---------- aanpak, advies, tips en hulp ---------- */
+/* ---------- voortgang, advies en hulp ---------- */
 .klein { font-size: 14px; color: var(--grijs); }
 .werkwijze .klein { margin: 10px 0 0; }
 .verder { margin: 26px 0 0; padding: 12px 16px; background: var(--wit); border: 1px solid var(--lijn); border-left: 3px solid var(--blauw); display: flex; flex-wrap: wrap; gap: 4px 10px; }
 .verder span { color: var(--grijs); }
 .verder a { font-weight: 600; }
-.hoofdnav a.los { margin-left: 6px; padding-left: 18px; border-left: 1px solid #3b557b; }
-.aanpak { margin: 18px 0 4px; background: var(--wit); border: 1px solid var(--lijn); border-top: 3px solid var(--oker); }
-.aanpak > summary { cursor: pointer; padding: 11px 16px; font-family: var(--serif); font-weight: 600; font-size: 17px; list-style: none; display: flex; justify-content: space-between; gap: 12px; }
-.aanpak > summary::-webkit-details-marker { display: none; }
-.aanpak > summary::after { content: "tonen"; font-family: var(--sans); font-weight: 400; font-size: 14px; color: var(--grijs); }
-.aanpak[open] > summary::after { content: "verbergen"; }
-.aanpak-in { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px 28px; padding: 0 16px 14px; }
-.aanpak h3 { font-family: var(--sans); font-size: 12px; text-transform: uppercase; letter-spacing: .09em; color: var(--grijs); font-weight: 700; margin: 2px 0 4px; }
-.aanpak ul, .tipblok ul, .tipvak ul { margin: 0; padding-left: 18px; font-size: 15.5px; }
-.aanpak li, .tipblok li, .tipvak li { margin: 5px 0; }
-.aanpak-in > div + div li::marker { color: var(--fout); }
-.vraagopzet .aanpak { margin: 18px 0 0; }
 .advies { margin-top: 26px; }
 .advies h2 { font-size: 22px; }
 .advies > .klein { margin: 6px 0 0; }
@@ -222,25 +212,13 @@ img { max-width: 100%; display: block; }
 .balk { display: inline-block; width: 90px; height: 7px; background: var(--lijn-zacht); margin-right: 10px; vertical-align: middle; }
 .balk span { display: block; height: 100%; background: var(--grijs); }
 .balk span.goed { background: var(--goed); } .balk span.half { background: var(--oker); } .balk span.fout { background: var(--fout); }
-.tips { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 40px; margin-top: 8px; }
-.tipblok { padding: 20px 0 10px; border-bottom: 1px solid var(--lijn); }
-.tipblok h2 { font-size: 20px; display: flex; gap: 12px; align-items: baseline; margin-bottom: 6px; }
-.tipblok .hnr { color: var(--oker); }
-.tipvakken { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0 32px; }
-.tipvak { padding: 18px 0 8px; border-bottom: 1px solid var(--lijn); }
-.tipvak h3 { font-size: 18px; margin-bottom: 4px; }
-.tipvak h3 a { text-decoration: none; }
 .hulp { margin-top: 40px; padding: 22px 24px; background: var(--blauw-licht); border-left: 4px solid var(--blauw); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px 32px; }
 .hulp > div { flex: 1 1 380px; min-width: 0; }
 .hulp h2 { font-size: 20px; }
 .hulp p { margin: 6px 0 0; font-size: 15.5px; max-width: 64ch; }
 .wissen { margin-top: 26px; }
 .voet .maker a { font-weight: 600; }
-@media (max-width: 820px) {
-  .tips { grid-template-columns: 1fr; }
-}
 @media (max-width: 560px) {
-  .aanpak-in { grid-template-columns: 1fr; }
   .advies li { grid-template-columns: 26px minmax(0, 1fr); }
   .advies li .knop { grid-column: 2; justify-self: start; }
   .tabel.voortgang .balk { display: none; }

@@ -1,0 +1,584 @@
+                                                                    Examen VWO
+
+                                                                        2026
+                                                                               tijdvak 1
+                                                                      maandag 11 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 25 vragen.
+ Voor dit examen zijn maximaal 76 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-26-1-o
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-1023-a-26-1-o                        2 / 19   lees verder ►►►
+      Botsproef
+
+            Ongeveer 75 jaar geleden onderzocht John Stapp de effecten van grote
+            versnellingen op het menselijk lichaam. In een van zijn experimenten zat
+            hij op een stoel, met een veiligheidsriem over zijn heupen. De stoel hing
+            aan een lange kabel. De stoel werd uit de evenwichtsstand getrokken en
+            vervolgens vanuit stilstand losgelaten. Zie figuur 1. Bij het laagste punt
+            werd een botsing nagebootst. Dit deed men door een andere kabel aan de
+            achterkant van de stoel aan te spannen, waardoor de stoel plotseling
+            vertraagde.
+
+            figuur 1
+
+
+
+
+            De snelheid van de stoel vlak voor de botsing (het aanspannen van de
+            kabel) is 4,0 m s1.
+3p    1     Bereken op welke hoogte h boven het laagste punt de stoel is losgelaten.
+            Verwaarloos daarbij de wrijvingskracht.
+
+
+
+
+VW-1023-a-26-1-o                           3 / 19                           lees verder ►►►
+            Aya heeft op internet een film van het experiment van Stapp gevonden.
+            Figuur 2 toont een beeldje uit de film.
+
+            figuur 2
+
+
+
+
+            De film werd gemaakt om de beweging met behulp van videometen te
+            onderzoeken. Daarom is er op de achtergrond in figuur 2 een gestreepte
+            balk met een totale lengte van 1 yard (= 0,91 m) geplaatst. Ook zijn er
+            twee markeringen aangebracht:
+             M, op de zitting van de stoel;
+             S, op de schouder van Stapp.
+
+            Aya analyseert de beweging van de markeringen M en S. Daarvoor
+            vergroot zij de filmbeeldjes en meet daarin met een liniaal. De vergroting
+            van het beeldje uit figuur 2 staat op de uitwerkbijlage. Daar is ook het
+            assenstelsel aangegeven dat Aya gekozen heeft. Uit haar metingen
+            berekent zij de werkelijke horizontale positie x en werkelijke verticale
+            positie y van de markeringen ten opzichte van de oorsprong.
+2p    2     Schat met de figuur op de uitwerkbijlage tot op hoeveel cm nauwkeurig
+            Aya de werkelijke positie van een markering kan bepalen.
+
+            Aya zet de posities van de markeringen M en S uit in een (y,x)-diagram.
+            Dit diagram is weergegeven in figuur 3. In het diagram zijn enkele
+            meetpunten genummerd. Beeldje 0 komt overeen met het moment van de
+            botsing. S en M bevinden zich dan recht boven elkaar bij x = 0. De film is
+            opgenomen met 50 beeldjes per seconde.
+
+            Aya concludeert uit figuur 3 dat S zich na de botsing gedurende 0,34 s
+            rechts van x = 0 bevindt.
+2p    3     Leg met een berekening uit hoe zij deze tijdsduur heeft bepaald.
+
+
+
+
+VW-1023-a-26-1-o                            4 / 19                            lees verder ►►►
+            figuur 3
+
+
+
+
+            figuur 4
+
+
+
+
+            Figuur 4 toont beeldje 0 en beeldje 5. Hier is te zien dat de schouder na
+            de botsing ten opzichte van de stoel beweegt. De beweging van
+            markering S ten opzichte van markering M duurt volgens Aya 0,34 s.
+2p    4     Leg met behulp van figuur 3 uit of Aya gelijk heeft.
+
+
+
+
+VW-1023-a-26-1-o                            5 / 19                            lees verder ►►►
+            Met behulp van software voor videometen bepaalt Aya voor ieder beeldje
+            de snelheid vx van markering S in horizontale richting. In figuur 5 is vx
+            uitgezet tegen de tijd t. Figuur 5 staat ook op de uitwerkbijlage.
+
+            figuur 5
+
+
+
+
+            Aya bekijkt het deel van de beweging waarin S vertraagt, tot aan het
+            moment dat de bewegingsrichting omkeert.
+3p    5     Bepaal met behulp van het diagram op de uitwerkbijlage de gemiddelde
+            horizontale vertraging van S tijdens dit deel van de beweging. Noteer je
+            antwoord in twee significante cijfers.
+
+            Door de experimenten van Stapp kwam er aandacht voor de vraag hoe
+            inzittenden van een personenauto beschermd kunnen worden tegen de
+            grote vertraging bij een botsing. Men zag in dat de kinetische energie van
+            de inzittenden zo geleidelijk mogelijk moet worden omgezet. De
+            vertraging tijdens het afremmen is in dat geval constant. Voor de
+            horizontale vertraging ax geldt dan:
+
+                                                     vb2
+                                             ax                                       (1)
+                                                     2s
+            Hierin is:
+             vb de horizontale snelheid vlak voor de botsing;
+             s de lengte van de remweg in horizontale richting.
+
+4p    6     Leid formule (1) af.
+
+
+
+
+VW-1023-a-26-1-o                            6 / 19                           lees verder ►►►
+            figuur 6
+
+
+
+
+            Uit de figuren 3 en 5 blijkt dat de schouder van Stapp na de botsing eerst
+            nog met constante snelheid bewoog, en vanaf ongeveer x = 20 cm begon
+            te vertragen.
+
+            Tegenwoordig zijn driepuntsgordels in personenauto’s verplicht. Zie
+            figuur 6. De driepuntsgordel wordt steeds strak tegen het lichaam
+            getrokken. De elastische schouderband van een bepaald type
+            driepuntsgordel kan over een horizontale afstand van 18 cm uitrekken.
+            Aya beweert dat de horizontale vertraging ax van de schouder van Stapp
+            kleiner geweest zou zijn als hij deze driepuntsgordel had gebruikt in
+            plaats van de veiligheidsriem.
+3p    7     Leg met behulp van formule (1) uit of Aya gelijk heeft.
+
+
+
+
+VW-1023-a-26-1-o                            7 / 19                            lees verder ►►►
+      Elektriciteitspracticum
+
+            Een ohmse weerstand van 60  wordt             figuur 1
+            met twee meetsnoeren aangesloten op
+            een voedingskastje. Zie figuur 1. Beide
+            snoeren hebben een cilindervormige
+            koperen kern met een diameter van
+            0,80 mm en een lengte van 140 cm.
+
+            De weerstand van de twee meetsnoeren
+            is kleiner dan de onnauwkeurigheid in de
+            waarde van de ohmse weerstand.
+4p    8     Toon dit aan.
+
+            De weerstand van de meetsnoeren wordt hierna verwaarloosd.
+
+            De schakeling wordt volgens het schema         figuur 2
+            in figuur 2 uitgebreid met nog twee
+            weerstanden. Bij gelijke ohmse
+            weerstanden (R1 = R2 = R3) geldt in de
+            schakeling van figuur 2:
+                   U R 3  2U R1                     (1)
+
+3p    9     Leid dit verband af.
+
+
+
+
+            De weerstanden worden vervangen                figuur 3
+            door drie gelijke gloeilampjes, zie
+            figuur 3. Op de lampjes staat:
+            12 V; 2,4 W.
+
+            De voedingsspanning is ingesteld op
+            18 V. Als de lampjes zich net zo zouden
+            gedragen als de ohmse weerstanden in
+            figuur 2, dan zou er volgens formule (1)
+            een spanning van 12 V over lampje L3
+            staan. L3 zou dan precies goed branden.
+            Gloeilampjes gedragen zich echter als
+            PTC’s.
+3p   10     Leg uit of L3 in de schakeling van figuur 3 op een te hoog of op een te
+            laag vermogen brandt.
+
+
+
+
+VW-1023-a-26-1-o                            8 / 19                            lees verder ►►►
+      Cepheïden
+
+            De parallaxmethode is een manier om de afstand tot een ster te bepalen.
+            Door de beweging van de aarde rond de zon lijkt de positie van een nabije
+            ster te verschuiven ten opzichte van verder weg gelegen sterren. Na een
+            periode van een half jaar is de schijnbare verplaatsing maximaal. Zie
+            figuur 1.
+
+            figuur 1
+
+
+
+
+            Hoek p in figuur 1 wordt de parallax genoemd. Hoe groter de afstand d tot
+            de ster, des te kleiner is de parallax. Rond het jaar 1900 was de kleinste
+            parallax die kon worden gemeten 3105 graad. Afstanden in de
+            ordegrootte van 1018 m en groter waren toen nog niet te onderscheiden.
+3p   11     Toon dit aan.
+
+            figuur 2
+
+
+
+
+            Omstreeks 1910 onderzocht Henrietta Leavitt (zie figuur 2) een bepaald
+            type sterren: de Cepheïden. De stralingsintensiteit van deze sterren
+            varieert met een constante periode T van enkele dagen tot enkele weken.
+            De Cepheïden zijn vernoemd naar de heldere ster Delta Cephei, waarvan
+            als eerste werd vastgesteld dat de stralingsintensiteit periodiek verandert.
+
+
+
+
+VW-1023-a-26-1-o                             9 / 19                            lees verder ►►►
+            Figuur 3 laat hedendaagse metingen zien van de waargenomen
+            stralingsintensiteit I van Delta Cephei.
+
+            figuur 3
+
+
+
+
+            Uit andere metingen blijkt dat de oppervlaktetemperatuur van Delta
+            Cephei tijdens één periode varieert tussen 5,5·103 K en 6,8·103 K. De
+            waargenomen variatie van de stralingsintensiteit komt overeen met de
+            verwachte variatie op basis van de oppervlaktetemperaturen.
+3p   12     Toon dit aan.
+
+            Sterren zijn niet gelijkmatig verdeeld over het heelal, maar gegroepeerd in
+            een groot aantal sterrenstelsels. De Kleine Magelhaense Wolk (KMW) is
+            een sterrenstelsel dat in de buurt van ons eigen melkwegstelsel ligt. Zie
+            figuur 4. Henrietta Leavitt ontdekte in de KMW ruim twintig Cepheïden.
+
+            figuur 4
+
+
+
+
+VW-1023-a-26-1-o                           10 / 19                            lees verder ►►►
+            Leavitt bepaalde van iedere Cepheïde in de KMW de maximale
+            stralingsintensiteit Imax en de periode T. Vervolgens zette zij de logaritme
+            van Imax uit tegen de logaritme van T. Zie figuur 5.
+
+            figuur 5
+
+
+
+
+            Tot Leavitts verrassing werd een lineair verband tussen log(Imax) en
+            log(T) zichtbaar. Het verband is te beschrijven met de formule:
+                                     log( I max )  a  log(T )  log(C )              (1)
+
+            Hierin is:
+             Imax       de gemeten maximale stralingsintensiteit in W m2
+             T          de periode in dagen
+             a          een constante (zonder eenheid)
+             C          een constante in W m2
+
+            Het diagram uit figuur 5 staat vergroot op de uitwerkbijlage.
+4p   13     Voer de volgende opdrachten uit met het diagram op de uitwerkbijlage:
+             Bepaal de grootte van a in formule (1). Noteer je antwoord in twee
+               significante cijfers.
+             Toon aan dat voor de KMW geldt: C = 1,51014 W m2.
+
+
+
+
+VW-1023-a-26-1-o                               11 / 19                          lees verder ►►►
+            Leavitt vond ook voor Cepheïden in een ander sterrenstelsel een lineair
+            verband tussen log(Imax) en log(T). Daarbij was alleen de waarde van de
+            constante C anders. Zij concludeerde dat de constante a voor alle
+            Cepheïden in het heelal hetzelfde is, en dat C alleen afhangt van de
+            afstand van de Cepheïde tot de aarde. Tegenwoordig noemt men
+            formule (1) de ‘wet van Leavitt’.
+
+            Leavitt kon haar wet ontdekken doordat zij metingen deed aan meerdere
+            Cepheïden in twee verschillende sterrenstelsels. Dit was niet gelukt als ze
+            de gegevens van Cepheïden op willekeurige plekken in het heelal in het
+            diagram had uitgezet.
+2p   14     Leg dit uit.
+
+            Uit de wet van Leavitt volgt dat Cepheïden met dezelfde periode hetzelfde
+            stralingsvermogen Pbron uitzenden. Bij gelijke periodes hangt de
+            waargenomen maximale intensiteit Imax van een Cepheïde dus alleen af
+            van zijn afstand tot de aarde.
+
+            In figuur 4 is te zien dat de ster Delta Cephei veel dichter bij de aarde ligt
+            dan de KMW. Omstreeks 1930 was men in staat om de afstand tot Delta
+            Cephei met de parallaxmethode te bepalen: deze is 8,4·1018 m. Met dit
+            gegeven en de wet van Leavitt kon men vervolgens ook de afstand tot de
+            veel verder weg gelegen KMW bepalen.
+
+            Op de uitwerkbijlage is figuur 3 afgebeeld. Ook zijn de data uit figuur 5
+            daar nogmaals weergegeven, nu op logaritmisch papier. Voor Delta
+            Cephei geldt: Imax = 1,1109 W m2.
+4p   15     Voer de volgende opdrachten uit met de figuren op de uitwerkbijlage:
+             Bepaal de periode T van Delta Cephei. Noteer je antwoord in dagen
+               en in twee significante cijfers.
+             Bepaal hiermee de afstand tussen de aarde en de KMW. Noteer je
+               antwoord in twee significante cijfers.
+
+
+
+
+VW-1023-a-26-1-o                             12 / 19                             lees verder ►►►
+      Morpho didius
+
+            De Morpho didius is een vlinder waarvan de vleugels felblauw zijn.
+            Onderzoekers hebben verschillende hypotheses opgesteld over de
+            oorzaak van deze kleur. Een van de hypotheses is dat de vleugels een
+            pigment bevatten. Een pigment is een chemische stof waarvan de
+            moleculen licht met bepaalde golflengtes absorberen. Een pigment dat
+            fotonen met een energie van 2,1 eV absorbeert, heeft een felblauwe tint.
+
+            Een bepaald natuurlijk pigment bestaat uit moleculen met een lengte van
+            1,27 nm. Acht elektronen bewegen vrij over de gehele lengte van het
+            molecuul. De energieniveaus van die elektronen kunnen berekend worden
+            met het model van een oneindig diepe eendimensionale energieput. De
+            verdeling van de elektronen over de energieniveaus waarbij de totale
+            energie minimaal is, noemen we de grondtoestand van het molecuul.
+4p   16     Toon met een berekening aan dat de kleinst mogelijke energieopname
+            vanuit de grondtoestand van dit molecuul overeenkomt met de
+            absorptie-energie van een blauw pigment.
+
+            Kleur kan ook verklaard worden uit de oppervlaktestructuur van een
+            materiaal. Figuur 1 toont een elektronenmicroscoopfoto van de doorsnede
+            van de vleugel. Het oppervlak is bedekt met smalle verticale richels die
+            ieder weer opgebouwd zijn uit horizontale lamellen. In figuur 2 is de
+            doorsnede van één richel schematisch weergegeven.
+
+            figuur 1                                     figuur 2
+
+
+
+
+            Licht dat loodrecht op de opengeklapte vleugel valt, gaat gedeeltelijk door
+            de lamellen heen en wordt gedeeltelijk teruggekaatst op de grensvlakken
+            tussen de lamellen en lucht. In figuur 3 is dit schematisch weergegeven
+            voor twee achtereenvolgende lamellen.
+
+
+
+
+VW-1023-a-26-1-o                            13 / 19                           lees verder ►►►
+            figuur 3
+
+
+
+
+            In het materiaal van de lamellen is de voortplantingssnelheid van licht
+            1,5 keer kleiner dan in lucht. De frequentie van het licht is onafhankelijk
+            van het materiaal. In lucht heeft blauw licht een golflengte van 480 nm.
+
+5p   17     Voer de volgende opdrachten uit:
+             Bepaal het faseverschil dat ontstaat tussen blauw licht dat terugkaatst
+               op lamel 1 en blauw licht dat terugkaatst op lamel 2.
+             Verklaar hiermee de blauwe kleur van de vlinder.
+
+            Wanneer de vleugel onder een hoek wordt bekeken, heeft hij nog steeds
+            een blauwe tint. Dit blijkt ook uit figuur 4, waarin een meting is afgebeeld
+            van de intensiteit van het teruggekaatste blauwe licht als functie van de
+            hoek waaronder men de vleugel waarneemt.
+
+            figuur 4                                      figuur 5
+
+
+
+
+            De twee buitenste maxima in figuur 4 kunnen niet verklaard worden vanuit
+            de lamellenstructuur, maar wel vanuit de regelmatige lijnstructuur van de
+            richels op de vleugel. Deze is te zien in figuur 1 en in de schematische
+            doorsnede in figuur 5. De lijnstructuur werkt als een tralie voor het
+            teruggekaatste licht.
+
+            Het diagram uit figuur 4 staat vergroot op de uitwerkbijlage.
+3p   18     Bepaal met behulp van het diagram op de uitwerkbijlage het aantal richels
+            per centimeter op de vleugel. Noteer je antwoord in twee significante
+            cijfers.
+
+
+
+
+VW-1023-a-26-1-o                             14 / 19                            lees verder ►►►
+      Linac
+
+            In ziekenhuizen past men uitwendige bestraling toe om tumoren te
+            behandelen. Het apparaat dat hiervoor wordt gebruikt noemt men een
+            Linac. Het bevat een lineaire deeltjesversneller waarin elektronen worden
+            versneld. Daarna zijn er twee mogelijkheden:
+             de tumor wordt direct bestraald met de elektronenbundel;
+             met de elektronen worden röntgenfotonen geproduceerd waarmee
+                vervolgens de bestraling wordt gedaan.
+            De eerste methode is niet voor alle tumoren geschikt.
+2p   19     Leg uit aan welke voorwaarde een tumor moet voldoen om de eerste
+            methode te kunnen toepassen.
+
+            Om een röntgenbundel te vormen, bevat de Linac behalve de versneller
+            nog drie andere essentiële onderdelen:
+             een afbuigmagneet om de elektronenbundel te richten en te
+               focusseren;
+             een trefplaatje waarin de energie van de elektronen wordt omgezet in
+               röntgenfotonen;
+             een of meer filters om een gelijkmatige bestraling van de tumor
+               mogelijk te maken.
+            Figuur 1 toont deze onderdelen in een schematische tekening.
+
+            figuur 1
+
+
+
+
+VW-1023-a-26-1-o                           15 / 19                          lees verder ►►►
+            De elektronen moeten na het versnellen naar de behandeltafel worden
+            afgebogen. Dit wordt gedaan met de afbuigmagneet. Figuur 2 toont de
+            baan van een elektron dat met de gemiddelde snelheid in punt P het
+            homogene magneetveld binnenkomt. Het doorloopt een deel van een
+            cirkelbaan en verlaat het magneetveld weer bij Q. Het magneetveld staat
+            loodrecht op het papier.
+
+            figuur 2                                  figuur 3
+
+
+
+
+            Voor de baanstraal van een elektron in het magneetveld geldt:
+                                                      mv
+                                              r                                     (1)
+                                                      Bq
+3p   20     Leid formule (1) af met behulp van formules uit het informatieboek.
+
+            In de praktijk hebben de elektronen niet allemaal dezelfde snelheid en
+            heeft de elektronenbundel een bepaalde breedte. Een evenwijdig
+            invallende elektronenbundel blijkt daardoor na het afbuigen uit elkaar te
+            lopen. Zie figuur 3.
+
+            Op de uitwerkbijlage is figuur 2 nog twee keer weergegeven voor
+            elektronen die op een andere hoogte in de bundel of met een andere
+            beginsnelheid het magneetveld binnenkomen.
+3p   21     Teken in beide figuren op de uitwerkbijlage de baan die het elektron volgt
+            door het magneetveld heen en na het verlaten van het magneetveld.
+
+
+
+
+VW-1023-a-26-1-o                            16 / 19                           lees verder ►►►
+            Om ervoor te zorgen dat de elektronenbundel na het afbuigen evenwijdig
+            blijft, gebruikt men in de praktijk een ander magneetveld, dat inhomogeen
+            is. De elektronen doorlopen hierin een bocht van 270 graden. In figuur 4
+            zijn de banen van een snel en een langzaam elektron in dit veld getekend.
+
+            figuur 4                                  figuur 5
+
+
+
+
+            In tekening I en II van figuur 5 is het magneetveld het papier in gericht,
+            en in tekening III en IV het papier uit.
+3p   22     Leg uit welk magneetveld in figuur 5 (I, II, III of IV) geschikt is om de
+            elektronen de banen van figuur 4 te laten volgen.
+
+            De smalle elektronenbundel die uit de afbuigmagneet komt, valt op het
+            trefplaatje. De grafiek van figuur 6 toont het röntgenspectrum dat ontstaat
+            bij een elektronenbundel die versneld is tot 4,1 MeV.
+
+            figuur 6
+
+
+
+
+            In figuur 6 is te zien dat er geen röntgenfotonen zijn met een golflengte
+            kleiner dan 0,30 pm.
+3p   23     Verklaar dit met behulp van een berekening.
+
+
+
+
+VW-1023-a-26-1-o                            17 / 19                            lees verder ►►►
+            Omdat de stralingsdosis over het te bestralen gebied constant moet zijn,
+            wil men dat de intensiteit van de bundel röntgenfotonen overal hetzelfde
+            is. Dit is bij de originele bundel niet het geval, zie figuur 7. Daarom
+            monteert men zogenaamde collimators en flattening filters in het
+            apparaat. Zie figuur 8.
+
+            figuur 7                                    figuur 8
+
+
+
+
+            Een collimator houdt alle fotonen in het            figuur 9
+            buitenste deel van de bundel tegen. Een
+            flattening filter moet in het middelste deel van
+            de bundel zoveel fotonen absorberen dat de
+            intensiteit daar overal even groot wordt.
+            Figuur 9 toont een voorbeeld van een
+            flattening filter dat voor dit doel ontworpen is.
+
+            Ontwerpers willen een kegelvormig flattening
+            filter ontwikkelen waarbij de intensiteit na het
+            filter overal 38% van de maximale intensiteit
+            in de originele bundel is. Ze nemen aan dat de gemiddelde fotonenergie
+            overal in de röntgenbundel gelijk is aan 2,0 MeV. Het filter wordt gemaakt
+            van ijzer.
+2p   24     Bereken de dikte die het flattening filter in het midden van de bundel moet
+            hebben.
+
+
+
+
+VW-1023-a-26-1-o                             18 / 19                          lees verder ►►►
+            In figuur 10 is te zien dat de intensiteit na plaatsing van het kegelvormige
+            filter toch niet over de hele bundel gelijk is. De aanname dat de
+            gemiddelde fotonenergie overal in de bundel hetzelfde is, is kennelijk niet
+            juist.
+
+            figuur 10
+
+
+
+
+            Op de uitwerkbijlage staat figuur 10 met daarboven een doorsnede van
+            het kegelvormige filter.
+3p   25     Voer de volgende opdrachten uit:
+             Leg uit of de gemiddelde fotonenergie in het midden van de bundel
+                groter of kleiner is dan die aan de randen.
+             Schets binnen het gestippelde kader op de uitwerkbijlage een vorm
+                van het flattening filter waarmee een meer homogene bundel ontstaat,
+                zonder extra verlies aan gemiddelde intensiteit.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1023-a-26-1-o                                         19 / 19                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,477 @@
+                                                                     Examen VWO
+
+                                                                          2023
+                                                                                  tijdvak 1
+                                                                           dinsdag 23 mei
+                                                                         13.30 - 16.30 uur
+
+                                                                        scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 25 vragen.
+Voor dit examen zijn maximaal 66 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald kunnen
+worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg, berekening
+of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee redenen,
+dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-23-1-o
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+
+      Biodiesel uit algen
+
+
+            In het project Algaeparc van Wageningen University & Research wordt
+            onderzoek gedaan naar de productie van biodiesel uit algenolie.
+            Algenolie is een mengsel van triglyceriden, dat in een aantal stappen in de
+            algen wordt gevormd:
+            – Door fotosynthese ontstaat eerst glucose, waarbij tevens zuurstof ontstaat.
+            – Glucose wordt vervolgens met een deel van deze zuurstof volledig omgezet
+                tot pyrodruivenzuur (C3H4O3) en water.
+            – Pyrodruivenzuur wordt ten slotte omgezet tot algenolie.
+
+            Uit het onderzoek bleek onder andere dat de algengroei wordt geremd door de
+            ontstane zuurstof. Bij een bepaalde algensoort neemt de vorming van algenolie
+            sterk af als het gehalte zuurstof, dat na de omzettingen is overgebleven in de
+            bioreactor, hoger is dan 44,2 g m–3.
+            De algen groeien in een buisvormige bioreactor die afgesloten is van de
+            buitenlucht.
+
+2p    1     Geef de reactievergelijking van de omzetting van glucose tot pyrodruivenzuur.
+4p    2     Bereken de massa in gram pyrodruivenzuur die maximaal per liter is ontstaan
+            als het gehalte zuurstof in de bioreactor 44,2 g m–3 bedraagt.
+            De molaire massa van pyrodruivenzuur bedraagt 88,1 g mol–1.
+
+            De onverzadigde vetzuren die in de triglyceriden van algenolie zijn gebonden,
+            hebben enkele structuurkenmerken gemeenschappelijk:
+            – De CH=CH-groepen hebben uitsluitend de cis-configuratie.
+            – In de koolwaterstofrest bevindt zich een herhalende atoomgroep die
+                vereenvoudigd kan worden weergegeven als –(CH=CH–CH2) –.
+            Een voorbeeld van een veelvoorkomend vetzuur in algenolie is linolzuur.
+            Linolzuur kan worden aangeduid met de verkorte notatie 18:2 ω-6.
+            Deze verkorte notatie geeft informatie over:
+            – het totaal aantal C-atomen: 18;
+            – het aantal C=C-bindingen: 2;
+            – het plaatsnummer van de eerste CH=CH-groep vanaf de CH3-groep.
+
+            Het vetzuur DHA in de algenolie heeft als verkorte notatie 22:6 ω-3.
+
+3p    3     Teken de structuurformule van DHA. Houd hierbij rekening met de
+            stereochemie.
+
+
+
+
+VW-1028-a-23-1-o                             2 / 11                                lees verder ►►►
+            Als er voldoende algen zijn gekweekt, wordt de algenolie uit het mengsel
+            geëxtraheerd. Biodiesel wordt verkregen door de reactie van algenolie met
+            methanol. Deze reactie is hieronder vereenvoudigd weergegeven met de juiste
+            coëfficiënten.
+
+            1 triglyceride + 3 methanol → glycerol + 3 vetzuur-methylesters
+               algenolie                                   biodiesel
+
+            Bij een proefproductie werd 500 g algenolie en voldoende methanol ingevoerd.
+            De gemiddelde molaire massa van algenolie was 884 g mol–1.
+            Op deze wijze werd 0,392 L biodiesel verkregen.
+            De dichtheid van de geproduceerde biodiesel is 0,874·103 kg m–3 met een
+            gemiddelde molaire massa van 296 g mol–1.
+
+5p    4     Bereken het rendement van de vorming van biodiesel.
+            Geef de uitkomst in het juiste aantal significante cijfers.
+
+            Op de uitwerkbijlage is het blokschema van de omzetting van algenolie tot
+            biodiesel onvolledig weergegeven.
+            Aan een reactor (R1) met daarin het enzym lipase worden de algenolie en een
+            ondermaat methanol toegevoegd.
+            In een scheidingsruimte (S1) wordt de ontstane glycerol gescheiden van de
+            overige stoffen.
+            De omzetting van de algenolie is na één reactor niet volledig. Door om en om
+            meerdere reactoren en scheidingsruimtes te plaatsen, wordt een zo hoog
+            mogelijke omzetting bereikt. De ondermaat methanol is zo gekozen dat de
+            hoeveelheid methanol na elke reactor te verwaarlozen is.
+
+            In het uiteindelijke proces werden 10 reactoren en scheidingsruimtes gebruikt.
+            In het blokschema is met één blok de herhaling van reactoren R2 t/m R9 en
+            scheidingsruimtes S2 t/m S9 aangegeven.
+            In R10 wordt een overmaat methanol toegevoegd zodat de algenolie volledig
+            wordt omgezet tot biodiesel. In S10 wordt ten slotte biodiesel afgescheiden van
+            het mengsel afkomstig uit R10.
+
+3p    5     Maak op de uitwerkbijlage het blokschema compleet.
+            – Teken R10 en S10.
+            – Teken de ontbrekende pijlen.
+            – Geef bij alle pijlen de ontbrekende stofstromen aan met de volgende
+               nummers:
+               1 algenolie
+               2 biodiesel
+               3 glycerol
+               4 methanol
+
+
+
+
+VW-1028-a-23-1-o                             3 / 11                            lees verder ►►►
+      Gerolsteiner®
+
+
+            Gerolsteiner® is een Duits merk koolzuurhoudend mineraalwater uit Gerolstein,
+            een kleine stad in de Eifel. In de ondergrond van Gerolstein bevindt zich het
+            gesteente dolomiet. Dolomiet reageert met opgelost koolstofdioxide dat
+            afkomstig is uit neerslag of uit dieper gelegen aardlagen.
+            In figuur 1 is schematisch weergegeven hoe koolzuurhoudende neerslag in
+            contact komt met dolomiet, waardoor Gerolsteiner® mineraalwater wordt
+            gevormd.
+
+            figuur 1
+
+                                                              neerslag + CO2
+                      neerslag + CO2
+
+
+                                                                          aard-
+                                                                          oppervlak
+
+
+                   dolomiet:                   bron        H2O + CO2
+                   Cax Mg(1-x) CO3
+                                                          He
+                                       Mg2
+                                              HCO3
+                                       Ca2
+                                              H2O
+                                        He
+                                                                          aard-
+                                        CO2
+                                                                          mantel
+
+
+
+            De waarde van x in de verhoudingsformule van dolomiet ligt tussen nul en een.
+
+3p    6     Geef met behulp van figuur 1 de vergelijking van de reactie van dolomiet met
+            opgelost koolstofdioxide.
+
+
+
+
+VW-1028-a-23-1-o                                     4 / 11                           lees verder ►►►
+            In het mineraalwater is ook een beetje helium opgelost. Het helium blijkt zowel
+            uit 3He als uit 4He te bestaan. De verhouding tussen de heliumisotopen hangt
+            af van de herkomst van het helium.
+            Dit gegeven hebben onderzoekers gebruikt om te bepalen of het opgeloste
+            CO2 in Gerolsteiner® mineraalwater uitsluitend afkomstig is uit neerslag of ook
+            uit dieper gelegen aardlagen.
+            4
+              He ontstaat door het radioactief verval van 238U. Bij dit radioactief verval
+            ontstaat nog één ander deeltje.
+
+2p    7     Geef het symbool en het aantal neutronen van dit deeltje.
+            Noteer je antwoord als volgt:
+            symbool: ...
+            aantal neutronen: ...
+
+            Na afscheiding van het helium van de overige gassen kan de verhouding
+             3
+                 He
+             4
+                    worden bepaald met behulp van een analysetechniek.
+                 He
+
+1p    8     Geef de analysetechniek die geschikt is voor het bepalen van de
+                           3
+                               He
+            verhouding 4          .
+                               He
+                                             3
+                                                 He
+            In neerslag komt de verhouding 4        overeen met het voorkomen in de natuur.
+                                                 He
+            In de dieper gelegen aardlagen is die verhouding hoger.
+            De onderzoekers hebben vastgesteld dat de concentratie 4He in Gerolsteiner®
+            overeenkomt met 4∙10–6 M.
+            De concentratie 3He in Gerolsteiner® is 3∙10–11 M.
+
+2p    9     Leg uit met behulp van een berekening of de gevonden concentraties erop
+            wijzen dat de opgeloste gassen in Gerolsteiner® uitsluitend afkomstig zijn uit
+            neerslag of ook uit dieper gelegen aardlagen.
+            Gebruik Binas-tabel 25A of ScienceData-tabel 1.11.
+
+            De oplosbaarheid van CO2 in water is 2,3 g L−1 (T = 283 K, p=p0).
+            CO2 is daarmee ruim 30 keer beter oplosbaar dan O2 onder dezelfde
+            omstandigheden. Dit wordt onder andere veroorzaakt door elektrostatische
+            interacties. Deze interacties treden op tussen moleculen CO2 en H2O maar niet
+            tussen moleculen O2 en H2O.
+
+3p    10    Voer de volgende opdrachten uit:
+            – Teken de lewisstructuren van CO2 en H2O. Geef hierbij de juiste
+               bindingshoeken weer.
+            – Geef partiële ladingen aan.
+            – Geef in de tekening met een stippellijn een elektrostatische interactie aan
+               tussen beide moleculen.
+
+
+VW-1028-a-23-1-o                                 5 / 11                          lees verder ►►►
+            De koolzuurhoudende variant van Gerolsteiner® mineraalwater heet
+            Gerolsteiner® Sprudel en is vergelijkbaar met SPA® Intense (ook wel bekend
+            als SPA® Rood).
+            In de tabel zijn enkele gegevens van Gerolsteiner® Sprudel en SPA® Intense
+            gegeven.
+
+            tabel
+
+                      gehalte in Gerolsteiner® Sprudel      gehalte in SPA® Intense
+                                  (mg L−1)                          (mg L−1)
+              HCO3−                 1816                               18
+              H2CO3                 8,3                                8,2
+
+            In koolzuurhoudend water stelt zich onder andere evenwicht 1 in.
+
+            H2CO3 (aq) + H2O (l)           H3O (aq) + HCO3 (aq)      (evenwicht 1)
+
+            De pH van Gerolsteiner® Sprudel is 5,95. De pH van SPA® Intense is 3,95.
+
+3p    11    Verklaar met behulp van de tabel dat de pH van Gerolsteiner® Sprudel hoger is
+            dan de pH van SPA® Intense. Gebruik hierbij de Kz van H2CO3.
+
+
+
+
+VW-1028-a-23-1-o                              6 / 11                           lees verder ►►►
+      Glyfosaat
+
+
+            Glyfosaat (H2Glyf) wordt wereldwijd op grote schaal gebruikt als
+            onkruidverdelgingsmiddel. In water komt glyfosaat vooral voor in de vorm van
+            Glyf 2− en HGlyf −.
+            De Kz van HGlyf − bedraagt 2,5∙10−6.
+
+4p    12    Bereken hoeveel procent van glyfosaat aanwezig is als HGlyf − bij
+            pH = 7,00. Neem aan dat alleen HGlyf − en Glyf 2− aanwezig zijn.
+
+            Het Glyf 2− blokkeert het enzym EPSPS in planten. Dit enzym speelt een
+            belangrijke rol bij de aanmaak van aromatische aminozuren. EPSPS
+            katalyseert de omzetting die is weergegeven in figuur 1.
+
+            figuur 1
+
+                       O       O                                                 O       O
+                           C                                                         C
+                                            O       CH2          enzym
+                                                                 EPSPS                           CH2
+                   O                        P       C        O               O
+                                        O       O        C                                       C        O
+                   P               OH       O                      X         P               O        C
+             O                                           O               O
+                   O       OH                                                O       OH               O
+                           S3P                  PEP                              EPSP
+
+
+            Bij deze omzetting ontstaat ook het deeltje X.
+
+1p    13    Geef de formule van het deeltje X.
+
+            In het mechanisme van de omzetting uit figuur 1 neemt een koolstofatoom in
+            het deeltje PEP eerst een H+-ion op. Het gevormde deeltje PEP-H+ heeft sterke
+            overeenkomsten met het deeltje Glyf 2− wat
+            betreft ladingsverdeling. De structuurformule              O
+                                                                           H      H O
+                      2−
+            van Glyf is hiernaast weergegeven.                      O
+                                                                       P     N        C
+                                                   +                     CH2      CH2   O
+            In de structuur van het deeltje PEP-H heeft                O
+            één C-atoom geen volledig oktet.                               Glyf 2
+
+2p    14    Teken een mogelijke structuurformule van PEP-H+.
+
+
+
+
+VW-1028-a-23-1-o                                        7 / 11                                       lees verder ►►►
+            De binding van glyfosaat aan EPSPS is onomkeerbaar, waardoor de aanmaak
+            van aromatische aminozuren geheel tot stilstand komt.
+            Onderzoekers hebben een bacterie ontdekt die glyfosaat-resistent is.
+            De resistentie wordt veroorzaakt door een mutatie in de genetische code voor
+            het enzym EPSPS. Het werkzame enzym dat in de bacterie aanwezig is, wordt
+            aangeduid als CP4. In CP4 is op positie 100 een alanine-eenheid aanwezig,
+            waar in EPSPS een glycine-eenheid aanwezig is.
+
+2p    15    Geef op de uitwerkbijlage de symbolen van het basenpaar waarin de
+            genetische code voor CP4 verschilt van EPSPS.
+            Gebruik Binas-tabel 71G of ScienceData-tabel 16.9.
+
+            Om de wereldvoedselopbrengst te verhogen zijn veel gewassen tegenwoordig
+            genetisch gemodificeerd, zodat met glyfosaat uitsluitend het onkruid wordt
+            bestreden. Per jaar wordt ruim 650.000 ton glyfosaat geproduceerd.
+            Het DEA-proces staat bekend als het meest ‘groene’ van de verschillende
+            productiemethoden.
+            Dit proces start met de omzetting van DEA met natronloog tot DSIDA.
+            Deze reactie is weergegeven in figuur 2. DSIDA is een zout dat bestaat uit
+            Na+-ionen en C4H5NO42–-ionen.
+
+            figuur 2
+
+                   H H    H H                           O     H      H    O
+            HO C C N C C OH             2 OH                C C N C C            4 H2
+                   H H H H H                            O     H H H       O
+                   DEA                                  negatief ion van DSIDA
+
+
+2p    16    Leg uit, aan de hand van formules uit figuur 2, of de omzetting van DEA tot
+            DSIDA een zuur-basereactie is of een redoxreactie.
+
+            In een fabriek wordt glyfosaat geproduceerd in batches. Per batch wordt
+            8,3∙103 kg DSIDA gevormd uit DEA.
+            De omzetting van DEA tot DSIDA heeft een rendement van 86,4%.
+
+4p    17    Bereken de massa in kilogram natriumhydroxide die moet worden gebruikt
+            per batch.
+
+
+
+
+VW-1028-a-23-1-o                               8 / 11                             lees verder ►►►
+      Lithium-luchtbatterij
+
+
+            Om in een batterij zoveel mogelijk lading op te slaan in zo weinig mogelijk
+            massa, worden batterijen ontworpen waarin zuurstof uit de lucht als
+            oxidator optreedt. In zo’n batterij is dan alleen de reductor opgeslagen.
+            De eigenschappen van de reductor bepalen dan in hoge mate de
+            ladingsdichtheid. Ladingsdichtheid is gedefinieerd als de hoeveelheid
+            lading per massa-eenheid. De aluminium-luchtbatterij is bijvoorbeeld al
+            verkrijgbaar en veel onderzoek wordt verricht aan de lithium-luchtbatterij.
+
+2p    18    Leid met behulp van een berekening af welke van deze twee batterijen de
+            hoogste ladingsdichtheid heeft.
+
+            In figuur 1 is een lithium-luchtbatterij           figuur 1
+            schematisch weergegeven.
+            In deze opgave worden eerst de
+                                                                             Li                O2
+            elektroden en dan het membraan                     behuizing
+            besproken.
+
+                                                                  membraan        poreuze elektrode
+            I de elektroden
+            Op het grensvlak van het lithium en het membraan verloopt bij stroomlevering
+            halfreactie 1.
+
+            Li → Li+ + e–                                                         (halfreactie 1)
+
+2p    19    Leg uit of de lithiumelektrode bij stroomlevering de positieve of de negatieve
+            elektrode is.
+
+            Een onderzoeksgroep heeft voor de poreuze elektrode een elektrode-materiaal
+            ontwikkeld op basis van een polymeer. In het materiaal zijn katalysatordeeltjes
+            aanwezig, die de omzetting van zuurstof katalyseren.
+            Bij deze omzetting wordt onder andere het O2–-ion gevormd.
+            Dit ion is erg reactief en tast organische oplosmiddelen en membranen aan.
+            Een van beide atomen in het O2–-ion voldoet niet aan de oktetregel.
+
+2p    20    Voer de volgende opdrachten uit:
+            – Teken een grensstructuur van het O2–-ion. Geef hierbij (de) formele
+               lading(en) aan.
+            – Leg uit waarom het O2–-ion zo reactief is.
+
+
+
+
+VW-1028-a-23-1-o                                9 / 11                               lees verder ►►►
+            De katalysator die door de onderzoeksgroep werd gebruikt, is erg duur en door
+            de vele bijreacties raakte het elektrodemateriaal snel beschadigd.
+            Een andere onderzoeksgroep heeft een elektrodemateriaal ontwikkeld op basis
+            van een eiwit. Dit materiaal bleek de genoemde nadelen minder te vertonen.
+            De eerste stappen in de productie van dit materiaal waren globaal als volgt:
+            – Het DNA van een virus wordt gemodificeerd.
+            – Het virus produceert een eiwit.
+            – Aan een oplossing van dit eiwit wordt in licht basisch milieu een oplossing
+                met daarin Mn2+-ionen toegevoegd.
+            De Mn2+-ionen binden aan de peptideketens door middel van ion-bindingen.
+            De onderzoekers hebben de genetische code voor het eiwit veranderd met als
+            doel dat de peptideketens meer Mn2+-ionen konden binden.
+            Hieronder zijn met behulp van de 1-lettersymbolen van aminozuren de
+            volgordes weergegeven van de aminozuureenheden in een deel van het
+            oorspronkelijke eiwit en in een deel van het genetisch gemodificeerde eiwit.
+
+            peptideketen A    ~ADVYESALPDPAKAAFN~
+            peptideketen B    ~ADVYESALPDPAEAAFE~
+
+3p    21    Leg uit welke peptideketen bij hogere pH het meest Mn2+-ionen kan binden:
+            peptideketen A of peptideketen B.
+
+            II het membraan
+            Het membraan in de lithium-luchtbatterij is een composiet die     CH2 CH3
+            bestaat uit een polymeer en een zogeheten ionische vloeistof.     N
+            Een ionische vloeistof is een zout dat bij kamertemperatuur
+            vloeibaar is. Hiernaast is een van de aanwezige ionen van het         N
+                                                                                      CH3
+            gebruikte zout weergegeven. De lading van het ion is hierbij
+            weggelaten.
+
+2p    22    Leid af wat de lading is van dit ion.
+
+
+
+
+VW-1028-a-23-1-o                               10 / 11                        lees verder ►►►
+             Als polymeer voor het membraan gebruikten de onderzoekers het copolymeer
+             PVDF-HFP. Dit copolymeer is door polyadditie ontstaan uit 1,1-difluoretheen en
+             hexafluorpropeen.
+
+3p    23     Teken de structuurformule van een gedeelte van een molecuul PVDF-HFP.
+             Dit gedeelte moet komen uit het midden van het molecuul en moet bestaan uit
+             één eenheid van beide monomeren.
+
+             Het lithium in de batterij mag niet in contact komen met lucht of water.
+             Het membraan moet daarom heel precies in vorm worden gebracht.
+             Een materiaal kan op twee manieren in vorm worden gebracht:
+             1 door het te smelten, waarna het in een mal kan worden gespoten;
+             2 door bewerkingen, zoals snijden en slijpen.
+
+2p    24     Leg uit of het copolymeer PVDF-HFP in de juiste vorm kan worden gebracht
+             door het materiaal te smelten, waarna het in een mal kan worden gespoten.
+
+             De totaalvergelijking van de omzettingen die verlopen in de lithium-luchtbatterij
+             is hieronder weergegeven.
+
+             2 Li + O2 → Li2O2
+
+             Omdat de lithium-luchtbatterij oplaadbaar is, kan deze batterij worden gebruikt
+             in bijvoorbeeld een auto. Het nuttig rendement bij de omzetting van chemische
+             energie naar bewegingsenergie is hierbij 70%. De rest van de energie gaat
+             verloren aan warmteontwikkeling en wrijving. De onderzoekers hebben een
+             lithium-luchtbatterij gemaakt die 45 g lithium bevatte. De vormingswarmte van
+             Li2O2 is –6,43∙105 J mol–1.
+
+4p    25     Bereken de maximale nuttige energie in joule die door deze lithium-luchtbatterij
+             kan worden geleverd.
+             Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende
+correctievoorschrift.
+
+
+VW-1028-a-23-1-o                                              11 / 11                                                       einde ■
+

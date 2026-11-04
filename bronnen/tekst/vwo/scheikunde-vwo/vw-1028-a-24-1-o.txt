@@ -1,0 +1,454 @@
+                                                                    Examen VWO
+
+                                                                        2024
+                                                                               tijdvak 1
+                                                                        dinsdag 21 mei
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+ Dit examen bestaat uit 23 vragen.
+ Voor dit examen zijn maximaal 64 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-24-1-o
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+
+      DME uit koolstofdioxide
+
+            De stof methoxymethaan (DME, zie de figuur) staat      figuur
+            in de belangstelling als brandstof. DME kan namelijk
+            worden gemaakt op basis van uitsluitend
+            koolstofdioxide en waterstof.
+            In een onderzoek is een voorstel voor een productieproces onderzocht.
+            Dit proces is opgebouwd uit twee opeenvolgende reacties, die hieronder
+            zijn weergegeven.
+
+            CO2 (g) + 3 H2 (g)  CH3OH (g) + H2O (g)                 (reactie 1)
+            2 CH3OH (g)  CH3–O–CH3 (g) + H2O (g)                    (reactie 2)
+
+            De vormingswarmte van DME bedraagt –1,84∙105 J mol–1.
+
+4p    1     Voer de volgende opdrachten uit:
+             Geef de totaalvergelijking van de vorming van DME uit CO2 en H2.
+             Bereken de reactiewarmte van deze vorming van DME per mol DME.
+
+            Op de uitwerkbijlage bij vraag 4 staat een onvolledig blokschema van de
+            productie van DME volgens het ontwerp van de onderzoekers.
+            In reactor 1 (R1) treedt reactie 1 op. In scheidingsruimte 1 (S1) wordt de
+            stofstroom gescheiden die afkomstig is uit R1. Water met de bijproducten
+            verlaat S1 aan de onderzijde.
+            Het methanol dat in R1 is gevormd, wordt doorgevoerd naar reactor 2
+            (R2). In R2 treedt reactie 2 op.
+            Zowel in R1 als in R2 heerst een hoge temperatuur. Hierdoor is in beide
+            reactoren de reactiesnelheid hoog. Ook zijn hierdoor de insteltijden van
+            de evenwichten kort.
+            De druk in beide reactoren is niet gelijk. In R1 moet de druk hoog worden
+            gehouden voor een zo hoog mogelijk rendement.
+
+3p    2     Voer de volgende opdrachten uit:
+             Geef de evenwichtsvoorwaarde van reactie 1.
+             Leg uit dat in R1 de druk hoog moet worden gehouden voor een zo
+               hoog mogelijk rendement.
+
+
+
+
+VW-1028-a-24-1-o                            2 / 11                            lees verder ►►►
+            Het mengsel dat afkomstig is uit R2 wordt in scheidingsruimte 2 (S2)
+            gedestilleerd om het DME te scheiden van de rest van het mengsel.
+            Het mengsel wordt in S2 gescheiden in drie fracties: DME, methanol en
+            water.
+
+2p    3     Leg uit dat DME het laagste kookpunt heeft van deze drie stoffen.
+            Gebruik hierbij begrippen op microniveau.
+
+3p    4     Maak het blokschema op de uitwerkbijlage compleet.
+             Teken ontbrekende pijlen en noteer ontbrekende stoffen bij alle pijlen.
+              Houd hierbij rekening met hergebruik van stoffen.
+             Neem aan dat in R2 geen bijproducten ontstaan.
+             Stoffen met een laag kookpunt komen in S2 hoger uit de
+              destillatiekolom dan stoffen met een hoog kookpunt.
+              Gebruik Binas-tabel 42 of ScienceData-tabel 8.3.
+
+            In een ander onderzoek is DME bereid volgens reactie 3.
+
+            CO + 5 H2 + CO2  CH3–O–CH3 + 2 H2O                        (reactie 3)
+
+            De beginstoffen worden gemengd volgens de verhoudingen die zijn
+            weergegeven in reactie 3. In verschillende experimenten tijdens dit
+            onderzoek lag het rendement tussen 51% en 63%.
+
+3p    5     Voer de volgende opdrachten uit:
+             Bereken de E-factor van reactie 3 bij een rendement van 63%.
+               Beschouw water hierbij als afval.
+             Leg uit of deze E-factor de minimale of de maximale waarde was in dit
+               onderzoek.
+
+
+
+
+VW-1028-a-24-1-o                             3 / 11                             lees verder ►►►
+      Battolyser
+
+            Onderzoekers van de TU Delft hebben de battolyser ontwikkeld.
+            De battolyser ontleent zijn naam aan twee functies: het is een oplaadbare
+            batterij die kan worden gebruikt voor energieopslag en voor de elektrolyse
+            van water. De vrijgekomen waterstof kan worden gebruikt als brandstof of
+            als grondstof voor de productie van andere (brand)stoffen. In figuur 1 is
+            de battolyser schematisch weergegeven voorafgaand aan het opladen.
+
+            figuur 1
+
+
+
+
+            Als de batterij wordt opgeladen, wordt aan de linker elektrode
+            ijzer(II)hydroxide omgezet tot onder andere ijzer.
+            Aan de rechter elektrode wordt nikkel(II)hydroxide omgezet tot onder
+            andere de vaste stof nikkel(III)oxidehydroxide, NiO(OH).
+            De elektrolyt-oplossing is natronloog. Tijdens de elektrolyse bewegen
+            alleen hydroxide-ionen door het membraan.
+
+3p    6     Geef de vergelijkingen van de halfreacties die verlopen tijdens het
+            opladen en geef de totaalvergelijking.
+2p    7     Leg uit in welke richting de hydroxide-ionen het membraan passeren
+            tijdens het opladen.
+
+            In een volledig opgeladen prototype van de battolyser werd 1,4 kg water
+            gedurende 18 maanden geëlektrolyseerd.
+            Per molecuul water dat wordt omgezet, worden twee elektronen
+            getransporteerd. Neem aan dat tijdens dit proces alle toegevoerde lading
+            is gebruikt voor de elektrolyse van water.
+
+3p    8     Bereken de lading in coulomb die in die periode gemiddeld per seconde is
+            getransporteerd.
+            Gebruik onder andere de volgende gegevens:
+             Een mol elektronen heeft een lading van 9,65·104 C.
+             Een maand heeft gemiddeld 30 dagen.
+
+
+
+
+VW-1028-a-24-1-o                            4 / 11                           lees verder ►►►
+            De reactiesnelheid van deze elektrolyse van water bleek vooral te worden
+            bepaald door de halfreactie die aan de rechter elektrode verloopt.
+            Het bleek dat de reactiesnelheid veranderde als in het NiO(OH)-laagje op
+            de rechter elektrode ook FeO(OH) aanwezig was. In het onderzoek is de
+            activeringsenergie van de reactie bepaald, afhankelijk van het
+            massapercentage FeO(OH) in het laagje.
+            In figuur 2 zijn de resultaten te zien van enkele experimenten.
+
+            figuur 2
+
+
+
+
+2p    9     Leg uit bij welke waarde van het massapercentage FeO(OH) de
+            reactiesnelheid het hoogst is.
+
+            Er zijn momenteel auto’s verkrijgbaar die waterstof gebruiken als
+            energiebron. Een van deze auto’s heeft een tank met daarin maximaal
+            6,33 kg waterstof onder hoge druk. Onderzocht wordt of het mogelijk is
+            om de risico’s van het gebruik van waterstof te verminderen door de
+            waterstof eerst om te zetten tot methaanzuur. Methaanzuur is een
+            vloeistof die eenvoudig kan worden getankt en vervoerd.
+            In een auto wordt het methaanzuur dan in een reactor omgezet tot
+            waterstof volgens reactie 1.
+
+            CH2O2  CO2 + H2                           (reactie 1)
+
+            De ontstane waterstof wordt vervolgens in een brandstofcel geleid om
+            elektrische energie op te wekken.
+            Reactie 1 heeft een rendement van 90,0%. De dichtheid van methaanzuur
+            is 1,22103 kg m–3.
+
+5p   10     Bereken het volume in liter methaanzuur dat nodig is om 6,33 kg waterstof
+            te produceren.
+            Geef je antwoord in het juiste aantal significante cijfers.
+
+
+
+
+VW-1028-a-24-1-o                           5 / 11                           lees verder ►►►
+      Microbolletjes
+
+            Sommige geneesmiddelen worden ingekapseld in microbolletjes van
+            0,1 tot 30 µm grootte. In figuur 1 is zo’n microbolletje vereenvoudigd
+            weergegeven. De buitenkant van dit microbolletje bestaat uit fosfolipiden.
+            In dit microbolletje bevindt zich het geneesmiddel, ingekapseld in een
+            specifiek polymeer.
+
+            figuur 1
+
+
+
+
+            In het lichaam worden de fosfolipiden opgenomen. Daarna wordt het
+            polymeer langzaam afgebroken, zodat het geneesmiddel geleidelijk
+            vrijkomt. In figuur 2 is het copolymeer PLGA weergegeven. Dit is een van
+            de weinige synthetische polymeren die zijn goedgekeurd voor deze
+            toepassing. De monomeren van PLGA zijn melkzuur en glycolzuur. Dat
+            zijn lichaamseigen stoffen die door het lichaam kunnen worden afgevoerd.
+
+            figuur 2
+
+
+
+
+3p   11     Maak op de uitwerkbijlage de vergelijking van de volledige hydrolyse van
+            PLGA compleet met de ontbrekende stoffen en coëfficiënten.
+            Gebruik structuurformules voor de koolstofverbindingen.
+
+            Een gangbare methode om een geneesmiddel op te sluiten in PLGA
+            verloopt in twee stappen:
+            stap 1 Het PLGA en het geneesmiddel worden samen opgelost in een
+                   geschikt organisch oplosmiddel.
+            stap 2 Onder hevig roeren wordt de oplossing geïnjecteerd in warm
+                   water.
+
+
+
+VW-1028-a-24-1-o                            6 / 11                           lees verder ►►►
+            In stap 2 ontstaat een suspensie van PLGA met daarin ingekapseld het
+            geneesmiddel (PLGA-geneesmiddel). Het organisch oplosmiddel lost
+            hierbij eerst in het water op, waarna het oplosmiddel snel verdampt en
+            kan worden hergebruikt. Het gehele proces is schematisch weergegeven
+            in figuur 3.
+
+            figuur 3
+
+
+
+
+            In stap 2 wordt het PLGA-geneesmiddel gescheiden van het organisch
+            oplosmiddel en het oplosmiddel wordt gescheiden van water.
+            Deze processen kunnen worden opgevat als scheidingsmethoden.
+
+2p   12     Geef de namen van deze twee scheidingsmethoden.
+
+            De ‘encapsulation efficiency’ (EE) is een belangrijk criterium voor de
+            bruikbaarheid van deze methode om een geneesmiddel in PLGA in te
+            kapselen. De EE wordt uitgedrukt als het percentage van het gebruikte
+            geneesmiddel dat uiteindelijk in het PLGA-geneesmiddel aanwezig is.
+            De EE hangt af van de oplosbaarheid in water van zowel het
+            geneesmiddel als het organisch oplosmiddel in stap 2.
+
+2p   13     Leg uit of de EE relatief hoog of relatief laag is als een geneesmiddel
+            wordt gebruikt met een hoge wateroplosbaarheid.
+            Neem aan dat het gebruikte oplosmiddel niet verandert.
+
+            Als oplosmiddel zijn dichloormethaan en tetrachloormethaan met elkaar
+            vergeleken. De oplosbaarheid van deze stoffen in water verschilt.
+            Dit heeft onder andere te maken met het gegeven dat de
+            C–Cl-binding een polaire atoombinding is.
+
+3p   14     Leg uit, aan de hand van de microstructuur van beide oplosmiddelen, welk
+            van de twee oplosmiddelen het best in water kan oplossen. Gebruik
+            hierbij begrippen op microniveau.
+
+
+
+
+VW-1028-a-24-1-o                            7 / 11                             lees verder ►►►
+            In 2005 heeft een onderzoeksgroep een verbeterde methode gevonden
+            voor het inkapselen van hydrofiele geneesmiddelen in microbolletjes. Bij
+            deze methode wordt ammoniak aan de waterfase toegevoegd. Als
+            organisch oplosmiddel wordt DCEM (zie figuur 4) gebruikt.
+
+            figuur 4
+
+
+
+
+            DCEM is niet goed oplosbaar in water. In contact met een verdunde
+            ammoniak-oplossing ondergaat DCEM echter een zogenaamde
+            ammonolyse. Ammonolyse is vergelijkbaar met hydrolyse.
+            Het mechanisme van deze ammonolyse is in figuur 5 onvolledig
+            weergegeven. In de eerste stap van het mechanisme wordt uitsluitend
+            deeltje X gevormd, dat daarna snel uiteenvalt.
+
+            figuur 5
+
+
+
+
+3p   15     Teken de lewisstructuur van deeltje X. Geef hierbij (de) formele lading(en)
+            aan.
+
+              Veel geneesmiddelen zijn zwakke basen       figuur 6
+              of zwakke zuren. De oplosbaarheid in
+              water van deze stoffen hangt daarom
+              onder andere af van de pH. In figuur 6 is
+              de structuurformule van een
+              geneesmiddel weergegeven. Deze stof is
+              een zwakke base.
+
+
+2p   16     Leg uit of bij lagere pH de oplosbaarheid in water van deze stof hoger of
+            lager is.
+
+
+
+
+VW-1028-a-24-1-o                            8 / 11                           lees verder ►►►
+      Creatine
+
+            Creatine speelt een belangrijke rol in de energiehuishouding van de
+            spieren en de hersenen. In de biosynthese van creatine wordt onder
+            invloed van het enzym AGAT eerst de stof glycocyamine (zie figuur 1)
+            gevormd uit de aminozuren glycine en arginine.
+
+            figuur 1
+
+
+
+
+            Bij de vorming van glycocyamine wordt het stikstofatoom van glycine aan
+            een van de koolstofatomen in de restgroep van arginine gekoppeld.
+            Hierbij ontstaat ook ornithine.
+            Ornithine is een aminozuur dat niet is vermeld in het informatieboek.
+
+2p   17     Teken de structuurformule van ornithine.
+
+            De glycocyamine wordt vervolgens omgezet tot creatine (zie figuur 2)
+            onder invloed van het enzym GAMT.
+
+            figuur 2
+
+
+
+
+            Op de uitwerkbijlage is weergegeven hoe een glycocyamine-deeltje in het
+            actieve centrum van GAMT is gebonden. Bij de heersende pH hebben alle
+            aanwezige carboxylgroepen een H+ afgestaan.
+            Tussen dit glycocyamine-deeltje en GAMT bestaan elektrostatische
+            interacties. Door deze interacties (bindingstypen) heeft het glycocyamine-
+            deeltje een bepaalde ruimtelijke oriëntatie, waardoor de omzetting tot
+            creatine mogelijk wordt.
+            Neem aan dat vanderwaalsbindingen geen rol spelen in de oriëntatie van
+            het glycocyamine-deeltje.
+
+2p   18     Geef op de uitwerkbijlage met stippellijntjes twee
+            interacties/bindingstypen aan tussen het glycocyamine-deeltje en GAMT.
+             Nummer beide interacties.
+             Noteer in de tabel de naam van elke interactie.
+
+
+
+VW-1028-a-24-1-o                           9 / 11                            lees verder ►►►
+            Bij de omzetting van glycocyamine tot creatine wordt een methylgroep
+            overgedragen van een deeltje SAM naar het deeltje glycocyamine.
+            Op de uitwerkbijlage is het mechanisme van de omzetting van
+            glycocyamine tot creatine onvolledig weergegeven. Het deeltje SAM is
+            hierbij vereenvoudigd weergegeven.
+
+2p   19     Voer de volgende opdrachten uit:
+             Teken in het omkaderde gedeelte de niet-bindende elektronenparen,
+               waarbij alle atomen voldoen aan de oktetregel.
+             Geef met pijlen weer hoe elektronenparen worden verplaatst tijdens
+               deze omzetting.
+
+            Creatine bevindt zich in spieren en de hersenen, om deze snel van
+            energie te kunnen voorzien. Een gezonde man heeft in zijn lichaam
+            gemiddeld een voorraad van 1,7 g creatine per kg lichaamsgewicht.
+            Van deze voorraad wordt gemiddeld 1,9 massaprocent per dag
+            uitgescheiden. Uit metingen is gebleken dat per dag 20 massaprocent van
+            de uitgescheiden creatine rechtstreeks wordt opgenomen uit voeding.
+            De rest wordt door het lichaam aangemaakt uit glycine en arginine (zie
+            ook figuur 4).
+
+5p   20     Bereken de massa in gram glycine die een gezonde man van 70 kg
+            dagelijks moet omzetten om de hoeveelheid creatine op peil te houden.
+            Geef je antwoord in het juiste aantal significante cijfers.
+
+            De aanmaak van creatine kan verstoord zijn doordat het enzym AGAT of
+            het enzym GAMT niet functioneert of zelfs niet aanwezig is in het lichaam.
+            Deze zeldzame erfelijke stofwisselingsziektes zijn bekend als AGAT-
+            deficiëntie en GAMT-deficiëntie.
+            Een bepaalde GAMT-deficiëntie wordt veroorzaakt doordat het enzym een
+            afwijkende vorm heeft. In de peptideketen van deze GAMT* is op
+            positie 44 een leucine-eenheid aanwezig waar in gezonde GAMT een
+            arginine-eenheid aanwezig is. Op het afwijkend DNA wijkt hierbij maar
+            één basenpaar af van gezond DNA.
+            De code voor de eerste aminozuur-eenheid van GAMT begint bij het
+            basenpaar met nummer 1.
+
+3p   21     Geef op de uitwerkbijlage de symbolen van het basenpaar waarin de
+            genetische code voor gezonde GAMT verschilt van de code voor GAMT*
+            en geef het nummer van het afwijkende basenpaar.
+            Gebruik Binas-tabel 71G of ScienceData-tabel 16.9.
+
+            Door de gehaltes van glycocyamine en creatine te onderzoeken, kan
+            worden onderzocht of er sprake is van een van beide ziektes.
+            Bij de bepaling van het gehalte creatine wordt soms gebruikgemaakt van
+            chromatografie. In een onderzoek is van een mengsel van bekende
+            stoffen een chromatogram gemaakt. De stationaire fase was hierbij
+            apolair. Dit chromatogram is in figuur 3 weergegeven.
+
+
+
+VW-1028-a-24-1-o                           10 / 11                           lees verder ►►►
+            figuur 3
+
+
+
+
+            In figuur 3 zijn met pijlen twee pieken aangegeven. Een van beide pieken
+            is afkomstig van creatine en de andere van asparaginezuur.
+            Van deze stoffen is in een ander experiment de verdelingscoëfficiënt Kv
+            bepaald in een tweelagen-systeem van water en de hydrofobe vloeistof
+            octaan-1-ol. De Kv is een maat voor de polariteit van een stof. Deze
+            verdelingscoëfficiënt kan worden berekend met formule 1:
+                  stof octaan-1-ol
+             Kv =                       (formule 1)
+                    stof water
+            De waarde van de Kv van creatine is 6,3∙10–1 en die van asparaginezuur
+            is 1,3∙10–4.
+
+3p   22     Leg uit welke van de twee aangegeven pieken uit figuur 3 hoort bij
+            creatine. Gebruik in je uitleg formule 1.
+
+            In figuur 4 is de aanmaak van creatine vereenvoudigd samengevat.
+
+            figuur 4
+
+
+
+
+            Op de uitwerkbijlage staan twee zinnen over de gehaltes van
+            glycocyamine en creatine bij AGAT-deficiëntie en bij GAMT-deficiëntie.
+
+2p   23     Omcirkel in de zinnen op de uitwerkbijlage steeds de juiste
+            mogelijkheden. Neem hierbij aan dat er geen andere processen invloed
+            hebben op deze gehaltes.
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1028-a-24-1-o                                         11 / 11                                          lees verdereinde
+                                                                                                                       ►►► 
+

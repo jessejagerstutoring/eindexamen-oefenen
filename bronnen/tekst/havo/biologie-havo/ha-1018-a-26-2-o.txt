@@ -1,0 +1,844 @@
+                                                                Examen HAVO
+
+                                                                      2026
+                                                                            tijdvak 2
+                                                                     dinsdag 23 juni
+                                                                   13:30 - 16.30 uur
+
+
+
+                                                                         biologie
+
+
+
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+
+
+
+Dit examen bestaat uit 46 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een open vraag een verklaring, uitleg of berekening gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1018-a-26-2-o
+            Tenzij anders vermeld, is er sprake van normale situaties en gezonde
+            organismen.
+
+      Schrik voor een prik
+
+            Sinds 2020 krijgen mensen die ouder zijn dan zestig jaar een uitnodiging
+            voor een vaccinatie tegen pneumokokkenziekte. Mevrouw Hertogs komt
+            naar het vaccinatiespreekuur, waar doktersassistente Vicky de prikken
+            zet.
+
+            Pneumokokkenziekte wordt veroorzaakt door de
+            pneumokokbacterie (Streptococcus pneumoniae,
+            zie afbeelding). Veel kinderen en volwassenen
+            hebben pneumokokbacteriën in het slijmvlies van
+            hun neusholte. Zolang mensen gezond zijn,
+            hebben ze geen voordeel of nadeel van deze
+            bacteriën. Ze kunnen de bacteriën wel
+            verspreiden door hoesten of niezen.
+            Bij ouderen met een verminderde afweer kan de
+            pneumokokbacterie de dekweefselcellen van de luchtwegen passeren. De
+            bacterie komt dan in het inwendig milieu terecht, waar die een ernstige
+            longontsteking kan veroorzaken.
+
+            In de neusholte bevinden zich een fysische en een (bio)chemische
+            barrière van de aangeboren afweer tegen het binnendringen van de
+            pneumokokbacterie.
+2p    1     Welke fysische barrière is dit? En welke (bio)chemische barrière? Gebruik
+            je informatieboek.
+                   fysische barrière   (bio)chemische barrière
+            A      hoornlaag           lage pH
+            B      hoornlaag           lysozymen
+            C      trilhaarepitheel    lage pH
+            D      trilhaarepitheel    lysozymen
+
+            Tussen de mens en de pneumokokbacterie is sprake van symbiose. In het
+            neusslijmvlies is de symbiose anders dan in het inwendig milieu.
+2p    2     Welke vorm van symbiose is het meest passend bij de symbiose die
+            optreedt in het neusslijmvlies? En welke bij die in het inwendig milieu?
+                   neusslijmvlies      inwendig milieu
+            A      commensalisme       mutualisme
+            B      commensalisme       parasitisme
+            C      mutualisme          commensalisme
+            D      mutualisme          parasitisme
+            E      parasitisme         commensalisme
+            F      parasitisme         mutualisme
+
+
+HA-1018-a-26-2-o                             2 / 20                         lees
+                                                                             leesverder
+                                                                                  verder►►►
+                                                                                         ►►►
+            Vicky vertelt aan mevrouw Hertogs dat bij gezonde mensen de kans klein
+            is dat de pneumokokbacterie het inwendig milieu bereikt. Bij iemand die
+            een virusinfectie heeft in de luchtwegen is die kans groter.
+1p    3     Verklaar op celniveau waardoor zo’n virusinfectie de kans op
+            binnendringen van de pneumokokbacterie vergroot.
+
+            De diffusiesnelheid V van zuurstof vanuit de longblaasjes naar het bloed,
+            kan worden bepaald met de volgende formule:
+                                            D is de diffusieconstante.
+                   D  A  c2  c1        A is de oppervlakte van de longblaasjes.
+             V                             (c2 – c1) is het verschil in zuurstofconcentratie
+                          x
+                                             tussen bloed en lucht in de longblaasjes.
+                                            x is de diffusieafstand.
+            In het inwendig milieu van de longen kunnen pneumokokbacteriën een
+            longontsteking veroorzaken. Bij een longontsteking komt er meer vocht
+            met witte bloedcellen in de longblaasjes. Hierdoor verandert de
+            diffusiesnelheid van zuurstof vanuit de longblaasjes naar de
+            longhaarvaten.
+            Een factor in de formule wordt groter.
+2p    4     Welke factor wordt groter door de slijmvorming? En hoe verandert dat de
+            diffusiesnelheid?
+                   factor die groter wordt       diffusiesnelheid wordt
+            A      A                             groter
+            B      A                             kleiner
+            C      (c2 – c1)                     groter
+            D      (c2 – c1)                     kleiner
+            E      x                             groter
+            F      x                             kleiner
+
+            Wanneer mevrouw Hertogs de naald ziet, raakt ze gestrest. Ze gaat
+            hyperventileren: door activiteit van haar ademcentrum neemt haar
+            ademhalingsfrequentie toe.
+1p    5     Waar bevindt zich het ademcentrum?
+            A in de hersenstam
+            B in de grote hersenen
+            C in de kleine hersenen
+
+
+
+
+HA-1018-a-26-2-o                                 3 / 20                              lees
+                                                                                      leesverder
+                                                                                           verder►►►
+                                                                                                  ►►►
+            Voor mensen met prikangst heeft Vicky een
+            speciale app op haar smartphone. Ze laat
+            mevrouw Hertogs via deze app een
+            spelletje spelen. In het spelletje krijgt
+            mevrouw Hertogs opdrachten die ervoor
+            zorgen dat ze meer ontspant. Hierdoor
+            stopt het hyperventileren.
+            Tijdens het spelen monitort de app
+            stressreacties in het gezicht, zoals
+            transpiratie, pupilgrootte, het bleek of rood
+            worden van de huid en de
+            hartslagfrequentie.
+
+            Hieronder staan uitspraken over stressreacties.
+            1 De pupil wordt groter onder invloed van het orthosympathisch deel van
+                het autonoom zenuwstelsel.
+            2 Door transpiratie neemt de lichaamstemperatuur toe.
+            3 Adrenaline stimuleert de hartslagfrequentie.
+2p    6     Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Het bleek worden is het gevolg van het samentrekken van spiertjes van
+            bepaalde bloedvaten in het gezicht.
+1p    7     In welk type bloedvaten trekken spiertjes samen?
+            A in adertjes
+            B in haarvaten
+            C in slagadertjes
+
+            Wanneer mevrouw Hertogs ontspannen is, kan Vicky haar vaccineren.
+            Het vaccin biedt een aantal jaren bescherming tegen de
+            pneumokokkenziekte.
+1p    8     Wat zit er in het vaccin?
+            A antigenen van de pneumokokbacterie
+            B antistoffen tegen de pneumokokbacterie
+            C cytotoxische T-cellen
+            D geheugencellen
+            E plasmacellen
+
+
+
+
+HA-1018-a-26-2-o                             4 / 20                        lees
+                                                                            leesverder
+                                                                                 verder►►►
+                                                                                        ►►►
+      Bon biní na Boneiru (Welkom op Bonaire)
+
+            Destiny is gids op Bonaire, een van de eilanden van Caribisch Nederland.
+            Ze gaat met toeristen kajakken in Lac Cai.
+
+            Lac Cai (afbeelding 1) is een beschermd natuurgebied met zeegrasvelden
+            en mangrovebos. Er groeit veel rode mangrove (Rhizophora mangle,
+            afbeelding 2). Deze boomsoort heeft roodbruine wortels die uit de stam
+            groeien.
+            De bomen staan in ondiep, zout water. Op de bodem bevindt zich een
+            grote hoeveelheid afgevallen dode bladeren tussen de wortels. Dit
+            bladafval leidt ertoe dat de bodem er zuurstofarm is.
+
+            afbeelding 1                   afbeelding 2
+
+
+
+
+1p    9     Verklaar hoe de grote hoeveelheid bladafval op de bodem leidt tot
+            zuurstofarme omstandigheden.
+
+            Destiny laat zien dat de zwarte mangrove (Avicennia germinans) speciale
+            ademwortels heeft die net boven het wateroppervlak uitsteken. Ze vertelt
+            dat via gaatjes in deze ademwortels zuurstof wordt opgenomen en wordt
+            getransporteerd naar de weefsels in de wortels. Daar wordt de zuurstof
+            verbruikt.
+1p    10    Wanneer vindt zuurstofverbruik in de wortels plaats?
+            A alleen overdag
+            B alleen ’s nachts
+            C zowel overdag als ’s nachts
+
+
+
+
+HA-1018-a-26-2-o                           5 / 20                           lees
+                                                                             leesverder
+                                                                                  verder►►►
+                                                                                         ►►►
+            Destiny plukt bladeren van de zwarte mangrove en laat de toeristen eraan
+            likken. Die bladeren smaken heel zout. Dit komt doordat de bladeren
+            speciale klieren hebben om zout uit te scheiden. Hiermee reguleert de
+            zwarte mangrove de osmotische waarde van de cellen van de bladeren.
+2p    11    Wordt de osmotische waarde van de bladcellen hoger of lager door de
+            uitscheiding van zouten? En via welke vorm van transport worden zout-
+            ionen uitgescheiden?
+                   osmotische waarde cellen wordt       uitscheiding via
+            A      hoger                                actief transport
+            B      hoger                                diffusie
+            C      hoger                                osmose
+            D      lager                                actief transport
+            E      lager                                diffusie
+            F      lager                                osmose
+
+            afbeelding 3
+                                                      De zeegrasvelden (afbeelding 3)
+                                                      in Lac Cai bestaan grotendeels
+                                                      uit twee soorten zeegras:
+                                                      Thalassia testudinum en
+                                                      Syringodium filiforme. Sinds
+                                                      2010 groeit ook de zeegrassoort
+                                                      Halophila stipulacea in Lac Cai.
+                                                      Deze soort is waarschijnlijk
+                                                      meegekomen met schepen
+                                                      vanuit de Rode zee.
+
+
+
+1p    12    Geef de biologische term voor een soort die zich door menselijk toedoen
+            vestigt buiten zijn oorspronkelijke verspreidingsgebied.
+
+            H. stipulacea kan het inheemse zeegras T. testudinum verdringen.
+            Waarschijnlijk speelt eutrofiëring daarbij een belangrijke rol.
+2p    13    Beredeneer hoe eutrofiëring zou kunnen bijdragen aan de verdringing van
+            T. testudinum door H. stipulacea. Geef hierbij aan wat eutrofiëring is, en
+            wat de rol is van licht bij de verdringing.
+
+
+
+
+HA-1018-a-26-2-o                             6 / 20                          lees
+                                                                              leesverder
+                                                                                   verder►►►
+                                                                                          ►►►
+            Op Bonaire gaat de verdringing van T. testudinum door H. stipulacea veel
+            langzamer dan op het buureiland Aruba. Onderzoekers vermoeden dat dit
+            komt doordat in de zee rondom Bonaire de diversiteit aan vissen groter is
+            dan op Aruba.
+            Sommige vissoorten eten van het zeegras, waardoor ze de groei van
+            zeegras kunnen beperken.
+            Om de diversiteit te bepalen, plaatsten de onderzoekers een groot aantal
+            onderwatercamera’s in gebieden bij Bonaire en Aruba. Vervolgens telden
+            ze het aantal vissen en het aantal vissoorten. De resultaten staan in
+            tabel 1.
+
+            tabel 1
+                            totaal aantal vissen     aantal vissoorten
+              bij Bonaire   566                      28
+              bij Aruba     472                      14
+
+            Om de resultaten op Bonaire en Aruba te kunnen vergelijken,
+            selecteerden de onderzoekers gebieden waar de abiotische factoren
+            zoveel mogelijk overeenkomen.
+2p    14    Noteer twee abiotische factoren die in beide onderzoeksgebieden gelijk
+            moeten zijn om de diversiteit aan vissen te kunnen vergelijken.
+
+            Hieronder staan uitspraken over het onderzoek.
+            1 De diversiteit aan vissen is groter op Bonaire dan op Aruba.
+            2 Een grotere diversiteit aan vissen gaat de verdringing van
+                T. testudinum door H. stipulacea tegen.
+            3 Doordat vissen eten van H. stipulacea, wordt de verdringing van
+                T. testudinum verhinderd.
+2p    15    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak wel een conclusie of geen conclusie kan zijn uit
+            de resultaten in tabel 1.
+
+            De toeristen hebben genoten van de prachtige natuur van Lac Cai. Een
+            van hen voelt zich ook een beetje schuldig, omdat bij vliegreizen veel
+            broeikasgassen vrijkomen. Het versterkt broeikaseffect kan leiden tot
+            aantasting van de natuurgebieden van Bonaire.
+1p    16    Verklaar hoe het versterkt broeikaseffect kan leiden tot aantasting van de
+            natuur van Bonaire.
+
+
+
+
+HA-1018-a-26-2-o                            7 / 20                           lees
+                                                                              leesverder
+                                                                                   verder►►►
+                                                                                          ►►►
+      Oma’s aan de top
+
+            Sophie studeert Kust- en Zee-management. Voor haar stage mariene
+            biologie neemt ze deel aan onderzoek naar orka’s.
+
+            Orka’s (Orcinus orca) zijn
+            zeezoogdieren die behoren tot
+            de tandwalvissen. Ze leven in
+            familiegroepen.
+            Orka’s eten voornamelijk
+            vissen. Ook eten ze inktvissen,
+            zeehonden, kleine
+            walvissoorten en zeevogels.
+            Vissen, inktvissen en kleine
+            walvissoorten voeden zich met
+            zoöplankton.
+            Zeevogels leven van vis.
+            Inktvissen, vissen en zeevogels worden gegeten door zeehonden. Algen
+            zijn het voedsel voor zoöplankton.
+
+            In de tekst in het bovenstaande informatiekader is een voedselweb
+            beschreven.
+2p    17     Noteer de producenten uit dit web.
+             Noteer de naam van de ecologische relatie tussen de kleine
+                walvissoorten en de inktvis.
+
+            De orka is onderdeel van het voedselweb in het informatiekader.
+2p    18    Tot welke orde of ordes van consumenten behoort de orka volgens deze
+            informatie?
+            A alleen tot de 2e orde
+            B alleen tot de 2e en 3e orde
+            C alleen tot de 3e en 4e orde
+            D alleen tot de 4e en 5e orde
+            E alleen tot de 3e, 4e en 5e orde
+            F tot de 2e, 3e, 4e en 5e orde
+
+
+
+
+HA-1018-a-26-2-o                           8 / 20                          lees
+                                                                            leesverder
+                                                                                 verder►►►
+                                                                                        ►►►
+            Bij de meeste diersoorten blijven de vrouwtjes hun hele leven vruchtbaar.
+            Bij de orka en enkele andere tandwalvissoorten hebben de vrouwtjes een
+            menopauze, net als bij de mens. Na de menopauze zijn orkavrouwtjes
+            niet meer vruchtbaar. Deze orka’s worden oma’s genoemd.
+
+            Hieronder staat de evolutionaire stamboom van tandwalvissen. Deze
+            stamboom is gemaakt op basis van DNA-onderzoek.
+
+
+
+
+            Hieronder staan uitspraken over de stamboom van tandwalvissen.
+            1 Uit de stamboom blijkt dat de voorouder van alle tandwalvissen een
+                menopauze had.
+            2 De witlipdolfijn is nauwer verwant aan de orka dan aan de bruinvis.
+            3 Het DNA van de beluga komt het meest overeen met het DNA van de
+                narwal.
+2p    19    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is op basis van de stamboom.
+
+
+
+
+HA-1018-a-26-2-o                           9 / 20                            lees
+                                                                              leesverder
+                                                                                   verder►►►
+                                                                                          ►►►
+            Sophie loopt stage bij wetenschappers die de rol van de oma’s in de
+            familiegroepen onderzoeken.
+            De oma’s hebben veel kennis over het leefgebied. Sophie heeft tijdens
+            haar stage de oma’s binnen één groep orka’s bestudeerd. Zij zag dat de
+            zwempositie van de oma’s samenhangt met de hoeveelheid zalm in de
+            zee. De resultaten van haar observaties zijn in de afbeelding schematisch
+            weergegeven.
+
+
+
+
+            De wetenschappers denken dat de populatie orka’s een betere
+            overlevingskans heeft door de kennis en het gedrag van de oma’s.
+2p    20    Beredeneer hoe de zwempositie van de oma’s de overlevingskans van de
+            populatie orka’s vergroot.
+
+
+
+
+HA-1018-a-26-2-o                           10 / 20                          lees
+                                                                             leesverder
+                                                                                  verder►►►
+                                                                                         ►►►
+      Kiezen voor vegan
+
+            Michael wil veganistisch (vegan) gaan eten, omdat dat beter is voor het
+            milieu. Hij wil wel voldoende eiwitten binnenkrijgen.
+
+            Als je veganistisch eet, eet je geen dierlijke producten.
+            Vlees, vis en zuivel zijn echter een belangrijke bron van
+            eiwitten. Veganisten moeten daarom plantaardige
+            voedingsmiddelen eten met voldoende eiwitten. Ook
+            moeten zij er extra op letten dat ze genoeg mineralen en
+            vitamines binnenkrijgen.
+
+            In het spijsverteringskanaal worden eiwitten afgebroken tot aminozuren.
+            Hieronder staan delen van het spijsverteringsstelsel.
+             mondholte
+             maag
+             twaalfvingerige darm
+             dunne darm
+             dikke darm
+2p    21    In welke van deze delen worden enzymen toegevoegd aan de voedselbrij
+            die betrokken zijn bij de eiwitafbraak? Noteer deze delen. Gebruik je
+            informatieboek.
+
+            Hieronder staan uitspraken over aminozuren.
+            1 Aerobe dissimilatie van aminozuren levert energie op.
+            2 De hoeveelheid aminozuren in het bloed wordt geregeld door de
+                hormonen glucagon en insuline.
+            3 Een teveel aan aminozuren wordt in het lichaam als eiwitreserve
+                opgeslagen.
+2p    22    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Michael gaat op zoek naar plantaardige producten die de essentiële
+            aminozuren bevatten die hij nodig heeft voor de opbouw van eiwitten in
+            zijn lichaam.
+1p    23    Verklaar waardoor essentiële aminozuren in de voeding aanwezig moeten
+            zijn.
+
+
+
+
+HA-1018-a-26-2-o                           11 / 20                           lees
+                                                                              leesverder
+                                                                                   verder►►►
+                                                                                          ►►►
+            In dierlijke eiwitproducten zijn essentiële aminozuren meestal in een
+            goede verhouding aanwezig. Voor plantaardige producten geldt dat niet.
+            Door verschillende plantaardige producten te combineren, kan je toch de
+            essentiële aminozuren in een goede verhouding binnenkrijgen.
+            Michael vindt op internet een tabel met informatie over eiwitten en de
+            meest voorkomende aminozuren in witte bonen en rundvlees.
+                                                 witte bonen            rundvlees
+              eiwit in g per 100 g                     9,73               26,29
+              percentage energie afkomstig
+              uit eiwit                                 28                  61
+
+                                                       percentage van de aanwezige
+              aminozuur                                        aminozuren
+              asparagine + asparaginezuur              12,7                 9,4
+              glutamine + glutaminezuur                16,0                15,1
+              leucine                                   8,0                 7,8
+              lysine                                    6,9                 8,3
+            Hieronder staan uitspraken over de tabel.
+            1 Van de aanwezige aminozuren is in witte bonen het percentage
+                essentiële aminozuren hoger dan in rundvlees.
+            2 100 gram witte bonen bevat meer leucine dan 100 gram rundvlees.
+            3 Het grootste deel van de energie in rundvlees wordt geleverd door
+                eiwitten.
+2p    24    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Michael moet erop letten dat hij voldoende ijzer binnenkrijgt. IJzer dat in
+            groenten aanwezig is, wordt namelijk niet altijd goed door het lichaam
+            opgenomen. Hierdoor kan er een tekort aan hemoglobine ontstaan. Dit
+            kan leiden tot klachten zoals vermoeidheid en duizeligheid.
+2p    25    Leg uit hoe een tekort aan hemoglobine kan leiden tot vermoeidheid.
+
+            Michael leest op een forum dat vegan eten beter is voor je nieren. Een
+            vegan dieet bevat vaak meer kalium en minder natrium. Dit heeft een
+            bloeddrukverlagend effect. Een hoge bloeddruk is een van de oorzaken
+            van nierproblemen.
+1p    26    In welk deel van de nieren is de bloeddruk het hoogst?
+            A in de glomerulus
+            B in de haarvaten rond het eerste gekronkelde buisje
+            C in de haarvaten rond het tweede gekronkelde buisje
+
+
+
+
+HA-1018-a-26-2-o                             12 / 20                              lees
+                                                                                   leesverder
+                                                                                        verder►►►
+                                                                                               ►►►
+            Veganisten kunnen ook een tekort krijgen aan vitamine B12. De meeste
+            veganisten gebruiken voedingssupplementen met vitamine B12. Michael
+            wil weten of die voedingssupplementen wel echt veganistisch zijn.
+
+            Op internet leest hij:
+
+            Vitamine B12 in supplementen wordt gemaakt door bacteriën in een
+            laboratorium. Hiervoor worden vaak bacteriestammen gebruikt waarin
+            genetische veranderingen zijn opgewekt door blootstelling aan straling of
+            chemicaliën. Soms ontstaat daardoor bij één bacterie toevallig een kleine
+            genetische verandering in een gen waardoor die bacterie meer B12 gaat
+            produceren. Na selectie wordt deze mutante bacterie vermenigvuldigd tot
+            grote aantallen.
+
+2p    27    Is de mutatie een genoommutatie of een puntmutatie? En is er bij de
+            selectie van de mutante bacterie sprake van kunstmatige of natuurlijke
+            selectie?
+                   type mutatie            vorm van selectie
+            A      genoommutatie           kunstmatige selectie
+            B      genoommutatie           natuurlijke selectie
+            C      puntmutatie             kunstmatige selectie
+            D      puntmutatie             natuurlijke selectie
+
+1p    28    Is het B12-voedingssupplement wel of niet veganistisch? Licht je
+            antwoord toe.
+
+            Michael vertelt aan zijn ouders wat het milieuvoordeel is van veganistisch
+            eten. Hij stelt:
+            Als iedereen veganistisch zou eten, zou er veel minder landbouwgrond
+            nodig zijn.
+3p    29    Leg de stelling van Michael uit aan de hand van de energiestroom door de
+            voedselketen. Gebruik je informatieboek.
+
+
+
+
+HA-1018-a-26-2-o                           13 / 20                             lees
+                                                                                leesverder
+                                                                                     verder►►►
+                                                                                            ►►►
+      De Vel-bloedgroep
+
+            Isa, Kate en Mounir werken aan een profielwerkstuk over bloedgroepen.
+            Behalve de resusfactor en de bloedgroep uit het AB0-systeem, wordt
+            tegenwoordig bij een bloedtransfusie ook de Vel-bloedgroep
+            gecontroleerd.
+
+            Een op de vijfduizend mensen heeft geen Vel-eiwit op het celmembraan
+            van de rode bloedcellen. Deze personen zijn Vel-negatief.
+            Na transfusie met Vel-positief bloed kan bij hen een levensgevaarlijke
+            klontering ontstaan.
+
+            Het Vel-eiwit werd in 1952 ontdekt toen bloedklontering werd
+            waargenomen na een tweede bloedtransfusie bij een patiënt: mevrouw
+            Vel. Ze had rode bloedcellen ontvangen van een donor met dezelfde AB0-
+            bloedgroep en dezelfde resusbloedgroep.
+            Isa, Kate en Mounir doen elk een uitspraak over deze tweede
+            bloedtransfusie. Ga ervan uit dat bij de transfusies alleen rode bloedcellen
+            gedoneerd werden.
+            Isa:      De gedoneerde rode bloedcellen bevatten Vel-antigenen.
+            Kate:     De rode bloedcellen van mevrouw Vel bevatten antistoffen tegen
+                      de Vel-eiwitten.
+            Mounir: Door de eerste transfusie zijn B-cellen geactiveerd bij mevrouw
+                      Vel.
+2p    30    Schrijf de namen Isa, Kate en Mounir onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Het gen dat codeert voor het Vel-eiwit is het SMIM1-gen. Dit gen bestaat
+            uit 237 nucleotiden. Er is ook een variant van het SMIM1-gen die uit 220
+            nucleotiden bestaat. Dit allel is ontstaan door een mutatie en codeert niet
+            voor een Vel-eiwit.
+
+            Normaal komt het SMIM1-gen tot expressie bij de vorming van rode
+            bloedcellen uit bloedstamcellen.
+            Hieronder staan processen die daarbij plaatsvinden.
+            1 het aflezen van het DNA
+            2 het inbouwen van het eiwit in de celmembraan
+            3 het transport van het mRNA uit de kern
+            4 het vormen van de keten van aminozuren aan een ribosoom
+            5 het vouwen van de polypeptideketen
+1p    31    In welke volgorde vinden deze processen plaats? Noteer de bijbehorende
+            nummers in de juiste volgorde.
+
+
+
+
+HA-1018-a-26-2-o                            14 / 20                           lees
+                                                                               leesverder
+                                                                                    verder►►►
+                                                                                           ►►►
+            Bloedbanken zijn altijd op zoek naar bloeddonoren met Vel-negatief
+            bloed, omdat er daar maar weinig van zijn. Isa, Kate en Mounir gaan naar
+            de bloedbank om te kijken of zij zo’n bloeddonor kunnen worden. Bij ieder
+            wordt een buisje bloed afgenomen.
+            In het laboratorium wordt DNA geïsoleerd uit het bloed. Het SMIM1-gen
+            wordt uit het DNA geknipt. Het DNA-fragment met dit gen wordt
+            vermeerderd.
+            De DNA-fragmenten worden met gel-elektroforese gescheiden op basis
+            van lengte. Hierbij gaan kleinere fragmenten sneller door de gel dan
+            grotere fragmenten. In de afbeelding staan de resultaten van de gel-
+            elektroforese van de DNA-fragmenten van Isa, Kate en Mounir.
+
+
+
+
+2p    32    Wie zou geschikt kunnen zijn als bloeddonor voor een Vel-negatieve
+            persoon? En wie zou geschikt kunnen zijn als bloeddonor voor een Vel-
+            positieve persoon?
+                   voor een Vel-negatieve persoon      voor een Vel-positieve persoon
+            A      Isa                                 alleen Kate
+            B      Isa                                 alleen Mounir
+            C      Isa                                 zowel Isa als Kate als Mounir
+            D      Kate                                alleen Kate
+            E      Kate                                alleen Mounir
+            F      Kate                                zowel Isa als Kate als Mounir
+
+
+
+
+HA-1018-a-26-2-o                             15 / 20                           lees
+                                                                                leesverder
+                                                                                     verder►►►
+                                                                                            ►►►
+      Katten bekennen kleur
+
+            Voor kattenfokker Benno is het belangrijk om te weten hoe de
+            verschillende kleuren en vachtpatronen bij katten erfelijk bepaald zijn.
+
+            Benno fokt albino-katten, die een afbeelding 1          afbeelding 2
+            witte vacht hebben (afbeelding 1).
+            Deze katten hebben een mutatie
+            in het gen voor tyrosinase. Dit gen
+            ligt niet op een
+            geslachtschromosoom.
+            Donkergekleurde katten behoren
+            tot het wildtype (afbeelding 2).
+            Tyrosinase is nodig voor de
+            vorming van het pigment melanine.
+            Tyrosinase zet de stof tyrosine om in de stof dopaquinine (reactie 1).
+
+                                                              (reactie 1)
+            Uit dopaquinine wordt daarna via een aantal vervolgreacties melanine
+            gevormd.
+
+1p    33    Wat is in reactie 1 het substraat en wat is het enzym?
+            Noteer je antwoord als volgt:
+            substraat: ...
+            enzym: ...
+
+            In het tyrosinase-gen van albino-katten ontbreekt op één plaats een
+            nucleotide. Hierdoor kan er geen werkzame tyrosinase ontstaan.
+            In de tabel zie je een gedeelte van de genetische code voor tyrosinase
+            met de bijbehorende aminozuurvolgorde.
+                   nucleotidevolgorde
+                    1      2     3      4   5    6        7   8    9        10   11   12     13
+     wildtype      AGG CUC CCC UCC UCU GCU GAU GUG GAA UUU UGC CUA AGU
+     albino        AGG CUC CCU CCU CUG CUG AUG UGG AAU UUU GCC UAA GUC
+
+                   aminozuurvolgorde
+                    1      2     3      4   5    6        7   8    9        10   11   12     13
+     wildtype       R     L      P      S   S    A        D   V    E        F    C     L      S
+     albino         R     L      P      P   W   W         M   W    N        F    A
+
+
+1p    34    Is in de tabel de nucleotidevolgorde van DNA of van RNA weergegeven?
+            Licht je antwoord toe.
+
+            Tyrosinase bij albino-katten is korter dan bij wildtype-katten.
+1p    35    Verklaar hoe de mutatie in het tyrosinase-gen ertoe leidt dat de gevormde
+            tyrosinase korter is.
+
+HA-1018-a-26-2-o                                16 / 20                               lees
+                                                                                       leesverder
+                                                                                            verder►►►
+                                                                                                   ►►►
+            Een kat met een niet-gemuteerd tyrosinase-allel (T) en een gemuteerd
+            tyrosinase-allel (t) is donkergekleurd. Hieruit blijkt dat het niet-gemuteerde
+            allel dominant is over het gemuteerde allel.
+2p    36    Leg uit hoe bij een heterozygote kat het niet-gemuteerde allel tot uiting
+            komt in het fenotype.
+
+            Er zijn bij katten ook nog twee andere mutaties van het tyrosinase-gen
+            bekend: ts en tb. Deze allelen zijn recessief ten opzichte van het wildtype
+            allel T. De allelen tb en ts coderen voor tyrosinase-enzymen die bij de
+            lichaamstemperatuur van katten (38,5 °C) minder goed werken. Bij een
+            lagere temperatuur werken die enzymen wel. De snuit, oren, poten en
+            staart van katten met deze allelen zijn hierdoor donkerder van kleur.
+
+1p    37    Verklaar op molecuulniveau waardoor de enzymactiviteit afneemt als de
+            temperatuur hoger wordt dan de optimumtemperatuur.
+
+            Verschillende combinaties van allelen van het tyrosinase-gen kunnen
+            leiden tot verschillende kleuringen. In afbeelding 3 staan verschillende
+            kleuringen aangegeven met het bijbehorende genotype.
+
+            afbeelding 3
+
+
+
+
+                   Siamese                   mink-                    Burmese
+                   kleuring                  kleuring                 kleuring
+                   ts ts                     ts tb                    tb tb
+
+            Hieronder staan uitspraken over de kleuringen.
+            1 De minkkleuring is een intermediair fenotype.
+            2 Tyrosinase gecodeerd door ts is beter bestand tegen hoge
+                temperaturen dan tyrosinase gecodeerd door t b.
+            3 Bij een kat met Siamese kleuring hebben de huidcellen in de staart
+                een ander genotype dan de huidcellen op de buik.
+2p    38    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Mink-gekleurde katten zijn tegenwoordig erg populair. Benno wil daarom
+            een kruising uitvoeren waarbij de kans op mink-gekleurde nakomelingen
+            het grootst is.
+1p    39    Welke katten moet hij dan kruisen? Noteer de fenotypen (afbeelding 3).
+
+
+
+
+HA-1018-a-26-2-o                             17 / 20                             lees
+                                                                                  leesverder
+                                                                                       verder►►►
+                                                                                              ►►►
+      Paarden voeren zonder brokken
+
+            Koen heeft een paardenboerderij. In de
+            wintermaanden voert hij de paarden bij
+            met brokken krachtvoer. Hij onderzoekt of
+            het mogelijk is om de paarden het hele
+            jaar te voeren met gras en hooi (gedroogd
+            gras) van zijn eigen graslanden, omdat dit
+            duurzamer en goedkoper is.
+
+            Hooi bevat cellulose en zetmeel. De vertering en opname van deze
+            koolhydraten verlopen bij paarden net als bij mensen. Net als mensen
+            hebben paarden geen eigen enzymen voor de vertering van cellulose.
+            Maar veel van de cellulose wordt verteerd door bacteriën in de blinde
+            darm en dikke darm. De verteringsproducten worden opgenomen door de
+            darmwand.
+            Hieronder staan uitspraken over vertering en opname van koolhydraten.
+            1 In de maag is de pH optimaal voor de werking van amylase.
+            2 In de dunne darm worden monosachariden opgenomen in het bloed.
+            3 Bij de afbraak van cellulose door bacteriën ontstaan organische
+                stoffen.
+2p    40    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is.
+
+            Gras en hooi voor paarden mogen niet te veel fructaan bevatten. Fructaan
+            is een koolhydraat dat is opgebouwd uit de monosachariden fructose en
+            glucose. Wanneer paarden gras met veel fructaan eten, kunnen ze
+            darmproblemen krijgen.
+            Een gedeelte van de monosachariden die overdag worden geproduceerd
+            bij fotosynthese, wordt opgeslagen als fructaan. Als fructaan wordt
+            omgezet, kunnen de producten worden gebruikt voor de groei van het
+            gras. Een hoog fructaangehalte in gras kan ontstaan als de temperatuur
+            ’s nachts lager is dan 5 °C. In het gras wordt fructaan dan nauwelijks
+            omgezet.
+
+1p    41    De vorming van fructaan uit monosachariden is een voorbeeld van
+            A  koolstofassimilatie.
+            B  stikstofassimilatie.
+            C  voortgezette assimilatie.
+
+1p    42    Verklaar op molecuulniveau waardoor in koude nachten nauwelijks
+            fructaan wordt omgezet.
+
+
+
+
+HA-1018-a-26-2-o                           18 / 20                         lees
+                                                                            leesverder
+                                                                                 verder►►►
+                                                                                        ►►►
+            Een paard maakt geen enzymen aan voor de vertering van fructaan. De
+            fructaanmoleculen kunnen wel worden omgezet tot monosachariden door
+            bacteriën in de dikke darm. Hierbij komen gassen vrij die zich ophopen en
+            daardoor darmproblemen veroorzaken.
+2p    43    Welk gas komt vrij bij de bacteriële omzetting van fructaan? En gebeurt dit
+            onder aerobe of anaerobe omstandigheden?
+                   gevormd gas       omstandigheden
+            A      ammoniak (NH3)    aeroob
+            B      ammoniak (NH3)    anaeroob
+            C      methaan (CH4)     aeroob
+            D      methaan (CH4)     anaeroob
+
+            Door de vorming van monosachariden in de dikke darm kan een paard
+            ook last krijgen van diarree (waterige ontlasting).
+2p    44    Leg uit hoe diarree ontstaat door de vorming van monosachariden in de
+            dikke darm.
+
+            Koen wil weten welke grassoorten hij het best kan inzaaien. Op de
+            website van een graszadenleverancier leest hij dat grassoorten worden
+            ingedeeld in koeiengrassen en paardengrassen.
+                                                           In het diagram zie je dat
+                                                           het fructaangehalte van
+                                                           grassen afhankelijk is van
+                                                           de grassoort en van het
+                                                           seizoen. Op basis van het
+                                                           fructaangehalte worden
+                                                           grassoorten ingedeeld als
+                                                           koeiengras of
+                                                           paardengras.
+                                                           In het diagram is één
+                                                           grassoort aangegeven met
+                                                           de letter Q.
+
+
+            Hieronder staan uitspraken over de gegevens in het diagram.
+            1 De grassoort die in het voorjaar het hoogste fructaangehalte heeft,
+                heeft ook in de zomer het hoogste fructaangehalte.
+            2 Paardengrassen bevatten zowel in het voorjaar als in de zomer
+                gemiddeld minder fructaan dan koeiengrassen.
+            3 Gedurende het groeiseizoen neemt het fructaangehalte van soort Q
+                toe.
+2p    45    Schrijf de nummers 1, 2 en 3 onder elkaar. Noteer erachter of de
+            bijbehorende uitspraak juist of onjuist is op basis van het diagram.
+
+
+            Let op: de laatste vraag van dit examen staat op de volgende pagina.
+
+
+HA-1018-a-26-2-o                           19 / 20                           lees
+                                                                              leesverder
+                                                                                   verder►►►
+                                                                                          ►►►
+            Koen kiest een mengsel van de volgende grassen:
+              Nederlandse naam                  Latijnse naam
+              Engels raaigras                   Lolium perenne
+              rood zwenkgras                    Festuca rubra
+              straatgras                        Poa annua
+              timotheegras                      Phleum pratense
+              veldbeemdgras                     Poa pratensis
+2p    46    Hoeveel verschillende geslachten (genera) bevat het mengsel? En
+            hoeveel verschillende soorten?
+                   aantal geslachten            aantal soorten
+            A      4                            4
+            B      4                            5
+            C      5                            4
+            D      5                            5
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-1018-a-26-2-o                                         20 / 20                                          lees      einde
+                                                                                                           leesverder
+                                                                                                                verder►►►
+                                                                                                                       ►►►
+

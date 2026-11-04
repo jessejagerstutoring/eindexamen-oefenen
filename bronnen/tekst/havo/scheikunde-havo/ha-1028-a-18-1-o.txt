@@ -1,0 +1,640 @@
+                                                                       Examen HAVO
+
+                                                                             2018
+                                                                                   tijdvak 1
+                                                                             vrijdag 25 mei
+                                                                          13.30 - 16.30 uur
+
+
+                                                                            scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik zo nodig het informatieboek Binas of ScienceData.
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 34 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-1028-a-18-1-o
+       Melkzuursensor
+
+             Onderzoekers aan de Universiteit van Californië
+             hebben een melkzuursensor ontwikkeld. Dit is
+             een soort pleister die is voorzien van een kleine
+             elektrochemische cel. Met de melkzuursensor
+             kan de conditie tijdens een sportprestatie
+             worden bepaald.
+             Sporten kost energie. Het lichaam haalt die
+             energie uit de afbraak van glucose.
+             Wanneer voldoende zuurstof wordt aangevoerd,
+             wordt glucose volledig verbrand.
+
+3p     1     Geef de reactievergelijking van de volledige verbranding van glucose.
+
+             Bij onvoldoende zuurstoftoevoer wordt glucose afgebroken tot
+             melkzuur (C3H6O3). Wanneer melkzuur zich ophoopt in de spieren, treedt
+             verzuring op. Hoe beter de conditie van een sporter is, des te later treedt
+             verzuring op. Het gevormde melkzuur komt voor een deel ook in zweet
+             terecht. Zweet heeft meestal een pH tussen 4 en 6.
+
+2p     2     Bereken de [H+] in mol L–1 van zweet met een pH van 5,1.
+
+             Met de melkzuursensor wordt de concentratie van melkzuur in het zweet
+             bepaald. De elektrochemische cel van de melkzuursensor is hieronder
+             vergroot en schematisch weergegeven:
+
+                                                      elektrode A
+                                                      met laagje LOx
+                   A
+
+                                                      elektrode B
+
+             ampèremeter
+
+             Elektrode A is gemaakt van grafiet (koolstof) en is bedekt met het enzym
+             lactaatoxidase (verder afgekort als LOx). Zweet fungeert als elektrolyt.
+             Onder invloed van LOx wordt melkzuur omgezet tot
+             pyrodruivenzuur (C3H4O3). Melkzuur treedt in deze reactie op als reductor.
+             De vergelijking van de halfreactie waarin melkzuur wordt omgezet tot
+             pyrodruivenzuur is hieronder onvolledig weergegeven. De elektronen en
+             de coëfficiënten ontbreken.
+
+                                     C 3H 6O 3  C 3H 4O3 + H +
+
+2p     3     Neem deze onvolledige vergelijking over, zet e– aan de juiste kant van de
+             pijl en maak de vergelijking kloppend.
+
+
+
+HA-1028-a-18-1-o                             2 / 15                             lees verder ►►►
+             Zweet is een oplossing waarin verschillende stoffen zijn opgelost.
+             Doordat in zweet een bepaald soort deeltjes voorkomt, kan zweet als
+             elektrolyt dienen.
+
+2p     4     Geef de naam van dit soort deeltjes en geef aan waardoor ze voor
+             stroomgeleiding kunnen zorgen.
+
+             Zweet bevat onder andere ureum, dat ook als reductor kan reageren.
+             In de melkzuursensor wordt ureum echter niet omgezet door het enzym
+             LOx doordat enzymen een bepaalde eigenschap bezitten.
+
+1p     5     Geef aan waardoor ureum niet wordt omgezet door het enzym LOx.
+
+             Wanneer de melkzuurconcentratie in zweet groter wordt dan een bepaalde
+             waarde, treedt verzuring van spieren op.
+             Deze waarde wordt de melkzuurdrempel genoemd.
+             Tijdens een sporttraining wordt bij Matthieu de stroomsterkte gemeten die
+             de melkzuursensor levert. Zie diagram 1.
+             Na ongeveer 800 seconden begint de sensor een signaal te geven.
+             Tussen ongeveer 1250 en 1400 seconden blijft de melkzuurconcentratie
+             constant. Dit geeft de melkzuurdrempel van Matthieu aan. Daarna stijgt de
+             stroomsterkte verder en treedt verzuring op.
+
+             diagram 1
+
+                          10
+             stroomsterkte
+                  (μA)     8
+
+                          6
+
+                          4
+
+                          2
+
+                          0
+                               0   400   800   1200 1600 2000
+                                                        tijd (s)
+
+
+3p     6     Bereken de melkzuurdrempel van Matthieu in mol L–1.
+             Gebruik hierbij de volgende gegevens:
+              De stroomsterkte is recht evenredig met de melkzuurconcentratie in
+                zweet.
+              0,92 µA komt overeen met een melkzuurconcentratie in zweet van
+                1,0 mmol L–1.
+
+
+
+
+HA-1028-a-18-1-o                                       3 / 15                lees verder ►►►
+       Arseen in drinkwater
+
+             In Bangladesh bleek rond 1980 dat het drinkwater in veel waterbronnen
+             hoge concentraties arseenverbindingen bevatte. Zulke hoge concentraties
+             zijn schadelijk voor de gezondheid.
+             De aanwezige arseenverbindingen zijn afkomstig uit gesteentes. Eén van
+             de arseenverbindingen is natriumarseniet, Na3AsO3.
+             Natriumarseniet is opgebouwd uit natriumionen en arsenietionen.
+
+2p     7     Geef de formule van het arsenietion.
+
+             Op den duur kunnen arseenverbindigen beschadigingen aan het DNA
+             veroorzaken doordat in het DNA arseenatomen worden ingebouwd in
+             plaats van fosforatomen. Hierdoor veranderen de structuur en de functie
+             van het DNA.
+
+2p     8     Leg uit, aan de hand van het periodiek systeem, dat arseenatomen de
+             plaats van fosforatomen kunnen innemen in DNA.
+
+             Sinds bekend is dat drinkwater in Bangladesh arseenverbindingen bevat,
+             test men het drinkwater. Een veelgebruikte test is de Gutzeit-test.
+             Een Gutzeit-test bevat de volgende materialen:
+              teststrips met de vaste stof HgBr2
+              een plastic flesje
+              een kunststof zakje met zinkpoeder (stof 1)
+              een kunststof zakje met zoutzuur (stof 2)
+              een kleurenkaart
+
+             De bijsluiter van de test is hieronder weergegeven.
+
+
+
+
+             Doe een        Vul het      Voeg toe:     Zwenk          Wacht 20   Verwijder
+             teststrip in   flesje met   stof 1 en     voorzichtig    minuten    de teststrip
+             het deksel     50 mL        stof 2.       60 sec.        en zwenk   en
+             van het        drinkwater   Sluit het     Zorg dat de    nog twee   vergelijk
+             flesje.        (tot het     flesje.       vloeistof de   keer       de kleur
+                            streepje).                 teststrip      tijdens    met de
+                                                       niet raakt!    deze       kleuren-
+                                                                      periode.   kaart.
+
+
+
+
+HA-1028-a-18-1-o                              4 / 15                             lees verder ►►►
+             Bij het uitvoeren van de test reageren zink en zoutzuur volgens
+             onderstaande reactievergelijking.
+
+             Zn + 2 H+  Zn2+ + H2                    reactie 1
+
+2p     9     Leg uit, aan de hand van formules in de reactievergelijking, of reactie 1
+             een zuur-basereactie is of een redoxreactie.
+
+             In de test is de hoeveelheid zoutzuur in overmaat aanwezig.
+             Het waterstofgas dat in reactie 1 ontstaat, reageert met de
+             arseenverbindingen. Bij die reactie worden de arseenverbindingen
+             omgezet tot het gas arsaan (AsH3). Arsaan komt vrij uit de oplossing en
+             reageert met HgBr2 op de teststrip. Bij deze reactie ontstaat AsH2HgBr.
+             Afhankelijk van de hoeveelheid arseenverbindingen in het drinkwater
+             ontstaat op de teststrip een kleur die varieert van lichtgeel tot
+             donkerbruin.
+             Hoe meer AsH2HgBr ontstaat, des te bruiner kleurt de teststrip.
+
+2p    10     Geef de systematische naam van HgBr2. Gebruik hierbij een Romeins
+             cijfer.
+
+             Met behulp van de kleurenkaart kan de concentratie van de
+             arseenverbindingen in het drinkwater worden vastgesteld.
+             De kleurenkaart staat hieronder afgebeeld in grijstinten.
+
+             lichtgeel                                   donkerbruin
+
+
+
+
+                   0     10   25      50    100       250     500
+
+
+             De concentratie van de arseenverbindingen is weergegeven in μg As per
+             liter. De veiligheidsnorm voor arseenverbindingen in drinkwater in
+             Bangladesh is 50 μg As per liter.
+             De Gutzeit-test is niet voor honderd procent betrouwbaar. Eén van de
+             storende factoren is de aanwezigheid van sulfide-ionen (S2– ) in het
+             drinkwater. Deze ionen reageren met het overgebleven zoutzuur tot H2S.
+             H2S reageert ook met HgBr2.
+             Bij deze reactie ontstaat het grijsgekleurde HgS.
+             De concentratie van de sulfide-ionen in het drinkwater is zo klein dat deze
+             niet schadelijk is voor de gezondheid. Maar de aanwezigheid van de
+             sulfide-ionen in het drinkwater kan wel leiden tot een ongewenste
+             conclusie na het uitvoeren van de Gutzeit-test.
+
+2p    11     Geef een ongewenste conclusie waartoe de Gutzeit-test kan leiden
+             wanneer het drinkwater behalve arseenverbindingen ook sulfide-ionen
+             bevat. Motiveer je antwoord.
+
+
+
+HA-1028-a-18-1-o                             5 / 15                             lees verder ►►►
+       Koudemiddel
+
+             In de airco van een auto circuleert een zogenoemd koudemiddel.
+             In figuur 1 is schematisch weergegeven hoe de binnenruimte van een
+             auto wordt gekoeld door middel van een airco.
+
+             figuur 1
+                             gas
+                                         A: binnenruimte
+                    A    V    C          V: verdamper
+                                         C: condensor
+                             vloeistof
+
+             Het koudemiddel wordt rondgepompt in een gesloten circuit tussen de
+             condensor en de verdamper. Het koudemiddel komt als gas de condensor
+             binnen en verlaat de condensor als vloeistof. In de verdamper gebeurt het
+             omgekeerde.
+
+2p    12     Leg uit, aan de hand van het koelen van de binnenruimte van de auto, of
+             in de verdamper een endotherm of exotherm proces plaatsvindt.
+
+             Gehalogeneerde koolwaterstoffen worden veel gebruikt als koudemiddel.
+             Twee koudemiddelen die veel in airco’s worden gebruikt, hebben beide de
+             molecuulformule C2H2F4. Het zijn dus isomeren en ze behoren tot de
+             zogenoemde fluorkoolwaterstoffen.
+
+2p    13     Geef de structuurformules van de twee isomeren met de molecuulformule
+             C 2H 2F 4.
+
+             De koudemiddelen met de molecuulformule C2H2F4 mogen vanaf 2016
+             niet meer in de airco van nieuwe auto’s worden gebruikt omdat het sterke
+             broeikasgassen zijn. Ze komen in de atmosfeer terecht wanneer ze
+             weglekken uit airco’s.
+             De mate waarin een broeikasgas bijdraagt aan het broeikaseffect wordt
+             de Global Warming Potential (GWP) genoemd.
+             Zo heeft C2H2F4 een GWP van 1300. Dat houdt in dat 1,00 kg C2H2F4
+             1300 maal zoveel bijdraagt aan het broeikaseffect als 1,00 kg CO2,
+             gemeten over een periode van 100 jaar.
+
+3p    14     Bereken hoeveel mol koolstofdioxide dezelfde bijdrage aan het
+             broeikaseffect levert als 1,00 mol C2H2F4.
+
+
+
+
+HA-1028-a-18-1-o                                 6 / 15                      lees verder ►►►
+             Veel autofabrikanten kiezen het koudemiddel R1234 (C3H2F4) als
+             vervanger van C2H2F4. R1234 is echter niet onomstreden. Uit onderzoek
+             is namelijk gebleken dat bij de verbranding van R1234, bijvoorbeeld bij
+             een autobrand, de giftige gassen waterstoffluoride (HF) en
+             carbonylfluoride ( COF2) ontstaan.
+
+3p    15     Geef de reactievergelijking in molecuulformules van de verbranding van
+             R1234 (C3H2F4). Maak gebruik van de volgende gegevens:
+              Er ontstaan uitsluitend carbonylfluoride, waterstoffluoride en
+                koolstofdioxide.
+              Per mol C3H2F4 ontstaat één mol carbonylfluoride.
+
+3p    16     Bereken hoeveel gram carbonylfluoride ontstaat bij de verbranding van
+             740 g C3H2F4. Gebruik het gegeven dat hierbij één mol carbonylfluoride
+             ontstaat per mol C3H2F4.
+
+
+
+
+HA-1028-a-18-1-o                            7 / 15                           lees verder ►►►
+       Anatto
+
+             Anatto is een oranje-gele kleurstof. Het is een mengsel dat de kleurstoffen
+             bixine en/of norbixine bevat. Zie figuur 1.
+
+             figuur 1
+                        CH3   CH3                          O
+               HO CH C     CH C   CH CH CH CH CH C              CH3
+                   C   CH CH CH CH CH C         CH C     CH O
+                   O                      CH3      CH3
+                              bixine
+
+
+                        CH3   CH3                          O
+               HO CH C     CH C     CH CH CH CH CH C
+                   C   CH CH CH CH CH C         CH C     CH OH
+                   O                      CH3      CH3
+                              norbixine
+
+
+             Anatto wordt gebruikt in sommige voedingsmiddelen, bijvoorbeeld in kaas.
+             De kaassoort Red Leicester heeft een oranje kleur doordat hij relatief veel
+             anatto bevat. Teun eet zes blokjes Red Leicester.
+
+3p    17     Laat met behulp van een berekening zien dat Teun de ADI-waarde van
+             bixine niet overschrijdt. Gebruik de volgende gegevens:
+             ‒ Eén blokje weegt 15 gram.
+             ‒ Red Leicester bevat 24 massa-ppm bixine.
+             ‒ De ADI-waarde van bixine is 0,065 mg per kg lichaamsgewicht.
+             ‒ Teun weegt 67 kg.
+
+                                     Een groot deel van de anatto wordt geproduceerd in
+                                     Peru uit de zaaddozen van de orleaanboom. Door
+                                     de zaaddozen te drogen in de zon barsten ze open.
+                                     Het vruchtvlees rond de zaden bevat bixine. De
+                                     opengebarsten zaaddozen mogen niet te lang
+                                     worden blootgesteld aan zonlicht. Anders treedt een
+                                     reactie op waardoor de hoeveelheid bixine afneemt.
+
+
+2p    18     Leg uit, aan de hand van de structuurformule van bixine, waardoor de
+             hoeveelheid bixine afneemt door blootstelling aan zonlicht.
+
+
+
+
+HA-1028-a-18-1-o                                  8 / 15                       lees verder ►►►
+             De productie van anatto in Peru wordt als volgt uitgevoerd:
+              200 kg anattozaden wordt in een vat (vat I) met 400 L 0,014 molair
+                natronloog gedaan.
+              De inhoud wordt tien minuten krachtig geroerd.
+              De vloeistof wordt in een tweede vat (vat II) overgebracht, de zaden
+                blijven achter in vat I.
+              In vat I wordt vervolgens 300 L 0,0063 molair natronloog gedaan.
+              Nogmaals wordt gedurende tien minuten krachtig geroerd.
+              De vloeistof uit vat I wordt toegevoegd aan de vloeistof in vat II.
+              De zaden worden twee keer gewassen met telkens 200 L water.
+              Ook deze vloeistoffen worden in vat II gedaan.
+              Aan de inhoud van vat II wordt 3,0 L 1,9 molair zwavelzuuroplossing
+                toegevoegd.
+              Er ontstaat een suspensie van anatto.
+              Na enkele uren bezinken wordt de vloeistof afgetapt en de anatto van
+                de bodem geschept.
+
+             De zwavelzuuroplossing wordt in overmaat toegevoegd aan de
+             verzamelde hoeveelheden natronloog.
+             Hierbij treedt de volgende reactie op:
+
+             H+ (aq) + OH– (aq)  H2O (l)
+
+3p    19     Laat met behulp van een berekening zien dat zwavelzuur in overmaat
+             wordt toegevoegd. Gebruik het gegeven dat twee mol H+ reageert per mol
+             zwavelzuur.
+
+             Tijdens de productie van anatto uit de zaden kan bixine gehydrolyseerd
+             worden. Behalve norbixine ontstaat hierbij nog een andere stof.
+
+2p    20     Geef de structuurformule van deze stof.
+
+
+
+
+HA-1028-a-18-1-o                            9 / 15                           lees verder ►►►
+             Teun heeft voor zijn profielwerkstuk een bepaalde soort anatto onderzocht
+             met dunne-laagchromatografie.
+             In figuur 2 is het chromatogram weergegeven.
+
+             figuur 2
+
+
+                                                    9
+             vloeistoffront
+                                                    8
+                                                    7
+                                                    6
+
+                                                          centimeter
+                                                    5
+                                     o              4
+                                     o     o
+                                                    3
+                                                    2
+                                                    1
+                   startlijn                        0
+                               mengsel     anatto
+                               bixine en
+                               norbixine
+
+
+
+             Bij dunne-laagchromatografie wordt het begrip Rf-waarde gebruikt.
+             De Rf-waarde wordt als volgt berekend:
+
+              afstand van startlijn tot midden van de vlek
+                                                            Rf
+                 afstand van startlijn tot vloeistoffront
+
+             Op het chromatogram in figuur 2 heeft bixine een Rf-waarde van 0,49 en
+             norbixine een Rf-waarde van 0,45.
+
+2p    21     Op welke twee verschillen in stofeigenschappen berust
+             dunne-laagchromatografie?
+
+2p    22     Leg uit, aan de hand van figuur 2, of de onderzochte anatto alleen bixine
+             of alleen norbixine is.
+
+
+
+
+HA-1028-a-18-1-o                                        10 / 15               lees verder ►►►
+       Lignine
+
+             Hout bestaat voornamelijk uit cellulose en lignine. Cellulose en lignine
+             zorgen voor de stevigheid van hout en behoren tot de meest
+             voorkomende organische materialen op aarde. Cellulose is een
+             zogenoemd bio-polymeer en behoort tot de polysachariden. Lignine is ook
+             een bio-polymeer. Het bevat veel crosslinks. In figuur 1 is een gedeelte
+             van de structuur van lignine weergegeven.
+
+             figuur 1
+                                               H2C OH
+                                                HC O
+                                               O CH
+                    HC       O                         H2C OH
+                        CH                                  CH
+                        CH              H3CO               HC OH
+
+                                                 OH
+
+             H3CO                HO CH2
+                        O           CH         H3CO
+                                                                          H2C OH
+                                   HC OH
+                                                            O              CH
+                                                                          HC OH
+
+
+
+                                                  H2C OH
+                                                                                OCH3
+                                    O                  CH          H3CO
+                                                      HC                   O
+
+
+
+2p    23     Leg uit of de structuur van lignine in figuur 1 een weergave op
+             microniveau of op macroniveau is.
+
+
+
+
+HA-1028-a-18-1-o                                  11 / 15                              lees verder ►►►
+             Uit cellulose kan bio-ethanol worden geproduceerd. De omzetting van
+             cellulose tot bio-ethanol start met de hydrolyse van cellulose tot glucose.
+
+3p    24     Geef de reactievergelijking van de hydrolyse van cellulose tot glucose.
+             Gebruik de formule (C6H10O5)n voor cellulose.
+
+             De vorming van ethanol uit glucose is hieronder weergegeven:
+
+             C6H12O6  2 C2H6O + 2 CO2                  reactie 1
+
+2p    25     Bereken de atoomeconomie voor de vorming van ethanol volgens
+             reactie 1. Maak gebruik van Binas-tabel 37H of ScienceData-tabel 1.7.7.
+
+             Om cellulose uit houtpulp (fijngemalen hout) te kunnen gebruiken voor de
+             productie van bio-ethanol moet eerst de lignine worden verwijderd. Om
+             lignine te verwijderen uit houtpulp, die afkomstig is van bijvoorbeeld
+             snoeihout en houtafval, zijn grote hoeveelheden chemicaliën nodig.
+             In recent onderzoek is een methode ontwikkeld om lignine en cellulose
+             van elkaar te scheiden door gebruik te maken van een zogenoemde
+             ionische vloeistof. Lignine lost op in de ionische vloeistof en cellulose niet.
+             De gebruikte ionische vloeistof wordt gemaakt door een reactie van de
+             base pyrrolidine met het zuur ethaanzuur (azijnzuur).
+             De vergelijking van deze zuur-basereactie is hieronder weergegeven:
+                                                              CH2 CH2
+                                                                                              O
+             1 mol pyrrolidine + 1 mol ethaanzuur  1 mol CH2           CH2 + 1 mol CH3   C       –
+                                                                    +                         O
+                                                                    N
+                                                               H        H
+
+             Uit deze reactie ontstaat een zout dat vloeibaar is bij kamertemperatuur.
+             De molecuulformule van de base pyrrolidine is af te leiden uit de
+             bovenstaande reactievergelijking.
+
+2p    26     Geef de molecuulformule van de base pyrrolidine.
+
+             Om lignine uit houtpulp te verwijderen moet de houtpulp eerst worden
+             gedroogd. Vervolgens wordt aan de droge houtpulp de ionische vloeistof
+             toegevoegd. Het mengsel wordt flink geroerd en daarna wordt cellulose
+             gescheiden van de lignine-oplossing.
+             Op de volgende bladzijde is een gedeelte van het blokschema
+             weergegeven van het proces waarbij cellulose en lignine worden
+             verkregen uit hout met behulp van de ionische vloeistof.
+
+
+
+
+HA-1028-a-18-1-o                              12 / 15                                 lees verder ►►►
+             blokschema 1
+
+                           ionische
+               droge       vloeistof
+               houtpulp        lignine-
+                          S1
+                               oplossing
+
+                           cellulose
+
+
+
+             In dit blokschema is ervan uitgegaan dat houtpulp alleen bestaat uit
+             cellulose en lignine. Andere bestanddelen zijn buiten beschouwing
+             gelaten.
+
+2p    27     Noem de twee scheidingsmethoden die worden gebruikt bij de scheiding
+             in scheidingsruimte S1.
+
+             De lignine-oplossing wordt naar een scheidingsruimte (S2) overgebracht.
+             Door indampen wordt de vaste stof lignine verkregen en de ionische
+             vloeistof wordt gerecirculeerd.
+             Op de uitwerkbijlage bij dit examen is blokschema 1 ook weergegeven.
+
+2p    28     Maak het blokschema op de uitwerkbijlage compleet door het tekenen
+             van:
+              scheidingsruimte S2;
+              stofstromen met de bijbehorende namen.
+
+             De lignine kan worden verbrand en de verbrandingswarmte kan worden
+             gebruikt in het hierboven beschreven proces om cellulose en lignine te
+             verkrijgen uit hout.
+
+2p    29     Noem twee bewerkingen in het proces waarvoor deze warmte kan worden
+             gebruikt.
+
+             De verbranding van lignine kan met de volgende reactievergelijking
+             worden weergegeven:
+
+             2 C5H6O2 (s) + 11 O2 (g)  10 CO2 (g) + 6 H2O (l)        reactie 2
+
+             (In deze reactievergelijking is lignine met de formule C5H6O2
+             weergegeven.)
+
+3p    30     Bereken de reactiewarmte van reactie 2, in J per mol C5H6O2,
+             bij T = 298 K en p = p0.
+             Maak hierbij gebruik van:
+              De vormingswarmte van C5H6O2 (s): – 7,0·105 J mol–1 (T = 298 K,
+                 p = p0).
+              Binas-tabel 57A of ScienceData-tabel 9.2.
+
+
+HA-1028-a-18-1-o                            13 / 15                           lees verder ►►►
+       ETFE
+
+             De kunststof ETFE wordt onder meer gebruikt als lichtgewicht materiaal
+             om daken en wanden van gebouwen mee te construeren. De Watercube
+             (het zwemstadion tijdens de Olympische Spelen 2008 in China) is een
+             bekend voorbeeld.
+
+
+
+
+             Het dak en de wanden van de Watercube zijn gemaakt van
+             ETFE-kussens. Deze zijn gemaakt van ETFE-folie met een dikte van
+             100·10–6 m en zijn gemonteerd op een stalen frame.
+             ETFE is een copolymeer dat door poly-additie uit twee soorten
+             monomeren wordt gevormd. De twee monomeren reageren daarbij in de
+             molverhouding 1 : 1. In figuur 1 is de structuurformule van een gedeelte
+             uit het midden van een ETFE-molecuul weergegeven.
+
+             figuur 1
+
+                   H    H   F   F   H   H    F    F
+                   C    C   C   C   C   C    C    C
+                   H    H   F   F   H   H    F        F
+
+
+             In dit gedeelte van ETFE wisselen de twee soorten monomeereenheden
+             elkaar regelmatig af.
+
+2p    31     Geef de structuurformules van de twee soorten monomeren waaruit ETFE
+             is gevormd.
+
+
+
+
+HA-1028-a-18-1-o                            14 / 15                           lees verder ►►►
+             ETFE heeft de volgende eigenschappen:
+              Het laat 95% van het licht door. Dit is meer dan glas doorlaat, terwijl
+                het slechts 1% van het gewicht van glas bezit.
+              Een regenbui spoelt vuil en stof gemakkelijk van ETFE af.
+              Het heeft een hoge smelttemperatuur.
+
+2p    32     Leg uit op microniveau, aan de hand van figuur 1, dat water niet goed
+             hecht aan ETFE.
+
+2p    33     Noem twee gegevens in deze opgave waaruit blijkt dat ETFE een
+             thermoplast is.
+
+             Er zijn verschillende soorten ETFE die met de formule (C4H4F4)n kunnen
+             worden weergegeven. Deze soorten verschillen van elkaar op
+             microniveau en verschillen ook in stofeigenschappen.
+
+2p    34     Geef een verschil op microniveau en een verschil in stofeigenschappen.
+             Noteer je antwoord als volgt:
+             verschil op microniveau: ….
+             verschil in stofeigenschappen: ….
+
+
+
+
+HA-1028-a-18-1-o                             15 / 15                           lees verdereinde
+                                                                                            ►►► 
+

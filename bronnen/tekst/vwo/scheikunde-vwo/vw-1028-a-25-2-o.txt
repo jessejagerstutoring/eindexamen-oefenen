@@ -1,0 +1,499 @@
+                                                                    Examen VWO
+
+                                                                        2025
+                                                                               tijdvak 2
+                                                                        dinsdag 17 juni
+                                                                      13.30 - 16.30 uur
+
+
+                                                                       scheikunde
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 26 vragen.
+Voor dit examen zijn maximaal 66 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+uitleg, berekening of afleiding ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1028-a-25-2-o
+            Tenzij anders vermeld, is er sprake van standaardomstandigheden:
+            T = 298 K en p = p0.
+
+
+      DCDA
+
+            Dicyaandiamide (DCDA, zie figuur 1) is een wit kristallijn poeder. Het is
+            onder andere een bouwsteen in de synthese van medicijnen.
+
+            figuur 1
+
+
+
+
+            In figuur 2 is het industriële productieproces van DCDA vereenvoudigd
+            met een blokschema weergegeven. Calciumcyaanamide (CaCN2), water
+            en koolstofdioxide worden reactor 1 (R1) ingeleid. Calciumcyaanamide is
+            een sterke base. In R1 reageren calciumcyaanamide, koolstofdioxide en
+            een overmaat water tot het zwakke zuur cyaanamide (H2N‒C≡N) en de
+            vaste stof X. Stof X wordt in scheidingsruimte 1 (S1) verwijderd. Hierbij
+            wordt het mengsel in S1 op kamertemperatuur gehouden.
+
+            figuur 2
+
+
+
+
+2p    1     Geef de vergelijking van de reactie die optreedt in R1. Gebruik formules
+            voor alle stoffen en neem aan dat uitsluitend cyaanamide en de vaste
+            stof X ontstaan.
+
+2p    2     Voer de volgende opdrachten uit:
+             Geef aan welke scheidingsmethode geschikt is om stof X uit het
+               mengsel in S1 te verwijderen.
+             Leg hierbij uit welk verschil in stofeigenschap van cyaanamide en
+               stof X deze scheiding mogelijk maakt.
+
+
+
+
+VW-1028-a-25-2-o                            2 / 13                            lees verder ►►►
+            De waarde van de Kz van cyaanamide is 5,42∙10‒11. De concentratie van
+            de cyaanamide-oplossing die R1 verlaat, is 250 g L‒1.
+
+4p    3     Bereken de pH van deze cyaanamide-oplossing. Gebruik de Kz. Neem
+            aan dat de pH van de cyaanamide-oplossing uitsluitend wordt bepaald
+            door cyaanamide.
+
+            DCDA is een dimeer van cyaanamide. In reactor 2 (R2) reageert
+            cyaanamide door een dimerisatie-reactie tot DCDA. Bij de dimerisatie van
+            cyaanamide treedt het stikstofatoom in de NH2-groep van cyaanamide op
+            als nucleofiel deeltje. Cyaanamide is een amfolyt. Dat betekent dat de stof
+            ook als base kan reageren. Als de pH te laag is, neemt de NH2-groep van
+            cyaanamide een H+-ion op. De gevormde groep kan dan niet meer als
+            nucleofiel deeltje reageren en daardoor kan geen dimerisatie van
+            cyaanamide tot DCDA meer plaatsvinden. Na de reactie laat men DCDA
+            in scheidingsruimte 2 (S2) uitkristalliseren en wordt DCDA als vaste stof
+            afgescheiden.
+
+3p    4     Voer de volgende opdrachten uit:
+             Geef de lewisstructuur van cyaanamide en van het deeltje dat ontstaat
+               als cyaanamide een H+-ion heeft opgenomen.
+             Leg uit dat het stikstofatoom van de NH2-groep niet meer nucleofiel is
+               als deze groep een H+-ion heeft opgenomen.
+
+
+
+
+VW-1028-a-25-2-o                            3 / 13                           lees verder ►►►
+            In oplossingen van DCDA treedt omkeerbare structuurisomerisatie op.
+            Dit evenwicht is weergegeven in figuur 3.
+
+            figuur 3
+
+
+
+
+            Het is onmogelijk om een van de twee structuurisomeren zuiver te
+            verkrijgen. In het massaspectrum van DCDA zijn daarom fragment-ionen
+            van beide isomeren herkenbaar. Behalve de piek van het molecuul-ion
+            (M+) zijn twee kenmerkende pieken aanwezig:
+             Bij m/z = 43 bevindt zich een piek die maar van één structuurisomeer
+               in figuur 3 afkomstig kan zijn.
+             Bij m/z = 68 bevindt zich een piek die van beide structuurisomeren
+               afkomstig kan zijn.
+            De fragment-ionen worden gevormd doordat in het molecuul-ion slechts
+            één enkele binding wordt verbroken. Op de uitwerkbijlage is figuur 3 twee
+            keer weergegeven.
+
+2p    5     Voer de volgende opdrachten uit op de uitwerkbijlage:
+             Omcirkel bij a in de juiste isomeer het fragment dat de piek bij
+               m/z = 43 veroorzaakt.
+             Omcirkel bij b in elke isomeer het fragment dat een piek bij m/z = 68
+               veroorzaakt.
+
+            DCDA dient onder andere als beginstof voor de synthese van metformine.
+            Zie figuur 4. Metformine wordt vooral voorgeschreven als medicijn bij de
+            behandeling van diabetes mellitus type 2 (suikerziekte). Metformine kan
+            met behulp van een bepaald reactietype in één stap worden gemaakt uit
+            DCDA en één andere beginstof. In deze reactie is metformine het enige
+            product.
+
+            figuur 4
+
+
+
+
+2p    6     Voer de volgende opdrachten uit:
+             Teken de structuurformule van deze andere beginstof.
+             Geef de naam van het reactietype.
+
+
+
+VW-1028-a-25-2-o                           4 / 13                           lees verder ►►►
+      Gaatjes
+
+            Veel mensen krijgen er vroeg of laat in hun leven mee te maken: een
+            gaatje in een kies of tand. Gaatjes worden veroorzaakt door bacteriën in
+            tandplak die suikers uit voeding omzetten tot zuren, waardoor de pH in de
+            tandplak daalt. Een voorbeeld van zo’n bacteriële omzetting is de reactie
+            van sacharose met één andere stof tot 2-hydroxypropaanzuur. Hierbij is
+            2-hydroxypropaanzuur het enige reactieproduct.
+
+2p    7     Geef de vergelijking van deze omzetting.
+             Gebruik molecuulformules.
+             Gebruik Binas-tabel 67F2 of ScienceData-tabel 13.1.
+
+            Tandglazuur bestaat voor 95% uit calciumhydroxyapatiet (HA) en kan
+            worden weergegeven met de formule Ca5(PO4)3OH. In de mond staat het
+            oppervlak van het tandglazuur continu in contact met tandplak en
+            speeksel, waarbij ionen worden uitgewisseld. In figuur 1 is deze
+            uitwisseling weergegeven als een evenwicht.
+
+            figuur 1
+
+
+
+
+            Als de pH in tandplak door de zuurproductie van bacteriën daalt tot 5,5 of
+            lager, lost tandglazuur deels op, waardoor een gaatje kan ontstaan. Dit
+            oplossen heet demineralisatie. Speeksel kan ervoor zorgen dat de pH
+            weer hoger wordt dan 5,5, waardoor remineralisatie optreedt. Hierdoor
+            kan een beginnend gaatje worden hersteld. Remineralisatie gebeurt ook
+            als bacteriën in de tandplak niet meer voldoende suikers kunnen
+            omzetten.
+
+2p    8     Leg uit, aan de hand van het evenwicht in figuur 1, hoe gaatjes kunnen
+            ontstaan door de aanwezigheid van zuren.
+
+            Door goed te poetsen en te flossen wordt tandplak verwijderd en kunnen
+            gaatjes worden tegengegaan. Tandpasta met fluoride beschermt het
+            glazuur nog beter tegen tandbederf. Fluoride-ionen in de tandpasta
+            worden namelijk uitgewisseld met hydroxide-ionen in HA. HA wordt zo
+            omgezet tot calciumfluor-apatiet (FA): Ca5(PO4)3F.
+
+
+
+
+VW-1028-a-25-2-o                            5 / 13                            lees verder ►►►
+            De demineralisatie van FA is vergelijkbaar met die van HA (figuur 1). De
+            pH-waarde waarbij demineralisatie optreedt bij FA is 4,5 of lager. Bij
+            kinderen wordt soms een fluoridebehandeling toegepast. Hierbij komt het
+            tandglazuur enige tijd in aanraking met een hoge concentratie
+            fluoride-ionen en wordt HA omgezet tot FA.
+
+2p    9     Leg uit in welk pH-gebied de toepassing van de fluoridebehandeling het
+            meest effectief is:
+             in gebied 1: 3,5 < pH ≤ 4,5 of
+             in gebied 2: 4,5 < pH ≤ 5,5 of
+             in gebied 3: 5,5 < pH < 6,5.
+
+            Bij het vullen van gaatjes wordt als vulmateriaal steeds vaker gekozen
+            voor tandkleurige composieten. In deze composieten zijn onder andere
+            additiepolymeren verwerkt. De polymeren zijn zo gekozen dat tijdens het
+            uitharden van het vulmateriaal in de mond een driedimensionaal
+            polymeernetwerk ontstaat. Een veelgebruikt monomeer voor dergelijke
+            polymeren is BisGMA. In figuur 2 is de structuurformule van BisGMA
+            vereenvoudigd weergegeven. De letter R stelt hier een atoomgroep voor
+            die niet aan de polymerisatiereactie kan deelnemen.
+
+            figuur 2
+
+
+
+
+4p   10     Voer de volgende opdrachten uit:
+             Teken de structuurformule van een fragment uit het midden van één
+               BisGMA-polymeerketen:
+               1 Laat hierbij twee BisGMA-eenheden met elkaar koppelen.
+               2 Gebruik in de BisGMA-eenheden de letter R.
+             Leg uit hoe tijdens de polymerisatie van BisGMA een netwerk kan
+               ontstaan.
+
+
+
+
+VW-1028-a-25-2-o                           6 / 13                           lees verder ►►►
+            Als een diep gaatje gevuld moet worden, dan moet het composietmengsel
+            laag voor laag worden aangebracht. In het composietmengsel zit ook een
+            initiator. Een veelgebruikte initiator is kamferquinon (figuur 3). Een aantal
+            C-atomen in kamferquinon zijn genummerd.
+
+            figuur 3
+
+
+
+
+2p   11     Leg uit of er van kamferquinon spiegelbeeldisomeren bestaan. Gebruik
+            figuur 3.
+
+            Bij het opvullen van een gaatje wordt elke aangebrachte laag beschenen
+            met een lampje. Daarna pas start de polymerisatie van deze laag en hardt
+            de laag uit.
+
+1p   12     Leg uit waarom de polymerisatie pas start na het beschijnen van het
+            composietmengsel met het lampje.
+
+
+
+
+VW-1028-a-25-2-o                             7 / 13                             lees verder ►►►
+      3x productie van aniline
+
+           Aniline (figuur 1) behoort tot de meest geproduceerde
+           stoffen in de chemische industrie. Het wordt gebruikt als   figuur 1
+           grondstof voor veel synthetische kleurstoffen en
+           kunststoffen. Ruim 100 jaar geleden werd aniline
+           industrieel geproduceerd met het Béchamp-proces: in
+           enkele stappen reageert nitrobenzeen ( C6H5NO2)
+           met ijzer en water tot aniline en Fe3O4.
+
+2p   13     Geef de systematische naam van aniline.
+
+3p   14     Geef de vergelijking van het Béchamp-proces in molecuulformules.
+
+            Het Béchamp-proces wordt niet meer ingezet voor de productie van
+            aniline, maar wel voor de productie van Fe3O4, dat als zwart pigment
+            wordt gebruikt. Fe3O4 is een dubbelzout. In Fe3O4 komen zowel Fe2+-ionen
+            als Fe3+-ionen voor.
+
+2p   15     Leid de molverhouding tussen Fe2+-ionen en Fe3+-ionen in dit dubbelzout
+            af.
+
+            Tegenwoordig wordt vrijwel alle aniline geproduceerd met een van de
+            volgende processen:
+             het nitrobenzeen-proces, gebaseerd op de reactie van nitrobenzeen
+                met waterstof;
+             het fenol-proces, gebaseerd op de reactie tussen fenol en ammoniak.
+            Beide processen worden commercieel uitgevoerd in de gasfase en in de
+            vloeibare fase.
+
+            nitrobenzeen-proces
+            Op de uitwerkbijlage bij vraag 16 is het blokschema van het nitrobenzeen-
+            proces onvolledig weergegeven. In reactor 1 (R1) verloopt reactie 1.
+
+            C6H5NO2 (g) + 3 H2 (g) ⇆ C6H5NH2 (g) + 2 H2O (g)               (reactie 1)
+
+            In scheidingsruimte 1 (S1) wordt de temperatuur zo ingesteld dat een van
+            de stoffen S1 verlaat in de gasfase. De andere stoffen verlaten S1 als
+            vloeibaar mengsel. In de volgende scheidingsruimtes (S2 en S3) wordt
+            het overgebleven mengsel gedestilleerd. De temperaturen in S2 en S3
+            zijn steeds zo gekozen dat slechts één stof de ruimte in de gasfase kan
+            verlaten.
+
+
+
+
+VW-1028-a-25-2-o                            8 / 13                           lees verder ►►►
+3p   16     Maak op de uitwerkbijlage het blokschema van het nitrobenzeen-proces
+            compleet. Selecteer hiervoor de juiste informatie uit de tabellen op de
+            uitwerkbijlage en je informatieboek.
+             Noteer in iedere scheidingsruimte de maximale temperatuur.
+             Noteer de namen van de stoffen bij de pijlen. Waar een * staat, hoef je
+                niets in te vullen. Laat gasvormige stoffen de scheidingsruimtes aan
+                de bovenkant verlaten.
+             Houd rekening met hergebruik van stoffen.
+
+            Voor een constante productkwaliteit moet de temperatuur in R1 gelijk
+            blijven tijdens het proces. Dit doet men door te koelen. Er komt namelijk
+            warmte vrij tijdens reactie 1.
+
+3p   17     Bereken de reactiewarmte per mol aniline van het nitrobenzeen-proces
+            (reactie 1). Ga uit van een proces waarbij alle stoffen reageren in de
+            gasfase. Selecteer hierbij de juiste informatie uit de tabellen op de
+            uitwerkbijlage en je informatieboek.
+
+            Door de temperatuur in de reactor te variëren, wordt het
+            nitrobenzeen-proces geoptimaliseerd. Hierbij wordt gestreefd naar een
+            hoge opbrengst van aniline in een zo kort mogelijke tijd. Bij verhoging van
+            de temperatuur verschuift het evenwicht in R1 naar links. Dit verschuiven
+            hoeft niet nadelig te zijn voor de opbrengst.
+
+3p   18     Voer de volgende opdrachten uit:
+             Leg uit dat het evenwicht naar links verschuift bij verhoging van de
+               temperatuur in R1.
+             Leg uit hoe het verhogen van de temperatuur in R1 toch voordelig kan
+               zijn voor de opbrengst. Gebruik het botsende-deeltjesmodel.
+
+            fenol-proces
+            Bij het fenol-proces wordt een overmaat ammoniak gemengd met fenol.
+            In dit proces verloopt reactie 2.
+
+            C6H5OH + NH3 ⇆ C6H5NH2 + H2O                             (reactie 2)
+
+            Omdat een deel van het gebruikte fenol reageert tot nevenproducten, is
+            het rendement lager dan 100%.
+
+3p   19     Bereken het rendement van het fenol-proces. Selecteer hiervoor de juiste
+            informatie uit de tabellen op de uitwerkbijlage.
+
+
+
+
+VW-1028-a-25-2-o                            9 / 13                            lees verder ►►►
+      De geur van kater-urine
+
+            Urine van katers (kater-urine) heeft een penetrante en onprettige geur.
+            Dat komt door de afbraakproducten van het aminozuur felinine (figuur 1).
+            Katers ouder dan drie maanden hebben in hun urine een hoog gehalte
+            van het aminozuur felinine. Bij poezen is dat gehalte een stuk lager. Een
+            volwassen kater plast gemiddeld drie keer per dag, en per keer gemiddeld
+            30 mL urine. Per dag scheidt een volwassen kater gemiddeld 122 µmol
+            felinine per kilogram lichaamsgewicht uit.
+
+            figuur 1
+
+
+
+
+3p   20     Bereken het gemiddelde gehalte felinine in g L–1 urine voor een
+            volwassen kater van 4,6 kg.
+
+            De meeste gezonde zoogdieren scheiden weinig eiwitten en aminozuren
+            uit via de urine, om zo kostbare bouwstoffen te behouden. Katten zijn
+            hierop een uitzondering. Katten-urine bevat behalve felinine ook een
+            relatief hoog gehalte aan het enzym cauxine. Cauxine is een zogeheten
+            carboxyl-esterase. De meeste zoogdieren hebben andere carboxyl-
+            esterases, die niet via de urine worden uitgescheiden. Dit type enzym
+            wordt hieronder ‘normale’ carboxyl-esterase genoemd.
+
+            Het fragment van het uiteinde van de aminozuurketen in ‘normale’
+            carboxyl-esterase kan worden weergegeven door ~DEL. In deze codering
+            is elk aminozuur weergegeven met het 1-lettersymbool.
+            Cauxine is een relatief klein carboxyl-esterase en heeft andere
+            aminozuren aan het uiteinde dan ‘normale’ carboxyl-esterase. Het stukje
+            van de coderende streng van het DNA dat codeert voor de laatste drie
+            aminozuren van cauxine, is:
+
+            ~ ATT GTC CCC
+
+3p   21     Voer de volgende opdrachten uit:
+             Geef de 1-lettersymbolen van de drie laatste aminozuureenheden van
+               cauxine.
+             Teken de structuurformule van het fragment van cauxine met de drie
+               laatste aminozuureenheden.
+2p   22     Leg uit of het fragment van de laatste drie aminozuureenheden in cauxine
+            meer of minder hydrofiel is dan het fragment van de laatste drie
+            aminozuureenheden in ‘normale’ carboxyl-esterase.
+
+
+
+
+VW-1028-a-25-2-o                           10 / 13                            lees verder ►►►
+            Felinine wordt in het lichaam van katten door hydrolyse gevormd uit MBG.
+            In figuur 2 zijn de betrokken omzettingen vereenvoudigd weergegeven.
+
+            figuur 2
+
+
+
+
+            Op de uitwerkbijlage is de reactievergelijking van stap 1 nogmaals
+            weergegeven.
+
+3p   23     Maak op de uitwerkbijlage de reactievergelijking van stap 1 compleet.
+             Gebruik (eventueel schematische) structuurformules.
+             Gebruik voor de formule van glutaminezuur Binas-tabel 67H1 of
+              ScienceData-tabel 13.7c.
+
+
+
+
+VW-1028-a-25-2-o                           11 / 13                           lees verder ►►►
+            Met behulp van dunnelaag-chromatografie is onderzocht of het enzym
+            cauxine een rol speelt bij de omzettingen in figuur 2. Hiertoe zijn de
+            volgende zes oplossingen bereid:
+            a en b:   MBG zonder en met cauxine
+            c en d:   MBCG zonder en met cauxine
+            e:        glycine
+            f:        felinine
+            Na een reactietijd van 10 uur bij 38 C (voor oplossingen a tot en met d)
+            werd van alle oplossingen een chromatogram gemaakt. De resultaten van
+            de experimenten zijn in figuur 3 weergegeven. Cauxine is op deze
+            chromatogrammen niet zichtbaar.
+
+            figuur 3
+
+
+
+
+            De onderzochte hypothesen zijn:
+            Hypothese 1:    Cauxine is betrokken bij de omzetting van MBG tot
+                            MBCG (stap 1).
+            Hypothese 2:    Cauxine is betrokken bij de omzetting van MBCG tot
+                            felinine (stap 2).
+
+2p   24     Leg uit voor elke hypothese of die wordt ondersteund door de resultaten
+            in figuur 3.
+
+            Felinine heeft van zichzelf weinig geur. Nadat felinine via de urine in de
+            bodem terecht is gekomen, wordt dit onder andere door micro-organismen
+            omgezet tot een reeks verschillende stoffen die wel een geur hebben,
+            zoals de stoffen X en Y. Zie figuur 4.
+
+            figuur 4
+
+
+
+
+VW-1028-a-25-2-o                           12 / 13                           lees verder ►►►
+            Uit onderzoek met bodemmonsters met katten-urine blijkt dat de stoffen X
+            en Y ook in de bodem voorkomen als gecastreerde katers (GK), poezen
+            (P) en jonge katers (JK) hebben geürineerd. Er zijn ook bodemmonsters
+            onderzocht met urine van niet-gecastreerde katers (NGK). De geur van
+            deze bodemmonsters is veel intenser dan die van de monsters van GK, P
+            en JK. Om te bepalen welke stof met name verantwoordelijk is voor de
+            geur, zijn gaschromatogrammen gemaakt van alle monsters. De
+            hoeveelheid urine is in elk monster gelijk. Van de stoffen X en Y zijn
+            vervolgens de piekoppervlaktes bepaald. Zie figuur 5.
+
+            figuur 5
+
+
+
+
+            Van stof X is bekend dat deze stof bij een tien maal zo lage concentratie,
+            een hogere geurintensiteit geeft dan stof Y. Uit figuur 5 kan worden
+            afgeleid dat stof X meer van invloed is op de intensiteit van de geur van
+            kater-urine dan stof Y.
+
+2p   25     Voer de volgende opdrachten uit:
+             Licht toe waarvoor de piekoppervlaktes in deze gaschromatogrammen
+               worden gebruikt.
+             Geef een argument waaruit blijkt dat stof X een grotere invloed heeft
+               op de intensiteit van de geur van de urine van niet-gecastreerde
+               katers (NGK) dan stof Y. Gebruik hiervoor figuur 5. Neem aan dat de
+               gevoeligheid van de detector voor de stoffen X en Y gelijk is.
+
+            In een vervolgexperiment is de snelheid van de hydrolyse van MBCG
+            onderzocht in een oplossing met 7,4 g L–1 MBCG. Na een reactietijd van
+            5,0 minuten bleek MBCG voor 1,20·10–2 % te zijn omgezet.
+
+4p   26     Bereken de gemiddelde reactiesnelheid van de omzetting van MBCG in
+            nmol L–1 s–1 gedurende deze 5,0 minuten.
+             De molaire massa van MBCG is 264 g mol–1.
+             Geef de uitkomst in het juiste aantal significante cijfers.
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+VW-1028-a-25-2-o                                         13 / 13                                          lees verdereinde
+                                                                                                                       ►►► 
+

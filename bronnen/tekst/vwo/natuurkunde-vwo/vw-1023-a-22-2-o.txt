@@ -1,0 +1,524 @@
+                                                                    Examen VWO
+
+                                                                        2022
+                                                                               tijdvak 2
+                                                                        tijdsduur: 3 uur
+
+
+
+                                                                     natuurkunde
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+
+ Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+ Dit examen bestaat uit 25 vragen.
+ Voor dit examen zijn maximaal 75 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+ Als bij een vraag een verklaring, uitleg, berekening of afleiding gevraagd wordt,
+ worden aan het antwoord meestal geen punten toegekend als deze verklaring,
+ uitleg, berekening of afleiding ontbreekt.
+
+ Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+ Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+ redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-1023-a-22-2-o
+      Massa meten in de ruimte
+
+            Astronauten verblijven soms langdurig             figuur 1
+            in een ruimtestation dat om de aarde cirkelt.
+            Om te voorkomen dat de astronauten spier-
+            en botmassa verliezen moeten ze
+            oefeningen doen. Daarom moet gedurende
+            het verblijf hun massa gemonitord worden.
+
+            Om in de ruimte de massa van astronauten
+            te bepalen, is speciale apparatuur nodig.
+            Anders dan op aarde kan de massa niet worden bepaald door de
+            astronauten op een gewone personenweegschaal te laten staan.
+2p    1     Leg uit waarom dat niet kan.
+
+            Figuur 1 toont een foto van een astronaute in een speciale stoel waarmee
+            haar massa kan worden bepaald. Deze stoel is via twee veren, aan de
+            voor- en achterkant van de stoel, verbonden aan twee vaste
+            ophangpunten. Als de stoel een horizontale uitwijking krijgt, gaat hij trillen.
+            Door de trillingstijd te meten, kan de massa van de astronaute worden
+            bepaald.
+            Jasper en André doen een experiment waarbij ze dit simuleren. Ze
+            gebruiken een luchtkussenbaan met daarop een slede die met twee
+            identieke veren is vastgemaakt aan twee vaste klemmen (zie figuur 2). De
+            veerconstante van elke veer is 25 N m-1.
+
+            figuur 2
+
+
+
+
+            De klemmen A en B zijn zo ver uit elkaar gezet dat de veren gespannen
+            zijn als de slede in de evenwichtsstand staat. In de figuur op de
+            uitwerkbijlage zijn drie situaties getekend:
+            1 De veren zijn nog niet bevestigd aan de slede. L0 is de rustlengte van
+                   de veren.
+            2      De slede is aan twee gespannen veren bevestigd en bevindt zich in de
+                   evenwichtsstand. De uitrekking van beide veren is nu u0 .
+            3      De slede heeft een uitwijking x uit de evenwichtsstand. De uitrekking
+                   van beide veren is respectievelijk u L en uR .
+
+
+
+
+VW-1023-a-22-2-o                               2 / 15                            lees verder ►►►
+            André beweert dat het massa-veersysteem, bestaande uit de slede en de
+            twee veren, een totale veerconstante heeft van 50 Nm-1.
+
+            In de figuur op de uitwerkbijlage is in de situaties 2 en 3 de veerkracht FL
+            van de linker veer op de slede getekend.
+4p    2     Voer de volgende opdrachten uit:
+             Teken in de figuur op de uitwerkbijlage de veerkracht FR van de
+                   rechter veer op de slede in de situaties 2 en 3.
+                  Leg hiermee uit dat André gelijk heeft.
+
+            Nadat de slede een uitwijking uit de evenwichtsstand heeft gekregen,
+            beweegt deze wrijvingsloos over de luchtkussenbaan. Jasper en André
+            maken een videometing van de beweging van de slede. Het
+            ( x, t ) -diagram van deze meting staat in figuur 3.
+
+            figuur 3
+
+
+
+
+3p    3     Bepaal de massa van de slede met behulp van figuur 3. Noteer je
+            antwoord in twee significante cijfers.
+
+            Jasper en André maken een computermodel om het massa-veersysteem
+            in het ruimtestation te beschrijven. De waardes van alle grootheden zijn
+            dus niet hetzelfde als bij de vorige vragen. Net als bij het experiment zijn
+            in het model de veren gespannen als de stoel met de astronaut zich in de
+            evenwichtsstand bevindt.
+
+
+
+
+VW-1023-a-22-2-o                                3 / 15                         lees verder ►►►
+            Jasper en André maken met het model een grafiek voor x als functie van
+            de tijd. Zie figuur 4. Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 4
+
+
+
+
+5p    4     Voer de volgende opdrachten uit:
+             Bepaal met behulp van het ( x, t ) -diagram op de uitwerkbijlage de
+               maximale snelheid van de stoel. Noteer je antwoord in twee
+               significante cijfers.
+             Teken in de figuur op de uitwerkbijlage het bijbehorende
+               (v, t ) -diagram.
+
+            Dan bedenkt Jasper dat er in het ruimtestation wrijving is. Hij past het
+            model aan door een wrijvingskracht toe te voegen. Hij voegt ook de
+            formules toe voor de kinetische energie Ek , de veerenergie Ev en de
+            totale energie Et van het massa-veersysteem. Hierbij is Et  Ek  Ev .
+1p    5     Welke formule voor de veerenergie is de juiste?
+            A      Ev  12 C (uL2  uR2 )
+            B      Ev  12 C (uL2  uR2 )
+            C      Ev  12 C (uL  uR ) 2
+            D      Ev  12 C (uL  uR ) 2
+
+            Jasper maakt met het aangepaste model grafieken voor de kinetische
+            energie, de veerenergie en de totale energie als functie van de tijd. Zie
+            figuur 5.
+
+
+
+
+VW-1023-a-22-2-o                             4 / 15                            lees verder ►►►
+            figuur 5
+
+
+
+
+            Uit figuur 5 blijkt dat de veerenergie niet tot 0 J daalt.
+1p    6     Geef hiervoor de natuurkundige verklaring.
+
+            André constateert dat het totale energieverlies per seconde afwisselend
+            toe- en afneemt, waardoor de grafiek van Et er nogal hobbelig uitziet. Hij
+            ziet ook dat Et het snelst daalt als Ek maximaal is. André vermoedt dat
+            dit komt doordat in het model voor de wrijvingskracht de formule voor
+            luchtweerstand is gebruikt. Omdat deze afhankelijk is van de snelheid zal
+            het energieverlies per seconde het grootst zijn als de snelheid maximaal
+            is. Om deze hypothese te toetsen past André de modelformule voor de
+            wrijvingskracht aan zodat de grootte van de wrijvingskracht constant is.
+            Vervolgens maakt André met het model de grafieken van Ek en Et
+            opnieuw. Hij verwacht dat de grafiek van Et nu geen hobbels meer
+            vertoont.
+2p    7     Leg uit of de verwachting van André terecht is.
+
+
+
+
+VW-1023-a-22-2-o                              5 / 15                         lees verder ►►►
+      ECG in MRI
+
+            Het hart pompt het bloed door het lichaam. Dit gebeurt doordat een
+            elektrische prikkel de hartspier laat samentrekken. Tijdens de
+            samentrekkingen treedt scheiding op van elektrische lading. Dit kun je
+            meten en vervolgens zichtbaar maken met een elektrocardiogram (ECG).
+            In figuur 1 is een ECG weergegeven van een gezonde persoon. Dit ECG
+            is getekend door een pen die met een snelheid van 25 mm s 1 van links
+            naar rechts beweegt. Figuur 1 is op ware grootte.
+
+            figuur 1
+
+
+
+
+            Het hartritme is gedefinieerd als het aantal slagen van het hart per
+            minuut.
+3p    8     Bepaal met behulp van figuur 1 het hartritme van deze persoon. Noteer je
+            antwoord in twee significante cijfers.
+
+            Bij het maken van een ECG in het ziekenhuis worden er vaak drie
+            elektroden op de huid van de patiënt geplakt: op de rechterarm (A) , op de
+            linkerarm (B) en op het linkerbeen (C). Zie figuur 2. De spanningen die
+            tussen de elektroden worden gemeten leveren drie verschillende ECG’s
+            op.
+
+            figuur 2
+
+
+
+
+VW-1023-a-22-2-o                           6 / 15                            lees verder ►►►
+            De spanningsmeters in figuur 2 meten respectievelijk de spanning U AB
+            tussen A en B, de spanning U AC tussen A en C en de spanning U BC
+            tussen B en C. De plus- en minaansluitingen van de spanningsmeters zijn
+            aangegeven in figuur 2.
+            Het ECG van figuur 1 is een meting van de spanning tussen A en C. Dit
+            ECG kan ook verkregen worden door de spanning tussen A en B en de
+            spanning tussen B en C te meten en deze spanningen voor ieder tijdstip
+            bij elkaar op te tellen.
+2p    9     Leg dit uit met behulp van de spanningswet van Kirchhoff.
+
+            Bij mensen die een traag hartritme hebben, wordt vaak een pacemaker
+            ingebracht. Dit apparaat meet voortdurend het hartritme en kan met kleine
+            stroomstootjes het ritme bijsturen.
+            Voor het plaatsen van een pacemaker wordt een dun slangetje, een
+            katheter, in het hart aangebracht. Om tijdens het inbrengen de katheter te
+            volgen wordt een CT-scan van de patiënt gemaakt. Tegelijkertijd wordt de
+            hartfunctie in de gaten gehouden met een ECG.
+            In plaats van gebruik te maken van een CT-scan zou het voor de patiënt
+            beter zijn als het inbrengen van de katheter gevolgd zou worden met een
+            MRI-scan.
+1p   10     Geef een natuurkundige reden waarom dit beter is voor de patiënt.
+
+            Het maken van een MRI-scan heeft ook nadelen. Het sterke magneetveld
+            van de MRI-scanner zorgt ervoor dat het ECG van de patiënt er anders
+            uitziet, zelfs als het hart normaal functioneert.
+            De verandering komt doordat in het bloed positieve en negatieve ionen
+            zitten. Door de stroming van het bloed en het uitwendige magneetveld van
+            de MRI-scanner ontstaat een lorentzkracht op de ionen. Hierdoor treedt in
+            het bloed ladingsscheiding op waardoor een elektrische spanning ontstaat
+            die de ECG-meting beïnvloedt. In figuur 3 staat een voorbeeld van de
+            verandering van een ECG als het magneetveld verandert. Dit is vooral te
+            zien bij de pijlen.
+
+
+
+
+VW-1023-a-22-2-o                           7 / 15                            lees verder ►►►
+            figuur 3                                       figuur 4
+
+
+
+
+            In figuur 4 is schematisch een
+            doorsnede van de borstkas in
+            zijaanzicht weergegeven. Het bloed
+            verlaat het hart onder andere via het
+            grootste bloedvat in het lichaam, de
+            aorta. De aorta is in figuur 4
+            overdreven groot weergegeven. 
+            Het uitwendige magnetisch veld B0 is
+            aangegeven met pijlen die in de figuur
+            van onder naar boven lopen. De
+            horizontale pijlen in de aorta geven de
+                              
+            stroomsnelheid v van het bloed aan.
+            In het bovenste deel van de aorta staan de stromingsrichting van het
+            bloed en de richting van het magneetveld loodrecht op elkaar.
+            Figuur 4 staat ook op de uitwerkbijlage.
+
+3p   11     Voer de volgende opdrachten uit:
+             Geef in de cirkel in de figuur op de uitwerkbijlage de richting aan van
+               de lorentzkracht op de positieve ionen.
+             Leg uit dat er in de aorta ladingsscheiding optreedt.
+             Leg hiermee uit op welke spanning ( U AB , U BC of U AC ) de invloed van
+                   deze ladingsscheiding het grootst is.
+
+
+
+
+VW-1023-a-22-2-o                               8 / 15                        lees verder ►►►
+            Samira en Fatima willen controleren of de verandering in het ECG
+            verklaard kan worden door de ladingsscheiding in de aorta als gevolg van
+            het magneetveld in de MRI-scanner.
+            Ze leiden een formule af voor de spanning die ontstaat als gevolg van
+            deze ladingsscheiding:
+
+                   U ls  v  B0  d                     (1)
+
+            Hierin is:
+             U ls de spanning in de aorta als gevolg van de ladingsscheiding in V
+             v de stroomsnelheid van het bloed in ms 1
+             B0 de sterkte van het magneetveld in de MRI-scanner in T
+             d de gemiddelde afstand tussen de positieve en negatieve lading in m
+
+            Samira en Fatima zien dat op een bepaald moment bij een magnetische
+            veldsterkte van 3, 0 T de toename van de spanning in het ECG 1 mV is
+            ten opzichte van de situatie bij 0 T . Ze vinden in een informatieboek dat
+            er op dat moment tijdens een hartslag per seconde 600 mL bloed door de
+            aorta stroomt en dat de diameter van de aorta 3 cm is. Ze leiden af dat
+            voor de stroomsnelheid in het bloed geldt:
+
+                        Q
+                   v                                    (2)
+                        A
+
+            Hierin is:
+             Q de hoeveelheid bloed die per seconde door de aorta stroomt in
+                   m3 s 1
+                  A de oppervlakte van de dwarsdoorsnede van de aorta in m 2
+
+            Samira en Fatima realiseren zich dat de bovenstaande verklaring alleen
+            kan kloppen als d kleiner is dan de diameter van de aorta.
+4p   12     Leg met behulp van een berekening uit of de verandering van het ECG
+            verklaard zou kunnen worden door ladingsscheiding in de aorta.
+
+
+
+
+VW-1023-a-22-2-o                             9 / 15                             lees verder ►►►
+      Adelaarsnevel
+
+            Een interstellaire wolk is een groot     figuur 1
+            gebied in het heelal, van vele
+            tientallen lichtjaren in omvang, dat
+            zeer ijl gas bevat. Dit gas bestaat voor
+            het grootste deel uit atomair
+            waterstof.
+            Onder bepaalde omstandigheden kan
+            een interstellaire wolk zelf licht
+            uitzenden. De wolk wordt dan een
+            emissienevel genoemd. Figuur 1 is
+            een foto van zo’n nevel, de
+            Adelaarsnevel.
+            In een emissienevel wordt
+            voortdurend waterstof geïoniseerd,
+            waarna de protonen en elektronen
+            weer recombineren tot atomen. Hierbij wordt zichtbaar licht uitgezonden.
+            De lijnen van het waterstofspectrum zijn altijd terug te vinden in het
+            spectrum van een emissienevel. Eén van de waterstoflijnen overheerst in
+            het zichtbare spectrum, namelijk de lijn met een golflengte van 656,28 nm.
+            Emissienevels hebben daardoor vaak een karakteristieke rode kleur.
+
+5p   13     Voer de volgende opdrachten uit:
+             Bereken, uitgaande van de gegeven golflengte, de fotonenergie in eV
+               van de overheersende waterstoflijn in het spectrum van een
+               emissienevel. Noteer je antwoord in het juiste aantal significante
+               cijfers.
+             Toon met behulp van de formule voor de energie van het
+               waterstofatoom aan dat deze lijn hoort bij de overgang tussen de
+               eerste en de tweede aangeslagen toestand van waterstof.
+             Geef aan of het een overgang is van eerste naar tweede aangeslagen
+               toestand of andersom.
+
+            Om van een interstellaire wolk een emissienevel te maken moet aan twee
+            voorwaarden worden voldaan:
+            1 er moet een ster in de nevel aanwezig zijn,
+            2 deze ster moet vooral straling uitzenden met frequenties die groter zijn
+               dan van zichtbaar licht.
+
+2p   14     Leg uit waarom voorwaarde 2 noodzakelijk is.
+
+
+
+
+VW-1023-a-22-2-o                           10 / 15                           lees verder ►►►
+            Het valt Eva en Isa op dat ster HD168076 op dezelfde plek aan de hemel
+            staat als de Adelaarsnevel. Deze ster wordt in de rest van deze opgave
+            ‘de ster’ genoemd.
+            Eva en Isa willen de hypothese toetsen dat de ster één van de sterren is
+            die van de interstellaire wolk een emissienevel maakt.
+            De planckkromme van de ster is in figuur 2 weergegeven.
+
+            figuur 2
+
+
+
+
+2p   15     Leg met behulp van figuur 2 uit dat de ster aan voorwaarde 2 voldoet.
+
+3p   16     Toon met behulp van figuur 2 aan dat de ster een temperatuur van
+            4 104 K heeft.
+
+            Op de uitwerkbijlage is een Hertzsprung-Russelldiagram weergegeven.
+            Op de verticale as staat het uitgezonden vermogen ten opzichte van de
+            zon, op een logaritmische schaal. Op de horizontale as staat de
+            temperatuur, aflopend van links naar rechts, eveneens op een
+            logaritmische schaal.
+            De ster is een ster op de hoofdreeks. Eva en Isa benaderen de
+            hoofdreeks met een lijn. Deze lijn is getekend in de figuur op de
+            uitwerkbijlage. Ze gaan ervan uit dat hoofdreekssterren op deze lijn
+            liggen.
+
+
+
+
+VW-1023-a-22-2-o                           11 / 15                          lees verder ►►►
+5p   17     Voer de volgende opdrachten uit:
+             Toon met behulp van de figuur op de uitwerkbijlage aan dat het
+               uitgestraald vermogen van de ster gelijk is aan 2 1032 W .
+                  Bereken hiermee de straal van de ster.
+
+            Eva en Isa gebruiken een optische telescoop om de stralingsintensiteit
+            van de ster te bepalen die op aarde wordt ontvangen. De telescoop
+            detecteert 60% van de stralingsintensiteit in het golflengtegebied van 400
+            tot 800 nm.
+            Eva en Isa meten met deze telescoop een stralingsintensiteit van
+            4,7 1011 W m 2 in dit golflengtegebied.
+            Uit hun meting bepalen ze met behulp van figuur 2 dat de totale
+            ontvangen stralingsintensiteit op aarde van de ster 3, 4  109 W m 2 is.
+
+            Figuur 2 staat vergroot op de uitwerkbijlage. Het gebied onder de grafiek
+            tussen 400 nm en 800 nm is gearceerd. De oppervlakte van dit gebied is
+            gelijk aan 0,2 hokje.
+4p   18     Voer de bepaling van Eva en Isa uit en toon aan dat de uitkomst
+            inderdaad tussen 3 109 W m 2 en 4 109 W m 2 ligt.
+
+
+            De Adelaarsnevel bevindt zich op een afstand van 7 103 lichtjaar .
+3p   19     Toon met behulp van een berekening aan of aan voorwaarde 1 kan zijn
+            voldaan.
+
+
+
+
+VW-1023-a-22-2-o                              12 / 15                            lees verder ►►►
+      LEO-satelliet
+
+            Low Earth Orbit (LEO) satellieten                figuur 1
+            worden gebruikt voor onderzoek aan het
+            broeikaseffect. Deze satellieten draaien
+            betrekkelijk laag boven het
+            aardoppervlak. Zie figuur 1.
+
+            De snelheid van een satelliet kan worden
+            berekend met de formule:
+
+                        GM
+                   v                     (1)
+                         r
+
+            Hierin is:
+             v de snelheid in m s1
+             G de gravitatieconstante in N m2 kg-2
+             M de massa van de aarde in kg
+             r de baanstraal van de satelliet in m
+
+
+            De totale energie Et van een satelliet is de som van de kinetische energie
+            en de gravitatie-energie.
+            De totale energie van een satelliet kan berekend worden met de formule:
+
+                         1 mM
+                   Et   G                      (2)
+                         2  r
+
+            Hierin is:
+             Et             de totale energie van de satelliet in J
+                  G         de gravitatieconstante in N m2 kg-2
+                  m         de massa van de satelliet in kg
+                  M         de massa van de aarde in kg
+                  r         de baanstraal van de satelliet in m
+
+4p   20     Leid de formules (1) en (2) af met behulp van formules uit het
+            informatieboek.
+
+            Een bepaalde LEO-satelliet bevindt zich op een hoogte van 425 km.
+3p   21     Toon aan dat deze satelliet een snelheid heeft van 7,658 km s1.
+
+            Op deze hoogte is de atmosferische wrijving niet helemaal
+            verwaarloosbaar. De dichtheid van de atmosfeer hangt sterk af van de
+            hoogte h boven het aardoppervlak. Het verloop van de dichtheid tussen
+            h = 400 km en h = 450 km is weergegeven in figuur 2.
+
+
+VW-1023-a-22-2-o                                 13 / 15                     lees verder ►►►
+            figuur 2
+
+
+
+
+            De satelliet heeft een cw -waarde van 2,2 en een frontaal oppervlak van
+            0,385 m2.
+4p   22     Bepaal de energie die deze satelliet elke seconde verliest ten gevolge van
+            atmosferische wrijving.
+
+            De totale energie uit formule (2) is een functie van r en kun je dus ook
+            noteren als Et ( r )   12 G mMr 1 .
+3p   23     Voer de volgende opdrachten uit:
+                                    d Et
+                  Geef de afgeleide     door Et ( r ) te differentiëren.
+                                     dr
+                                                         d Et
+                  Leg aan de hand van het teken van          uit dat door de wrijving de
+                                                         dr
+                   hoogte van de LEO-satelliet steeds kleiner wordt.
+
+
+
+
+VW-1023-a-22-2-o                                14 / 15                            lees verder ►►►
+            Als er niet gecorrigeerd zou worden voor het hoogteverlies door de
+            wrijving zou de hoogte van de LEO-satelliet afnemen volgens figuur 3.
+            Deze figuur staat ook op de uitwerkbijlage.
+
+            figuur 3
+
+
+
+
+            Aan het eind van de levensduur van de satelliet wordt er niet meer
+            gecorrigeerd voor het hoogteverlies.
+4p   24     Bepaal met behulp van de figuur op de uitwerkbijlage het hoogteverlies
+            per omwenteling om de aarde van de satelliet die zich op een hoogte van
+            425 km bevindt. Noteer je antwoord in twee significante cijfers.
+
+            Aan het eind van de levensduur verandert de baansnelheid van de
+            satelliet.
+2p   25     Leg met behulp van formule (1) uit of deze baansnelheid steeds kleiner of
+            steeds groter wordt.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+VW-1023-a-22-2-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+
