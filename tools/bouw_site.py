@@ -9,6 +9,7 @@ Draaien (vanuit de map eindexamen-oefenen, na snij.py):
     python3 tools/bouw_site.py
 """
 import json
+from datetime import date
 import re
 from collections import defaultdict
 from pathlib import Path
@@ -259,7 +260,7 @@ def main():
         sleutel = re.sub(r'-(o|c|u|c-a\d?|o-e|q|b)$', '', d['code'])
         per_examen[sleutel].setdefault(d['soort'], d['url'])
     UIT.mkdir(parents=True, exist_ok=True)
-    overzicht = {'niveaus': NIVEAUS, 'vakken': {}}
+    overzicht = {'niveaus': NIVEAUS, 'bijgewerkt': date.today().isoformat(), 'vakken': {}}
     for vak, info in VAKKEN.items():
         if not (ROOT / 'indeling' / f'{vak}.json').exists():  # nog niet ingedeeld
             continue

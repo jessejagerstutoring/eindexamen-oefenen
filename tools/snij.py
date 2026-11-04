@@ -80,8 +80,9 @@ def vragen_opgaven(pags):
                 while verder:
                     verder = False
                     for s in lijst:
-                        # zelfde inspringing, of iets verder (opsommingen met een streepje onder de vraag)
-                        if x - 4 < s[0] < x + 30 and onder - 1 < s[1] < onder + 6 and s[3] > onder:
+                        # zelfde inspringing of verder in de linkerkolom (opsommingen, formules met een breuk)
+                        # (bij krappe regelafstand overlappen de regelkaders, dus ook iets erboven)
+                        if x - 4 < s[0] < 300 and onder - 6 < s[1] < onder + 6 and s[3] > onder + 4:
                             onder, verder = s[3], True
                 if n not in uit:
                     uit[n] = (p, min(r[1], min(s[1] for s in tekst)), onder)
@@ -89,8 +90,13 @@ def vragen_opgaven(pags):
     for n, (p, y0, y1) in list(uit.items()):
         na = [b[1] for m, b in uit.items() if m > n and b[0] == p and b[1] > y0]
         if na and y1 > min(na) - 2:
-            uit[n] = (p, y0, min(na) - 4)
+            uit[n] = (p, y0, min(na) - 2)
     return uit
+
+
+def tussen(y1, volgende):
+    """Snijlijn boven de volgende regel; staan de regels dicht op elkaar, dan precies ertussen."""
+    return volgende - 4 if volgende - y1 >= 8 else (y1 + volgende) / 2
 
 
 def zoek_titel(pags, titel, na):
@@ -116,8 +122,8 @@ def einde_na(pags, p, y1):
     figuur naast de vraag die lager doorloopt er helemaal bij komt."""
     pag = pags[p - 1]
     grens = voet(pag)
-    volgende = [r[1] for r in pag[3] if r[1] > y1 + 2 and r[1] < grens and (r[0] < 300 or re.match(r'(figuur|tabel|foto)\s*\d', r[4], re.I))]
-    return min(volgende) - 4 if volgende else grens
+    volgende = [r[1] for r in pag[3] if r[1] > y1 - 3 and r[3] > y1 + 4 and r[1] < grens and (r[0] < 300 or re.match(r'(figuur|tabel|foto)\s*\d', r[4], re.I))]
+    return tussen(y1, min(volgende)) if volgende else grens
 
 
 def stukken(pags, van, tot, boven=34):
@@ -148,6 +154,14 @@ class Beelden:
             subprocess.run(['pdftoppm', '-r', str(DPI), '-f', str(p), '-l', str(p), '-gray', '-png', '-singlefile', str(self.pdf), str(uit)], check=True)
             self.cache = {p: Image.open(f'{uit}.png').convert('L')}  # alleen de laatste pagina bewaren
         return self.cache[p]
+
+    def witste(self, p, y, links, rechts, bereik=6):
+        """De pixelrij met de minste inkt binnen bereik pt rond y (bij gelijkspel de dichtstbijzijnde), in pt."""
+        img = self.pagina(p)
+        px, x0, x1 = img.load(), int(links * SCH), int(rechts * SCH)
+        rijen = range(max(0, int((y - bereik) * SCH)), min(img.height, int((y + bereik) * SCH)))
+        inkt = lambda r: sum(1 for x in range(x0, x1, 2) if px[x, r] < 200)
+        return min(rijen, key=lambda r: (inkt(r), abs(r - y * SCH))) / SCH if rijen else y
 
     def snij(self, delen, links, rechts, pad):
         stukjes = []
@@ -271,12 +285,14 @@ def main():
                 else:
                     begin = vorige_eind
                 eind = (p, einde_na(pags, p, y1))
+                if eind[1] < voet(pags[p - 1]):
+                    eind = (p, beeld.witste(p, eind[1], 40, breedte - 30))
                 delen = stukken(pags, begin, eind)
                 maat = beeld.snij(delen, 40, breedte - 30, UIT / code / f's{n}.webp')
                 resultaat.setdefault(code, {})[str(n)] = {'stuk': f'img/{code}/s{n}.webp', 'maat': maat, 'nieuweOpgave': nieuw}
                 # een figuurlabel naast de laatste regel van de vraag hoort bij het volgende stuk
                 labels = [r[1] for r in pags[p - 1][3] if y0 < r[1] < eind[1] and r[0] >= 300 and re.match(r'(figuur|tabel|foto)\s*\d', r[4], re.I)]
-                vorige_titel, vorige_eind, laatste = v['opgave'], (p, min([eind[1]] + labels) - 4), (p, y1)
+                vorige_titel, vorige_eind, laatste = v['opgave'], (p, min([eind[1]] + [l - 4 for l in labels])), (p, y1)
             # ---------- correctievoorschrift ----------
             if 'correctievoorschrift' in ex:
                 pdf = BRON / ex['correctievoorschrift']['pdf']
