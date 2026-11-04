@@ -239,8 +239,7 @@ def biologie(niveau):
         ]),
         ('Planten en ecologie', [
             ('plant', 'Planten', 'B3, B8', 'Fotosynthese, hout- en bastvaten, huidmondjes, wortels en beperkende factoren.'),
-            ('ecologie', 'Ecosystemen en kringlopen', 'B8, D4', 'Voedselwebben, energiestroom, relaties, stikstofkringloop, exoten en duurzaamheid.'),
-            ('gedrag', 'Gedrag', 'D2', 'Gedragsvormen, communicatie en de functie van gedrag.'),
+            ('ecologie', 'Ecosystemen, kringlopen en gedrag', 'B8, D2, D4', 'Voedselwebben, energiestroom, relaties, populaties, stikstofkringloop, exoten, duurzaamheid en gedrag.'),
         ]),
     ]}
 

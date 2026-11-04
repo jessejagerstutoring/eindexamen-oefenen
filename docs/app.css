@@ -33,11 +33,12 @@ img { max-width: 100%; display: block; }
 .merk { text-decoration: none; color: #fff; display: grid; line-height: 1.2; }
 .merk-naam { font-family: var(--serif); font-size: 22px; font-weight: 700; letter-spacing: .005em; }
 .merk-sub { font-size: 13px; color: #c9d3e2; letter-spacing: .02em; }
-.hoofdnav { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: 15px; }
+.hoofdnav { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 14.5px; }
 .hoofdnav a { color: #dfe6f0; text-decoration: none; padding: 4px 0; border-bottom: 2px solid transparent; }
 .hoofdnav a:hover { color: #fff; }
 .hoofdnav a.aan { color: #fff; border-bottom-color: var(--oker); }
-.hoofdnav b { color: #9fb0c8; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .08em; margin-right: -10px; padding: 4px 0; }
+.hoofdnav b { color: #9fb0c8; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .08em; margin: 0 -6px 0 6px; padding: 4px 0; }
+.hoofdnav b:first-child { margin-left: 0; }
 .kruimel-balk { background: var(--wit); border-bottom: 1px solid var(--lijn); }
 .kruimel { font-size: 14px; color: var(--grijs); padding-block: 9px; min-height: 40px; display: flex; flex-wrap: wrap; gap: 4px 8px; }
 .kruimel a { color: var(--grijs); }
