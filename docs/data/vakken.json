@@ -1431,6 +1431,207 @@
      ]
     }
    ]
+  },
+  "scheikunde-havo": {
+   "niveau": "havo",
+   "naam": "Scheikunde",
+   "opmerking": "Bij dit examen gebruik je Binas of ScienceData. Die staan niet bij de originele stukken.",
+   "vragen": 563,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "ha-1028-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "ha-1028-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "ha-1028-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "ha-1028-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "ha-1028-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "ha-1028-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "ha-1028-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "ha-1028-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "ha-1028-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "ha-1028-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "ha-1028-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "ha-1028-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "ha-1028-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "ha-1028-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "ha-1028-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "ha-1028-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Stoffen en deeltjes",
+     "onderwerpen": [
+      {
+       "id": "bouw",
+       "naam": "Atoombouw, bindingen en structuren",
+       "code": "B1–B4",
+       "omschrijving": "Ionen, roosters, polariteit, waterstofbruggen, oplosbaarheid en faseovergangen.",
+       "vragen": 94,
+       "punten": 193
+      },
+      {
+       "id": "organisch",
+       "naam": "Koolstofverbindingen en polymeren",
+       "code": "B/C8",
+       "omschrijving": "Naamgeving, structuurformules, esters, additie, condensatie en kunststoffen.",
+       "vragen": 84,
+       "punten": 180
+      }
+     ]
+    },
+    {
+     "naam": "Chemische processen",
+     "onderwerpen": [
+      {
+       "id": "reacties",
+       "naam": "Reactievergelijkingen",
+       "code": "C1",
+       "omschrijving": "Reacties opstellen en kloppend maken, verbranding en neerslagreacties.",
+       "vragen": 29,
+       "punten": 76
+      },
+      {
+       "id": "rekenen",
+       "naam": "Chemisch rekenen",
+       "code": "C2",
+       "omschrijving": "Mol, massa, concentratie, massapercentage, ppm en rendement.",
+       "vragen": 60,
+       "punten": 180
+      },
+      {
+       "id": "energie",
+       "naam": "Energie en reactiewarmte",
+       "code": "C3",
+       "omschrijving": "Vormingswarmte, exotherm en endotherm, energiediagrammen.",
+       "vragen": 27,
+       "punten": 66
+      },
+      {
+       "id": "snelheid",
+       "naam": "Reactiesnelheid en katalyse",
+       "code": "C6",
+       "omschrijving": "Botsende-deeltjesmodel, verdelingsgraad, temperatuur en katalysatoren.",
+       "vragen": 25,
+       "punten": 56
+      },
+      {
+       "id": "zuurbase",
+       "naam": "Zuren en basen",
+       "code": "C8",
+       "omschrijving": "pH, [H⁺] en [OH⁻], zuur-basereacties, buffers en titraties.",
+       "vragen": 33,
+       "punten": 66
+      },
+      {
+       "id": "redox",
+       "naam": "Redoxreacties en elektrochemie",
+       "code": "C8",
+       "omschrijving": "Oxidator en reductor, halfreacties, batterijen, brandstofcellen en elektrolyse.",
+       "vragen": 57,
+       "punten": 118
+      }
+     ]
+    },
+    {
+     "naam": "Chemie in de praktijk",
+     "onderwerpen": [
+      {
+       "id": "analyse",
+       "naam": "Scheiden, analyseren en veiligheid",
+       "code": "D1–D2",
+       "omschrijving": "Scheidingsmethoden, chromatografie, ijklijnen en H- en P-zinnen.",
+       "vragen": 37,
+       "punten": 66
+      },
+      {
+       "id": "proces",
+       "naam": "Industriële processen en blokschema's",
+       "code": "C5",
+       "omschrijving": "Blokschema's, stofstromen, recirculatie en procesvoering.",
+       "vragen": 23,
+       "punten": 53
+      },
+      {
+       "id": "duurzaam",
+       "naam": "Groene chemie en duurzaamheid",
+       "code": "E–G",
+       "omschrijving": "Atoomeconomie, uitgangspunten van de groene chemie, broeikaseffect en kringlopen.",
+       "vragen": 44,
+       "punten": 75
+      },
+      {
+       "id": "leven",
+       "naam": "Chemie van het leven",
+       "code": "G1",
+       "omschrijving": "Eiwitten, aminozuren, koolhydraten, vetten en enzymen.",
+       "vragen": 50,
+       "punten": 102
+      }
+     ]
+    }
+   ]
   }
  }
 }

@@ -187,6 +187,35 @@ VAKKEN['natuurkunde-vwo'] = {
         ]),
     ]}
 
+
+def scheikunde(niveau, c):
+    """Onderwerpen scheikunde; c geeft de syllabuscodes, die per niveau verschillen."""
+    return {'niveau': niveau, 'naam': 'Scheikunde', 'opmerking': BINAS, 'domeinen': [
+        ('Stoffen en deeltjes', [
+            ('bouw', 'Atoombouw, bindingen en structuren', 'B1–B4', 'Ionen, roosters, polariteit, waterstofbruggen, oplosbaarheid en faseovergangen.'),
+            ('organisch', 'Koolstofverbindingen en polymeren', 'B/' + c['klas'], 'Naamgeving, structuurformules, esters, additie, condensatie en kunststoffen.'),
+        ]),
+        ('Chemische processen', [
+            ('reacties', 'Reactievergelijkingen', c['proces'], 'Reacties opstellen en kloppend maken, verbranding en neerslagreacties.'),
+            ('rekenen', 'Chemisch rekenen', c['rekenen'], 'Mol, massa, concentratie, massapercentage, ppm en rendement.'),
+            ('energie', 'Energie en reactiewarmte', c['energie'], 'Vormingswarmte, exotherm en endotherm, energiediagrammen.'),
+            ('snelheid', 'Reactiesnelheid en katalyse', c['snelheid'], 'Botsende-deeltjesmodel, verdelingsgraad, temperatuur en katalysatoren.'),
+            ('evenwicht', 'Chemisch evenwicht', c['evenwicht'], 'Evenwichtsvoorwaarde, evenwichtsconstante en verschuiving.'),
+            ('zuurbase', 'Zuren en basen', c['klas'], 'pH, [H⁺] en [OH⁻], zuur-basereacties, buffers en titraties.'),
+            ('redox', 'Redoxreacties en elektrochemie', c['klas'], 'Oxidator en reductor, halfreacties, batterijen, brandstofcellen en elektrolyse.'),
+        ]),
+        ('Chemie in de praktijk', [
+            ('analyse', 'Scheiden, analyseren en veiligheid', 'D1–D2', 'Scheidingsmethoden, chromatografie, ijklijnen en H- en P-zinnen.'),
+            ('proces', 'Industriële processen en blokschema\'s', c['technologie'], 'Blokschema\'s, stofstromen, recirculatie en procesvoering.'),
+            ('duurzaam', 'Groene chemie en duurzaamheid', 'E–G', 'Atoomeconomie, uitgangspunten van de groene chemie, broeikaseffect en kringlopen.'),
+            ('leven', 'Chemie van het leven', 'G1', 'Eiwitten, aminozuren, koolhydraten, vetten en enzymen.'),
+        ]),
+    ]}
+
+
+VAKKEN['scheikunde-havo'] = scheikunde('havo', {'klas': 'C8', 'proces': 'C1', 'rekenen': 'C2', 'energie': 'C3', 'evenwicht': 'C4', 'technologie': 'C5', 'snelheid': 'C6'})
+VAKKEN['scheikunde-vwo'] = scheikunde('vwo', {'klas': 'C7', 'proces': 'C1', 'rekenen': 'C2', 'energie': 'C6', 'evenwicht': 'C5', 'technologie': 'C8', 'snelheid': 'C4'})
+
 NIVEAUS = {'havo': 'Havo', 'vwo': 'Vwo'}
 
 
@@ -201,6 +230,8 @@ def main():
     UIT.mkdir(parents=True, exist_ok=True)
     overzicht = {'niveaus': NIVEAUS, 'vakken': {}}
     for vak, info in VAKKEN.items():
+        if not (ROOT / 'indeling' / f'{vak}.json').exists():  # nog niet ingedeeld
+            continue
         indeling = json.loads((ROOT / 'indeling' / f'{vak}.json').read_text())
         hint_pad = ROOT / 'hints' / f'{vak}.json'
         hints = json.loads(hint_pad.read_text()) if hint_pad.exists() else {}
@@ -242,7 +273,8 @@ def main():
         examens = sorted({(q['jaar'], q['tijdvak'], q['examen']) for q in vragen}, reverse=True)
         overzicht['vakken'][vak] = {
             'niveau': info['niveau'], 'naam': info['naam'], 'opmerking': info.get('opmerking', ''), 'vragen': len(vragen), 'examens': [{'jaar': j, 'tijdvak': t, 'code': c} for j, t, c in examens],
-            'domeinen': [{'naam': dn, 'onderwerpen': [{'id': s, 'naam': n, 'code': c, 'omschrijving': o, 'vragen': tel[s][0], 'punten': tel[s][1]} for s, n, c, o in lijst]} for dn, lijst in info['domeinen']],
+            # onderwerpen zonder vragen (bijvoorbeeld evenwicht bij havo) laten we weg
+            'domeinen': [d for d in ({'naam': dn, 'onderwerpen': [{'id': s, 'naam': n, 'code': c, 'omschrijving': o, 'vragen': tel[s][0], 'punten': tel[s][1]} for s, n, c, o in lijst if tel[s][0]]} for dn, lijst in info['domeinen']) if d['onderwerpen']],
         }
         print(f'{vak}: {len(vragen)} vragen, {len(examens)} examens' + (f', {len(gemist)} overgeslagen: {gemist[:5]}' if gemist else ''))
     (UIT / 'vakken.json').write_text(json.dumps(overzicht, ensure_ascii=False, indent=1))

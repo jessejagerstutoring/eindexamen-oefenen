@@ -1,0 +1,2103 @@
+SCHEIKUNDE HAVO
+
+
+
+SYLLABUS CENTRAAL EXAMEN
+2026
+NADERE VASTSTELLING
+
+
+Versie4, juli 2025
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+Samenstelling syllabuscommissie:
+Cris Bertona – voorzitter
+Emiel de Kleijn – secretaris SLO
+Evert Limburg – adviseur Cito
+Martin Vos – docent HO (betrokken bij curriculum.nu)
+Marjon van der Meulen-Aerts – docent VO (op voordracht van de NVON)
+Steven Boot – docent VO (deelnemer verkenning)
+John Breed – docent VO (deelnemer verkenning)
+Remko Schoot Uiterkamp – docent VO (deelnemer verkenning)
+
+
+
+
+De vormgeving van de grafische weergave op pagina 7 is uitgevoerd door brgt.illustraties.
+
+
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+
+
+
+                                                                                            Pagina 2 van 38
+       SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+       Versie 4
+
+
+
+
+       INHOUD
+
+
+VOORWOORD                                                                                         4
+
+1      INLEIDING                                                                                  5
+1.1    Domeinindeling en ce-toekenning                                                            5
+1.2    Indeling syllabus                                                                          6
+1.3    Grafische weergave                                                                         6
+1.4    Domein A                                                                                   7
+
+2      TOELICHTING OP DE SPECIFICATIES                                                            9
+2.1    Formules en redeneren met verhoudingen                                                     9
+2.2    Gebruik van (symbolen voor) grootheden en eenheden                                         9
+2.3    Beheersingsniveau                                                                          9
+2.4    Schrijfwijze van formules                                                                  9
+
+3      DOMEIN A. VAARDIGHEDEN                                                                    10
+       Algemene vaardigheden (profieloverstijgend niveau)                                        10
+       Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)        10
+       Scheikunde – specifieke vaardigheden                                                      13
+
+4      SFEER: MATERIE                                                                            14
+       Subsfeer M1: Deeltjesmodellen                                                             14
+       Subsfeer M2: Eigenschappen en modellen                                                    15
+       Subsfeer M3: Bindingen en eigenschappen                                                   16
+       Subsfeer M4: Bindingen, structuren en eigenschappen                                       17
+       Subsfeer M5: Macroscopische eigenschappen                                                 17
+       Subsfeer M6: Kenmerken van innovatieve processen                                          17
+       Subsfeer M7: Redeneren in termen van structuur-eigenschappen                              18
+
+5      SFEER: REACTIES                                                                           19
+       Subsfeer R1: Chemische processen                                                          19
+       Subsfeer R2: Classificatie van reacties                                                   20
+       Subsfeer R3: Reactiesnelheid en katalyse                                                  20
+       Subsfeer R4: Chemische procesontwerpen                                                    20
+       Subsfeer R5: Energie                                                                      21
+
+6      SFEER: (CHEMISCH) REKENEN & ANALYSE                                                       21
+       Subsfeer R&A1: Grootheden en relaties                                                     21
+       Subsfeer R&A2: Chemische vakmethodes                                                      22
+       Subsfeer R&A3: Behoudswetten en kringlopen                                                23
+
+7      SFEER: TECHNOLOGIE & DUURZAAMHEID                                                         23
+       Subsfeer T1: Industriële processen en groene chemie                                       23
+       Subsfeer T2: Energieomzettingen                                                           24
+       Subsfeer T3: Milieueisen                                                                  24
+       Subsfeer T4: Duurzaamheid                                                                 25
+
+8      SFEER: CHEMIE VAN HET LEVEN                                                               25
+       Subsfeer L1: Structuur en functie                                                         25
+
+BIJLAGE 1: EXAMENPROGRAMMA                                                                       27
+
+BIJLAGE 2: EXAMENWERKWOORDEN                                                                     32
+
+BIJLAGE 3: NOTATIE FORMULES EN BINDINGEN                                                         33
+
+BIJLAGE 4: VOORBEELDEN BIJ SPECIFICATIES VAN SUBDOMEIN A13                                       36
+
+
+
+
+                                                                                            Pagina 3 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H. (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 38
+      SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+      Versie 4
+
+
+
+
+1     INLEIDING
+      Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+      van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+      Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+      (www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+
+      In de syllabus 2026 zijn geen wijzigingen ten opzichte van de nader vastgestelde syllabus voor het
+      examenjaar 2025.
+
+1.1   DOMEININDELING EN CE-TOEKENNING
+      Het examenprogramma staat in bijlage 1. Het betreft hier het programma met globale eindtermen,
+      waarvan het CE-deel in hoofdstuk 3 tot en met 8 van deze syllabus nader wordt gespecificeerd. Het SE-
+      deel is nader gespecificeerd in een handreiking van SLO. In de handreiking zijn suggesties opgenomen
+      voor het SE-deel welke dus niet bindend zijn.
+
+      In de onderstaande tabel staat vermeld welke domeinen en subdomeinen op het centraal examen
+      geëxamineerd zullen worden. Er zit overlap tussen verschillende (sub)domeinen. Het is dan ook niet
+      mogelijk om op basis van alleen deze tabel conclusies te trekken over de CE-stof, daarvoor dienen ook de
+      specificaties bekeken te worden.
+
+
+                                                                                                 moet    mag in
+       Domein                              Subdomein                                     in CE
+                                                                                                 in SE    SE
+
+       A    Vaardigheden                                                                  X       X
+
+       B    Kennis van stoffen en          B1   Deeltjesmodellen                          X                 X
+            materialen
+                                           B2   Eigenschappen en modellen                 X                 X
+
+                                           B3   Bindingen en eigenschappen                X                 X
+
+                                           B4   Bindingen, structuren en eigenschappen    X                 X
+
+                                           B5   Macroscopische eigenschappen              X                 X
+
+       C    Kennis van chemische           C1   Chemische processen                       X                 X
+            processen en kringlopen
+                                           C2   Chemisch rekenen                          X                 X
+
+                                           C3   Energieberekeningen                       X                 X
+
+                                           C4   Chemisch evenwicht                                X
+
+                                           C5   Technologische aspecten                           X
+
+                                           C6   Reactiekinetiek                           X                 X
+
+                                           C7   Behoudswetten en kringlopen               X                 X
+
+                                           C8   Classificatie van reacties                X                 X
+
+       D    Ontwerpen en                   D1   Chemische vakmethodes                     X                 X
+            experimenten in de chemie
+                                           D2   Veiligheid                                        X
+
+                                           D3   Chemische procesontwerpen                 X                 X
+
+                                           D4   Molecular modelling                               X
+
+       E    Innovatieve ontwikkelingen     E1   Kenmerken van innovatieve processen       X                 X
+            in de chemie
+                                           E2   Duurzaamheid                                      X
+
+                                           E3   Innovatieve processen                             X
+                                                                                                   Pagina 5 van 38
+      SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+      Versie 4
+
+
+
+
+                                                                                                    moet       mag in
+       Domein                              Subdomein                                       in CE
+                                                                                                    in SE       SE
+
+       F    Processen in de chemische      F1   Industriële processen                        X                   X
+            industrie
+                                           F2   Procestechnologie en duurzaamheid                      X
+
+                                           F3   Energieomzettingen                           X                   X
+
+                                           F4   Risico en veiligheid                                   X
+
+                                           F5   Kwaliteit en gezondheid                                X
+
+       G    Maatschappij en chemische      G1   Chemie van het leven                         X                   X
+            technologie
+                                           G2   Milieueisen                                  X                   X
+
+                                           G3   Duurzame chemische technologie                         X
+
+                                           G4   Groene chemie                                         X*
+
+                                           G5   Ketenanalyse                                           X
+      * Let op: Begrippen rond groene chemie kunnen in het centraal examen worden getoetst via subdomein F1.
+
+1.2   INDELING SYLLABUS
+      In deze syllabus zijn de (sub)domeinen die zijn toegewezen aan het centraal examen en de bijbehorende
+      specificaties ondergebracht in zogenaamde sferen. Er wordt onderscheid gemaakt tussen drie
+      conceptuele sferen (‘Materie’, ‘Reacties’ en ‘(Chemisch) Rekenen & Analyse’) en twee contextuele sferen
+      (‘Technologie & Duurzaamheid’ en ‘Chemie van het leven’). De verbinding tussen de conceptuele sferen
+      en contextuele sferen wordt gevormd door de ‘Denk- en werkwijzen’.
+      De sfeer ‘Materie’ gaat voornamelijk over de opbouw van stoffen, de sfeer ‘Reacties’ over het reageren
+      (verdwijnen en ontstaan) van stoffen en de sfeer ‘Rekenen & Analyse’ over kennis en vaardigheden om te
+      kwalificeren en kwantificeren. De overlap van deze sferen maakt zichtbaar hoe de verschillende
+      concepten en onderwerpen op elkaar ingrijpen. De specificaties die geplaatst zijn in de drie conceptuele
+      sferen kunnen in principe toegepast worden op allerlei (in opgaven beschreven) contexten. De
+      specificaties die in de contextuele sferen geplaatst zijn, zijn beperkt tot die betreffende context (‘Chemie
+      van het leven’ en ‘Technologie & Duurzaamheid’) waarin ze geplaatst zijn.
+
+1.3   GRAFISCHE WEERGAVE
+      Om meer inzicht te krijgen in de nieuwe ordening van de syllabus is hiervan een grafische weergave
+      gemaakt. Daarin wordt verduidelijkt hoe de sferen zich onderling verhouden en wordt met
+      voorbeeldbegrippen aangegeven wat de aard van de concepten is die in een bepaalde sfeer geplaatst
+      zijn. Iedere sfeer is aangeduid met een eigen icoontje.
+      De grootte van een sfeer, de grootte van de overlapgebieden en de positie in de grafische weergave
+      hebben geen relatie met de omvang van het totaal aantal concepten (specificaties) en/of het belang
+      en/of de onderwijstijd die er aan moet worden toegekend.
+      Door ook in de overlappende delen (voorbeeld)begrippen te plaatsen en het icoontje van een sfeer mee
+      te geven, wordt duidelijk gemaakt waar de begrippen die in de overlap staan in de syllabus terug te
+      vinden zijn.
+      De twee belangrijke toepassingsgebieden (‘Technologie & Duurzaamheid’ en ‘Chemie van het leven’) zijn
+      om de drie conceptuele sferen heen gezet om aan te geven dat daarin heel veel van de (kern)concepten
+      uit de sferen ‘Materie’, ‘Reacties’en ’Rekenen & Analyse’ toegepast worden in context, samen met een
+      aantal context-eigen concepten zoals de E-factor en eiwitsynthese. De ‘Denk- en werkwijzen’ (Domein A)
+      zijn tussen de conceptuele sferen en de toepassingsgebieden geplaatst om de verbindende rol ervan te
+      illustreren.
+      De grafische weergave is bedoeld als een handvat om bepaalde voorbeeldbegrippen en specificaties
+      sneller in de syllabus terug te vinden. Zie ook de omnummeringstabel die in een apart document is
+      opgenomen.
+
+
+
+
+                                                                                                       Pagina 6 van 38
+        SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+        Versie 4
+
+
+
+
+        Let op: deze afbeelding behelst stof voor zowel het CSE havo als het CSE vwo. De specificaties in deze syllabus zijn
+        leidend voor wat er in het CSE havo getoetst kan worden.
+
+1.4     DOMEIN A
+
+1.4.1   Positie domein A
+        De ‘Denk- en werkwijzen’ vormen de verbinding tussen de conceptuele sferen enerzijds en de contextuele
+        sferen anderzijds. De denk- en werkwijzen zijn de vaardigheden die leerlingen nodig hebben om de
+        chemische kernconcepten te gebruiken in allerlei contexten. Dat betreft uiteraard de algemene
+        vaardigheden (informatie selecteren en verwerken, taalvaardigheid etc.) en natuurwetenschappelijke
+        vaardigheden (onderzoeken, modelleren, oordelen etc). De vakspecifieke vaardigheden nemen hierbij
+        een bijzondere rol in omdat deze een expliciete koppeling maken tussen de vaardigheid en vakinhoud.
+
+1.4.2   Subdomeinen A1 t/m A4
+        Dit betreft de algemene vaardigheden. Deze zijn ongewijzigd gebleven.
+
+1.4.3   Subdomeinen A5 t/m 9
+        De subdomeinen A5, A6 en A7 zijn gelijkgetrokken met biologie en natuurkunde en de specificaties met
+        elkaar in overeenstemming gebracht. Subdomeinen A8 en A9 zijn eveneens gelijkgetrokken met biologie
+
+
+                                                                                                               Pagina 7 van 38
+        SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+        Versie 4
+
+
+
+
+        en natuurkunde en zijn op de toevoeging van één enkel woord na bij A8.5 (‘verantwoord’) ongewijzigd
+        gebleven.
+
+1.4.4   Subdomein A10
+        De bekend veronderstelde vakbegrippen die vallen onder subdomein A10 vallen in de volgende
+        categorieën:
+        – Vakbegrippen uit de onderbouw van het eigen vak;
+        – Vakbegrippen uit de SE-stof van het eigen vak;
+        – Vakbegrippen uit andere vakken.
+        De toetsing van deze vakbegrippen vormen geen doel op zichzelf in het centraal examen. Deze
+        vakbegrippen kunnen echter wel een onderdeel vormen van vragen over de voor het CE gespecificeerde
+        subdomeinen. Een dergelijk vakbegrip kan dus in het centraal examen voorkomen zonder uitleg over de
+        betekenis van dit begrip. Het vakbegrip zelf zal echter niet worden bevraagd. De bedoelde vakbegrippen
+        maken geen deel uit van de onderwijstijd (60% van de totale studielast) die voor het CE-deel
+        beschikbaar is.
+
+        In deze syllabus zijn de bekend veronderstelde vakbegrippen uit de onderbouw, SE of andere vakken
+        opgenomen in de overige sferen om een logische ordening van de concepten te bevorderen.
+
+1.4.5   Subdomeinen A12 t/m A14
+        De specificaties van subdomein A12 (‘Redeneren in termen van structuur-eigenschappen’) zijn
+        opgenomen in de conceptuele sfeer ‘Materie’, waar de betreffende begrippen (op macro-, meso- en
+        microniveau) geplaatst zijn om aspecten van schaal te gebruiken bij het beschrijven van materie. De
+        specificaties van subdomein A14 (‘Redeneren in termen van duurzaamheid’) zijn opgenomen in de
+        contextuele sfeer ‘Technologie & Duurzaamheid’.
+
+        Zowel ‘Redeneren in termen van structuur-eigenschappen’ als ‘Redeneren in termen van duurzaamheid’
+        kunnen gezien worden als een specifieke uitwerking van subdomein A13 (Redeneren over systemen,
+        verandering en energie). Een structuur kan beschouwd worden als een systeem met gerelateerde
+        (systeem)eigenschappen. Structuren worden binnen de scheikunde veelal geduid op micro-, meso- of
+        macroniveau. Duurzaamheid op zijn beurt heeft betrekking op systemen van lokaal, regionaal of globaal
+        niveau, waarbij duurzaamheid beschouwd kan worden als een systeemeigenschap.
+
+
+
+
+                                                                                                 Pagina 8 van 38
+      SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+      Versie 4
+
+
+
+
+2     TOELICHTING OP DE SPECIFICATIES
+
+2.1   FORMULES EN REDENEREN MET VERHOUDINGEN
+      In deze syllabus zijn in de sfeer ‘Rekenen & Analyse’ expliciet een aantal formules opgenomen. Het
+      betreft hier geen inhoudelijke uitbreiding, omdat alle berekeningen die hiermee uitgevoerd kunnen
+      worden ook met verhoudingsrekenen c.q. redeneren met verhoudingen gedaan kunnen worden.
+      Docenten en leerlingen kunnen zelf kiezen op welke wijze (met formules of met redeneren met
+      verhoudingen) berekeningen uitgevoerd worden. Op deze wijze wordt ook een verband gelegd met
+      subdomein A8.6 door specifieke wiskundige vaardigheden toe te passen op chemische inhoud.
+      Indien bij examenvragen gebruik van formules verlangd wordt zullen deze in de (tekst bij) de vraag
+      gegeven worden.
+
+2.2   GEBRUIK VAN (SYMBOLEN VOOR) GROOTHEDEN EN EENHEDEN
+      In de sfeer ‘Rekenen & Analyse’ staan de specificaties van grootheden en eenheden en de daarvoor te
+      hanteren symbolen. De keuze voor deze specificaties is gebaseerd op gangbare notaties zoals die
+      bijvoorbeeld in het Handbook of Chemistry and Physics vermeld staan. Voor grootheden waarvoor geen
+      officieel symbool bestaat (zoals bijvoorbeeld molariteit) is dan ook geen symbool opgenomen in de
+      nieuwe syllabus.
+
+2.3   BEHEERSINGSNIVEAU
+      In het examenprogramma en de syllabus zijn drie beheersingsniveaus onderscheiden die
+      gekarakteriseerd zijn met de woorden weten, toepassen en redeneren (TIMSS-niveau I t/m III)1. In de
+      eindtermen en specificaties zijn de gebruikte handelingswerkwoorden een indicator van het niveau.
+
+      Deze handelingswerkwoorden moeten niet verward worden met de werkwoorden gebruikt in een examen
+      (examenwerkwoorden). Deze hoeven qua niveau niet overeen te komen met de handelingswerkwoorden
+      in de syllabus. De moeilijkheidsgraad van een examenvraag wordt nader bepaald door de complexiteit
+      van de contexten. Zo kan een werkwoord als benoemen (TIMSS-niveau I) binnen een complexe context
+      een moeilijke vraag opleveren en kan het werkwoord beargumenteren (TIMSS-niveau III) in een recht
+      toe recht aan vraag een makkelijke vraag opleveren.
+
+      In bijlage 2 is een lijst opgenomen met relevante examenwerkwoorden voor scheikunde. Als in een
+      scheikunde-examen een van de woorden uit die lijst wordt gebruikt, geldt de betekenis die hiervan in
+      deze lijst is gegeven. Deze lijst met examenwerkwoorden is niet uitputtend.
+
+2.4   SCHRIJFWIJZE VAN FORMULES
+      In bijlage 3 zijn een aantal regels opgenomen voor de notatie van bepaalde formules.
+
+
+
+
+      1
+       Om het vereiste beheersingsniveau aan te geven, is gebruik gemaakt van de indeling in ‘cognitie domains’, die
+      gebaseerd is op de PISA ‘scientific competences (PISA 2009 Assessment Framework – Key competencies in reading,
+      mathematics and science (OECD 2009), pagina 137 e.v,) en opgesteld is door en gehanteerd binnen het internationale
+      TIMSS onderzoek (Trends in Mathematics and Science Studies). Binnen dit onderzoek worden drie niveaus
+      onderscheiden, gebaseerd op wat kandidaten moeten weten en doen.
+                                                                                                          Pagina 9 van 38
+    SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+    Versie 4
+
+
+
+
+3   DOMEIN A. VAARDIGHEDEN
+    De vaardigheden zijn onderverdeeld in drie categorieën:
+    Subdomeinen A1 t/m A4:       Algemene vaardigheden (profieloverstijgend niveau)
+    Subdomeinen A5 t/m A9:       Natuurwetenschappelijke, wiskundige en technische
+                                 vaardigheden (bètaprofielniveau)
+    Subdomeinen A10 t/m A15:     Chemische vakvaardigheden
+
+    De eerste categorie met algemene profieloverstijgende vaardigheden worden in deze syllabus niet verder
+    gespecificeerd. De specificaties van de subdomeinen A5 t/m A9 zijn afgestemd met de
+    syllabuscommissies natuurkunde en biologie.
+
+    Voor een aantal vaardigheden (A5 t/m A9) geldt dat de vaardigheid gedeeltelijk bestaat uit onderdelen
+    die niet op het centraal examen getoetst zullen worden. Omwille van de volledigheid van de specificatie
+    van de betreffende eindterm, zijn deze onderdelen wel in de specificatie opgenomen, maar cursief en
+    grijs afgedrukt. De betreffende specificaties gelden dus niet voor het centraal examen.
+
+    ALGEMENE VAARDIGHEDEN (PROFIELOVERSTIJGEND NIVEAU)
+
+    Subdomein A1. Informatievaardigheden gebruiken
+    Eindterm
+    De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.
+
+    Subdomein A2. Communiceren
+    Eindterm
+    De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over
+    onderwerpen uit het desbetreffende vakgebied.
+
+    Subdomein A3. Reflecteren op leren
+    Eindterm
+    De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen
+    belangstelling, motivatie en leerproces.
+
+    Subdomein A4. Studie en beroep
+    Eindterm
+    De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt
+    gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden
+    brengen.
+
+    NATUURWETENSCHAPPELIJKE, WISKUNDIGE EN TECHNISCHE VAARDIGHEDEN
+    (BÈTAPROFIELNIVEAU)
+
+    Subdomein A5. Onderzoeken
+    Eindterm
+    De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en
+    conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente
+    redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+    Specificatie
+    De kandidaat kan:
+    1 een natuurwetenschappelijk probleem herkennen en specificeren;
+    2 een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en);
+    3 verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis;
+    4 een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren;
+    5 een werkplan maken voor het uitvoeren van een natuurwetenschappelijk onderzoek ter
+       beantwoording van een (of meerdere) onderzoeksvra(a)g(en);
+    6 voor de beantwoording van een onderzoeksvraag relevante waarnemingen verrichten en
+       (meet)gegevens verzamelen;
+    7 meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een
+       onderzoeksvraag;
+
+                                                                                              Pagina 10 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+8 op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten
+   bij de onderzoeksvra(a)g(en) van het onderzoek;
+9 de uitkomsten en de resultaten van een onderzoek evalueren;
+10 een natuurwetenschappelijk onderzoek op een geschikte manier presenteren;
+11 herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken zijn.
+
+Subdomein A6. Ontwerpen
+Eindterm
+De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden,
+uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en
+consistente redeneringen hanteren.
+
+Specificatie
+1 een ontwerpprobleem specificeren;
+2 een ontwerpprobleem herleiden tot een aantal afzonderlijk uitwerkbare deelproblemen (taken,
+   eigenschappen);
+3 voor een ontwerp een programma van eisen en wensen opstellen: randvoorwaarden, eisen,
+   prioriteiten en wensen;
+4 verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een
+   ontwerp;
+5 meerdere uitwerkingen of oplossingen per deelprobleem geven;
+6 een beargumenteerd ontwerpvoorstel doen voor een ontwerp, rekening houdend met het programma
+   van eisen;
+7 een prototype van een ontwerp realiseren;
+8 een ontwerpproces en -product testen en evalueren, rekening houdend met het programma van
+   eisen;
+9 voorstellen doen voor verbetering van een ontwerp;
+10 een ontwerpproces en -product op een geschikte manier presenteren.
+
+Subdomein A7. Modelvorming
+Eindterm
+De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en
+modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente
+redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Specificatie
+De kandidaat kan:
+1 een natuurwetenschappelijk verschijnsel specificeren met als doel het te beschrijven, te verklaren of
+   te voorspellen;
+2 een natuurwetenschappelijk verschijnsel vereenvoudigen en de essentiële kenmerken ervan
+   identificeren;
+3 van een model de overeenkomsten en verschillen met de werkelijkheid benoemen met als doel de
+   geschiktheid en het geldigheidsgebied van het model te bepalen;
+4 van een model beoordelen in hoeverre het aansluit bij het doel waarvoor het ingezet wordt;
+5 voor een model een geschikte fysieke, schematische of wiskundige weergave selecteren;
+6 met een model eigenschappen van een natuurwetenschappelijk verschijnsel beschrijven, verklaren
+   en/of voorspellen;
+7 voorstellen doen voor de verbetering en/of uitbreiding van een model;
+8 Het tot stand komen, de opbouw of het gebruik van een model presenteren.
+
+Subdomein A8. Natuurwetenschappelijk instrumentarium
+Eindterm
+De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren,
+waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor
+dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige
+bewerkingen.
+
+
+
+
+                                                                                          Pagina 11 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+Specificatie
+De kandidaat kan:
+1 informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen mede met
+   behulp van ICT:
+   • gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;
+   • grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen;
+2 informatie, gegevens en meetresultaten analyseren, weergeven en structureren in grafieken,
+   tekeningen, schema’s, diagrammen en tabellen mede met behulp van ICT;
+3 uitleggen wat bedoeld wordt met de significantie van meetwaardes en uitkomsten van berekeningen
+   weergeven in het juiste aantal significante cijfers:
+   • Bij het optellen en aftrekken van meetwaarden wordt de uitkomst gegeven met evenveel
+      decimalen als de gegeven meetwaarde met het kleinste aantal decimalen;
+   • Bij het delen en vermenigvuldigen wordt de uitkomst gegeven in evenveel significante cijfers als de
+      gegeven meetwaarde met het kleinste aantal significante cijfers;
+   • Gehele getallen die verkregen zijn door discrete objecten te tellen, vallen niet onder de regels van
+      significante cijfers. Dit geldt ook voor mathematische constanten en geldbedragen;
+   • Bij het nemen van de logaritme van een meetwaarde, krijgt het antwoord evenveel decimalen als
+      de meetwaarde significante cijfers heeft;
+4 aangeven met welke technieken en apparaten de belangrijkste grootheden uit de
+   natuurwetenschappen worden gemeten;
+5 verantwoord omgaan met materialen, instrumenten, organismen en milieu;
+6 een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om
+   natuurwetenschappelijke problemen op te lossen:
+   • basisrekenvaardigheden uitvoeren:
+      ○ een (grafische) rekenmachine gebruiken;
+      ○ rekenen met verhoudingen, procenten, machten;
+      ○ gewogen gemiddelde berekenen.
+   • berekeningen uitvoeren met bekende grootheden en relaties en daarbij de juiste formules en
+      eenheden hanteren.
+   • wiskundige technieken toepassen:
+      ○ omwerken van eenvoudige wiskundige betrekkingen;
+      ○ oplossen van lineaire vergelijkingen;
+      ○ rekenen met evenredigheden (recht en omgekeerd);
+      ○ berekeningen maken met logaritmen met grondtal 10 in relatie tot pH en pOH.
+   • afgeleide eenheden herleiden tot eenheden van het SI met behulp van omzettingstabellen.
+   • uitkomsten schatten en beoordelen.
+
+Subdomein A9. Waarderen en oordelen
+Eindterm
+De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een
+technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve
+maatschappelijke overwegingen en persoonlijke opvattingen.
+
+Specificatie
+De kandidaat kan:
+1 een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een
+   belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij
+   vraagstukken van natuurwetenschappelijke aard;
+2 een onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke
+   overwegingen en persoonlijke opvattingen;
+3 feiten met bronnen verantwoorden;
+4 de betrouwbaarheid beoordelen van informatie en de waarde daarvan vaststellen voor de
+   beantwoording van het betreffende vraagstuk.
+
+
+
+
+                                                                                          Pagina 12 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+SCHEIKUNDE – SPECIFIEKE VAARDIGHEDEN
+
+Subdomein A10. Gebruiken van chemische concepten
+Eindterm
+De kandidaat kan chemische concepten en in de chemie gebruikte fysische en biologische concepten
+herkennen en met elkaar in verband brengen.
+
+Specificaties
+Specificaties voor dit subdomein zijn opgenomen in de overige sferen om een logische ordening te
+bevorderen. Afhankelijk van de aard van ieder chemisch, natuurkundig of biologisch vakbegrip is bepaald
+waar deze opgenomen diende te worden. In die gevallen dat een vakbegrip geen toegevoegde waarde
+heeft binnen scheikunde ten op zichtte van hoe dit begrip in het dagelijks leven wordt gebruikt, is
+besloten dit vakbegrip niet langer op te nemen.
+
+Subdomein A11. Redeneren in termen van context-concept
+Eindterm
+De kandidaat kan in leefwereld-, beroeps- en technologische contexten chemische concepten herkennen
+en gebruiken en kan op basis daarvan voorspellingen doen, en berekeningen en schattingen maken.
+
+Specificatie:
+De kandidaat kan:
+1 in contexten afgeleid uit de sferen ‘Chemie van het leven’ en ‘Technologie & Duurzaamheid’ de
+   chemische concepten uit de sferen ‘Materie’, ‘Reacties’ en ‘(Chemisch) Rekenen & Analyse’ herkennen
+   en gebruiken om een ontwerpprobleem, een natuurwetenschappelijk vraagstuk of een
+   natuurwetenschappelijk verschijnsel te specificeren.
+
+Subdomein A12. Redeneren in termen van structuur-eigenschappen
+Eindterm
+De kandidaat kan macroscopische eigenschappen in relatie brengen met structuren op meso- en
+microniveau en daarin aspecten van schaal herkennen en kan omgekeerd vanuit structuren
+voorspellingen doen over macroscopische eigenschappen.
+
+Specificatie:
+De specificaties van dit subdomein zijn nagenoeg ongewijzigd opgenomen, maar verplaatst naar sfeer
+‘Materie’ (M7.1), waar de betreffende begrippen geplaatst zijn om aspecten van schaal te gebruiken bij
+beschrijven van materie.
+
+Subdomein A13. Redeneren over systemen, verandering en energie
+Eindterm
+De kandidaat kan chemische processen herkennen in termen van systemen en daarbij kennis van stoffen,
+deeltjes, reactiviteit en energie gebruiken.
+
+Specificatie2
+De kandidaat kan:
+1. Door middel van systeemdenken concepten uit de sferen materie, reacties en
+   rekenen & analyse verbinden met complexe vraagstukken en contexten binnen de sferen chemie van
+   het leven en technologie & duurzaamheid:
+   •   Een systeem en haar grenzen herkennen en daarbinnen de onderdelen en onderlinge interacties
+       benoemen;
+   •   De hiërarchie van het systeem herkennen aan de hand van de schaal en ordegrootte;
+   •   De verandering van het systeem, de onderdelen en de interacties over tijd en ruimte
+       beschrijven;
+   •   De invoer, uitstroom en circulariteit van energie- en materiestromen van een systeem
+       benoemen en gebruiken in redeneringen.
+
+Subdomein A14. Redeneren in termen van duurzaamheid
+Eindterm
+De kandidaat kan in maatschappelijke, beroeps- en technologische contexten aspecten van
+duurzaamheid aangeven en beschrijven.
+
+2
+    Zie bijlage 4 voor voorbeeldopgaven en verwijzingen naar oud-examenvragen bij deze specificatie.
+                                                                                                       Pagina 13 van 38
+    SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+    Versie 4
+
+
+
+
+    Specificaties
+    Deze specificaties zijn ongewijzigd opgenomen onder sfeer ‘Technologie & Duurzaamheid’ (T4
+    specificaties 4.1 en 4.2).
+
+    Subdomein A15. Redeneren over ontwikkelen van chemische kennis
+    Eindterm
+    De kandidaat kan in contexten aangeven op welke wijze natuurwetenschappelijke, technologische en
+    chemische kennis wordt ontwikkeld en toegepast.
+
+    Specificatie
+    De kandidaat kan
+    1 weergeven hoe natuurwetenschappelijke kennis ontstaat, welke vragen natuurwetenschappelijke
+       onderzoekers kunnen stellen en hoe ze aan betrouwbare antwoorden komen (Kennisvorming);
+    2 beschrijven hoe natuurwetenschappelijke en technische kennis wordt toegepast en kan aangeven hoe
+       de wisselwerking tussen natuurwetenschap, techniek en samenleving is (Toepassen van kennis).
+
+
+4   SFEER: MATERIE
+    In deze syllabus zijn de bekend veronderstelde vakbegrippen uit de onderbouw, SE of andere vakken
+    opgenomen in de sferen om een logische ordening van de concepten te bevorderen. Om de status van
+    deze vakbegrippen duidelijk te maken zijn ze in deze syllabus cursief weergegeven.
+
+    Subsfeer M1: Deeltjesmodellen
+
+    Eindterm
+    De kandidaat kan deeltjesmodellen beschrijven en gebruiken.
+
+    Specificaties
+    1 De kandidaat kan het symbool of de (molecuul)formule geven van de volgende stoffen en ionen als de
+      naam is gegeven en omgekeerd:
+      • niet-metalen: argon, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof,
+         waterstof, zuurstof, zwavel;
+      • metalen: aluminium, barium, calcium, cadmium, chroom, goud, ijzer, kalium, kobalt, koper, kwik,
+         lithium, lood, magnesium, mangaan, natrium, nikkel, platina, tin, uraan, zilver, zink;
+      • ammoniak, azijnzuur, fosforzuur, glucose, salpeterzuur, water, waterstofperoxide, zwavelzuur;
+      • Ag+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+,
+         Sn2+, Sn4+, U3+, U6+, Zn2+, Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, NO3–, NO2−, O2–, OH–, PO43–, S2–
+         , SO32–, SO42–;
+      • van koolstofverbindingen met maximaal zes koolstofatomen met onvertakte keten.
+    2 De kandidaat kan de molecuulformule geven van een moleculaire stof opgebouwd uit twee
+      atoomsoorten (binaire moleculaire stof) aan de hand van de systematische IUPAC-naam en
+      omgekeerd.
+    3 De kandidaat kan de volgende begrippen gebruiken:
+      • aggregatietoestand/fase:
+         ○ toestandsaanduidingen (s), (l), (g) en (aq)
+      • alcoholen;
+      • atomaire massa-eenheid (u);
+      • carbonzuren;
+      • fase-overgang;
+      • index;
+      • triviale naam;
+      • vertakte koolstofketen.
+    4 De kandidaat kan met behulp van een atoommodel de bouw van atomen en ionen beschrijven en
+      daarbij de volgende begrippen gebruiken:
+      • bouw van de kern:
+         ○ protonen, neutronen
+         ○ massagetal, atoomnummer
+         ○ isotopen
+      • bouw van de elektronenwolk:
+                                                                                              Pagina 14 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+      ○ elektronen
+      ○ elektronenconfiguratie van periode 1 t/m 33
+   • lading en massa van elektronen, protonen en neutronen.
+5 De kandidaat kan de opbouw van het periodiek systeem beschrijven, en daarbij:
+   • de plaats van aardalkalimetalen, alkalimetalen, halogenen en edelgassen aangeven;
+   • de verdeling metalen en niet-metalen globaal aangeven;
+   • het verband aangeven tussen atoomnummer en plaats in het periodiek systeem;
+   • het verloop van eigenschappen van elementen in een groep beschrijven.
+6 De kandidaat kan uit de plaats in het periodiek systeem voor de volgende atoomsoorten de genoemde
+   covalentie aangeven:
+   • H, F, Cl, I, Br covalentie 1;
+   • O, S covalentie 2;
+   • N, P covalentie 3;
+   • C, Si covalentie 4.
+7 De kandidaat kan op basis van de formule van een stof aangeven tot welke categorie stoffen deze
+   behoort:
+   • metalen (legeringen);
+   • (macro)moleculaire stoffen;
+   • zouten.
+8 De kandidaat kan het verschil tussen ontleedbare en niet-ontleedbare stoffen beschrijven op
+   microniveau.
+9 De kandidaat kan het verschil tussen een moleculaire stof en een zout beschrijven op microniveau.
+10 De kandidaat kan de verhoudingsformule van een zout geven aan de hand van gegeven formules van
+   ionen en de systematische IUPAC-naam en omgekeerd.
+11 De kandidaat kan kristalwater herkennen in de gegeven formule van een hydraat
+   (notatie ∙nH2O).
+12 De kandidaat kan bij het weergeven van de microstructuur van een verbinding de volgende begrippen
+   gebruiken
+   • molecuulformule;
+   • structuurformule.
+13 De kandidaat kan met behulp van een gegeven molecuulformule en covalenties een structuurformule
+   geven van een moleculaire stof en omgekeerd.
+14 De kandidaat kan in structuurformules van organische verbindingen functionele/karakteristieke
+   groepen herkennen:
+   • C=C;
+   • OH groep (hydroxyl);
+   • COOH groep (carboxyl);
+   • NH2 groep (amino);
+   • C-X (X= F, Cl, Br, I);
+   • COOC groep (ester);
+   • CONHC groep (peptide/amide).
+15 De kandidaat kan met behulp van de structuurformule van koolstofverbindingen met maximaal zes
+   koolstofatomen met onvertakte keten met hoogstens één soort functionele/karakteristieke groepen 4
+   de systematische IUPAC-naam aangeven en omgekeerd:
+   • alkanen en afgeleide stoffen;
+   • alkenen.
+16 De kandidaat kan aangeven dat de molecuulformules van verschillende organische verbindingen
+   identiek aan elkaar kunnen zijn:
+   • structuurisomerie.
+
+Subsfeer M2: Eigenschappen en modellen
+Eindterm
+De kandidaat kan macroscopische eigenschappen van een stof of materiaal in relatie brengen met
+deeltjesmodellen.
+
+Specificatie
+1 De kandidaat kan het verschil tussen zuivere stoffen en mengsels beschrijven
+
+3
+    ‘Eenvoudige’ elektronenconfiguratie, niet s,p,d
+4
+    De hier bedoelde functionele groepen/karakteristieke groepen zijn beperkt tot de in specificatie M1.14 genoemde.
+                                                                                                         Pagina 15 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+  • op macroniveau (stofeigenschappen);
+  • op microniveau.
+2 De kandidaat kan een verband leggen tussen:
+  • een mengsel en smelttraject/kooktraject;
+  • een zuivere stof en smeltpunt/kookpunt.
+3 De kandidaat kan bij redeneringen over mengsels de volgende begrippen gebruiken:
+  • emulsie, emulgator;
+  • legering;
+  • oplossing: onverzadigd, verzadigd;
+  • suspensie.
+
+Subsfeer M3: Bindingen en eigenschappen
+Eindterm
+De kandidaat kan met behulp van kennis van bindingen eigenschappen van stoffen en materialen
+toelichten en beschrijven.
+
+Specificatie
+1 De kandidaat kan de volgende soorten bindingen beschrijven op microniveau:
+  • atoombinding/covalente binding;
+  • gemeenschappelijk(e) elektronenpa(a)r(en);
+  • polaire atoombinding:
+     ○ O–H en N–H binding
+  • hydratatie;
+  • ionbinding;
+  • metaalbinding;
+  • vanderwaalsbinding/molecuulbinding en maakt daarbij gebruik van:
+     ○ molecuulmassa
+            – vorm van de moleculen
+  • waterstofbrug.
+2 De kandidaat kan de roosteropbouw van een stof beschrijven op microniveau:
+  • ionrooster;
+  • metaalrooster;
+  • molecuulrooster.
+3 De kandidaat kan stofeigenschappen in verband brengen met de sterkte van de binding tussen de
+  deeltjes waarmee de betreffende stof wordt voorgesteld:
+  • kookpunt;
+  • smeltpunt.
+4 De kandidaat kan voor de volgende processen op microniveau beschrijven welk(e) soort(en)
+  binding(en) verbroken/gevormd worden:
+  • condenseren;
+  • smelten;
+  • stollen;
+  • verdampen.
+5 De kandidaat kan de termen hydrofoob/hydrofiel in verband brengen met verschillen in soorten
+  binding:
+  • vanderwaalsbinding/molecuulbinding;
+  • waterstofbrug.
+6 De kandidaat kan verschillen in oplosbaarheid/mengbaarheid van moleculaire stoffen toelichten:
+  • hydrofiel;
+  • hydrofoob.
+7 De kandidaat kan de hechting van deeltjes aan een oppervlak in verband brengen met aanwezige
+  soorten deeltjes en kan daarbij de volgende begrippen gebruiken:
+  • hydrofiel;
+  • hydrofoob.
+8 De kandidaat kan beschrijven welke soorten bindingen worden verbroken en/of gevormd bij het
+  oplossen en/of ioniseren in water van:
+  • basen;
+  • moleculaire stoffen;
+  • zouten;
+
+                                                                                      Pagina 16 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+  • zuren.
+9 De kandidaat kan een verband leggen tussen de oplosbaarheid van een zout en de toepassing van dat
+  zout:
+  • op basis van gegeven oplosbaarheid van zouten, bepalen of een combinatie van ionen goed dan
+     wel slecht oplosbaar is.
+
+Subsfeer M4: Bindingen, structuren en eigenschappen
+Eindterm
+De kandidaat kan op basis van kennis van aanwezige structuren en de bindingen in en tussen deeltjes
+een macroscopische eigenschap van een stof of materiaal verklaren.
+
+Specificatie
+1 De kandidaat kan een verband leggen tussen de bouw van een stof en
+  • corrosiegevoeligheid, en maakt daarbij gebruik van:
+     ○ edelheid van metalen
+     ○ de aanwezigheid van een beschermende laag
+  • elektrisch geleidingsvermogen, en maakt daarbij gebruik van:
+     ○ de aanwezigheid en beweeglijkheid van ladingdragers
+         – elektronen
+         – ionen
+  • uv-lichtgevoeligheid, en maakt daarbij gebruik van:
+     ○ de aanwezigheid van C=C bindingen
+     ○ vorming van crosslinks
+  • vervormbaarheid, en maakt daarbij gebruik van:
+     ○ de aanwezigheid van weekmakers in polymeren
+     ○ de roosteropbouw van de stof
+     ○ de structuur van polymere materialen:
+         – thermoplasten
+         – thermoharders
+
+Subsfeer M5: Macroscopische eigenschappen
+Eindterm
+De kandidaat kan een macroscopische eigenschap relateren aan de structuur van een stof of materiaal.
+
+Specificatie
+1 De kandidaat kan voor composieten, polymeren en legeringen een verband leggen tussen de structuur
+  en de volgende eigenschappen:
+  • brandbaarheid;
+  • brosheid;
+  • corrosiegevoeligheid;
+  • geleidend vermogen;
+  • hardheid;
+  • uv-lichtgevoeligheid;
+  • vervormbaarheid;
+  • waterbindend vermogen.
+
+Subsfeer M6: Kenmerken van innovatieve processen
+Eindterm
+De kandidaat kan in innovatieve processen het gebruik van structuur-eigenschappen-relaties ten minste
+in de context van materialen, geneesmiddelen of voeding, herkennen en beschrijven.
+
+Specificatie
+1 De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen
+  van stoffen:
+  • beweeglijkheid van ladingsdragers en geleidbaarheid;
+  • karakteristieke groepen en reactiviteit;
+  • roosters en vervormbaarheid:
+     ○ metaalroosters
+         – legeringen
+
+                                                                                       Pagina 17 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+       – invloed van de temperatuur
+     ○ rooster/structuur van polymeren:
+       – crosslinks/vulkaniseren
+       – ketenlengte
+       – soorten monome(e)r(en)
+       – weekmakers
+  • aanwezigheid van C=C binding en uv-licht gevoeligheid;
+  • soorten metaalatomen en corrosiegevoeligheid:
+     ○ edele metalen en onedele metalen
+     ○ gebonden metaaloxide laagje
+  • moleculaire structuur en oplosbaarheid:
+     ○ N-H en O-H
+     ○ hydrofiel
+     ○ hydrofoob
+  • moleculaire structuur en biodegradeerbaarheid van polymeren.
+     ○ polyesters, poly-amiden/polypeptiden en polysachariden
+2 De kandidaat kan een gegeven keuze voor een bepaald materiaal toelichten aan de hand van de
+  bovenstaande (M6.1) structuur-eigenschap-relaties.
+
+Subsfeer M7: Redeneren in termen van structuur-eigenschappen
+Eindterm
+De kandidaat kan macroscopische eigenschappen in relatie brengen met structuren op meso- en
+microniveau, en daarin aspecten van schaal herkennen en kan omgekeerd vanuit structuren
+voorspellingen doen over die macroscopische eigenschappen.
+
+Specificatie:
+1 De kandidaat kan de volgende begrippen herkennen en gebruiken:
+  • microstructuur/microniveau: atomen, (functionele) groepen, bindingen, moleculen, ionen;
+  • mesostructuur/mesoniveau5: structuurniveau gevormd door een aantal groepen/ gegroepeerde
+     deeltjes uit het microniveau;
+  • macrostructuur/macroniveau: op niveau van stoffen en materialen (stof-/
+     materiaaleigenschappen).
+
+
+
+
+5
+ Stof- en/of materiaaleigenschappen (macroniveau) kunnen niet altijd rechtstreeks verklaard en/of beschreven
+worden met behulp van kenmerken van de deeltjes op atomair, ionair of moleculair niveau (microniveau). Ook de
+manier waarop de deeltjes uit dit microniveau geordend zijn tot grotere structuren (bijvoorbeeld: vezels bij polymeren,
+kristalstructuren bij metalen) kan een rol spelen bij de verklaring/beschrijving van stof- en/of materiaaleigenschappen.
+Dit structuurniveau wordt mesostructuur of mesoniveau genoemd.
+                                                                                                        Pagina 18 van 38
+    SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+    Versie 4
+
+
+
+
+5   SFEER: REACTIES
+
+    Subsfeer R1: Chemische processen
+    Eindterm
+    De kandidaat kan chemische reacties en fysische processen beschrijven in termen van vormen en
+    verbreken van (chemische) bindingen.
+
+    Specificatie
+    1 De kandidaat kan de volgende begrippen gebruiken:
+       • coëfficiënt;
+       • elementbalans;
+       • ladingsbalans.
+    2 De kandidaat kan van de volgende processen een (reactie)vergelijking geven:
+       • processen waarbij beginstoffen en reactieproducten gegeven zijn;
+       • volledige verbranding van verbindingen van koolstof, waterstof en eventueel zuurstof;
+       • oplossen/ioniseren in water van:
+          ○ basen;
+          ○ moleculaire stoffen;
+          ○ zouten;
+          ○ zuren.
+    3 De kandidaat kan de volgende reactietypen herkennen:
+       • donor-acceptor reacties:
+          ○ redoxreacties: overdracht van elektronen
+          ○ zuur-base reacties: overdracht van H+ionen/protonen
+       • ontledingsreactie: elektrolyse, fotolyse en thermolyse;
+       • substitutie;
+       • verbranding:
+          ○ onvolledig
+          ○ volledig
+    4 De kandidaat kan de notatie van de volgende oplossingen geven als de naam is gegeven en
+       omgekeerd:
+       • ammonia;
+       • natronloog;
+       • zoutzuur.
+    5 De kandidaat kan de volgende deeltjes als zuren herkennen:
+       HCl, H2SO4, HNO3, H2O + CO2 / 'H2CO3', H3PO4, CH3COOH
+    6 De kandidaat kan de volgende deeltjes als basen herkennen:
+       NH3, OH–, CO32–, O2–, HCO3−
+    7 De kandidaat kan reacties tussen zuren en basen beschrijven als een reactie waarbij H+ ionen worden
+       overgedragen:
+       • aanwijzen van het zuur/de donor;
+       • aanwijzen van de base/acceptor.
+    8 De kandidaat kan een redoxreactie beschrijven als een reactie waarbij elektronen worden
+       overgedragen:
+       • halfreacties;
+       • aanwijzen van de reductor/oxidator.
+    9 De kandidaat kan de totale vergelijking van de reactie afleiden uit gegeven halfreacties.
+    10 De kandidaat kan een elektrochemische cel beschrijven en daarbij de volgende begrippen gebruiken:
+       • aanwijzen reductor en oxidator;
+       • elektrolyt;
+       • elektronenoverdracht via een externe verbinding;
+       • halfreactie;
+       • positieve en negatieve elektrode;
+       • stroomsterkte.
+    11 De kandidaat kan bij organisch-chemische reacties de reactievergelijking weergeven in
+       molecuulformules en structuurformules:
+       • additiereacties;
+       • condensatiereacties:
+          ○ vorming van ester
+
+                                                                                           Pagina 19 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+       ○ vorming van amide/peptide
+   •   hydrolysereacties:
+       ○ hydrolyse van koolhydraten tot monosacchariden
+       ○ hydrolyse van (poly)esters en (poly-)amiden/(poly)peptiden
+       ○ hydrolyse van vetten tot glycerol en vetzuren
+   •   kraken;
+   •   polymerisatie van alkenen en gesubstitueerde alkenen;
+   •   polymerisatie tot polyesters en poly-amiden/polypeptiden;
+   •   substitutiereacties:
+       ○ alkanen met halogenen
+
+Subsfeer R2: Classificatie van reacties
+Eindterm
+De kandidaat kan eenvoudige reacties classificeren en gebruiken bij het beschrijven van
+polymerisatiereacties.
+
+Specificatie
+1 De kandidaat kan een aantal typen reacties classificeren en aangeven wat de kenmerken zijn:
+  • additiereactie;
+  • condensatiereacties;
+  • hydrolyse;
+  • polymerisatiereactie.
+2 De kandidaat kan van de volgende soorten polymerisatiereacties aangeven wat de kenmerken zijn:
+  • poly-additie;
+  • polycondensatie.
+3 De kandidaat kan aan de hand van de structuurformule van een (co)polymeer de structuurformule(s)
+  van de/het monome(e)r(en) geven:
+  • poly-additie;
+  • polycondensatie.
+
+Subsfeer R3: Reactiesnelheid en katalyse
+Eindterm
+De kandidaat kan de reactiesnelheid berekenen uit de concentratieverandering en beredeneren hoe de
+reactiesnelheid beïnvloed wordt.
+
+Specificatie
+1 De kandidaat kan veranderingen in reactiesnelheid verklaren met het botsende- deeltjes-model en
+  daarbij de volgende begrippen gebruiken:
+  • concentratie;
+  • druk;
+  • temperatuur;
+  • verdelingsgraad.
+2 De kandidaat kan veranderingen in reactiesnelheid verklaren met behulp van de volgende begrippen:
+  • activeringsenergie;
+  • katalysator.
+
+Subsfeer R4: Chemische procesontwerpen
+Eindterm
+De kandidaat kan chemische processen relateren aan de opzet van een ontwerpopdracht of gebruikte
+technologie.
+
+Specificatie
+1 De kandidaat kan aangeven dat voor de vorming van additiepolymeren een initiatiestap nodig is:
+  • initiator;
+  • uv-licht.
+2 De kandidaat kan een verband leggen tussen macroscopische eigenschappen, het productieproces en
+  de manier van verwerken van een materiaal:
+  • metalen: persen, gieten, walsen;
+  • thermoharders: polymeriseren in een mal;
+
+                                                                                          Pagina 20 van 38
+    SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+    Versie 4
+
+
+
+
+       •   thermoplasten: spuitgieten, extruderen, blazen.
+
+    Subsfeer R5: Energie
+    Eindterm
+    De kandidaat kan een chemisch proces en de daarbij optredende energieomzetting en energie-
+    uitwisseling beschrijven en met een berekening toelichten.
+
+    Specificatie
+    1 De kandidaat kan de volgende begrippen gebruiken:
+      • activeringsenergie;
+      • endotherm, exotherm;
+      • energieniveaus;
+      • invloed van een katalysator;
+      • ontbrandingstemperatuur;
+      • overgangstoestand/geactiveerde toestand;
+      • reactiewarmte/energie-effect;
+      • vormingswarmte.
+    2 De kandidaat kan een energiediagram geven van een reactie.
+    3 De kandidaat kan de reactiewarmte van een proces berekenen met behulp van vormingswarmtes.
+    4 De kandidaat kan bij omzettingen van chemische energie redeneren aan de hand van berekeningen,
+      en maakt daarbij gebruik van de wet van behoud van energie:
+      • elektrische energie;
+      • warmte.
+    5 De kandidaat kan aangeven dat bij omzettingen van een vorm van energie in een andere vorm van
+      energie er minstens een deel wordt omgezet in warmte. In verband daarmee kan de kandidaat het
+      begrip kwaliteit van energie gebruiken in redeneringen.
+
+
+6   SFEER: (CHEMISCH) REKENEN & ANALYSE
+
+    Subsfeer R&A1: Grootheden en relaties
+    Eindterm
+    De kandidaat kan met behulp van kennis van chemische reacties en behoudswetten berekeningen maken
+    over een proces.
+
+    Specificatie
+    1 De kandidaat kan de volgende principes gebruiken bij het rekenen aan chemische processen:
+      • massaverhouding;
+      • molverhouding/stoichiometrische verhouding;
+      • ondermaat/overmaat;
+      • rendement als fractie of percentage van de theoretische opbrengst.
+    2 De kandidaat kan bij berekeningen de volgende begrippen/grootheden en relaties gebruiken:
+      • massa;
+         ○ symbool m
+         ○ eenheid kg of g
+      • atoommassa;
+         ○ symbool A
+         ○ eenheid u
+      • molecuulmassa
+         ○ symbool M
+         ○ eenheid u
+      • molaire massa;
+         ○ symbool M(X)
+         ○ eenheid g mol-1
+      • chemische hoeveelheid;
+         ○ symbool n
+         ○ eenheid mol
+      • volume;
+         ○ symbool V
+         ○ eenheid m3 of L
+                                                                                         Pagina 21 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+   •   dichtheid;
+       ○ symbool ρ
+       ○ eenheid kg m-3 of g L-1
+   •   concentratie;
+       ○ symbool c(X) of [X]
+       ○ eenheid mol m-3 of mol L-1
+   •   molariteit;
+       ○ symbool niet éénduidig
+       ○ a M betekent een a molair oplossing, eenheid mol L-1 of M
+   •   reactiesnelheid;
+       ○ symbool s
+       ○ eenheid mol L-1s-1
+   •   relaties:
+               𝑚
+       ○ 𝜌= 𝑉
+
+               𝑚
+       ○ 𝑛=𝑀
+
+                   𝑛        𝑛
+       ○   [X] =     of 𝑐 =
+                   𝑉        𝑉
+
+               ∆c
+       ○ 𝑠 = ∆𝑡
+
+3 De kandidaat kan bij berekeningen met massa, volume en hoeveelheid de volgende begrippen
+  gebruiken:
+  • percentage (%);
+  • ppm;
+  • ppb.
+4 De kandidaat kan bij berekeningen van de pH de volgende begrippen en relaties gebruiken:
+  • zuurgraad;
+     ○ symbool pH en pOH
+  • pH = –log [H+];
+  • pOH = –log [OH–];
+  • pH + pOH = 14,00 (bij 298K);
+  • [H+] = 10–pH;
+  • [OH–] = 10-pOH.
+
+Subsfeer R&A2: Chemische vakmethodes
+Eindterm
+De kandidaat kan met behulp van kennis van stoffen, materialen en chemische processen verklaren
+waarom bepaalde scheidings- en/of analysemethoden passen in een voorgesteld ontwerp of
+productieproces.
+
+Specificaties
+1 De kandidaat kan in redeneringen over analyse- en/of scheidingsmethodes de volgende begrippen
+  gebruiken:
+  • adsorberen;
+  • bezinken;
+  • centrifugeren;
+  • chromatografie:
+     ○ dunnelaag-chromatografie
+     ○ loopvloeistof
+     ○ papierchromatografie
+  • destillaat;
+  • destilleren;
+  • extraheren/wassen;
+  • extractiemiddel;
+  • filtraat;
+  • filtreren;
+
+                                                                                      Pagina 22 van 38
+    SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+    Versie 4
+
+
+
+
+      • indampen;
+      • ijklijn;
+      • indicator;
+      • oplosmiddel;
+      • reagens;
+      • residu;
+      • titratie.
+    2 De kandidaat kan voor scheidingsmethodes6 toelichten op welk verschil van (stof)eigenschap ze
+      berusten en beargumenteren waarom ze bij een bepaald proces worden gebruikt.
+    3 De kandidaat kan aan de hand van een chromatogram een uitspraak doen over de aanwezigheid van
+      bepaalde stoffen.
+
+    Subsfeer R&A3: Behoudswetten en kringlopen
+    Eindterm
+    De kandidaat kan chemische processen relateren aan behoudswetten en beschrijven in termen van
+    kringlopen.
+
+    Specificatie
+    1 De kandidaat kan de volgende begrippen gebruiken in redeneringen:
+      • elementbehoud;
+      • energiebehoud/energiebalans;
+      • ladingbehoud/ladingbalans;
+      • massabehoud/massabalans.
+
+
+7   SFEER: TECHNOLOGIE & DUURZAAMHEID
+
+    Subsfeer T1: Industriële processen en groene chemie
+    Eindterm
+    De kandidaat kan gegeven industriële processen beschrijven in blokschema's, rendementsberekeningen
+    maken, en aangeven hoe aspecten van groene chemie bij het ontwerp van het proces een rol spelen.
+
+    Specificatie
+    1 De kandidaat kan de volgende begrippen gebruiken:
+      • afval;
+      • batchproces;
+      • bulkchemie;
+      • continuproces;
+      • energiebehoud/energiebalans;
+      • energiehuishouding;
+      • fijnchemie;
+      • groene chemie;
+      • reactoren;
+      • recirculatie;
+      • recycling;
+      • scheidingsinstallaties/scheidingsmethodes;
+      • stofstromen;
+      • warmtewisselaars.
+    2 De kandidaat kan met gegevens over een industrieel proces dit proces met een blokschema
+      beschrijven.
+    3 De kandidaat kan van een industrieel proces de gekozen reactieomstandigheden en scheidingsstappen
+      toelichten.
+    4 De kandidaat kan toelichten welke aspecten van groene chemie bij het ontwerpen van industriële
+      processen een rol hebben gespeeld:
+      • afval;
+      • (keuze voor) batchproces/continuproces;
+      • bijproducten;
+      • gebruik van water;
+
+    6
+        De scheidingsmethodes die genoemd zijn in specificatie R&A 2.1.
+                                                                                         Pagina 23 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+  • (hernieuwbare) grondstoffen;
+  • kwalitatieve energiebeschouwing;
+  • milieueisen;
+  • nevenreacties;
+  • onvolledige omzetting;
+  • ondermaat/overmaat;
+  • reactieomstandigheden;
+  • recycling;
+  • veiligheid.
+5 De kandidaat kan aan de hand van formules uit groene chemie berekeningen uitvoeren aan
+  processen:
+  • atoomeconomie;
+  • E-factor.
+6 De kandidaat kan chemische processen relateren aan:
+  • cradle-to-cradle;
+  • elementkringloop;
+  • recycling;
+  • stofkringloop.
+
+Subsfeer T2: Energieomzettingen
+Eindterm
+De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en/of technologische
+processen worden gebruikt bij energieomzettingen en kan beredeneren hoe duurzaamheid een rol speelt
+bij energieproductie.
+
+Specificaties
+1 De kandidaat kan met behulp van een beschrijving van chemische technieken voor energieproductie
+  uit biomassa redeneren over deze technieken.
+2 De kandidaat kan brandstoffen met elkaar vergelijken, voorstellen voor aanpassing(en) beoordelen en
+  redeneren over aspecten van duurzaamheid die daarbij een rol spelen:
+  • C/H-verhouding:
+      ○ relatie hoeveelheid CO2 per joule
+  • optredende emissies bij verbranding:
+      ○ CO2
+      ○ NOx
+      ○ SO2
+  • verschil in hoeveelheid koolstofdioxide geproduceerd door biobrandstof en fossiele brandstof:
+      ○ koolstofkringloop
+      ○ (versterkt) broeikaseffect
+  • olieraffinage:
+      ○ gefractioneerde destillatie
+      ○ kraken
+
+Subsfeer T3: Milieueisen
+Eindterm
+De kandidaat kan met behulp van kennis van chemische processen ten minste in de context van
+voedselproductie of gezondheid uitspraken doen over de kwaliteit van water, lucht, bodem en voedsel.
+
+Specificaties
+1 De kandidaat kan bij een risico inventarisatie van een experiment of toepassing van een chemisch
+  proces een verband leggen tussen gemaakte keuzes en de volgende begrippen:
+  • ADI-waarde;
+  • gevaarsymbolen;
+  • GHS-systeem;
+  • grenswaarde;
+  • LD-50.
+2 De kandidaat kan ongewenste effecten van het gebruik van koolstofhoudende brandstoffen in verband
+  brengen met de kwaliteit van lucht, water en bodem:
+  • zure depositie;
+
+                                                                                        Pagina 24 van 38
+    SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+    Versie 4
+
+
+
+
+         ○ SO2, NOx
+       • smogvorming.
+         ○ SO2, NOx, roet, onverbrande koolwaterstoffen, CO, fijnstof
+    3 De kandidaat kan effecten van het gebruik van (kunst)mest in verband brengen met de kwaliteit van
+      lucht, water en bodem:
+      • mineraalbalans.
+         ○ eutrofiëring
+         ○ uitspoelen.
+
+    Subsfeer T4: Duurzaamheid
+    Eindterm
+    De kandidaat kan in maatschappelijke, beroeps- en technologische contexten aspecten van
+    duurzaamheid aangeven en beschrijven.
+
+    Specificaties
+    1 De kandidaat kan de rol van levenscycli van stoffen, materialen en producten aangeven in termen van
+      duurzaamheid.
+    2 De kandidaat kan de maatschappelijke betekenis van de chemie toelichten in contexten over
+      wereldvoedselvoorziening, duurzame energievoorziening, (drink)watervoorziening, beschikbaarheid
+      van grondstoffen, opwarming van de aarde en vervuiling van de aarde.
+    3 De kandidaat kan beschrijven dat elektrische energie kan worden gebruikt voor:
+      • duurzame productie van stoffen:
+         ○ elektrolyse van water: waterstof
+      • omzetting van chemische energie in elektrische energie en omgekeerd:
+         ○ brandstofcel/elektrochemische cel/batterij
+         ○ opladen accu/batterij
+
+
+8   SFEER: CHEMIE VAN HET LEVEN
+
+    Subsfeer L1: Structuur en functie
+    Eindterm
+    De kandidaat kan chemische processen in levende organismen herkennen en beschrijven.
+
+    Specificatie
+    1 De kandidaat kan de volgende biologische vakbegrippen herkennen en gebruiken:
+      • ademhaling/gaswisseling;
+      • bloed;
+      • cel;
+      • celmembraan;
+      • organisme;
+      • spijsvertering;
+      • transport.
+    2 De kandidaat kan de fotosynthese van glucose beschrijven als een proces waarbij licht energie wordt
+      omgezet in chemische energie:
+      • productie van zuurstof;
+      • vastleggen van koolstofdioxide/koolstofassimilatie.
+    3 De kandidaat kan op microniveau de structuur beschrijven van:
+      • eiwitten/enzymen:
+         ○ (essentiële) aminozuren
+         ○ primaire structuur
+      • koolhydraten:
+         ○ mono-, di- en polysachariden
+      • vetten:
+         ○ glycerol
+         ○ triglyceriden
+         ○ (on)verzadigde vetzuren
+    4 De kandidaat kan de afbraak van voedingsstoffen beschrijven als een chemisch proces, waarbij de
+      producten als basis kunnen dienen voor het maken van lichaamseigen stoffen.
+    5 De kandidaat kan de functie van eiwitten, koolhydraten en vetten in de levende natuur benoemen.
+                                                                                           Pagina 25 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+   • eiwitten:
+     ○ bouwstof
+     ○ enzymen
+  • koolhydraten:
+     ○ energieopslag
+  • vetten:
+     ○ bouwstof in membranen
+     ○ energieopslag
+6 De kandidaat kan de functie van enzymen beschrijven en daarbij de volgende begrippen gebruiken:
+  • biokatalysator:
+  • pH-optimum;
+  • specificiteit;
+  • temperatuur-optimum.
+
+
+
+
+                                                                                     Pagina 26 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+BIJLAGE 1: EXAMENPROGRAMMA
+Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+Domein A: Vaardigheden
+Domein B: Kennis van stoffen en materialen
+Domein C: Kennis van chemische processen en kringlopen
+Domein D: Ontwerpen en experimenten in de chemie
+Domein E: Innovatieve ontwikkelingen in de chemie
+Domein F: Processen in de chemische industrie
+Domein G: Maatschappij en chemische technologie
+
+Het centraal examen
+
+Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, C1, C2, C3, C6, C7, C8,
+D1, D3, E1, F1, F3, G1 en G2, in combinatie met de vaardigheden genoemd in domein A.
+Het CvE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de
+subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin
+genoemde.
+Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.
+Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.
+
+Het schoolexamen
+
+Het schoolexamen heeft betrekking op domein A en op:
+– de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;
+– indien het bevoegd gezag daarvoor kiest: één of meer domeinen of subdomeinen waarop het centraal
+   examen betrekking heeft;
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.
+
+De examenstof
+
+Domein A: Vaardigheden
+Algemene vakvaardigheden (profieloverstijgend niveau)
+
+Subdomein A1: Informatievaardigheden gebruiken
+1 De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.
+
+Subdomein A2: Communiceren
+2 De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren
+  over onderwerpen uit het desbetreffende vakgebied.
+
+Subdomein A3: Reflecteren op leren
+3 De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen
+  belangstelling, motivatie en leerproces.
+
+Subdomein A4: Studie en beroep
+4 De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt
+  gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden
+  brengen.
+
+Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+Subdomein A5: Onderzoeken
+5 De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en
+  conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente
+  redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+                                                                                         Pagina 27 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+Subdomein A6: Ontwerpen
+6 De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp
+  voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden
+  en valide en consistente redeneringen hanteren.
+
+Subdomein A7: Modelvorming
+7 De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en
+  modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente
+  redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Subdomein A8: Natuurwetenschappelijk instrumentarium
+8 De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren,
+  waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor
+  dataverzameling en –bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige
+  bewerkingen.
+
+Subdomein A9: Waarderen en oordelen
+9 De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of
+  een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten,
+  normatieve maatschappelijke overwegingen en persoonlijke opvattingen.
+
+Scheikunde - specifieke vaardigheden
+
+Subdomein A10: Gebruiken van chemische concepten
+10 De kandidaat kan chemische concepten en in de chemie gebruikte fysische en biologische concepten
+   herkennen en met elkaar in verband brengen.
+
+Subdomein A11: Redeneren in termen van context-concept
+11 De kandidaat kan in leefwereld-, beroeps- en technologische contexten chemische concepten
+   herkennen en gebruiken en kan op basis daarvan voorspellingen doen, en berekeningen en
+   schattingen maken.
+
+Subdomein A12: Redeneren in termen van structuur-eigenschappen
+12 De kandidaat kan macroscopische eigenschappen in relatie brengen met structuren op meso- en
+   microniveau en daarin aspecten van schaal herkennen en kan omgekeerd vanuit structuren
+   voorspellingen doen over macroscopische eigenschappen.
+
+Subdomein A13: Redeneren over systemen, verandering en energie
+13 De kandidaat kan chemische processen herkennen in termen van systemen en daarbij kennis van
+   stoffen, deeltjes, reactiviteit en energie gebruiken.
+
+Subdomein A14: Redeneren in termen van duurzaamheid
+14 De kandidaat kan in maatschappelijke, beroeps- en technologische contexten aspecten van
+   duurzaamheid aangeven en beschrijven.
+
+Subdomein A15: Redeneren over ontwikkelen van chemische kennis
+15 De kandidaat kan in contexten aangeven op welke wijze natuurwetenschappelijke, technologische en
+   chemische kennis wordt ontwikkeld en toegepast.
+
+Domein B: Kennis van stoffen en materialen
+
+Subdomein B1: Deeltjesmodellen
+16 De kandidaat kan deeltjesmodellen beschrijven en gebruiken.
+
+Subdomein B2: Eigenschappen en modellen
+17 De kandidaat kan macroscopische eigenschappen van een stof of materiaal in relatie brengen met
+   deeltjesmodellen.
+
+
+
+
+                                                                                       Pagina 28 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+Subdomein B3: Bindingen en eigenschappen
+18 De kandidaat kan met behulp van kennis van bindingen eigenschappen van stoffen en materialen
+   toelichten en beschrijven.
+
+Subdomein B4: Bindingen, structuren en eigenschappen
+19 De kandidaat kan op basis van kennis van aanwezige structuren en de bindingen in en tussen deeltjes
+   een macroscopische eigenschap van een stof of materiaal verklaren.
+
+Subdomein B5: Macroscopische eigenschappen
+20 De kandidaat kan een macroscopische eigenschap relateren aan de structuur van een stof of
+   materiaal.
+
+Domein C: Kennis van chemische processen en kringlopen
+
+Subdomein C1: Chemische processen
+21 De kandidaat kan chemische reacties en fysische processen beschrijven in termen van vormen en
+   verbreken van (chemische) bindingen.
+
+Subdomein C2: Chemisch rekenen
+22 De kandidaat kan met behulp van kennis van chemische reacties en behoudswetten berekeningen
+   maken over een proces.
+
+Subdomein C3: Energieberekeningen
+23 De kandidaat kan een chemisch proces en de daarbij optredende energieomzetting en energie-
+   uitwisseling beschrijven en met een berekening toelichten.
+
+Subdomein C4: Chemisch evenwicht
+24 De kandidaat kan bij experimenten metingen doen aan concentraties en energie-uitwisseling en
+   beredeneren of er sprake is van evenwicht en hoe de ligging van het evenwicht kan worden beïnvloed.
+
+Subdomein C5: Technologische aspecten
+25 De kandidaat kan in contexten van technologische aard aspecten van schaal, verandering en
+   reactiviteit herkennen en toelichten.
+
+Subdomein C6: Reactiekinetiek
+26 De kandidaat kan de reactiesnelheid berekenen uit de concentratieverandering en beredeneren hoe de
+   reactiesnelheid beïnvloed wordt.
+
+Subdomein C7: Behoudswetten en kringlopen
+27 De kandidaat kan chemische processen relateren aan behoudswetten en beschrijven in termen van
+   kringlopen.
+
+Subdomein C8: Classificatie van reacties
+28 De kandidaat kan eenvoudige reacties classificeren en gebruiken bij het beschrijven van
+   polymerisatiereacties.
+
+Domein D: Ontwerpen en experimenten in de chemie
+
+Subdomein D1: Chemische vakmethodes
+29 De kandidaat kan met behulp van kennis van stoffen, materialen en chemische processen verklaren
+   waarom bepaalde scheidings- en/of analysemethoden passen in een voorgesteld ontwerp of
+   productieproces.
+
+Subdomein D2: Veiligheid
+30 De kandidaat kan stoffen en materialen analyseren en zuiveren en daarbij veilig omgaan met stoffen,
+   materialen en apparatuur.
+
+
+
+
+                                                                                         Pagina 29 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+Subdomein D3: Chemische procesontwerpen
+31 De kandidaat kan chemische processen relateren aan de opzet van een ontwerpopdracht of gebruikte
+   technologie.
+
+Subdomein D4: Molecular modelling
+32 De kandidaat kan bij een onderzoek- of een ontwerpopdracht elementen van “molecular modelling”
+   gebruiken.
+
+Domein E: Innovatieve ontwikkelingen in de chemie
+
+Subdomein E1: Kenmerken van innovatieve processen
+33 De kandidaat kan in innovatieve processen het gebruik van structuur-eigenschappen-relaties ten
+   minste in de context van materialen, geneesmiddelen of voeding, herkennen en beschrijven.
+
+Subdomein E2: Duurzaamheid
+34 De kandidaat kan met behulp van kennis van chemische processen aspecten van duurzaamheid in
+   relatie brengen met ontwikkelingen in de chemie.
+
+Subdomein E3: Innovatieve processen
+35 De kandidaat kan met kennis van de chemische industrie ten minste in de context van
+   voedselproductie of materialen een innovatief proces beschrijven.
+
+Domein F: Processen in de chemische industrie
+
+Subdomein F1: Industriële processen
+36 De kandidaat kan gegeven industriële processen beschrijven in blokschema's,
+   rendementsberekeningen maken, en aangeven hoe aspecten van groene chemie bij het ontwerp van
+   het proces een rol spelen.
+
+Subdomein F2: Procestechnologie en duurzaamheid
+37 De kandidaat kan kennis over procestechnologie en reactiekinetiek gebruiken bij redeneringen met
+   betrekking tot duurzaamheid en veiligheid van een proces.
+
+Subdomein F3: Energieomzettingen
+38 De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en/of technologische
+   processen worden gebruikt bij energieomzettingen en kan beredeneren hoe duurzaamheid een rol
+   speelt bij energieproductie.
+
+Subdomein F4: Risico en veiligheid
+39 De kandidaat kan in een gegeven industrieel proces veiligheidsrisico’s benoemen en
+   veiligheidsmaatregelen aangeven.
+
+Subdomein F5: Kwaliteit en gezondheid
+40 De kandidaat kan kennis van chemische processen ten minste in de context van voeding of
+   voedselproductie relateren aan uitspraken over kwaliteit en gezondheid.
+
+Domein G: Maatschappij en chemische technologie
+
+Subdomein G1: Chemie van het leven
+41 De kandidaat kan chemische processen in levende organismen herkennen en beschrijven.
+
+Subdomein G2: Milieueisen
+42 De kandidaat kan met behulp van kennis van chemische processen ten minste in de context van
+   voedselproductie of gezondheid uitspraken doen over de kwaliteit van water, lucht, bodem en voedsel.
+
+Subdomein G3: Duurzame chemische technologie
+43 De kandidaat kan aangeven hoe grondstoffen voor de chemische industrie worden geproduceerd en
+   kan met behulp van kennis van duurzame principes een relatie leggen tussen de lokale en mondiale
+   kwaliteit van leven en de bijdrage van een bedrijfsproces uit de chemische industrie daaraan.
+
+                                                                                         Pagina 30 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+Subdomein G4: Groene chemie
+44 De kandidaat kan bij grootschalige productieprocessen aspecten van duurzaamheid en groene chemie
+   benoemen.
+
+Subdomein G5: Ketenanalyse
+45 De kandidaat kan met kennis van chemische processen bij een ketenanalyse van een proces of een
+   product voorstellen voor aanpassing van het proces of product beoordelen.
+
+
+
+
+                                                                                     Pagina 31 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+BIJLAGE 2: EXAMENWERKWOORDEN
+
+In onderstaande lijst staan de relevante examenwerkwoorden voor scheikunde. Als in een scheikunde-
+examen een van de woorden uit onderstaande lijst wordt gebruikt, geldt de betekenis die hiervan in deze
+lijst is gegeven. Deze lijst met examenwerkwoorden is niet uitputtend.
+
+
+ Examenwerkwoord Betekenis
+
+ (Aan)geven,               Het geven van een kort antwoord: een woord, formule of zinsdeel.
+ aanvullen,                Een toelichting is niet vereist, tenzij anders is aangegeven in de
+ (be)noemen,               vraagstelling.
+ noteren
+
+ Beschrijven               Het geven van een antwoord in hele zinnen, waarin de onderdelen van
+                           het gevraagde zijn gegeven.
+                           In het geval van een beschrijving op microniveau moeten in het
+                           antwoord relevante termen op deeltjesniveau worden vermeld.
+
+ Beargumenteren,           Het geven van een antwoord waarin, op logische wijze, gegevens en
+ beredeneren               scheikundige kennis zijn gebruikt om een bepaalde keuze of stelling te
+                           onderbouwen of ondersteunen.
+
+ Toelichten                Het geven van een onderbouwing in één of enkele zinnen voor een
+                           bepaalde keuze of stelling.
+
+ Uitleggen                 Het geven van een antwoord waarin meerdere opeenvolgende
+                           oorzaak-gevolgstappen te onderscheiden zijn die tot
+                           gestelde/gevraagde leiden.
+
+ Verklaren                 Het geven van een antwoord waaruit een oorzaak-gevolg relatie blijkt
+                           met het gestelde/gevraagde.
+
+ Berekenen (of),           Het gevraagde vaststellen en/of uitrekenen, uitgaande van gegevens
+ Bepalen (of)              in de vraagstelling en/of andere informatiebronnen.
+                           Uit de uitwerking moet blijken welke formules en/of principes zijn
+                           toegepast, welke waarden zijn gebruikt en welke stappen zijn
+                           doorlopen.
+                           De uitkomst moet met de juiste eenheid zijn gegeven, tenzij de
+                           eenheid expliciet in de vraagstelling is opgenomen. De uitkomst moet
+                           zijn weergegeven in het juiste aantal significante cijfers als dat in de
+                           vraagstelling is aangegeven.
+
+ Tekenen                   Het geven van een grafische voorstelling die de voor de
+ (tekening                 probleemsituatie relevante karakteristieke eigenschappen bevat en
+ compleet maken)           voldoende nauwkeurig is.
+                           In het geval van een structuurformule zijn in Bijlage 3 van deze
+                           syllabus conventies opgenomen.
+
+ Afleiden                  Uit de uitwerking moet blijken welke stappen zijn gezet. In het geval
+                           van een gevraagde totaalreactie moeten de (deel)reacties worden
+                           genoteerd.
+
+ Aantonen dat,             Het geven van een redenering en/of bepaling en/of berekening waaruit
+ laten zien dat            de juistheid van het gestelde blijkt. Uit de uitwerking moet blijken
+                           welke stappen zijn gezet. In het algemeen geldt dat het gestelde
+                           controleren door middel van een of meer voorbeelden niet voldoet.
+
+
+
+
+                                                                                               Pagina 32 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+BIJLAGE 3: NOTATIE FORMULES EN BINDINGEN
+
+A. STRUCTUURFORMULES
+
+In een enkel geval kan het voorkomen dat in Binas/ScienceData of het schoolboek een andere
+schrijfwijze van de structuurformules wordt gehanteerd. Bij de beoordeling van de schrijfwijze in de
+centrale examens wordt uitgegaan van de volgende richtlijnen.
+
+–   Bij de beoordeling van de weergave van bindingen tussen C-atomen en H-atomen gelden de volgende
+    richtlijnen:
+    1 Uit de weergave moet duidelijk worden dat de covalentie van koolstof 4 is.
+    2 Wanneer de C–H bindingen zijn weergegeven met bindingsstreepjes, mogen de symbolen voor de
+    H-atomen worden weggelaten.
+    3 Wanneer bij de C-atomen het juiste aantal H-atomen is weergegeven, mogen de
+    C–H bindingsstreepjes worden weggelaten.
+
+    De volgende weergaven zijn juist (enkele voorbeelden):
+
+
+
+
+–   Bij de beoordeling van de weergave van hydroxylgroepen en aminogroepen gelden de volgende
+    richtlijnen:
+    1 De symbolen voor de H-atomen in de functionele groep moeten worden weergegeven.
+    2 De binding van de functionele groep aan het koolstofskelet moet worden weergegeven met een
+    bindingsstreepje van het O-atoom/N-atoom naar het koolstofskelet.
+    3 De bindingsstreepjes tussen de O-atomen en de H-atomen respectievelijk de N-atomen en de H-
+    atomen mogen worden weggelaten.
+
+    De volgende weergaven zijn juist (enkele voorbeelden):
+
+
+
+
+    De volgende weergaven zijn onjuist (enkele voorbeelden):
+
+
+
+
+–   Bij de beoordeling van de weergave van de carbonylgroep in verschillende klassen van
+    koolstofverbindingen geldt de volgende richtlijn:
+    De carbonylgroep moet in structuur worden weergegeven.
+
+    De volgende weergaven zijn juist (enkele voorbeelden):
+
+
+                                                                                           Pagina 33 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+    De volgende weergaven zijn onjuist (enkele voorbeelden)7:
+
+
+
+
+–   Bij de beoordeling van de weergave van partiële lading(en) in een structuurformule geldt de volgende
+    richtlijn:
+    De partiële lading(en) moet(en) op het desbetreffende atoom / de desbetreffende atomen worden
+    gelokaliseerd.
+
+    De volgende weergaven zijn juist (enkele voorbeelden):
+
+
+
+
+    De volgende weergaven zijn onjuist (enkele voorbeelden):
+
+
+
+
+B. (VERHOUDINGS)FORMULES VAN ZOUTEN
+In de formule van een zout mogen de juiste ionladingen worden geschreven: een schrijfwijze als Na +Cl–
+mag worden goed gerekend.
+
+7
+  De weergave van de carbonylgroep in aldehyden en ketonen is hier opgenomen, omdat het in
+een havo-examen kan voorkomen dat een C=O binding in structuurformule moet worden
+weergegeven. De carbonylgroep, ketonen en aldehyden maken verder geen deel uit van de havo-syllabus en hoeven
+dus niet als zodanig te worden herkend.
+                                                                                                Pagina 34 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+C. NAAMGEVING ORGANISCHE STOFFEN
+De specificaties in de syllabus geven aan dat kandidaten de naamgeving volgens de IUPAC systematiek
+moeten kunnen hanteren. Sinds 2010 is de Nederlandse organische naamgeving volgens IUPAC
+(International Union of Pure and Applied Chemistry) veranderd.8 In het centraal examen zullen
+organische stoffen met de nieuwe naam worden genoemd. Als kandidaten in hun antwoorden de oude
+IUPAC naamgeving correct hanteren, moet dit goed gerekend worden.
+
+D. NAAMGEVING ANORGANISCHE STOFFEN
+De specificaties in de syllabus geven aan dat kandidaten de naamgeving volgens de IUPAC systematiek
+moeten kunnen hanteren. Sinds 2015 is de Nederlandse anorganische naamgeving volgens IUPAC
+veranderd.9 Zowel de voorkeursnaam als de ‘oude’ naam zijn chemisch correct en moeten dus beide goed
+gerekend worden. In het centraal examen zal naast de naam ook de formule worden gegeven daar waar
+het tot onduidelijkheid zou kunnen leiden. Een tekst als “Gadodiamide kan worden bereid uit
+gadolinium(III)oxide via de volgende reactie: …” (Havo 2017-I) wordt dan “Gadodiamide kan worden
+bereid uit gadolinium(III)oxide (Gd2O3) via de volgende reactie: …”
+
+E. NOTATIE WATERSTOFBRUGGEN
+Volgens specificatie M3.1 moet de kandidaat een beschrijving op microniveau kunnen geven van de
+waterstofbrug. Soms is het gewenst om deze beschrijving te geven in de vorm van een tekening. Bij de
+beoordeling van deze weergave gelden de volgende richtlijnen:
+
+1 Uit de weergave moet duidelijk worden tussen welke twee atomen de waterstofbrug optreedt.
+2 Een waterstofbrug dient te worden weergegeven met een stippellijntje: • • •.
+3 Gebogen (lange) stippellijntjes hebben niet de voorkeur maar mogen goed gerekend worden.
+
+De volgende weergaven zijn juist (enkele voorbeelden):
+
+
+
+
+De volgende weergave goed rekenen:
+
+
+
+
+8
+    Gids voor IUPAC-nomenclatuur van organische verbindingen, KNCV en KVCV 2010
+9
+    Beknopte handleiding voor de nomenclatuur van de anorganische chemie, KNCV en KVCV 2015
+                                                                                              Pagina 35 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+BIJLAGE 4: VOORBEELDEN BIJ SPECIFICATIES VAN SUBDOMEIN A13
+ In deze bijlage zijn voorbeelden opgenomen bij de specificaties van subdomein A13. Voor de
+overzichtelijkheid voegen we subdomein A13 met de bijbehorende specificaties hier nogmaals toe:
+
+Subdomein A13. Redeneren over systemen, verandering en energie
+Eindterm
+De kandidaat kan chemische processen herkennen in termen van systemen en daarbij kennis van stoffen,
+deeltjes, reactiviteit en energie gebruiken.
+
+Specificatie
+De kandidaat kan:
+1. Door middel van systeemdenken concepten uit de sferen materie, reacties en
+    rekenen & analyse verbinden met complexe vraagstukken en contexten binnen de sferen chemie van
+    het leven en technologie & duurzaamheid:
+   •   Een systeem en haar grenzen herkennen en daarbinnen de onderdelen en onderlinge interacties
+       benoemen;
+   •   De hiërarchie van het systeem herkennen aan de hand van de schaal en ordegrootte;
+   •   De verandering van het systeem, de onderdelen en de interacties over tijd en ruimte
+       beschrijven;
+   •   De invoer, uitstroom en circulariteit van energie- en materiestromen van een systeem
+       benoemen en gebruiken in redeneringen.
+
+Voorbeeld 1: Vraagstuk rondom opladen van batterij/accu.
+Door middel van systeemdenken kan de leerling grip krijgen op vraagstuk rondom opladen van een
+batterij/accu. Bij dit vraagstuk moet de leerlingen concepten uit sfeer Reacties (elektrochemische cel;
+R1.10) verbinden aan context uit sfeer technologie & duurzaamheid (gebruik van elektrische energie;
+T4.3)
+
+De leerling krijgt vragen over een voorbeeld van een batterij/accu die qua opbouw afwijkt van een
+standaard elektrochemische cel. Hieronder wordt uitgelegd hoe de aspecten uit de vier bolletjes van de
+specificatie achtereenvolgens aan de orde zijn.
+– Door het tekenen van de opstelling kan de leerling de batterij/accu herkennen als een systeem
+   waarvan de onderdelen benoemd kunnen worden. De interacties tussen de onderdelen bepalen of de
+   batterij/accu wel of niet functioneert. Wat is de oxidator? wat is de reductor? Hoe staan ze met elkaar
+   in verbinding?
+– Inzicht in de hiërarchie tussen oxidator en reductor helpt om te bepalen of en hoe elektronenstroom
+   op gang komt. Inzicht in hoeveelheid bepaalt de capaciteit van de batterij/accu.
+– Beschrijving van het systeem in tijd en ruimte is nodig om te beoordelen of de batterij/accu
+   herlaadbaar is. Waar blijven de stoffen die ontstaan bij ontladen van de batterij. Verlaat bijvoorbeeld
+   H2-gas het systeem waardoor het niet beschikbaar is voor de terugreactie?
+– Benoemen of de functie van de zoutbrug in het beschreven systeem is ingevuld is nodig om te
+   beredeneren of de batterij/accu een gesloten, circulair, systeem vormt en daarmee stroom kan
+   leveren.
+
+Voorbeeld 2: Vraagstuk over duurzaamheid in de proceschemie.
+Door middel van systeemdenken kan de leerling grip krijgen op vraagstukken rondom het duurzaam
+inrichten van industriële processen (Industriële processen en groene chemie; T1). Bij dergelijke
+vraagstukken moeten leerlingen verbinding leggen met concepten als massabehoud en energiebehoud
+(Behoudswetten en kringlopen; R&A3) en diverse concepten uit sfeer Reacties.
+
+De leerling krijgt vragen over een voorbeeld van een industrieel proces en de (milieu)impact daarvan op
+de directe (en wijde) omgeving. Hieronder wordt uitgelegd hoe de aspecten uit de vier bolletjes van de
+specificatie achtereenvolgens aan de orde zijn.
+– Door het industriële proces als een systeem te herkennen en de verschillende processtappen
+   (onderdelen) te beschrijven aan de hand van een blokschema krijgt de leerling zicht op de werking
+   van het industriële proces.
+– Beschrijven van de schaal en ordegrootte van de diverse processtappen in het systeem is nodig om te
+   bepalen wat de functie en omvang van iedere processtap is in relatie tot het gehele proces. Welke
+   processtappen binnen het systeem kunnen worden geoptimaliseerd?
+
+
+                                                                                           Pagina 36 van 38
+SCHEIKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 NADERE VASTSTELLING
+Versie 4
+
+
+
+
+–   Beschrijving van het verloop van het proces over de tijd en ruimte is nodig om te kunnen inschatten.
+    welke impact en (potentiële) risico ermee samenhangen.
+–   Beredeneren wat de impact op de directe (en wijde) omgeving aan hand van inzicht in de diverse
+    materie- en energiestromen, waarbij de interactie tussen systeem ‘industrieel proces’ en de omgeving
+    een waardeoordeel krijgt aan de hand van de principes van de groene chemie.
+
+Voorbeelden uit oude havo centraal examens
+ Jaar           Opgave                                      vraag              specificatie A13
+
+ 2021-I         Ethyllactaat                                5                  4
+
+ 2021-II        Palladiumvanger                             6                  1, 3
+
+ 2019-II        Koele kauwgom                               18                 1, 2
+
+ 2018-I         Lignine                                     28, 29             2, 4
+
+ 2017-I         Contrastmiddel voor MRI-scans               7                  3, 4
+
+
+
+
+                                                                                         Pagina 37 van 38
+
