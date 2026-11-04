@@ -4,7 +4,9 @@ Een web-app waarin leerlingen echte centrale examenvragen wiskunde oefenen per o
 De leerling kiest niveau en vak, klikt op een onderwerp en krijgt een lijst van alle examenvragen over dat onderwerp
 (met jaar, tijdvak, opgave en vraagnummer). Per vraag staan de inleiding, figuren en tabellen precies zoals in het examen,
 met daaronder het antwoordmodel uit het correctievoorschrift. De leerling geeft zichzelf punten; de voortgang blijft
-in de browser.
+in de browser. Bij *Mijn voortgang* ziet de leerling per onderwerp zijn score en een advies wat hij nu het beste
+kan oefenen (lage score en veel punten per examen gaan voor). Bij elk onderwerp staat een korte aanpak met de
+fouten die het vaakst punten kosten, en er is een pagina met algemene examentips.
 
 Nu: havo wiskunde A en B, vwo wiskunde A, B en C, examenjaren 2018 t/m 2026 (2020 had geen centrale examens).
 
@@ -17,6 +19,7 @@ Nu: havo wiskunde A en B, vwo wiskunde A, B en C, examenjaren 2018 t/m 2026 (202
 | `tools/bouw_databank.py` | Leest de teksten in: per vraag opgave, nummer, punten, vraagtekst en antwoordmodel |
 | `tools/snij.py` | Snijdt per vraag het stuk van de opgave en het antwoordmodel uit de pdf (WebP-beelden) |
 | `tools/bouw_site.py` | Zet de onderwerpen per vak (volgens de syllabus) en de vragen klaar in `docs/data/` |
+| `docs/data/tips.json` | Examentips (algemeen, per vak) en de aanpak per onderwerp; met de hand geschreven, hier direct bewerken |
 | `indeling/<vak>.json` | Het onderwerp van elke vraag, met de hand ingedeeld volgens de subdomeinen van de syllabus |
 | `bronnen/` | Documentenlijst, databank, teksten en syllabi (de pdf's zelf staan niet in git) |
 
