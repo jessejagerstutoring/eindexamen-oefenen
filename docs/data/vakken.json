@@ -7,6 +7,7 @@
   "wiskunde-a-havo": {
    "niveau": "havo",
    "naam": "Wiskunde A",
+   "opmerking": "",
    "vragen": 345,
    "examens": [
     {
@@ -207,6 +208,7 @@
   "wiskunde-b-havo": {
    "niveau": "havo",
    "naam": "Wiskunde B",
+   "opmerking": "",
    "vragen": 282,
    "examens": [
     {
@@ -391,6 +393,7 @@
   "wiskunde-a-vwo": {
    "niveau": "vwo",
    "naam": "Wiskunde A",
+   "opmerking": "",
    "vragen": 343,
    "examens": [
     {
@@ -575,6 +578,7 @@
   "wiskunde-b-vwo": {
    "niveau": "vwo",
    "naam": "Wiskunde B",
+   "opmerking": "",
    "vragen": 268,
    "examens": [
     {
@@ -788,6 +792,7 @@
   "wiskunde-c-vwo": {
    "niveau": "vwo",
    "naam": "Wiskunde C",
+   "opmerking": "",
    "vragen": 364,
    "examens": [
     {
@@ -982,6 +987,222 @@
        "omschrijving": "Aanzichten, perspectief, verdwijnpunten en ruimtelijke berekeningen.",
        "vragen": 42,
        "punten": 166
+      }
+     ]
+    }
+   ]
+  },
+  "natuurkunde-havo": {
+   "niveau": "havo",
+   "naam": "Natuurkunde",
+   "opmerking": "Bij dit examen gebruik je Binas of ScienceData. Die staan niet bij de originele stukken.",
+   "vragen": 414,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "ha-1023-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "ha-1023-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "ha-1023-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "ha-1023-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "ha-1023-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "ha-1023-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "ha-1023-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "ha-1023-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "ha-1023-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "ha-1023-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "ha-1023-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "ha-1023-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "ha-1023-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "ha-1023-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "ha-1023-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "ha-1023-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Vaardigheden",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoek, eenheden en modellen",
+       "code": "A",
+       "omschrijving": "Eenheden afleiden, verbanden en grafieken, meten en schatten.",
+       "vragen": 8,
+       "punten": 15
+      }
+     ]
+    },
+    {
+     "naam": "Beeld- en geluidstechniek",
+     "onderwerpen": [
+      {
+       "id": "trillingen",
+       "naam": "Trillingen",
+       "code": "B1",
+       "omschrijving": "Periode, frequentie, oscillogrammen, massa-veersysteem en resonantie.",
+       "vragen": 29,
+       "punten": 65
+      },
+      {
+       "id": "golven",
+       "naam": "Golven en geluid",
+       "code": "B1",
+       "omschrijving": "Lopende en staande golven, knopen en buiken, muziekinstrumenten.",
+       "vragen": 33,
+       "punten": 95
+      },
+      {
+       "id": "straling",
+       "naam": "Ioniserende straling",
+       "code": "B2",
+       "omschrijving": "Vervalreacties, activiteit, dosis, halveringstijd en halveringsdikte.",
+       "vragen": 65,
+       "punten": 185
+      },
+      {
+       "id": "beeldvorming",
+       "naam": "Elektromagnetische straling en fotonen",
+       "code": "B2",
+       "omschrijving": "Spectrum, fotonenergie, röntgen, CT en echografie.",
+       "vragen": 9,
+       "punten": 26
+      }
+     ]
+    },
+    {
+     "naam": "Beweging en energie",
+     "onderwerpen": [
+      {
+       "id": "beweging",
+       "naam": "Bewegingen en diagrammen",
+       "code": "C1",
+       "omschrijving": "(x,t)- en (v,t)-diagrammen, raaklijnen en oppervlakte onder de grafiek.",
+       "vragen": 33,
+       "punten": 103
+      },
+      {
+       "id": "krachten",
+       "naam": "Krachten en de wetten van Newton",
+       "code": "C1",
+       "omschrijving": "Krachten construeren en ontbinden, Fres = m·a, wrijving.",
+       "vragen": 21,
+       "punten": 57
+      },
+      {
+       "id": "moment",
+       "naam": "Momenten en hefbomen",
+       "code": "C1",
+       "omschrijving": "Arm, draaipunt en de momentenwet.",
+       "vragen": 11,
+       "punten": 34
+      },
+      {
+       "id": "energie",
+       "naam": "Arbeid, energie en vermogen",
+       "code": "C2",
+       "omschrijving": "Arbeid, kinetische en zwaarte-energie, rendement en vermogen.",
+       "vragen": 43,
+       "punten": 153
+      }
+     ]
+    },
+    {
+     "naam": "Materialen",
+     "onderwerpen": [
+      {
+       "id": "stoffen",
+       "naam": "Stoffen, warmte en materialen",
+       "code": "D1",
+       "omschrijving": "Faseovergangen, soortelijke warmte, warmtetransport, dichtheid, debiet en rek.",
+       "vragen": 45,
+       "punten": 132
+      }
+     ]
+    },
+    {
+     "naam": "Aarde en heelal",
+     "onderwerpen": [
+      {
+       "id": "heelal",
+       "naam": "Cirkelbewegingen, gravitatie en heelal",
+       "code": "E1",
+       "omschrijving": "Baansnelheid, middelpuntzoekende kracht, satellieten, sterren en de wet van Wien.",
+       "vragen": 60,
+       "punten": 177
+      }
+     ]
+    },
+    {
+     "naam": "Meten en regelen",
+     "onderwerpen": [
+      {
+       "id": "elektriciteit",
+       "naam": "Elektrische schakelingen",
+       "code": "G1",
+       "omschrijving": "Spanning, stroom, weerstand, serie en parallel, vermogen en energie.",
+       "vragen": 57,
+       "punten": 174
       }
      ]
     }

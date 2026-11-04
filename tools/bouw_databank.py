@@ -107,7 +107,7 @@ def lees_correctie(pad):
                 k -= 1
             kandidaat = regels[k]
             if kandidaat.strip() and len(kandidaat) - len(kandidaat.lstrip()) <= 8 and len(kandidaat.strip()) < 70 \
-                    and not regels[k - 1].strip() and not re.search(r'maximumscore|^\s*[•▪-]', kandidaat):
+                    and not regels[k - 1].strip() and not re.search(r'maximumscore|^\s*[•▪-]|^\s*\d{1,2}\s+[A-F]\s*$', kandidaat):
                 titel = kandidaat.strip()
                 if huidige and huidige['model'] and huidige['model'][-1].strip() == titel:
                     huidige['model'].pop()

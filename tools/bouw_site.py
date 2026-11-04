@@ -128,6 +128,36 @@ VAKKEN = {
             ]),
         ]},
 }
+# bètavakken: onderwerpen volgens de CE-subdomeinen van de syllabus 2026
+BINAS = 'Bij dit examen gebruik je Binas of ScienceData. Die staan niet bij de originele stukken.'
+VAKKEN['natuurkunde-havo'] = {
+    'niveau': 'havo', 'naam': 'Natuurkunde', 'opmerking': BINAS, 'domeinen': [
+        ('Vaardigheden', [
+            ('onderzoek', 'Onderzoek, eenheden en modellen', 'A', 'Eenheden afleiden, verbanden en grafieken, meten en schatten.'),
+        ]),
+        ('Beeld- en geluidstechniek', [
+            ('trillingen', 'Trillingen', 'B1', 'Periode, frequentie, oscillogrammen, massa-veersysteem en resonantie.'),
+            ('golven', 'Golven en geluid', 'B1', 'Lopende en staande golven, knopen en buiken, muziekinstrumenten.'),
+            ('straling', 'Ioniserende straling', 'B2', 'Vervalreacties, activiteit, dosis, halveringstijd en halveringsdikte.'),
+            ('beeldvorming', 'Elektromagnetische straling en fotonen', 'B2', 'Spectrum, fotonenergie, röntgen, CT en echografie.'),
+        ]),
+        ('Beweging en energie', [
+            ('beweging', 'Bewegingen en diagrammen', 'C1', '(x,t)- en (v,t)-diagrammen, raaklijnen en oppervlakte onder de grafiek.'),
+            ('krachten', 'Krachten en de wetten van Newton', 'C1', 'Krachten construeren en ontbinden, Fres = m·a, wrijving.'),
+            ('moment', 'Momenten en hefbomen', 'C1', 'Arm, draaipunt en de momentenwet.'),
+            ('energie', 'Arbeid, energie en vermogen', 'C2', 'Arbeid, kinetische en zwaarte-energie, rendement en vermogen.'),
+        ]),
+        ('Materialen', [
+            ('stoffen', 'Stoffen, warmte en materialen', 'D1', 'Faseovergangen, soortelijke warmte, warmtetransport, dichtheid, debiet en rek.'),
+        ]),
+        ('Aarde en heelal', [
+            ('heelal', 'Cirkelbewegingen, gravitatie en heelal', 'E1', 'Baansnelheid, middelpuntzoekende kracht, satellieten, sterren en de wet van Wien.'),
+        ]),
+        ('Meten en regelen', [
+            ('elektriciteit', 'Elektrische schakelingen', 'G1', 'Spanning, stroom, weerstand, serie en parallel, vermogen en energie.'),
+        ]),
+    ]}
+
 NIVEAUS = {'havo': 'Havo', 'vwo': 'Vwo'}
 
 
@@ -182,7 +212,7 @@ def main():
             tel[q['onderwerp']][1] += q['punten']
         examens = sorted({(q['jaar'], q['tijdvak'], q['examen']) for q in vragen}, reverse=True)
         overzicht['vakken'][vak] = {
-            'niveau': info['niveau'], 'naam': info['naam'], 'vragen': len(vragen), 'examens': [{'jaar': j, 'tijdvak': t, 'code': c} for j, t, c in examens],
+            'niveau': info['niveau'], 'naam': info['naam'], 'opmerking': info.get('opmerking', ''), 'vragen': len(vragen), 'examens': [{'jaar': j, 'tijdvak': t, 'code': c} for j, t, c in examens],
             'domeinen': [{'naam': dn, 'onderwerpen': [{'id': s, 'naam': n, 'code': c, 'omschrijving': o, 'vragen': tel[s][0], 'punten': tel[s][1]} for s, n, c, o in lijst]} for dn, lijst in info['domeinen']],
         }
         print(f'{vak}: {len(vragen)} vragen, {len(examens)} examens' + (f', {len(gemist)} overgeslagen: {gemist[:5]}' if gemist else ''))

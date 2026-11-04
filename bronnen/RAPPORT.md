@@ -12,6 +12,12 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 | Wiskunde A vwo | 16 | 2018–2026 | 343 | 79 | 26 |
 | Wiskunde B vwo | 16 | 2018–2026 | 268 | 76 | 2 |
 | Wiskunde C vwo | 16 | 2018–2026 | 364 | 76 | 67 |
+| biologie-vwo | 16 | 2018–2026 | 220 | 25 | 220 |
+| natuurkunde-vwo | 16 | 2018–2026 | 405 | 75 | 405 |
+| scheikunde-havo | 16 | 2018–2026 | 563 | 77 | 563 |
+| natuurkunde-havo | 16 | 2018–2026 | 414 | 76 | 414 |
+| scheikunde-vwo | 16 | 2018–2026 | 405 | 65 | 405 |
+| biologie-havo | 16 | 2018–2026 | 420 | 43 | 420 |
 | Wiskunde A vwo (bezemexamen, oud programma) | 2 | 2018–2018 | 42 | 82 | 4 |
 | Wiskunde B vwo (bezemexamen, oud programma) | 2 | 2018–2018 | 31 | 76 | 0 |
 | Wiskunde C vwo (bezemexamen, oud programma) | 2 | 2018–2018 | 42 | 78 | 5 |
@@ -63,7 +69,7 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 - 2018-1 vraag 19 (2p, Autoslaaptrein): Als je in een rechte lijn vanuit ’s-Hertogenbosch vertrekt onder een koershoek van 167 graden, kom je uit in:  Alessandria  Livorno  Koper  Omcirk
 
 **Schaal, vergroten en tekenen**
-- 2018-1 vraag 18 (3p, 17     C): Vera heeft naast de lengte van de druivenstruik ook het aantal druiventrossen elk jaar geteld. In de tabel kun je dit aantal aflezen.  Teken de grafi
+- 2018-1 vraag 18 (3p, Druivenstruik): Vera heeft naast de lengte van de druivenstruik ook het aantal druiventrossen elk jaar geteld. In de tabel kun je dit aantal aflezen.  Teken de grafi
 - 2018-1 vraag 20 (3p, Autoslaaptrein): De kaart is getekend op schaal 1 : 20 000 000.  Bereken hoeveel kilometer de autoslaaptrein van ’s-Hertogenbosch naar Koper aflegt. Schrijf je bereke
 - 2019-1 vraag 2 (3p, Suikerbieten): In Nederland staan twee suikerfabrieken waar suikerbieten worden verwerkt. De rechte lijn op de kaart geeft de afstand aan tussen de twee suikerfabrie
 
@@ -561,6 +567,108 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 
 </details>
 
+## biologie-vwo
+
+16 examens, 220 vragen, 398 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 220 | 16/16 | 398 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (2p, Hoogteziekte): Welke verandering in de pO2 of de pCO2 is mogelijk de oorzaak van het zo nu en dan stoppen van de ademhaling op grote hoogte? A een hoge pCO 2 van het
+- 2018-1 vraag 2 (3p, Hoogteziekte): Maak de regelkring af zodat duidelijk wordt hoe deze leidt tot een betere zuurstofopname na een lang verblijf op grote hoogte. Doe het als volgt:  Vu
+- 2018-1 vraag 3 (2p, Hoogteziekte): Welk diagram (in afbeelding 3) laat op een juiste manier zien wat de zuurstofspanning van het aderlijk bloed van deze klimmer zou zijn? A diagram A B 
+
+</details>
+
+## natuurkunde-vwo
+
+16 examens, 405 vragen, 1203 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 405 | 16/16 | 1203 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (3p, Uitrijden van een auto): Bepaal met behulp van de figuur op de uitwerkbijlage de uitrij-afstand.
+- 2018-1 vraag 2 (2p, Uitrijden van een auto): Leid de eenheid van de evenredigheidsconstante k af in basiseenheden (grondeenheden) van het SI, zoals ze staan in BiNaS-tabel 3A en ScienceData-tabel
+- 2018-1 vraag 3 (4p, Uitrijden van een auto): Voer de volgende opdrachten uit:  Leg uit of de startwaarde van k groter of kleiner gekozen moet worden om de waarden wel goed overeen te laten komen
+
+</details>
+
+## scheikunde-havo
+
+16 examens, 563 vragen, 1231 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 563 | 16/16 | 1231 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (3p, Melkzuursensor): Geef de reactievergelijking van de volledige verbranding van glucose.
+- 2018-1 vraag 2 (2p, Melkzuursensor): Bereken de [H+] in mol L–1 van zweet met een pH van 5,1.
+- 2018-1 vraag 3 (2p, Melkzuursensor): Neem deze onvolledige vergelijking over, zet e– aan de juiste kant van de pijl en maak de vergelijking kloppend.
+
+</details>
+
+## natuurkunde-havo
+
+16 examens, 414 vragen, 1216 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 414 | 16/16 | 1216 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (3p, Scheepsradar): Bereken de afstand tot het voorwerp.
+- 2018-1 vraag 2 (2p, Scheepsradar): Bereken uit hoeveel golven één puls bestaat.
+- 2018-1 vraag 3 (3p, Scheepsradar): Bereken de minimale afmeting van een voorwerp dat met deze pulsradar waar te nemen is.
+
+</details>
+
+## scheikunde-vwo
+
+16 examens, 405 vragen, 1045 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 405 | 16/16 | 1045 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (2p, De PEF-fles): Laat dit zien aan de hand van het schema.
+- 2018-1 vraag 2 (3p, De PEF-fles): Bereken de atoomeconomie van de productie van ethanol uit glucose en de atoomeconomie van de productie van HMF uit glucose. Gebruik Binas-tabel 37H of
+- 2018-1 vraag 3 (3p, De PEF-fles): Geef een gedeelte van een molecuul PEF in structuurformule weer. Dit gedeelte moet komen uit het midden van het molecuul en moet bestaan uit twee eenh
+
+</details>
+
+## biologie-havo
+
+16 examens, 420 vragen, 686 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 420 | 16/16 | 686 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (2p, Rifbollen): Leg uit waardoor de groei van wieren op de rifbollen afneemt als deze dieper geplaatst worden.
+- 2018-1 vraag 2 (1p, Rifbollen): Welke letter geeft de nitraatconcentratie van het water in het Grevelingenmeer aan?
+- 2018-1 vraag 3 (2p, Rifbollen): Leg uit dat door toename van de hoeveelheid organische stoffen de groei van algen kan toenemen.
+
+</details>
+
 ## Wiskunde A vwo (bezemexamen, oud programma)
 
 2 examens, 42 vragen, 165 punten.
@@ -750,3 +858,27 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 - 2018-2 vraag 6 (5p, Asperges): Zet de gegevens uit tabel 1 uit op het normaal waarschijnlijkheidspapier op de uitwerkbijlage en toon daarmee aan dat de dwarsdoorsneden van de geoogs
 
 </details>
+
+## Controle
+
+19 meldingen bij het inlezen:
+
+- ha-1018-a-21-1: 2 vragen in correctievoorschrift, 43 in opgaven
+- ha-1018-a-22-1: 1 vragen in correctievoorschrift, 44 in opgaven
+- ha-1018-a-22-2: 2 vragen in correctievoorschrift, 44 in opgaven
+- ha-1018-a-23-1: 1 vragen in correctievoorschrift, 48 in opgaven
+- ha-1018-a-23-2: 1 vragen in correctievoorschrift, 46 in opgaven
+- ha-1018-a-24-1: 1 vragen in correctievoorschrift, 45 in opgaven
+- ha-1018-a-25-2: 3 vragen in correctievoorschrift, 44 in opgaven
+- ha-1023-a-18-1: 27 vragen in correctievoorschrift, 29 in opgaven
+- vw-1018-a-21-2: 1 vragen in correctievoorschrift, 39 in opgaven
+- vw-1018-a-22-1: 1 vragen in correctievoorschrift, 39 in opgaven
+- vw-1018-a-22-2: 2 vragen in correctievoorschrift, 43 in opgaven
+- vw-1018-a-23-1: 3 vragen in correctievoorschrift, 39 in opgaven
+- vw-1018-a-23-2: 1 vragen in correctievoorschrift, 39 in opgaven
+- vw-1018-a-24-1: 4 vragen in correctievoorschrift, 42 in opgaven
+- vw-1018-a-24-2: 2 vragen in correctievoorschrift, 41 in opgaven
+- vw-1018-a-25-1: 2 vragen in correctievoorschrift, 40 in opgaven
+- vw-1018-a-25-2: 10 vragen in correctievoorschrift, 42 in opgaven
+- vw-1018-a-26-1: 1 vragen in correctievoorschrift, 41 in opgaven
+- vw-1018-a-26-2: 1 vragen in correctievoorschrift, 39 in opgaven

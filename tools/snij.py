@@ -6,7 +6,7 @@ van de opgave) tot en met vraag k. Zo bevat stuk k de inleiding, figuren en tabe
 horen. Uit het correctievoorschrift komt per vraag het antwoordmodel als apart beeld.
 
 Draaien (vanuit de map eindexamen-oefenen, met een Python waarin Pillow zit):
-    python3 tools/snij.py [vakcode ...]          bijv. python3 tools/snij.py wiskunde-a-havo
+    python3 tools/snij.py [vak ...]              bijv. python3 tools/snij.py wiskunde-a-havo natuurkunde-havo
 
 Uitvoer:
     docs/img/<examencode>/s<nr>.webp     stuk van de opgaven dat eindigt met vraag <nr>
@@ -75,7 +75,8 @@ def vragen_opgaven(pags):
                 while verder:
                     verder = False
                     for s in lijst:
-                        if abs(s[0] - x) < 4 and onder - 1 < s[1] < onder + 6 and s[3] > onder:
+                        # zelfde inspringing, of iets verder (opsommingen met een streepje onder de vraag)
+                        if x - 4 < s[0] < x + 30 and onder - 1 < s[1] < onder + 6 and s[3] > onder:
                             onder, verder = s[3], True
                 if n not in uit:
                     uit[n] = (p, min(r[1], min(s[1] for s in tekst)), onder)
@@ -224,8 +225,9 @@ def titel_boven(pags, pos, eind, titels):
 
 
 def main():
-    vakken = [a for a in sys.argv[1:] if a.startswith('wiskunde')] or VAKKEN
-    alleen = [a for a in sys.argv[1:] if not a.startswith('wiskunde')]  # losse examencodes, om te testen
+    # vaknamen (zoals natuurkunde-havo) of losse examencodes (zoals ha-1023-a-25-1, om te testen)
+    vakken = [a for a in sys.argv[1:] if not re.match(r'[a-z]{2}-\d{4}-', a)] or VAKKEN
+    alleen = [a for a in sys.argv[1:] if re.match(r'[a-z]{2}-\d{4}-', a)]
     docs = json.loads((BRON / 'documenten.json').read_text())
     bank = json.loads((BRON / 'databank.json').read_text())
     uitvoer_pad = BRON / 'snij.json'

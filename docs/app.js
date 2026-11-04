@@ -114,9 +114,9 @@
     toon(`
       <div class="titelblok">
         <div>
-          <p class="bovenkop">Centraal examen wiskunde · havo en vwo</p>
+          <p class="bovenkop">Centraal examen · havo en vwo</p>
           <h1>Examenvragen oefenen per onderwerp</h1>
-          <p class="inleiding">Alle vragen uit de centrale examens sinds 2018, geordend volgens de syllabus. Je maakt elke vraag zoals hij op het examen stond, met de inleiding, figuren en tabellen van de opgave, en kijkt hem na met het officiële correctievoorschrift.</p>
+          <p class="inleiding">Alle vragen uit de centrale examens wiskunde en de bètavakken sinds 2018, geordend volgens de syllabus. Je maakt elke vraag zoals hij op het examen stond, met de inleiding, figuren en tabellen van de opgave, en kijkt hem na met het officiële correctievoorschrift.</p>
         </div>
         <aside class="werkwijze">
           <h2>Zo werk je</h2>
@@ -274,6 +274,7 @@
           <div class="blad deze">${img(deze, `Vraag ${q.vraag}: ${q.tekst}`)}</div>
           ${q.uitwerkbijlage ? `<p class="opmerking">Bij deze vraag hoort een uitwerkbijlage. ${pdf.uitwerkbijlage ? `<a href="${pdf.uitwerkbijlage}" target="_blank" rel="noopener">Open de uitwerkbijlage (pdf)</a>.` : `Die staat achterin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.`}</p>` : ''}
           ${vak === 'wiskunde-a-havo' ? `<p class="opmerking">Het formuleblad staat voorin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.</p>` : ''}
+          ${v.opmerking ? `<p class="opmerking">${esc(v.opmerking)}</p>` : ''}
           <div class="acties"><button class="knop vol" id="toon" aria-expanded="false">Bekijk het antwoordmodel</button>${q.hint ? '<button class="knop stil" id="tipknop" aria-expanded="false" aria-controls="tip">Geef een tip</button>' : ''}</div>
           ${q.hint ? `<p class="tip" id="tip" hidden><b>Tip</b>${esc(q.hint)}</p>` : ''}
           <section class="antwoordblok" id="antwoord" hidden>

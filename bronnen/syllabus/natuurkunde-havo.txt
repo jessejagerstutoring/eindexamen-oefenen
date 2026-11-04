@@ -1,0 +1,1573 @@
+NATUURKUNDE
+HAVO
+
+
+SYLLABUS CENTRAAL EXAMEN
+2026 – NADERE VASTSTELLING
+
+
+
+Versie 4, juLi 2025
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+Toelichting:
+Deze syllabus richt zich op het centraal examen natuurkunde havo van 2026.
+
+Deze syllabus krijgt nadere vaststelling. Er is één wijziging ten opzichte van de eerder gepubliceerde
+syllabus 2026, versie 2, waarbij bijlage 4 komt te vervallen.
+
+
+
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+                                                                                             Pagina 2 van 29
+       NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+       Versie 4
+
+
+
+
+       INHOUD
+
+
+VOORWOORD                                                                        4
+
+1      DOMEININDELING EN CE-TOEKENNING                                           5
+
+2      TOELICHTING OP DE SPECIFICATIES                                           6
+2.1    CONTEXTEN                                                                 6
+2.2    VAKBEGRIPPEN EN APPARATEN                                                 6
+2.3    FORMULES                                                                  7
+2.4    VERSCHILLEN EN OVEREENKOMSTEN TUSSEN HAVO EN VWO                          7
+2.5    OPZET VAN DE SPECIFICATIES BIJ DE GLOBALE EINDTERMEN                      8
+
+3      DOMEIN A. VAARDIGHEDEN                                                    9
+ALGEMENE VAARDIGHEDEN (PROFIELOVERSTIJGEND NIVEAU)                               9
+NATUURWETENSCHAPPELIJKE, WISKUNDIGE EN TECHNISCHE VAARDIGHEDEN
+       (BÈTAPROFIELNIVEAU)                                                       9
+NATUURKUNDE – SPECIFIEKE VAARDIGHEDEN                                           11
+
+4     DOMEIN B. BEELD- EN GELUIDSTECHNIEK                                       14
+SUBDOMEIN B1. INFORMATIEOVERDRACHT                                              14
+SUBDOMEIN B2. MEDISCHE BEELDVORMING                                             15
+
+5     DOMEIN C. BEWEGING EN ENERGIE                                             16
+SUBDOMEIN C1. KRACHT EN BEWEGING                                                16
+SUBDOMEIN C2. ENERGIEOMZETTINGEN                                                17
+
+6     DOMEIN D. MATERIALEN                                                      18
+SUBDOMEIN D1. EIGENSCHAPPEN VAN STOFFEN EN MATERIALEN                           18
+
+7     DOMEIN E. AARDE EN HEELAL                                                 19
+SUBDOMEIN E1. ZONNESTELSEL EN HEELAL                                            19
+
+8     DOMEIN G. METEN EN REGELEN                                                19
+SUBDOMEIN G1. GEBRUIK VAN ELEKTRICITEIT                                         19
+
+9      DOMEIN H. NATUURKUNDE EN TECHNOLOGIE                                     20
+
+BIJLAGE 1: EXAMENPROGRAMMA                                                      21
+
+BIJLAGE 2: GROOTHEDEN- EN EENHEDENOVERZICHT                                     25
+
+BIJLAGE 3: EXAMENWERKWOORDEN BIJ NATUURKUNDE                                    27
+
+
+
+
+                                                                                     Pagina 3 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+(www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+In de syllabi 2026 zijn de wijzigingen ten opzichte van de vorige syllabus voor het examenjaar 2025
+duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn diverse vakken waarbij de syllabus
+2026 geen inhoudelijke veranderingen heeft ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+1   DOMEININDELING EN CE-TOEKENNING
+    Het examenprogramma staat in bijlage 1. Het betreft hier het programma met globale eindtermen,
+    waarvan het CE-deel in hoofdstuk 3 tot en met 9 van deze syllabus wordt gespecificeerd. Het SE-deel is
+    nader gespecificeerd in een handreiking van SLO. In de handreiking zijn suggesties opgenomen voor het
+    SE-deel welke niet bindend zijn.
+
+    In de onderstaande tabel staat vermeld welke subdomeinen op het centraal examen geëxamineerd
+    kunnen worden:
+
+
+     Domein                                   Subdomein                                         in    moet    mag
+                                                                                                CE    in SE   in SE
+
+     A    Vaardigheden                                                                          X     X
+
+     B    Beeld- en geluidstechniek           B1      Informatieoverdracht                      X             X
+
+                                              B2      Medische beeldvorming                     X             X
+
+                                              B3*     Optica                                          bk*
+
+     C    Beweging en energie                 C1      Kracht en beweging                        X             X
+
+                                              C2      Energieomzettingen                        X             X
+
+     D    Materialen                          D1      Eigenschappen van stoffen en materialen   X             X
+
+                                              D2      Functionele materialen                          X
+
+     E    Aarde en heelal                     E1      Zonnestelsel en heelal                    X             X
+
+                                              E2*     Aarde en klimaat                                bk*
+
+     F*   Menselijk lichaam                                                                           bk*
+
+     G    Meten en regelen                    G1      Gebruik van elektriciteit                 X             X
+
+                                              G2*     Technische automatisering                       bk*
+
+     H    Natuurkunde en technologie                                                            X             X
+
+     I    Onderzoek en ontwerp                I1      Experiment                                      X
+
+                                              I2      Modelstudie                                     X
+
+                                              I3      Ontwerp                                         X
+
+
+    * bk = beperkte keuze: uit deze vier (sub)domeinen worden er twee gekozen.
+    Let op: D2 en I zijn verplicht voor het SE.
+
+
+
+
+                                                                                                     Pagina 5 van 29
+      NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+      Versie 4
+
+
+
+
+2     TOELICHTING OP DE SPECIFICATIES
+
+2.1   CONTEXTEN
+      Het begrip context kan gedefinieerd worden als: de omgeving waarin leren plaatsvindt; een situatie of
+      probleemstelling die voor leerlingen betekenis heeft of krijgt door de uit te voeren (leer)activiteiten 1.
+
+      In deze syllabus is bij een aantal specificaties aangegeven in welke context(en) de kennis en
+      vaardigheden uit de specificatie minimaal beheerst moeten worden. Contexten die in de syllabus vermeld
+      staan, worden op het centraal examen bekend verondersteld. Dat wil zeggen dat vragen binnen deze
+      context niet veel toelichting nodig hebben.
+
+      Van de kandidaten wordt daarnaast verwacht dat ze hun kennis en vaardigheden wendbaar kunnen
+      toepassen. Dat wil zeggen dat ze bij het CE de betreffende kennis en vaardigheden ook in andere
+      contexten en situaties kunnen toepassen, mits de bij een vraag aangeboden informatie voldoende
+      houvast biedt voor een correcte beantwoording van die vraag.
+
+
+          Voorbeeld:
+          In specificatie B1.5 staat
+          De kandidaat kan uit (u,t) en (u,x)-diagrammen de fysische eigenschappen van de trillingen en golven
+          bepalen,
+          Met als toevoeging: minimaal in de context: cardiogram, oscillogram;
+
+          Dit betekent dat de kandidaten bekend zijn met een cardiogram en daaruit bijvoorbeeld de frequentie van
+          de hartslag kunnen bepalen. Indien bij het CE deze specificatie in een andere context wordt getoetst, dan
+          moet deze context in het vraagstuk worden toegelicht.
+
+
+      Bij een aantal specificaties is door middel van een voetnoot aangegeven, dat de natuurkundige kennis en
+      vaardigheden uit de specificatie niet wendbaar hoeven te worden toegepast.
+
+
+          Voorbeeld:
+          Bij specificatie B2.4 staat in een voetnoot dat de kandidaat kennis en vaardigheden uit deze specificatie niet
+          wendbaar hoeft te kunnen toepassen.
+
+          Dit betekent dat de 'natuurkundige achtergronden' die in deze specificatie worden genoemd (voor zover
+          deze niet elders in de syllabus ook staan) alleen toegepast hoeven te worden in de context van medische
+          beeldvormingstechnieken.
+
+
+2.2   VAKBEGRIPPEN EN APPARATEN
+      Bij veel specificaties zijn vakbegrippen of apparaten opgenomen.
+
+      Onder een vakbegrip wordt verstaan: een begrip uit het natuurkundig vakjargon, d.w.z. een begrip dat
+      binnen de natuurkunde een vast omschreven betekenis heeft. Deze betekenis kan afwijken van de
+      betekenis in het dagelijks leven.
+
+      Als een vakbegrip opgenomen is bij een specificatie, dan moet de kandidaat:
+      – bekend zijn met de natuurkundige betekenis van het begrip: "…., in de natuurkunde noemen we dat
+         <vakbegrip>";
+      – de natuurkundige betekenis in voorkomende gevallen kunnen onderscheiden van de betekenis in het
+         dagelijks leven;
+      – de natuurkundige betekenis van het begrip kunnen toepassen.
+
+      Het is níet nodig dat de kandidaat de achterliggende verklaringen en theorieën van een dergelijk
+      vakbegrip kent.
+
+
+
+
+      1
+          Bron: Boersma et al., 2003. De relatie tussen context en concept.
+                                                                                                           Pagina 6 van 29
+      NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+      Versie 4
+
+
+
+
+       Voorbeeld:
+       Bij specificatie B2.2 staat het vakbegrip 'achtergrondstraling'.
+
+       De kandidaat moet bekend zijn met de betekenis van dit begrip. De kandidaat moet deze kennis ook
+       kunnen toepassen, bijvoorbeeld door er rekening mee te houden bij het ontwerpen van een experiment
+       naar de afname van activiteit van een radioactieve bron.
+
+       De kandidaat hoeft de precieze oorzaken van achtergrondstraling niet te kennen.
+
+
+      Als een apparaat opgenomen is bij een specificatie, dan moet de kandidaat:
+      – bekend zijn met het natuurkundig gebruik van het apparaat: "…., in de natuurkunde gebruiken we
+         hiervoor een <apparaat>";
+      – de kennis over het natuurkundig gebruik van het apparaat kunnen toepassen.
+
+      Het is níet nodig dat de kandidaat de achterliggende verklaringen en theorieën of de werking van het
+      instrument of apparaat kent.
+
+
+       Voorbeeld:
+       Bij specificatie G1.4 staat het apparaat 'generator'.
+
+       De kandidaat moet bekend zijn met het natuurkundig gebruik van de generator. Bijvoorbeeld: "Om
+       kinetische energie om te zetten in elektrische energie gebruiken we een generator."
+
+       De kandidaat moet deze kennis ook kunnen toepassen, bijvoorbeeld bij het beschrijven van het opwekken
+       van elektriciteit in een windmolen.
+
+       De kandidaat hoeft de achterliggende theorie rond elektromagnetisme en inductie niet te kennen.
+
+
+2.3   FORMULES
+      Bij ieder subdomein staat vermeld welke formules erbij horen.
+
+      Kandidaten moeten:
+      – berekeningen kunnen maken met deze formules;
+      – kunnen redeneren met deze formules (zie subdomein A15);
+      – de grootheden kennen die in de formules voorkomen, evenals de bijbehorende eenheden. Zie ook
+        bijlage 2.
+
+2.4   VERSCHILLEN EN OVEREENKOMSTEN TUSSEN HAVO EN VWO
+      Sommige (sub)domeinen zijn specifiek voor havo of vwo, andere (sub)domeinen overlappen.
+      Bij de overlappende subdomeinen is geprobeerd de omschrijvingen zoveel mogelijk gelijkluidend te
+      maken. Daar waar de omschrijvingen verschillend zijn, kan ervan uitgegaan worden dat voor havo en
+      vwo verschillende eisen worden gesteld.
+
+      De verschillen tussen havo en vwo betreffen:
+      1 De inhoud:
+         Er zijn inhoudelijke verschillen tussen de specificaties voor havo en vwo: andere begrippen, contexten
+         en formules.
+      2 Het wiskundig karakter:
+         Van vwo-kandidaten wordt voor meer specificaties een wiskundige beschrijving verlangd dan van
+         havo-kandidaten.
+      3 De notatie:
+         De gekozen notaties bij vwo zijn formeler dan bij havo,
+         – bij de havo wordt geen gebruik gemaakt van vectornotatie, bij het vwo wel (overigens alleen waar
+            de richting van de vector van belang is; bij vectorgrootheden die genoteerd staan zonder
+            vectornotatie wordt alleen de grootte van de vector bedoeld);
+         – bij vwo wordt gebruik gemaakt van het sommatieteken, bij havo niet;
+         – bij vwo wordt gebruik gemaakt van differentie-notatie, bij havo niet.
+
+
+
+
+                                                                                                    Pagina 7 van 29
+      NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+      Versie 4
+
+
+
+
+2.5   OPZET VAN DE SPECIFICATIES BIJ DE GLOBALE EINDTERMEN
+      Iedere domeinspecificatie is op dezelfde wijze opgezet:
+
+      Domein
+
+      Subdomein + naam
+
+      Eindterm
+      Eindterm uit het examenprogramma
+
+      Specificaties
+      De kandidaat kan:
+      x. Specificatie
+      – (Evt.) verdere beperking/afbakening of nadere aanduiding
+      – (Evt.) vakbegrippen: (zie paragraaf 2.2)
+      – (Evt.) apparaten: (zie paragraaf 2.2)
+      – (Evt.) minimaal in de contexten: (zie paragraaf 2.1)
+      y. Specificatie
+      – (Evt.) verdere beperking/afbakening
+      – (Evt.) vakbegrippen: (zie paragraaf 2.2)
+      – (Evt.) apparaten: (zie paragraaf 2.2)
+      – (Evt.) minimaal in de contexten: (zie paragraaf 2.1)
+      z. Specificatie …
+
+      De volgende formules horen bij deze specificaties:
+      Opsomming van bij de specificaties behorende formules (zie paragraaf 2.3)
+
+
+
+
+                                                                                  Pagina 8 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+3   DOMEIN A. VAARDIGHEDEN
+    De vaardigheden zijn onderverdeeld in drie categorieën:
+    Subdomeinen A1 t/m A4:       Algemene vaardigheden (profieloverstijgend niveau);
+    Subdomeinen A5 t/m A9:       Natuurwetenschappelijke, wiskundige en technische vaardigheden
+                                 (bètaprofielniveau);
+    Subdomeinen A10 t/m A15:     Natuurkunde – specifieke vaardigheden.
+
+    De eerste categorie met algemene, profieloverstijgende vaardigheden worden in deze syllabus niet verder
+    gespecificeerd. De specificaties van de subdomeinen A5 t/m A9 zijn afgestemd met de
+    syllabuscommissies scheikunde en biologie.
+
+    Sommige vaardigheden of onderdelen daarvan zullen niet op het centraal examen getoetst worden.
+    Omwille van de volledigheid, zijn deze vaardigheden wel in de syllabus opgenomen, maar cursief en grijs
+    afgedrukt.
+
+    ALGEMENE VAARDIGHEDEN (PROFIELOVERSTIJGEND NIVEAU)
+
+    Subdomein A1. Informatievaardigheden gebruiken
+    Eindterm
+    De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.
+
+    Subdomein A2. Communiceren
+    Eindterm
+    De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over
+    onderwerpen uit het desbetreffende vakgebied.
+
+    Subdomein A3. Reflecteren op leren
+    Eindterm
+    De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen
+    belangstelling, motivatie en leerproces.
+
+    Subdomein A4. Studie en beroep
+    Eindterm
+    De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt
+    gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden
+    brengen.
+
+    NATUURWETENSCHAPPELIJKE, WISKUNDIGE EN TECHNISCHE VAARDIGHEDEN
+    (BÈTAPROFIELNIVEAU)
+
+    Subdomein A5. Onderzoeken
+    Eindterm
+    De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en
+    conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente
+    redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+    Specificatie
+    De kandidaat kan:
+    1 een natuurwetenschappelijk probleem herkennen/specificeren;
+    2 een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en);
+    3 verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis;
+    4 een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren;
+    5 een werkplan maken voor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoording
+       van een (of meerdere) onderzoeksvra(a)g(en);
+    6 voor de beantwoording van een onderzoeksvraag relevante waarnemingen verrichten en
+       (meet)gegevens verzamelen;
+    7 meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een
+       onderzoeksvraag;
+
+
+                                                                                             Pagina 9 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+8 op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten
+   bij de onderzoeksvra(a)g(en) van het onderzoek;
+9 de uitvoering en de resultaten van een onderzoek evalueren;
+10 een natuurwetenschappelijk onderzoek op een geschikte manier presenteren.
+11 herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken zijn.
+
+Subdomein A6. Ontwerpen
+Eindterm
+De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp voorbereiden,
+uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden en valide en
+consistente redeneringen hanteren.
+
+Specificatie
+De kandidaat kan:
+1 een ontwerpprobleem specificeren;
+2 een ontwerpprobleem herleiden tot een aantal afzonderlijk uitwerkbare deelproblemen (taken,
+   eigenschappen);
+3 voor een ontwerp een programma van eisen en wensen opstellen: randvoorwaarden, eisen,
+   prioriteiten en wensen;
+4 verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een
+   ontwerp;
+5 meerdere uitwerkingen of oplossingen per deelprobleem geven;
+6 een beargumenteerd ontwerpvoorstel doen voor een ontwerp, rekening houdend met het programma
+   van eisen;
+7 een prototype van een ontwerp realiseren;
+8 een ontwerpproces en -product testen en evalueren, rekening houdend met het programma van
+   eisen;
+9 voorstellen doen voor verbetering van een ontwerp;
+10 een ontwerpproces en -product op een geschikte manier presenteren.
+
+Subdomein A7. Modelvorming
+Eindterm
+De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en
+modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente
+redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Specificatie
+De kandidaat kan:2
+1 een natuurwetenschappelijk verschijnsel specificeren met als doel het te beschrijven, te verklaren of
+   te voorspellen;
+2 een natuurwetenschappelijk verschijnsel vereenvoudigen en de essentiële kenmerken ervan
+   identificeren;
+3 van een model de overeenkomsten en verschillen met de werkelijkheid benoemen met als doel de
+   geschiktheid en het geldigheidsgebied van het model te bepalen;
+4 van een model beoordelen in hoeverre het aansluit bij het doel waarvoor het ingezet wordt;
+5 voor een model een geschikte fysieke, schematische of wiskundige weergave selecteren;
+6 met een model eigenschappen van een natuurwetenschappelijk verschijnsel beschrijven, verklaren
+   en/of voorspellen;
+7 voorstellen doen voor de verbetering en/of uitbreiding van een model;
+8 de aanpassing, de opbouw of het gebruik van een model presenteren.
+
+Subdomein A8. Natuurwetenschappelijk instrumentarium
+Eindterm
+De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren,
+waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor
+dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige
+bewerkingen3.
+
+2
+    Het gaat hier om modelleren in brede zin, niet om numeriek modelleren
+3
+    Zie voor de specificaties van de rekenkundige bewerkingen subdomein A12.
+                                                                                          Pagina 10 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+Specificatie
+De kandidaat kan:
+1 informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen mede met
+   behulp van ICT:
+   • gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;
+   • grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen;
+2 informatie, gegevens en meetresultaten analyseren, weergeven en structureren in grafieken,
+   tekeningen, schema’s, diagrammen en tabellen mede met behulp van ICT;
+3 uitleggen wat bedoeld wordt met de significantie van meetwaarden en uitkomsten van berekeningen
+   weergeven in het juiste aantal significante cijfers,
+   • bij het optellen en aftrekken van meetwaarden wordt de uitkomst gegeven met evenveel decimalen
+      als de gegeven meetwaarde met het kleinste aantal decimalen;
+   • bij het delen en vermenigvuldigen wordt de uitkomst gegeven in evenveel significante cijfers als de
+      gegeven meetwaarde met het kleinste aantal significante cijfers;
+   • gehele getallen die verkregen zijn door discrete objecten te tellen, vallen niet onder de regels van
+      significante cijfers (dit geldt ook voor mathematische constanten en geldbedragen);
+4 aangeven met welke technieken en apparaten de belangrijkste grootheden uit de
+   natuurwetenschappen worden gemeten;
+5 verantwoord omgaan met materialen, instrumenten, organismen en milieu.
+
+Subdomein A9. Waarderen en oordelen
+Eindterm
+De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of een
+technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve
+maatschappelijke overwegingen en persoonlijke opvattingen.
+
+Specificatie
+De kandidaat kan:
+1 een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een
+   belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij
+   vraagstukken van natuurwetenschappelijke aard;
+2 onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke
+   overwegingen en persoonlijke opvattingen;
+3 feiten met bronnen verantwoorden;
+4 de betrouwbaarheid beoordelen van informatie en de waarde daarvan vaststellen voor de
+   beantwoording van het betreffende vraagstuk.
+
+NATUURKUNDE – SPECIFIEKE VAARDIGHEDEN
+
+Subdomein A10. Kennisontwikkeling en -toepassing
+Eindterm
+De kandidaat kan in contexten analyseren op welke wijze natuurkundige en technologische kennis wordt
+ontwikkeld en toegepast.
+
+Subdomein A11. Technisch-instrumentele vaardigheden
+Eindterm
+De kandidaat kan op een verantwoorde wijze omgaan met voor de natuurkunde relevante materialen,
+instrumenten, apparaten en ICT-toepassingen.
+
+Specificatie
+De kandidaat kan:
+1 gebruik maken van kennis over materialen, meetinstrumenten en apparaten voor het uitvoeren van
+   experimenten en technisch ontwerpen met betrekking tot de in de domeinen genoemde vakinhoud,
+   • in elk geval de volgende materialen, meetinstrumenten en apparaten:
+      ○ meetlint, maatglas, stopwatch en weegschaal;
+      ○ stemvork, toongenerator, luidspreker, microfoon, oscilloscoop, GM-teller;
+      ○ krachtmeter, hefboom, luchtkussenbaan, stroboscoop;
+      ○ (vloeistof)thermometer, joulemeter, veer;
+
+                                                                                         Pagina 11 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+     ○ voedingsapparaat, regelbare weerstand;
+2 gebruik maken van kennis over ICT-toepassingen voor het uitvoeren van experimenten met
+  betrekking tot de in de domeinen genoemde vakinhoud,
+  • in elk geval de volgende toepassingen:
+     ○ computer met sensoren, lichtpoortje;
+     ○ videometen, meetprogrammatuur;
+     ○ programmatuur voor het verwerken en analyseren van meetgegevens.
+
+Subdomein A12. Rekenkundige en wiskundige vaardigheden
+Eindterm
+De kandidaat kan een aantal voor de natuurkunde relevante rekenkundige en wiskundige vaardigheden
+correct en geroutineerd toepassen bij voor de natuurkunde specifieke probleemsituaties.
+
+Specificatie
+De kandidaat kan:
+1 basisrekenvaardigheden uitvoeren,
+   • rekenen met verhoudingen, procenten, breuken, machten en wortels;
+   • de omtrek en de oppervlakte berekenen van een cirkel, een driehoek en een rechthoek;
+   • het volume berekenen van een balk en een cilinder;
+   • de oppervlakte en het volume berekenen van een bol.
+2 wiskundige technieken toepassen,
+   • herleiden en substitueren van formules;
+   • redeneren met evenredigheden (recht, omgekeerd, kwadratisch, omgekeerd kwadratisch);
+   • oplossen van lineaire en tweedegraads vergelijkingen;
+   • toepassen van xn;
+   • in een rechthoekige driehoek met twee zijdes of met één zijde en één hoek gegeven, de overige
+     zijdes en hoeken uitrekenen, gebruik makend van sinus, cosinus, tangens en de stelling van
+     Pythagoras;
+   • Gelijkvormigheid bij driehoeken toepassen;
+   • grafisch optellen en ontbinden van vectoren;
+   • grafieken tekenen bij een meetserie, waaronder een trendlijn;
+   • functievoorschriften opstellen van lineaire verbanden, onder andere voor trendlijnen;
+   • grafieken tekenen met behulp van een functievoorschrift;
+   • aflezen van diagrammen, waaronder diagrammen met asonderbrekingen;
+   • interpoleren en extrapoleren in diagrammen en tabellen;
+   • tekenen van de raaklijn aan een kromme en de steilheid bepalen;
+   • de oppervlakte onder een grafiek bepalen;
+
+Subdomein A13. Vaktaal
+Eindterm
+De kandidaat kan de specifieke vaktaal en vakterminologie interpreteren en produceren, waaronder
+formuletaal, conventies en notaties.
+
+Specificatie
+De kandidaat kan in formules zoals vermeld bij de vakinhoudelijke subdomeinen of gegeven in het
+examen:
+1 de betekenis van de symbolen en notaties aangeven;
+2 onderscheid maken tussen afhankelijke en onafhankelijke variabelen en constanten, afhankelijk van
+   de situatie;
+
+Subdomein A14. Vakspecifiek gebruik van de computer
+Eindterm
+De kandidaat kan de computer gebruiken bij modelleren en visualiseren van verschijnselen en processen,
+en voor het verwerken van gegevens.
+
+
+Subdomein A15. Kwantificeren en interpreteren
+Eindterm
+
+
+                                                                                       Pagina 12 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+De kandidaat kan fysische grootheden kwantificeren en mathematische uitdrukkingen in verband brengen
+met relaties tussen fysische begrippen.
+
+Specificatie
+De kandidaat kan:
+1 gebruik maken van beredeneerde schattingen voor onbekende grootheden bij het oplossen van
+   natuurkundige vraagstukken;
+2 met behulp van formules zoals vermeld bij de vakinhoudelijke subdomeinen of gegeven in het
+   examen:
+    •  berekeningen uitvoeren met bekende grootheden en daarbij de juiste formules en eenheden
+       hanteren, inclusief het omrekenen, afleiden en controleren van eenheden en het herleiden tot SI-
+       grondeenheden;
+    •  vooraf de orde van grootte van een grootheid of uitkomst inschatten en achteraf beoordelen in
+       hoeverre de uitkomst van een vraagstuk juist kan zijn;
+    •  van een grafiek op basis van de grootheden op de assen de helling en de oppervlakte onder de
+       grafiek interpreteren als een natuurkundige grootheid;
+
+3 in formules zoals vermeld bij de vakinhoudelijke subdomeinen of gegeven in het examen:
+   •   de invloed van veranderingen van variabelen op elkaar aangeven;
+   •   eventuele natuurkundige beperkingen bespreken die voor de toepasbaarheid van de formule
+       gelden;
+   •   bekende wiskundige patronen, zoals vermeld in specificatie A12.2, herkennen;
+
+4 verschillen en overeenkomsten herkennen in wiskundige vergelijkingen en natuurwetenschappelijke
+  formules (structuur, aantal onafhankelijke variabelen, gebruik van eenheden, constanten uitdrukken
+  in getallen);
+5 een formule herschrijven naar een andere afhankelijke variabele.
+
+
+
+
+                                                                                        Pagina 13 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+4   DOMEIN B. BEELD- EN GELUIDSTECHNIEK
+
+    Subdomein B1. Informatieoverdracht
+    Eindterm
+    De kandidaat kan in contexten eigenschappen van trillingen en golven gebruiken bij het analyseren en
+    verklaren van onder andere informatieoverdracht.
+
+    Specificatie
+    De kandidaat kan:
+    1 trillingsverschijnselen analyseren,
+       • vakbegrippen: uitwijking, amplitude, periode, harmonische trilling;
+    2 berekeningen maken aan de eigentrilling van een massa-veersysteem,
+       • vakbegrippen: eigenfrequentie, resonantie;
+    3 golfverschijnselen analyseren,
+       • gebruiken dat geluid een golfverschijnsel is;
+       • vakbegrippen: lopende golf, voortplantingssnelheid, geluidsnelheid, echo, lichtsnelheid,
+           transversaal, longitudinaal;
+    4 bij een staande golf het verband tussen de golflengte en de lengte van het trillende medium met
+       behulp van een tekening toelichten,
+       • vakbegrippen: knoop, buik, grondtoon, boventoon;
+       • minimaal in de context: muziekinstrumenten;
+    5 uit (u,t) en (u,x)-diagrammen de fysische eigenschappen (zie specificaties 1 en 3) van de trillingen en
+       golven bepalen,
+       • minimaal in de context: cardiogram, oscillogram;
+    De volgende formules horen bij deze specificaties:
+               1
+         f =                  v = f
+               T
+                    m
+        T = 2π
+                    C
+
+
+
+
+                                                                                              Pagina 14 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+Subdomein B2. Medische beeldvorming
+Eindterm
+De kandidaat kan eigenschappen van ioniserende straling en de effecten van deze straling op mens en
+milieu beschrijven. Ook kan de kandidaat medische beeldvormingstechnieken beschrijven en analyseren
+aan de hand van fysische principes en de diagnostische functie van deze beeldvormingstechnieken voor
+de gezondheid toelichten.
+
+Specificatie
+De kandidaat kan:
+1 uitzending, voortplanting en opname van elektromagnetische straling beschrijven,
+   • de verschillende onderdelen van het elektromagnetisch spectrum en de effecten daarvan op het
+      menselijk lichaam beschrijven: gammastraling, röntgenstraling, ultraviolet, (zichtbaar) licht,
+      infrarood, radiogolven, microgolven;
+   • vakbegrippen: absorptie, emissie, elektromagnetische golf, foton;
+2 de verschillende soorten ioniserende straling, hun ontstaan en hun eigenschappen benoemen, evenals
+   de risico's van deze soorten straling voor mens en milieu, en berekeningen maken met (equivalente)
+   dosis,
+   • de activiteit op een bepaald moment bepalen uit een (N,t)-diagram en de gemiddelde activiteit
+      berekenen;
+   • de vergelijking opstellen van een vervalreactie4;
+   • vakbegrippen: stralingsbron, radioactief verval, isotoop, kern, proton, neutron, elektron, atomaire
+      massaeenheid, ioniserend en doordringend vermogen, dracht, röntgenstraling, α-, β5- en γ-
+      straling, kosmische straling, achtergrondstraling, bestraling, besmetting, effectieve totale
+      lichaamsdosis in relatie tot stralingsbeschermingsnormen, dosimeter, eV;
+   • minimaal in de contexten: nucleaire diagnostische geneeskunde, stralingsbescherming;
+3 problemen oplossen waarbij de halveringstijd of halveringsdikte een rol speelt,
+   • berekeningen maken alleen bij een geheel aantal halveringstijden of halveringsdiktes;
+   • vakbegrippen: doorlaatkromme, vervalkromme;
+   • minimaal in de context: medische diagnostiek;
+4 medische beeldvormingstechnieken aan de hand van hun natuurkundige achtergrond beschrijven,
+   voor- en nadelen van deze technieken noemen en op grond daarvan in gegeven situaties een keuze
+   voor een techniek beargumenteren6,
+   • beeldvormingstechnieken: röntgenopname, CT-scan echografie en nucleaire diagnostiek;
+   • natuurkundige achtergronden: halveringsdikte van menselijke weefsels, ultrasone geluidsgolf,
+      geluidsnelheid in menselijke weefsels, absorptie, transmissie, terugkaatsing, tracer.
+
+
+
+
+4
+  Het betreft hier alleen vergelijkingen van spontane vervalreacties.
+5
+  Alleen β- hoeft gekend te worden. Als in een examen over β-straling wordt gesproken, wordt dan ook β—straling
+bedoeld.
+6
+  Kandidaten hoeven kennis en vaardigheden uit specificatie B2.4 niet wendbaar te kunnen toepassen.
+                                                                                                   Pagina 15 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+    De volgende formules horen bij deze specificaties:
+
+           Ef = hf                c= f
+                 N                                          N
+           A = −                                  Agem = −
+                 t raaklijn                                 t
+                E
+           D=                     H = wR D          A= N +Z
+                m
+                          n
+                  1         t
+           A = A0   met n = , berekeningen alleen als n een geheel getal is
+                  2        t 12
+                              n
+                   1         t
+           N = N 0   met n = , berekeningen alleen als n een geheel getal is
+                   2        t 12
+                      n
+                   1          d
+           I = I 0   met n =      , berekeningen alleen als n een geheel getal is
+                   2         d 12
+
+
+5   DOMEIN C. BEWEGING EN ENERGIE
+
+    Subdomein C1. Kracht en beweging
+    Eindterm
+    De kandidaat kan in contexten de relatie tussen kracht en bewegingsveranderingen analyseren en
+    verklaren met behulp van de wetten van Newton.
+
+    Specificatie
+    De kandidaat kan:
+    1 berekeningen maken aan eenparige rechtlijnige bewegingen;
+    2 eigenschappen van bewegingen bepalen aan de hand van plaats-tijddiagrammen en snelheid-
+       tijddiagrammen:
+       • de volgende bewegingen herkennen: eenparige rechtlijnige beweging, eenparig versnelde of
+           vertraagde beweging, vrije val, valbeweging met wrijving;
+       • uit een (x,t)-diagram de gemiddelde snelheid bepalen;
+       • uit een (x,t)-diagram de snelheid op een bepaald moment bepalen, zo nodig met behulp van een
+           raaklijn;
+       • uit een (v,t)-diagram de (val)versnelling op een bepaald moment bepalen, zo nodig met behulp
+           van een raaklijn;
+       • uit een (v,t)-diagram de verplaatsing en de gemiddelde snelheid bepalen met behulp van de
+           oppervlakte onder de kromme;
+    3 krachten op een systeem aan de hand van een vectortekening analyseren, waaronder het
+       samenstellen van en ontbinden in componenten met behulp van een parallellogram en het bepalen
+       van de grootte en/of richting van krachten uit een vectortekening7,
+       • krachten: zwaartekracht, schuifwrijvingskracht, rolweerstandskracht, luchtweerstandskracht,
+           normaalkracht, spankracht, spierkracht, veerkracht;
+    4 de eerste wet van Newton uitleggen en toepassen;
+    5 de tweede wet van Newton uitleggen en toepassen;
+    6 de derde wet van Newton uitleggen en toepassen
+       • vakbegrippen: actiekracht, reactiekracht, gewicht
+    7 de momentenwet/hefboomwet toepassen op stilstaande voorwerpen; berekeningen alleen in situaties
+       waarbij twee krachten werken waarvan de werklijnen niet door het draaipunt gaan.
+       • vakbegrippen: zwaartepunt, aangrijpingspunt, werklijn, arm, moment;
+       • minimaal in de context: menselijk lichaam.
+
+    7
+        Van leerlingen wordt niet verwacht dat zij hier aan kunnen rekenen met behulp van goniometrische functies.
+                                                                                                         Pagina 16 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+De volgende formules horen bij deze specificaties:
+
+     s = vt , met v constant
+              x                         v
+     vgem =                 agem =
+              t                         t
+
+        x                   v 
+     v=                   a= 
+        t raaklijn          t raaklijn
+     Fz = mg                   Fv = Cu
+     Fres = ma
+     F1r1 = F2 r2
+
+Subdomein C2. Energieomzettingen
+Eindterm
+De kandidaat kan in contexten de begrippen energiebehoud, rendement, arbeid en warmte gebruiken om
+energieomzettingen te beschrijven en te analyseren.
+
+Specificatie
+De kandidaat kan:
+1 berekeningen maken met betrekking tot kracht, verplaatsing, arbeid, snelheid en vermogen,
+   • berekenen van arbeid uit kracht en verplaatsing alleen in situaties waarbij de richting van de kracht
+      evenwijdig is aan de verplaatsing;
+2 energieomzettingen analyseren,
+   • de wet van behoud van energie en de relatie tussen arbeid en kinetische energie toepassen;
+   • minimaal de bewegingen: vrije val, valbeweging met wrijving en verticale worp;
+   • energieën: kinetische energie, zwaarte-energie, chemische energie, elektrische energie,
+      stralingsenergie, warmte;
+   • vakbegrip: wrijvingsarbeid;
+   • minimaal in de contexten: energiegebruik en energiebesparing in het verkeer, de bewegende
+      mens.
+3 de warmtepomp energetisch beschouwen, dat wil zeggen: als een apparaat dat thermische energie
+   verplaatst van koude naar warme plekken en daar een input van energie voor nodig heeft,
+   • in een gegeven probleemstelling beargumenteren welke van deze energieën vergeleken moeten
+      worden om tot een geschikte maat voor de efficiëntie van de warmtepomp te komen;
+   • minimaal in de context: het verwarmen van een gebouw.
+
+De volgende formules horen bij deze specificaties:
+
+    W = Fs
+          E                          W
+     P=                        P=                    P = Fv
+          t                          t
+     Ek = 12 mv 2              Ez = mgh
+     Ech = rvV               Ech = rm m
+    Wtot = Ek                 Etot,in = Etot, uit
+          Enuttig       Pnuttig
+    =              =
+            Ein          Pin
+
+                                                                                          Pagina 17 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+6   DOMEIN D. MATERIALEN
+
+    Subdomein D1. Eigenschappen van stoffen en materialen
+    Eindterm
+    De kandidaat kan in contexten fysische eigenschappen van stoffen en materialen beschrijven en
+    verklaren met behulp van atomaire en moleculaire modellen.
+
+    Specificatie
+    De kandidaat kan:
+    1 het moleculaire model van materie gebruiken bij het verklaren van fasen en faseovergangen,
+       • vakbegrippen: gas, vloeistof, vaste stof, smelten, stollen, verdampen, condenseren, sublimeren,
+         rijpen, molecuul, atoom;
+    2 warmtetransport verklaren met behulp van materiemodellen,
+       • het verband tussen de warmtestroom en de thermische geleidbaarheid van een stof uitleggen en
+         eenvoudige berekeningen aan de warmtestroom8 maken;
+       • vakbegrippen: geleiding, stroming, straling;
+       • minimaal in de context: energiebesparing door isolatie;
+    3 temperatuurveranderingen van een stof beschrijven als gevolg van het toe- of afvoeren van warmte,
+       • temperatuur beschrijven in termen van beweging van deeltjes en uitleggen dat er een absoluut
+         nulpunt bestaat;
+       • soortelijke warmte als stofeigenschap;
+       • omrekenen van graden Celsius naar kelvin en omgekeerd;
+    4 debiet hanteren als maat voor de grootte van een gas- of vloeistofstroom,
+       • ten minste in de context: stroming door buizen
+
+    De volgende formules horen bij deze specificaties:
+
+        Q = cmT
+                  T
+         P = A
+                   d
+           𝑚
+        𝜌=
+           𝑉
+           ∆𝑉
+        𝑄=    = 𝐴𝑣
+           ∆𝑡
+
+
+
+
+    8
+     Onder warmtestroom wordt verstaan: de hoeveelheid warmte die per tijdseenheid door een wand gaat. Hierbij mag
+    de invloed van de luchtlagen aan weerszijden van de wand verwaarloosd worden.
+                                                                                                   Pagina 18 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+7   DOMEIN E. AARDE EN HEELAL
+
+    Subdomein E1. Zonnestelsel en heelal
+    Eindterm
+    De kandidaat kan het ontstaan en de ontwikkeling van structuren in het heelal beschrijven en
+    bewegingen in het zonnestelsel analyseren en verklaren aan de hand van fysische principes.
+
+    Specificatie
+    De kandidaat kan:
+    1 de structuur van het zonnestelsel beschrijven,
+       • waarnemingen van maanfasen en de hemelbaan van zon, maan en sterren interpreteren;
+       • vakbegrippen: planeet, komeet, meteoriet;
+    2 cirkelbewegingen met constante baansnelheid analyseren,
+       • berekeningen maken aan de middelpuntzoekende kracht alleen in situaties waarin slechts één
+          kracht de rol van middelpuntzoekende kracht heeft;
+       • vakbegrippen: omlooptijd, baanstraal, baansnelheid;
+    3 de baan van planeten om de zon en van maan en satellieten om de aarde analyseren met behulp van
+       de gravitatiekracht,
+       • uitleggen hoe de valversnelling aan het planeetoppervlak afhangt van de massa en de straal van de
+          planeet;
+       • vakbegrippen: geostationaire baan;
+    4 het ontstaan, de structuur en de ontwikkeling van het heelal beschrijven,
+       • uitleggen hoe de afstand van een ster tot de waarnemer en de tijd tussen uitzenden en waarnemen
+          van het licht van de ster met elkaar samenhangen;
+       • structuren: cluster, sterrenstelsel, planetenstelsel;
+       • vakbegrippen: oerknal, uitdijend heelal, lichtsnelheid, lichtjaar, Melkweg, zonnestelsel;
+       • de wet van Wien gebruiken;
+
+    De volgende formules horen bij deze specificaties:
+
+                  mM
+         Fg = G
+                   r2
+                  mv 2             2πr
+         Fmpz =               v=
+                   r                T
+
+          maxT = kW
+
+8   DOMEIN G. METEN EN REGELEN
+
+    Subdomein G1. Gebruik van elektriciteit
+    Eindterm
+    De kandidaat kan opwekking, transport en toepassingen van elektriciteit beschrijven en analyseren aan
+    de hand van fysische begrippen.
+
+    Specificatie
+    De kandidaat kan:
+    1 het verschijnsel elektrische stroom uitleggen als verplaatsing van lading ten gevolge van een
+       aangelegde spanning,
+       • de definities van stroomsterkte en soortelijke weerstand gebruiken;
+       • vakbegrippen: vrij elektron, ion, afstotende en aantrekkende elektrische kracht, spanningsbron,
+          geleider, isolator;
+    2 stroomkringen analyseren en daarbij voor serie- en parallelschakelingen van weerstanden
+       berekeningen maken over spanning, stroomsterkte en weerstand,
+       • bij gemengde schakelingen alleen beredeneren en eenvoudige berekeningen maken;
+       • de juiste aansluitwijze van stroommeter en spanningsmeter toepassen;
+
+
+                                                                                             Pagina 19 van 29
+    NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+    Versie 4
+
+
+
+
+       • de volgende componenten toepassen binnen een schakeling: diode, LDR, NTC, PTC, ohmse
+         weerstand, lamp, motor, verwarmingselement, zekering, aardlekschakelaar;
+      • schakelschema’s tekenen en interpreteren;
+      • vakbegrippen: stroomdeling, spanningsdeling, kortsluiting;
+    3 het vermogen en het rendement van energieomzettingen in een elektrische stroomkring analyseren,
+      • berekeningen aan elektrische energie in joule en in kilowattuur;
+      • minimaal in de contexten: lichtbronnen en apparaten in huis (gloeilamp, spaarlamp, LED,
+         elektromotor, verwarmingselement en kWh-meter), energiegebruik, energiebesparing;
+    4 de energie-omzetting bij verschillende opwekkingsvormen van elektriciteit beschrijven, en deze
+      opwekkingsvormen vergelijken ten aanzien van duurzaamheid en energiedichtheid,
+      • opwekkingsvormen: kerncentrale, conventionele (fossiele brandstof) centrale, waterkrachtcentrale,
+         zonnecel, waterstof-/brandstofcel, windturbine;
+      • apparaat: generator;
+    5 verschillende vormen van transport en opslag van elektriciteit beschrijven,
+      • gebruiken dat bij elektrolyse van water elektrische energie gebruikt wordt om waterstof te
+         produceren;
+      • opslagvormen: batterij, accu, waterstof en andere brandstoffen;
+      • vormen van transport: elektriciteitskabels, vervoer van waterstof en andere brandstoffen;
+      • Vakbegrip: energiedichtheid, capaciteit.
+
+    De volgende formules horen bij deze specificaties:
+                Q                       RA
+           I=                      =
+                t
+           U = IR
+        Voor een serieschakeling:
+
+                                  U tot = U1 + U 2 + ...   I tot = I1 = I 2 = ...   Rtot = R1 + R2 + ...
+        Voor een parallelschakeling:
+                                                                                     1    1  1
+                                  U tot = U1 = U 2 = ... I tot = I1 + I 2 + ...     𝑅tot
+                                                                                         = + +⋯
+                                                                                          𝑅1 𝑅2
+
+           P = UI                  E = Pt
+                Enuttig       Pnuttig
+        =                =
+                 Ein           Pin
+
+
+9   DOMEIN H. NATUURKUNDE EN TECHNOLOGIE
+    Eindterm
+    De kandidaat kan in voorbeelden van technologische ontwikkeling die vallen binnen de subdomeinen van
+    het centraal examen natuurkundige principes en wetmatigheden herkennen, benoemen en toepassen.
+
+    Specificatie
+    De kandidaat kan:
+    1 voorbeelden die passen bij de specificaties van de havodomeinen uit deze syllabus gebruiken om de
+       wederzijdse beïnvloeding van technologie en natuurkundige kennis toe te lichten;
+    2 fysische principes en wetmatigheden toepassen op technologische ontwikkelingen en daarbij in deze
+       syllabus gespecificeerde natuurkundige kennis hanteren,
+       • principes: model als vereenvoudigde weergave van de werkelijkheid, analogie, denken in ordes van
+           grootte;
+       • wetmatigheden: wet van behoud van energie, wetten van Newton.
+
+
+
+
+                                                                                                           Pagina 20 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+BIJLAGE 1: EXAMENPROGRAMMA
+Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+Domein A     Vaardigheden
+Domein B     Beeld- en geluidstechniek
+Domein C     Beweging en energie
+Domein D     Materialen
+Domein E     Aarde en heelal
+Domein F     Menselijk lichaam
+Domein G     Meten en regelen
+Domein H     Natuurkunde en technologie
+Domein I     Onderzoek en ontwerp
+
+Het centraal examen
+Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, D1, E1, G1 en H in
+combinatie met de vaardigheden uit domein A.
+Het CvE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de
+subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin
+genoemde.
+Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.
+Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.
+
+Het schoolexamen
+Het schoolexamen heeft betrekking op domein A en:
+– de subdomeinen D2, I1, I2 en I3;
+– een keuze van twee uit de (sub)domeinen B3, E2, F en G2; daarbij kan het bevoegd gezag deze keuze
+   maken, dan wel de keuze aan de kandidaat laten;
+– indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal
+   examen betrekking heeft;
+– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen
+   verschillen.
+
+De examenstof
+
+Domein A Vaardigheden
+
+Algemene vaardigheden (profieloverstijgend niveau)
+
+Subdomein A1: Informatievaardigheden gebruiken
+1 De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.
+
+Subdomein A2: Communiceren
+2 De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren
+  over onderwerpen uit het desbetreffende vakgebied.
+
+Subdomein A3: Reflecteren op leren
+3 De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen
+  belangstelling, motivatie en leerproces.
+
+Subdomein A4: Studie en beroep
+4 De kandidaat kan aangeven op welke wijze natuurwetenschappelijke kennis in studie en beroep wordt
+  gebruikt en kan mede op basis daarvan zijn belangstelling voor studies en beroepen onder woorden
+  brengen.
+
+
+
+
+                                                                                         Pagina 21 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)
+
+Subdomein A5: Onderzoeken
+5 De kandidaat kan in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en
+  conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente
+  redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Subdomein A6: Ontwerpen
+6 De kandidaat kan in contexten op basis van een gesteld probleem een technisch ontwerp
+  voorbereiden, uitvoeren, testen en evalueren en daarbij relevante begrippen, theorie en vaardigheden
+  en valide en consistente redeneringen hanteren.
+
+Subdomein A7: Modelvorming
+7 De kandidaat kan in contexten een probleem analyseren, een adequaat model selecteren, en
+  modeluitkomsten genereren en interpreteren. De kandidaat maakt daarbij gebruik van consistente
+  redeneringen en relevante rekenkundige en wiskundige vaardigheden.
+
+Subdomein A8: Natuurwetenschappelijk instrumentarium
+8 De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren,
+  waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor
+  dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige
+  bewerkingen.
+
+Subdomein A9: Waarderen en oordelen
+9 De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de natuur of
+  een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten,
+  normatieve maatschappelijke overwegingen en persoonlijke opvattingen.
+
+Natuurkunde – specifieke vaardigheden
+
+Subdomein A10: Kennisontwikkeling en -toepassing
+10 De kandidaat kan in contexten analyseren op welke wijze natuurkundige en technologische kennis
+   wordt ontwikkeld en toegepast.
+
+Subdomein A11: Technisch-instrumentele vaardigheden
+11 De kandidaat kan op een verantwoorde wijze omgaan met voor de natuurkunde relevante materialen,
+   instrumenten, apparaten en ICT-toepassingen.
+
+Subdomein A12: Rekenkundige en wiskundige vaardigheden
+12 De kandidaat kan een aantal voor de natuurkunde relevante rekenkundige en wiskundige
+   vaardigheden correct en geroutineerd toepassen bij voor de natuurkunde specifieke probleemsituaties.
+
+Subdomein A13: Vaktaal
+13 De kandidaat kan de specifieke vaktaal en vakterminologie interpreteren en produceren, waaronder
+   formuletaal, conventies en notaties.
+
+Subdomein A14: Vakspecifiek gebruik van de computer
+14 De kandidaat kan de computer gebruiken bij modelleren en visualiseren van verschijnselen en
+   processen, en voor het verwerken van gegevens.
+
+Subdomein A15: Kwantificeren en interpreteren
+15 De kandidaat kan fysische grootheden kwantificeren en mathematische uitdrukkingen in verband
+   brengen met relaties tussen fysische begrippen.
+
+Domein B Beeld- en geluidstechniek
+
+Subdomein B1: Informatieoverdracht
+16 De kandidaat kan in contexten eigenschappen van trillingen en golven gebruiken bij het analyseren en
+   verklaren van onder andere informatieoverdracht.
+
+                                                                                        Pagina 22 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+Subdomein B2: Medische beeldvorming
+17 De kandidaat kan eigenschappen van ioniserende straling en de effecten van deze straling op mens en
+   milieu beschrijven. Ook kan de kandidaat medische beeldvormingstechnieken beschrijven en
+   analyseren aan de hand van fysische principes en de diagnostische functie van deze
+   beeldvormingstechnieken voor de gezondheid toelichten.
+
+Subdomein B3: Optica*
+18 De kandidaat kan aan de hand van toepassingen van geometrische optica en golfoptica eigenschappen
+   van licht beschrijven en analyseren.
+
+Domein C Beweging en energie
+
+Subdomein C1: Kracht en beweging
+19 De kandidaat kan in contexten de relatie tussen kracht en bewegingsveranderingen analyseren en
+   verklaren met behulp van de wetten van Newton.
+
+Subdomein C2: Energieomzettingen
+20 De kandidaat kan in contexten de begrippen energiebehoud, rendement, arbeid en warmte gebruiken
+   om energieomzettingen te beschrijven en te analyseren.
+
+Domein D Materialen
+
+Subdomein D1: Eigenschappen van stoffen en materialen
+21 De kandidaat kan in contexten fysische eigenschappen van stoffen en materialen beschrijven en
+   verklaren met behulp van atomaire en moleculaire modellen.
+
+Subdomein D2: Functionele materialen
+22 De kandidaat kan in de context van de ontwikkeling van functionele materialen fysische begrippen
+   gebruiken en de mogelijke toepassingen van deze materialen toelichten en verklaren.
+
+Domein E Aarde en heelal
+
+Subdomein E1: Zonnestelsel en heelal
+23 De kandidaat kan het ontstaan en de ontwikkeling van structuren in het heelal beschrijven en
+   bewegingen in het zonnestelsel analyseren en verklaren aan de hand van fysische principes.
+
+Subdomein E2: Aarde en klimaat*
+24 De kandidaat kan in de context van geofysische systemen fysische verschijnselen en processen
+   beschrijven, analyseren en verklaren.
+
+Domein F Menselijk lichaam*
+
+25 De kandidaat kan in de context van het menselijk lichaam fysische processen beschrijven, analyseren
+   en verklaren en hun functie voor gezondheid en veiligheid toelichten.
+
+Domein G Meten en regelen
+
+Subdomein G1: Gebruik van elektriciteit
+26 De kandidaat kan opwekking, transport en toepassingen van elektriciteit beschrijven en analyseren
+   aan de hand van fysische begrippen.
+
+Subdomein G2: Technische automatisering*
+27 De kandidaat kan meet-, stuur- en regelsystemen construeren en de functie en werking van de
+   componenten beschrijven.
+
+
+
+
+                                                                                         Pagina 23 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+Domein H Natuurkunde en technologie
+
+28 De kandidaat kan in voorbeelden van technologische ontwikkeling die vallen binnen subdomeinen van
+   het centraal examen natuurkundige principes en wetmatigheden herkennen, benoemen en toepassen.
+
+Domein I Onderzoek en ontwerp
+
+Subdomein I1: Experiment
+29 De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen onderzoek
+   doen door middel van experimenten en de resultaten analyseren en interpreteren.
+
+Subdomein I2: Modelstudie
+30 De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen onderzoek
+   doen door middel van modelstudies en de modeluitkomsten analyseren en interpreteren.
+
+Subdomein I3: Ontwerp
+31 De kandidaat kan in contexten die vallen binnen subdomeinen van het centraal examen op basis van
+   een gesteld probleem een ontwerp voorbereiden, uitvoeren, testen en evalueren.
+
+* uit deze vier (sub)domeinen worden er twee gekozen.
+
+
+
+
+                                                                                      Pagina 24 van 29
+        NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+        Versie 4
+
+
+
+
+        BIJLAGE 2: GROOTHEDEN- EN EENHEDENOVERZICHT
+
+grootheid                                   symbool           eenheid                                   symbool
+
+aantal kernen                               N                 -                                         -
+
+aantal neutronen in kern                    N                 -                                         -
+
+activiteit                                  A                 (deeltjes) per seconde, becquerel         s-1, Bq
+
+afstand9                                    x, s             meter                                     m
+
+arbeid                                      W                 joule                                     J
+
+arm                                         r                 meter                                     m
+
+atoomnummer                                 Z                 -                                         -
+
+brekingsindex                               n                 -                                         -
+
+capaciteit                                                    ampèreuur, wattuur                        Ah, Wh
+
+debiet                                      Q                 kubieke meter per seconde                 m3 s-1
+
+dichtheid                                   ρ                 kilogram per kubieke meter                kg m-3
+
+dikte                                       d                 meter                                     m
+
+energie                                     E                 joule, kilowattuur, elektronvolt          J, kWh, eV
+
+equivalente dosis                           H                 sievert                                   Sv
+
+frequentie                                  f                 hertz                                     Hz
+
+golflengte                                  λ                 meter                                     m
+
+halveringsdikte                             d1/2              meter                                     m
+
+halveringstijd                              t1/2              seconde                                   s
+
+hoogte                                      h                 meter                                     m
+
+intensiteit                                 I                 (deeltjes) per vierkante meter            m-2
+
+kracht                                      F                 newton                                    N
+
+lading                                      Q                 coulomb                                   C
+
+lengte                                      ℓ                 meter                                     m
+
+massa                                       m, M              kilogram                                  kg
+
+massagetal                                  A                 -                                         -
+
+oppervlakte                                 A                 vierkante meter                           m2
+
+plaats                                      x                 meter                                     m
+
+rendement                                   η                 -                                         -
+
+snelheid                                    v                 meter per seconde                         m s-1
+
+soortelijke warmte                          c                 joule per kilogram per kelvin             J kg-1 K-1
+
+
+
+        9
+            Uit de context blijkt of hiermee de kortste afstand tussen twee punten óf de afgelegde weg wordt bedoeld
+                                                                                                               Pagina 25 van 29
+       NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+       Versie 4
+
+
+
+
+grootheid                                  symbool           eenheid                                   symbool
+
+soortelijke weerstand                      ρ                 ohm meter                                 Ωm
+
+spanning                                   U                 volt                                      V
+
+stookwaarde                                rv,               joule per kubieke meter,                  J m-3
+                                           rm                joule per kilogram                        J kg-1
+
+straal                                     r                 meter                                     m
+
+stralingsdosis                             D                 gray                                      Gy
+
+stralingsweegfactor                        wR                -                                         -
+
+stroomsterkte                              I                 ampère                                    A
+
+temperatuur                                T                 kelvin, graad Celsius                     K, °C
+
+tijd                                       t                 seconde                                   s
+
+trillingstijd                              T                 seconde                                   s
+
+uitwijking, uitrekking                     u                 meter                                     m
+
+valversnelling                             g                 meter per secondekwadraat                 m s-2
+
+veerconstante                              C                 newton per meter                          N m-1
+
+vermogen                                   P                 watt                                      W
+
+verplaatsing10                             x, s             meter                                     m
+
+versnelling                                a                 meter per secondekwadraat                 m s-2
+
+volume                                     V                 kubieke meter                             m3
+
+warmte                                     Q                 joule                                     J
+
+warmtegeleidingscoëfficiënt                λ                 watt per meter per kelvin                 W m-1 K-1
+
+warmtestroom                               P                 watt                                      W
+
+weerstand                                  R                 ohm                                       Ω
+
+
+natuurconstanten                           symbool
+
+constante van Planck                       h
+
+gravitatieconstante                        G
+
+lichtsnelheid                              c
+
+constante van Wien                         kW
+
+
+
+
+       10
+            Uit de context blijkt of hiermee de kortste afstand tussen twee punten óf de afgelegde weg wordt bedoeld.
+                                                                                                              Pagina 26 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+BIJLAGE 3: EXAMENWERKWOORDEN BIJ NATUURKUNDE
+Er is een gecombineerde lijst voor examenwerkwoorden opgesteld voor natuur- en wiskunde. Er is
+gestreefd naar maximale afstemming en overlap. De complete lijst voor wis- en natuurkunde is
+omstreeks maart 2017 in een nieuwsbericht gepubliceerd op Examenblad.nl.
+
+In onderstaande lijst staan de relevante examenwerkwoorden voor natuurkunde. Als in een natuurkunde-
+examen een van de woorden uit onderstaande lijst wordt gebruikt, geldt de betekenis die hiervan in deze
+lijst is gegeven. Deze lijst met examenwerkwoorden is niet uitputtend.
+
+
+ Examen(werk)woord                   Betekenis
+
+ Algemeen:
+ Tenzij anders aangegeven, is de wijze waarop het antwoord gevonden wordt vrij.
+
+ Aantonen dat, laten zien dat        Het geven van een redenering en/of bepaling en/of berekening waaruit
+                                     de juistheid van het gestelde blijkt. Uit de uitwerking moet blijken
+                                     welke stappen zijn gezet.
+                                     In het algemeen geldt dat het gestelde controleren door middel van
+                                     een of meer voorbeelden niet voldoet
+
+ Aantonen of                         Het geven van een redenering en/of bepaling en/of berekening waaruit
+                                     de (on)juistheid van het gestelde blijkt. Het antwoord moet worden
+                                     afgesloten met een conclusie.
+                                     Uit de uitwerking moet blijken welke stappen zijn gezet.
+                                     In het algemeen geldt dat het gestelde controleren door middel van
+                                     een of meer voorbeelden niet voldoet, tenzij het geven van een
+                                     tegenvoorbeeld tot de juiste conclusie leidt.
+
+ Afleiden van bijvoorbeeld           Het geven van een redenering waaruit de juistheid van de formule of
+ een formule of een eenheid          eenheid volgt uit de gegevens en/of formules in de opgave en/of met
+                                     behulp van toegestane hulpmiddelen, gebruik makend van wiskundige
+                                     bewerkingen, zoals combineren, herschrijven en substitueren.
+                                     Uit de uitwerking moet blijken welke stappen zijn gezet.
+                                     De formule controleren door middel van een of meer getallen of het
+                                     invullen van eenheden voldoet niet.
+
+ Bepalen                             Het gevraagde vaststellen en/of uitrekenen uitgaande van gegevens in
+                                     de opgave en/of andere informatiebronnen. Voor minstens één van de
+                                     grootheden in de berekening moet een waarde gegenereerd worden
+                                     uit een grafiek, een figuur, een constructie of andere informatiebron.
+
+
+                                     Uit de uitwerking moet blijken welke formules en/of principes zijn
+                                     toegepast, welke waarden zijn gebruikt en welke stappen zijn gezet.
+
+ Beredeneren, uitleggen              Het geven van een uitwerking waarin de denkstappen staan, waaruit
+                                     het gestelde/gevraagde blijkt.
+
+ Berekenen                           Het gevraagde uitrekenen, uitgaande van getalsmatige gegevens in de
+                                     opgave en/of andere informatiebronnen.
+                                     Uit de uitwerking moet blijken welke formules en/of principes zijn
+                                     toegepast, welke waarden zijn gebruikt en welke stappen zijn gezet.
+
+ Construeren                         Het geven van een grafische voorstelling die de voor de
+                                     probleemsituatie relevante karakteristieke eigenschappen bevat met
+                                     een nauwkeurigheid die overeenkomt met de in het
+                                     correctievoorschrift aangegeven marge.
+                                     Uit de uitwerking moet blijken welke stappen zijn gezet.
+                                                                                                Pagina 27 van 29
+NATUURKUNDE HAVO | SYLLABUS CENTRAAL EXAMEN 2026 – Nadere vaststelling
+Versie 4
+
+
+
+
+ Examen(werk)woord                   Betekenis
+
+ Noemen, (aan)geven wat,             Een eindantwoord geven. Een toelichting is niet vereist tenzij anders is
+ welke, wanneer, hoeveel             aangegeven.
+
+ Schatten                            Een benadering van een waarde geven door middel van een
+                                     berekening, bepaling of redenering. Uit de uitwerking moet blijken
+                                     welke waarden zijn gebruikt en welke stappen zijn gezet.
+
+ Schetsen                            Het geven van een grafische voorstelling die de voor de
+                                     probleemsituatie relevante karakteristieke eigenschappen bevat.
+
+ Tekenen                             Het geven van een grafische voorstelling die de voor de
+                                     probleemsituatie relevante karakteristieke eigenschappen bevat en
+                                     voldoende nauwkeurig is.
+                                     In het geval van een grafiek moet een assenstelsel met
+                                     schaalverdeling zijn weergegeven.
+                                     Het assenstelsel moet voorzien zijn van grootheden en eenheden.
+
+ Noteer je antwoord in het           Het geven van een uitkomst in het juiste aantal significante cijfers
+ juiste aantal significante          passend bij de gebruikte gegevens en uitgevoerde berekening. Bij
+ cijfers.                            tussentijds afronden dient minimaal het aantal significante cijfers van
+                                     de uitkomst meegenomen te worden.
+
+ Noteer je antwoord in n             Het geven van een uitkomst in het gevraagde aantal significante
+ significante cijfers.               cijfers. Bij tussentijds afronden dient minimaal het aantal significante
+                                     cijfers van de uitkomst meegenomen te worden.
+
+
+
+
+                                                                                                 Pagina 28 van 29
+
