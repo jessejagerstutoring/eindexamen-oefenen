@@ -1,0 +1,67 @@
+[
+ {
+  "vak": "natuurkunde-havo",
+  "bestand": "bundels/natuurkunde-havo.pdf",
+  "omslag": "bundels/natuurkunde-havo.png",
+  "paginas": 258,
+  "mb": 26.6,
+  "deel1": [
+   "2023 tijdvak 2",
+   "2024 tijdvak 1",
+   "2024 tijdvak 2",
+   "2025 tijdvak 1"
+  ],
+  "deel2": [
+   "2025 tijdvak 2",
+   "2026 tijdvak 1",
+   "2026 tijdvak 2"
+  ],
+  "datum": "2026-11-06"
+ },
+ {
+  "vak": "wiskunde-a-havo",
+  "bestand": "bundels/wiskunde-a-havo.pdf",
+  "omslag": "bundels/wiskunde-a-havo.png",
+  "paginas": 276,
+  "mb": 13.8,
+  "deel1": [
+   "2021 tijdvak 2",
+   "2022 tijdvak 1",
+   "2022 tijdvak 2",
+   "2023 tijdvak 1",
+   "2023 tijdvak 2",
+   "2024 tijdvak 1",
+   "2024 tijdvak 2",
+   "2025 tijdvak 1"
+  ],
+  "deel2": [
+   "2025 tijdvak 2",
+   "2026 tijdvak 1",
+   "2026 tijdvak 2"
+  ],
+  "datum": "2026-11-06"
+ },
+ {
+  "vak": "wiskunde-b-vwo",
+  "bestand": "bundels/wiskunde-b-vwo.pdf",
+  "omslag": "bundels/wiskunde-b-vwo.png",
+  "paginas": 260,
+  "mb": 13.1,
+  "deel1": [
+   "2021 tijdvak 2",
+   "2022 tijdvak 1",
+   "2022 tijdvak 2",
+   "2023 tijdvak 1",
+   "2023 tijdvak 2",
+   "2024 tijdvak 1",
+   "2024 tijdvak 2",
+   "2025 tijdvak 1"
+  ],
+  "deel2": [
+   "2025 tijdvak 2",
+   "2026 tijdvak 1",
+   "2026 tijdvak 2"
+  ],
+  "datum": "2026-11-06"
+ }
+]

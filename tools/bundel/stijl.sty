@@ -1,0 +1,264 @@
+% Opmaak van het oefenboek (A5). Hoort bij tools/bouw_bundel.py.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{stijl}
+
+\RequirePackage[paperwidth=148mm,paperheight=210mm,inner=13.5mm,outer=10.5mm,top=17mm,bottom=17mm,
+  headheight=12pt,headsep=5.5mm,footskip=9mm]{geometry}
+\RequirePackage{fontspec}
+\RequirePackage[dutch]{babel}
+\RequirePackage{amsmath}
+\RequirePackage{xcolor,graphicx,tikz,fancyhdr,needspace,array,booktabs,enumitem,microtype,etoolbox,tabularx}
+\RequirePackage[hidelinks,pdfusetitle,bookmarksnumbered]{hyperref}
+\RequirePackage{xurl}           % lange url's in de bronvermelding mogen overal breken
+\RequirePackage{bookmark}
+\usetikzlibrary{calc}
+
+% ---------- lettertypes (SIL Open Font License) ----------
+\setmainfont{SourceSerif4}[Extension=.otf,Scale=0.95,UprightFont=*-Regular,BoldFont=*-Semibold,
+  ItalicFont=*-RegularIt,BoldItalicFont=*-SemiboldIt,Numbers=Lining]
+\setsansfont{SourceSans3}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-RegularIt,
+  BoldItalicFont=*-BoldIt,FontFace={sb}{n}{*-Semibold},FontFace={k}{n}{*-Black},FontFace={l}{n}{*-Light},
+  Numbers=Lining]
+\newcommand\halfvet{\fontseries{sb}\selectfont}
+\newcommand\zwart{\fontseries{k}\selectfont}
+\newcommand\licht{\fontseries{l}\selectfont}
+
+% ---------- kleuren ----------
+\definecolor{inkt}{HTML}{1F2328}
+\definecolor{grijs}{HTML}{6B7178}
+\definecolor{lichtgrijs}{HTML}{E6E8EB}
+\definecolor{papier}{HTML}{F5F6F7}
+\definecolor{kleur1}{HTML}{0E6377}   % petrol
+\definecolor{kleur2}{HTML}{B5651D}   % oker
+\definecolor{kleur3}{HTML}{7A3B69}   % pruim
+\definecolor{kleur4}{HTML}{3E7B4F}   % groen
+\definecolor{kleur5}{HTML}{8A6D1E}
+\definecolor{kleur6}{HTML}{3F5E8C}
+\definecolor{kleurex}{HTML}{2D3E58}  % examens
+\colorlet{hs}{kleur1}
+\color{inkt}
+
+% ---------- algemeen ----------
+\setlength\parindent{0pt}
+\setlength\parskip{0pt}
+\raggedbottom
+\frenchspacing
+\linespread{1.06}
+\setlist{leftmargin=1.2em,itemsep=2pt,topsep=4pt}
+\newcommand\opmaakproza{\setlength\parskip{0.55em plus 1pt}}
+\widowpenalty=3000 \clubpenalty=3000
+
+% ---------- tabs aan de buitenrand en kop- en voetregels ----------
+\newcommand\Tab{0}        % 0 = geen tab; 1..6 = positie
+\newcommand\Tabtekst{}
+\newcommand\ExamenTab{5}   % plek van de examentab: na het laatste hoofdstuk (gezet in boek.tex)
+\newcommand\tekentab{%
+  \ifnum\Tab>0
+  \begin{tikzpicture}[remember picture,overlay]
+    \pgfmathsetmacro\tabboven{24+(\Tab-1)*25}
+    \ifodd\value{page}
+      \fill[hs] ($(current page.north east)+(-4.2mm,-\tabboven mm)$) rectangle ++(6mm,-21mm);
+      \node[rotate=-90,text=white,font=\sffamily\bfseries\tiny] at ($(current page.north east)+(-2.1mm,-\tabboven mm-10.5mm)$) {\Tabtekst};
+    \else
+      \fill[hs] ($(current page.north west)+(4.2mm,-\tabboven mm)$) rectangle ++(-6mm,-21mm);
+      \node[rotate=90,text=white,font=\sffamily\bfseries\tiny] at ($(current page.north west)+(2.1mm,-\tabboven mm-10.5mm)$) {\Tabtekst};
+    \fi
+  \end{tikzpicture}%
+  \fi}
+\newcommand\kopL{}\newcommand\kopR{}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand\headrulewidth{0pt}
+\fancyhead[LE]{\tekentab\sffamily\scriptsize\color{grijs}\kopL}
+\fancyhead[RO]{\tekentab\sffamily\scriptsize\color{grijs}\kopR}
+\fancyfoot[LE,RO]{\sffamily\footnotesize\halfvet\color{grijs}\thepage}
+\fancypagestyle{kaal}{\fancyhf{}\fancyfoot[LE,RO]{\sffamily\footnotesize\halfvet\color{grijs}\thepage}}
+\fancypagestyle{leeg}{\fancyhf{}}
+
+% ---------- uitsneden uit de originele examens ----------
+% Elke pagina van een origineel wordt één keer opgeslagen: \DefPag{naam}{pdf}{pagina}
+\newcommand\DefPag[3]{\saveimageresource page #3 {#2}%
+  \expandafter\xdef\csname pag@#1\endcsname{\the\lastsavedimageresourceindex}}
+% \Blok{witruimte erboven (bp)}{breekstraf}{naam}{links/boven/breedte/hoogte/paginabreedte/paginahoogte}{labels}
+% (alle maten al geschaald, in bp)
+% geometrie van een uitsnede: x en y in het origineel, breedte en hoogte van het stuk, paginamaat, inspringing
+% (afstand van de rand van het stuk tot waar de tekst begint; die tekst komt op de linkermarge)
+\def\Bgeo#1/#2/#3/#4/#5/#6/#7\relax{\def\Bdx{#1}\def\Bdy{#2}\def\Bcw{#3}\def\Bch{#4}\def\Bfw{#5}\def\Bfh{#6}\def\Bins{#7}}
+\newcommand\BlokTikz[2]{% naam, labels (geometrie staat al in \Bdx enz.)
+  \begin{tikzpicture}[x=1bp,y=1bp]
+    \coordinate (b) at (0,0);
+    \useasboundingbox (0,0) rectangle (\Bcw,-\Bch);
+    \begin{scope}
+      \clip (0,0) rectangle (\Bcw,-\Bch);
+      \node[inner sep=0,outer sep=0,anchor=north west] at (-\Bdx,\Bdy) {\useimageresource width \Bfw bp height \Bfh bp \csname pag@#1\endcsname};
+    \end{scope}#2
+  \end{tikzpicture}}
+\newcommand\Blok[5]{% gat, straf, naam, geometrie, labels
+  \par\penalty#2\relax\vskip#1bp\relax\nointerlineskip\Bgeo#4\relax
+  \noindent\hspace*{-\Bins bp}\BlokTikz{#3}{#5}\par\nointerlineskip}
+% Figuurblok dat zichzelf iets verkleint (tot factor #6) als het net niet meer op de pagina past;
+% anders gaat het gewoon naar de volgende pagina en blijft er een gat over.
+\newdimen\Brest \newdimen\Bhoog
+\newcommand\BlokPas[6]{% gat, straf, naam, geometrie, labels, kleinste factor
+  \par\penalty#2\relax\vskip#1bp\relax\nointerlineskip\Bgeo#4\relax
+  \Bhoog=\Bch bp\relax
+  \ifdim\pagegoal=\maxdimen \Brest=\textheight \else \Brest=\dimexpr\pagegoal-\pagetotal-6pt\relax\fi
+  \def\Bfactor{1}%
+  \ifdim\Bhoog>\Brest
+    \ifdim\dimexpr#6\Bhoog\relax<\Brest
+      \pgfmathsetmacro\Bfactor{\Brest/\Bhoog}%
+    \fi
+  \fi
+  \noindent\hspace*{-\Bins bp}\scalebox{\Bfactor}{\BlokTikz{#3}{#5}}\par\nointerlineskip}
+\newcommand\Lbl[2]{\node[overlay,anchor=north east,inner sep=0,align=right] at ($(b)+(\Bins bp-2.4mm,-#1bp+0.6bp)$) {#2};}
+\newcommand\VraagNr[3]{\label{#3}{\sffamily\bfseries\fontsize{10.5}{11}\selectfont\color{hs}#1}\\[-0.5pt]{\sffamily\fontsize{7}{8}\selectfont\color{grijs}#2p}}
+\newcommand\AntwNr[2]{\label{#2}{\sffamily\bfseries\fontsize{10.5}{11}\selectfont\color{hs}#1}}
+\newcommand\Ontbreekt[1]{\par\textcolor{red}{[#1 ontbreekt]}\par}
+\newcommand\BijlageKop[1]{\par\Needspace{6\baselineskip}\vskip 8pt
+  {\sffamily\scriptsize\bfseries\color{hs}\MakeUppercase{Uitwerkbijlage bij vraag #1}}\par\nobreak\vskip 2pt\nobreak}
+\newcommand\AanvullingKop[1]{\par\Needspace{5\baselineskip}\vskip 8pt
+  {\sffamily\scriptsize\bfseries\color{kleur2}\MakeUppercase{#1}}\par\nobreak\vskip 2pt\nobreak}
+
+% ---------- delen, hoofdstukken, onderwerpen, opgaven ----------
+\newcommand\Deel[4]{% nummer, titel, tekst, kleur
+  \clearpage\thispagestyle{leeg}\colorlet{hs}{#4}\phantomsection\label{deel#1}%
+  \pdfbookmark[-1]{#2}{deel#1}%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[hs] (current page.south west) rectangle (current page.north east);
+    \begin{scope}[opacity=.12,white,line width=.5pt]
+      \foreach \i in {0,...,15} {\draw ($(current page.south west)+(0,\i*14mm)$) -- ++(148mm,0);}
+      \foreach \i in {0,...,11} {\draw ($(current page.south west)+(\i*14mm,0)$) -- ++(0,210mm);}
+    \end{scope}
+    \node[anchor=north west,text=white,font=\sffamily\licht\fontsize{90}{90}\selectfont] at ($(current page.north west)+(14mm,-22mm)$) {#1};
+    \node[anchor=south west,text=white,align=left,text width=112mm] at ($(current page.south west)+(14mm,30mm)$)
+      {{\sffamily\zwart\fontsize{24}{28}\selectfont #2}\\[6mm]{\sffamily\fontsize{10.5}{14}\selectfont #3}};
+  \end{tikzpicture}\clearpage}
+
+\newcommand\Hoofdstuk[4]{% nummer, naam, aantal opgaven, onderwerpen
+  \clearpage\colorlet{hs}{kleur#1}\renewcommand\Tab{#1}\renewcommand\Tabtekst{#1}%
+  \renewcommand\kopL{Deel 1 \textbullet\ #2}%
+  \thispagestyle{kaal}\phantomsection\label{hs:#1}\pdfbookmark[0]{#1 #2}{hs#1}%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[hs] (current page.north west) rectangle ($(current page.north east)+(0,-56mm)$);
+    \begin{scope}[opacity=.14,white,line width=.5pt]
+      \foreach \i in {0,...,4} {\draw ($(current page.north west)+(0,-\i*14mm)$) -- ++(148mm,0);}
+      \foreach \i in {0,...,11} {\draw ($(current page.north west)+(\i*14mm,0)$) -- ++(0,-56mm);}
+    \end{scope}
+    \node[anchor=south west,text=white,align=left] at ($(current page.north west)+(13.5mm,-50mm)$)
+      {{\sffamily\halfvet\footnotesize\MakeUppercase{Hoofdstuk #1}}\\[1mm]{\sffamily\zwart\fontsize{19}{22}\selectfont\parbox[b]{118mm}{\raggedright #2}}};
+  \end{tikzpicture}\par\nointerlineskip
+  \vspace*{37mm}%
+  {\sffamily\footnotesize\color{grijs}In dit hoofdstuk: #3 opgaven, ingedeeld naar onderwerp.}\par\vskip 4pt
+  {\sffamily\small\begin{tabular*}{\linewidth}{@{}l@{\extracolsep{\fill}}r@{}}#4\end{tabular*}}\par\vskip 6pt}
+\newcommand\HsOnderwerp[5]{\textcolor{hs}{\bfseries #2}\enspace #1 {\color{grijs}\scriptsize(#3)}\dotfill & \pageref{#5}\\[1pt]}
+
+\newcommand\Onderwerp[4]{% naam, syllabuscode, omschrijving, label
+  \par\Needspace{0.3\textheight}\vskip 14pt
+  \phantomsection\label{#4}\pdfbookmark[1]{#1}{bm-#4}%
+  \renewcommand\kopR{#1}%
+  {\sffamily\fontsize{13}{15}\selectfont\bfseries\color{hs}#1}\hfill
+  {\sffamily\scriptsize\bfseries\color{white}\colorbox{hs}{\strut syllabus #2}}\par\nobreak\vskip 2pt
+  {\itshape\small\color{grijs}#3}\par\nobreak\vskip 4pt\nobreak
+  {\color{hs}\rule{\linewidth}{1.2pt}}\par\nobreak\vskip 2pt\nobreak}
+
+\def\OpgNodig{0.28\textheight}
+\newcommand\Opgave[5]{% nr, titel, bron, label, punten
+  \par\Needspace{\OpgNodig}\vskip 15pt
+  \phantomsection\label{#4}%
+  {\sffamily\fontsize{7.5}{9}\selectfont\bfseries\color{white}\colorbox{hs}{\strut #1}}\enspace
+  {\sffamily\bfseries\fontsize{11.5}{13}\selectfont #2}\hfill
+  {\sffamily\scriptsize\color{grijs}#3\enspace\textbullet\enspace #5 punten}\par\nobreak\vskip 3pt\nobreak
+  {\color{lichtgrijs}\rule{\linewidth}{0.6pt}}\par\nobreak\vskip 5pt\nobreak}
+\newcommand\NaarUitwerking[1]{\par\nobreak\vskip 3pt\nobreak
+  {\raggedleft\sffamily\fontsize{7.5}{9}\selectfont\color{grijs}uitwerkingen \textcolor{hs}{$\rightarrow$}\ blz.\ \pageref{#1}\par}}
+
+% ---------- examens (deel 2) ----------
+\newcommand\Examen[7]{% k, jaar, tijdvak, vragen, punten, label, label uitwerkingen
+  \clearpage\colorlet{hs}{kleurex}\renewcommand\Tab{\ExamenTab}\renewcommand\Tabtekst{Examen #1}%
+  \renewcommand\kopL{Deel 2 \textbullet\ Examen #1}\renewcommand\kopR{\VakNaam\ \textbullet\ #2 tijdvak #3}%
+  \thispagestyle{kaal}\phantomsection\label{#6}\pdfbookmark[0]{Examen #1: #2 tijdvak #3}{#6}%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[hs] (current page.north west) rectangle ($(current page.north east)+(0,-70mm)$);
+    \node[anchor=south west,text=white,align=left] at ($(current page.north west)+(13.5mm,-62mm)$)
+      {{\sffamily\halfvet\footnotesize\MakeUppercase{Examen #1}}\\[1mm]
+       {\sffamily\zwart\fontsize{26}{30}\selectfont #2}\\[1mm]
+       {\sffamily\fontsize{12}{14}\selectfont centraal examen \textbullet\ tijdvak #3}};
+  \end{tikzpicture}\par\nointerlineskip
+  \vspace*{54mm}%
+  {\sffamily\small
+  \begin{tabularx}{\linewidth}{@{}>{\bfseries}p{24mm}X@{}}
+    Tijd & \ExamenDuur \\[3pt]
+    Vragen & #4 vragen, samen #5 punten \\[3pt]
+    Hulpmiddelen & \ExamenHulp \\[3pt]
+    \FormuleRij
+    Uitwerkingen & vanaf blz.~\pageref{#7} \\
+  \end{tabularx}}\par\vskip 10mm
+  {\opmaakproza\small Maak dit examen in \'e\'en keer, met een wekker op \ExamenDuur, en kijk pas daarna in de uitwerkingen.
+  Werk op losse vellen; bij vragen met een uitwerkbijlage teken je in het boek. Schrijf je berekeningen en redeneringen volledig op:
+  bij de meeste vragen krijg je ook punten voor de tussenstappen.\par}
+  \vfill
+  {\sffamily\small\color{grijs}Begintijd \enspace\rule{22mm}{0.4pt}\qquad Eindtijd \enspace\rule{22mm}{0.4pt}}\par
+  \clearpage}
+\newcommand\ExOpgave[2]{% titel, label
+  \par\Needspace{\OpgNodig}\vskip 15pt\phantomsection\label{#2}%
+  {\sffamily\bfseries\fontsize{11.5}{13}\selectfont #1}\par\nobreak\vskip 3pt\nobreak
+  {\color{lichtgrijs}\rule{\linewidth}{0.6pt}}\par\nobreak\vskip 5pt\nobreak}
+\newcommand\EindeExamen[1]{\par\vskip 14pt\noindent\parbox{\linewidth}{\centering
+  {\sffamily\small\bfseries\color{hs}Einde van het examen}\\[2pt]
+  {\sffamily\scriptsize\color{grijs}uitwerkingen en scoretabel vanaf blz.\ \pageref{#1}}}\par}
+
+% ---------- uitwerkingen ----------
+\newcommand\AntwHoofdstuk[2]{%
+  \par\Needspace{0.35\textheight}\vskip 6pt
+  \colorlet{hs}{kleur#1}\renewcommand\Tab{#1}\renewcommand\Tabtekst{#1}%
+  \renewcommand\kopL{Uitwerkingen \textbullet\ hoofdstuk #1}\renewcommand\kopR{#2}%
+  \phantomsection\label{ahs:#1}\pdfbookmark[1]{Hoofdstuk #1: #2}{ahs#1}%
+  {\color{hs}\rule{\linewidth}{2.2pt}}\par\nobreak\vskip 4pt
+  {\sffamily\halfvet\scriptsize\color{hs}\MakeUppercase{Uitwerkingen hoofdstuk #1}}\par\nobreak\vskip 1pt
+  {\sffamily\zwart\fontsize{15}{18}\selectfont #2}\par\nobreak\vskip 6pt\nobreak}
+\newcommand\AntwOnderwerp[2]{% naam, label van het onderwerp in deel 1
+  \par\Needspace{0.2\textheight}\vskip 9pt
+  {\sffamily\fontsize{10}{12}\selectfont\bfseries\color{hs}#1}\hfill
+  {\sffamily\scriptsize\color{grijs}vragen vanaf blz.\ \pageref{#2}}\par\nobreak\vskip 1pt\nobreak}
+\newcommand\AntwOpgave[5]{% nr, titel, bron, label, label opgave
+  \par\Needspace{0.18\textheight}\vskip 10pt\phantomsection\label{#4}%
+  {\sffamily\fontsize{7.5}{9}\selectfont\bfseries\color{white}\colorbox{hs}{\strut #1}}\enspace
+  {\sffamily\bfseries\fontsize{11}{13}\selectfont #2}\hfill
+  {\sffamily\scriptsize\color{grijs}#3\enspace\textbullet\enspace vragen op blz.\ \pageref{#5}}\par\nobreak\vskip 3pt\nobreak
+  {\color{lichtgrijs}\rule{\linewidth}{0.6pt}}\par\nobreak\vskip 5pt\nobreak}
+\newcommand\AntwExamen[5]{% k, jaar, tijdvak, label, label examen
+  \par\Needspace{0.35\textheight}\vskip 6pt
+  \colorlet{hs}{kleurex}\renewcommand\Tab{\ExamenTab}\renewcommand\Tabtekst{Examen #1}%
+  \renewcommand\kopL{Uitwerkingen \textbullet\ examen #1}\renewcommand\kopR{#2 tijdvak #3}%
+  \phantomsection\label{#4}\pdfbookmark[1]{Examen #1: #2 tijdvak #3}{#4}%
+  {\color{hs}\rule{\linewidth}{2.2pt}}\par\nobreak\vskip 4pt
+  {\sffamily\halfvet\scriptsize\color{hs}\MakeUppercase{Uitwerkingen examen #1}}\par\nobreak\vskip 1pt
+  {\sffamily\zwart\fontsize{15}{18}\selectfont #2 tijdvak #3}\hfill{\sffamily\scriptsize\color{grijs}vragen vanaf blz.\ \pageref{#5}}\par\nobreak\vskip 6pt\nobreak}
+\newcommand\AntwExOpgave[2]{\par\Needspace{0.18\textheight}\vskip 10pt\phantomsection\label{#2}%
+  {\sffamily\bfseries\fontsize{11}{13}\selectfont #1}\par\nobreak\vskip 3pt\nobreak
+  {\color{lichtgrijs}\rule{\linewidth}{0.6pt}}\par\nobreak\vskip 5pt\nobreak}
+\newcommand\Scoretabel[2]{% totaal, tabelregels
+  \par\Needspace{0.3\textheight}\vskip 16pt
+  {\sffamily\bfseries\fontsize{11}{13}\selectfont Jouw score}\par\nobreak\vskip 4pt\nobreak
+  {\sffamily\scriptsize\setlength\tabcolsep{0pt}\renewcommand\arraystretch{1.55}#2}\par\vskip 6pt
+  {\small Totaal: \rule{14mm}{0.4pt} van de #1 punten.\enspace Je cijfer is ongeveer
+  $1{,}0 + 9 \times \mathrm{score} / #1$ (zie blz.~\pageref{cijfer}).\par}}
+
+% ---------- inhoud, register, bronnen ----------
+\newcommand\InhDeel[2]{\par\vskip 7pt{\sffamily\bfseries\small #1\dotfill\pageref{#2}}\par\vskip 1pt}
+\newcommand\InhRegel[3]{\par{\small\hspace*{#1}#2\dotfill\pageref{#3}}\par}
+% past de inhoud net niet op een pagina, dan iets krapper zetten
+\newcommand\InhCompact{%
+  \renewcommand\InhDeel[2]{\par\vskip 4pt{\sffamily\bfseries\fontsize{9}{11}\selectfont ##1\dotfill\pageref{##2}\par}}%
+  \renewcommand\InhRegel[3]{\par{\fontsize{8.6}{10.2}\selectfont\hspace*{##1}##2\dotfill\pageref{##3}\par}}}
+\newcommand\Inhoud[1]{\par\setbox0=\vbox{\hsize\linewidth\input{#1}}%
+  \ifdim\dimexpr\ht0+\dp0\relax>\dimexpr\pagegoal-\pagetotal-12pt\relax\InhCompact\fi
+  \input{#1}}
+\newcommand\RegExamen[3]{\par\Needspace{4\baselineskip}\vskip 6pt{\sffamily\bfseries\small #1}%
+  \ifstrempty{#3}{}{\hfill{\sffamily\scriptsize #2, blz.~\pageref{#3}}}\par\nobreak\vskip 1pt
+  \ifstrempty{#3}{{\footnotesize #2}}{}}
+\newcommand\RegOpgave[4]{\par{\footnotesize\hspace*{3mm}#1 {\color{grijs}\scriptsize(examenvragen #4)}\dotfill opgave #2, blz.~\pageref{#3}}}
+\newcommand\BronRij[4]{\par\vskip 4pt{\sffamily\bfseries\footnotesize #1}\par
+  {\footnotesize #2\par}{\scriptsize\color{grijs}\url{#3}\par}}
+
+\endinput

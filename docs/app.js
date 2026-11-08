@@ -6,6 +6,7 @@
  *   #/vak/<vak>/onderwerp/<id>        alle vragen over één onderwerp
  *   #/vak/<vak>/examen/<code>         alle vragen van één examen
  *   #/vak/<vak>/voortgang             je scores per onderwerp en een advies wat je nu oefent
+ *   #/bundels[/<vak>]                 gratis examenbundels als pdf
  *   #/vraag/<vak>/<id>/<lijst>        één vraag; <lijst> is o-<onderwerp> of e-<examen> voor vorige/volgende
  */
 (() => {
@@ -34,6 +35,8 @@
     return cache[pad];
   }
   const vakData = vak => json(`data/${vak}.json`);
+  // gratis examenbundels (pdf); ontbreekt het bestand, dan is er gewoon nog geen bundel
+  const bundels = () => json('data/bundels.json').catch(() => []);
   const SITE = 'https://jessejagerstutoring.nl';
   // e-mailadres voor foutmeldingen; zolang dit leeg is, verwijst de site naar de contactpagina van het bedrijf
   const MELDADRES = '';
@@ -137,8 +140,16 @@
       <table class="catalogus">
         <thead><tr><th>Niveau</th><th>Vak</th><th class="r verberg">Onderwerpen</th><th class="r">Vragen</th><th class="r verberg">Examens</th><th class="r">Jij</th></tr></thead>
         <tbody>${rijen}</tbody>
-      </table>`);
+      </table>
+      <div id="bundel-tip"></div>`);
     klikbareRijen(app.querySelector('.catalogus'));
+    bundels().then(b => {
+      const plek = document.getElementById('bundel-tip');
+      if (!plek || !b.length) return;
+      plek.innerHTML = `<aside class="bundel-tip"><div><h2>Liever op papier?</h2>
+        <p>Download een gratis examenbundel als pdf om te printen: opgaven per onderwerp, de nieuwste examens compleet en alle uitwerkingen. Nu voor ${b.map(x => esc(vakNaam(x.vak))).join(', ').replace(/, ([^,]*)$/, ' en $1')}.</p></div>
+        <a class="knop" href="#/bundels">Naar de examenbundels</a></aside>`;
+    });
   }
 
   // ---------- vak: inhoudsopgave ----------
@@ -153,16 +164,18 @@
         <p>${v.vragen} vragen uit ${v.examens.length} examens (${v.examens[v.examens.length - 1].jaar}–${v.examens[0].jaar}) · ${gemaakt(ids)} door jou gemaakt</p></div>
         <nav class="weergave" aria-label="Weergave"><a href="#/vak/${vak}" class="${perExamen ? '' : 'aan'}">Per onderwerp</a><a href="#/vak/${vak}?per=examen" class="${perExamen ? 'aan' : ''}">Per examen</a><a href="#/vak/${vak}/voortgang">Mijn voortgang</a></nav>
       </header>`;
+    const bundel = (await bundels()).find(b => b.vak === vak);
+    const bundelRegel = bundel ? `<p class="bundel-regel">Liever op papier? <a href="#/bundels/${vak}">Download de gratis examenbundel ${esc(vakNaam(vak))}</a> (pdf, ${bundel.paginas} blz.)</p>` : '';
     if (perExamen) {
       const rijen = v.examens.map(e => {
         const q = data.vragen.filter(x => x.examen === e.code);
         return `<tr data-href="#/vak/${vak}/examen/${e.code}"><td><a href="#/vak/${vak}/examen/${e.code}">${e.jaar}</a></td><td>${tv(e.tijdvak)}</td>
           <td class="r">${q.length}</td><td class="r">${q.reduce((s, x) => s + x.punten, 0)}</td><td class="r">${gemaakt(q.map(x => x.id))} van ${q.length}</td></tr>`;
       }).join('');
-      toon(kop + `<div class="tabelvak"><table class="tabel"><thead><tr><th>Jaar</th><th>Tijdvak</th><th class="r">Vragen</th><th class="r">Punten</th><th class="r">Gemaakt</th></tr></thead><tbody>${rijen}</tbody></table></div>`, vakNaam(vak), vak);
+      toon(kop + bundelRegel + `<div class="tabelvak"><table class="tabel"><thead><tr><th>Jaar</th><th>Tijdvak</th><th class="r">Vragen</th><th class="r">Punten</th><th class="r">Gemaakt</th></tr></thead><tbody>${rijen}</tbody></table></div>`, vakNaam(vak), vak);
       return klikbareRijen(app.querySelector('.tabel'));
     }
-    toon(kop + `<div class="inhoud">${v.domeinen.map((d, i) => `<section class="hoofdstuk"><h2><span class="hnr">${i + 1}</span>${esc(d.naam)}</h2>${d.onderwerpen.map((o, j) => {
+    toon(kop + bundelRegel + `<div class="inhoud">${v.domeinen.map((d, i) => `<section class="hoofdstuk"><h2><span class="hnr">${i + 1}</span>${esc(d.naam)}</h2>${d.onderwerpen.map((o, j) => {
       const q = data.vragen.filter(x => x.onderwerp === o.id).map(x => x.id);
       const g = gemaakt(q);
       return `<a class="paragraaf" href="#/vak/${vak}/onderwerp/${o.id}">
@@ -434,6 +447,37 @@
     if (doel) doel.scrollIntoView();
   }
 
+  // ---------- examenbundels (pdf) ----------
+  async function bundelPagina(doel) {
+    zetKruimel([['Start', '#/'], ['Examenbundels', null]]);
+    const b = await bundels();
+    const reeks = l => l.length > 1 ? `${l[0]} t/m ${l[l.length - 1]}` : l[0];
+    const kaarten = b.map(x => `<article class="bundel" id="bundel-${x.vak}">
+        <a class="bundel-omslag" href="${x.bestand}" target="_blank" rel="noopener" aria-label="Open de examenbundel ${esc(vakNaam(x.vak))}"><img src="${x.omslag}" alt="" width="250" height="354" loading="lazy"></a>
+        <div class="bundel-tekst">
+          <p class="bovenkop">${niv(x.vak)}</p>
+          <h2>${esc(OVERZICHT.vakken[x.vak].naam)}</h2>
+          <dl>
+            <div><dt>Deel 1, per onderwerp</dt><dd>${x.deel1.length} examens (${reeks(x.deel1)})</dd></div>
+            <div><dt>Deel 2, complete examens</dt><dd>${x.deel2.join(', ')}</dd></div>
+            <div><dt>Omvang</dt><dd>${x.paginas} pagina's A5 · pdf, ${komma(x.mb)} MB</dd></div>
+          </dl>
+          <div class="bundel-knoppen">
+            <a class="knop vol" href="${x.bestand}" target="_blank" rel="noopener">Bekijk online</a>
+            <a class="knop" href="${x.bestand}" download>Download</a>
+          </div>
+        </div>
+      </article>`).join('');
+    toon(`<header class="lijstkop"><p class="bovenkop">Gratis · pdf om te printen</p><h1>Examenbundels</h1>
+        <p class="inleiding">Een complete examenbundel op A5, gratis. In deel 1 staan de opgaven uit eerdere examens per onderwerp, net als op deze site. In deel 2 staan de drie nieuwste examens compleet, zodat je een echt examen op tijd kunt oefenen. Achterin vind je de uitwerkingen: het officiële correctievoorschrift bij elke vraag.</p>
+      </header>
+      ${b.length ? `<div class="bundels">${kaarten}</div>` : '<p class="leeg">Er staan nog geen examenbundels online.</p>'}
+      <p class="bundel-noot">Print op A5, of op A4 met twee pagina's per vel. De vragen en antwoorden komen van het CvTE (examenblad.nl); bij het nakijken geldt altijd het originele correctievoorschrift. Bundels voor andere vakken volgen.</p>
+      ${hulpBlok()}`, 'Examenbundels');
+    const el = doel && document.getElementById(`bundel-${doel}`);
+    if (el) { el.scrollIntoView(); el.classList.add('licht'); }
+  }
+
   function nietGevonden() {
     zetKruimel([['Start', '#/']]);
     toon('<p class="leeg">Deze pagina bestaat niet (meer).</p><a class="knop" href="#/">Naar de start</a>', 'Niet gevonden');
@@ -460,6 +504,7 @@
       if (d[0] === 'vak' && d[2] === 'examen') return lijstPagina(d[1], 'examen', d[3]);
       if (d[0] === 'vraag') return vraagPagina(d[1], d[2], d[3]);
       if (d[0] === 'over') return overPagina(d[1]);
+      if (d[0] === 'bundels') return bundelPagina(d[1]);
       nietGevonden();
     } catch (e) {
       console.error(e);

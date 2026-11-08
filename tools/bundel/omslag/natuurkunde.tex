@@ -1,0 +1,23 @@
+% Omslagmotief natuurkunde: lopende golf, lens met lichtstralen, atoommodel. Tekenvlak ca. x -8..118, y -8..58 (mm); onder y -8 begint de titel.
+% golf met golflengte
+\draw[kleur1!60!white,line width=1.6pt,domain=-8:118,samples=200] plot (\x,{2+7*sin(\x*9)});
+\draw[white,opacity=.45,line width=.5pt,|<->|] (10,12) -- (50,12) node[midway,above=-.5mm,font=\sffamily\scriptsize,opacity=.8] {$\lambda$};
+\draw[white,opacity=.3,line width=.5pt,dashed] (-8,2) -- (118,2);
+% lens met evenwijdige stralen die in het brandpunt samenkomen
+\begin{scope}[shift={(24,38)}]
+  \fill[kleur2!35!white,opacity=.25] (0,-17) .. controls (5,-6) and (5,6) .. (0,17) .. controls (-5,6) and (-5,-6) .. (0,-17);
+  \draw[kleur2!70!white,line width=1.4pt] (0,-17) .. controls (5,-6) and (5,6) .. (0,17) .. controls (-5,6) and (-5,-6) .. (0,-17);
+  \foreach \y in {-11,-5.5,0,5.5,11} {
+    \draw[white,opacity=.75,line width=.7pt] (-30,\y) -- (0,\y) -- (28,0);
+    \draw[white,opacity=.35,line width=.7pt] (28,0) -- ($(28,0)!-.45!(0,\y)$);}
+  \fill[white] (28,0) circle (.9);
+  \draw[white,opacity=.35,line width=.5pt,dashed] (-30,0) -- (48,0);
+\end{scope}
+% atoommodel
+\begin{scope}[shift={(90,38)}]
+  \foreach \h in {0,60,120} \draw[kleur3!55!white,line width=1.3pt,rotate=\h] (0,0) ellipse (19 and 6.5);
+  \fill[kleur4!70!white] (0,0) circle (2.6);
+  \fill[white] (19,0) circle (1.1);
+  \fill[white,rotate=60] (-19,0) circle (1.1);
+  \fill[white,rotate=120] (0,6.5) circle (1.1);
+\end{scope}

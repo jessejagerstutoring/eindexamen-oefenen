@@ -1,0 +1,10 @@
+% Omslagmotief voor elk ander vak: gestapelde examenbladen met regels en een vinkje.
+\foreach \i/\k in {0/kleur1,1/kleur2,2/kleur3} {
+  \begin{scope}[shift={(\i*16,-\i*7+4)},rotate=-4+\i*4]
+    \fill[\k!45!white,opacity=.22] (0,0) rectangle (50,52);
+    \draw[\k!60!white,line width=1.4pt] (0,0) rectangle (50,52);
+  \end{scope}}
+\begin{scope}[shift={(32,-10)},rotate=4]
+  \foreach \y in {44,38,...,8} \draw[white,opacity=.55,line width=.8pt] (6,\y) -- (44,\y);
+\end{scope}
+\draw[kleur4!70!white,line width=3pt,line cap=round,line join=round] (84,22) -- (93,10) -- (110,40);

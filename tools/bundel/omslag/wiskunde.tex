@@ -1,0 +1,10 @@
+% Omslagmotief wiskunde: assenstelsel met grafieken en een cirkel.
+\draw[white,opacity=.35,line width=.6pt,->] (-8,0) -- (118,0);
+\draw[white,opacity=.35,line width=.6pt,->] (0,-30) -- (0,58);
+\draw[kleur1!60!white,line width=1.6pt,domain=-8:116,samples=160] plot (\x,{14*sin(\x*6.2)});
+\draw[kleur2!70!white,line width=1.6pt,domain=-8:63,samples=80] plot (\x,{2.2*exp(\x/20)});
+\draw[kleur3!55!white,line width=1.6pt] (78,30) circle (17);
+\draw[kleur4!65!white,line width=1.6pt,domain=40:116,samples=80] plot (\x,{-26+0.012*(\x-78)^2});
+\fill[white] (78,30) circle (.9);
+\draw[white,opacity=.6,line width=.6pt,dashed] (78,30) -- ++(12,12);
+\fill[white] (90,42) circle (.9);

@@ -1,0 +1,234 @@
+% Gemaakt door tools/bouw_bundel.py: niet met de hand aanpassen, maar het sjabloon in tools/bundel/.
+\documentclass[11pt,twoside]{book}
+\usepackage{stijl}
+\input{paginas}
+\newcommand\VakNaam{<<VAK>> <<NIVEAU>>}
+\newcommand\ExamenDuur{<<DUUR>>}
+\newcommand\ExamenHulp{<<HULP>>}
+\renewcommand\ExamenTab{<<EXAMENTAB>>}
+\newif\ifformulekaart\formulekaart<<FORMULEKAART>>
+\ifformulekaart\def\FormuleRij{Formules & blz.~\pageref{formulekaart} \\[3pt]}\else\def\FormuleRij{}\fi
+\hypersetup{pdftitle={Eindexamen oefenen: <<VAK>> <<NIVEAU>>},pdfauthor={<<SAMENSTELLER>>},
+  pdfsubject={Centrale examens <<VAK>> <<NIVEAU>> <<JAREN>> per onderwerp, met de officiele uitwerkingen}}
+
+\begin{document}
+\pagestyle{fancy}
+
+% =================== omslag ===================
+\thispagestyle{leeg}
+\pdfbookmark[-1]{Omslag}{omslag}
+\begin{tikzpicture}[remember picture,overlay]
+  \definecolor{omslag}{HTML}{12313B}
+  \fill[omslag] (current page.south west) rectangle (current page.north east);
+  % ruitjes
+  \begin{scope}[shift={(current page.south west)}]
+    \begin{scope}[white,opacity=.07,line width=.4pt]
+      \foreach \i in {0,...,42} {\draw (0,\i*5mm) -- (148mm,\i*5mm);}
+      \foreach \i in {0,...,29} {\draw (\i*5mm,0) -- (\i*5mm,210mm);}
+    \end{scope}
+    % motief per vak (tools/bundel/omslag/<familie>.tex): lijntekeningen, geen foto's
+    \begin{scope}[shift={(20mm,128mm)},x=1mm,y=1mm]
+      \input{omslag}
+    \end{scope}
+  \end{scope}
+  % tabs aan de rand in de kleuren van de hoofdstukken
+  \foreach \k/\c in {<<OMSLAGTABS>>} {
+    \fill[\c] ($(current page.north east)+(-4.2mm,-24mm-\k*25mm+25mm)$) rectangle ++(6mm,-21mm);}
+  \node[anchor=north west,text=white,font=\sffamily\halfvet\footnotesize] at ($(current page.north west)+(14mm,-14mm)$)
+    {\addfontfeature{LetterSpace=12}EINDEXAMEN OEFENEN};
+  \node[anchor=north west,text=white,align=left] at ($(current page.north west)+(13mm,-96mm)$)
+    {{\sffamily\zwart\fontsize{44}{44}\selectfont <<VAK>>}\\[3mm]
+     {\sffamily\licht\fontsize{44}{44}\selectfont\color{kleur2!45!white}<<NIVEAU>>}};
+  \node[anchor=north west,text=white,align=left,text width=112mm] at ($(current page.north west)+(14mm,-140mm)$)
+    {\sffamily\fontsize{11.5}{15}\selectfont\hyphenpenalty=10000\raggedright Examenopgaven per onderwerp, complete examens en de offici\"ele uitwerkingen};
+  \node[anchor=south west,text=white,align=left] at ($(current page.south west)+(14mm,24mm)$)
+    {\sffamily\begin{tabular}{@{}l@{\hspace{9mm}}l@{\hspace{9mm}}l@{}}
+      {\zwart\fontsize{17}{18}\selectfont <<NOPG>>} & {\zwart\fontsize{17}{18}\selectfont <<NEX>>} & {\zwart\fontsize{17}{18}\selectfont <<JAREN>>}\\[1mm]
+      {\footnotesize opgaven per onderwerp} & {\footnotesize complete examens} & {\footnotesize examenjaren}
+    \end{tabular}};
+  \fill[white,opacity=.12] (current page.south west) rectangle ($(current page.south east)+(0,12mm)$);
+  \node[anchor=west,text=white,font=\sffamily\scriptsize] at ($(current page.south west)+(14mm,6mm)$) {Gratis uitgave \textbullet\ niet voor verkoop};
+  \node[anchor=east,text=white,font=\sffamily\scriptsize] at ($(current page.south east)+(-14mm,6mm)$) {<<SAMENSTELLER>>};
+\end{tikzpicture}
+\clearpage
+\thispagestyle{leeg}\mbox{}\clearpage
+
+% =================== titelpagina ===================
+\thispagestyle{leeg}
+\vspace*{30mm}
+{\sffamily\halfvet\footnotesize\color{kleur1}\addfontfeature{LetterSpace=12}EINDEXAMEN OEFENEN}\par\vskip 6mm
+{\sffamily\zwart\fontsize{30}{32}\selectfont <<VAK>>\\[1mm]\licht <<NIVEAU>>}\par\vskip 8mm
+{\large Opgaven uit de centrale examens <<JAREN>>, per onderwerp\\ met <<NEX>> complete examens en de offici\"ele uitwerkingen\par}
+\vfill
+{\sffamily\small Samengesteld door <<SAMENSTELLER>>\par}
+\vskip 4mm
+{\sffamily\scriptsize\color{grijs}Met examens en correctievoorschriften van het College voor Toetsen en Examens\par}
+\clearpage
+
+% =================== colofon ===================
+\thispagestyle{leeg}
+\vspace*{\fill}
+{\footnotesize\opmaakproza
+{\sffamily\bfseries Eindexamen oefenen: <<VAK>> <<NIVEAU>>}\\
+Uitgave van <<DATUM>>.
+
+\textbf{Bron.} De examenopgaven, figuren en uitwerkingen in dit boek komen uit de centrale examens en
+correctievoorschriften van het College voor Toetsen en Examens (CvTE), gepubliceerd op examenblad.nl.
+\textcopyright\ Staat der Nederlanden. Hergebruik is toegestaan met bronvermelding
+(examenblad.nl, onder \emph{Over Examenblad}, \emph{Copyright}). De oorspronkelijke bron van elke opgave staat erbij;
+de bronnen van foto's en figuren staan achterin (blz.~\pageref{bronnen}). Aanvullingen en errata van het CvTE zijn verwerkt.
+
+\textbf{Niet van het CvTE.} Dit boek is niet gemaakt door of in opdracht van het CvTE. De indeling naar onderwerp,
+de uitleg en de opmaak zijn van de samensteller. Heb je een fout gevonden? Laat het de samensteller weten.
+
+\textbf{Gratis.} Dit boek is gratis en mag vrij worden gedeeld en geprint, maar niet worden verkocht.
+
+\textbf{Lettertypes.} Source Serif 4 en Source Sans 3 (Adobe, SIL Open Font License). Gezet met Lua\LaTeX.\par}
+\clearpage
+
+% =================== inhoud ===================
+\renewcommand\kopL{Inhoud}\renewcommand\kopR{Inhoud}
+\phantomsection\label{inhoud}\pdfbookmark[-1]{Inhoud}{inhoud}
+{\sffamily\zwart\fontsize{19}{22}\selectfont Inhoud}\par\vskip 8pt
+\Inhoud{inhoud}
+\clearpage
+
+% =================== zo werk je met dit boek ===================
+\renewcommand\kopL{Voorwerk}\renewcommand\kopR{Zo werk je met dit boek}
+\phantomsection\label{uitleg}\pdfbookmark[-1]{Zo werk je met dit boek}{uitleg}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Zo werk je met dit boek}\par\vskip 6pt
+{\opmaakproza\small
+Dit boek bevat echte examenopgaven <<VAK>> <<NIVEAU>> uit de centrale examens van <<JAREN>>,
+precies zoals ze op het examen stonden.
+
+\textbf{Deel 1: oefenen per onderwerp.} <<NOPG>> opgaven uit <<NEXAMENS>> examens, ingedeeld naar de domeinen van de
+syllabus. Elke opgave staat bij het onderwerp waar de meeste punten over gaan. Begin bij een onderwerp dat je
+lastig vindt, of werk de hoofdstukken op volgorde door.
+
+\textbf{Deel 2: complete examens.} De <<NEX>> nieuwste examens in hun geheel. Maak ze aan het eind van je voorbereiding,
+in \'e\'en keer en met de klok erbij.
+
+\textbf{Uitwerkingen.} Achterin staat bij elke vraag het beoordelingsmodel uit het offici\"ele correctievoorschrift:
+de stappen (met \textbullet) en rechts hoeveel punten elke stap oplevert. Zo kijk je je werk na zoals een docent dat doet.
+Een andere aanpak dan het model is ook goed als die <<VAKWOORD>> klopt; vaak staan er meerdere antwoordalternatieven.
+Een \textcolor{kleur2}{\sffamily\scriptsize\bfseries AANVULLING} is een latere correctie van het CvTE.
+
+\begin{tikzpicture}[x=1mm,y=1mm,font=\sffamily\scriptsize]
+  \fill[papier] (0,0) rectangle (112,25);
+  \node[anchor=north east,align=right,inner sep=0] at (14,21) {{\bfseries\fontsize{10.5}{11}\selectfont\color{kleur1}7}\\[-.5pt]{\fontsize{7}{8}\selectfont\color{grijs}4p}};
+  \draw[grijs!60] (17,21.5) -- (17,13);
+  \node[anchor=north west,text width=88mm,align=left,inner sep=0] at (20,21.5) {Het nummer van de vraag en het aantal punten (4p). In deel 1 begint de nummering bij elk onderwerp opnieuw, in deel 2 zijn het de nummers uit het examen. In de uitwerkingen staat hetzelfde nummer.};
+  \node[anchor=north west,inner sep=0] at (3,9) {\colorbox{kleur1}{\color{white}\bfseries\fontsize{7.5}{9}\selectfont\strut 2.5}};
+  \node[anchor=north west,text width=88mm,align=left,inner sep=0] at (20,9.2) {Opgave 5 van hoofdstuk 2. Rechts van de titel: uit welk examen de opgave komt.};
+\end{tikzpicture}
+
+\textbf{Tabs.} De gekleurde tabs aan de rand van de bladzijden laten zien in welk hoofdstuk je bent; de uitwerkingen
+van een hoofdstuk hebben dezelfde kleur en dezelfde plek.
+
+\textbf{Afwijkingen.} Opgaven en figuren zijn verkleind tot A5; de tekst is ongeveer 10 punt.
+Waar in een vraag een uitwerkbijlage wordt genoemd, staat die direct onder de vraag.\par}
+\clearpage
+
+% =================== het examen en je cijfer ===================
+\renewcommand\kopR{Het examen en je cijfer}
+\phantomsection\label{cijfer}\pdfbookmark[-1]{Het examen en je cijfer}{cijfer}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Het examen en je cijfer}\par\vskip 6pt
+{\opmaakproza\small
+Het centraal examen <<VAK>> <<NIVEAU>> duurt <<DUUR>>. Het bestaat uit ongeveer <<GEMVR>> vragen, verdeeld over
+enkele opgaven, en je kunt er ongeveer <<GEMPT>> punten mee halen. Bij elke vraag staat hoeveel punten hij waard is.
+Hulpmiddelen: <<HULP>>
+
+\textbf{Van score naar cijfer.} Na het examen bepaalt het CvTE de normering (de N-term) en publiceert die op examenblad.nl. Je cijfer is
+\[ \text{cijfer} = 9{,}0 \times \frac{\text{jouw score}}{\text{maximale score}} + N \]
+met $N$ tussen 0,0 en 2,0; <<NTERM>>. Met $N=1$ heb je dus
+ongeveer de helft van de punten nodig voor een 5,5. Bij een hoge of lage $N$ gelden nog extra regels, zodat
+een score van 0 altijd een 1,0 en de maximale score altijd een 10 oplevert.
+
+\textbf{Slagen.} Je eindcijfer voor het vak is het gemiddelde van je schoolexamencijfer en je cijfer voor het centraal examen.
+Om te slagen moet onder meer het gemiddelde van al je centraal-examencijfers minstens een 5,5 zijn.
+
+\textbf{Je tijd verdelen.} <<DUUR>> voor ongeveer <<GEMPT>> punten is <<MINPUNT>> minuten per punt. Een vraag van 4 punten mag dus
+zo'n <<MIN4>> minuten kosten. Kom je er niet uit, sla de vraag dan over en kom er aan het eind op terug.
+
+\textbf{Nakijken.} Hoe correctoren de punten geven, staat bij de uitwerkingen (blz.~\pageref{nakijken}).\par}
+\clearpage
+
+% =================== tips ===================
+\renewcommand\kopR{Tips voor het examen}
+\phantomsection\label{tips}\pdfbookmark[-1]{Tips voor het examen}{tips}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Tips voor het examen}\par\vskip 6pt
+\input{tips}
+\clearpage
+
+\ifformulekaart
+% =================== formulekaart ===================
+\renewcommand\kopR{Formulekaart}
+\phantomsection\label{formulekaart}\pdfbookmark[-1]{Formulekaart}{formulekaart}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Formulekaart}\par\vskip 4pt
+{\small Deze formules staan voorin elk examen. Je mag ze tijdens het examen gebruiken.\par}\vskip 8pt
+\input{formulekaart}
+\clearpage
+\fi
+
+% =================== deel 1 ===================
+\Deel{1}{Oefenen per onderwerp}{<<NOPG>> opgaven uit de centrale examens, ingedeeld naar de domeinen van de syllabus. De uitwerkingen staan achterin.}{kleur1}
+\input{deel1}
+
+% =================== deel 2 ===================
+\Deel{2}{Complete examens}{De <<NEX>> nieuwste centrale examens <<VAK>> <<NIVEAU>>, zoals ze zijn afgenomen. Maak ze in \'e\'en keer, in <<DUUR>>.}{kleurex}
+\input{deel2}
+
+% =================== uitwerkingen ===================
+\Deel{3}{Uitwerkingen}{Bij elke vraag het beoordelingsmodel uit het offici\"ele correctievoorschrift van het CvTE, met de aanvullingen die later zijn gepubliceerd.}{kleur6}
+\renewcommand\Tab{0}\renewcommand\kopL{Uitwerkingen}\renewcommand\kopR{Zo wordt er nagekeken}
+\phantomsection\label{nakijken}\pdfbookmark[0]{Zo wordt er nagekeken}{nakijken}
+{\sffamily\zwart\fontsize{15}{18}\selectfont Zo wordt er nagekeken}\par\vskip 5pt
+{\opmaakproza\small Correctoren volgen het beoordelingsmodel: elke stap met een \textbullet\ levert de punten op die
+erachter staan. Daarnaast gelden algemene regels: een fout wordt in een vraag maar \'e\'en keer aangerekend, en als je
+meer antwoorden geeft dan gevraagd, telt alleen het eerste. Voor <<VAK>> gelden bovendien deze regels uit het
+correctievoorschrift van het nieuwste examen:\par}
+\vskip 6pt
+\input{regels}
+\clearpage
+\input{antw1}
+\clearpage
+\input{antw2}
+
+% =================== nawerk ===================
+\clearpage
+\colorlet{hs}{kleur6}\renewcommand\Tab{0}\renewcommand\kopL{Overzicht}\renewcommand\kopR{Overzicht per examen}
+\phantomsection\label{register}\pdfbookmark[-1]{Overzicht per examen}{register}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Overzicht per examen}\par\vskip 4pt
+{\small Waar elke opgave in dit boek staat, per examen. Zo kun je ook een heel examen uit deel 1 maken.\par}
+\input{register}
+\clearpage
+\renewcommand\kopL{Bronnen}\renewcommand\kopR{Bronvermelding}
+\phantomsection\label{bronnen}\pdfbookmark[-1]{Bronvermelding}{bronnen}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Bronvermelding}\par\vskip 4pt
+{\small Alle examenopgaven en uitwerkingen: College voor Toetsen en Examens (CvTE), examenblad.nl, \textcopyright\ Staat der Nederlanden.
+Hieronder per examen de bronnen van de figuren en foto's, zoals vermeld in het correctievoorschrift, en de originele documenten.\par}
+\input{bronnen}
+
+% =================== achterkant ===================
+\clearpage
+\ifodd\value{page}\thispagestyle{leeg}\mbox{}\clearpage\fi
+\thispagestyle{leeg}
+\pdfbookmark[-1]{Achterkant}{achterkant}
+\begin{tikzpicture}[remember picture,overlay]
+  \definecolor{omslag}{HTML}{12313B}
+  \fill[omslag] (current page.south west) rectangle (current page.north east);
+  \begin{scope}[shift={(current page.south west)}]
+    \begin{scope}[white,opacity=.07,line width=.4pt]
+      \foreach \i in {0,...,42} {\draw (0,\i*5mm) -- (148mm,\i*5mm);}
+      \foreach \i in {0,...,29} {\draw (\i*5mm,0) -- (\i*5mm,210mm);}
+    \end{scope}
+  \end{scope}
+  \node[anchor=north west,text=white,align=left,text width=112mm] at ($(current page.north west)+(18mm,-30mm)$)
+    {{\sffamily\zwart\fontsize{17}{21}\selectfont Oefenen met echte examens}\\[5mm]
+     {\fontsize{10.5}{15}\selectfont Dit boek bevat <<NVR>> vragen uit de centrale examens <<VAK>> <<NIVEAU>> van <<JAREN>>,
+      ingedeeld naar onderwerp, plus <<NEX>> complete examens. Bij elke vraag staat het offici\"ele beoordelingsmodel van
+      het College voor Toetsen en Examens, zodat je je werk precies zo kunt nakijken als op het examen.\\[4mm]
+      De examens zijn openbaar en van iedereen. Daarom is dit boek gratis.}};
+  \node[anchor=south west,text=white,font=\sffamily\scriptsize] at ($(current page.south west)+(18mm,14mm)$) {<<SAMENSTELLER>>};
+\end{tikzpicture}
+\end{document}

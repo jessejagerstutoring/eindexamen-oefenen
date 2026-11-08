@@ -147,6 +147,7 @@ class Beelden:
 
     def __init__(self, pdf, tmp):
         self.pdf, self.tmp, self.cache = pdf, tmp, {}
+        self.breedte = float(re.search(r'Page size:\s+([\d.]+)', subprocess.run(['pdfinfo', str(pdf)], capture_output=True, text=True).stdout).group(1))
 
     def pagina(self, p):
         if p not in self.cache:
@@ -243,6 +244,61 @@ def titel_boven(pags, pos, eind, titels):
     return eind
 
 
+def posities(ex, vragen, tmp):
+    """Snijlijnen per vraag, zonder beelden te maken.
+
+    Geeft ({nr: {'stuk': [(p, y0, y1)], 'nieuw': bool, 'vraag': (p, y0, y1), 'antwoord': [(p, y0, y1)]}},
+    meldingen, Beelden van de opgaven, Beelden van het correctievoorschrift of None)."""
+    meld, uit = [], {}
+    pdf = BRON / ex['opgaven']['pdf']
+    pags = regels(pdf)
+    breedte = pags[0][1]
+    pos = vragen_opgaven(pags)
+    beeld = Beelden(pdf, tmp)
+    vorige_titel, vorige_eind, laatste = None, None, (1, 0)
+    for v in vragen:
+        n = v['vraag']
+        if n not in pos:
+            meld.append(f'vraag {n} niet gevonden in de opgaven')
+            continue
+        p, y0, y1 = pos[n]
+        nieuw = v['opgave'] != vorige_titel
+        if nieuw:
+            t = zoek_titel(pags, v['opgave'], laatste)
+            if t and t <= (p, y0):
+                begin = t
+            else:
+                meld.append(f'titel van opgave "{v["opgave"]}" niet gevonden (vraag {n})')
+                begin = vorige_eind or (p, 34)
+        else:
+            begin = vorige_eind
+        eind = (p, einde_na(pags, p, y1))
+        if eind[1] < voet(pags[p - 1]):
+            eind = (p, beeld.witste(p, eind[1], 40, breedte - 30))
+        uit[n] = {'stuk': stukken(pags, begin, eind), 'nieuw': nieuw, 'vraag': pos[n]}
+        # een figuurlabel naast de laatste regel van de vraag hoort bij het volgende stuk
+        labels = [r[1] for r in pags[p - 1][3] if y0 < r[1] < eind[1] and r[0] >= 300 and re.match(r'(figuur|tabel|foto)\s*\d', r[4], re.I)]
+        vorige_titel, vorige_eind, laatste = v['opgave'], (p, min([eind[1]] + [l - 4 for l in labels])), (p, y1)
+    cbeeld = None
+    if 'correctievoorschrift' in ex:
+        pdf = BRON / ex['correctievoorschrift']['pdf']
+        cpags = regels(pdf)
+        ab = antwoorden(cpags)
+        titels = {norm(v['opgave']) for v in vragen if v['opgave']}
+        cbeeld = Beelden(pdf, tmp)
+        for v in vragen:
+            n = v['vraag']
+            if n not in ab:
+                meld.append(f'antwoord {n} niet gevonden')
+                continue
+            start, eind = ab[n]
+            eind = titel_boven(cpags, start, eind, titels)
+            if eind[1] == 9999:
+                eind = (start[0], voet(cpags[start[0] - 1]))
+            uit.setdefault(n, {})['antwoord'] = stukken(cpags, start, eind, boven=64)
+    return uit, meld, beeld, cbeeld
+
+
 def main():
     # vaknamen (zoals natuurkunde-havo) of losse examencodes (zoals ha-1023-a-25-1, om te testen)
     vakken = [a for a in sys.argv[1:] if not re.match(r'[a-z]{2}-\d{4}-', a)] or VAKKEN
@@ -260,58 +316,18 @@ def main():
             vragen = [v for v in bank if v['id'].startswith(code + ':')]
             if not vragen or 'opgaven' not in ex or (alleen and code not in alleen):
                 continue
-            meld = []
-            # ---------- opgaven ----------
-            pdf = BRON / ex['opgaven']['pdf']
-            pags = regels(pdf)
-            breedte = pags[0][1]
-            pos = vragen_opgaven(pags)
-            beeld = Beelden(pdf, tmp)
-            vorige_titel, vorige_eind, laatste = None, None, (1, 0)
+            pos, meld, beeld, cbeeld = posities(ex, vragen, tmp)
             for v in vragen:
                 n = v['vraag']
-                if n not in pos:
-                    meld.append(f'vraag {n} niet gevonden in de opgaven')
-                    continue
-                p, y0, y1 = pos[n]
-                nieuw = v['opgave'] != vorige_titel
-                if nieuw:
-                    t = zoek_titel(pags, v['opgave'], laatste)
-                    if t and t <= (p, y0):
-                        begin = t
-                    else:
-                        meld.append(f'titel van opgave "{v["opgave"]}" niet gevonden (vraag {n})')
-                        begin = vorige_eind or (p, 34)
-                else:
-                    begin = vorige_eind
-                eind = (p, einde_na(pags, p, y1))
-                if eind[1] < voet(pags[p - 1]):
-                    eind = (p, beeld.witste(p, eind[1], 40, breedte - 30))
-                delen = stukken(pags, begin, eind)
-                maat = beeld.snij(delen, 40, breedte - 30, UIT / code / f's{n}.webp')
-                resultaat.setdefault(code, {})[str(n)] = {'stuk': f'img/{code}/s{n}.webp', 'maat': maat, 'nieuweOpgave': nieuw}
-                # een figuurlabel naast de laatste regel van de vraag hoort bij het volgende stuk
-                labels = [r[1] for r in pags[p - 1][3] if y0 < r[1] < eind[1] and r[0] >= 300 and re.match(r'(figuur|tabel|foto)\s*\d', r[4], re.I)]
-                vorige_titel, vorige_eind, laatste = v['opgave'], (p, min([eind[1]] + [l - 4 for l in labels])), (p, y1)
-            # ---------- correctievoorschrift ----------
-            if 'correctievoorschrift' in ex:
-                pdf = BRON / ex['correctievoorschrift']['pdf']
-                cpags = regels(pdf)
-                ab = antwoorden(cpags)
-                titels = {norm(v['opgave']) for v in vragen if v['opgave']}
-                cbeeld = Beelden(pdf, tmp)
+                if 'stuk' in pos.get(n, {}):
+                    maat = beeld.snij(pos[n]['stuk'], 40, beeld.breedte - 30, UIT / code / f's{n}.webp')
+                    resultaat.setdefault(code, {})[str(n)] = {'stuk': f'img/{code}/s{n}.webp', 'maat': maat, 'nieuweOpgave': pos[n]['nieuw']}
+            if cbeeld:
                 for v in vragen:
                     n = v['vraag']
-                    if n not in ab:
-                        meld.append(f'antwoord {n} niet gevonden')
-                        continue
-                    start, eind = ab[n]
-                    eind = titel_boven(cpags, start, eind, titels)
-                    if eind[1] == 9999:
-                        eind = (start[0], voet(cpags[start[0] - 1]))
-                    delen = stukken(cpags, start, eind, boven=64)
-                    maat = cbeeld.snij(delen, 40, cpags[0][1] - 30, UIT / code / f'a{n}.webp')
-                    resultaat.setdefault(code, {}).setdefault(str(n), {}).update({'antwoord': f'img/{code}/a{n}.webp', 'antwoordMaat': maat})
+                    if 'antwoord' in pos.get(n, {}):
+                        maat = cbeeld.snij(pos[n]['antwoord'], 40, cbeeld.breedte - 30, UIT / code / f'a{n}.webp')
+                        resultaat.setdefault(code, {}).setdefault(str(n), {}).update({'antwoord': f'img/{code}/a{n}.webp', 'antwoordMaat': maat})
             resultaat.setdefault(code, {})['_meldingen'] = meld
             print(code, len(vragen), 'vragen', ('· ' + '; '.join(meld)) if meld else '', flush=True)
             uitvoer_pad.write_text(json.dumps(resultaat, ensure_ascii=False, indent=1))
