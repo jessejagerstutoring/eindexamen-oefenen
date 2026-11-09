@@ -14,7 +14,7 @@ examenjaren 2018 t/m 2026 (2020 had geen centrale examens). Samen ruim 4700 vrag
 
 | Map | Inhoud |
 |---|---|
-| `docs/` | De site (statisch, GitHub Pages): `index.html`, `app.js`, `app.css`, `data/*.json`, `img/<examen>/`, `fonts/` (lettertypes zelf gehost, SIL OFL), `og.png` (deelafbeelding) |
+| `docs/` | De site (statisch, GitHub Pages): `index.html`, `app.js`, `app.css`, `data/*.json`, `img/<examen>/`, `fonts/` (Literata voor koppen en Source Sans 3 voor tekst, zelf gehost, SIL OFL), `og.png` (deelafbeelding) |
 | `tools/haal_op.py` | Haalt opgaven, correctievoorschriften en uitwerkbijlagen op van examenblad.nl |
 | `tools/bouw_databank.py` | Leest de teksten in: per vraag opgave, nummer, punten, vraagtekst en antwoordmodel |
 | `tools/snij.py` | Snijdt per vraag het stuk van de opgave en het antwoordmodel uit de pdf (WebP-beelden) |
