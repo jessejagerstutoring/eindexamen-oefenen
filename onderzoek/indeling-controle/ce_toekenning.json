@@ -1,0 +1,1252 @@
+{
+ "wiskunde-a-havo": [
+  {
+   "regel": "A Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B Algebra en | B1: Rekenen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "tellen | B2: Algebra",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B3: Telproblemen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C Verbanden | C1: Tabellen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C2: Grafieken, vergelijkingen en ongelijkheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C3: Formules met één of meer variabelen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C4: Lineaire verbanden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C5: Exponentiële verbanden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D Verandering",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E Statistiek | E1: Presentaties van data interpreteren en",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E2: Data verwerken",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E3: Data en verdelingen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E4: Statistische uitspraken doen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E5: Statistiek met ICT",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ],
+ "wiskunde-b-havo": [],
+ "wiskunde-a-vwo": [
+  {
+   "regel": "A Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B Algebra en tellen | B1: Algebra",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B2: Telproblemen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C Verbanden | C1: Standaardfuncties",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C2: Functies, grafieken, vergelijkingen en ongelijkheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D Verandering | D1: Rijen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D2: Helling",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D3: Afgeleide",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E Statistiek en | E1: Probleemstelling en onderzoeksontwerp",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "kansrekening | E2: Visualisatie van data",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E3: Kwantificering",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E4: Kansbegrip",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E5: Kansverdelingen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E6: Verklarende statistiek",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E7: Statistiek met ICT",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F Keuzeonderwerpen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ],
+ "wiskunde-b-vwo": [
+  {
+   "regel": "A Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B Functies, grafieken en",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C Differentiaal- en",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D Goniometrische functies",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E Meetkunde met coördinaten | E1: Meetkundige",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E2: Algebraïsche methoden in",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E3: Vectoren en inproduct",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E4: Toepassingen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F Keuzeonderwerpen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ],
+ "wiskunde-c-vwo": [],
+ "natuurkunde-havo": [
+  {
+   "regel": "A | Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B | Beeld- en geluidstechniek | B1 | Informatieoverdracht",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B2 | Medische beeldvorming",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B3* | Optica",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "C | Beweging en energie | C1 | Kracht en beweging",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C2 | Energieomzettingen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D | Materialen | D1 | Eigenschappen van stoffen en materialen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D2 | Functionele materialen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E | Aarde en heelal | E1 | Zonnestelsel en heelal",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E2* | Aarde en klimaat",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "F* | Menselijk lichaam",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "G | Meten en regelen | G1 | Gebruik van elektriciteit",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G2* | Technische automatisering",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "H | Natuurkunde en technologie",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "I | Onderzoek en ontwerp | I1 | Experiment",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "I2 | Modelstudie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "I3 | Ontwerp",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "*",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  }
+ ],
+ "natuurkunde-vwo": [
+  {
+   "regel": "A | Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B | Golven | B1 | Informatieoverdracht",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B2 | Medische beeldvorming",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C | Beweging en wisselwerking | C1 | Kracht en beweging",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C2 | Energie en wisselwerking",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C3 | Gravitatie",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D | Lading en veld | D1 | Elektrische systemen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D2 | Elektrische en magnetische velden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E | Straling en materie | E1 | Eigenschappen van stoffen en materialen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E2 | Elektromagnetische straling en materie",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E3* | Kern- en deeltjesprocessen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "F | Quantumwereld en | F1 | Quantumwereld",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F2* | Relativiteitstheorie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "G | Leven en aarde | G1* | Biofysica",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "G2* | Geofysica",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  },
+  {
+   "regel": "H | Natuurwetten en modellen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "I | Onderzoek en ontwerp | I1 | Experiment",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "I2 | Modelstudie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "I3 | Ontwerp",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "*",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": true
+  }
+ ],
+ "scheikunde-havo": [
+  {
+   "regel": "A | Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B | Kennis van stoffen en | B1 | Deeltjesmodellen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B2 | Eigenschappen en modellen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B3 | Bindingen en eigenschappen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B4 | Bindingen, structuren en eigenschappen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B5 | Macroscopische eigenschappen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C | Kennis van chemische | C1 | Chemische processen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C2 | Chemisch rekenen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C3 | Energieberekeningen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C4 | Chemisch evenwicht",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C5 | Technologische aspecten",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C6 | Reactiekinetiek",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C7 | Behoudswetten en kringlopen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C8 | Classificatie van reacties",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D | Ontwerpen en | D1 | Chemische vakmethodes",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D2 | Veiligheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D3 | Chemische procesontwerpen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D4 | Molecular modelling",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E | Innovatieve ontwikkelingen | E1 | Kenmerken van innovatieve processen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E2 | Duurzaamheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E3 | Innovatieve processen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F | Processen in de chemische | F1 | Industriële processen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F2 | Procestechnologie en duurzaamheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F3 | Energieomzettingen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F4 | Risico en veiligheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F5 | Kwaliteit en gezondheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G | Maatschappij en chemische | G1 | Chemie van het leven",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G2 | Milieueisen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G3 | Duurzame chemische technologie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G4 | Groene chemie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G5 | Ketenanalyse",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ],
+ "scheikunde-vwo": [
+  {
+   "regel": "A | Vaardigheden",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B | Stoffen en materialen in de | B1 | Deeltjesmodellen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B2 | Eigenschappen en modellen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B3 | Bindingen en eigenschappen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "B4",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C | Chemische processen en | C1 | Chemische processen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C2 | Chemisch rekenen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C3 | Behoudswetten en kringlopen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C4 | Reactiekinetiek",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C5 | Chemisch evenwicht",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C6 | Energieberekeningen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C7 | Classificatie van reacties",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C8 | Technologische aspecten",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C9 | Kwaliteit van energie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "C10 Activeringsenergie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D | Ontwikkelen van chemische | D1 | Chemische vakmethodes",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D2 | Veiligheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D3 | Chemische synthese",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "D4 | Molecular modelling",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E | E1 | Chemisch onderzoek",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "Innovatie en chemisch | E2 | Selectiviteit en specificiteit",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E3 | Duurzaamheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E4 | Nieuwe materialen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "E5 | Onderzoek en ontwerp",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F | Industriële (chemische) | F1 | Industriële processen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F2 | Groene chemie",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F3 | Energieomzettingen",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F4 | Risico en veiligheid",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "F5 | Duurzame productieprocessen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G | Maatschappij, chemie en | G1 | Chemie van het leven",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G2 | Milieueffectrapportage",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "G3 | Energie en industrie",
+   "ce": true,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ],
+ "biologie-havo": [
+  {
+   "regel": "A | Vaardigheden | A1 | Informatievaardigheden",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A2 | Communiceren",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A3 | Reflecteren op leren",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A4 | Studie en beroep",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A5 | Onderzoeken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A6 | Ontwerpen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A7 | Modelvorming",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A8 | Natuurwetenschappelijk instrumenta-",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A9 | Waarderen en oordelen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A10 | Beleven",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A11 | Vorm-functie denken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A12 | Ecologisch denken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A13 | Evolutionair denken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A14 | Systeemdenken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A15 | Contexten",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A16 | Kennisontwikkeling en",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M | Molecuul- en | M1 | B1 | Eiwitsynthese",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M2 | B2 | Stofwisseling van de cel | M2.1 Homeostase",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M3 | C1 | Zelforganisatie van cellen | M3.1 Genexpressie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M4 | D1 | Moleculaire interactie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M5 | E1 | DNA-replicatie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M6 | E2 | Levenscyclus van de cel",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M7 | E4 | Erfelijke eigenschap | M7.1 Erfelijke",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M8 | F1 | Selectie | M8.1 DNA",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O | Orgaan- en | O1 | B3 | Stofwisseling van het organisme | O1.1 Orgaan",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O2 | B4 | Zelfregulatie van het organisme | O2.1 Homeostase",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O3 | B5 | Afweer van het organisme | O3.1 Afweer",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O4 | B6 | Beweging van het organisme",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O5 | B7 | Waarneming door het organisme",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O6 | C2 | Zelforganisatie van het organisme",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O7 | D2 | Gedrag en interactie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ],
+ "biologie-vwo": [
+  {
+   "regel": "A | Vaardigheden | A1 | Informatievaardigheden",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A2 | Communiceren",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A3 | Reflecteren op leren",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A4 | Studie en beroep",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A5 | Onderzoeken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A6 | Ontwerpen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A7 | Modelvorming",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A8 | Natuurwetenschappelijk",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A9 | Waarderen en oordelen",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A10 | Beleven",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A11 | Vorm-functie denken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A12 | Ecologisch denken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A13 | Evolutionair denken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A14 | Systeemdenken",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A15 | Contexten",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "A16 | Kennisontwikkeling en",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M | Molecuul- en | M1 | B1 | Eiwitsynthese | M1.1 DNA",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M2 | B2 | Stofwisseling van de cel | M2.1 Homeostase",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M3 | C1 | Zelforganisatie van cellen | M3.1 Genexpressie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M4 | D1 | Moleculaire en | M4.1 Genregulatie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M5 | E1 | DNA-replicatie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M6 | E2 | Levenscyclus van de cel",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M7 | E3.2 | Reproductie van het organisme | M7.1 Erfelijke eigenschap",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "M8 | F1 | Selectie | M8.1 DNA",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O | Orgaan- en | O1 | B3 | Stofwisseling van het | O1.1 Orgaan",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O2 | B4 | Zelfregulatie van het organisme | O2.1 Homeostase",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O3 | B5 | Afweer van het organisme | O3.1 Afweer",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O4 | B6 | Beweging van het organisme",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O5 | B7 | Waarneming door het",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O6 | C2 | Zelforganisatie van het",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O7 | D3 | Gedrag en interactie",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O8 | D4 | Seksualiteit",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  },
+  {
+   "regel": "O9 | E3.1 | Reproductie van het organisme | O9.1 Voortplanting",
+   "ce": false,
+   "se": true,
+   "beperkte_keuze": false
+  }
+ ]
+}

@@ -190,57 +190,74 @@ VAKKEN['natuurkunde-vwo'] = {
 
 
 def scheikunde(niveau, c):
-    """Onderwerpen scheikunde; c geeft de syllabuscodes, die per niveau verschillen."""
+    """Onderwerpen scheikunde. De codes zijn de (sub)sferen uit de syllabus 2026 (M Materie, R Reacties, R&A Rekenen
+    en analyse, T Technologie en duurzaamheid, L Chemie van het leven); ze verschillen per niveau. Zie
+    onderzoek/indeling-controle/RAPPORT.md: de oude subdomeincodes C5, C7 en C8 zijn deels alleen schoolexamen."""
     return {'niveau': niveau, 'naam': 'Scheikunde', 'opmerking': BINAS, 'domeinen': [
         ('Stoffen en deeltjes', [
-            ('bouw', 'Atoombouw, bindingen en structuren', 'B1–B4', 'Ionen, roosters, polariteit, waterstofbruggen, oplosbaarheid en faseovergangen.'),
-            ('organisch', 'Koolstofverbindingen en polymeren', 'B/' + c['klas'], 'Naamgeving, structuurformules, esters, additie, condensatie en kunststoffen.'),
+            ('bouw', 'Atoombouw, bindingen en structuren', c['bouw'], 'Ionen, roosters, polariteit, waterstofbruggen, oplosbaarheid en faseovergangen.'),
+            ('organisch', 'Koolstofverbindingen en polymeren', c['organisch'], 'Naamgeving, structuurformules, esters, additie, condensatie en kunststoffen.'),
         ]),
         ('Chemische processen', [
-            ('reacties', 'Reactievergelijkingen', c['proces'], 'Reacties opstellen en kloppend maken, verbranding en neerslagreacties.'),
+            ('reacties', 'Reactievergelijkingen', c['reacties'], 'Reacties opstellen en kloppend maken, verbranding en neerslagreacties.'),
             ('rekenen', 'Chemisch rekenen', c['rekenen'], 'Mol, massa, concentratie, massapercentage, ppm en rendement.'),
             ('energie', 'Energie en reactiewarmte', c['energie'], 'Vormingswarmte, exotherm en endotherm, energiediagrammen.'),
             ('snelheid', 'Reactiesnelheid en katalyse', c['snelheid'], 'Botsende-deeltjesmodel, verdelingsgraad, temperatuur en katalysatoren.'),
-            ('evenwicht', 'Chemisch evenwicht', c['evenwicht'], 'Evenwichtsvoorwaarde, evenwichtsconstante en verschuiving.'),
-            ('zuurbase', 'Zuren en basen', c['klas'], 'pH, [H⁺] en [OH⁻], zuur-basereacties, buffers en titraties.'),
-            ('redox', 'Redoxreacties en elektrochemie', c['klas'], 'Oxidator en reductor, halfreacties, batterijen, brandstofcellen en elektrolyse.'),
+            ('evenwicht', 'Chemisch evenwicht', c.get('evenwicht', ''), 'Evenwichtsvoorwaarde, evenwichtsconstante en verschuiving.'),
+            ('zuurbase', 'Zuren en basen', c['zuurbase'], 'pH, [H⁺] en [OH⁻], zuur-basereacties, buffers en titraties.'),
+            ('redox', 'Redoxreacties en elektrochemie', c['redox'], 'Oxidator en reductor, halfreacties, batterijen, brandstofcellen en elektrolyse.'),
         ]),
         ('Chemie in de praktijk', [
-            ('analyse', 'Scheiden, analyseren en veiligheid', 'D1–D2', 'Scheidingsmethoden, chromatografie, ijklijnen en H- en P-zinnen.'),
-            ('proces', 'Industriële processen en blokschema\'s', c['technologie'], 'Blokschema\'s, stofstromen, recirculatie en procesvoering.'),
-            ('duurzaam', 'Groene chemie en duurzaamheid', 'E–G', 'Atoomeconomie, uitgangspunten van de groene chemie, broeikaseffect en kringlopen.'),
-            ('leven', 'Chemie van het leven', 'G1', 'Eiwitten, aminozuren, koolhydraten, vetten en enzymen.'),
+            ('analyse', 'Scheiden, analyseren en veiligheid', c['analyse'], 'Scheidingsmethoden, chromatografie, ijklijnen en H- en P-zinnen.'),
+            ('proces', 'Industriële processen en blokschema\'s', c['proces'], 'Blokschema\'s, stofstromen, recirculatie en procesvoering.'),
+            ('duurzaam', 'Groene chemie en duurzaamheid', c['duurzaam'], 'Atoomeconomie, uitgangspunten van de groene chemie, broeikaseffect en kringlopen.'),
+            ('leven', 'Chemie van het leven', c['leven'], 'Eiwitten, aminozuren, koolhydraten, vetten en enzymen.'),
         ]),
     ]}
 
 
-VAKKEN['scheikunde-havo'] = scheikunde('havo', {'klas': 'C8', 'proces': 'C1', 'rekenen': 'C2', 'energie': 'C3', 'evenwicht': 'C4', 'technologie': 'C5', 'snelheid': 'C6'})
-VAKKEN['scheikunde-vwo'] = scheikunde('vwo', {'klas': 'C7', 'proces': 'C1', 'rekenen': 'C2', 'energie': 'C6', 'evenwicht': 'C5', 'technologie': 'C8', 'snelheid': 'C4'})
+# evenwicht is bij havo alleen schoolexamen (C4): geen onderwerp
+VAKKEN['scheikunde-havo'] = scheikunde('havo', {'bouw': 'M1–M5', 'organisch': 'M1, R1–R2', 'reacties': 'R1', 'rekenen': 'R&A1',
+                                               'energie': 'R5', 'snelheid': 'R3', 'zuurbase': 'R1, R&A1', 'redox': 'R1',
+                                               'analyse': 'R&A2', 'proces': 'T1, R4', 'duurzaam': 'T1–T4', 'leven': 'L1'})
+VAKKEN['scheikunde-havo']['domeinen'][1][1][:] = [o for o in VAKKEN['scheikunde-havo']['domeinen'][1][1] if o[0] != 'evenwicht']
+VAKKEN['scheikunde-vwo'] = scheikunde('vwo', {'bouw': 'M1–M5', 'organisch': 'M1, R1–R2', 'reacties': 'R1', 'rekenen': 'R&A1',
+                                             'energie': 'R5', 'snelheid': 'R2–R3', 'evenwicht': 'R4', 'zuurbase': 'R1, R&A1', 'redox': 'R1',
+                                             'analyse': 'R&A2', 'proces': 'T1', 'duurzaam': 'T2–T6', 'leven': 'L1–L2'})
+
 
 def biologie(niveau):
-    """Onderwerpen biologie; havo en vwo hebben dezelfde domeinindeling."""
+    """Onderwerpen biologie, met de codes van de subdomeinen van het centraal examen. Havo en vwo verschillen: bij
+    havo zijn eiwitsynthese (B1), DNA-replicatie (E1) en voortplanting (E2, E3) alleen schoolexamen, bij vwo zitten
+    B1 en E3 wel in het CE; vwo nummert D en E anders. Zie onderzoek/indeling-controle/RAPPORT.md."""
+    havo = niveau == 'havo'
+    cel_en_erf = [
+        ('cel', 'Cellen, organellen en transport', 'B2, C1' if havo else 'B2, C1, D1–D2', 'Organellen, celmembraan, osmose, diffusie, organisatieniveaus en celdifferentiatie.'),
+        ('stofwisseling', 'Stofwisseling en enzymen', 'B2', 'Enzymen, dissimilatie, gisting, assimilatie en energie.'),
+        ('dna', 'DNA en genexpressie' if havo else 'DNA, eiwitsynthese en genexpressie', 'C1' if havo else 'B1, C1',
+         'Genen, genexpressie, mutaties en biotechnologie.' if havo else 'Transcriptie, translatie, codons, mutaties, genexpressie en biotechnologie.'),
+    ]
+    if not havo:
+        cel_en_erf.append(('voortplanting', 'Celdeling en voortplanting', 'E3', 'Meiose, bevruchting, geslachtelijke en ongeslachtelijke voortplanting.'))
+    cel_en_erf += [
+        ('erfelijkheid', 'Erfelijkheid en stambomen', 'E4' if havo else 'E3', 'Kruisingsschema\'s, dominant en recessief, X-chromosomaal en kansen.'),
+        ('evolutie', 'Evolutie, variatie en selectie', 'F1, F2', 'Natuurlijke en kunstmatige selectie, variatie, klonen, soortvorming en resistentie.'),
+    ]
     return {'niveau': niveau, 'naam': 'Biologie', 'opmerking': BINAS.replace('Binas of ScienceData', 'het informatieboek Binas of ScienceData'), 'domeinen': [
         ('Vaardigheden', [
             ('onderzoek', 'Onderzoek en experimenten', 'A5', 'Hypothese, variabelen, controlegroep, werkplan, betrouwbaarheid en conclusies.'),
         ]),
-        ('Cel en erfelijkheid', [
-            ('cel', 'Cellen, organellen en transport', 'B2, D1', 'Organellen, celmembraan, osmose, diffusie en organisatieniveaus.'),
-            ('stofwisseling', 'Stofwisseling en enzymen', 'B2', 'Enzymen, dissimilatie, gisting, assimilatie en energie.'),
-            ('dna', 'DNA, eiwitsynthese en genexpressie', 'B1, E1', 'Transcriptie, translatie, codons, mutaties, genexpressie en biotechnologie.'),
-            ('voortplanting', 'Celdeling en voortplanting', 'E2–E3', 'Mitose, meiose, differentiatie, geslachtelijke en ongeslachtelijke voortplanting.'),
-            ('erfelijkheid', 'Erfelijkheid en stambomen', 'E4', 'Kruisingsschema\'s, dominant en recessief, X-chromosomaal en kansen.'),
-            ('evolutie', 'Evolutie en biodiversiteit', 'F', 'Natuurlijke selectie, soortvorming, resistentie, stambomen en naamgeving.'),
-        ]),
+        ('Cel en erfelijkheid', cel_en_erf),
         ('Het menselijk lichaam', [
             ('vertering', 'Voeding en vertering', 'B3', 'Spijsverteringskanaal, enzymen, resorptie, lever en voedingsstoffen.'),
             ('transport', 'Ademhaling, bloedsomloop en uitscheiding', 'B3', 'Longen, hart, bloedvaten, bloed en nieren.'),
             ('regeling', 'Hormonen en homeostase', 'B4', 'Hormoonklieren, terugkoppeling, glucoseregulatie, ADH en de menstruatiecyclus.'),
-            ('zenuw', 'Zenuwstelsel, zintuigen en spieren', 'B6–B7', 'Zenuwcellen, synaps, reflexen, hersenen, oog en het autonome zenuwstelsel.'),
+            ('zenuw', 'Zenuwstelsel en reflexen', 'B4', 'Neurale regulatie: zenuwcellen, synaps, reflexen, hersenen en het autonome zenuwstelsel.'),
             ('afweer', 'Afweer en bloedgroepen', 'B5', 'Aspecifieke en specifieke afweer, vaccinatie, immuniteit en bloedgroepen.'),
         ]),
         ('Planten en ecologie', [
             ('plant', 'Planten', 'B3, B8', 'Fotosynthese, hout- en bastvaten, huidmondjes, wortels en beperkende factoren.'),
-            ('ecologie', 'Ecosystemen, kringlopen en gedrag', 'B8, D2, D4', 'Voedselwebben, energiestroom, relaties, populaties, stikstofkringloop, exoten, duurzaamheid en gedrag.'),
+            ('ecologie', 'Ecosystemen en kringlopen', 'B8, D4' if havo else 'B8, C3, D5', 'Voedselwebben, energiestroom, relaties tussen soorten, populaties, stikstofkringloop, exoten en duurzaamheid.'),
         ]),
     ]}
 

@@ -3,7 +3,7 @@
   "havo": "Havo",
   "vwo": "Vwo"
  },
- "bijgewerkt": "2026-11-05",
+ "bijgewerkt": "2026-11-09",
  "vakken": {
   "wiskunde-a-havo": {
    "niveau": "havo",
@@ -1527,7 +1527,7 @@
       {
        "id": "bouw",
        "naam": "Atoombouw, bindingen en structuren",
-       "code": "B1–B4",
+       "code": "M1–M5",
        "omschrijving": "Ionen, roosters, polariteit, waterstofbruggen, oplosbaarheid en faseovergangen.",
        "vragen": 94,
        "punten": 193
@@ -1535,7 +1535,7 @@
       {
        "id": "organisch",
        "naam": "Koolstofverbindingen en polymeren",
-       "code": "B/C8",
+       "code": "M1, R1–R2",
        "omschrijving": "Naamgeving, structuurformules, esters, additie, condensatie en kunststoffen.",
        "vragen": 84,
        "punten": 180
@@ -1548,7 +1548,7 @@
       {
        "id": "reacties",
        "naam": "Reactievergelijkingen",
-       "code": "C1",
+       "code": "R1",
        "omschrijving": "Reacties opstellen en kloppend maken, verbranding en neerslagreacties.",
        "vragen": 29,
        "punten": 76
@@ -1556,7 +1556,7 @@
       {
        "id": "rekenen",
        "naam": "Chemisch rekenen",
-       "code": "C2",
+       "code": "R&A1",
        "omschrijving": "Mol, massa, concentratie, massapercentage, ppm en rendement.",
        "vragen": 60,
        "punten": 180
@@ -1564,7 +1564,7 @@
       {
        "id": "energie",
        "naam": "Energie en reactiewarmte",
-       "code": "C3",
+       "code": "R5",
        "omschrijving": "Vormingswarmte, exotherm en endotherm, energiediagrammen.",
        "vragen": 27,
        "punten": 66
@@ -1572,7 +1572,7 @@
       {
        "id": "snelheid",
        "naam": "Reactiesnelheid en katalyse",
-       "code": "C6",
+       "code": "R3",
        "omschrijving": "Botsende-deeltjesmodel, verdelingsgraad, temperatuur en katalysatoren.",
        "vragen": 25,
        "punten": 56
@@ -1580,7 +1580,7 @@
       {
        "id": "zuurbase",
        "naam": "Zuren en basen",
-       "code": "C8",
+       "code": "R1, R&A1",
        "omschrijving": "pH, [H⁺] en [OH⁻], zuur-basereacties, buffers en titraties.",
        "vragen": 33,
        "punten": 66
@@ -1588,7 +1588,7 @@
       {
        "id": "redox",
        "naam": "Redoxreacties en elektrochemie",
-       "code": "C8",
+       "code": "R1",
        "omschrijving": "Oxidator en reductor, halfreacties, batterijen, brandstofcellen en elektrolyse.",
        "vragen": 57,
        "punten": 118
@@ -1601,7 +1601,7 @@
       {
        "id": "analyse",
        "naam": "Scheiden, analyseren en veiligheid",
-       "code": "D1–D2",
+       "code": "R&A2",
        "omschrijving": "Scheidingsmethoden, chromatografie, ijklijnen en H- en P-zinnen.",
        "vragen": 37,
        "punten": 66
@@ -1609,7 +1609,7 @@
       {
        "id": "proces",
        "naam": "Industriële processen en blokschema's",
-       "code": "C5",
+       "code": "T1, R4",
        "omschrijving": "Blokschema's, stofstromen, recirculatie en procesvoering.",
        "vragen": 23,
        "punten": 53
@@ -1617,7 +1617,7 @@
       {
        "id": "duurzaam",
        "naam": "Groene chemie en duurzaamheid",
-       "code": "E–G",
+       "code": "T1–T4",
        "omschrijving": "Atoomeconomie, uitgangspunten van de groene chemie, broeikaseffect en kringlopen.",
        "vragen": 44,
        "punten": 75
@@ -1625,7 +1625,7 @@
       {
        "id": "leven",
        "naam": "Chemie van het leven",
-       "code": "G1",
+       "code": "L1",
        "omschrijving": "Eiwitten, aminozuren, koolhydraten, vetten en enzymen.",
        "vragen": 50,
        "punten": 102
@@ -1728,7 +1728,7 @@
       {
        "id": "bouw",
        "naam": "Atoombouw, bindingen en structuren",
-       "code": "B1–B4",
+       "code": "M1–M5",
        "omschrijving": "Ionen, roosters, polariteit, waterstofbruggen, oplosbaarheid en faseovergangen.",
        "vragen": 64,
        "punten": 139
@@ -1736,7 +1736,7 @@
       {
        "id": "organisch",
        "naam": "Koolstofverbindingen en polymeren",
-       "code": "B/C7",
+       "code": "M1, R1–R2",
        "omschrijving": "Naamgeving, structuurformules, esters, additie, condensatie en kunststoffen.",
        "vragen": 57,
        "punten": 139
@@ -1749,7 +1749,7 @@
       {
        "id": "reacties",
        "naam": "Reactievergelijkingen",
-       "code": "C1",
+       "code": "R1",
        "omschrijving": "Reacties opstellen en kloppend maken, verbranding en neerslagreacties.",
        "vragen": 21,
        "punten": 50
@@ -1757,7 +1757,7 @@
       {
        "id": "rekenen",
        "naam": "Chemisch rekenen",
-       "code": "C2",
+       "code": "R&A1",
        "omschrijving": "Mol, massa, concentratie, massapercentage, ppm en rendement.",
        "vragen": 54,
        "punten": 182
@@ -1765,7 +1765,7 @@
       {
        "id": "energie",
        "naam": "Energie en reactiewarmte",
-       "code": "C6",
+       "code": "R5",
        "omschrijving": "Vormingswarmte, exotherm en endotherm, energiediagrammen.",
        "vragen": 19,
        "punten": 56
@@ -1773,7 +1773,7 @@
       {
        "id": "snelheid",
        "naam": "Reactiesnelheid en katalyse",
-       "code": "C4",
+       "code": "R2–R3",
        "omschrijving": "Botsende-deeltjesmodel, verdelingsgraad, temperatuur en katalysatoren.",
        "vragen": 13,
        "punten": 30
@@ -1781,7 +1781,7 @@
       {
        "id": "evenwicht",
        "naam": "Chemisch evenwicht",
-       "code": "C5",
+       "code": "R4",
        "omschrijving": "Evenwichtsvoorwaarde, evenwichtsconstante en verschuiving.",
        "vragen": 13,
        "punten": 33
@@ -1789,7 +1789,7 @@
       {
        "id": "zuurbase",
        "naam": "Zuren en basen",
-       "code": "C7",
+       "code": "R1, R&A1",
        "omschrijving": "pH, [H⁺] en [OH⁻], zuur-basereacties, buffers en titraties.",
        "vragen": 25,
        "punten": 74
@@ -1797,7 +1797,7 @@
       {
        "id": "redox",
        "naam": "Redoxreacties en elektrochemie",
-       "code": "C7",
+       "code": "R1",
        "omschrijving": "Oxidator en reductor, halfreacties, batterijen, brandstofcellen en elektrolyse.",
        "vragen": 25,
        "punten": 65
@@ -1810,7 +1810,7 @@
       {
        "id": "analyse",
        "naam": "Scheiden, analyseren en veiligheid",
-       "code": "D1–D2",
+       "code": "R&A2",
        "omschrijving": "Scheidingsmethoden, chromatografie, ijklijnen en H- en P-zinnen.",
        "vragen": 36,
        "punten": 77
@@ -1818,7 +1818,7 @@
       {
        "id": "proces",
        "naam": "Industriële processen en blokschema's",
-       "code": "C8",
+       "code": "T1",
        "omschrijving": "Blokschema's, stofstromen, recirculatie en procesvoering.",
        "vragen": 19,
        "punten": 58
@@ -1826,7 +1826,7 @@
       {
        "id": "duurzaam",
        "naam": "Groene chemie en duurzaamheid",
-       "code": "E–G",
+       "code": "T2–T6",
        "omschrijving": "Atoomeconomie, uitgangspunten van de groene chemie, broeikaseffect en kringlopen.",
        "vragen": 16,
        "punten": 37
@@ -1834,7 +1834,7 @@
       {
        "id": "leven",
        "naam": "Chemie van het leven",
-       "code": "G1",
+       "code": "L1–L2",
        "omschrijving": "Eiwitten, aminozuren, koolhydraten, vetten en enzymen.",
        "vragen": 43,
        "punten": 105
@@ -1950,10 +1950,10 @@
       {
        "id": "cel",
        "naam": "Cellen, organellen en transport",
-       "code": "B2, D1",
-       "omschrijving": "Organellen, celmembraan, osmose, diffusie en organisatieniveaus.",
-       "vragen": 18,
-       "punten": 26
+       "code": "B2, C1",
+       "omschrijving": "Organellen, celmembraan, osmose, diffusie, organisatieniveaus en celdifferentiatie.",
+       "vragen": 21,
+       "punten": 30
       },
       {
        "id": "stofwisseling",
@@ -1965,19 +1965,11 @@
       },
       {
        "id": "dna",
-       "naam": "DNA, eiwitsynthese en genexpressie",
-       "code": "B1, E1",
-       "omschrijving": "Transcriptie, translatie, codons, mutaties, genexpressie en biotechnologie.",
+       "naam": "DNA en genexpressie",
+       "code": "C1",
+       "omschrijving": "Genen, genexpressie, mutaties en biotechnologie.",
        "vragen": 48,
        "punten": 72
-      },
-      {
-       "id": "voortplanting",
-       "naam": "Celdeling en voortplanting",
-       "code": "E2–E3",
-       "omschrijving": "Mitose, meiose, differentiatie, geslachtelijke en ongeslachtelijke voortplanting.",
-       "vragen": 14,
-       "punten": 19
       },
       {
        "id": "erfelijkheid",
@@ -1989,11 +1981,11 @@
       },
       {
        "id": "evolutie",
-       "naam": "Evolutie en biodiversiteit",
-       "code": "F",
-       "omschrijving": "Natuurlijke selectie, soortvorming, resistentie, stambomen en naamgeving.",
-       "vragen": 66,
-       "punten": 114
+       "naam": "Evolutie, variatie en selectie",
+       "code": "F1, F2",
+       "omschrijving": "Natuurlijke en kunstmatige selectie, variatie, klonen, soortvorming en resistentie.",
+       "vragen": 71,
+       "punten": 122
       }
      ]
     },
@@ -2021,14 +2013,14 @@
        "naam": "Hormonen en homeostase",
        "code": "B4",
        "omschrijving": "Hormoonklieren, terugkoppeling, glucoseregulatie, ADH en de menstruatiecyclus.",
-       "vragen": 32,
-       "punten": 54
+       "vragen": 35,
+       "punten": 58
       },
       {
        "id": "zenuw",
-       "naam": "Zenuwstelsel, zintuigen en spieren",
-       "code": "B6–B7",
-       "omschrijving": "Zenuwcellen, synaps, reflexen, hersenen, oog en het autonome zenuwstelsel.",
+       "naam": "Zenuwstelsel en reflexen",
+       "code": "B4",
+       "omschrijving": "Neurale regulatie: zenuwcellen, synaps, reflexen, hersenen en het autonome zenuwstelsel.",
        "vragen": 52,
        "punten": 81
       },
@@ -2055,11 +2047,11 @@
       },
       {
        "id": "ecologie",
-       "naam": "Ecosystemen, kringlopen en gedrag",
-       "code": "B8, D2, D4",
-       "omschrijving": "Voedselwebben, energiestroom, relaties, populaties, stikstofkringloop, exoten, duurzaamheid en gedrag.",
-       "vragen": 132,
-       "punten": 206
+       "naam": "Ecosystemen en kringlopen",
+       "code": "B8, D4",
+       "omschrijving": "Voedselwebben, energiestroom, relaties tussen soorten, populaties, stikstofkringloop, exoten en duurzaamheid.",
+       "vragen": 135,
+       "punten": 209
       }
      ]
     }
@@ -2172,8 +2164,8 @@
       {
        "id": "cel",
        "naam": "Cellen, organellen en transport",
-       "code": "B2, D1",
-       "omschrijving": "Organellen, celmembraan, osmose, diffusie en organisatieniveaus.",
+       "code": "B2, C1, D1–D2",
+       "omschrijving": "Organellen, celmembraan, osmose, diffusie, organisatieniveaus en celdifferentiatie.",
        "vragen": 18,
        "punten": 28
       },
@@ -2188,7 +2180,7 @@
       {
        "id": "dna",
        "naam": "DNA, eiwitsynthese en genexpressie",
-       "code": "B1, E1",
+       "code": "B1, C1",
        "omschrijving": "Transcriptie, translatie, codons, mutaties, genexpressie en biotechnologie.",
        "vragen": 74,
        "punten": 121
@@ -2196,24 +2188,24 @@
       {
        "id": "voortplanting",
        "naam": "Celdeling en voortplanting",
-       "code": "E2–E3",
-       "omschrijving": "Mitose, meiose, differentiatie, geslachtelijke en ongeslachtelijke voortplanting.",
+       "code": "E3",
+       "omschrijving": "Meiose, bevruchting, geslachtelijke en ongeslachtelijke voortplanting.",
        "vragen": 23,
        "punten": 35
       },
       {
        "id": "erfelijkheid",
        "naam": "Erfelijkheid en stambomen",
-       "code": "E4",
+       "code": "E3",
        "omschrijving": "Kruisingsschema's, dominant en recessief, X-chromosomaal en kansen.",
        "vragen": 28,
        "punten": 54
       },
       {
        "id": "evolutie",
-       "naam": "Evolutie en biodiversiteit",
-       "code": "F",
-       "omschrijving": "Natuurlijke selectie, soortvorming, resistentie, stambomen en naamgeving.",
+       "naam": "Evolutie, variatie en selectie",
+       "code": "F1, F2",
+       "omschrijving": "Natuurlijke en kunstmatige selectie, variatie, klonen, soortvorming en resistentie.",
        "vragen": 56,
        "punten": 94
       }
@@ -2248,9 +2240,9 @@
       },
       {
        "id": "zenuw",
-       "naam": "Zenuwstelsel, zintuigen en spieren",
-       "code": "B6–B7",
-       "omschrijving": "Zenuwcellen, synaps, reflexen, hersenen, oog en het autonome zenuwstelsel.",
+       "naam": "Zenuwstelsel en reflexen",
+       "code": "B4",
+       "omschrijving": "Neurale regulatie: zenuwcellen, synaps, reflexen, hersenen en het autonome zenuwstelsel.",
        "vragen": 36,
        "punten": 63
       },
@@ -2277,9 +2269,9 @@
       },
       {
        "id": "ecologie",
-       "naam": "Ecosystemen, kringlopen en gedrag",
-       "code": "B8, D2, D4",
-       "omschrijving": "Voedselwebben, energiestroom, relaties, populaties, stikstofkringloop, exoten, duurzaamheid en gedrag.",
+       "naam": "Ecosystemen en kringlopen",
+       "code": "B8, C3, D5",
+       "omschrijving": "Voedselwebben, energiestroom, relaties tussen soorten, populaties, stikstofkringloop, exoten en duurzaamheid.",
        "vragen": 95,
        "punten": 158
       }
