@@ -45,10 +45,14 @@ De examens en correctievoorschriften zijn van het College voor Toetsen en Examen
 ## Oefenboek als pdf (A5)
 
 `tools/bouw_bundel.py` maakt per vak een oefenboek zoals een examenbundel: deel 1 met de opgaven per onderwerp
-(vraagnummers lopen door), deel 2 met de nieuwste examens compleet, achterin de uitwerkingen uit het
+(vraagnummers beginnen per onderwerp bij 1), deel 2 met de nieuwste examens compleet, achterin de uitwerkingen uit het
 correctievoorschrift (met de aanvullingen van het CvTE). Vragen en antwoorden zijn vectoruitsneden uit de originele
 pdf's, met dezelfde snijlijnen als de site (`snij.posities`). Het boek blijft binnen het maximale aantal pagina's door
-de oudste examens weg te laten. Natuurkunde havo is het voorbeeldboek.
+de oudste examens weg te laten. Natuurkunde havo is het voorbeeldboek. Er zijn bundels voor alle elf bètavakken.
+Voorin staat een voorwoord (binnenkant omslag), achterin een pagina "Succes met je examen!" met wat
+je de avond ervoor en tijdens het examen doet (teksten in `tools/bundel/boek.tex`).
+
+Alle bundels in één keer (drie rijen tegelijk kan, 32 GB geheugen is ruim genoeg): `bundels/bouw/alles.sh <vak> ...`.
 
 ```sh
 ~/env/bin/python tools/bouw_bundel.py natuurkunde-havo            # bouwen (elk vak uit bouw_site.VAKKEN)
@@ -71,12 +75,27 @@ Werkwijze voor een nieuw vak:
 Instellingen: `STANDAARD` < `FAMILIES[<familie>]` < `BOEKEN[<vak>]` bovenin het script (hulpmiddelen, formulekaart,
 paginabudget enz.). De examenduur komt uit de voorpagina's, de formulekaart wordt vanzelf herkend. Per familie
 (optioneel) `tools/bundel/tips-<familie>.tex` en `tools/bundel/omslag/<familie>.tex` (een lijntekening, geen foto);
-anders de algemene versies. `bundels/bouw/<vak>/keuze.json` onthoudt welke examens pasten en welke selectie te veel
+anders de algemene versies (`BOEKEN[<vak>]['tips']` kan een andere kiezen, bijv. `wiskunde-a` of `wiskunde-ac-vwo`).
+`bundels/bouw/<vak>/keuze.json` onthoudt welke examens pasten en welke selectie te veel
 pagina's gaf.
 
 Opmaakregels die het script afdwingt: tekst ca. 10 pt (12 pt × 0,84); figuren mogen iets krimpen om nog op de pagina
 te passen (vragen tot 85 %, uitwerkingen tot 70 %); in de uitwerkingen gaat de witruimte van het origineel half mee;
-schrijfregels van de uitwerkbijlagen vallen weg; een opgavetitel blijft bij het begin van de opgave.
+schrijfregels van de uitwerkbijlagen vallen weg; een opgavetitel blijft bij het begin van de opgave; de bronvermelding
+staat rechts rafelig en lange adressen en codes mogen breken; super- en subscripten zonder glyph worden gezet.
+
+Uitsneden: steekt een figuur, tabel, foto of aslabel links over de vaste snijlijn, dan schuift de snijlijn voor dat
+blok mee (hooguit 6 mm in de marge, de rest door iets kleiner te schalen) en groeit het blok in de hoogte mee; de
+oorspronkelijke vraagnummers daarin worden wit afgedekt. Loopt een figuur naast de tekst door over de grens tussen twee
+vragen, dan sluiten die stukken naadloos aan (geen witruimte, geen paginabreuk). Een grens schuift langs een exponent of
+teller, en tussen twee antwoorden naar een witte regel. Het controleverslag meldt onder "uitsneden" elke plek waar nog
+inkt buiten een uitsnede valt; dat moet leeg zijn.
+
+## Andere vakken (onderzoek)
+
+`onderzoek/andere-vakken/` bevat de examens van de talen, Nederlands en de maatschappijvakken (2018–2026, havo en vwo),
+een analyse of de methode daar werkt, en een eerste automatische indeling. Los van de site; zie
+`onderzoek/andere-vakken/RAPPORT.md` voor het advies per vak.
 
 Nodig: LuaLaTeX (TinyTeX met o.a. tikz, fancyhdr, sourceserif, sourcesans, xurl, hyphen-dutch), poppler, en Pillow,
 numpy en pikepdf. Opmaak en vaste teksten staan in `tools/bundel/`. Uitvoer: `bundels/<vak>.pdf` (niet in git; de gepubliceerde kopie staat in `docs/bundels/`).

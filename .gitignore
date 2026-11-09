@@ -9,3 +9,9 @@ bundels/bouw/
 
 # de gebouwde pdf staat eenmaal in git: als gepubliceerde kopie in docs/bundels/
 bundels/*.pdf
+
+# onderzoek naar andere vakken: originele pdfs lokaal houden
+onderzoek/andere-vakken/bronnen/pdf/
+onderzoek/andere-vakken/bronnen/syllabus/*.pdf
+onderzoek/andere-vakken/bronnen/tekst/
+onderzoek/andere-vakken/bronnen/syllabus/

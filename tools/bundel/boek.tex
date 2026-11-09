@@ -51,7 +51,34 @@
   \node[anchor=east,text=white,font=\sffamily\scriptsize] at ($(current page.south east)+(-14mm,6mm)$) {<<SAMENSTELLER>>};
 \end{tikzpicture}
 \clearpage
-\thispagestyle{leeg}\mbox{}\clearpage
+% =================== voorwoord (binnenkant omslag) ===================
+\thispagestyle{leeg}
+\pdfbookmark[-1]{Voorwoord}{voorwoord}
+\vspace*{12mm}
+{\sffamily\zwart\fontsize{17}{20}\selectfont Voorwoord}\par\vskip 9mm
+{\opmaakproza\fontsize{10.5}{15.5}\selectfont\setlength\parskip{2.6mm}
+Beste examenkandidaat,
+
+Voor je ligt een bundel met de centrale examens <<VAKKLEIN>> <<NIVEAU>> van <<JAREN>>. De opgaven zijn
+letterlijk overgenomen uit de examens van het College voor Toetsen en Examens, en bij elke vraag hoort het
+offici\"ele correctievoorschrift. Je oefent dus met precies het materiaal waarmee je straks wordt beoordeeld.
+
+In deel~1 staan de opgaven uit eerdere examens, geordend naar de domeinen en onderwerpen van de syllabus.
+Zo kun je gericht werken aan de onderwerpen die je nog lastig vindt. Deel~2 bevat de <<NEX>> meest recente examens
+in hun geheel. Die maak je bij voorkeur aan het einde van je voorbereiding, in de tijd die je ook op het examen hebt.
+Achterin vind je de uitwerkingen.
+
+We raden je aan om regelmatig te oefenen, je werk eerlijk na te kijken met het correctievoorschrift en bij te houden
+welke onderwerpen nog aandacht vragen. Op de volgende pagina's lees je hoe je dat doet.
+
+Deze bundel is gratis en mag vrij worden gedeeld. We wensen je veel succes met je voorbereiding en met je examen.\par}
+\vskip 7mm
+{\sffamily\small <<SAMENSTELLER>>\\ \color{grijs}<<MAANDJAAR>>\par}
+\vfill
+{\opmaakproza\scriptsize\color{grijs}\textbf{Opmerking.} Hoewel deze bundel met de grootst mogelijke zorg is samengesteld,
+kan de samensteller geen aansprakelijkheid aanvaarden voor eventuele fouten. Raadpleeg voor actuele informatie over je
+examen, zoals de datum, de duur en de toegestane hulpmiddelen, altijd je docent of examenblad.nl.\par}
+\clearpage
 
 % =================== titelpagina ===================
 \thispagestyle{leeg}
@@ -98,7 +125,7 @@ de uitleg en de opmaak zijn van de samensteller. Heb je een fout gevonden? Laat 
 \phantomsection\label{uitleg}\pdfbookmark[-1]{Zo werk je met dit boek}{uitleg}
 {\sffamily\zwart\fontsize{17}{20}\selectfont Zo werk je met dit boek}\par\vskip 6pt
 {\opmaakproza\small
-Dit boek bevat echte examenopgaven <<VAK>> <<NIVEAU>> uit de centrale examens van <<JAREN>>,
+Dit boek bevat echte examenopgaven <<VAKKLEIN>> <<NIVEAU>> uit de centrale examens van <<JAREN>>,
 precies zoals ze op het examen stonden.
 
 \textbf{Deel 1: oefenen per onderwerp.} <<NOPG>> opgaven uit <<NEXAMENS>> examens, ingedeeld naar de domeinen van de
@@ -134,7 +161,7 @@ Waar in een vraag een uitwerkbijlage wordt genoemd, staat die direct onder de vr
 \phantomsection\label{cijfer}\pdfbookmark[-1]{Het examen en je cijfer}{cijfer}
 {\sffamily\zwart\fontsize{17}{20}\selectfont Het examen en je cijfer}\par\vskip 6pt
 {\opmaakproza\small
-Het centraal examen <<VAK>> <<NIVEAU>> duurt <<DUUR>>. Het bestaat uit ongeveer <<GEMVR>> vragen, verdeeld over
+Het centraal examen <<VAKKLEIN>> <<NIVEAU>> duurt <<DUUR>>. Het bestaat uit ongeveer <<GEMVR>> vragen, verdeeld over
 enkele opgaven, en je kunt er ongeveer <<GEMPT>> punten mee halen. Bij elke vraag staat hoeveel punten hij waard is.
 Hulpmiddelen: <<HULP>>
 
@@ -175,7 +202,7 @@ zo'n <<MIN4>> minuten kosten. Kom je er niet uit, sla de vraag dan over en kom e
 \input{deel1}
 
 % =================== deel 2 ===================
-\Deel{2}{Complete examens}{De <<NEX>> nieuwste centrale examens <<VAK>> <<NIVEAU>>, zoals ze zijn afgenomen. Maak ze in \'e\'en keer, in <<DUUR>>.}{kleurex}
+\Deel{2}{Complete examens}{De <<NEX>> nieuwste centrale examens <<VAKKLEIN>> <<NIVEAU>>, zoals ze zijn afgenomen. Maak ze in \'e\'en keer, in <<DUUR>>.}{kleurex}
 \input{deel2}
 
 % =================== uitwerkingen ===================
@@ -185,7 +212,7 @@ zo'n <<MIN4>> minuten kosten. Kom je er niet uit, sla de vraag dan over en kom e
 {\sffamily\zwart\fontsize{15}{18}\selectfont Zo wordt er nagekeken}\par\vskip 5pt
 {\opmaakproza\small Correctoren volgen het beoordelingsmodel: elke stap met een \textbullet\ levert de punten op die
 erachter staan. Daarnaast gelden algemene regels: een fout wordt in een vraag maar \'e\'en keer aangerekend, en als je
-meer antwoorden geeft dan gevraagd, telt alleen het eerste. Voor <<VAK>> gelden bovendien deze regels uit het
+meer antwoorden geeft dan gevraagd, telt alleen het eerste. Voor <<VAKKLEIN>> gelden bovendien deze regels uit het
 correctievoorschrift van het nieuwste examen:\par}
 \vskip 6pt
 \input{regels}
@@ -207,7 +234,42 @@ correctievoorschrift van het nieuwste examen:\par}
 {\sffamily\zwart\fontsize{17}{20}\selectfont Bronvermelding}\par\vskip 4pt
 {\small Alle examenopgaven en uitwerkingen: College voor Toetsen en Examens (CvTE), examenblad.nl, \textcopyright\ Staat der Nederlanden.
 Hieronder per examen de bronnen van de figuren en foto's, zoals vermeld in het correctievoorschrift, en de originele documenten.\par}
-\input{bronnen}
+% rechts rafelig: bronnen bevatten lange codes en adressen die niet netjes uitvullen
+{\raggedright\input{bronnen}\par}
+
+% =================== succes ===================
+% de laatste pagina voor de achterkant: de achterkant is een even pagina, dus deze een oneven
+\clearpage
+\ifodd\value{page}\else\thispagestyle{leeg}\mbox{}\clearpage\fi
+\thispagestyle{leeg}\noindent
+\phantomsection\pdfbookmark[-1]{Succes!}{succes}
+\begin{tikzpicture}[remember picture,overlay]
+  % confetti bovenin, vast patroon zodat elk boek hetzelfde is
+  \foreach \x/\y/\r/\c in {22/22/20/kleur1,34/15/-30/kleur2,47/27/45/kleur3,61/12/10/kleur4,76/24/-15/kleur1,
+      90/14/35/kleur2,104/26/-40/kleur3,118/16/25/kleur4,129/29/-10/kleur2,40/31/60/kleur4,84/32/-55/kleur3,112/33/15/kleur1}
+    {\node[fill=\c,inner sep=0,minimum width=2.6mm,minimum height=4.4mm,rotate=\r] at ($(current page.north west)+(\x mm,-\y mm)$) {};}
+\end{tikzpicture}\par
+\vspace*{30mm}
+{\sffamily\zwart\fontsize{26}{30}\selectfont Succes met je\\examen!\par}\vskip 6mm
+{\opmaakproza\fontsize{11}{16.5}\selectfont
+Je hebt geoefend met echte examenvragen <<VAKKLEIN>> uit <<JAREN>>. Wat er straks ook op je examen staat:
+dit soort vragen heb je eerder gezien.\par}
+\vskip 7mm
+{\opmaakproza\small\setlength\parskip{1.6mm}
+{\sffamily\bfseries\color{kleur1}De avond ervoor}\par
+Leg je spullen klaar: pennen, potlood, gum en je legitimatie. Bij dit examen mag je ook gebruiken: <<HULPKLEIN>>
+Leer niets nieuws meer, blader hooguit door de vragen die je fout had. En ga op tijd slapen.\par
+\vskip 2mm
+{\sffamily\bfseries\color{kleur1}Tijdens het examen}\par
+Lees elke vraag rustig, en begin bij wat je kunt. Houd ongeveer <<MINPUNT>> minuten per punt aan.
+Laat niets leeg: ook een begin van een antwoord kan punten opleveren.\par
+\vskip 2mm
+{\sffamily\bfseries\color{kleur1}Daarna}\par
+Klaar is klaar. Kijk vooruit naar het volgende examen, niet terug naar dit.\par}
+\vfill
+{\sffamily\zwart\large\color{kleur2}Op naar je diploma!\par}
+\vskip 2mm
+{\sffamily\small\color{grijs}<<SAMENSTELLER>>\par}
 
 % =================== achterkant ===================
 \clearpage
@@ -225,7 +287,7 @@ Hieronder per examen de bronnen van de figuren en foto's, zoals vermeld in het c
   \end{scope}
   \node[anchor=north west,text=white,align=left,text width=112mm] at ($(current page.north west)+(18mm,-30mm)$)
     {{\sffamily\zwart\fontsize{17}{21}\selectfont Oefenen met echte examens}\\[5mm]
-     {\fontsize{10.5}{15}\selectfont Dit boek bevat <<NVR>> vragen uit de centrale examens <<VAK>> <<NIVEAU>> van <<JAREN>>,
+     {\fontsize{10.5}{15}\selectfont Dit boek bevat <<NVR>> vragen uit de centrale examens <<VAKKLEIN>> <<NIVEAU>> van <<JAREN>>,
       ingedeeld naar onderwerp, plus <<NEX>> complete examens. Bij elke vraag staat het offici\"ele beoordelingsmodel van
       het College voor Toetsen en Examens, zodat je je werk precies zo kunt nakijken als op het examen.\\[4mm]
       De examens zijn openbaar en van iedereen. Daarom is dit boek gratis.}};

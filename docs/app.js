@@ -147,7 +147,7 @@
       const plek = document.getElementById('bundel-tip');
       if (!plek || !b.length) return;
       plek.innerHTML = `<aside class="bundel-tip"><div><h2>Liever op papier?</h2>
-        <p>Download een gratis examenbundel als pdf om te printen: opgaven per onderwerp, de nieuwste examens compleet en alle uitwerkingen. Nu voor ${b.map(x => esc(vakNaam(x.vak))).join(', ').replace(/, ([^,]*)$/, ' en $1')}.</p></div>
+        <p>Download een gratis examenbundel als pdf om te printen: opgaven per onderwerp, de nieuwste examens compleet en alle uitwerkingen. ${b.length > 4 ? `Er zijn ${b.length} bundels: wiskunde en de bètavakken, havo en vwo.` : `Nu voor ${b.map(x => esc(vakNaam(x.vak))).join(', ').replace(/, ([^,]*)$/, ' en $1')}.`}</p></div>
         <a class="knop" href="#/bundels">Naar de examenbundels</a></aside>`;
     });
   }
@@ -450,7 +450,9 @@
   // ---------- examenbundels (pdf) ----------
   async function bundelPagina(doel) {
     zetKruimel([['Start', '#/'], ['Examenbundels', null]]);
-    const b = await bundels();
+    // havo eerst, dan vwo; binnen een niveau in de volgorde van het vakkenmenu
+    const volg = Object.keys(OVERZICHT.vakken);
+    const b = [...await bundels()].sort((x, y) => volg.indexOf(x.vak) - volg.indexOf(y.vak));
     const reeks = l => l.length > 1 ? `${l[0]} t/m ${l[l.length - 1]}` : l[0];
     const kaarten = b.map(x => `<article class="bundel" id="bundel-${x.vak}">
         <a class="bundel-omslag" href="${x.bestand}" target="_blank" rel="noopener" aria-label="Open de examenbundel ${esc(vakNaam(x.vak))}"><img src="${x.omslag}" alt="" width="250" height="354" loading="lazy"></a>

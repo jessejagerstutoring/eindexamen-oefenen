@@ -87,6 +87,17 @@ BOEKEN = {
         'hulpmiddelen': 'Grafische rekenmachine (in examenstand), geodriehoek en het formuleblad voorin het examen.',
         'tips': 'wiskunde-a',
     },
+    'wiskunde-a-vwo': {
+        'hulpmiddelen': 'Grafische rekenmachine (in examenstand), geodriehoek en het formuleoverzicht voorin het examen.',
+        'tips': 'wiskunde-ac-vwo',
+    },
+    'wiskunde-c-vwo': {
+        'hulpmiddelen': 'Grafische rekenmachine (in examenstand) en geodriehoek.',
+        'tips': 'wiskunde-ac-vwo',
+    },
+    'wiskunde-b-havo': {
+        'hulpmiddelen': 'Grafische rekenmachine (in examenstand), passer en geodriehoek.',
+    },
     'wiskunde-b-vwo': {
         'hulpmiddelen': 'Grafische rekenmachine (in examenstand), passer, geodriehoek en de formules voorin het examen.',
     },
@@ -145,7 +156,13 @@ ROMEINS = {1: 'I', 2: 'II', 3: 'III'}
 def esc(s):
     """Tekst veilig in LaTeX."""
     rep = {'\\': r'\textbackslash{}', '&': r'\&', '%': r'\%', '$': r'\$', '#': r'\#', '_': r'\_',
-           '{': r'\{', '}': r'\}', '~': r'\textasciitilde{}', '^': r'\textasciicircum{}'}
+           '{': r'\{', '}': r'\}', '~': r'\textasciitilde{}', '^': r'\textasciicircum{}',
+           # super- en subscripten die Source Serif niet heeft (bijv. [H⁺] in een onderwerpbeschrijving)
+           '⁺': r'\textsuperscript{+}', '⁻': r'\textsuperscript{\textminus}', '⁰': r'\textsuperscript{0}',
+           '⁴': r'\textsuperscript{4}', '⁵': r'\textsuperscript{5}', '⁶': r'\textsuperscript{6}',
+           '⁷': r'\textsuperscript{7}', '⁸': r'\textsuperscript{8}', '⁹': r'\textsuperscript{9}',
+           '₀': r'\textsubscript{0}', '₁': r'\textsubscript{1}', '₂': r'\textsubscript{2}', '₃': r'\textsubscript{3}',
+           '₄': r'\textsubscript{4}', '₅': r'\textsubscript{5}', '₆': r'\textsubscript{6}'}
     return ''.join(rep.get(c, c) for c in s)
 
 
@@ -322,6 +339,120 @@ def blok_tex(pdfpad, p, blok, links, gat, straf, labels='', passend=False, maxsc
     return f'\\Blok{{{gat:.1f}}}{{{straf}}}{{{naam}}}{{{geo}}}{{{labels}}}\n', s
 
 
+AFGESNEDEN = []              # uitsneden waar inkt net buiten de snijlijn valt (voor het controleverslag)
+LABEL = re.compile(r'^(\d{1,2}p?|\d{1,2}p\s+\d{1,2}|[A-F]|\d{1,2}\s*[a-f]?)$')
+
+
+def linkse_inkt(pdf, p, blok, links, tot=20):
+    """Masker van de inkt links van de snijlijn in de rijen van dit blok, zonder de labels in de kantlijn
+    (punten, vraagnummer, meerkeuzeletter). Geeft (strook, k0)."""
+    inkt, _ = pdf.beeld(p)
+    a, b = int(blok['a'] * PX), int(blok['b'] * PX)
+    k0, k1 = max(0, int(tot * PX)), int((links - 0.5) * PX)
+    strook = inkt[a:b, k0:k1].copy()
+    for x0, y0, x1, y1, t in pdf.lijnen(p):
+        if x0 < links and LABEL.match(t.strip()):
+            strook[max(0, int((y0 - 1) * PX) - a):max(0, int((y1 + 1) * PX) - a),
+                   max(0, int((x0 - 1) * PX) - k0):max(0, int((x1 + 1) * PX) - k0)] = False
+    return strook, k0
+
+
+def blok_links(pdf, p, blok, links):
+    """Snijlijn links voor dit blok: de vaste lijn, of verder naar links als een figuur, tabel of foto daar
+    overheen loopt (anders valt er een stuk weg)."""
+    if blok['b'] - blok['a'] < 2:
+        return links
+    strook, k0 = linkse_inkt(pdf, p, blok, links)
+    if strook.shape[1] < 4 or int(strook[:, -int(3 * PX):].sum()) <= 6:
+        return links
+    # het aaneengesloten stuk inkt vanaf de snijlijn naar links volgen (kolommen met inkt, kleine gaten mag)
+    kol = strook.any(axis=0)
+    x, gat = len(kol) - 1, 0
+    links_x = x
+    while x >= 0:
+        if kol[x]:
+            links_x, gat = x, 0
+        else:
+            gat += 1
+            if gat > 6 * PX:        # 6 pt wit: daar houdt het op
+                break
+        x -= 1
+    return min(links, (k0 + links_x) / PX - 2)
+
+
+DOORLOPEND = set()          # (document, pagina, y) waar twee stukken naadloos op elkaar aansluiten
+
+
+def loopt_door(pdf, p, y, links=LINKS):
+    """Loopt er een tekening (figuur naast de tekst) door over de grens y tussen twee stukken?"""
+    _, teken = pdf.beeld(p)
+    r0, r1 = int((y - 1.5) * PX), int((y + 1.5) * PX)
+    if r0 < 0 or r1 >= teken.shape[0]:
+        return False
+    k0 = int(links * PX)
+    # een schuine lijn verschuift een paar pixels tussen de twee rijen: daarom met wat speling
+    onder = teken[r1, k0:]
+    breed = onder.copy()
+    for d in range(1, int(3 * PX) + 1):
+        breed[d:] |= onder[:-d]
+        breed[:-d] |= onder[d:]
+    return int((teken[r0, k0:] & breed).sum()) > 3
+
+
+def blok_rekken(pdf, p, blok, lb_x, links, y0, y1):
+    """Na het verbreden naar links: loopt de inkt in de nieuwe strook (bv. een gedraaid aslabel) boven of onder het
+    blok door, dan groeit het blok mee, binnen het stuk (y0..y1)."""
+    inkt, _ = pdf.beeld(p)
+    k0, k1 = int(lb_x * PX), int(links * PX)
+    labels = [(x0, a, x1, b) for x0, a, x1, b, t in pdf.lijnen(p) if x0 < links and LABEL.match(t.strip())]
+
+    def rij_inkt(r):
+        if r < 0 or r >= inkt.shape[0]:
+            return False
+        y = r / PX
+        rij = inkt[r, k0:k1].copy()
+        for x0, a, x1, b in labels:
+            if a - 1 <= y <= b + 1:
+                rij[max(0, int((x0 - 1) * PX) - k0):max(0, int((x1 + 1) * PX) - k0)] = False
+        return rij.any()
+    a, b = int(blok['a'] * PX), int(blok['b'] * PX)
+    while b / PX < y1 - 1 and rij_inkt(b + 1):
+        b += 1
+    while a / PX > y0 + 1 and rij_inkt(a - 1):
+        a -= 1
+    blok['a'], blok['b'] = min(blok['a'], a / PX - 1.2 if a < int(blok['a'] * PX) else blok['a']), \
+        max(blok['b'], b / PX + 1.2 if b > int(blok['b'] * PX) else blok['b'])
+
+
+def snijcontrole(pdf, rel, p, blok, links):
+    """Staat er inkt net buiten de uitsnede die erbij hoort? Links: alles tussen de kantlijn met punten en
+    vraagnummers en de snijlijn, behalve die labels zelf. Boven en onder: een tekening die over de rand doorloopt."""
+    inkt, teken = pdf.beeld(p)
+    a, b = int(blok['a'] * PX), int(blok['b'] * PX)
+    if b - a < 4:
+        return
+    strook, _ = linkse_inkt(pdf, p, blok, links)
+    rand = strook[:, -int(3 * PX):]
+    n = int(rand.sum())
+    if n > 6:
+        AFGESNEDEN.append(f'{Path(rel).name} blz. {p}, y {blok["a"]:.0f}-{blok["b"]:.0f}: inkt links over de snijlijn ({n} px)')
+    br = int((PDFS_MAAT_BREED.get(rel, 595) - 18) * PX)
+    for rij, buiten in ((a, a - 2), (b - 1, b + 1)):
+        if any(d[0] == rel and d[1] == p and abs(d[2] - rij / PX) < 4 for d in DOORLOPEND):
+            continue
+        if 0 <= buiten < inkt.shape[0]:
+            # met een paar pixels speling, zodat ook een schuine lijn telt
+            ander = teken[buiten, int(links * PX):br]
+            breed = ander.copy()
+            for d in range(1, int(2 * PX) + 1):
+                breed[d:] |= ander[:-d]
+                breed[:-d] |= ander[d:]
+            door = teken[rij, int(links * PX):br] & breed
+            if door.sum() > 3:
+                AFGESNEDEN.append(f'{Path(rel).name} blz. {p}, y {rij / PX:.0f}: tekening loopt door over de {"bovenrand" if rij == a else "onderrand"}')
+
+
+PDFS_MAAT_BREED = {}
 PDFS_MAAT = {}
 MELDINGEN = []               # voor het controleverslag: alles wat een mens even moet nakijken
 PAGINAS = OrderedDict()      # (pdf, pagina) -> naam van de opgeslagen pagina
@@ -344,6 +475,7 @@ class Bouwer:
             self.pdfs[rel] = Pdf(BRON / rel, self.tmp)
             pad = os.path.relpath(BRON / rel, self.bouwmap)
             PDFS_MAAT[pad] = {i + 1: (w, h) for i, (_, w, h, _) in enumerate(self.pdfs[rel].pags)}
+            PDFS_MAAT_BREED[rel] = self.pdfs[rel].pags[0][1]
         return self.pdfs[rel], os.path.relpath(BRON / rel, self.bouwmap)
 
     def tekstbegin(self, rel, links):
@@ -421,10 +553,24 @@ class Bouwer:
                     pas = PAS_ANTW if soort == 'c' else PAS_VRAAG
                     if soort == 'c':
                         maxschaal, maxh = SCHAAL * FIG_ANTW, min(maxh, 0.5 * TEKSTH)
-                _, s = blok_tex(pad, p, blok, links, 0, 0, passend=passend, maxh=maxh, maxschaal=maxschaal)
+                lb_x, insp = blok_links(pdf, p, blok, links), inspring
+                if lb_x < links:
+                    blok_rekken(pdf, p, blok, lb_x, links, y0, y1)
+                _, s = blok_tex(pad, p, blok, lb_x, 0, 0, passend=passend, maxh=maxh, maxschaal=maxschaal)
+                if lb_x < links:
+                    # het blok begint verder links: het mag tot 6 mm in de marge hangen, de rest schuift naar rechts
+                    insp = min((links + inspring - lb_x) * s, 6 * MM) / s
+                snijcontrole(pdf, rel, p, blok, lb_x)
                 lab = ''.join(f'\\Lbl{{{max(0.0, (y - blok["a"])) * s:.1f}}}{{{tex}}}' for _, y, tex in hier)
-                regel, _ = blok_tex(pad, p, blok, links, gat * s, straf, lab, passend=passend, maxh=maxh,
-                                    maxschaal=maxschaal, meld=True, pas=pas, inspring=inspring)
+                if lb_x < links:
+                    # de oorspronkelijke punten en vraagnummers die nu in de uitsnede vallen, wit afdekken
+                    # (het boek zet zijn eigen nummer in de marge)
+                    for x0, y0_, x1, y1_, t in pdf.lijnen(p):
+                        if x1 < links + 1 and x1 > lb_x and LABEL.match(t.strip()) and y1_ > blok['a'] and y0_ < blok['b']:
+                            lab = (f'\\fill[white] ({(max(x0, lb_x) - lb_x - 0.5) * s:.2f},{-(y0_ - blok["a"] - 0.5) * s:.2f}) '
+                                   f'rectangle ({(x1 - lb_x + 0.5) * s:.2f},{-(y1_ - blok["a"] + 0.5) * s:.2f});') + lab
+                regel, _ = blok_tex(pad, p, blok, lb_x, gat * s, straf, lab, passend=passend, maxh=maxh,
+                                    maxschaal=maxschaal, meld=True, pas=pas, inspring=insp)
                 uit.append(regel)
                 if in_keten and (eerste or straf >= 10000):
                     keten += (gat + blok['b'] - blok['a']) * s
@@ -475,14 +621,75 @@ def zonder_overlap(pos):
             pos[b]['stuk'][0] = (pb, grens, yb1)
 
 
+def grenzen_langs_formules(pos, pdf):
+    """Een grens tussen twee vragen mag niet tussen een exponent of teller en zijn regel door lopen
+    (e^(-1/x): de 1 erboven hoort bij de regel eronder). Een kort tekstje (hooguit 3 tekens) vlak boven de grens
+    dat boven de eerstvolgende regel staat, gaat mee naar beneden; een subscript vlak onder de grens mee naar boven."""
+    nrs = sorted(n for n in pos if pos[n].get('stuk'))
+    for a, b in zip(nrs, nrs[1:]):
+        pa, ya0, ya1 = pos[a]['stuk'][-1]
+        pb, yb0, yb1 = pos[b]['stuk'][0]
+        if pa != pb or abs(ya1 - yb0) > 0.5:
+            continue
+        g = yb0
+        lijnen = [r for r in pdf.lijnen(pb) if r[0] >= LINKS - 5]
+        onder = sorted([r for r in lijnen if g - 1 <= r[1] <= g + 14 and len(r[4].strip()) > 3], key=lambda r: r[1])
+        boven = sorted([r for r in lijnen if g - 14 <= r[3] <= g + 1 and len(r[4].strip()) > 3], key=lambda r: -r[3])
+        nieuw = g
+        if onder:
+            o = onder[0]
+            klein = [r for r in lijnen if len(r[4].strip()) <= 3 and g - 9 <= r[1] < g
+                     and r[0] < o[2] and r[2] > o[0] and r[1] > pos[a]['vraag'][2] - 0.5]
+            if klein:
+                nieuw = min(r[1] for r in klein) - 1
+        if nieuw == g and boven:
+            o = boven[0]
+            klein = [r for r in lijnen if len(r[4].strip()) <= 3 and g < r[3] <= g + 9
+                     and r[0] < o[2] and r[2] > o[0]]
+            if klein:
+                nieuw = max(r[3] for r in klein) + 1
+        if nieuw != g and ya0 < nieuw < yb1:
+            pos[a]['stuk'][-1] = (pa, ya0, nieuw)
+            pos[b]['stuk'][0] = (pb, nieuw, yb1)
+
+
+def witte_antwoordgrenzen(pos, pdf):
+    """De grens tussen twee antwoorden ligt vlak boven 'maximumscore'. Snijdt die door iets van het vorige antwoord
+    (het aslabel van een grafiek), dan schuift hij naar de dichtstbijzijnde helemaal witte regel."""
+    nrs = sorted(n for n in pos if pos[n].get('antwoord'))
+    for a, b in zip(nrs, nrs[1:]):
+        pa, ya0, ya1 = pos[a]['antwoord'][-1]
+        pb, yb0, yb1 = pos[b]['antwoord'][0]
+        if pa != pb or abs(ya1 - yb0) > 0.5:
+            continue
+        inkt, _ = pdf.beeld(pb)
+        k0, k1 = int(LINKS * PX), int((pdf.maat(pb)[0] - 18) * PX)
+        leeg = lambda y: not inkt[int(y * PX), k0:k1].any()   # noqa: E731
+        if leeg(yb0):
+            continue
+        # eerst omlaag (tot vlak boven de regel met 'maximumscore'), dan omhoog
+        kandidaten = [yb0 + d / 4 for d in range(1, 15)] + [yb0 - d / 4 for d in range(1, 41)]
+        for y in kandidaten:
+            if leeg(y):
+                pos[a]['antwoord'][-1] = (pa, ya0, y)
+                pos[b]['antwoord'][0] = (pb, y, yb1)
+                break
+
+
 # ---------- onderdelen uit de pdf's van het CvTE ----------
 def bijlage_delen(pdf):
     """{vraagnummer: [(p, y0, y1)]} uit een uitwerkbijlage."""
-    uit = {}
+    uit, laatste = {}, 0
     for p, _, h, lijst in pdf.pags:
         grens = snij.voet(pdf.pags[p - 1])
-        nrs = sorted([r for r in lijst if r[0] < 100 and re.fullmatch(r'\d{1,2}', r[4]) and r[1] > (140 if p == 1 else 30)],
-                     key=lambda r: r[1])
+        kand = sorted([r for r in lijst if r[0] < 100 and re.fullmatch(r'\d{1,2}', r[4]) and r[1] > (140 if p == 1 else 30)],
+                      key=lambda r: r[1])
+        # vraagnummers lopen op; een '1' of '2' in een tabel ('1e kandidaat') is geen vraagnummer
+        nrs = []
+        for r in kand:
+            if int(r[4]) > laatste:
+                nrs.append(r)
+                laatste = int(r[4])
         stop = [r[1] - 4 for r in lijst if re.match(r'vergeet niet', r[4], re.I)]
         for i, r in enumerate(nrs):
             eind = nrs[i + 1][1] - 4 if i + 1 < len(nrs) else min(stop + [grens])
@@ -552,8 +759,10 @@ def bronvermelding(pdf):
 def met_breekpunten(t):
     """Tekst voor LaTeX waarin lange webadressen na / . - _ = & ? mogen breken."""
     uit = []
-    for stuk in re.split(r'((?:https?://|www\.)\S+)', t):
-        if re.match(r'https?://|www\.', stuk):
+    # ook adressen zonder https:// of www. (een domein met een pad) en andere lange woorden zonder spatie
+    adres = r'(?:https?://|www\.)\S+|\S*[a-z0-9]\.[a-z]{2,6}/\S+|\S{32,}'
+    for stuk in re.split(f'({adres})', t):
+        if re.fullmatch(adres, stuk):
             uit.append(re.sub(r'([/.\-_=&?])', lambda m: m.group(1) + '\x00', stuk))
         else:
             uit.append(stuk)
@@ -676,6 +885,8 @@ class Boek:
                 MELDINGEN.extend(f'{examen_naam(code)}: {m}' for m in meld)
             self.pos[code] = pos
             zonder_overlap(pos)
+            witte_antwoordgrenzen(pos, bouwer.pdf(ex['correctievoorschrift']['pdf'])[0])
+            grenzen_langs_formules(pos, bouwer.pdf(ex['opgaven']['pdf'])[0])
             bouwer.meet_tekstbegin(ex['opgaven']['pdf'], LINKS, [d for v in pos.values() for d in v.get('stuk', [])])
             bouwer.meet_tekstbegin(ex['correctievoorschrift']['pdf'], LINKS,
                                    [d for v in pos.values() for d in v.get('antwoord', [])])
@@ -697,8 +908,21 @@ class Boek:
         p, y, _ = pos['vraag']
         nr = self.nummer.get((code, n), n)
         lab = f'\\VraagNr{{{nr}}}{{{v["punten"] or ""}}}{{v:{code}:{n}}}'
+        gat0, straf0 = (0, 10000) if eerste else (14, 0)
+        if not eerste:
+            # loopt een figuur naast de tekst door over de grens met de vorige vraag, dan sluiten de stukken
+            # zonder witruimte op elkaar aan en breekt er geen pagina tussen
+            q, y0, _ = pos['stuk'][0]
+            vorige = self.pos[code].get(n - 1, {}).get('stuk')
+            pdf = self.b.pdf(ex['opgaven']['pdf'])[0]
+            if vorige and vorige[-1][0] == q and abs(vorige[-1][2] - y0) < 0.5 and loopt_door(pdf, q, y0):
+                gat0, straf0 = 0, 10000
+                DOORLOPEND.add((ex['opgaven']['pdf'], q, y0))
+                naam = Path(ex['opgaven']['pdf']).name
+                AFGESNEDEN[:] = [m for m in AFGESNEDEN if not (m.startswith(f'{naam} blz. {q}, y ') and 'loopt door' in m
+                                 and abs(float(m.split(', y ')[1].split(':')[0]) - y0) < 4)]
         tex = self.b.stukken_tex(ex['opgaven']['pdf'], pos['stuk'], 'o', [(p, y, lab)],
-                                 eerste_gat=0 if eerste else 14, eerste_straf=10000 if eerste else 0)
+                                 eerste_gat=gat0, eerste_straf=straf0)
         if eerste:
             self.b.keten_eerste = self.b.keten
         if n in self.bijlagen.get(code, {}):
@@ -890,14 +1114,14 @@ class Boek:
         mpp = minuten / gempt
         per_punt = ('ruim ' if mpp - int(mpp) < .5 else 'bijna ') + str(int(mpp) + (mpp - int(mpp) >= .5))
         waarden = {
-            'VAK': esc(self.info['naam']), 'NIVEAU': esc(self.info['niveau']),
+            'VAK': esc(self.info['naam']), 'VAKKLEIN': esc(self.info['naam'][:1].lower() + self.info['naam'][1:]), 'NIVEAU': esc(self.info['niveau']),
             'JAREN': f'{jaren[0]}–{jaren[-1]}', 'NOPG': str(n_opg), 'NVR': str(n_vr),
             'NEX': str(len(self.deel2)), 'NEXAMENS': str(len(self.deel1)),
             'VAKWOORD': self.cfg['vakwoord'], 'NTERM': self.cfg['nterm'],
             'FORMULEKAART': 'true' if formulekaart else 'false',
-            'DUUR': duur, 'HULP': esc(self.cfg['hulpmiddelen']),
+            'DUUR': duur, 'HULP': esc(self.cfg['hulpmiddelen']), 'HULPKLEIN': esc(self.cfg['hulpmiddelen'][:1].lower() + self.cfg['hulpmiddelen'][1:]),
             'MINPUNT': per_punt, 'MIN4': str(round(4 * minuten / gempt)),
-            'SAMENSTELLER': esc(SAMENSTELLER), 'DATUM': datetime.date.today().strftime('%-d-%-m-%Y'),
+            'SAMENSTELLER': esc(SAMENSTELLER), 'MAANDJAAR': ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'][datetime.date.today().month - 1] + f' {datetime.date.today().year}', 'DATUM': datetime.date.today().strftime('%-d-%-m-%Y'),
             'HOOFDSTUKLIJST': ''.join(f'\\item {esc(d)}\n' for d, _ in hs),
             'OMSLAGTABS': ','.join([f'{i}/kleur{i}' for i in range(1, len(hs) + 1)] + [f'{len(hs) + 1}/kleurex']),
             'EXAMENTAB': str(len(hs) + 1),
@@ -1044,6 +1268,11 @@ def controle(map_, vak, cfg, n, pdf):
         punt(m, erg=not m.startswith('tekst verkleind'))
     if not MELDINGEN:
         regels.append('- geen')
+    kop('uitsneden (valt er iets buiten de snijlijn?)')
+    for m in dict.fromkeys(AFGESNEDEN):
+        punt(m)
+    if not AFGESNEDEN:
+        regels.append('- niets afgesneden')
     kop('LaTeX')
     log = (map_ / 'boek.log').read_text(errors='replace')
     over = len(re.findall(r'^Overfull \\hbox \((\d+\.\d+)pt', log, re.M))
@@ -1120,6 +1349,8 @@ def proef(vakken):
         deel2, deel1 = codes[-cfg['examens_deel2']:], codes[:-cfg['examens_deel2']]
         PAGINAS.clear()
         MELDINGEN.clear()
+        AFGESNEDEN.clear()
+        DOORLOPEND.clear()
         with tempfile.TemporaryDirectory() as tmp:
             boek = Boek(vak, deel1, deel2, examens, vragen, Bouwer(vak, tmp, Path(tmp)))
             _, delen = boek.tex()
@@ -1128,11 +1359,12 @@ def proef(vakken):
         totaal = sum(len(vragen[c]) for c in codes)
         verkl = sum(m.startswith('tekst verkleind') for m in MELDINGEN)
         regel = (f'{vak:18} {len(codes):2} examens, {vr}/{totaal} vragen geplaatst, ontbreekt {mis}, '
-                 f'meldingen {len(MELDINGEN) - verkl}, verkleinde tekst {verkl}, tips: {cfg["tips"]}, '
+                 f'meldingen {len(MELDINGEN) - verkl}, verkleinde tekst {verkl}, afgesneden {len(set(AFGESNEDEN))}, tips: {cfg["tips"]}, '
                  f'formulekaart: {"ja" if delen["formulekaart.tex"] else "nee"}, duur {cfg["duur"] or examenduur(examens)}')
         print(regel, flush=True)
         rapport.append(regel)
         rapport.extend(f'    {m}' for m in dict.fromkeys(MELDINGEN))
+        rapport.extend(f'    AFGESNEDEN {m}' for m in dict.fromkeys(AFGESNEDEN))
     uit = UIT / 'bouw' / 'proef.txt'
     uit.parent.mkdir(parents=True, exist_ok=True)
     uit.write_text('\n'.join(rapport) + '\n')
@@ -1204,6 +1436,8 @@ def main():
                   f'deel 2: {", ".join(examen_naam(c) for c in deel2)}', flush=True)
             PAGINAS.clear()
             MELDINGEN.clear()
+            AFGESNEDEN.clear()
+            DOORLOPEND.clear()
             boek = Boek(vak, deel1, deel2, examens, vragen, bouwer)
             waarden, delen = boek.tex()
             schrijf(map_, waarden, delen)

@@ -1,0 +1,340 @@
+{
+ "aardrijkskunde-havo": {
+  "vragen": 453,
+  "meerkeuze": 0,
+  "sectie": {
+   "Aarde": 165,
+   "Leefomgeving": 114,
+   "Wereld": 110,
+   "Ontwikkelingsland  Brazilië": 39,
+   "Ontwikkelingsland  Indonesië": 16,
+   "Wereld en Aarde": 9
+  },
+  "met_tekst": 0
+ },
+ "aardrijkskunde-vwo": {
+  "vragen": 449,
+  "meerkeuze": 0,
+  "sectie": {
+   "Aarde": 218,
+   "Leefomgeving": 114,
+   "Wereld": 110,
+   "Wereld en Aarde": 7
+  },
+  "met_tekst": 0
+ },
+ "bedrijfseconomie-havo": {
+  "vragen": 351,
+  "meerkeuze": 9,
+  "met_tekst": 0
+ },
+ "bedrijfseconomie-vwo": {
+  "vragen": 363,
+  "meerkeuze": 3,
+  "met_tekst": 0
+ },
+ "duits-havo": {
+  "vragen": 665,
+  "meerkeuze": 448,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 444,
+   "open vraag": 107,
+   "juist of onjuist": 62,
+   "citeren": 43,
+   "toon of houding": 3,
+   "functie of verband": 2,
+   "betekenis of verwijzing": 2,
+   "argumentatie": 1,
+   "hoofdgedachte of bedoeling": 1
+  },
+  "met_tekst": 665
+ },
+ "duits-vwo": {
+  "vragen": 657,
+  "meerkeuze": 449,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 441,
+   "open vraag": 114,
+   "juist of onjuist": 60,
+   "citeren": 25,
+   "toon of houding": 6,
+   "functie of verband": 4,
+   "hoofdgedachte of bedoeling": 4,
+   "argumentatie": 3
+  },
+  "met_tekst": 657
+ },
+ "economie-havo": {
+  "vragen": 465,
+  "meerkeuze": 1,
+  "voorstel": {
+   "markt": 131,
+   "ruilen over de tijd": 56,
+   "risico en informatie": 52,
+   "welvaart en groei": 42,
+   "goede tijden, slechte tijden": 41,
+   "schaarste": 17,
+   "ruil": 17,
+   "samenwerken en onderhandelen": 13
+  },
+  "met_tekst": 0
+ },
+ "economie-vwo": {
+  "vragen": 465,
+  "meerkeuze": 0,
+  "voorstel": {
+   "markt": 129,
+   "ruilen over de tijd": 70,
+   "goede tijden, slechte tijden": 59,
+   "welvaart en groei": 57,
+   "risico en informatie": 49,
+   "ruil": 11,
+   "schaarste": 9,
+   "samenwerken en onderhandelen": 6
+  },
+  "met_tekst": 0
+ },
+ "engels-havo": {
+  "vragen": 661,
+  "meerkeuze": 462,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 456,
+   "open vraag": 133,
+   "citeren": 55,
+   "juist of onjuist": 7,
+   "argumentatie": 5,
+   "toon of houding": 3,
+   "hoofdgedachte of bedoeling": 2
+  },
+  "met_tekst": 661
+ },
+ "engels-vwo": {
+  "vragen": 578,
+  "meerkeuze": 414,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 409,
+   "open vraag": 105,
+   "citeren": 39,
+   "juist of onjuist": 15,
+   "argumentatie": 6,
+   "toon of houding": 2,
+   "betekenis of verwijzing": 1,
+   "hoofdgedachte of bedoeling": 1
+  },
+  "met_tekst": 578
+ },
+ "filosofie-havo": {
+  "vragen": 401,
+  "meerkeuze": 0,
+  "met_tekst": 0
+ },
+ "filosofie-vwo": {
+  "vragen": 345,
+  "meerkeuze": 0,
+  "met_tekst": 0
+ },
+ "frans-havo": {
+  "vragen": 682,
+  "meerkeuze": 472,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 472,
+   "open vraag": 92,
+   "juist of onjuist": 82,
+   "citeren": 34,
+   "argumentatie": 1,
+   "toon of houding": 1
+  },
+  "met_tekst": 682
+ },
+ "frans-vwo": {
+  "vragen": 580,
+  "meerkeuze": 384,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 381,
+   "open vraag": 93,
+   "juist of onjuist": 72,
+   "citeren": 26,
+   "argumentatie": 4,
+   "toon of houding": 2,
+   "functie of verband": 1,
+   "hoofdgedachte of bedoeling": 1
+  },
+  "met_tekst": 580
+ },
+ "geschiedenis-havo": {
+  "vragen": 415,
+  "meerkeuze": 0,
+  "sectie": {
+   "Moderne tijd": 281,
+   "Vroegmoderne tijd": 118,
+   "null": 16
+  },
+  "met_tekst": 0
+ },
+ "geschiedenis-havo-bezemexamen": {
+  "vragen": 54,
+  "meerkeuze": 0,
+  "sectie": {
+   "Moderne tijd": 36,
+   "Vroegmoderne tijd": 15,
+   "null": 3
+  },
+  "met_tekst": 0
+ },
+ "geschiedenis-vwo": {
+  "vragen": 419,
+  "meerkeuze": 0,
+  "sectie": {
+   "Moderne tijd": 212,
+   "Vroegmoderne tijd": 112,
+   "De middeleeuwen": 48,
+   "Prehistorie en oudheid": 30,
+   "null": 17
+  },
+  "met_tekst": 0
+ },
+ "geschiedenis-vwo-bezemexamen": {
+  "vragen": 53,
+  "meerkeuze": 0,
+  "sectie": {
+   "Moderne tijd": 23,
+   "Vroegmoderne tijd": 19,
+   "De middeleeuwen": 6,
+   "Prehistorie en oudheid": 3,
+   "null": 2
+  },
+  "met_tekst": 0
+ },
+ "griekse-taal-cultuur-vwo": {
+  "vragen": 421,
+  "meerkeuze": 20,
+  "vraagtype": {
+   "open vraag": 214,
+   "citeren": 135,
+   "argumentatie": 27,
+   "detailvraag (meerkeuze)": 20,
+   "functie of verband": 11,
+   "betekenis of verwijzing": 6,
+   "samenvatten": 3,
+   "toon of houding": 3,
+   "hoofdgedachte of bedoeling": 2
+  },
+  "met_tekst": 421
+ },
+ "kunst-algemeen-havo": {
+  "vragen": 0
+ },
+ "kunst-algemeen-vwo": {
+  "vragen": 0
+ },
+ "latijnse-taal-cultuur-vwo": {
+  "vragen": 427,
+  "meerkeuze": 29,
+  "vraagtype": {
+   "open vraag": 211,
+   "citeren": 149,
+   "argumentatie": 23,
+   "detailvraag (meerkeuze)": 20,
+   "hoofdgedachte of bedoeling": 9,
+   "functie of verband": 8,
+   "betekenis of verwijzing": 5,
+   "toon of houding": 2
+  },
+  "met_tekst": 426
+ },
+ "maatschappij-wetenschappen-havo": {
+  "vragen": 411,
+  "meerkeuze": 11,
+  "met_tekst": 0
+ },
+ "maatschappij-wetenschappen-havo-bezemexamen": {
+  "vragen": 31,
+  "meerkeuze": 1,
+  "met_tekst": 0
+ },
+ "maatschappij-wetenschappen-havo-pilot": {
+  "vragen": 22,
+  "meerkeuze": 0,
+  "met_tekst": 0
+ },
+ "maatschappij-wetenschappen-vwo": {
+  "vragen": 413,
+  "meerkeuze": 6,
+  "met_tekst": 0
+ },
+ "maatschappij-wetenschappen-vwo-pilot": {
+  "vragen": 74,
+  "meerkeuze": 2,
+  "met_tekst": 0
+ },
+ "muziek-havo": {
+  "vragen": 0
+ },
+ "muziek-vwo": {
+  "vragen": 0
+ },
+ "nederlands-havo": {
+  "vragen": 617,
+  "meerkeuze": 193,
+  "vraagtype": {
+   "open vraag": 279,
+   "detailvraag (meerkeuze)": 81,
+   "hoofdgedachte of bedoeling": 61,
+   "citeren": 54,
+   "argumentatie": 52,
+   "samenvatten": 32,
+   "functie of verband": 28,
+   "toon of houding": 25,
+   "betekenis of verwijzing": 3,
+   "juist of onjuist": 2
+  },
+  "met_tekst": 546
+ },
+ "nederlands-vwo": {
+  "vragen": 612,
+  "meerkeuze": 163,
+  "vraagtype": {
+   "open vraag": 225,
+   "hoofdgedachte of bedoeling": 91,
+   "detailvraag (meerkeuze)": 83,
+   "citeren": 63,
+   "samenvatten": 46,
+   "toon of houding": 40,
+   "argumentatie": 39,
+   "functie of verband": 17,
+   "betekenis of verwijzing": 4,
+   "juist of onjuist": 4
+  },
+  "met_tekst": 520
+ },
+ "spaans-havo": {
+  "vragen": 485,
+  "meerkeuze": 317,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 316,
+   "open vraag": 111,
+   "juist of onjuist": 51,
+   "citeren": 2,
+   "toon of houding": 2,
+   "functie of verband": 1,
+   "argumentatie": 1,
+   "hoofdgedachte of bedoeling": 1
+  },
+  "met_tekst": 485
+ },
+ "spaans-vwo": {
+  "vragen": 572,
+  "meerkeuze": 365,
+  "vraagtype": {
+   "detailvraag (meerkeuze)": 363,
+   "open vraag": 128,
+   "juist of onjuist": 59,
+   "citeren": 9,
+   "toon of houding": 5,
+   "argumentatie": 4,
+   "betekenis of verwijzing": 3,
+   "samenvatten": 1
+  },
+  "met_tekst": 572
+ }
+}
