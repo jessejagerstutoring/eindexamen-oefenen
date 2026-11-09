@@ -134,7 +134,8 @@ def examenduur(examens):
     return f'{uren:g} uur'.replace('.', ',')
 
 
-SAMENSTELLER = 'Jesse Jagers Tutoring'
+SAMENSTELLER = 'Eindexamen Oefenen'
+WEBADRES = 'jessejagerstutoring.github.io/eindexamen-oefenen'   # waar de site staat (en waar je fouten meldt)
 
 # ---------- maten (in bp, 1/72 inch) ----------
 MM = 72 / 25.4
@@ -1121,7 +1122,7 @@ class Boek:
             'FORMULEKAART': 'true' if formulekaart else 'false',
             'DUUR': duur, 'HULP': esc(self.cfg['hulpmiddelen']), 'HULPKLEIN': esc(self.cfg['hulpmiddelen'][:1].lower() + self.cfg['hulpmiddelen'][1:]),
             'MINPUNT': per_punt, 'MIN4': str(round(4 * minuten / gempt)),
-            'SAMENSTELLER': esc(SAMENSTELLER), 'MAANDJAAR': ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'][datetime.date.today().month - 1] + f' {datetime.date.today().year}', 'DATUM': datetime.date.today().strftime('%-d-%-m-%Y'),
+            'SAMENSTELLER': esc(SAMENSTELLER), 'WEBADRES': esc(WEBADRES), 'MAANDJAAR': ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'][datetime.date.today().month - 1] + f' {datetime.date.today().year}', 'DATUM': datetime.date.today().strftime('%-d-%-m-%Y'),
             'HOOFDSTUKLIJST': ''.join(f'\\item {esc(d)}\n' for d, _ in hs),
             'OMSLAGTABS': ','.join([f'{i}/kleur{i}' for i in range(1, len(hs) + 1)] + [f'{len(hs) + 1}/kleurex']),
             'EXAMENTAB': str(len(hs) + 1),

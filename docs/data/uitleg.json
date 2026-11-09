@@ -1,0 +1,48 @@
+{
+ "gecontroleerd": "2026-11-09",
+ "bronnen": {
+  "wiskunde": [
+   [
+    "Wiskunde Academie",
+    "https://www.wiskundeacademie.nl/",
+    "gratis uitlegvideo's per onderwerp"
+   ],
+   [
+    "Math4all",
+    "https://www.math4all.nl/",
+    "gratis lesstof voor wiskunde A, B en C"
+   ]
+  ],
+  "natuurkunde": [
+   [
+    "Natuurkunde.nl",
+    "https://www.natuurkunde.nl/",
+    "examenopgaven met uitwerkingen, doorzoekbaar op onderwerp"
+   ],
+   [
+    "Natuurkunde Uitgelegd",
+    "https://natuurkundeuitgelegd.nl/samenvatting.php",
+    "gratis samenvatting van de examenstof"
+   ]
+  ],
+  "scheikunde": [
+   [
+    "Scheikunde havo/vwo",
+    "https://scheikundehavovwo.nl/vwo-examen1/index",
+    "uitlegfilms bij de vwo-examens"
+   ]
+  ],
+  "biologie": [
+   [
+    "Bioplek",
+    "https://www.bioplek.org/inhoud.html",
+    "theorie en examenstof per onderwerp"
+   ],
+   [
+    "Biologiepagina",
+    "https://biologiepagina.nl/",
+    "examenstof en oefenmateriaal"
+   ]
+  ]
+ }
+}

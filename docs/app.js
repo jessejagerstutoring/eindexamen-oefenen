@@ -7,6 +7,8 @@
  *   #/vak/<vak>/examen/<code>         alle vragen van één examen
  *   #/vak/<vak>/voortgang             je scores per onderwerp en een advies wat je nu oefent
  *   #/bundels[/<vak>]                 gratis examenbundels als pdf
+ *   #/docenten                        uitleg voor docenten
+ *   #/logboek                         wat er wanneer aan de site is veranderd
  *   #/vraag/<vak>/<id>/<lijst>        één vraag; <lijst> is o-<onderwerp> of e-<examen> voor vorige/volgende
  */
 (() => {
@@ -37,17 +39,22 @@
   const vakData = vak => json(`data/${vak}.json`);
   // gratis examenbundels (pdf); ontbreekt het bestand, dan is er gewoon nog geen bundel
   const bundels = () => json('data/bundels.json').catch(() => []);
-  const SITE = 'https://jessejagerstutoring.nl';
-  // e-mailadres voor foutmeldingen; zolang dit leeg is, verwijst de site naar de contactpagina van het bedrijf
+  const logboek = () => json('data/logboek.json').catch(() => []);
+  // e-mailadres voor foutmeldingen; zolang dit leeg is, gaat een melding via GitHub
   const MELDADRES = '';
+  const MELDPAGINA = 'https://github.com/jessejagerstutoring/eindexamen-oefenen/issues/new';
+  // goede gratis uitleg elders, per vakgroep (data/uitleg.json; ook gebruikt door tools/bouw_statisch.py)
+  const uitleg = () => json('data/uitleg.json').then(d => d.bronnen).catch(() => ({}));
+  const familie = vak => vak.split('-')[0];
+  const dagNL = d => new Date(d).toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' });
   // vakken waarvan het opgavenboekje voorin een formuleblad heeft
   const FORMULEBLAD = ['wiskunde-a-havo', 'wiskunde-a-vwo', 'wiskunde-b-vwo'];
   const komma = x => x.toFixed(1).replace('.', ',');
   // gemiddeld aantal punten dat een onderwerp per examen oplevert
   const perExamen = (vak, o) => o.punten / OVERZICHT.vakken[vak].examens.length;
-  const hulpBlok = () => `<aside class="hulp"><div><h2>Persoonlijke hulp nodig?</h2>
-    <p>Eindexamen Oefenen is een gratis project van Jesse Jagers Tutoring. Kom je er met oefenen alleen niet uit, of wil je gericht toewerken naar je examen? Kijk dan voor bijles en begeleiding op de website.</p></div>
-    <a class="knop vol" href="${SITE}" target="_blank" rel="noopener">jessejagerstutoring.nl</a></aside>`;
+  const hulpBlok = () => `<aside class="hulp"><div><h2>Klopt er iets niet?</h2>
+    <p>Een vraag bij het verkeerde onderwerp, een tip die niet helpt of een figuur die niet goed is uitgesneden: laat het weten, dan wordt het aangepast. Bij elke vraag staat een vraagcode, die helpt om hem terug te vinden.</p></div>
+    <a class="knop" href="#/over/fouten">Een fout melden</a></aside>`;
   // bij welk vak hoort een examencode (voor scores op de startpagina)
   function vakVanExamen(code) {
     for (const [k, v] of Object.entries(OVERZICHT.vakken)) {
@@ -97,6 +104,7 @@
   }
 
   // ---------- begin ----------
+  const NIVEAUSLEUTEL = 'eo-niveau';
   function begin() {
     zetKruimel([]);
     const sc = lees();
@@ -108,47 +116,69 @@
       telVak[k] = (telVak[k] || 0) + 1;
       if (!laatste || r.t > laatste.t) laatste = { t: r.t, id, k, e };
     });
-    const per = {};
-    Object.entries(OVERZICHT.vakken).forEach(([k, v]) => (per[v.niveau] = per[v.niveau] || []).push([k, v]));
-    const rijen = Object.entries(per).map(([n, lijst]) => lijst.map(([k, v], i) => {
-      const nOw = v.domeinen.reduce((s, d) => s + d.onderwerpen.length, 0);
+    const niveaus = Object.keys(OVERZICHT.niveaus);
+    let gekozen = (() => { try { return localStorage.getItem(NIVEAUSLEUTEL); } catch (e) { return null; } })();
+    if (!niveaus.includes(gekozen)) gekozen = laatste ? OVERZICHT.vakken[laatste.k].niveau : niveaus[0];
+    const totaal = Object.values(OVERZICHT.vakken).reduce((t, v) => t + v.vragen, 0);
+    const kaart = (k, v) => {
+      const nOw = v.domeinen.reduce((t, d) => t + d.onderwerpen.length, 0);
       const j = v.examens.map(e => e.jaar);
-      return `<tr data-href="#/vak/${k}"><td class="niv">${i === 0 ? OVERZICHT.niveaus[n] : ''}</td>
-        <td class="vaknaam"><a href="#/vak/${k}">${esc(v.naam)}</a></td>
-        <td class="r verberg">${nOw}</td><td class="r">${v.vragen}</td><td class="r verberg">${Math.min(...j)}–${Math.max(...j)}</td>
-        <td class="r">${telVak[k] ? `<a class="st" href="#/vak/${k}/voortgang">${telVak[k]} gemaakt</a>` : '<span class="st">–</span>'}</td></tr>`;
-    }).join('')).join('');
+      return `<a class="vakkaart" href="#/vak/${k}">
+        <span class="vk-naam">${esc(v.naam)}</span>
+        <span class="vk-cijfers">${v.vragen} vragen · ${nOw} onderwerpen · ${Math.min(...j)}–${Math.max(...j)}</span>
+        <span class="vk-jij">${telVak[k] ? `${telVak[k]} door jou gemaakt` : ''}</span></a>`;
+    };
+    const tekenVakken = () => {
+      const lijst = Object.entries(OVERZICHT.vakken).filter(([, v]) => v.niveau === gekozen);
+      document.getElementById('vakken').innerHTML = lijst.map(([k, v]) => kaart(k, v)).join('');
+      document.querySelectorAll('.niveaukeuze button').forEach(b => {
+        b.classList.toggle('aan', b.dataset.n === gekozen);
+        b.setAttribute('aria-pressed', String(b.dataset.n === gekozen));
+      });
+    };
     toon(`
       <div class="titelblok">
         <div>
           <p class="bovenkop">Centraal examen · havo en vwo</p>
-          <h1>Examenvragen oefenen per onderwerp</h1>
-          <p class="inleiding">Alle vragen uit de centrale examens wiskunde en de bètavakken sinds 2018, geordend volgens de syllabus. Je maakt elke vraag zoals hij op het examen stond, met de inleiding, figuren en tabellen van de opgave, en kijkt hem na met het officiële correctievoorschrift.</p>
+          <h1>Echte examenvragen, per onderwerp</h1>
+          <p class="inleiding">Alle ${totaal.toLocaleString('nl-NL')} vragen uit de centrale examens wiskunde, natuurkunde, scheikunde en biologie sinds 2018, met het officiële correctievoorschrift. Gratis, zonder account en zonder reclame.</p>
         </div>
         <aside class="werkwijze">
           <h2>Zo werk je</h2>
           <ol>
-            <li>Kies je vak en een onderwerp uit de inhoudsopgave.</li>
-            <li>Maak de vraag op papier.</li>
-            <li>Bekijk het antwoordmodel en geef jezelf punten.</li>
-            <li>Kijk bij <b>Mijn voortgang</b> waar je het beste verder kunt oefenen.</li>
+            <li>Kies een onderwerp waar je punten wilt halen.</li>
+            <li>Maak de vraag op papier, zoals op het examen.</li>
+            <li>Kijk na met het antwoordmodel en geef jezelf punten.</li>
+            <li>Bij <b>Mijn voortgang</b> zie je wat je daarna het beste kunt doen.</li>
           </ol>
         </aside>
       </div>
+      <ul class="beloftes">
+        <li><b>Officieel materiaal</b>Elke vraag en elk antwoordmodel komt letterlijk uit de examens van het College voor Toetsen en Examens.</li>
+        <li><b>Per vraag ingedeeld</b>Elke vraag is afzonderlijk gelezen en bij een onderwerp uit de syllabus ingedeeld, met hulp van AI (Claude) en met een ervaren bijlesdocent die meekijkt.</li>
+        <li><b>Ook op papier</b>Voor elk vak is er een <a href="#/bundels">gratis examenbundel</a> als pdf: opgaven per onderwerp, complete examens en alle uitwerkingen.</li>
+      </ul>
       ${laatste ? `<p class="verder"><span>Verder waar je gebleven was:</span> <a href="#/vraag/${laatste.k}/${enc(laatste.id)}">${esc(vakNaam(laatste.k))}, examen ${laatste.e.jaar}-${tvKort(laatste.e.tijdvak)}, vraag ${esc(laatste.id.split(':')[1])}</a></p>` : ''}
-      <h2 class="sectiekop">Kies je vak</h2>
-      <table class="catalogus">
-        <thead><tr><th>Niveau</th><th>Vak</th><th class="r verberg">Onderwerpen</th><th class="r">Vragen</th><th class="r verberg">Examens</th><th class="r">Jij</th></tr></thead>
-        <tbody>${rijen}</tbody>
-      </table>
-      <div id="bundel-tip"></div>`);
-    klikbareRijen(app.querySelector('.catalogus'));
-    bundels().then(b => {
-      const plek = document.getElementById('bundel-tip');
-      if (!plek || !b.length) return;
-      plek.innerHTML = `<aside class="bundel-tip"><div><h2>Liever op papier?</h2>
-        <p>Download een gratis examenbundel als pdf om te printen: opgaven per onderwerp, de nieuwste examens compleet en alle uitwerkingen. ${b.length > 4 ? `Er zijn ${b.length} bundels: wiskunde en de bètavakken, havo en vwo.` : `Nu voor ${b.map(x => esc(vakNaam(x.vak))).join(', ').replace(/, ([^,]*)$/, ' en $1')}.`}</p></div>
-        <a class="knop" href="#/bundels">Naar de examenbundels</a></aside>`;
+      <section class="kies">
+        <h2 class="sectiekop">Kies je niveau en je vak</h2>
+        <div class="niveaukeuze" role="group" aria-label="Niveau">${niveaus.map(n => `<button data-n="${n}">${OVERZICHT.niveaus[n]}</button>`).join('')}</div>
+        <div class="vakkaarten" id="vakken"></div>
+      </section>
+      <section class="nieuws" id="nieuws"></section>`);
+    tekenVakken();
+    app.querySelector('.niveaukeuze').addEventListener('click', e => {
+      const b = e.target.closest('button');
+      if (!b) return;
+      gekozen = b.dataset.n;
+      try { localStorage.setItem(NIVEAUSLEUTEL, gekozen); } catch (err) { /* privévenster */ }
+      tekenVakken();
+    });
+    logboek().then(l => {
+      const plek = document.getElementById('nieuws');
+      if (!plek || !l.length) return;
+      plek.innerHTML = `<h2 class="sectiekop">Nieuw op de site</h2>
+        <ol class="logboek kort">${l.slice(0, 3).map(x => `<li><time datetime="${x.datum}">${dagNL(x.datum)}</time><div><b>${esc(x.titel)}</b><p>${esc(x.tekst)}</p></div></li>`).join('')}</ol>
+        <p class="meer"><a href="#/logboek">Alles wat er is veranderd ›</a></p>`;
     });
   }
 
@@ -161,11 +191,15 @@
     const ids = data.vragen.map(q => q.id);
     const kop = `<header class="vakkop">
         <div><p class="bovenkop">${niv(vak)} · centraal examen</p><h1>${esc(v.naam)}</h1>
-        <p>${v.vragen} vragen uit ${v.examens.length} examens (${v.examens[v.examens.length - 1].jaar}–${v.examens[0].jaar}) · ${gemaakt(ids)} door jou gemaakt</p></div>
+        <p>${v.vragen} vragen uit ${v.examens.length} examens (${v.examens[v.examens.length - 1].jaar}–${v.examens[0].jaar}) · ${gemaakt(ids)} door jou gemaakt</p>
+        <p class="actueel">Bijgewerkt tot en met het examen van ${v.examens[0].jaar}, ${tv(v.examens[0].tijdvak)}.</p></div>
         <nav class="weergave" aria-label="Weergave"><a href="#/vak/${vak}" class="${perExamen ? '' : 'aan'}">Per onderwerp</a><a href="#/vak/${vak}?per=examen" class="${perExamen ? 'aan' : ''}">Per examen</a><a href="#/vak/${vak}/voortgang">Mijn voortgang</a></nav>
       </header>`;
     const bundel = (await bundels()).find(b => b.vak === vak);
-    const bundelRegel = bundel ? `<p class="bundel-regel">Liever op papier? <a href="#/bundels/${vak}">Download de gratis examenbundel ${esc(vakNaam(vak))}</a> (pdf, ${bundel.paginas} blz.)</p>` : '';
+    const bundelRegel = bundel ? `<aside class="bundel-blok">
+        <a href="#/bundels/${vak}" class="bundel-mini" aria-hidden="true" tabindex="-1"><img src="${bundel.omslag}" alt="" width="250" height="354" loading="lazy"></a>
+        <div><b>Liever op papier?</b><p>De gratis examenbundel ${esc(vakNaam(vak))}: ${bundel.paginas} pagina's met opgaven per onderwerp, ${bundel.deel2.length} complete examens en alle uitwerkingen.</p>
+        <a class="knop" href="${bundel.bestand}" target="_blank" rel="noopener">Bekijk de bundel (pdf)</a></div></aside>` : '';
     if (perExamen) {
       const rijen = v.examens.map(e => {
         const q = data.vragen.filter(x => x.examen === e.code);
@@ -188,6 +222,17 @@
     }).join('')}</section>`).join('')}</div>`, vakNaam(vak), vak);
   }
 
+  // goede gratis uitleg elders, plus een zoekopdracht voor precies dit onderwerp
+  function uitlegBlok(vak, titel, alle) {
+    const bronnen = alle[familie(vak)] || [];
+    const zoek = `https://www.youtube.com/results?search_query=${enc(`${titel} ${OVERZICHT.vakken[vak].naam} ${niv(vak)} uitleg`)}`;
+    return `<aside class="uitleg"><h2>Uitleg nodig?</h2>
+      <p>Hier staan alleen examenvragen. Snap je de stof nog niet goed, kijk dan eerst bij een van deze gratis bronnen:</p>
+      <ul>${bronnen.map(([n, u, w]) => `<li><a href="${u}" target="_blank" rel="noopener">${esc(n)}</a> <span>${esc(w)}</span></li>`).join('')}
+        <li><a href="${zoek}" target="_blank" rel="noopener">Zoek op YouTube naar uitleg over ${esc(titel.toLowerCase())}</a></li></ul>
+      <p class="klein">Deze sites hebben niets met Eindexamen Oefenen te maken; ze staan hier omdat ze goed en gratis zijn.</p></aside>`;
+  }
+
   // ---------- lijst van vragen ----------
   const FILTERS = { alle: () => true, recent: q => q.jaar >= 2022, ouder: q => q.jaar < 2022, open: q => !lees()[q.id] };
   let filter = 'alle';
@@ -200,10 +245,12 @@
     if (soort === 'onderwerp') {
       const o = onderwerp(vak, sleutel);
       if (!o) return nietGevonden();
-      vragen = data.vragen.filter(q => q.onderwerp === sleutel);
+      vragen = data.vragen.filter(q => q.onderwerp === sleutel)
+        .sort((a, b) => b.jaar - a.jaar || b.tijdvak - a.tijdvak || a.vraag - b.vraag);
       titel = o.naam;
       boven = `${vakNaam(vak)} · paragraaf ${nummer(vak, sleutel)} · syllabus ${o.code}`;
-      sub = `${o.omschrijving} Dit onderwerp levert gemiddeld ${komma(perExamen(vak, o))} punten per examen op.`;
+      const inExamens = new Set(vragen.map(q => q.examen)).size;
+      sub = `${o.omschrijving} Dit onderwerp kwam voor in ${inExamens} van de ${v.examens.length} examens en levert gemiddeld ${komma(perExamen(vak, o))} punten per examen op.`;
       lijstId = `o-${sleutel}`;
     } else {
       vragen = data.vragen.filter(q => q.examen === sleutel).sort((a, b) => a.vraag - b.vraag);
@@ -236,7 +283,8 @@
       </div>
       <div class="tabelvak"><table class="tabel">
         <thead><tr>${soort === 'onderwerp' ? kolom : ''}<th>Vraag</th><th>Opgave</th>${soort === 'examen' ? kolom : ''}<th class="r">Punten</th><th class="r">Jouw score</th></tr></thead>
-        <tbody id="rijen"></tbody></table></div>`, titel, vak);
+        <tbody id="rijen"></tbody></table></div>
+      ${soort === 'onderwerp' ? uitlegBlok(vak, titel, await uitleg()) : ''}`, titel, vak);
     app.querySelector('.filters').addEventListener('click', e => { const b = e.target.closest('button'); if (b) { filter = b.dataset.f; teken(); } });
     klikbareRijen(app.querySelector('.tabel'));
     teken();
@@ -291,6 +339,7 @@
           ${eerder.length ? `<details class="context" open><summary>Inleiding en eerdere vragen van deze opgave (${eerder.length === 1 ? 'vraag ' + eerder[0].vraag : 'vragen ' + eerder[0].vraag + ' t/m ' + eerder[eerder.length - 1].vraag})</summary>
             <div class="blad">${eerder.map(s => img(s, `Opgave ${q.opgave}, tekst tot en met vraag ${s.vraag}`)).join('')}</div></details>` : ''}
           <div class="blad deze">${img(deze, `Vraag ${q.vraag}: ${q.tekst}`)}</div>
+          <p class="bronregel">Bron: centraal examen ${esc(vakNaam(vak))} ${q.jaar}, ${tv(q.tijdvak)}, vraag ${q.vraag}. College voor Toetsen en Examens, ${link(pdf.opgaven, 'examenblad.nl') || 'examenblad.nl'}.</p>
           ${q.uitwerkbijlage ? `<p class="opmerking">Bij deze vraag hoort een uitwerkbijlage. ${pdf.uitwerkbijlage ? `<a href="${pdf.uitwerkbijlage}" target="_blank" rel="noopener">Open de uitwerkbijlage (pdf)</a>.` : `Die staat achterin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.`}</p>` : ''}
           ${FORMULEBLAD.includes(vak) ? `<p class="opmerking">Het formuleblad staat voorin de <a href="${pdf.opgaven}" target="_blank" rel="noopener">originele opgaven (pdf)</a>.</p>` : ''}
           ${v.opmerking ? `<p class="opmerking">${esc(v.opmerking)}</p>` : ''}
@@ -415,12 +464,13 @@
       ['werkwijze', 'Hoe is het gemaakt?', `
         <ul>
           <li><b>De vragen en antwoordmodellen</b> komen uit de originele examens en correctievoorschriften van het College voor Toetsen en Examens, zoals gepubliceerd op <a href="https://www.examenblad.nl" target="_blank" rel="noopener">examenblad.nl</a>. Ze zijn letterlijk uit de pdf's overgenomen, met de inleiding, figuren en tabellen die bij de vraag horen. In 2020 waren er geen centrale examens.</li>
-          <li><b>De indeling per onderwerp</b> volgt de subdomeinen uit de syllabus van elk vak. Elke vraag is met de hand ingedeeld. Raakt een vraag meerdere onderwerpen, dan staat hij bij het onderwerp waar hij het meest over gaat.</li>
+          <li><b>De indeling per onderwerp</b> volgt de subdomeinen uit de syllabus van elk vak. Elke vraag is afzonderlijk gelezen en ingedeeld, niet automatisch op trefwoorden: met hulp van AI (Claude), en met een ervaren bijlesdocent die meekijkt. Raakt een vraag meerdere onderwerpen, dan staat hij bij het onderwerp waar hij het meest over gaat.</li>
           <li><b>De tips</b> bij de vragen zijn zelf geschreven. Ze geven een richting of een eerste stap, nooit het antwoord.</li>
         </ul>`],
       ['wie', 'Wie maakt dit?', `
-        <p>Eindexamen Oefenen is een project van <a href="${SITE}" target="_blank" rel="noopener">Jesse Jagers Tutoring</a>, bijles en examenbegeleiding. Het idee: zoveel mogelijk leerlingen gratis toegang geven tot goed oefenmateriaal.</p>
-        <p>De site is en blijft gratis, zonder reclame en zonder account. Wil je persoonlijke hulp bij je examenvoorbereiding, dan kun je bij Jesse Jagers Tutoring terecht voor bijles en begeleiding.</p>`],
+        <p>Eindexamen Oefenen is een onafhankelijk project. Het begon met een simpele ergernis: de examens zelf zijn openbaar en van iedereen, maar wie ze per onderwerp wil oefenen, moet daar meestal voor betalen.</p>
+        <p>De site wordt actief bijgehouden. Na elk examen komen de nieuwe vragen erbij, worden ze ingedeeld en nagelopen, en worden fouten die leerlingen en docenten melden verbeterd. Wat er wanneer veranderd is, staat in het <a href="#/logboek">logboek</a>.</p>
+        <p>De site is en blijft gratis, zonder reclame en zonder account.</p>`],
       ['privacy', 'Privacy', `
         <p>Kort gezegd: deze site verzamelt niets over jou.</p>
         <ul>
@@ -432,7 +482,7 @@
       ['fouten', 'Een fout gezien?', `
         <p>Bij ruim ${Math.floor(vragen / 100) * 100} vragen kan er iets misgaan: een vraag bij het verkeerde onderwerp, een onduidelijke tip of een beeld dat niet goed is uitgesneden. Meld het, dan wordt het verbeterd.</p>
         <p>Bij elke vraag staat in de kantlijn een <b>vraagcode</b>, bijvoorbeeld <span class="code">ha-1018-a-25-1:12</span>. Vermeld die code, dan is de vraag direct terug te vinden.</p>
-        <p>${MELDADRES ? `Mail je melding naar <a href="mailto:${MELDADRES}">${MELDADRES}</a>.` : `Neem contact op via <a href="${SITE}" target="_blank" rel="noopener">de website van Jesse Jagers Tutoring</a>.`}</p>`],
+        <p>${MELDADRES ? `Mail je melding naar <a href="mailto:${MELDADRES}">${MELDADRES}</a>.` : `Meld het via <a href="${MELDPAGINA}" target="_blank" rel="noopener">deze pagina op GitHub</a>, waar de site wordt bijgehouden. Je hebt daar een gratis account voor nodig.`}</p>`],
       ['disclaimer', 'Disclaimer', `
         <p>Eindexamen Oefenen is geen officiële site van het College voor Toetsen en Examens of examenblad.nl. De vragen en antwoordmodellen zijn officieel; de indeling per onderwerp, de tips en het advies bij Mijn voortgang zijn eigen werk.</p>
         <p>Bij het nakijken geldt altijd het originele correctievoorschrift, inclusief eventuele aanvullingen. Die vind je via de links bij elke vraag. Aan de site kunnen geen rechten worden ontleend.</p>`],
@@ -445,6 +495,40 @@
       ${hulpBlok()}`, 'Over deze site');
     const doel = sectie && document.getElementById(sectie);
     if (doel) doel.scrollIntoView();
+  }
+
+  // ---------- logboek ----------
+  async function logboekPagina() {
+    zetKruimel([['Start', '#/'], ['Logboek', null]]);
+    const l = await logboek();
+    toon(`<header class="lijstkop"><p class="bovenkop">Logboek</p><h1>Wat er is veranderd</h1>
+        <p class="inleiding">Deze site wordt actief bijgehouden. Hier staat wat er wanneer is toegevoegd of verbeterd, het nieuwste bovenaan.</p></header>
+      <ol class="logboek">${l.map(x => `<li><time datetime="${x.datum}">${dagNL(x.datum)}</time><div><b>${esc(x.titel)}</b><p>${esc(x.tekst)}</p></div></li>`).join('')}</ol>
+      ${hulpBlok()}`, 'Logboek');
+  }
+
+  // ---------- voor docenten ----------
+  function docentenPagina() {
+    zetKruimel([['Start', '#/'], ['Voor docenten', null]]);
+    const vk = Object.values(OVERZICHT.vakken);
+    const vragen = vk.reduce((t, v) => t + v.vragen, 0);
+    toon(`<header class="lijstkop"><p class="bovenkop">Voor docenten</p><h1>In de les of als huiswerk</h1>
+        <p class="inleiding">Eindexamen Oefenen is gemaakt voor leerlingen, maar werkt ook goed in de klas. Alles is gratis, er is geen account nodig en er is geen reclame, dus u kunt er leerlingen zonder bezwaar naar verwijzen.</p></header>
+      <div class="over"><div class="over-tekst">
+        <section><h2>Wat er op staat</h2>
+          <p>Alle ${vragen.toLocaleString('nl-NL')} vragen uit de centrale examens wiskunde A, B en C, natuurkunde, scheikunde en biologie voor havo en vwo sinds 2018. Elke vraag staat bij één onderwerp uit de syllabus (met de syllabuscode), samen met de inleiding en figuren van de opgave en het officiële correctievoorschrift.</p></section>
+        <section><h2>Zo gebruiken docenten het</h2>
+          <ul>
+            <li><b>Na een hoofdstuk:</b> geef de link naar het onderwerp mee. Leerlingen zien dan meteen hoe de stof op het examen terugkomt, van het nieuwste examen naar het oudste.</li>
+            <li><b>In de examenklas:</b> laat leerlingen bij <b>Mijn voortgang</b> kijken welke onderwerpen de meeste punten opleveren en waar zij nog punten laten liggen.</li>
+            <li><b>Op papier:</b> de <a href="#/bundels">examenbundels</a> mogen vrij worden geprint en gedeeld, ook voor een hele klas.</li>
+            <li><b>Een complete toets:</b> onder <i>Per examen</i> staat elk examen in zijn geheel, met links naar de originele pdf's.</li>
+          </ul></section>
+        <section><h2>Hoe betrouwbaar is de indeling?</h2>
+          <p>Elke vraag is afzonderlijk gelezen en ingedeeld bij het onderwerp waar hij het meest over gaat, met hulp van AI (Claude) en met een ervaren bijlesdocent die meekijkt. Raakt een vraag meerdere onderwerpen, dan staat hij er één keer. De vragen en antwoordmodellen zelf zijn ongewijzigd overgenomen van examenblad.nl; bij het nakijken geldt altijd het originele correctievoorschrift met eventuele aanvullingen.</p></section>
+        <section><h2>Iets gezien dat niet klopt?</h2>
+          <p>Docenten vinden fouten het snelst. Een vraag bij een verkeerd onderwerp, een te ruime tip of een slecht uitgesneden figuur: <a href="#/over/fouten">meld het</a>, dan wordt het aangepast en komt het in het <a href="#/logboek">logboek</a>.</p></section>
+      </div></div>`, 'Voor docenten');
   }
 
   // ---------- examenbundels (pdf) ----------
@@ -474,7 +558,7 @@
         <p class="inleiding">Een complete examenbundel op A5, gratis. In deel 1 staan de opgaven uit eerdere examens per onderwerp, net als op deze site. In deel 2 staan de drie nieuwste examens compleet, zodat je een echt examen op tijd kunt oefenen. Achterin vind je de uitwerkingen: het officiële correctievoorschrift bij elke vraag.</p>
       </header>
       ${b.length ? `<div class="bundels">${kaarten}</div>` : '<p class="leeg">Er staan nog geen examenbundels online.</p>'}
-      <p class="bundel-noot">Print op A5, of op A4 met twee pagina's per vel. De vragen en antwoorden komen van het CvTE (examenblad.nl); bij het nakijken geldt altijd het originele correctievoorschrift. Bundels voor andere vakken volgen.</p>
+      <p class="bundel-noot">Print op A5, of op A4 met twee pagina's per vel. De vragen en antwoorden komen van het CvTE (examenblad.nl); bij het nakijken geldt altijd het originele correctievoorschrift. </p>
       ${hulpBlok()}`, 'Examenbundels');
     const el = doel && document.getElementById(`bundel-${doel}`);
     if (el) { el.scrollIntoView(); el.classList.add('licht'); }
@@ -493,8 +577,11 @@
       const hash = location.hash;
       if (!OVERZICHT) {
         OVERZICHT = await json('data/vakken.json');
-        const b = OVERZICHT.bijgewerkt && new Date(OVERZICHT.bijgewerkt);
-        if (b) document.getElementById('bijgewerkt').textContent = `Laatst bijgewerkt: ${b.toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' })}`;
+        // laatst bijgewerkt: de nieuwste van de gegevens en het logboek
+        logboek().then(l => {
+          const data = [OVERZICHT.bijgewerkt, ...l.map(x => x.datum)].filter(Boolean).sort();
+          if (data.length) document.getElementById('bijgewerkt').textContent = `Laatst bijgewerkt: ${dagNL(data[data.length - 1])}`;
+        });
       }
       // eerst de vakgegevens laden; is de leerling intussen al verder geklikt, dan deze pagina niet meer tonen
       if (d[1] && OVERZICHT.vakken[d[1]]) await vakData(d[1]);
@@ -507,6 +594,8 @@
       if (d[0] === 'vraag') return vraagPagina(d[1], d[2], d[3]);
       if (d[0] === 'over') return overPagina(d[1]);
       if (d[0] === 'bundels') return bundelPagina(d[1]);
+      if (d[0] === 'logboek') return logboekPagina();
+      if (d[0] === 'docenten') return docentenPagina();
       nietGevonden();
     } catch (e) {
       console.error(e);

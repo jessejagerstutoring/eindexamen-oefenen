@@ -19,8 +19,11 @@ examenjaren 2018 t/m 2026 (2020 had geen centrale examens). Samen ruim 4700 vrag
 | `tools/bouw_databank.py` | Leest de teksten in: per vraag opgave, nummer, punten, vraagtekst en antwoordmodel |
 | `tools/snij.py` | Snijdt per vraag het stuk van de opgave en het antwoordmodel uit de pdf (WebP-beelden) |
 | `tools/bouw_site.py` | Zet de onderwerpen per vak (volgens de syllabus) en de vragen klaar in `docs/data/` |
-| `hints/<vak>.json` | Per vraag een korte hint (zonder het antwoord), met de hand geschreven op basis van vraag en antwoordmodel |
-| `indeling/<vak>.json` | Het onderwerp van elke vraag, met de hand ingedeeld volgens de subdomeinen van de syllabus |
+| `tools/bouw_statisch.py` | Maakt vaste, vindbare pagina's per vak en onderwerp (`docs/<vak>/<onderwerp>/`), `docs/onderwerpen/`, `sitemap.xml` en `robots.txt` |
+| `docs/data/logboek.json` | Het logboek op de site: wat er wanneer is veranderd, met de hand bijgehouden |
+| `docs/data/uitleg.json` | Gratis uitlegbronnen elders per vakgroep (getoond bij elk onderwerp); af en toe nalopen of de links nog werken |
+| `hints/<vak>.json` | Per vraag een korte hint (zonder het antwoord), per vraag geschreven met Claude op basis van vraag en antwoordmodel, met een bijlesdocent die meekijkt |
+| `indeling/<vak>.json` | Het onderwerp van elke vraag, per vraag gelezen en ingedeeld volgens de subdomeinen van de syllabus (met Claude, niet op trefwoorden) |
 | `bronnen/` | Documentenlijst, databank, teksten en syllabi (de pdf's zelf staan niet in git) |
 
 ## Bijwerken met nieuwe examens
@@ -32,9 +35,17 @@ python3 tools/bouw_databank.py    # vragen inlezen
 python3 tools/snij.py             # beelden snijden (Python met Pillow nodig)
 # nieuwe vragen een onderwerp geven in indeling/<vak>.json en een hint in hints/<vak>.json
 python3 tools/bouw_site.py        # site-gegevens bijwerken
+python3 tools/bouw_statisch.py    # vaste pagina's per onderwerp en de sitemap bijwerken
 ```
 
 `snij.py` en `bouw_site.py` melden vragen die ze niet konden plaatsen.
+
+**Na elke wijziging een regel in het logboek** (`docs/data/logboek.json`, nieuwste bovenaan): datum, korte titel en
+één of twee zinnen in gewone taal over wat er voor leerlingen is veranderd. De startpagina toont de laatste drie, en
+"Laatst bijgewerkt" onderaan de site volgt het logboek. Zo is zichtbaar dat de site wordt bijgehouden.
+
+De site en de bundels noemen geen bedrijf: ze heten Eindexamen Oefenen en verwijzen naar het webadres
+(`WEBADRES` in `tools/bouw_bundel.py`). Fouten melden gaat via `MELDADRES` in `docs/app.js` (leeg = via GitHub).
 
 ## Bron
 

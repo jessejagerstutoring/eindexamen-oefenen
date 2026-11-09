@@ -1,0 +1,493 @@
+% Casestudy Eindexamen Oefenen. Bouwen: lualatex casestudy.tex (twee keer).
+\documentclass[10.5pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage[dutch]{babel}
+\usepackage[a4paper,top=24mm,bottom=26mm,inner=26mm,outer=26mm,headsep=8mm,footskip=12mm]{geometry}
+\usepackage{xcolor,graphicx,tikz,booktabs,tabularx,enumitem,microtype,fancyhdr,titlesec,xurl}
+\usepackage[skins,breakable]{tcolorbox}
+\usepackage{caption,subcaption}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta,positioning,calc,shapes.geometric}
+\usepackage[section]{placeins}
+\usepackage{needspace}
+\usepackage[hidelinks]{hyperref}
+
+\setmainfont{SourceSerif4}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Semibold,
+  ItalicFont=*-RegularIt,BoldItalicFont=*-SemiboldIt,Numbers=Lining]
+\setsansfont{SourceSans3}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-RegularIt,
+  BoldItalicFont=*-BoldIt,FontFace={sb}{n}{*-Semibold},FontFace={k}{n}{*-Black},FontFace={l}{n}{*-Light}]
+\newcommand\halfvet{\fontseries{sb}\selectfont}
+\newcommand\zwart{\fontseries{k}\selectfont}
+
+\definecolor{petrol}{HTML}{0E6377}
+\definecolor{oker}{HTML}{B5651D}
+\definecolor{pruim}{HTML}{7A3B69}
+\definecolor{groen}{HTML}{3E7B4F}
+\definecolor{donker}{HTML}{12313B}
+\definecolor{grijs}{HTML}{6B7178}
+\definecolor{papier}{HTML}{F4F6F7}
+\definecolor{rood}{HTML}{B33A3A}
+
+\linespread{1.12}
+\setlength\parindent{0pt}
+\setlength\parskip{5pt plus 1pt}
+\titleformat{\section}{\needspace{9\baselineskip}\sffamily\zwart\Large\color{donker}}{\color{oker}\thesection}{10pt}{}
+\titleformat{\subsection}{\sffamily\bfseries\large\color{donker}}{\color{oker}\thesubsection}{8pt}{}
+\titlespacing*{\section}{0pt}{18pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{4pt}
+\captionsetup{font={small,sf},labelfont={bf,color=petrol},labelsep=period,justification=raggedright,singlelinecheck=false}
+\captionsetup[sub]{font={footnotesize,sf}}
+\setlist{itemsep=2pt,topsep=3pt}
+
+\pagestyle{fancy}\fancyhf{}
+\renewcommand\headrulewidth{0pt}
+\fancyhead[L]{\sffamily\footnotesize\color{grijs}Van open examens naar oefenplatform}
+\fancyhead[R]{\sffamily\footnotesize\color{grijs}Jesse Jagers \textbullet\ november 2026}
+\fancyfoot[C]{\sffamily\footnotesize\color{grijs}\thepage}
+
+% kader: wat Jesse vroeg, wat Claude deed
+\newtcolorbox{kader}[1]{enhanced,colback=papier,colframe=papier,boxrule=0pt,arc=0pt,
+  left=12pt,right=12pt,top=8pt,bottom=8pt,borderline west={3pt}{0pt}{oker},before skip=10pt,after skip=10pt,
+  fontupper=\small,title={\sffamily\bfseries\color{oker}#1},attach title to upper={\par\smallskip}}
+\newcommand\vraag[1]{{\sffamily\bfseries\color{donker}Wat Jesse vroeg.}\enspace\emph{#1}\par\smallskip}
+\newcommand\deed{{\sffamily\bfseries\color{donker}Wat Claude deed.}\enspace}
+\newtcolorbox{techniek}{enhanced,breakable,colback=white,colframe=petrol!40,boxrule=.6pt,arc=0pt,
+  left=10pt,right=10pt,top=6pt,bottom=6pt,fontupper=\small,before skip=8pt,after skip=8pt}
+
+\begin{document}
+
+% =================== titel ===================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[donker] (current page.north west) rectangle ($(current page.north east)+(0,-92mm)$);
+  \begin{scope}[shift={($(current page.north west)+(0,-92mm)$)}]
+    \begin{scope}[white,opacity=.07,line width=.4pt]
+      \foreach \i in {0,...,18} {\draw (0,\i*5mm) -- (210mm,\i*5mm);}
+      \foreach \i in {0,...,42} {\draw (\i*5mm,0) -- (\i*5mm,92mm);}
+    \end{scope}
+  \end{scope}
+  \foreach \c/\x in {petrol/0,oker/1,pruim/2,groen/3} {\fill[\c] ($(current page.north west)+(26mm+\x*7mm,-20mm)$) rectangle ++(5mm,-5mm);}
+  \node[anchor=north west,text=white,align=left,text width=158mm] at ($(current page.north west)+(26mm,-30mm)$)
+    {{\sffamily\footnotesize\addfontfeature{LetterSpace=10}CASESTUDY \textbullet\ NOVEMBER 2026 \textbullet\ CONCEPT}\\[4mm]
+     {\sffamily\zwart\fontsize{30}{33}\selectfont\hyphenpenalty=10000 Van open examens\\naar oefenplatform}\\[3mm]
+     {\sffamily\fontsize{14}{18}\selectfont\hyphenpenalty=10000\color{white!80!petrol} Hoe ik met Claude in zes dagen een gratis examensite en elf examenbundels bouwde, en wat ik leerde over iteratief werken met AI}};
+  \node[anchor=south west,text=white,align=left] at ($(current page.north west)+(26mm,-86mm)$)
+    {\sffamily\small\bfseries Jesse Jagers \quad{\mdseries\color{white!75!petrol} gebouwd met Claude Code (Anthropic)}};
+\end{tikzpicture}
+\vspace*{78mm}
+
+\begin{tcolorbox}[enhanced,colback=white,colframe=petrol!30,boxrule=.5pt,arc=0pt,left=12pt,right=12pt,top=8pt,bottom=8pt,fontupper=\small]
+{\sffamily\bfseries\color{petrol}Abstract.}\enspace
+Dutch national exams are public, yet students usually pay to practise them topic by topic. This case study describes
+how a free practice platform was built in six days by one person working with Claude, an AI assistant: 4{,}748 official exam
+questions for mathematics and the sciences, sorted by syllabus topic and paired with the official marking scheme, plus
+eleven printable exam books of 238--276 pages each. The emphasis is on the method: short iterations in which the human
+sets the requirements and judges the result, while the AI builds, measures and checks, and every error found becomes
+an automated check for all subjects.
+
+\medskip
+{\sffamily\bfseries\color{petrol}Samenvatting.}\enspace
+De centrale examens zijn openbaar, maar wie ze per onderwerp wil oefenen, betaalt daar meestal voor. Deze casestudy
+beschrijft hoe ik met de AI-assistent Claude in zes dagen een gratis oefenplatform bouwde: 4.748 officiële examenvragen
+wiskunde en bètavakken, per syllabusonderwerp, met het officiële correctievoorschrift, en elf examenbundels om te printen.
+Het gaat vooral om de werkwijze: kleine stappen waarin ik eisen stel en beoordeel, en Claude bouwt, meet en controleert.
+\end{tcolorbox}
+
+\begin{center}
+\begin{tabular}{@{}cccc@{}}
+{\sffamily\zwart\fontsize{22}{24}\selectfont\color{petrol}4.748} & {\sffamily\zwart\fontsize{22}{24}\selectfont\color{oker}11} &
+{\sffamily\zwart\fontsize{22}{24}\selectfont\color{pruim}2.916} & {\sffamily\zwart\fontsize{22}{24}\selectfont\color{groen}6}\\[1mm]
+\sffamily\footnotesize examenvragen per onderwerp & \sffamily\footnotesize vakken, havo en vwo &
+\sffamily\footnotesize pagina's in de bundels & \sffamily\footnotesize dagen, 4--9 november
+\end{tabular}
+\end{center}
+
+% =================== 1 ===================
+\section{Het probleem: open examens, betaalde oefenstof}
+
+Elk jaar doen honderdduizenden leerlingen eindexamen. De examens en de correctievoorschriften worden
+na afloop gepubliceerd op \emph{examenblad.nl}. Ze zijn eigendom van de Staat en mogen met bronvermelding worden
+hergebruikt \cite{copyright}. Toch kost oefenen per onderwerp meestal geld: een examenbundel moet je kopen, en
+een examentraining kost al snel \texteuro\,375 tot \texteuro\,390 per vak \cite{markt}.
+
+Dat vond ik vreemd. Het materiaal is van iedereen, alleen de ordening kost moeite: welke vragen gaan over
+\emph{elektrische schakelingen}, welke over \emph{exponentiële verbanden}? Mijn vraag was of je die moeite met een AI-assistent
+zo kunt organiseren dat er iets bruikbaars, betrouwbaars en gratis uitkomt, zonder concessies aan kwaliteit.
+
+Het resultaat bestaat uit drie delen:
+\begin{itemize}
+  \item een website met alle centrale examenvragen 2018--2026 voor wiskunde A, B en C, natuurkunde, scheikunde en
+        biologie (havo en vwo), per onderwerp, met het officiële antwoordmodel bij elke vraag;
+  \item elf examenbundels als pdf: opgaven per onderwerp, de drie nieuwste examens compleet en alle uitwerkingen;
+  \item een onderzoek naar de andere vakken en naar het bestaande gratis aanbod, als basis voor de volgende stap.
+\end{itemize}
+
+% =================== 2 ===================
+\section{De werkwijze: ik beslis, Claude bouwt, samen controleren}
+
+Ik heb niet zelf geprogrammeerd. Ik werkte met \emph{Claude Code}, een AI-assistent van Anthropic die in de terminal
+draait: hij leest en schrijft bestanden, voert programma's uit, maakt pdf's en kan het resultaat als afbeelding bekijken
+\cite{claude}. Mijn rol was die van opdrachtgever en eindredacteur: eisen stellen, keuzes maken, het resultaat bekijken
+en zeggen wat beter moest. Als bijlesdocent werk ik met deze examens, dus ik weet hoe een goede bundel eruitziet en
+waar leerlingen op vastlopen.
+
+\begin{figure}[!htb]
+\centering
+\begin{tikzpicture}[
+    stap/.style={draw=none,fill=#1,text=white,font=\sffamily\small\bfseries,minimum width=27mm,minimum height=10mm,align=center,rounded corners=1.5pt},
+    pijl/.style={-{Stealth[length=2.6mm]},line width=1pt,color=grijs}]
+  \node[stap=donker] (v) at (90:30mm) {Vraag\\[-1pt]\mdseries\footnotesize Jesse};
+  \node[stap=petrol] (b) at (18:32mm) {Bouwen\\[-1pt]\mdseries\footnotesize Claude};
+  \node[stap=groen] (m) at (-54:30mm) {Meten\\[-1pt]\mdseries\footnotesize Claude};
+  \node[stap=pruim] (k) at (-126:30mm) {Bekijken\\[-1pt]\mdseries\footnotesize samen};
+  \node[stap=oker] (s) at (162:32mm) {Bijsturen\\[-1pt]\mdseries\footnotesize Jesse};
+  \draw[pijl] (v) to[bend left=18] (b);
+  \draw[pijl] (b) to[bend left=18] (m);
+  \draw[pijl] (m) to[bend left=18] (k);
+  \draw[pijl] (k) to[bend left=18] (s);
+  \draw[pijl] (s) to[bend left=18] (v);
+  \node[font=\sffamily\footnotesize,text=grijs,align=center] at (0,0) {elke fout wordt\\een controle\\voor alle vakken};
+\end{tikzpicture}
+\caption{De werkcyclus. Ik formuleer een wens of een fout; Claude past het systeem aan, bouwt alles opnieuw, meet
+het resultaat met automatische controles en bekijkt de pagina's als afbeelding; ik beoordeel en stuur bij.}
+\label{fig:cyclus}
+\end{figure}
+
+Drie afspraken bepaalden het verloop:
+\begin{enumerate}
+  \item \textbf{Meetbare eisen.} Niet ``een mooi boekje'', maar: A5, hooguit 280 pagina's, tekst 10--13\,pt,
+        vragen per onderwerp, de drie nieuwste examens compleet. Zo kan Claude zelf controleren of het klopt.
+  \item \textbf{Oplossen in het systeem, niet per geval.} Een afgesneden figuur in natuurkunde wordt niet met de hand
+        rechtgezet, maar leidt tot een regel die voor alle elf vakken geldt, en tot een controle die het voortaan meldt.
+  \item \textbf{Elke ronde alles opnieuw.} Na elke wijziging worden alle bundels opnieuw gebouwd en nagelopen,
+        zodat een verbetering op de ene plek niets kapotmaakt op een andere.
+\end{enumerate}
+
+% =================== 3 ===================
+\section{Analyse: van pdf naar vraag}
+
+Een examen is een pdf voor mensen, geen database. De eerste stap was dus het ontleden van ruim 600 documenten
+(opgaven, correctievoorschriften, uitwerkbijlagen en aanvullingen) over 2018--2026; in 2020 waren er geen centrale
+examens. Per examen moest duidelijk worden: waar begint en eindigt elke vraag, welke inleiding en figuren horen
+erbij, en waar staat het antwoordmodel?
+
+\begin{techniek}
+\textbf{Hoe dat technisch werkt.} Met \texttt{pdftotext} worden alle tekstregels met hun positie uitgelezen. Een vraag
+herken je aan het patroon \emph{punten -- vraagnummer} in de kantlijn (\texttt{3p 12}), een antwoord aan
+\emph{vraagnummer -- maximumscore}. Daarna wordt elke pagina als afbeelding geanalyseerd: waar staat inkt, en is die
+inkt tekst of tekening? Zo wordt een vraag alleen op een witte regel geknipt, nooit dwars door een figuur.
+\end{techniek}
+
+Vervolgens kreeg elke vraag een onderwerp uit de syllabus van het College voor Toetsen en Examens. Dat gebeurde niet
+automatisch op trefwoorden: Claude las elke vraag, met de inleiding en het antwoordmodel, en koos het subdomein waar de
+vraag het meest over gaat. Daarbij schreef hij ook een korte tip die een richting geeft maar het antwoord niet verklapt.
+Ik heb meegekeken; toen bleek dat sommige tips te veel prijsgaven, zijn die herschreven.
+
+\begin{figure}[!htb]
+\centering
+\begin{tikzpicture}
+\begin{axis}[xbar,width=.9\linewidth,height=58mm,bar width=4.2pt,
+  symbolic y coords={Wiskunde A,Wiskunde B,Wiskunde C,Natuurkunde,Scheikunde,Biologie},ytick={Wiskunde A,Wiskunde B,Wiskunde C,Natuurkunde,Scheikunde,Biologie},
+  y dir=reverse,xmin=0,xmax=800,enlarge y limits=.12,axis line style={draw=none},tick style={draw=none},
+  xmajorgrids,grid style={grijs!25},tick label style={font=\sffamily\footnotesize},
+  area legend,legend style={draw=none,font=\sffamily\footnotesize,at={(1,1)},anchor=north east},legend cell align=left,
+  nodes near coords,nodes near coords style={font=\sffamily\scriptsize,text=grijs},xlabel={\sffamily\footnotesize aantal examenvragen 2018--2026}]
+\addplot[fill=petrol,draw=none] coordinates {(345,Wiskunde A) (282,Wiskunde B) (414,Natuurkunde) (563,Scheikunde) (723,Biologie)};
+\addplot[fill=oker,draw=none] coordinates {(343,Wiskunde A) (268,Wiskunde B) (364,Wiskunde C) (405,Natuurkunde) (405,Scheikunde) (636,Biologie)};
+\legend{havo,vwo}
+\end{axis}
+\end{tikzpicture}
+\caption{Aantal ingedeelde examenvragen per vak, havo en vwo, elk vak over zestien examens. Wiskunde C bestaat alleen op het vwo.}
+\label{fig:vragen}
+\end{figure}
+
+\begin{kader}{Eerste ronde: de website}
+\vraag{Een site waar leerlingen per onderwerp kunnen oefenen met echte examenvragen, apart van mijn andere projecten.}
+\deed een eigen repository en een statische site op GitHub Pages; per vak een inhoudsopgave zoals in een studieboek,
+per vraag de uitsnede uit het originele examen, het antwoordmodel en ``geef jezelf punten''. De voortgang blijft in de
+browser van de leerling: geen account, geen cookies. Eerst wiskunde, dezelfde dag natuurkunde, scheikunde en biologie.
+\end{kader}
+
+% =================== 4 ===================
+\section{Van website naar boek: de examenbundels}
+
+De tweede wens was een papieren versie: een A5-boek zoals de bekende examenbundels, maar gratis. Het eerste boek
+(wiskunde B vwo) werd daarna het sjabloon voor alle andere.
+
+\begin{figure}[!htb]
+\centering
+\begin{tikzpicture}[node distance=4mm and 4.5mm,
+  blok/.style={draw=#1,line width=.9pt,fill=#1!8,font=\sffamily\footnotesize,align=center,minimum height=13mm,text width=20.5mm,rounded corners=1pt},
+  pijl/.style={-{Stealth[length=2.2mm]},line width=.9pt,color=grijs}]
+  \node[blok=donker] (a) {\textbf{Examenblad}\\pdf's 2018--2026};
+  \node[blok=petrol,right=of a] (b) {\textbf{Ontleden}\\vragen, posities, antwoorden};
+  \node[blok=pruim,right=of b] (c) {\textbf{Indelen}\\onderwerp en tip per vraag};
+  \node[blok=groen,above right=-3mm and 4.5mm of c] (d) {\textbf{Website}\\uitsneden als beeld};
+  \node[blok=oker,below right=-3mm and 4.5mm of c] (e) {\textbf{Bundel}\\opmaak in \LaTeX};
+  \node[blok=rood,right=of e] (f) {\textbf{Controle}\\verslag en contactvellen};
+  \draw[pijl] (a) -- (b); \draw[pijl] (b) -- (c); \draw[pijl] (c) -- (d); \draw[pijl] (c) -- (e); \draw[pijl] (e) -- (f);
+  \draw[pijl,dashed] (f.north) |- ($(d.north)+(0,4mm)$) -| node[pos=.25,above,font=\sffamily\scriptsize,text=grijs] {fout gevonden: regel aanpassen, alles opnieuw} (c.north);
+\end{tikzpicture}
+\caption{De pijplijn. Website en bundels gebruiken dezelfde snijlijnen; de bundel neemt de vragen over als vectoruitsnede,
+zodat ze scherp blijven in print. Elke fout uit de controle gaat terug naar de regels, niet naar één losse pagina.}
+\label{fig:pijplijn}
+\end{figure}
+
+\begin{techniek}
+\textbf{Wat het bouwscript doet.} Vragen en antwoorden worden niet overgetypt maar als \emph{vectoruitsnede} uit de
+originele pdf in het boek gezet (Lua\LaTeX), verkleind van 12 naar ongeveer 10\,pt. Het boek bewaakt zijn eigen
+paginabudget: past het niet in 280 pagina's, dan valt het oudste examen uit deel~1 af en wordt opnieuw gebouwd.
+Figuren mogen iets krimpen om nog op een pagina te passen; een opgavetitel blijft altijd bij zijn eerste vraag.
+Na elke bouw volgt een \textbf{controleverslag} (tabel~\ref{tab:controle}) en een set contactvellen met alle pagina's
+in het klein (figuur~\ref{fig:contactvel}).
+\end{techniek}
+
+\begin{table}[!htb]
+\centering\small
+\begin{tabularx}{\linewidth}{@{}>{\sffamily\bfseries}l X@{}}
+\toprule
+Volledigheid & elke vraag en elk antwoord geplaatst; evenveel vragen als antwoorden \\
+Leesbaarheid & tekst nooit kleiner dan 90\,\% van de normale grootte (behalve aanvullingen van het CvTE) \\
+Uitsneden & geen inkt net buiten een uitsnede; geen tekening die over een snijlijn doorloopt \\
+Zetwerk & geen regels die meer dan 3\,pt uitsteken; Nederlandse afbreekregels aanwezig; geen ontbrekende tekens \\
+Bladspiegel & inhoudsopgave op één pagina; bijna lege pagina's gemeld \\
+Omvang & niet meer dan het paginabudget \\
+\bottomrule
+\end{tabularx}
+\caption{Wat het automatische controleverslag na elke bouw nagaat. Een bundel is pas klaar bij nul meldingen; daarna
+bekijken we de contactvellen nog met het oog.}
+\label{tab:controle}
+\end{table}
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=.92\linewidth]{fig/contactvel.png}
+\caption{Een contactvel: de eerste veertig pagina's van de bundel natuurkunde havo in één afbeelding. Omslag, voorwoord,
+titelpagina, inhoud, uitleg, tips en daarna deel~1 per onderwerp. Na elke bouw ontstaan zo'n zeven van zulke vellen per boek;
+zo zijn alle 2.916 pagina's van de elf bundels nagelopen.}
+\label{fig:contactvel}
+\end{figure}
+
+% =================== 5 ===================
+\section{Itereren: het boek wordt pas goed door kritisch kijken}
+
+De eerste versie van een bundel was nooit de laatste. De echte kwaliteit ontstond in de rondes daarna. Hieronder een
+selectie, met mijn eigen woorden (licht ingekort) en wat Claude daarop deed.
+
+\begin{kader}{Ronde: nummering en uitwerkbijlagen}
+\vraag{Kun je de nummers van de vragen laten doorlopen? En bij vragen met een uitwerkbijlage niet de lijnen laten zien
+waar je je antwoord kunt zetten?}
+\deed nummering per bundel, gekoppeld aan de uitwerkingen; schrijfregels op uitwerkbijlagen herkennen en weglaten,
+maar alleen als er niets anders naast staat, zodat figuren heel blijven. Een ronde later vond ik doorlopende nummers
+toch onhandig: nu begint elk onderwerp weer bij~1, en de uitwerkingen volgen dezelfde indeling.
+\end{kader}
+
+\begin{kader}{Ronde: compacter, rustiger, robuust}
+\vraag{Kun je de uitwerkingen compacter neerzetten? Liever geen foto's op de voorkant als ze niet bij het vak passen. Ga heel
+systematisch en robuust te werk, zodat we dit voor alle vakken kunnen gebruiken.}
+\deed de witruimte in de uitwerkingen half laten meegaan; een eigen lijntekening per vak op de omslag; en een
+systeem met lagen van instellingen (standaard, per vakfamilie, per boek), zodat een nieuw vak zonder nieuwe code kan.
+Daarbij kwam het controleverslag, dat elke latere ronde sneller maakte.
+\end{kader}
+
+\begin{kader}{Ronde: valt er iets buiten de pagina?}
+\vraag{Kun je van alle bundels kijken of er stukjes van vragen of antwoorden net buiten de pagina vallen?}
+\deed een nieuwe meting: bij elke uitsnede nagaan of er inkt nét buiten de snijlijn staat. Dat leverde vier soorten
+fouten op, elk met een eigen oplossing voor alle vakken: figuren die links uitstaken (figuur~\ref{fig:snij}), aslabels
+die boven of onder werden afgekapt, een figuur naast de tekst die over de grens tussen twee vragen doorloopt, en een
+exponent die van zijn formule werd gescheiden (figuur~\ref{fig:formule}). Na de laatste ronde: nul meldingen in alle elf boeken.
+\end{kader}
+
+\begin{figure}[!htb]
+\centering
+\begin{subfigure}[t]{.53\linewidth}\centering
+  \includegraphics[width=\linewidth]{fig/snij-voor.png}
+  \caption{Origineel examen. Alles links van de rode lijn viel buiten de uitsnede: de rand van de tabel, de labels I en III
+  en het begin van de grafieken.}
+\end{subfigure}\hfill
+\begin{subfigure}[t]{.43\linewidth}\centering
+  \includegraphics[width=\linewidth]{fig/snij-na.png}
+  \caption{In de bundel na de verbetering: de snijlijn schuift per blok mee tot de figuur er helemaal in staat.}
+\end{subfigure}
+\caption{Natuurkunde havo 2024-I, figuur 5. De vaste snijlijn net rechts van de vraagnummers sneed figuren af die verder
+naar links begonnen dan de tekst.}
+\label{fig:snij}
+\end{figure}
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=.42\linewidth]{fig/formule-grens.png}
+\caption{Wiskunde B vwo 2021-II. De grens tussen twee vragen (rood) liep door de teller van de exponent in
+$e^{-1/x}$, waardoor de ``1'' bij de vorige vraag terechtkwam. Nu schuift een grens langs korte tekstjes die boven
+of onder een regel horen (groen).}
+\label{fig:formule}
+\end{figure}
+
+\begin{kader}{Ronde: is de omslag wiskundig correct?}
+\vraag{Kijk goed of de afbeelding op de voorpagina wiskundig correct is en mooi op elkaar aansluit.}
+\deed de tekening narekenen. De cirkel raakte de sinus niet precies, en een parabool liep door de titel. In de nieuwe
+versie (figuur~\ref{fig:omslag}) is alles exact: de cirkel met straal~15 raakt $y=12\sin(6x)$ precies in de top (de
+kromtestraal daar is 7,6, dus ze raken elkaar alleen in dat punt), de raaklijn aan $y=2{,}2\,e^{x/20}$ in $x=40$ heeft
+helling $0{,}8128$, en de snijpunten van sinus en e-macht ($x=1{,}943$ en $x=23{,}817$) zijn berekend en gemarkeerd.
+\end{kader}
+
+\begin{figure}[!htb]
+\centering
+\begin{subfigure}[t]{.42\linewidth}\centering
+  \includegraphics[width=\linewidth,trim=0 330 0 0,clip]{fig/omslag-oud.png}\caption{Eerste versie.}
+\end{subfigure}\hspace{6mm}
+\begin{subfigure}[t]{.42\linewidth}\centering
+  \includegraphics[width=\linewidth,trim=0 330 0 0,clip]{fig/omslag-nieuw.png}\caption{Nagerekende versie.}
+\end{subfigure}
+\caption{De omslag van de wiskundebundels. Links loopt de groene parabool door de titel en snijdt de cirkel de sinus; rechts
+raakt de cirkel de sinus in de top en liggen alle gemarkeerde punten exact op de grafieken.}
+\label{fig:omslag}
+\end{figure}
+
+\begin{kader}{Ronde: persoonlijker, en daarna formeler}
+\vraag{Kun je de bundels persoonlijker maken, met een leuke tweede pagina en een laatste pagina met succes voor je examen?}
+\deed een welkomstbrief op de binnenkant van de omslag en een pagina ``Succes met je examen!'' met wat je de avond ervoor
+en tijdens het examen doet, met de hulpmiddelen van dat vak. Een dag later wilde ik de tweede pagina formeler; Claude zocht
+voorwoorden van bestaande examenbundels op en schreef een voorwoord in die stijl (``Beste examenkandidaat'').
+\end{kader}
+
+% =================== 6 ===================
+\section{Verbreden: de andere vakken en de markt}
+
+Met de bètavakken af lag de vraag voor of dezelfde aanpak ook werkt voor talen en maatschappijvakken. In plaats van te
+gokken, liet ik Claude het voorwerk doen: alle centrale examens van 33 vakonderdelen ophalen (481 examens), met de bestaande
+code meten wat er wel en niet werkt, en een advies schrijven, los van de site.
+
+\begin{table}[!htb]
+\centering\small
+\begin{tabularx}{\linewidth}{@{}l c X@{}}
+\toprule
+\sffamily\bfseries Vakgroep & \sffamily\bfseries Vragen gevonden & \sffamily\bfseries Belangrijkste bevinding \\
+\midrule
+Economie, bedrijfseconomie & 100\,\% & werkt zoals de bètavakken; indeling met de hand \\
+Aardrijkskunde, geschiedenis & 100\,\% & domein of tijdvak staat in het examen; bronnen uit een apart boekje nodig \\
+Talen en Nederlands & 100\,\% & elke vraag hoort bij een tekst; auteursrecht op teksten van derden nagaan \\
+Kunst algemeen, muziek & 0\,\% & opgaven zijn plaatjes met beeld en geluid: methode werkt niet \\
+\bottomrule
+\end{tabularx}
+\caption{Uitkomst van het onderzoek naar de andere vakken (samengevat). De techniek werkt bijna overal; de echte
+verschillen zitten in bronnenboekjes, indeling en auteursrecht.}
+\label{tab:andere}
+\end{table}
+
+Daarna volgde een marktonderzoek: welke gratis sites bestaan er al, en waarin verschilt dit project? Claude zette
+daarvoor vier onderzoekssporen tegelijk uit (officiële bronnen, wiskunde en bèta, talen en maatschappij, video en apps)
+en voegde de bevindingen samen tot één rapport \cite{markt}. De conclusie: gratis vragen per onderwerp zijn niet meer
+uniek, maar de combinatie van officieel correctievoorschrift, een recente stand, geen account en geen reclame wel.
+Wat schaars is, is vertrouwen.
+
+% =================== 7 ===================
+\section{De herinrichting: vertrouwen zichtbaar maken}
+
+Op basis van dat rapport is de site opnieuw ingericht (figuur~\ref{fig:site}): bovenaan in één zin wat je hier kunt, drie
+bewijspunten, eerst niveau en dan vak kiezen, bij elke vraag een bronregel, bij elk onderwerp verwijzingen naar goede
+gratis uitleg elders, een pagina voor docenten, en vaste pagina's per onderwerp zodat zoekmachines ze kunnen vinden.
+
+\begin{figure}[!htb]
+\centering
+\begin{subfigure}[t]{.485\linewidth}\centering
+  \includegraphics[width=\linewidth,trim=0 330 0 0,clip]{fig/site-voor.png}\caption{Voor: een tabel met vakken.}
+\end{subfigure}\hfill
+\begin{subfigure}[t]{.485\linewidth}\centering
+  \includegraphics[width=\linewidth,trim=0 330 0 0,clip]{fig/site-na.png}\caption{Na: belofte, bewijspunten, niveau en vak.}
+\end{subfigure}
+\caption{De startpagina voor en na de herinrichting.}
+\label{fig:site}
+\end{figure}
+
+\begin{kader}{Ronde: menselijk, en eerlijk over AI}
+\vraag{Ik wil echt een AI-loos gevoel overbrengen: dat het door een mens is gemaakt en continu wordt bijgehouden.}
+\deed een logboek met alleen echte data uit de versiegeschiedenis, ``laatst bijgewerkt'' dat dat logboek volgt, en teksten
+in gewone taal. Maar ook een waarschuwing: de site zei ``met de hand ingedeeld'', terwijl Claude de vragen had ingedeeld.
+Een menselijk gevoel mag niet ten koste gaan van eerlijkheid. De tekst luidt nu: \emph{``Elke vraag is afzonderlijk gelezen
+en ingedeeld, met hulp van AI (Claude) en met een ervaren bijlesdocent die meekijkt.''}
+\end{kader}
+
+Voor elke grote wijziging maakte Claude eerst een herstelpunt in git en werkte hij op een aparte conceptversie; de live
+site verandert pas na mijn akkoord.
+
+% =================== 8 ===================
+\section{Resultaten}
+
+\begin{figure}[!htb]
+\centering
+\begin{tikzpicture}[x=24mm]
+  \draw[line width=1.2pt,color=grijs!50] (0,0) -- (5.6,0);
+  \foreach \d/\l/\t/\k [count=\i] in {
+      0/4 nov/{Site online: wiskunde, daarna\\natuurkunde, scheikunde, biologie}/petrol,
+      1/5 nov/{Alle vragen nagelopen;\\eerste bundel (wiskunde B vwo)}/pruim,
+      2/6 nov/{Natuurkunde havo wordt\\het voorbeeldboek}/donker,
+      4/8 nov/{Drie bundels online\\met een downloadpagina}/oker,
+      5/9 nov/{Elf bundels, snijcontrole,\\onderzoek, herinrichting}/groen} {
+    \fill[\k] (\d+0.3,0) circle (2.2mm);
+    \node[font=\sffamily\small\bfseries,text=\k] at (\d+0.3,-6mm) {\l};
+    \node[font=\sffamily\scriptsize,align=center,text width=34mm,anchor=south] at (\d+0.3,{4mm+mod(\i,2)*10mm}) {\t};
+  }
+\end{tikzpicture}
+\caption{Tijdlijn van het project, volgens de versiegeschiedenis en de bouwbestanden. De grootste kwaliteitsslagen in
+de bundels zaten in de laatste twee dagen.}
+\label{fig:tijdlijn}
+\end{figure}
+
+\begin{table}[!htb]
+\centering\small
+\begin{tabular}{@{}lr@{}}
+\toprule
+Examenvragen per onderwerp, met correctievoorschrift en tip & 4.748 \\
+Vakken (havo en vwo) & 11 \\
+Examens per vak & 16 (2018--2026) \\
+Examenbundels & 11, samen 2.916 pagina's \\
+Meldingen in het controleverslag na de laatste ronde & 0 \\
+Vaste, vindbare pagina's per vak en onderwerp & 147 \\
+Onderzochte andere vakonderdelen & 33 (481 examens) \\
+Code (Python, JavaScript, \LaTeX) & ongeveer 4.200 regels \\
+\bottomrule
+\end{tabular}
+\caption{Kerncijfers na zes dagen.}
+\label{tab:cijfers}
+\end{table}
+
+% =================== 9 ===================
+\section{Wat ik leerde over werken met AI}
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item \textbf{Specifiek is sneller.} ``A5, hooguit 280 pagina's, tekst 10--13\,pt'' levert direct iets toetsbaars op;
+        ``maak er een mooi boekje van'' pas na drie rondes.
+  \item \textbf{Laat de AI zichzelf meten, maar kijk zelf.} Het controleverslag vond veel kleine problemen. Maar de
+        afgesneden figuren, de nummering en de omslag vond ik door gewoon te kijken. De combinatie werkt.
+  \item \textbf{Repareer de oorzaak.} Elke fout werd een regel en een controle voor alle vakken. Daardoor werd het systeem
+        na elke ronde beter, in plaats van alleen het ene boek.
+  \item \textbf{Fouten horen erbij, ook bij de AI.} Claude stopte eens per ongeluk zijn eigen bouwproces, en een keer
+        draaiden twee bouwrondes tegelijk in dezelfde map. Hij merkte het zelf op, legde uit wat er gebeurd was en bouwde de
+        betrokken boeken opnieuw. Juist dat soort eerlijkheid maakt het werkbaar.
+  \item \textbf{Veiligheid eerst.} Herstelpunten en een conceptversie maakten het mogelijk om groot te veranderen zonder
+        risico voor de live site.
+  \item \textbf{Wees eerlijk over AI.} Ik wilde een menselijk gevoel, maar niet ten koste van de waarheid. Transparantie
+        over hoe het gemaakt is, past juist bij een site die op vertrouwen wint.
+\end{enumerate}
+
+\begin{tcolorbox}[enhanced,colback=donker,colframe=donker,arc=0pt,left=14pt,right=14pt,top=10pt,bottom=10pt,fontupper=\color{white}\small,before skip=14pt]
+{\sffamily\bfseries\large Heb jij ook een idee?}\par\smallskip
+Deze aanpak werkt niet alleen voor examens. Een oefenomgeving, een kennisbank, een rapportagetool of een boek uit
+bestaande documenten: als je weet wat het moet worden en wie het gaat gebruiken, kun je het samen met een AI-assistent
+iteratief bouwen. Ik denk graag mee over hoe dat voor jouw idee kan werken. Je vindt me op LinkedIn: \textbf{Jesse Jagers}.
+\end{tcolorbox}
+
+% =================== bronnen ===================
+\renewcommand\refname{Bronnen}
+\begin{thebibliography}{9}\small\setlength\itemsep{1pt}
+\bibitem{copyright} College voor Toetsen en Examens, \emph{Copyright en hergebruik van examens}. \url{https://www.examenblad.nl}
+\bibitem{claude} Anthropic, \emph{Claude Code}. \url{https://www.anthropic.com/claude-code}
+\bibitem{markt} J. Jagers en Claude, \emph{Gratis examenoefenmateriaal in Nederland} (onderzoeksrapport, november 2026),
+  met prijzen van onder meer Lyceo en Eindsprint.
+\bibitem{site} \emph{Eindexamen Oefenen}. \url{https://jessejagerstutoring.github.io/eindexamen-oefenen/}
+\bibitem{repo} Broncode en bouwscripts. \url{https://github.com/jessejagerstutoring/eindexamen-oefenen}
+\end{thebibliography}
+
+\end{document}

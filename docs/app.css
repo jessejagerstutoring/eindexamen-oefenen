@@ -274,3 +274,78 @@ img { max-width: 100%; display: block; }
 .bundel-knoppen { margin-top: auto; display: flex; flex-wrap: wrap; gap: 10px; }
 .bundel-noot { color: var(--grijs); font-size: 15px; max-width: 70ch; margin: 24px 0 0; }
 @media (max-width: 520px) { .bundel { flex-direction: column; } .bundel-omslag { width: 150px; } }
+
+/* ---------- herinrichting november 2026 ---------- */
+/* kop: merk links, hoofdmenu rechts; de vakken eronder */
+.sitenav { display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+.sitenav a { color: #dfe6f0; text-decoration: none; padding: 4px 0; border-bottom: 2px solid transparent; }
+.sitenav a:hover { color: #fff; border-bottom-color: var(--oker); }
+.kop-vakken { border-top: 1px solid rgba(255, 255, 255, .12); }
+.kop-vakken .hoofdnav { width: 100%; max-width: 1040px; margin: 0 auto; padding: 8px max(20px, env(safe-area-inset-right)) 9px max(20px, env(safe-area-inset-left)); }
+
+/* startpagina */
+.beloftes { list-style: none; margin: 30px 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; border-top: 1px solid var(--lijn); border-bottom: 1px solid var(--lijn); }
+.beloftes li { padding: 16px 20px 18px 0; font-size: 15.5px; color: var(--grijs); line-height: 1.5; }
+.beloftes li + li { padding-left: 20px; border-left: 1px solid var(--lijn); }
+.beloftes b { display: block; font-family: var(--serif); font-size: 18px; color: var(--inkt); margin-bottom: 4px; }
+.niveaukeuze { display: inline-flex; margin: 16px 0 4px; border: 1px solid var(--blauw); border-radius: 3px; overflow: hidden; }
+.niveaukeuze button { font: inherit; font-weight: 600; font-size: 16px; padding: 8px 26px; border: none; background: var(--wit); color: var(--blauw); cursor: pointer; }
+.niveaukeuze button + button { border-left: 1px solid var(--blauw); }
+.niveaukeuze button.aan { background: var(--blauw); color: #fff; }
+.vakkaarten { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 0 28px; margin-top: 8px; }
+.vakkaart { display: grid; gap: 2px; padding: 14px 0 13px; border-bottom: 1px solid var(--lijn); text-decoration: none; color: var(--inkt); }
+.vakkaart:hover .vk-naam { color: var(--blauw); text-decoration: underline; text-underline-offset: 3px; }
+.vk-naam { font-family: var(--serif); font-size: 21px; font-weight: 600; }
+.vk-cijfers { font-size: 14.5px; color: var(--grijs); font-variant-numeric: tabular-nums; }
+.vk-jij { font-size: 13.5px; color: var(--goed); font-weight: 600; min-height: 0; }
+.vk-jij:empty { display: none; }
+.meer { margin: 10px 0 0; font-size: 15.5px; }
+
+/* logboek */
+.logboek { list-style: none; margin: 18px 0 0; padding: 0; }
+.logboek li { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 4px 24px; padding: 14px 0; border-bottom: 1px solid var(--lijn-zacht); }
+.logboek time { font-size: 14.5px; color: var(--grijs); font-variant-numeric: tabular-nums; padding-top: 2px; }
+.logboek b { font-family: var(--serif); font-size: 17.5px; }
+.logboek p { margin: 4px 0 0; color: var(--grijs); font-size: 15.5px; max-width: 70ch; }
+.logboek.kort li { padding: 11px 0; }
+
+/* vakpagina */
+.actueel { font-size: 14px; }
+.bundel-blok { display: flex; gap: 18px; align-items: center; margin: 20px 0 4px; padding: 14px 18px; background: var(--wit); border: 1px solid var(--lijn); border-left: 3px solid var(--oker); }
+.bundel-mini { flex: none; width: 58px; border: 1px solid var(--lijn); box-shadow: 0 1px 4px rgba(30, 33, 36, .12); }
+.bundel-mini img { width: 100%; height: auto; }
+.bundel-blok b { font-family: var(--serif); font-size: 17px; }
+.bundel-blok p { margin: 3px 0 10px; color: var(--grijs); font-size: 15px; }
+.bundel-blok .knop { min-height: 36px; font-size: 15px; padding: 0 14px; }
+
+/* onderwerp: uitleg elders */
+.uitleg { margin-top: 30px; padding: 18px 22px; background: var(--blauw-licht); }
+.uitleg h2 { font-size: 19px; }
+.uitleg p { margin: 6px 0 0; color: var(--grijs); font-size: 15.5px; }
+.uitleg ul { margin: 10px 0 0; padding-left: 20px; }
+.uitleg li { margin: 5px 0; }
+.uitleg li span { color: var(--grijs); font-size: 15px; }
+.uitleg li span::before { content: '– '; }
+.klein { font-size: 13.5px; }
+
+/* vraag: bronregel */
+.bronregel { margin: 6px 0 0; font-size: 13.5px; color: var(--grijs); }
+.bronregel a { color: var(--grijs); }
+
+@media (max-width: 760px) {
+  .beloftes { grid-template-columns: minmax(0, 1fr); }
+  .beloftes li, .beloftes li + li { padding: 12px 0; border-left: none; }
+  .beloftes li + li { border-top: 1px solid var(--lijn-zacht); }
+  .logboek li { grid-template-columns: minmax(0, 1fr); }
+  .sitenav { gap: 4px 14px; font-size: 14.5px; }
+}
+
+/* vaste pagina's per vak en onderwerp (tools/bouw_statisch.py) */
+.statisch .kruimel-statisch { font-size: 14px; color: var(--grijs); margin-bottom: 18px; }
+.statisch .kruimel-statisch a { color: var(--grijs); }
+.statisch .lijstkop .knop { margin-top: 6px; }
+.alle-ond { padding: 14px 0; border-bottom: 1px solid var(--lijn-zacht); }
+.alle-ond h3 { font-family: var(--serif); font-size: 19px; margin: 0 0 6px; }
+.alle-ond h3 a { color: var(--blauw); text-decoration: none; }
+.alle-ond ul { margin: 0; padding: 0; list-style: none; columns: 2 260px; column-gap: 28px; }
+.alle-ond li { margin: 3px 0; font-size: 15.5px; break-inside: avoid; }
