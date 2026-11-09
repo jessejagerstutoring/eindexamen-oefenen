@@ -1,0 +1,105 @@
+% Infographic Eindexamen Oefenen (4:5, geschikt voor LinkedIn). Bouwen: lualatex infographic.tex (twee keer).
+\documentclass{article}
+\usepackage{fontspec}
+\usepackage[dutch]{babel}
+\usepackage[paperwidth=216mm,paperheight=270mm,margin=0mm]{geometry}
+\usepackage{xcolor,tikz}
+\usetikzlibrary{arrows.meta,calc,positioning}
+\setmainfont{SourceSerif4}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Semibold,ItalicFont=*-RegularIt,Numbers=Lining]
+\setsansfont{SourceSans3}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-RegularIt,
+  FontFace={sb}{n}{*-Semibold},FontFace={k}{n}{*-Black},FontFace={l}{n}{*-Light}]
+\newcommand\zwart{\fontseries{k}\selectfont}
+\definecolor{petrol}{HTML}{0E6377}\definecolor{oker}{HTML}{B5651D}\definecolor{pruim}{HTML}{7A3B69}
+\definecolor{groen}{HTML}{3E7B4F}\definecolor{donker}{HTML}{12313B}\definecolor{grijs}{HTML}{6B7178}
+\definecolor{papier}{HTML}{F4F6F7}\definecolor{rood}{HTML}{B33A3A}
+\pagestyle{empty}
+\hyphenpenalty=10000 \exhyphenpenalty=10000
+\begin{document}\noindent
+\begin{tikzpicture}[remember picture,overlay,shift={(current page.south west)},x=1mm,y=1mm,
+  pijl/.style={-{Stealth[length=2.2mm]},line width=.9pt,color=grijs},
+  kopje/.style={anchor=north west,font=\sffamily\bfseries\small,text=#1},
+  tekst/.style={anchor=north west,font=\sffamily\footnotesize,text=donker,align=left},
+]
+% ---------- achtergrond ----------
+\fill[white] (0,0) rectangle (216,270);
+\fill[donker] (0,270) rectangle (216,222);
+\begin{scope}[white,opacity=.07,line width=.3pt]
+  \foreach \i in {0,...,9} {\draw (0,222+\i*5) -- (216,222+\i*5);}
+  \foreach \i in {0,...,43} {\draw (\i*5,222) -- (\i*5,270);}
+\end{scope}
+\foreach \c/\x in {petrol/0,oker/1,pruim/2,groen/3} {\fill[\c] (14+\x*6,259) rectangle ++(4,-4);}
+\node[anchor=north west,text=white,font=\sffamily\scriptsize,align=left] at (14,252) {\addfontfeature{LetterSpace=10}CASESTUDY \textbullet\ MENS--AI-SAMENWERKING};
+\node[anchor=north west,text=white,align=left,text width=190mm] at (13,247)
+  {{\sffamily\zwart\fontsize{24}{26}\selectfont Van open examens naar oefenplatform}\\[1.5mm]
+   {\sffamily\fontsize{12}{14}\selectfont\color{white!80!petrol} gebouwd in zes dagen, met alleen instructies in gewone taal}};
+\node[anchor=south east,text=white!80!petrol,font=\sffamily\footnotesize] at (202,226) {\textbf{\color{white}Jesse Jagers} \enspace ontwikkeld met Claude Code (Anthropic)};
+
+% ---------- rij 1: probleem en resultaat ----------
+\node[kopje=oker] at (14,215) {HET PROBLEEM};
+\node[tekst,text width=78mm] at (14,209) {De centrale examens zijn openbaar, maar oefenen per onderwerp kost meestal geld. De waarde zit niet in de opgaven, maar in het \textbf{ordenen}: per onderwerp, met antwoordmodel, drukklaar.};
+\node[kopje=petrol] at (104,215) {HET RESULTAAT};
+\foreach \g/\t/\k/\x/\y in {4.748/{examenvragen per onderwerp}/petrol/104/209, 11/{vakken, havo en vwo}/oker/150/209, 2.916/{pagina's in elf bundels}/pruim/104/192, 0/{regels code door de mens}/groen/150/192} {
+  \node[anchor=north west,font=\sffamily\zwart\fontsize{19}{20}\selectfont,text=\k] at (\x,\y) {\g};
+  \node[anchor=north west,font=\sffamily\scriptsize,text=grijs] at (\x,\y-8) {\t};
+}
+\draw[grijs!30,line width=.5pt] (14,176) -- (202,176);
+
+% ---------- rij 2: rollen + cyclus (links), pijplijn (rechts) ----------
+\node[kopje=donker] at (14,171) {DE WERKWIJZE};
+\begin{scope}[shift={(58,132)}]
+  \foreach \k/\t/\h/\r in {donker/Instructie/90/27, petrol/Implementatie/18/30, groen/Verificatie/-54/27, pruim/Inspectie/-126/27, oker/Beoordeling/162/30}
+    \node[fill=\k,text=white,font=\sffamily\scriptsize\bfseries,minimum width=23mm,minimum height=7.5mm,rounded corners=1.5pt] (n\t) at (\h:\r) {\t};
+  \foreach \a/\b in {Instructie/Implementatie,Implementatie/Verificatie,Verificatie/Inspectie,Inspectie/Beoordeling,Beoordeling/Instructie}
+    \draw[pijl] (n\a) to[bend left=16] (n\b);
+  \node[font=\sffamily\scriptsize\bfseries,text=donker,align=center] at (0,-1) {elk defect\\wordt een\\controle};
+  \node[font=\sffamily\tiny,text=grijs,align=center] at (0,33) {de mens bepaalt wat en of; de AI bepaalt hoe en toont aan dat};
+\end{scope}
+% rolverdeling onder de cyclus
+\node[anchor=north west,fill=donker!8,font=\sffamily\scriptsize,text width=40mm,align=left,inner sep=3pt,rounded corners=1.5pt,minimum height=11mm] at (14,101.5)
+  {\textbf{Mens}\enspace doel, meetbare eisen, keuzes, oordeel met vakkennis};
+\node[anchor=north west,fill=petrol!10,font=\sffamily\scriptsize,text width=40mm,align=left,inner sep=3pt,rounded corners=1.5pt,minimum height=11mm] at (59,101.5)
+  {\textbf{AI-agent}\enspace ophalen, code schrijven, alles herbouwen, meten, pagina's bekijken};
+% pijplijn
+\node[kopje=donker] at (112,171) {DE PIJPLIJN};
+\foreach \k/\t/\g/\u [count=\i] in {donker/Ophalen/642/{documenten examenblad.nl}, petrol/Ontleden/4.748/{vragen, inleiding en antwoord}, pruim/Indelen/133/{onderwerpen volgens de syllabus}, groen/Publiceren/146/{vindbare webpagina's}, oker/Zetten/2.916/{pagina's in A5-bundels}} {
+  \pgfmathsetmacro\y{163-(\i-1)*13}
+  \node[anchor=west,fill=\k,text=white,font=\sffamily\scriptsize\bfseries,minimum width=22mm,minimum height=7mm,rounded corners=1.5pt] (p\i) at (112,\y) {\t};
+  \node[anchor=west,font=\sffamily\zwart\fontsize{13}{14}\selectfont,text=\k] at (137,\y) {\g};
+  \node[anchor=west,font=\sffamily\scriptsize,text=grijs] at (160,\y) {\u};
+}
+\foreach \i/\j in {1/2,2/3,3/4,4/5} \draw[pijl] (p\i.south) -- (p\j.north);
+\draw[grijs!30,line width=.5pt] (14,88.5) -- (202,88.5);
+
+% ---------- rij 3: typen instructies ----------
+\node[kopje=donker] at (14,84) {VIJF TYPEN INSTRUCTIES \normalfont\sffamily\scriptsize\color{grijs}(geen code, alleen gewone taal)};
+\foreach \k/\t/\v [count=\i] in {donker/Specificatie/{A5, max.\ 280 pagina's, tekst 10--13 pt}, rood/Correctie/{``er valt een figuur buiten de pagina''}, oker/Verfijning/{compacter, formeler, persoonlijker}, groen/Validatie/{``is de omslag wiskundig correct?''}, pruim/Strategie/{uitbreiden of toespitsen? eerlijk over AI}} {
+  \pgfmathsetmacro\x{14+(\i-1)*38}
+  \node[anchor=north west,fill=\k,text=white,font=\sffamily\scriptsize\bfseries,minimum width=36mm,minimum height=6.5mm,rounded corners=1.5pt] at (\x,77) {\t};
+  \node[anchor=north west,fill=\k!9,font=\sffamily\scriptsize,text width=32mm,minimum height=12mm,inner sep=2mm,align=left,rounded corners=1.5pt] at (\x,69.5) {\v};
+}
+\draw[pijl] (14,54) -- node[below,font=\sffamily\tiny,text=grijs]{van specificeren naar valideren} (202,57);
+
+% ---------- rij 4: wat een goede bundel nodig heeft ----------
+\node[kopje=donker] at (14,46) {WAT EEN GOEDE EXAMENBUNDEL NODIG HEEFT};
+\foreach \t/\u [count=\i] in {Getrouw/{opgaven ongewijzigd, als vector uitgesneden}, Leesbaar/{tekst nooit onder 10 pt}, Compleet/{elke vraag en elk antwoord}, Heel/{geen figuur afgesneden of gesplitst}} {
+  \pgfmathsetmacro\x{14+(\i-1)*47.5}
+  \fill[petrol] (\x,39.5) circle (1.2);
+  \node[anchor=north west,font=\sffamily\scriptsize,text width=42mm,align=left] at (\x+2,41) {\textbf{\t}\enspace\u};
+}
+\foreach \t/\u [count=\i] in {Volgens syllabus/{indeling getoetst aan de CE-stof}, Binnen budget/{max.\ 280 pagina's A5}, Verzorgd/{uitlijning, afbreking, alle tekens}, Herkomst/{bron per examen vermeld}} {
+  \pgfmathsetmacro\x{14+(\i-1)*47.5}
+  \fill[oker] (\x,31.5) circle (1.2);
+  \node[anchor=north west,font=\sffamily\scriptsize,text width=42mm,align=left] at (\x+2,33) {\textbf{\t}\enspace\u};
+}
+\node[anchor=north west,font=\sffamily\scriptsize\itshape,text=grijs] at (14,26) {Een bundel is pas klaar bij \textbf{nul meldingen} in het controleverslag \emph{én} een menselijke blik op elke pagina.};
+
+% ---------- voet: randvoorwaarden en contact ----------
+\fill[donker] (0,0) rectangle (216,22);
+\node[anchor=north west,text=white,font=\sffamily\bfseries\small] at (14,18.5) {Vijf randvoorwaarden};
+\foreach \k/\t [count=\i] in {petrol/Meetbare eisen, groen/Domeinkennis, oker/Verificatie, pruim/Menselijk oordeel, rood/Herstelpunten} {
+  \pgfmathsetmacro\x{14+(\i-1)*26}
+  \node[anchor=north west,fill=\k,text=white,font=\sffamily\tiny\bfseries,minimum width=24mm,minimum height=6mm,rounded corners=1.5pt] at (\x,11.5) {\t};
+}
+\node[anchor=north east,text=white,font=\sffamily\scriptsize,align=right] at (202,18.5) {\textbf{Zelf een idee?}\\Neem contact op via LinkedIn:\\\textbf{Jesse Jagers}};
+\end{tikzpicture}\mbox{}
+\end{document}
