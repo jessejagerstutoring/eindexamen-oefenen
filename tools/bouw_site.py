@@ -265,7 +265,96 @@ def biologie(niveau):
 VAKKEN['biologie-havo'] = biologie('havo')
 VAKKEN['biologie-vwo'] = biologie('vwo')
 
-NIVEAUS = {'havo': 'Havo', 'vwo': 'Vwo'}
+# ---------- vmbo: een syllabus per vak voor alle leerwegen; per leerweg alleen de exameneenheden van het CE ----------
+# (bron: syllabi centraal examen 2026, tabel 'Verdeling examinering CE/SE'; gl en tl hebben hetzelfde examen)
+VMBO_NAAM = {'bb': 'vmbo-bb', 'kb': 'vmbo-kb', 'gt': 'vmbo-gt'}
+
+
+def wiskunde_vmbo(lw):
+    gt = lw == 'gt'
+    k4 = 'WI/K/4' + (', V/1' if gt else '')
+    d = {'niveau': VMBO_NAAM[lw], 'naam': 'Wiskunde', 'domeinen': [
+        ('Algebraïsche verbanden', [
+            ('grafieken', 'Tabellen en grafieken', k4, 'Aflezen, tekenen, vergelijken en interpreteren; snijpunten, maxima en minima.'),
+            ('formules', 'Rekenen met formules', k4, 'Waarden invullen, formules opstellen en gebruiken, woordformules.'),
+            ('lineair', 'Lineaire verbanden', k4, 'Formules van de vorm y = ax + b, steilheid en beginwaarde.'),
+            ('exponentieel', 'Exponentiële verbanden', k4, 'Groeifactor, procentuele groei, rente op rente, verdubbelings- en halveringstijd.'),
+            ('andere-verbanden', 'Kwadratische, wortel-, omgekeerd evenredige en periodieke verbanden', k4, 'Parabolen, machten, y = a/x, periode en amplitude.'),
+        ]),
+        ('Rekenen, meten en schatten', [
+            ('rekenen', 'Procenten, verhoudingen en breuken', 'WI/K/5', 'Handig rekenen in alledaagse situaties, procenten, korting en btw, verhoudingen.'),
+            ('meten', 'Eenheden, schaal en schatten', 'WI/K/5', 'Eenheden omrekenen, tijd en snelheid, schaal, afronden en schatten.'),
+        ]),
+        ('Meetkunde', [
+            ('oppervlakte-inhoud', 'Omtrek, oppervlakte en inhoud', 'WI/K/6', 'Oppervlakte van vlakke figuren, inhoud van prisma, cilinder, kegel en bol.'),
+            ('pythagoras-gonio', 'Stelling van Pythagoras en goniometrie', 'WI/K/6', 'Zijden berekenen met Pythagoras, hoeken en zijden met sinus, cosinus en tangens.'),
+            ('ruimtefiguren', 'Ruimtefiguren, aanzichten en uitslagen', 'WI/K/6', 'Aanzichten, uitslagen, doorsneden, perspectief en kijklijnen.'),
+            ('redeneren', 'Hoeken, gelijkvormigheid en meetkundig tekenen', 'WI/K/6', 'Hoeken berekenen, symmetrie, vergroten en verkleinen, constructies.'),
+        ]),
+    ]}
+    if lw == 'bb':  # Pythagoras en goniometrie zitten bij bb niet in het CE
+        d['domeinen'] = [(n, [o for o in l if o[0] != 'pythagoras-gonio']) for n, l in d['domeinen']]
+    return d
+
+
+def nask1_vmbo(lw):
+    ond = [
+        ('onderzoek', 'Onderzoeken en meten', 'NASK1/K/3', 'Meetinstrumenten, grootheden en eenheden, tabellen en grafieken, conclusies uit proeven.'),
+        ('stoffen', 'Stoffen en materialen', 'NASK1/K/4', 'Stofeigenschappen, fasen en faseovergangen, dichtheid, mengsels en scheiden.'),
+        ('elektriciteit', 'Elektrische energie', 'NASK1/K/5', 'Schakelingen, spanning, stroom, weerstand, vermogen, energie en kosten, veiligheid.'),
+    ]
+    if lw != 'bb':
+        ond.append(('verbranden', 'Verbranden en verwarmen', 'NASK1/K/6', 'Verbranding, brandstoffen, warmte, isoleren en verwarmen.'))
+    ond += [
+        ('geluid', 'Geluid', 'NASK1/K/8', 'Trillingen, toonhoogte, frequentie, geluidssterkte, decibel en gehoorbescherming.'),
+        ('kracht', 'Kracht en veiligheid', 'NASK1/K/9', 'Krachten, hefbomen, druk, beweging en snelheid, veiligheid.'),
+    ]
+    if lw == 'gt':
+        ond += [
+            ('verkeer', 'Veiligheid in het verkeer', 'NASK1/V/1', 'Snelheid, reactie- en remweg, stopafstand, bewegingsenergie en veiligheidsvoorzieningen.'),
+            ('constructies', 'Constructies', 'NASK1/V/2', 'Krachten in constructies, momenten, stevigheid en materiaalkeuze.'),
+        ]
+    return {'niveau': VMBO_NAAM[lw], 'naam': 'Nask1', 'domeinen': [('Natuurkunde', ond)]}
+
+
+def nask2_vmbo():
+    return {'niveau': 'vmbo-gt', 'naam': 'Nask2', 'domeinen': [('Scheikunde', [
+        ('onderzoek', 'Onderzoeken en practicum', 'NASK2/K/3', 'Proeven opzetten, meten, waarnemen en conclusies trekken.'),
+        ('materie', 'Bouw van de materie', 'NASK2/K/11', 'Atomen, moleculen, ionen, het periodiek systeem en formules.'),
+        ('reacties', 'Reacties en reactievergelijkingen', 'NASK2/K/10', 'Kenmerken van reacties, reactievergelijkingen kloppend maken, rekenen aan reacties.'),
+        ('verbranding', 'Verbranding', 'NASK2/K/5', 'Verbrandingsvoorwaarden, verbrandingsproducten, brandblussen en luchtvervuiling.'),
+        ('zuren', 'Water, zuren en basen', 'NASK2/K/7', 'pH, indicatoren, zure en basische oplossingen, neutraliseren en waterzuivering.'),
+        ('productie', 'Productieprocessen en productonderzoek', 'NASK2/V/1, V/2', 'Productieprocessen, scheidingsmethoden, stoffen aantonen en productonderzoek.'),
+    ])]}
+
+
+def biologie_vmbo(lw):
+    gt = lw == 'gt'
+    ond = [
+        ('onderzoek', 'Onderzoek doen', 'BI/K/3', 'Onderzoeksvraag, hypothese, variabelen, proeven en conclusies.'),
+        ('cellen', 'Cellen en organisatie', 'BI/K/4', 'Cellen, celdelen, weefsels, organen en organismen; microscoop.'),
+        ('ecologie', 'Planten, dieren en hun samenhang', 'BI/K/6', 'Voedselketens en -webben, kringlopen, fotosynthese, ecosystemen en indeling van organismen.'),
+        ('voeding', 'Voeding, vertering en energie', 'BI/K/9', 'Voedingsstoffen, gezonde voeding, verteringsorganen en enzymen, energie.'),
+        ('transport', 'Ademhaling, bloedsomloop en uitscheiding', 'BI/K/9', 'Longen, hart en bloedvaten, bloed, nieren en huid.'),
+        ('prikkels', 'Reageren op prikkels', 'BI/K/11', 'Zintuigen, zenuwstelsel, reflexen en hormonen.'),
+        ('voortplanting', 'Voortplanting en ontwikkeling', 'BI/K/12', 'Puberteit, geslachtsorganen, menstruatiecyclus, zwangerschap, anticonceptie en soa.'),
+    ]
+    if gt:
+        ond += [
+            ('erfelijkheid', 'Erfelijkheid en evolutie', 'BI/K/13', 'Chromosomen, genen, kruisingen, mutaties, natuurlijke selectie en evolutie.'),
+            ('afweer', 'Bescherming en antistoffen', 'BI/V/1', 'Ziekteverwekkers, afweer, antistoffen, vaccinatie en bloedgroepen.'),
+            ('gedrag', 'Gedrag bij mens en dier', 'BI/V/2', 'Gedragsvormen, prikkels en reacties, aangeboren en aangeleerd gedrag.'),
+        ]
+    return {'niveau': VMBO_NAAM[lw], 'naam': 'Biologie', 'domeinen': [('Biologie', ond)]}
+
+
+for lw, achter in (('bb', 'bb'), ('kb', 'kb'), ('gt', 'gl-tl')):
+    VAKKEN[f'wiskunde-vmbo-{achter}'] = wiskunde_vmbo(lw)
+    VAKKEN[f'natuur-scheikunde-i-vmbo-{achter}'] = nask1_vmbo(lw)
+    VAKKEN[f'biologie-vmbo-{achter}'] = biologie_vmbo(lw)
+VAKKEN['natuur-scheikunde-ii-vmbo-gl-tl'] = nask2_vmbo()
+
+NIVEAUS = {'havo': 'Havo', 'vwo': 'Vwo', 'vmbo-bb': 'Vmbo bb', 'vmbo-kb': 'Vmbo kb', 'vmbo-gt': 'Vmbo gl/tl'}
 
 
 def main():

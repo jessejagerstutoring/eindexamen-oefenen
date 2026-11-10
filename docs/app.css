@@ -292,6 +292,14 @@ img { max-width: 100%; display: block; }
 .niveaukeuze button { font: inherit; font-weight: 600; font-size: 16px; padding: 8px 26px; border: none; background: var(--wit); color: var(--blauw); cursor: pointer; }
 .niveaukeuze button + button { border-left: 1px solid var(--blauw); }
 .niveaukeuze button.aan { background: var(--blauw); color: #fff; }
+.niveaukeuze button { white-space: nowrap; }
+@media (max-width: 640px) {
+  .niveaukeuze { display: grid; grid-template-columns: repeat(2, 1fr); width: 100%; }
+  .niveaukeuze button { padding: 10px 8px; border-top: 1px solid var(--blauw); }
+  .niveaukeuze button:nth-child(-n+2) { border-top: none; }
+  .niveaukeuze button:nth-child(odd) { border-left: none; }
+  .niveaukeuze button:last-child:nth-child(odd) { grid-column: 1 / -1; }
+}
 .vakkaarten { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 0 28px; margin-top: 8px; }
 .vakkaart { display: grid; gap: 2px; padding: 14px 0 13px; border-bottom: 1px solid var(--lijn); text-decoration: none; color: var(--inkt); }
 .vakkaart:hover .vk-naam { color: var(--blauw); text-decoration: underline; text-underline-offset: 3px; }

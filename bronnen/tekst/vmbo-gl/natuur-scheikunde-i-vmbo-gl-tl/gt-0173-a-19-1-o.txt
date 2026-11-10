@@ -1,0 +1,530 @@
+                                                       Examen VMBO-GL en TL
+
+                                                                             2019
+                                                                                   tijdvak 1
+                                                                            dinsdag 14 mei
+                                                                          13.30 - 15.30 uur
+
+
+                                      natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS informatieboek.
+
+Achter het correctievoorschrift zijn twee aanvullingen op het correctievoorschrift
+opgenomen.
+
+
+
+
+Dit examen bestaat uit 43 vragen.
+Voor dit examen zijn maximaal 77 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0173-a-19-1-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Gedeeld geluid
+
+            Een smartphone kun je gebruiken om muziek af te spelen. Met een
+            versterker en een luidspreker kunnen meerdere mensen naar deze
+            muziek luisteren.
+
+
+
+
+1p    1     Je ziet afbeeldingen van een signaal voor en na de versterker.
+
+
+
+
+                    voor de versterker                     na de versterker
+
+            Over het versterkte signaal staan op de uitwerkbijlage twee zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+GT-0173-a-19-1-o                            2 / 14                            lees verder ►►►
+2p    2     De luidspreker bestaat uit drie onderdelen. De conus is een van deze
+            onderdelen.
+             Noteer de namen van de twee onderdelen die ervoor zorgen dat de
+               conus trilt.
+
+4p    3     De hoogste toon die de luidspreker weer kan geven, heeft een trillingstijd
+            van 0,040 ms.
+             Bereken de frequentie en leg uit of deze toon hoorbaar is voor de
+               mens. Noteer het gehoorbereik van de mens bij je uitleg.
+
+            De smartphone laat muziek horen met een geluidsniveau van maximaal
+            88 dB. Door het gebruik van de versterker wordt dat verhoogd tot 94 dB.
+            Voor het geluidsniveau geldt:
+
+
+             Bij elke verdubbeling van het geluid neemt het geluidsniveau met 3 dB toe.
+
+
+2p    4     Vergelijk het geluid van 94 dB met het geluid van 88 dB.
+            Over deze geluiden staan op de uitwerkbijlage drie zinnen.
+             Noteer in de eerste twee zinnen de juiste waarde en omcirkel in de
+               derde zin de juiste mogelijkheid. Gebruik de tabel ‘Maximale
+               blootstellingsduur’ in BINAS.
+
+1p    5     In welke zone valt het maximale geluidsniveau van de luidspreker?
+            A hinderlijk
+            B zeer hinderlijk
+            C zeer luid
+            D extreem luid
+
+
+
+
+GT-0173-a-19-1-o                            3 / 14                            lees verder ►►►
+      Schakeling doormeten
+
+            Marlou en Luuk sluiten een
+            weerstand aan op een variabele
+            spanningsbron.
+            Ze willen de spanning over en de
+            stroom door een weerstand meten.
+
+            Je ziet een afbeelding van hun
+            opstelling.
+
+
+
+
+            Marlou sluit de spanningsmeter aan. Dan stelt zij de spanningbron in op
+            2,0 V.
+
+2p    6     Luuk meet de spanning zo nauwkeurig mogelijk.
+            Je ziet op de uitwerkbijlage een afbeelding met de aansluitingen voor het
+            meetbereik en de schaalverdeling van de spanningsmeter.
+             Kruis het juiste meetbereik aan en teken de wijzer op de
+               schaalverdeling vanuit P in de juiste stand.
+
+2p    7     Luuk meet met een stroommeter een stroomsterkte van 25 mA.
+             Bereken de grootte van de weerstand die is aangesloten.
+
+              Marlou neemt twee andere
+              weerstanden en sluit die aan.
+
+              Je ziet een afbeelding van deze
+              situatie met de grootte van elke
+              weerstand.
+
+
+
+
+2p    8     Bereken de vervangingsweerstand van de weerstanden R1 en R2.
+
+1p    9     Vergelijk de spanning over en de stroomsterkte door R2 met de spanning
+            over en de stroomsterkte door R1.
+             Omcirkel in elke zin op de uitwerkbijlage de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-19-1-o                              4 / 14                         lees verder ►►►
+      Speelmomentje
+
+            In een speeltuin staat een bijzondere wip. Op deze wip kan een kind in
+            zijn eentje wipwappen.
+            De wip bestaat uit een balk met links van het draaipunt D een bak met
+            stenen en rechts een rek waar een kind aan kan hangen.
+
+            Je ziet een afbeelding met Leon die de wip in evenwicht heeft gebracht.
+
+
+
+
+                                   D
+
+
+
+                      1,60 m                    1,82 m
+
+
+1p    10    Het materiaal van de balk is homogeen.
+             Wat betekent homogeen?
+
+            De bak is gevuld met stenen. De totale massa van de stenen is 32 kg.
+
+4p    11    Het volume van de stenen in de bak is 1,2 · 104 cm3.
+             Bereken de dichtheid van deze stenen en noteer uit welke stof deze
+               steensoort bestaat. Gebruik de tabel ‘Gegevens van enkele vaste
+               stoffen’ in BINAS.
+
+3p    12    Bereken het gewicht van Leon. Gebruik de momentenwet. Verwaarloos
+            hierbij de massa van de bak waarin de stenen zitten en van het rek
+            waaraan Leon hangt.
+
+2p    13    Leon verplaatst zich in de richting van D.
+            Over het gevolg van deze verplaatsing staan op de uitwerkbijlage drie
+            zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-19-1-o                           5 / 14                           lees verder ►►►
+      Wiebelstep
+
+            Tijsje heeft een speciale step.
+            Deze step wordt aangedreven door de
+            voetenplank op en neer te bewegen.
+
+
+
+
+1p    14    Je ziet drie afbeeldingen van Tijsje op haar step.
+            In welke afbeelding is het massamiddelpunt M van Tijsje juist geplaatst?
+
+
+
+                                                                         M
+                                                     M
+
+                          M
+
+
+                      A                          B                       C
+
+
+2p    15    Van een rit op de step is een s,t-diagram gemaakt. Dit staat op de
+            uitwerkbijlage.
+            In het diagram zijn vier delen van de grafiek met een letter aangegeven.
+            Bij ieder deel van de grafiek hoort een soort beweging.
+            Op de uitwerkbijlage staat een tabel met vier letters en mogelijke
+            bewegingen.
+             Zet achter elke letter één kruisje bij de juiste beweging.
+
+
+
+
+GT-0173-a-19-1-o                            6 / 14                           lees verder ►►►
+            Tijsje test de handrem van haar step. Zij stept op volle snelheid en remt
+            dan voluit. Van deze test is een v,t-diagram gemaakt.
+
+                    6
+              v
+            (m/s)
+                    5
+
+
+
+                    4
+
+
+
+                    3
+
+
+
+                    2
+
+
+
+                    1
+
+
+
+                    0
+                        0   0,5   1,0   1,5      2,0   2,5    3,0      3,5
+                                                                      t (s)
+
+
+1p    16    Noteer de beginsnelheid van Tijsje in km/h.
+
+4p    17    Bereken de afstand die Tijsje aflegt tijdens het remmen vanaf t = 0,8 s.
+            Gebruik het diagram.
+
+            De vertraging tijdens het remmen is 2,1 m/s2.
+
+2p    18    Toon deze vertraging met een berekening aan. Gebruik het diagram.
+
+2p    19    De massa van Tijsje en de step samen is 45 kg.
+             Bereken de nettokracht tijdens het remmen.
+
+1p    20    De rem op het achterwiel wordt warm bij het remmen.
+            Welke kracht zorgt voor het warm worden?
+            A luchtweerstand
+            B rolweerstand
+            C spierkracht
+            D wrijvingskracht
+            E zwaartekracht
+
+
+
+
+GT-0173-a-19-1-o                              7 / 14                          lees verder ►►►
+      Motorkraan
+
+            Een motor is in en uit een vrachtwagen te takelen met een motorkraan.
+
+
+
+
+1p    21    De constructie van de kraan is gemaakt van staal. Het staal is geverfd om
+            roesten te voorkomen.
+             Noteer nog een manier om staal tegen roesten te beschermen.
+
+2p    22    Je ziet een afbeelding van het bovenste deel van de kraan.
+            In de afbeelding zijn drie onderdelen genummerd:
+            de balk (1), de cilinder (2) en de ketting (3).
+
+
+
+
+             Geef in de tabel op de uitwerkbijlage voor elke plaats met een kruisje
+              aan of er sprake is van een duwkracht, een trekkracht of duw- en
+              trekkracht.
+
+
+
+
+GT-0173-a-19-1-o                           8 / 14                           lees verder ►►►
+            Op de uitwerkbijlage staat een afbeelding van de kraan met aan het
+            uiteinde een motor. De kracht van de motor op het punt P is 9000 N.
+
+1p    23    De gebruikte krachtenschaal is 1,0 cm ≙ 1500 N.
+             Toon dit met een berekening aan.
+
+3p    24    Bepaal met een constructie de kracht in ketting K vanuit P. Noteer de
+            grootte van de kracht naast de afbeelding.
+
+2p    25    De motor wordt 30 cm opgetakeld.
+             Bereken de benodigde arbeid.
+
+
+
+
+GT-0173-a-19-1-o                           9 / 14                            lees verder ►►►
+      Aanrecht
+
+            Jorike en Flip kopen een nieuwe keuken. In een showroom bekijken ze
+            verschillende aanrechtbladen.
+
+
+
+
+2p    26    Flip staat bij een eikenhouten aanrechtblad met een metalen spoelbak. Hij
+            legt zijn linkerhand op het aanrechtblad en zijn rechterhand op de
+            spoelbak.
+             Noteer welk materiaal kouder aanvoelt en geef daarvan de reden.
+
+1p    27    Jorike vraagt de verkoper met welk schoonmaakmiddel ze de metalen
+            spoelbak moet schoonmaken. Volgens de verkoper mag het middel niet
+            corrosief zijn.
+            Welk van de volgende pictogrammen geeft aan dat een stof corrosief is?
+
+
+
+
+                   A            B               C             D              E
+
+
+2p    28    In de showroom staat ook een volledig metalen aanrechtblad.
+            Jorike zegt dat elektrische apparaten op het aanrecht staan. Ze vindt
+            daarom een metalen aanrecht minder veilig dan een aanrecht met een
+            blad van graniet of eikenhout.
+             Leg uit of je het met Jorike eens bent.
+
+
+
+
+GT-0173-a-19-1-o                           10 / 14                          lees verder ►►►
+      Bijverwarmen
+
+            Een koude schuur kun je verwarmen met een petroleumkachel.
+            De brandstof steek je aan met een elektrische gloeidraad.
+
+
+
+
+                                                                de batterijen
+
+
+
+
+                       petroleumkachel                           gloeidraad
+
+3p    29    De gloeidraad is via een drukschakelaar aangesloten op twee batterijen.
+            De spanning over en de stroomsterkte door de gloeidraad worden
+            gemeten.
+            Je ziet op de uitwerkbijlage een deel van het schakelschema.
+             Maak het schakelschema compleet met de twee batterijen, een
+               drukschakelaar, spanningsmeter en stroommeter.
+
+            Als de gloeidraad is ingeschakeld, loopt er een stroomsterkte van 4,8 A.
+
+2p    30    De batterijen leveren samen een spanning van 3,0 V.
+             Bereken het geleverde vermogen.
+
+3p    31    Het aansteken van de petroleum duurt 15 s. De totale capaciteit van de
+            batterijen is 2,4 Ah.
+             Noteer het aantal keer dat de kachel aangestoken kan worden.
+                Bereken eerst de tijd dat de batterijen een stroomsterkte van 4,8 A
+                kunnen leveren.
+
+
+
+
+GT-0173-a-19-1-o                           11 / 14                              lees verder ►►►
+      Water warmer
+
+            Doede en Emiel onderzoeken tijdens de natuurkundeles het verband
+            tussen energie en temperatuur. Zij gebruiken bij de meting een
+            energiemeter en een thermometer. In een dubbelwandig theeglas zetten
+            zij de thermometer en een dompelaar als verwarmingselement.
+
+
+
+
+                            de opstelling voor de proef
+
+            Doede schenkt 250 mL water in een dubbelwandig theeglas.
+
+1p    32    Je ziet op de uitwerkbijlage twee zinnen over deze hoeveelheid water.
+             Noteer in elke zin het ontbrekende getal.
+
+1p    33    Emiel hangt de dompelaar in het water van het theeglas. Aan het snoer
+            van de dompelaar zit een stekker met randaarde.
+            Wanneer schakelt de aardlekschakelaar de spanning over de dompelaar
+            uit?
+            A als de fasedraad de nuldraad raakt
+            B als de fasedraad het metaal van de dompelaar raakt
+            C als de stroomsterkte door de dompelaar te groot is
+            D als de weerstand van de dompelaar te groot is
+
+            Emiel sluit de dompelaar via een energiemeter aan op netspanning
+            (230 V).
+
+1p    34    In de dompelaar zit een gloeispiraal. Via een laag samengeperst poeder
+            geeft die zijn warmte af aan het metaal van de dompelaar.
+            Door welke vorm van warmtetransport wordt het metaal van de dompelaar
+            warm?
+            A geleiding
+            B straling
+            C stroming
+
+
+
+GT-0173-a-19-1-o                           12 / 14                          lees verder ►►►
+            Emiel start de tijd en leest elke minuut op de energiemeter het
+            energiegebruik af. Doede meet met een thermometer de temperatuur van
+            het water. Je ziet een tabel met hun meetresultaten.
+
+
+            E (kWh)    0,000     0,005    0,010      0,015   0,020    0,025     0,030
+
+            T (oC)       16       29       44         60      72       85        100
+
+
+3p    35    Zet in het diagram op de uitwerkbijlage alle meetpunten uit en teken de
+            grafiek.
+
+1p    36    Wat is de naam van het wiskundige verband tussen temperatuur en
+            energie?
+            A evenredig
+            B lineair
+            C omgekeerd evenredig
+
+1p    37    De begintemperatuur van het water is 16 oC.
+            Wat is deze temperatuur in K?
+            A -257 K
+            B -289 K
+            C 257 K
+            D 289 K
+
+1p    38    Noteer de reden waarom het water tijdens de proef niet warmer wordt dan
+            100 oC.
+
+1p    39    De dompelaar zet 0,030 kWh (108 kJ) aan elektrische energie om bij het
+            verwarmen tot 100 oC. Het water heeft dan 88 kJ energie opgenomen.
+            Hoeveel procent van de energie gaat verloren?
+            A 12%
+            B 19%
+            C 81%
+            D 88%
+
+1p    40    Doede en Emiel herhalen de proef nog twee keer.
+            Bij de tweede proef gebruiken ze een dompelaar met een groter
+            vermogen. Bij de derde proef vullen ze het theeglas met meer water.
+            Op de uitwerkbijlage staat het diagram met de grafieken die ze tekenen
+            van de temperatuur tegen de tijd.
+            Over deze grafieken staan twee zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid. Grafiek 1 hoort bij de
+                eerste proef.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+GT-0173-a-19-1-o                           13 / 14                            lees verder ►►►
+      Code rood in China
+
+            Lees het krantenartikel.
+
+            Steenkoolverbranding in China heeft
+            geleid tot een code rood voor
+            luchtvervuiling.
+            De waarschuwing geldt voor drie
+            dagen in de hoofdstad Beijing.
+            De luchtvervuiling wordt mede
+            veroorzaakt door grote hoeveelheden
+            fijnstof.
+
+            Bron: KNMI
+
+1p    41    Fijnstof bestaat uit schadelijke stofdeeltjes met een afmeting die kleiner
+            zijn dan 2,5 micrometer.
+            Welke lengte komt overeen met 2,5 micrometer?
+                        9
+            A 2,5 · 10 m
+                        6
+            B 2,5 · 10 m
+                        3
+            C 2,5 · 10 m
+                        -3
+            D 2,5 · 10 m
+                        -6
+            E 2,5 · 10 m
+                        -9
+            F 2,5 · 10 m
+
+2p    42    Naast de uitstoot van fijnstof ontstaan er bij steenkoolverbranding gassen
+            die nadelige effecten op het milieu hebben.
+            Op de uitwerkbijlage staan twee zinnen over deze milieueffecten.
+             Maak elke zin compleet.
+
+1p    43    In China wordt steenkool verbrand als energiebron voor stadsverwarming.
+            Over steenkoolverbranding staan op de uitwerkbijlage twee zinnen.
+             Omcirkel in de eerste zin de juiste mogelijkheid en maak de tweede
+                zin compleet.
+
+
+
+
+GT-0173-a-19-1-o                            14 / 14                            lees verdereinde
+                                                                                            ►►► 
+

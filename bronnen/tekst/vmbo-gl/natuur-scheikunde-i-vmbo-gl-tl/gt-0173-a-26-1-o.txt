@@ -1,0 +1,455 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2026
+                                                                        tijdvak 1
+                                                               maandag 18 mei
+                                                               13.30 - 15.30 uur
+
+
+                                   natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS-informatieboek.
+
+
+
+
+Dit examen bestaat uit 37 vragen.
+Voor dit examen zijn maximaal 72 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0173-a-26-1-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+      Duiken
+
+            Frans is duiker van beroep. Hij duikt tot een diepte van 60 m.
+
+
+
+
+            Tijdens zijn duik meet Frans op verschillende dieptes de
+            watertemperatuur, de waterdruk en de lichtintensiteit.
+
+            Je ziet twee diagrammen over de temperatuur en de druk tijdens de duik.
+
+
+
+
+                       diagram 1                               diagram 2
+
+
+GT-0173-a-26-1-o                            2 / 15                           lees verder ►►►
+1p    1     Welke van deze diagrammen toont een lineair verband?
+            A geen van beide diagrammen
+            B alleen diagram 1
+            C alleen diagram 2
+            D beide diagrammen
+
+3p    2     Op een diepte van 35 m kijkt Frans recht omhoog. Het glas van de duikbril
+            heeft een totale contactoppervlakte van 150 cm2 met het water.
+
+
+
+
+             Bereken met behulp van diagram 2 de kracht van het water op het
+              glas.
+
+2p    3     Frans duikt verder naar een diepte van 40 m.
+             Noteer op de uitwerkbijlage de temperatuur van het water op 40 m
+               diepte in °C en in K.
+
+3p    4     Hoe dieper Frans duikt, hoe donkerder het wordt. De lichtintensiteit onder
+            water wordt gemeten als percentage van de lichtintensiteit aan de
+            oppervlakte. De lichtintensiteit aan het wateroppervlak is 100%.
+            Je ziet een tabel met gegevens van de diepte en de lichtintensiteit.
+
+            diepte (m)                  0        8    25      30     40      60
+            lichtintensiteit (%)       100     72,1   36,0   29,5   19,5    8,6
+
+             Deel op de uitwerkbijlage de verticale as in, zet alle gegevens uit en
+              teken de grafiek.
+
+
+
+
+GT-0173-a-26-1-o                             3 / 15                          lees verder ►►►
+      Boiler
+
+            Jolanda heeft een boiler aangesloten op een netspanning van 230 V. Een
+            boiler verwarmt water en slaat het verwarmde water op in een goed
+            geïsoleerde tank. Als de boiler met warm water gevuld is en je de kraan
+            opent, komt er direct warm boilerwater uit de kraan.
+
+            De boiler heeft een schakelaar met twee standen: stand I 'langzaam
+            verwarmen' en stand II 'snel verwarmen'.
+            Met een thermostaat wordt de maximale watertemperatuur ingesteld
+            tussen 50 °C en 90 °C.
+
+
+
+
+            Je ziet het vereenvoudigde schakelschema van de boiler.
+
+
+
+
+            Bij 'snel verwarmen' is de schakelaar gesloten.
+
+2p    5     Vergelijk de stand 'snel verwarmen' met de stand 'langzaam verwarmen'.
+            Op de uitwerkbijlage staan hierover drie zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+2p    6     Jolanda stelt de boiler in op de stand 'snel verwarmen'.
+            Elk verwarmingselement heeft een weerstand van 52 Ω.
+             Bereken de vervangingsweerstand van de twee
+                verwarmingselementen.
+
+
+
+
+GT-0173-a-26-1-o                            4 / 15                         lees verder ►►►
+3p    7     Voor het opwarmen van het water is een energie van 9,0 MJ nodig.
+            Het afgestane vermogen van de boiler is bij 'snel verwarmen' 2000 W.
+             Bereken de tijd van het opwarmen bij 'snel verwarmen'. Ga ervan uit
+               dat het afgestane vermogen uitsluitend wordt gebruikt voor het
+               opwarmen van het water.
+
+1p    8     Als het water de ingestelde temperatuur heeft bereikt, zorgt een sensor in
+            de thermostaat ervoor dat het verwarmingselement uitschakelt.
+            Welke elektronicacomponent in de sensor reageert op de temperatuur?
+            A NTC
+            B reedcontact
+            C relais
+            D transistor
+
+
+
+
+GT-0173-a-26-1-o                            5 / 15                           lees verder ►►►
+      Krachttraining
+
+            Casper traint zijn spieren met een apparaat met gewichten.
+            Trekt Casper het handvat omlaag, dan bewegen de gewichten omhoog.
+            Het apparaat werkt als een hefboom.
+
+
+
+
+            Bij het omlaag trekken van het handvat ontstaan er krachten in de kabel
+            en in de stang.
+
+2p    9     Op de uitwerkbijlage staan twee zinnen over deze krachten.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+            De gewichten hebben een totale massa van 80 kg. Casper trekt aan het
+            handvat.
+
+            Bij een bepaalde spierkracht is de hefboom precies in balans. Dat is de
+            minimale benodigde spierkracht om de gewichten naar boven te laten
+            bewegen.
+
+3p    10    Bereken de minimale benodigde spierkracht bij P. Verwaarloos de massa
+            van de stang, de kabel en het handvat.
+
+2p    11    De gewichten bewegen 0,35 m omhoog.
+             Bereken de toename van de zwaarte-energie van de gewichten.
+
+
+
+
+GT-0173-a-26-1-o                           6 / 15                            lees verder ►►►
+            Casper hangt extra gewichten aan het apparaat.
+            Je ziet een schematische afbeelding van de spierkracht die aangrijpt in
+            punt P van het handvat. De spierkracht van Casper is nu 900 N.
+            De krachtenschaal is 1 cm ≙ 150 N.
+
+
+
+
+1p    12    Toon deze krachtenschaal aan met een berekening.
+
+3p    13    Construeer op de uitwerkbijlage de kracht vanuit punt P in werklijn A en
+            noteer de grootte van deze kracht onder de afbeelding.
+
+1p    14    De stang is inschuifbaar en uitschuifbaar.
+            Je ziet een afbeelding van het apparaat met een uitgeschoven stang en
+            met een ingeschoven stang. De massa van de gewichten is in beide
+            situaties even groot.
+
+
+
+
+            Casper trekt in beide situaties de gewichten via het handvat omhoog.
+            Wat is juist over de benodigde spierkracht in situatie II?
+            A Deze is even groot als bij situatie I.
+            B Deze is groter dan bij situatie I.
+            C Deze is kleiner dan bij situatie I.
+
+
+
+GT-0173-a-26-1-o                            7 / 15                           lees verder ►►►
+      Misthoorn
+
+            Een misthoorn is een geluidsbron op een schip die gebruikt wordt bij
+            mistig weer.
+            Als er op een misthoorn wordt geblazen, horen de kapiteins op andere
+            schepen dat er een schip in de buurt is.
+
+
+
+
+            Als de misthoorn wordt gebruikt, is op 1 m afstand de geluidssterkte
+            110 dB.
+
+1p    15    Noteer de maximale blootstellingsduur aan deze geluidssterkte.
+            Gebruik BINAS.
+
+1p    16    In welke zone van gehoorgevoeligheid valt deze geluidssterkte? Gebruik
+            BINAS.
+            A zeer hinderlijk
+            B zeer luid
+            C extreem luid
+            D pijngrens
+
+2p    17    Het geluid van de misthoorn heeft een frequentie van 228 Hz.
+             Bereken de trillingstijd.
+
+2p    18    Behalve dat het mistig is, is ook de luchttemperatuur laag. Dit heeft
+            invloed op de geluidssnelheid.
+            Een ander schip ligt op een afstand van 1000 m van de misthoorn.
+            Het geluid van de misthoorn legt deze afstand in een tijd van 2,93 s af.
+             Bereken de geluidssnelheid in deze omstandigheden.
+
+2p    19    Op de uitwerkbijlage staan twee zinnen over het geluid van de misthoorn
+            op een afstand van 1000 m.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-26-1-o                            8 / 15                            lees verder ►►►
+1p    20    Een andere misthoorn maakt een geluid met een andere frequentie.
+            Wat is juist over frequentie en geluidssnelheid?
+            A Frequentie heeft geen invloed op de geluidssnelheid.
+            B Grotere frequentie zorgt voor een grotere geluidssnelheid.
+            C Kleinere frequentie zorgt voor een grotere geluidssnelheid.
+
+2p    21    Voor de geluidssterkte geldt:
+
+            Bij elke verdubbeling van de afstand wordt de geluidssterkte 6 dB lager.
+
+            Op 1000 m afstand is de geluidssterkte van de misthoorn 50 dB.
+            Een geluidssterkte van 20 dB is 'net hoorbaar'.
+             Bereken op welke afstand de geluidssterkte van de misthoorn 20 dB
+               is.
+
+
+
+
+GT-0173-a-26-1-o                            9 / 15                           lees verder ►►►
+      Practicum rendement
+
+            Albina doet een practicum om een rendement te bepalen. Ze moet water
+            in een maatbeker verwarmen met een gasbrander.
+
+
+
+
+            De gasbrander werkt op butaangas.
+
+1p    22    Noteer de energiesoort die is opgeslagen in butaangas.
+
+            Albina meet met een glazen maatcilinder een volume van 65 mL water af.
+
+1p    23    Geef op de uitwerkbijlage het volume water in de maatcilinder met een
+            streepje aan.
+
+
+
+
+GT-0173-a-26-1-o                          10 / 15                          lees verder ►►►
+            Albina giet het water over van de maatcilinder naar het bekerglas boven
+            de brander. Ze voert het practicum uit. Je ziet de aantekeningen die
+            Albina maakte tijdens de proef.
+
+                                                               gemeten         berekend
+
+            water in maatbeker: volume en massa                 65   mL          65      g
+
+            begintemperatuur water                              22   °C
+
+            eindtemperatuur water                               42   °C
+
+            opgenomen energie van het water                                     5,4      kJ
+
+            tijdsduur gasbrander aan                            37    s
+
+            verbruikte hoeveelheid butaangas                   603   mg        232 cm3
+            energie vrijgekomen bij de verbranding van
+                                                                                28       kJ
+            het butaangas
+            dichtheid van butaangas                                                   g/cm3
+            rendement van het verwarmen van water
+            met de gasbrander in deze proef
+
+            Gebruik deze aantekeningen voor onderstaande berekeningen.
+
+2p    24    Toon de vrijgekomen energie bij de verbranding van het butaangas met
+            een berekening aan. Gebruik de tabel 'Verbrandingswarmte van enkele
+            stoffen' in BINAS.
+
+3p    25    Bereken de dichtheid van het butaangas in g/cm3.
+
+2p    26    Bereken het rendement van het verwarmen van water met de gasbrander
+            in deze proef.
+
+
+
+
+GT-0173-a-26-1-o                           11 / 15                          lees verder ►►►
+      Elektrische eenwieler
+
+            Op een afgesloten parcours rijdt Michel op een elektrische eenwieler.
+            Het dragen van een veiligheidshelm is daar verplicht.
+
+
+
+
+                        Michel met helm                      binnenkant van de helm
+
+            Michel draagt een veiligheidshelm. De binnenkant van de helm is voorzien
+            van een laag vervormbaar plastic.
+
+1p    27    Wat is juist over de functie van de veiligheidshelm bij een val?
+            De helm
+            A vergroot de remkracht.
+            B verkort de botstijd.
+            C verlengt de remweg.
+
+2p    28    De massa van Michel is 70 kg.
+            Michel rijdt op de eenwieler met een snelheid van 6,0 m/s.
+             Bereken de bewegingsenergie van Michel bij deze snelheid.
+
+            Michel rijdt van een helling af. In een tijd van 2,0 s versnelt hij van een
+            snelheid van 6,0 m/s naar 9,0 m/s.
+
+2p    29    Bereken de versnelling.
+
+
+
+
+GT-0173-a-26-1-o                             12 / 15                             lees verder ►►►
+1p    30    Wat is juist over de nettokracht?
+            Bij een constante snelheid van 9,0 m/s is de nettokracht
+            A even groot als bij een constante snelheid van 6,0 m/s.
+            B groter dan bij een constante snelheid van 6,0 m/s.
+            C kleiner dan bij een constante snelheid van 6,0 m/s.
+
+3p    31    Door de achterkant op de grond te drukken remt de eenwieler af.
+
+
+
+
+            Michel maakt zo een noodstop met de eenwieler.
+            De eenwieler heeft een beginsnelheid van 9,0 m/s. De reactietijd van
+            Michel is 0,90 s. De remweg is 8,9 m.
+             Bereken de stopafstand.
+
+            De eenwieler wordt aangedreven door een elektromotor. Een accu met
+            een spanning van 36 V voorziet de elektromotor van energie.
+            Bij een snelheid van 9,0 m/s levert de accu een stroomsterkte van 12 A
+            aan de elektromotor.
+
+2p    32    Bereken het geleverde vermogen van de accu bij deze snelheid.
+
+4p    33    De accu van de eenwieler is volledig opgeladen. De eenwieler rijdt met
+            een constante snelheid van 9,0 m/s. Na een afstand van 12,6 km is de
+            accu leeg.
+             Bereken de capaciteit van de accu in Ah. Bereken eerst de rijtijd.
+
+
+
+
+GT-0173-a-26-1-o                           13 / 15                            lees verder ►►►
+      Verlichting zonneklep
+
+            Melisa gaat naar een feest. Voordat zij de auto start, werkt ze haar make-
+            up bij. Daarvoor gebruikt zij de lamp en de spiegel in de zonneklep.
+            De lamp werkt op de accu van de auto.
+
+
+
+
+                   zonneklep omlaag en schuif dicht: de lamp brandt niet
+
+
+
+
+                   zonneklep omlaag en schuif open: de lamp brandt wel
+
+
+
+
+GT-0173-a-26-1-o                              14 / 15                        lees verder ►►►
+            In de schakeling zit de lamp met vier leds. Weerstand R1 is in serie
+            geschakeld met de lamp. Je ziet een deel van het schakelschema.
+
+
+
+
+1p    34    Wat is de reden om een weerstand in serie met de lamp te schakelen?
+            A het verhogen van de spanning over de leds
+            B het verhogen van het vermogen van de leds
+            C het verlagen van de stroomsterkte door de leds
+            D het verlagen van de capaciteit van de spanningsbron
+
+3p    35    Alleen als de zonneklep omlaag is getrokken en de schuif voor de spiegel
+            is geopend, brandt de lamp.
+             Schakelaar S1 sluit bij het omlaag trekken van de zonneklep.
+             Schakelaar S2 sluit als de schuif open wordt gezet.
+            Op de uitwerkbijlage zie je een deel van het schakelschema.
+             Maak het schakelschema compleet met de spanningsbron en de
+                schakelaars S1 en S2. Gebruik voor de spanningsbron het symbool
+                voor een batterij.
+
+3p    36    De schakeling met de lamp en de weerstand R1 is aangesloten op een
+            accu van 12 V. Als de lamp brandt, is de totale stroomsterkte door de
+            schakeling 0,030 A.
+            De totale spanning over de lamp is 8,0 V.
+             Bereken de grootte van weerstand R1 in de schakeling.
+
+1p    37    Een van de vier brandende leds in de lamp gaat stuk.
+            Hoeveel leds branden er dan nog?
+            A 0
+            B 1
+            C 2
+            D 3
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0173-a-26-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

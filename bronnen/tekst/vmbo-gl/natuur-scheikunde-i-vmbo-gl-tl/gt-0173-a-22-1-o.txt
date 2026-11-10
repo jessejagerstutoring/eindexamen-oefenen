@@ -1,0 +1,454 @@
+                                                     Examen VMBO-GL en TL
+
+                                                                         2022
+                                                                                tijdvak 1
+                                                                      donderdag 19 mei
+                                                                       13.30 - 15.30 uur
+
+
+                                   natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+ Bij dit examen hoort een uitwerkbijlage.
+
+ Gebruik het BINAS informatieboek.
+
+ Achter het correctievoorschrift is een aanvulling op het correctievoorschrift
+ opgenomen.
+
+
+
+
+ Dit examen bestaat uit 41 vragen.
+ Voor dit examen zijn maximaal 76 punten te behalen.
+ Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+ kunnen worden.
+
+
+GT-0173-a-22-1-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Rijksdaalder
+
+            Anna krijgt van haar opa een munt. Het is een ongebruikte rijksdaalder uit
+            1966.
+
+
+
+
+            Volgens de opa van Anna is de munt van zuiver zilver.
+
+2p    1     Anna bekijkt de munt. Op de uitwerkbijlage staat een tabel met een aantal
+            waarnemingen van Anna.
+             Zet een kruisje achter een waarneming als het een stofeigenschap is.
+
+            Anna neemt de munt mee naar school. Ze controleert tijdens de
+            natuurkundeles of de munt van zuiver zilver is.
+
+            Anna stelt voor om het smeltpunt van de munt te bepalen. Dit kan ze dan
+            vergelijken met de waarde in BINAS.
+
+2p    2     Noteer het smeltpunt van zilver in K en in °C.
+
+
+
+
+GT-0173-a-22-1-o                            2 / 14                           lees verder ►►►
+            Anna’s docent legt uit dat dit geen goed idee is en dat ze beter de
+            dichtheid van de munt kan bepalen. Hiervoor meet ze het volume en de
+            massa van de munt.
+
+1p    3     Anna vult eerst een maatcilinder voor een deel met water.
+            Je ziet een afbeelding van een deel van de gevulde maatcilinder.
+
+
+
+
+             Noteer het volume aan water in de maatcilinder.
+
+3p    4     Anna merkt op dat het volume niet nauwkeurig genoeg te meten is. Van
+            de rijksdaalders uit 1966 vindt Anna op internet dat haar munt een volume
+            moet hebben van 1,45 cm3.
+            Met een weegschaal meet ze een massa van 15,0 g.
+             Bereken de dichtheid en noteer of de munt van zuiver zilver is.
+
+
+
+
+GT-0173-a-22-1-o                           3 / 14                              lees verder ►►►
+      Bijverwarming
+
+            Als het koud is kun je een elektrische kachel op netspanning als
+            bijverwarming gebruiken.
+
+
+
+
+            De buitenkant van de kachel is van staal. Het staal is geverfd.
+
+1p    5     Het staal is geverfd om het tegen corrosie te beschermen. Roesten is een
+            vorm van corrosie.
+             Wat is corrosie?
+
+2p    6     Leg uit of het aansluitsnoer een stekker met randaarde moet hebben.
+
+1p    7     De pootjes en de handvatten van de kachel zijn van stevig kunststof
+            gemaakt.
+            Wat is juist?
+
+
+                       staal is een           kunststof is een
+
+              A          geleider                    geleider
+
+              B          isolator                    geleider
+
+              C          geleider                    isolator
+
+
+2p    8     De kachel is ingeschakeld. De lucht om de verwarmingsdraden in de
+            kachel wordt warm.
+            Op de uitwerkbijlage staan twee zinnen over de verwarmde lucht.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-22-1-o                            4 / 14                             lees verder ►►►
+            De kachel heeft twee verwarmingsdraden. Je ziet het vereenvoudigde
+            schakelschema van deze verwarming.
+
+
+
+
+2p    9     Beide verwarmingsdraden worden ingeschakeld.
+            Over deze situatie staan op de uitwerkbijlage drie zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+3p    10    De kachel werkt gedurende een tijd van 8,5 h op maximaal vermogen.
+            1 kWh kost € 0,25.
+             Bereken de energie die is gebruikt en noteer de kosten voor deze
+               gebruikte hoeveelheid energie.
+
+
+
+
+GT-0173-a-22-1-o                            5 / 14                       lees verder ►►►
+      Tabletlader
+
+            Voor het opladen van de accu van een tablet wordt een USB-lader
+            gebruikt. In de lader zit een transformator. Ga ervan uit dat de
+            transformator ideaal is.
+
+
+
+
+                   een tablet aan de lader        schematische weergave van de
+                                                          transformator
+
+            De transformator is aangesloten op een netspanning van 230 V.
+
+2p    11    Het opgenomen vermogen is 14,5 W.
+             Bereken de stroomsterkte door de primaire spoel.
+
+2p    12    De transformator verlaagt de spanning naar 5,0 V.
+             Bereken het aantal windingen van de secundaire spoel. Gebruik de
+               gegevens in de afbeelding.
+
+1p    13    Wat is juist over de stroomsterkte door de secundaire spoel?
+            A Die is gelijk aan de stroomsterkte door de primaire spoel.
+            B Die is groter dan de stroomsterkte door de primaire spoel.
+            C Die is kleiner dan de stroomsterkte door de primaire spoel.
+
+1p    14    De spanning van de secundaire spoel is niet meteen geschikt voor het
+            opladen van een accu. Daarom zit in de lader een elektronica-component
+            die stroom in één richting doorlaat.
+            Welke elektronica-component is dit?
+            A een diode
+            B een LDR
+            C een NTC
+            D een reedcontact
+
+1p    15    De transformator in de lader blijkt niet ideaal te zijn.
+            Wat is juist voor een niet-ideale transformator?
+            A Het secundaire vermogen is even groot als het primaire vermogen.
+            B Het secundaire vermogen is groter dan het primaire vermogen.
+            C Het secundaire vermogen is kleiner dan het primaire vermogen.
+
+
+
+GT-0173-a-22-1-o                             6 / 14                         lees verder ►►►
+      Cheeta
+
+              De cheeta is het snelste
+              landdier ter wereld.
+
+
+
+
+            De massa van deze cheeta is 45 kg.
+
+3p    16    De cheeta staat klaar om op een prooi af te rennen. Het totale
+            contactoppervlak van de poten met de ondergrond is dan 140 cm2.
+             Bereken de druk op de ondergrond.
+
+2p    17    De cheeta vertrekt vanuit stilstand. Bij het wegrennen is sprake van een
+            energieomzetting.
+             Noteer in het schema op de uitwerkbijlage de juiste energiesoort vóór
+               en na deze energieomzetting.
+
+            De cheeta bereikt vanuit stilstand in een tijd van 4,2 s een snelheid van
+            30 m/s. Ga ervan uit dat de cheeta eenparig versnelt.
+
+3p    18    Bereken de afstand die de cheeta in die tijd aflegt.
+
+            De versnelling van de cheeta is 7,1 m/s2.
+
+2p    19    Toon deze versnelling met een berekening aan.
+
+2p    20    Bereken de nettokracht op de cheeta tijdens het versnellen.
+
+2p    21    Bereken de bewegingsenergie van de cheeta bij de snelheid van 30 m/s.
+
+
+
+
+GT-0173-a-22-1-o                             7 / 14                            lees verder ►►►
+      Lichtgevoelige schakeling
+
+            Tijdens een natuurkundeles maakt Samia een lichtgevoelige schakeling.
+            Ze schakelt drie batterijen van elk 1,5 V in serie met een led en een LDR.
+            Je ziet een afbeelding van haar opstelling.
+
+
+
+
+            Samia meet vervolgens de spanning over de led en de stroomsterkte door
+            de led.
+
+3p    22    Op de uitwerkbijlage staat een afbeelding met een deel van het
+            schakelschema.
+             Maak het schakelschema compleet met LDR, led, spanningsmeter en
+               stroommeter.
+
+            De spanning over de led is 3,3 V en de stroomsterkte door de led is
+            4,7 mA.
+
+3p    23    Bereken de weerstand van de LDR bij deze meting.
+
+            Samia dekt de LDR af met haar vinger.
+
+2p    24    Op de uitwerkbijlage staan vier zinnen over de gevolgen van het afdekken
+            van de LDR.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-22-1-o                            8 / 14                            lees verder ►►►
+1p    25    Samia haalt haar vinger van de LDR en sluit de led andersom aan.
+            Welke stroomsterkte geeft de stroommeter dan aan?
+            A -4,7 mA
+            B 0 mA
+            C 2,4 mA
+            D 4,7 mA
+
+1p    26    Samia wil de schakeling zó aanpassen, dat de led gaat branden als de
+            LDR een grote weerstand heeft.
+            Welk schakelschema is hiervoor geschikt?
+
+              A
+
+
+
+
+              B
+
+
+
+
+              C
+
+
+
+
+GT-0173-a-22-1-o                          9 / 14                           lees verder ►►►
+      Parachuteloze val
+
+            Luke maakt zonder parachute een val van 7600 m hoogte uit een
+            vliegtuig. Hij landt veilig in een net.
+
+
+
+
+                              de val
+
+
+
+
+                                  de landing
+            Je ziet een tabel met gegevens van de eerste 18 s van de val.
+
+
+              t (s)      0        3         6        9         12      15       18
+
+              v (m/s)    0        25       42        52        55      55       55
+
+
+3p    27    Zet in het diagram op de uitwerkbijlage alle gegevens uit en teken de
+            grafiek.
+
+1p    28    Wat is de snelheid van Luke in km/h op t = 18 s?
+            A 15 km/h
+            B 55 km/h
+            C 198 km/h
+
+
+
+
+GT-0173-a-22-1-o                           10 / 14                           lees verder ►►►
+2p    29    Over de eerste 12 s van de val staan op de uitwerkbijlage drie zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+2p    30    Tijdens de landing komt Luke door de remmende werking van het net
+            na 33 m tot stilstand. De gemiddelde remkracht is 3700 N.
+             Bereken de minimaal verrichte arbeid die nodig is om Luke tot
+                stilstand te brengen.
+
+
+
+
+GT-0173-a-22-1-o                           11 / 14                           lees verder ►►►
+      Aan de haak
+
+            Op een bouwplaats worden materialen met een kraan op de juiste plaats
+            gebracht.
+
+
+
+
+            Een betonnen plaat hangt aan kabels aan de haak van een kraan.
+            De zwaartekracht op de plaat is 18,0 kN.
+
+3p    31    Op de uitwerkbijlage staat een schematische afbeelding van deze situatie.
+             Construeer de kracht in kabel A. Noteer de grootte van deze kracht
+               naast de afbeelding.
+
+2p    32    De plaat met een massa van 1800 kg wordt opgetild. Daarbij neemt de
+            zwaarte-energie met 432 kJ toe.
+             Bereken de hoogte waarover de plaat is opgetild.
+
+1p    33    Een tweede plaat met gelijke massa wordt opgetild met een kortere kabel.
+            Je ziet een afbeelding van het optillen van de eerste en de tweede plaat.
+
+
+
+
+            Wat is juist over de kracht in de kabel bij het optillen van de tweede plaat?
+            A Die blijft even groot als bij het optillen van de eerste plaat.
+            B Die is groter dan bij het optillen van de eerste plaat.
+            C Die is kleiner dan bij het optillen van de eerste plaat.
+
+
+
+
+GT-0173-a-22-1-o                            12 / 14                            lees verder ►►►
+      Oordopjes
+
+            Dave gaat naar een concert en draagt geluiddempende oordopjes.
+
+
+
+
+                              het concert                    een oordopje van Dave
+
+2p    34    De oordopjes dempen het geluid met 15 dB.
+            Voor het geluidsniveau geldt:
+
+
+                   Bij elke halvering van het geluid neemt het geluidsniveau met 3 dB af.
+
+
+             Bereken hoeveel keer Dave het geluid zachter hoort door het gebruik
+              van de oordopjes.
+
+            Het geluid dat uit de luidsprekers voor het podium komt, heeft een
+            geluidsniveau van 105 dB.
+
+1p    35    Noteer de maximale blootstellingsduur aan dit geluid.
+
+1p    36    In welke zone valt het geluid van 105 dB?
+            A erg stil
+            B storend bij telefoneren
+            C hinderlijk
+            D zeer hinderlijk
+            E zeer luid
+            F extreem luid
+
+2p    37    Vergelijk het gedempte geluid met het ongedempte geluid. Op de
+            uitwerkbijlage staan hierover twee zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0173-a-22-1-o                               13 / 14                           lees verder ►►►
+      Gletsjer
+
+            Een gletsjer maakt geluid dat niet hoorbaar is voor de mens.
+            Wetenschappers hebben onderzoek gedaan naar dat geluid.
+
+
+
+
+1p    38    Wat is de laagste frequentie die het menselijk gehoor kan waarnemen?
+            A 20 Hz
+            B 50 Hz
+            C 100 Hz
+            D 200 Hz
+
+            Het geluid van de gletsjer is opgevangen en zichtbaar gemaakt op het
+            scherm van een oscilloscoop.
+
+1p    39    Welke sensor was aangesloten op de oscilloscoop?
+            A een decibelmeter
+            B een luidspreker
+            C een microfoon
+            D een toongenerator
+
+3p    40    Het opgevangen geluid heeft een trillingstijd van 60 ms.
+             Bereken de frequentie van dit geluid.
+
+1p    41    Het geluid van de gletsjer gaat door lucht en door zeewater.
+            Vergelijk het geluid in zeewater met het geluid in lucht.
+             Omcirkel in elke zin op de uitwerkbijlage de juiste mogelijkheid.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+GT-0173-a-22-1-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

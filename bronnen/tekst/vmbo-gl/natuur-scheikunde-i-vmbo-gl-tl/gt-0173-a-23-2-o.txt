@@ -1,0 +1,465 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2023
+                                                                        tijdvak 2
+                                                                 tijdsduur: 2 uur
+
+
+
+                                   natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS informatieboek.
+
+
+
+
+Dit examen bestaat uit 41 vragen.
+Voor dit examen zijn maximaal 74 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0173-a-23-2-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Polsstokhoogspringen
+
+            Stan doet aan polsstokhoogspringen. Na een aanloop gebruikt hij zijn
+            polsstok om over een lat te springen.
+
+
+
+
+            Stan neemt een aanloop met de polsstok in zijn handen (van 1 naar 2).
+            Dan zet hij zich af en beweegt omhoog (van 3 naar 6).
+
+1p    1     Om de polsstok is ribbelige tape gewikkeld. Stan houdt de polsstok bij de
+            tape vast. De polsstok glijdt daardoor niet uit zijn handen.
+             Welke tegenwerkende kracht wordt door de tape vergroot?
+
+
+
+
+GT-0173-a-23-2-o                            2 / 16                           lees verder ►►►
+            Stan heeft een massa van 60 kg. Hij springt over de lat en valt daarna
+            recht naar beneden tot hij de mat raakt.
+
+2p    2     Bij het raken van de mat is zijn snelheid 9,0 m/s.
+             Bereken zijn bewegingsenergie.
+
+1p    3     Stan landt op de mat en komt door de tegenwerkende kracht tot stilstand.
+            Op de uitwerkbijlage staat een zin over het landen op de mat.
+             Omcirkel in de zin de juiste mogelijkheid.
+
+3p    4     Bij het afremmen tot stilstand oefent de mat een gemiddelde
+            tegenwerkende kracht van 1,2 kN uit op Stan.
+             Bereken de gemiddelde vertraging.
+
+
+
+
+GT-0173-a-23-2-o                             3 / 16                          lees verder ►►►
+      Vuurpijl
+
+            Elize organiseert vuurwerkshows en koopt daarom regelmatig vuurpijlen.
+
+
+
+
+1p    5     Vuurwerk bevat buskruit. Buskruit is explosief.
+            Welk veiligheidspictogram geeft het explosiegevaar aan?
+
+
+
+
+                     A                  B                   C                   D
+
+
+            Elize zet een vuurpijl rechtop in een buis en steekt de lont aan. Het
+            buskruit verbrandt. De verbrandingsgassen verlaten met hoge snelheid de
+            opening aan de onderkant van de vuurpijl.
+
+1p    6     Op de uitwerkbijlage staat een zin over het verbranden van buskruit.
+             Omcirkel in de zin de juiste mogelijkheden.
+
+
+
+
+GT-0173-a-23-2-o                            4 / 16                           lees verder ►►►
+1p    7     Op het moment dat de vuurpijl loskomt van de grond werken er
+            verschillende krachten op de vuurpijl.
+            In welke afbeelding zijn de kracht omhoog, de zwaartekracht en de
+            nettokracht juist getekend?
+
+
+
+
+                   A                 B                 C
+
+
+2p    8     De massa van het buskruit is 30 g. De verbrandingswarmte is 2,9 MJ/kg.
+             Bereken de energie die vrijkomt als al het buskruit verbrandt.
+
+
+
+
+GT-0173-a-23-2-o                           5 / 16                          lees verder ►►►
+      Ledlamp
+
+            Ria heeft een lamp met vier leds.                koelkastdeur met lamp
+
+
+
+
+            lamp met 4 leds
+
+            De lamp werkt op batterijen. Aan de achterkant
+            van de lamp zit een magneet. Ria bevestigt de
+            lamp aan de deur van haar koelkast.
+
+1p    9     Welke metalen worden door een magneet
+            aangetrokken?
+            A ijzer en koper
+            B ijzer en nikkel
+            C magnesium en koper
+            D magnesium en nikkel
+
+            Je ziet een afbeelding van de zijkant van
+            de lamp die door de magneet aan de
+            metalen koelkastdeur is bevestigd.
+
+1p    10    De noordpool van de magneet is
+            aangegeven met de letter N.
+            Welke magnetische pool is er bij 1
+            en bij 2?
+
+                      bij 1         bij 2
+              A    noordpool     noordpool
+              B    noordpool      zuidpool
+              C     zuidpool     noordpool
+              D     zuidpool      zuidpool
+
+
+
+
+GT-0173-a-23-2-o                             6 / 16                       lees verder ►►►
+            Je ziet een afbeelding van het schakelschema van de lamp.
+
+
+
+
+1p    11    Noteer de functie van de weerstand R in deze schakeling.
+
+2p    12    Op de uitwerkbijlage staan vier zinnen over deze schakeling.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+2p    13    De lamp staat aan. Alle leds branden. De totale stroomsterkte door de
+            schakeling is 80 mA. De opgeladen batterijen hebben een totale capaciteit
+            van 1800 mAh.
+             Bereken de tijd die de lamp kan branden op volledig opgeladen
+               batterijen.
+
+1p    14    De vervangingsweerstand van de vier leds is 50 Ω. Elke led heeft
+            dezelfde weerstand.
+            Wat is juist over de weerstand van één led?
+            A Die is even groot als de vervangingsweerstand.
+            B Die is groter dan de vervangingsweerstand.
+            C Die is kleiner dan de vervangingsweerstand.
+
+
+
+
+GT-0173-a-23-2-o                           7 / 16                              lees verder ►►►
+      Practicum elektriciteit
+
+            Tahra voert een practicum elektriciteit uit. Ze schakelt een lampje in serie
+            met een weerstand. Als spanningsbron gebruikt ze een variabele
+            spanningsbron. Deze spanningsbron kan ze instellen op verschillende
+            spanningen.
+
+
+
+
+1p    15    Tahra heeft een meetinstrument dat onder andere spanning en
+            stroomsterkte kan meten.
+             Noteer de naam van dit meetinstrument dat verschillende grootheden
+                kan meten.
+
+            Tahra meet de spanning over en de stroomsterkte door het lampje.
+
+2p    16    Op de uitwerkbijlage staat een afbeelding van een deel van het
+            schakelschema.
+             Maak het schakelschema compleet met spanningsmeter en
+               stroommeter.
+
+
+
+
+GT-0173-a-23-2-o                             8 / 16                            lees verder ►►►
+            Tahra stelt de spanning van de spanningsbron in op verschillende
+            waarden. Ze leest vervolgens de spanning over en de stroomsterkte door
+            het lampje af.
+            Je ziet een tabel met haar meetresultaten.
+
+            Ulampje (V)       0      2,0      4,0     6,0      8,0      10       12
+
+            I (mA)            0      20       32      40       46       51       54
+
+
+3p    17    Zet in het diagram op de uitwerkbijlage alle meetpunten uit en teken de
+            grafiek.
+
+1p    18    Bepaal met behulp van de meetresultaten of het diagram de stroomsterkte
+            bij een spanning van 6,4 V.
+
+4p    19    Tahra stelt de spanningsbron zó in dat de spanning over het lampje 8,0 V
+            is. De stroomsterkte door de schakeling is dan 46 mA.
+            De weerstand R in de schakeling is 150 Ω.
+             Bereken de spanning over de weerstand en noteer de geleverde
+                spanning van de spanningsbron.
+
+1p    20    Wat is juist over de weerstand van het lampje bij hogere spanning?
+            A die neemt af
+            B die blijft constant
+            C die neemt toe
+
+
+
+
+GT-0173-a-23-2-o                            9 / 16                           lees verder ►►►
+      Wiel verwisselen
+
+            Janos heeft een auto met versleten banden. Een auto met versleten
+            banden heeft een langere remweg dan een auto met nieuwe banden.
+
+3p    21    Janos test zijn auto. De auto rijdt met een beginsnelheid van 21,0 m/s.
+            Janos remt tot de auto stilstaat. Na een tijd van 3,6 s staat de auto stil.
+             Bereken de remweg.
+
+            De auto wordt met een krik omhoog getild om de banden te verwisselen.
+
+2p    22    De auto wordt 0,20 m omhoog getild. Daarvoor is er een gemiddelde
+            kracht van 1150 N nodig.
+             Bereken de geleverde arbeid.
+
+            De krik staat met de grondplaat op de ondergrond. De krik duwt de auto
+            omhoog vanuit het steunpunt.
+
+
+
+
+3p    23    De kracht van de grondplaat op de ondergrond is 2300 N. Het
+            contactoppervlak van de grondplaat met de ondergrond is 60 cm2.
+             Bereken de druk op de ondergrond in Pa.
+
+1p    24    Op een zachte ondergrond kan de krik wegzakken in de grond.
+            Hoe kan worden voorkomen dat de krik in de grond wegzakt?
+            A door het oppervlak van de grondplaat te vergroten
+            B door het oppervlak van de grondplaat te verkleinen
+            C door het oppervlak van het steunpunt te vergroten
+            D door het oppervlak van het steunpunt te verkleinen
+
+
+
+
+GT-0173-a-23-2-o                             10 / 16                             lees verder ►►►
+            Janos heeft de band verwisseld en draait de wielbouten vast met een
+            wielsleutel die in lengte verstelbaar is.
+
+
+
+
+            De afstand tussen het handvat van de wielsleutel en het draaipunt van de
+            bout is 0,40 m.
+
+
+
+
+2p    25    Janos zet de wielsleutel op de eerste wielbout en duwt loodrecht op het
+            handvat. Hij oefent een spierkracht uit van 400 N.
+             Bereken het moment van de spierkracht.
+
+            Voor het vastdraaien van de tweede bout schuift Janos de wielsleutel
+            verder uit.
+
+
+
+
+            Bij het aandraaien met de verlengde wielsleutel is het moment op de
+            tweede wielbout even groot als het moment op de eerste wielbout.
+
+1p    26    Op de uitwerkbijlage staan twee zinnen over de spierkracht die Janos nu
+            uitoefent om de bout vast te draaien.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+GT-0173-a-23-2-o                           11 / 16                           lees verder ►►►
+      Theremin
+
+            Lydia bespeelt een theremin. Dit is een elektronisch muziekinstrument
+            met twee antennes. Door de afstand van haar hand tot een antenne te
+            variëren, regelt ze de geluidssterkte en de toonhoogte.
+
+
+
+
+            Lydia heeft de theremin aangesloten op een luidspreker.
+
+2p    27    De luidspreker bestaat uit drie onderdelen. De conus is een van deze
+            onderdelen.
+             Noteer de namen van de andere twee onderdelen, die ervoor zorgen
+               dat de conus trilt.
+
+            Lydia geeft buiten een concert. Het publiek op de voorste rij zit op een
+            afstand van 8 meter van de luidspreker. De geluidssterkte op deze
+            afstand is 79 dB.
+
+1p    28    In welke zone valt dit geluid?
+            A indringend
+            B hinderlijk
+            C storend bij telefoneren
+            D zeer luid
+
+
+
+
+GT-0173-a-23-2-o                             12 / 16                           lees verder ►►►
+            Voor de geluidssterkte geldt:
+
+
+            Voor elke verdubbeling van de afstand neemt de geluidssterkte met 6 dB af.
+
+
+2p    29    Het publiek op de achterste rij zit op een afstand van 32 meter van de
+            luidspreker.
+             Bereken de geluidssterkte in dB op deze afstand.
+
+            Bij een bepaald geluid stopt Lydia met het verplaatsen van haar handen.
+            Het geluid van de theremin wordt op dat moment opgevangen met een
+            microfoon en zichtbaar gemaakt op het scherm van een oscilloscoop.
+
+
+
+
+4p    30    Bereken met behulp van het beeld op het oscilloscoopscherm de
+            frequentie van het geluid. Noteer eerst de trillingstijd.
+
+
+
+
+GT-0173-a-23-2-o                            13 / 16                          lees verder ►►►
+1p    31    Lydia maakt vervolgens een lagere, even harde toon.
+            Welk oscilloscoopbeeld geeft deze toon juist weer? De instellingen van de
+            oscilloscoop blijven gelijk.
+
+
+
+
+                             A                                    B
+
+
+
+
+                             C                                    D
+
+
+
+
+GT-0173-a-23-2-o                           14 / 16                          lees verder ►►►
+      Drinkbak
+
+            Om de koeien in de wei drinkwater te geven, staat er een drinkbak in de
+            wei. Uit de sloot wordt water in de drinkbak gepompt.
+
+
+
+
+            De pomp krijgt zijn energie van een accu die wordt opgeladen door een
+            zonnepaneel.
+
+1p    32    Noteer een reden waarom deze manier van energieopwekking duurzaam
+            is.
+
+            Zonlicht heeft per m2 een gemiddeld vermogen van 800 W.
+
+2p    33    Zonnepanelen leveren per m2 gemiddeld 128 W aan elektrisch vermogen.
+             Bereken het rendement van zonnepanelen.
+
+3p    34    De zon beschijnt op een dag het zonnepaneel van de drinkbak gedurende
+            12 uur. De oppervlakte van het zonnepaneel is 0,24 m2.
+             Bereken de energie die er die dag door het zonnepaneel is
+               opgenomen. Noteer eerst de waarde van het opgenomen vermogen
+               van het zonnepaneel.
+
+2p    35    Het zonnepaneel levert een spanning van 12 V aan de accu. Bij fel
+            zonlicht is het maximale afgegeven vermogen 50 W.
+             Bereken de maximale stroomsterkte die het zonnepaneel aan de accu
+               kan leveren.
+
+1p    36    Welke energiesoort is er in een accu opgeslagen?
+            A chemische energie
+            B elektrische energie
+            C stralingsenergie
+            D warmte-energie
+
+2p    37    Een massa van 80 kg slootwater wordt 2,0 m omhoog gepompt.
+             Bereken de minimale hoeveelheid energie die hiervoor nodig is.
+
+
+GT-0173-a-23-2-o                           15 / 16                          lees verder ►►►
+      Betonplaten
+
+            In de woningbouw worden voor het aanleggen van een vloer betonplaten
+            gebruikt. Met een hijskraan worden de platen opgetild en verplaatst.
+
+
+
+
+            Op de uitwerkbijlage zie je een vereenvoudigde afbeelding van een
+            betonplaat die met twee kabels aan de hijskraan hangt.
+            Op de betonplaat werkt een zwaartekracht van 18 kN.
+            De krachtenschaal is 1 cm ≙ 4,5 kN.
+
+1p    38    Toon deze krachtenschaal met een berekening aan.
+
+3p    39    Construeer op de uitwerkbijlage de kracht in kabel A en noteer de grootte
+            van die kracht naast de afbeelding.
+
+2p    40    Tijdens het hijsen van de betonplaat staan de kabels strak en buigt de
+            betonplaat iets door.
+            Op de uitwerkbijlage staan twee zinnen over de werkende krachten bij het
+            hijsen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+3p    41    De betonplaat is versterkt met staal.
+            Het staal heeft een volume van 3,6 dm3.
+             Bereken de massa van dit staal.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0173-a-23-2-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

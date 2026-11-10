@@ -1,0 +1,484 @@
+                                               Examen VMBO-GL en TL
+
+                                                                 2018
+                                                                        tijdvak 1
+                                                              donderdag 24 mei
+                                                               13.30 - 15.30 uur
+
+
+                                    natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS informatieboek.
+
+
+
+
+Dit examen bestaat uit 44 vragen.
+Voor dit examen zijn maximaal 76 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0173-a-18-1-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Elektrische motor
+
+            Je ziet een afbeelding van een motor die wordt aangedreven door een
+            elektromotor.
+
+
+
+
+            De meeste frames van motoren worden van staal gemaakt. Het frame van
+            deze motor is gemaakt van carbonfiber. Dit zijn koolstofvezels die
+            gecombineerd zijn met (kunststof)hars.
+
+1p    1     Carbonfiber heeft een kleinere dichtheid dan staal. Hierdoor is de massa
+            van het frame kleiner.
+             Noteer nog een materiaaleigenschap van carbonfiber die het geschikt
+               maakt als materiaal voor het frame.
+
+3p    2     Het volume van het frame van carbonfiber is 6,0 dm3. De dichtheid van
+            carbonfiber is 1,78 kg/dm3.
+            De massa van een stalen frame is 46,8 kg.
+             Bereken de massa van een carbonfiber frame en noteer het
+               massaverschil met een stalen frame.
+
+
+
+
+GT-0173-a-18-1-o                            2 / 15                          lees verder ►►►
+1p    3     Het accupakket van de motor bestaat uit 10 accu’s. Je ziet het
+            vereenvoudigde schakelschema.
+
+
+
+
+                   +   -   +   -   +   -   +   -   +   -
+
+
+                   +   -   +   -   +   -   +   -   +   -
+
+            De accu’s in het accupakket leveren samen een spanning van 320 V aan
+            de elektromotor.
+            Hoe groot is de spanning van één accu?
+            A 32 V
+            B 53 V
+            C 64 V
+            D 160 V
+
+1p    4     Het accupakket is beveiligd met een zekering.
+             Waartegen beschermt een zekering?
+
+            De motor met bestuurder heeft een totale massa van 285 kg.
+            De motor trekt in 6,25 s vanuit stilstand op tot een topsnelheid van
+            252 km/h. De gemiddelde versnelling is 11,2 m/s2.
+
+3p    5     Toon deze gemiddelde versnelling met een berekening aan.
+
+2p    6     Bereken de kracht die nodig is voor deze versnelling.
+
+3p    7     De motor rijdt 9,0 minuten op topsnelheid.
+             Bereken de afstand die de motor op topsnelheid in die tijd aflegt.
+
+
+
+
+GT-0173-a-18-1-o                                           3 / 15              lees verder ►►►
+      Scheepslift
+
+            In Schotland zijn elf sluizen vervangen door één draaiende scheepslift.
+            De scheepslift bestaat uit twee bakken met water.
+            Een boot vaart de onderste bak binnen en de deur wordt gesloten.
+            De constructie maakt een halve draai linksom waarna de boot 24 m hoger
+            verder kan varen.
+
+
+
+
+            Je ziet een aantal afbeeldingen van een halve draai linksom van de
+            constructie.
+
+
+
+
+GT-0173-a-18-1-o                           4 / 15                           lees verder ►►►
+            Je ziet een afbeelding van de constructie halverwege de draai. De twee
+            bakken staan dan op gelijke hoogte.
+
+
+
+
+            De massa van elke bak met of zonder een boot is 2,8 · 105 kg.
+
+3p    8     In de afbeelding is Z het zwaartepunt.
+             Bereken het moment van de rechter bak met boot ten opzichte van
+                draaipunt D.
+
+1p    9     Vergelijk in deze situatie het moment van de linker bak met het moment
+            van de rechterbak.
+            Wat is juist?
+            Het moment van de linker bak is
+            A even groot.
+            B groter.
+            C kleiner.
+
+2p    10    De rechter bak beweegt vanuit deze stand een paar meter omhoog. Over
+            de gevolgen hiervan voor een aantal grootheden staat op de
+            uitwerkbijlage een tabel.
+             Zet in de tabel in elke rij één kruisje in de juiste kolom.
+
+3p    11    De rechter bak is bij de halve draai de boot 24 m omhooggebracht.
+             Bereken de toename van de zwaarte-energie van de bak in MJ.
+
+
+
+
+GT-0173-a-18-1-o                           5 / 15                           lees verder ►►►
+      Violist
+
+            Een violist speelt elke dag viool.
+
+
+
+
+2p    12    De violist speelt op een dag 8 uur. Hij wordt daarbij blootgesteld aan
+            geluid van 92 dB.
+             Leg uit of hij kans heeft op gehoorbeschadiging. Gebruik de tabel
+               ‘Maximale blootstellingsduur’ in BINAS.
+
+            De violist wordt onderzocht op gehoorschade. Hij krijgt een toon te horen
+            met een trillingstijd van 0,50 ms.
+
+1p    13    Welke frequentie hoort bij deze toon?
+                      2
+            A 2,0 · 10 Hz
+                      3
+            B 2,0 · 10 Hz
+                      4
+            C 2,0 · 10 Hz
+
+1p    14    Je ziet het vereenvoudigde beeld van deze toon op het scherm van een
+            oscilloscoop.
+
+
+
+
+            Wat is de tijd per hokje?
+            A 0,05 ms
+            B 0,1 ms
+            C 0,2 ms
+            D 2,5 ms
+
+
+
+GT-0173-a-18-1-o                             6 / 15                           lees verder ►►►
+1p    15    Tijdens het onderzoek wordt het geluidsniveau verlaagd tot de violist deze
+            toon niet meer hoort.
+             Omcirkel in de zin op de uitwerkbijlage de juiste mogelijkheden.
+
+            De violist heeft een leeftijd van 50 jaar.
+
+1p    16    Wat is juist over de gemiddelde afname van de gehoorgevoeligheid bij
+            deze leeftijd? Gebruik BINAS.
+            A Bij hoge tonen is de afname het grootst.
+            B Bij lage tonen is de afname het grootst.
+            C Bij hoge en lage tonen is de afname gelijk.
+            D Bij 50 jaar is er geen afname van de gehoorgevoeligheid.
+
+1p    17    Bij een toon van 1000 Hz is bij de violist een afname van de
+            gehoorgevoeligheid van 10 dB gemeten.
+             Omcirkel in de zin op de uitwerkbijlage de juiste mogelijkheid.
+
+1p    18    De violist krijgt na het onderzoek enkele aanbevelingen.
+            Bij welke aanbeveling is er sprake van absorptie van geluid?
+            A bij minder hard spelen
+            B bij minder vaak spelen
+            C bij oordopjes dragen
+
+
+
+
+GT-0173-a-18-1-o                              7 / 15                            lees verder ►►►
+      Jacuzzi plaatsen
+
+            Tim en Anneke laten een jacuzzi in hun tuin plaatsen. Een hoogwerker tilt
+            de jacuzzi over het huis naar de achtertuin.
+
+
+
+
+            De zwaartekracht op de jacuzzi is 18 kN.
+
+1p    19    Met een staalkabel over de twee katrollen wordt de jacuzzi
+            omhooggehesen.
+            Hoe groot is de spankracht in de staalkabel bij A?
+            A 36 kN
+            B 18 kN
+            C 12 kN
+            D   9 kN
+            E   6 kN
+
+2p    20    De hoogwerker tilt de jacuzzi over een afstand van 8,2 m omhoog.
+             Bereken de benodigde arbeid.
+
+3p    21    De jacuzzi hangt in banden aan de haak van de losse katrol.
+            Je ziet op de uitwerkbijlage een vereenvoudigd zijaanzicht.
+             Bepaal met een constructie de grootte van de kracht langs P vanuit de
+               haak. Vul de grootte van de kracht in onder de afbeelding.
+
+
+
+
+GT-0173-a-18-1-o                           8 / 15                           lees verder ►►►
+2p    22    De banden waar de jacuzzi in hangt, zijn net te lang om de jacuzzi over
+            het huis te krijgen. Daarom worden de banden iets ingekort.
+            Je ziet een vereenvoudigd zijaanzicht voor en na het inkorten van de
+            banden.
+
+                                                    staalkabel
+
+
+
+                                                       banden
+
+
+
+
+             voor inkorten            na inkorten
+
+
+            Op de uitwerkbijlage staan over de gevolgen van het inkorten twee
+            zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+      Afstand-app
+
+            De afstand tot een voorwerp meet je met een app op je smartphone.
+
+
+
+
+            De smartphone zendt geluid uit. Even later ontvangt de smartphone het
+            weerkaatste geluid. Met het tijdsverschil tussen zenden en ontvangen
+            berekent de smartphone de afstand tot een voorwerp.
+            De app is geijkt voor een geluidssnelheid van 340 m/s.
+
+3p    23    Bereken de tijd die het geluid onderweg is. Gebruik het gegeven op de
+            afbeelding.
+
+2p    24    Noteer de temperatuur waarbij de geluidssnelheid van de app geijkt is, in
+            Kelvin en in graden Celsius.
+
+
+
+
+GT-0173-a-18-1-o                             9 / 15                          lees verder ►►►
+      Elektriciteitsproef
+
+            Ryan en Ayo doen een practicum met elektrische schakelingen. Je ziet
+            een afbeelding van hun opstelling en het schakelschema.
+
+
+
+
+                                                                6V
+                                                                + -
+
+
+
+
+                                                        240 Ω         0-360 Ω
+
+
+
+
+2p    25    Ryan meet de spanning over en stroomsterkte door de variabele
+            weerstand.
+            Je ziet het schakelschema met mogelijke aansluitpunten voor de
+            spanningsmeter en de stroommeter.
+
+                          + -
+
+
+              1                           5
+
+
+
+                            3
+
+                   2                4
+
+
+             Zet in de tabel op de uitwerkbijlage achter elke meter een kruisje bij de
+              plaats(en) waar Ryan de juiste metingen kan doen.
+
+            Ryan stelt de spanningsbron in op 6,0 V. Hij zet de variabele weerstand in
+            de stand 10 Ω.
+
+2p    26    Bereken de stroomsterkte door de schakeling.
+
+
+
+
+GT-0173-a-18-1-o                              10 / 15                           lees verder ►►►
+1p    27    Wat is de functie van de vaste weerstand van 240 Ω?
+            Die voorkomt dat
+            A de spanning over de variabele weerstand 0 V wordt.
+            B de stroomsterkte door de variabele weerstand 0 A wordt.
+            C de totale weerstand 0 Ω wordt.
+
+1p    28    Ayo stelt de variabele weerstand in op een grotere waarde.
+            Wat gebeurt er met de spanning over de vaste weerstand?
+            A De spanning blijft gelijk.
+            B De spanning neemt af.
+            C De spanning neemt toe.
+
+            Ryan zet de variabele weerstand op verschillende standen. Hij meet
+            steeds de stroomsterkte door de schakeling. Je ziet een tabel met zijn
+            resultaten.
+
+                   Rvariabel (Ω)   I (mA)
+                        40          21,5
+                       100          17,5
+                       150          15,5
+                       240          12,5
+                       300          11,0
+                       360          10,0
+
+3p    29    Zet in het diagram op de uitwerkbijlage alle meetpunten uit en teken de
+            grafiek.
+
+1p    30    Bepaal de stroomsterkte door de variabele weerstand bij een waarde van
+            200 Ω.
+
+
+
+
+GT-0173-a-18-1-o                            11 / 15                          lees verder ►►►
+      Koken op gas
+
+            Op de camping kun je koken op propaangas. De gasfles is via een
+            drukregelaar en een gasslang op een gasstel aangesloten.
+
+
+
+
+            De druk van het gas in de volle gasfles is 40 N/cm2.
+
+1p    31    Noteer deze druk in N/m2.
+
+2p    32    De aansluiting van de drukregelaar heeft een oppervlak van 0,25 cm2.
+             Bereken de kracht van het gas op de aansluiting.
+
+            Bij deze druk en bij kamertemperatuur is een deel van het propaan in de
+            fles vloeibaar.
+
+1p    33    Je ziet op de uitwerkbijlage een afbeelding van de gasfles.
+             Noteer naast de afbeelding de fase van het propaan in elk deel van de
+               fles.
+
+            Door het openen van de gaskraan neemt de hoeveelheid propaan in de
+            gasfles af.
+
+1p    34    Je ziet op de uitwerkbijlage een zin over het propaan in de gasfles.
+             Omcirkel in die zin de juiste mogelijkheid.
+
+2p    35    De drukregelaar zorgt ervoor dat de druk in de gasslang constant is.
+            Je ziet op de uitwerkbijlage drie grafieken tijdens het gebruik van het
+            gasstel.
+             Omcirkel bij elk diagram de juiste grootheid bij de verticale as.
+
+
+
+
+GT-0173-a-18-1-o                            12 / 15                            lees verder ►►►
+            Propaan heeft dezelfde verbrandingsproducten als aardgas.
+
+1p    36    Noteer de energiesoort die propaan heeft.
+
+2p    37    Leg uit of het verbranden van propaan een natuurkundig proces of een
+            chemische reactie is.
+
+1p    38    Noteer een verbrandingsproduct dat zorgt voor een versterkt
+            broeikaseffect.
+
+2p    39    Met het gasstel wordt water aan de kook gebracht. Hiervoor is 334 kJ
+            energie nodig.
+             Bereken het volume aan propaangas in L dat hiervoor minimaal nodig
+               is. Gebruik bij je berekening de tabel ‘Verbrandingswarmte van enkele
+               stoffen’ in BINAS.
+
+
+
+
+GT-0173-a-18-1-o                          13 / 15                           lees verder ►►►
+      Zaklampje
+
+            Er is een zaklampje dat je kunt laten werken met een ingebouwde
+            dynamo. In het zaklampje zit ook een accu.
+
+
+
+
+2p    40    De accu kun je opladen door aan een slinger te draaien waarmee je een
+            kleine dynamo aandrijft.
+             Noteer de twee onderdelen in een dynamo die nodig zijn om
+                elektrische energie op te wekken.
+
+2p    41    Het zaklampje heeft twee leds. Elke led werkt op een spanning van 3,6 V.
+            Je ziet op de uitwerkbijlage een deel van het schakelschema.
+             Maak het schakelschema compleet met de twee leds.
+
+
+
+
+GT-0173-a-18-1-o                          14 / 15                           lees verder ►►►
+1p    42    Je ziet een afbeelding van het opengemaakte zaklampje.
+
+
+
+
+            Je ziet vier afbeeldingen van een aantal onderdelen.
+
+
+
+
+            Welke onderdelen zijn dat?
+            A accu, diode, leds, motor
+            B accu, diode, dynamo, leds
+            C accu, dynamo, leds, weerstand
+            D diode, leds, motor, weerstand
+
+2p    43    De capaciteit van de opgeladen accu is 20 mAh. Zet je het zaklampje aan,
+            dan levert de accu een stroom van 8,0 mA.
+             Bereken de tijd die het zaklampje op een volle accu kan branden.
+
+2p    44    Op de verpakking van het zaklampje staan twee pictogrammen.
+             Noteer op de uitwerkbijlage onder elk pictogram de juiste betekenis.
+
+
+
+
+GT-0173-a-18-1-o                           15 / 15                          lees verdereinde
+                                                                                         ►►► 
+

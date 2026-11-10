@@ -1,7 +1,10 @@
 {
  "niveaus": {
   "havo": "Havo",
-  "vwo": "Vwo"
+  "vwo": "Vwo",
+  "vmbo-bb": "Vmbo bb",
+  "vmbo-kb": "Vmbo kb",
+  "vmbo-gt": "Vmbo gl/tl"
  },
  "bijgewerkt": "2026-11-09",
  "vakken": {
@@ -2274,6 +2277,1334 @@
        "omschrijving": "Voedselwebben, energiestroom, relaties tussen soorten, populaties, stikstofkringloop, exoten en duurzaamheid.",
        "vragen": 95,
        "punten": 158
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-vmbo-bb": {
+   "niveau": "vmbo-bb",
+   "naam": "Wiskunde",
+   "opmerking": "",
+   "vragen": 139,
+   "examens": [
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "bb-0153-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "bb-0153-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "bb-0153-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "bb-0153-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "bb-0153-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "bb-0153-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Algebraïsche verbanden",
+     "onderwerpen": [
+      {
+       "id": "grafieken",
+       "naam": "Tabellen en grafieken",
+       "code": "WI/K/4",
+       "omschrijving": "Aflezen, tekenen, vergelijken en interpreteren; snijpunten, maxima en minima.",
+       "vragen": 9,
+       "punten": 15
+      },
+      {
+       "id": "formules",
+       "naam": "Rekenen met formules",
+       "code": "WI/K/4",
+       "omschrijving": "Waarden invullen, formules opstellen en gebruiken, woordformules.",
+       "vragen": 9,
+       "punten": 18
+      },
+      {
+       "id": "lineair",
+       "naam": "Lineaire verbanden",
+       "code": "WI/K/4",
+       "omschrijving": "Formules van de vorm y = ax + b, steilheid en beginwaarde.",
+       "vragen": 15,
+       "punten": 46
+      },
+      {
+       "id": "exponentieel",
+       "naam": "Exponentiële verbanden",
+       "code": "WI/K/4",
+       "omschrijving": "Groeifactor, procentuele groei, rente op rente, verdubbelings- en halveringstijd.",
+       "vragen": 2,
+       "punten": 5
+      },
+      {
+       "id": "andere-verbanden",
+       "naam": "Kwadratische, wortel-, omgekeerd evenredige en periodieke verbanden",
+       "code": "WI/K/4",
+       "omschrijving": "Parabolen, machten, y = a/x, periode en amplitude.",
+       "vragen": 7,
+       "punten": 24
+      }
+     ]
+    },
+    {
+     "naam": "Rekenen, meten en schatten",
+     "onderwerpen": [
+      {
+       "id": "rekenen",
+       "naam": "Procenten, verhoudingen en breuken",
+       "code": "WI/K/5",
+       "omschrijving": "Handig rekenen in alledaagse situaties, procenten, korting en btw, verhoudingen.",
+       "vragen": 31,
+       "punten": 78
+      },
+      {
+       "id": "meten",
+       "naam": "Eenheden, schaal en schatten",
+       "code": "WI/K/5",
+       "omschrijving": "Eenheden omrekenen, tijd en snelheid, schaal, afronden en schatten.",
+       "vragen": 25,
+       "punten": 69
+      }
+     ]
+    },
+    {
+     "naam": "Meetkunde",
+     "onderwerpen": [
+      {
+       "id": "oppervlakte-inhoud",
+       "naam": "Omtrek, oppervlakte en inhoud",
+       "code": "WI/K/6",
+       "omschrijving": "Oppervlakte van vlakke figuren, inhoud van prisma, cilinder, kegel en bol.",
+       "vragen": 16,
+       "punten": 47
+      },
+      {
+       "id": "ruimtefiguren",
+       "naam": "Ruimtefiguren, aanzichten en uitslagen",
+       "code": "WI/K/6",
+       "omschrijving": "Aanzichten, uitslagen, doorsneden, perspectief en kijklijnen.",
+       "vragen": 6,
+       "punten": 10
+      },
+      {
+       "id": "redeneren",
+       "naam": "Hoeken, gelijkvormigheid en meetkundig tekenen",
+       "code": "WI/K/6",
+       "omschrijving": "Hoeken berekenen, symmetrie, vergroten en verkleinen, constructies.",
+       "vragen": 19,
+       "punten": 36
+      }
+     ]
+    }
+   ]
+  },
+  "natuur-scheikunde-i-vmbo-bb": {
+   "niveau": "vmbo-bb",
+   "naam": "Nask1",
+   "opmerking": "",
+   "vragen": 134,
+   "examens": [
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "bb-0173-a-24-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "bb-0173-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "bb-0173-a-21-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "bb-0173-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Natuurkunde",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoeken en meten",
+       "code": "NASK1/K/3",
+       "omschrijving": "Meetinstrumenten, grootheden en eenheden, tabellen en grafieken, conclusies uit proeven.",
+       "vragen": 5,
+       "punten": 11
+      },
+      {
+       "id": "stoffen",
+       "naam": "Stoffen en materialen",
+       "code": "NASK1/K/4",
+       "omschrijving": "Stofeigenschappen, fasen en faseovergangen, dichtheid, mengsels en scheiden.",
+       "vragen": 24,
+       "punten": 29
+      },
+      {
+       "id": "elektriciteit",
+       "naam": "Elektrische energie",
+       "code": "NASK1/K/5",
+       "omschrijving": "Schakelingen, spanning, stroom, weerstand, vermogen, energie en kosten, veiligheid.",
+       "vragen": 34,
+       "punten": 55
+      },
+      {
+       "id": "geluid",
+       "naam": "Geluid",
+       "code": "NASK1/K/8",
+       "omschrijving": "Trillingen, toonhoogte, frequentie, geluidssterkte, decibel en gehoorbescherming.",
+       "vragen": 23,
+       "punten": 32
+      },
+      {
+       "id": "kracht",
+       "naam": "Kracht en veiligheid",
+       "code": "NASK1/K/9",
+       "omschrijving": "Krachten, hefbomen, druk, beweging en snelheid, veiligheid.",
+       "vragen": 48,
+       "punten": 66
+      }
+     ]
+    }
+   ]
+  },
+  "biologie-vmbo-bb": {
+   "niveau": "vmbo-bb",
+   "naam": "Biologie",
+   "opmerking": "",
+   "vragen": 227,
+   "examens": [
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "bb-0191-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "bb-0191-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "bb-0191-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "bb-0191-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "bb-0191-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "bb-0191-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Biologie",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoek doen",
+       "code": "BI/K/3",
+       "omschrijving": "Onderzoeksvraag, hypothese, variabelen, proeven en conclusies.",
+       "vragen": 15,
+       "punten": 20
+      },
+      {
+       "id": "cellen",
+       "naam": "Cellen en organisatie",
+       "code": "BI/K/4",
+       "omschrijving": "Cellen, celdelen, weefsels, organen en organismen; microscoop.",
+       "vragen": 11,
+       "punten": 13
+      },
+      {
+       "id": "ecologie",
+       "naam": "Planten, dieren en hun samenhang",
+       "code": "BI/K/6",
+       "omschrijving": "Voedselketens en -webben, kringlopen, fotosynthese, ecosystemen en indeling van organismen.",
+       "vragen": 35,
+       "punten": 37
+      },
+      {
+       "id": "voeding",
+       "naam": "Voeding, vertering en energie",
+       "code": "BI/K/9",
+       "omschrijving": "Voedingsstoffen, gezonde voeding, verteringsorganen en enzymen, energie.",
+       "vragen": 45,
+       "punten": 51
+      },
+      {
+       "id": "transport",
+       "naam": "Ademhaling, bloedsomloop en uitscheiding",
+       "code": "BI/K/9",
+       "omschrijving": "Longen, hart en bloedvaten, bloed, nieren en huid.",
+       "vragen": 53,
+       "punten": 56
+      },
+      {
+       "id": "prikkels",
+       "naam": "Reageren op prikkels",
+       "code": "BI/K/11",
+       "omschrijving": "Zintuigen, zenuwstelsel, reflexen en hormonen.",
+       "vragen": 31,
+       "punten": 32
+      },
+      {
+       "id": "voortplanting",
+       "naam": "Voortplanting en ontwikkeling",
+       "code": "BI/K/12",
+       "omschrijving": "Puberteit, geslachtsorganen, menstruatiecyclus, zwangerschap, anticonceptie en soa.",
+       "vragen": 37,
+       "punten": 44
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-vmbo-kb": {
+   "niveau": "vmbo-kb",
+   "naam": "Wiskunde",
+   "opmerking": "",
+   "vragen": 172,
+   "examens": [
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "kb-0153-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "kb-0153-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "kb-0153-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "kb-0153-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "kb-0153-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "kb-0153-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "kb-0153-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Algebraïsche verbanden",
+     "onderwerpen": [
+      {
+       "id": "grafieken",
+       "naam": "Tabellen en grafieken",
+       "code": "WI/K/4",
+       "omschrijving": "Aflezen, tekenen, vergelijken en interpreteren; snijpunten, maxima en minima.",
+       "vragen": 6,
+       "punten": 15
+      },
+      {
+       "id": "formules",
+       "naam": "Rekenen met formules",
+       "code": "WI/K/4",
+       "omschrijving": "Waarden invullen, formules opstellen en gebruiken, woordformules.",
+       "vragen": 20,
+       "punten": 48
+      },
+      {
+       "id": "lineair",
+       "naam": "Lineaire verbanden",
+       "code": "WI/K/4",
+       "omschrijving": "Formules van de vorm y = ax + b, steilheid en beginwaarde.",
+       "vragen": 10,
+       "punten": 31
+      },
+      {
+       "id": "exponentieel",
+       "naam": "Exponentiële verbanden",
+       "code": "WI/K/4",
+       "omschrijving": "Groeifactor, procentuele groei, rente op rente, verdubbelings- en halveringstijd.",
+       "vragen": 16,
+       "punten": 51
+      },
+      {
+       "id": "andere-verbanden",
+       "naam": "Kwadratische, wortel-, omgekeerd evenredige en periodieke verbanden",
+       "code": "WI/K/4",
+       "omschrijving": "Parabolen, machten, y = a/x, periode en amplitude.",
+       "vragen": 15,
+       "punten": 44
+      }
+     ]
+    },
+    {
+     "naam": "Rekenen, meten en schatten",
+     "onderwerpen": [
+      {
+       "id": "rekenen",
+       "naam": "Procenten, verhoudingen en breuken",
+       "code": "WI/K/5",
+       "omschrijving": "Handig rekenen in alledaagse situaties, procenten, korting en btw, verhoudingen.",
+       "vragen": 33,
+       "punten": 88
+      },
+      {
+       "id": "meten",
+       "naam": "Eenheden, schaal en schatten",
+       "code": "WI/K/5",
+       "omschrijving": "Eenheden omrekenen, tijd en snelheid, schaal, afronden en schatten.",
+       "vragen": 15,
+       "punten": 48
+      }
+     ]
+    },
+    {
+     "naam": "Meetkunde",
+     "onderwerpen": [
+      {
+       "id": "oppervlakte-inhoud",
+       "naam": "Omtrek, oppervlakte en inhoud",
+       "code": "WI/K/6",
+       "omschrijving": "Oppervlakte van vlakke figuren, inhoud van prisma, cilinder, kegel en bol.",
+       "vragen": 25,
+       "punten": 76
+      },
+      {
+       "id": "pythagoras-gonio",
+       "naam": "Stelling van Pythagoras en goniometrie",
+       "code": "WI/K/6",
+       "omschrijving": "Zijden berekenen met Pythagoras, hoeken en zijden met sinus, cosinus en tangens.",
+       "vragen": 16,
+       "punten": 61
+      },
+      {
+       "id": "ruimtefiguren",
+       "naam": "Ruimtefiguren, aanzichten en uitslagen",
+       "code": "WI/K/6",
+       "omschrijving": "Aanzichten, uitslagen, doorsneden, perspectief en kijklijnen.",
+       "vragen": 5,
+       "punten": 11
+      },
+      {
+       "id": "redeneren",
+       "naam": "Hoeken, gelijkvormigheid en meetkundig tekenen",
+       "code": "WI/K/6",
+       "omschrijving": "Hoeken berekenen, symmetrie, vergroten en verkleinen, constructies.",
+       "vragen": 11,
+       "punten": 24
+      }
+     ]
+    }
+   ]
+  },
+  "natuur-scheikunde-i-vmbo-kb": {
+   "niveau": "vmbo-kb",
+   "naam": "Nask1",
+   "opmerking": "",
+   "vragen": 231,
+   "examens": [
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "kb-0173-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "kb-0173-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "kb-0173-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "kb-0173-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "kb-0173-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "kb-0173-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Natuurkunde",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoeken en meten",
+       "code": "NASK1/K/3",
+       "omschrijving": "Meetinstrumenten, grootheden en eenheden, tabellen en grafieken, conclusies uit proeven.",
+       "vragen": 12,
+       "punten": 25
+      },
+      {
+       "id": "stoffen",
+       "naam": "Stoffen en materialen",
+       "code": "NASK1/K/4",
+       "omschrijving": "Stofeigenschappen, fasen en faseovergangen, dichtheid, mengsels en scheiden.",
+       "vragen": 34,
+       "punten": 55
+      },
+      {
+       "id": "elektriciteit",
+       "naam": "Elektrische energie",
+       "code": "NASK1/K/5",
+       "omschrijving": "Schakelingen, spanning, stroom, weerstand, vermogen, energie en kosten, veiligheid.",
+       "vragen": 70,
+       "punten": 125
+      },
+      {
+       "id": "verbranden",
+       "naam": "Verbranden en verwarmen",
+       "code": "NASK1/K/6",
+       "omschrijving": "Verbranding, brandstoffen, warmte, isoleren en verwarmen.",
+       "vragen": 16,
+       "punten": 21
+      },
+      {
+       "id": "geluid",
+       "naam": "Geluid",
+       "code": "NASK1/K/8",
+       "omschrijving": "Trillingen, toonhoogte, frequentie, geluidssterkte, decibel en gehoorbescherming.",
+       "vragen": 29,
+       "punten": 50
+      },
+      {
+       "id": "kracht",
+       "naam": "Kracht en veiligheid",
+       "code": "NASK1/K/9",
+       "omschrijving": "Krachten, hefbomen, druk, beweging en snelheid, veiligheid.",
+       "vragen": 70,
+       "punten": 120
+      }
+     ]
+    }
+   ]
+  },
+  "biologie-vmbo-kb": {
+   "niveau": "vmbo-kb",
+   "naam": "Biologie",
+   "opmerking": "",
+   "vragen": 351,
+   "examens": [
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "kb-0191-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "kb-0191-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "kb-0191-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "kb-0191-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "kb-0191-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "kb-0191-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "kb-0191-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Biologie",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoek doen",
+       "code": "BI/K/3",
+       "omschrijving": "Onderzoeksvraag, hypothese, variabelen, proeven en conclusies.",
+       "vragen": 21,
+       "punten": 28
+      },
+      {
+       "id": "cellen",
+       "naam": "Cellen en organisatie",
+       "code": "BI/K/4",
+       "omschrijving": "Cellen, celdelen, weefsels, organen en organismen; microscoop.",
+       "vragen": 13,
+       "punten": 18
+      },
+      {
+       "id": "ecologie",
+       "naam": "Planten, dieren en hun samenhang",
+       "code": "BI/K/6",
+       "omschrijving": "Voedselketens en -webben, kringlopen, fotosynthese, ecosystemen en indeling van organismen.",
+       "vragen": 69,
+       "punten": 80
+      },
+      {
+       "id": "voeding",
+       "naam": "Voeding, vertering en energie",
+       "code": "BI/K/9",
+       "omschrijving": "Voedingsstoffen, gezonde voeding, verteringsorganen en enzymen, energie.",
+       "vragen": 53,
+       "punten": 65
+      },
+      {
+       "id": "transport",
+       "naam": "Ademhaling, bloedsomloop en uitscheiding",
+       "code": "BI/K/9",
+       "omschrijving": "Longen, hart en bloedvaten, bloed, nieren en huid.",
+       "vragen": 80,
+       "punten": 86
+      },
+      {
+       "id": "prikkels",
+       "naam": "Reageren op prikkels",
+       "code": "BI/K/11",
+       "omschrijving": "Zintuigen, zenuwstelsel, reflexen en hormonen.",
+       "vragen": 49,
+       "punten": 53
+      },
+      {
+       "id": "voortplanting",
+       "naam": "Voortplanting en ontwikkeling",
+       "code": "BI/K/12",
+       "omschrijving": "Puberteit, geslachtsorganen, menstruatiecyclus, zwangerschap, anticonceptie en soa.",
+       "vragen": 66,
+       "punten": 74
+      }
+     ]
+    }
+   ]
+  },
+  "wiskunde-vmbo-gl-tl": {
+   "niveau": "vmbo-gt",
+   "naam": "Wiskunde",
+   "opmerking": "",
+   "vragen": 380,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "gt-0153-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "gt-0153-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "gt-0153-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "gt-0153-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "gt-0153-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "gt-0153-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "gt-0153-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "gt-0153-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "gt-0153-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "gt-0153-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "gt-0153-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "gt-0153-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "gt-0153-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "gt-0153-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "gt-0153-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "gt-0153-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Algebraïsche verbanden",
+     "onderwerpen": [
+      {
+       "id": "grafieken",
+       "naam": "Tabellen en grafieken",
+       "code": "WI/K/4, V/1",
+       "omschrijving": "Aflezen, tekenen, vergelijken en interpreteren; snijpunten, maxima en minima.",
+       "vragen": 10,
+       "punten": 27
+      },
+      {
+       "id": "formules",
+       "naam": "Rekenen met formules",
+       "code": "WI/K/4, V/1",
+       "omschrijving": "Waarden invullen, formules opstellen en gebruiken, woordformules.",
+       "vragen": 40,
+       "punten": 92
+      },
+      {
+       "id": "lineair",
+       "naam": "Lineaire verbanden",
+       "code": "WI/K/4, V/1",
+       "omschrijving": "Formules van de vorm y = ax + b, steilheid en beginwaarde.",
+       "vragen": 18,
+       "punten": 57
+      },
+      {
+       "id": "exponentieel",
+       "naam": "Exponentiële verbanden",
+       "code": "WI/K/4, V/1",
+       "omschrijving": "Groeifactor, procentuele groei, rente op rente, verdubbelings- en halveringstijd.",
+       "vragen": 35,
+       "punten": 95
+      },
+      {
+       "id": "andere-verbanden",
+       "naam": "Kwadratische, wortel-, omgekeerd evenredige en periodieke verbanden",
+       "code": "WI/K/4, V/1",
+       "omschrijving": "Parabolen, machten, y = a/x, periode en amplitude.",
+       "vragen": 51,
+       "punten": 152
+      }
+     ]
+    },
+    {
+     "naam": "Rekenen, meten en schatten",
+     "onderwerpen": [
+      {
+       "id": "rekenen",
+       "naam": "Procenten, verhoudingen en breuken",
+       "code": "WI/K/5",
+       "omschrijving": "Handig rekenen in alledaagse situaties, procenten, korting en btw, verhoudingen.",
+       "vragen": 49,
+       "punten": 128
+      },
+      {
+       "id": "meten",
+       "naam": "Eenheden, schaal en schatten",
+       "code": "WI/K/5",
+       "omschrijving": "Eenheden omrekenen, tijd en snelheid, schaal, afronden en schatten.",
+       "vragen": 40,
+       "punten": 121
+      }
+     ]
+    },
+    {
+     "naam": "Meetkunde",
+     "onderwerpen": [
+      {
+       "id": "oppervlakte-inhoud",
+       "naam": "Omtrek, oppervlakte en inhoud",
+       "code": "WI/K/6",
+       "omschrijving": "Oppervlakte van vlakke figuren, inhoud van prisma, cilinder, kegel en bol.",
+       "vragen": 43,
+       "punten": 142
+      },
+      {
+       "id": "pythagoras-gonio",
+       "naam": "Stelling van Pythagoras en goniometrie",
+       "code": "WI/K/6",
+       "omschrijving": "Zijden berekenen met Pythagoras, hoeken en zijden met sinus, cosinus en tangens.",
+       "vragen": 50,
+       "punten": 196
+      },
+      {
+       "id": "ruimtefiguren",
+       "naam": "Ruimtefiguren, aanzichten en uitslagen",
+       "code": "WI/K/6",
+       "omschrijving": "Aanzichten, uitslagen, doorsneden, perspectief en kijklijnen.",
+       "vragen": 18,
+       "punten": 53
+      },
+      {
+       "id": "redeneren",
+       "naam": "Hoeken, gelijkvormigheid en meetkundig tekenen",
+       "code": "WI/K/6",
+       "omschrijving": "Hoeken berekenen, symmetrie, vergroten en verkleinen, constructies.",
+       "vragen": 26,
+       "punten": 54
+      }
+     ]
+    }
+   ]
+  },
+  "natuur-scheikunde-i-vmbo-gl-tl": {
+   "niveau": "vmbo-gt",
+   "naam": "Nask1",
+   "opmerking": "",
+   "vragen": 658,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "gt-0173-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "gt-0173-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "gt-0173-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "gt-0173-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "gt-0173-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "gt-0173-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "gt-0173-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "gt-0173-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "gt-0173-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "gt-0173-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "gt-0173-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "gt-0173-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "gt-0173-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "gt-0173-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "gt-0173-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "gt-0173-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Natuurkunde",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoeken en meten",
+       "code": "NASK1/K/3",
+       "omschrijving": "Meetinstrumenten, grootheden en eenheden, tabellen en grafieken, conclusies uit proeven.",
+       "vragen": 30,
+       "punten": 65
+      },
+      {
+       "id": "stoffen",
+       "naam": "Stoffen en materialen",
+       "code": "NASK1/K/4",
+       "omschrijving": "Stofeigenschappen, fasen en faseovergangen, dichtheid, mengsels en scheiden.",
+       "vragen": 91,
+       "punten": 149
+      },
+      {
+       "id": "elektriciteit",
+       "naam": "Elektrische energie",
+       "code": "NASK1/K/5",
+       "omschrijving": "Schakelingen, spanning, stroom, weerstand, vermogen, energie en kosten, veiligheid.",
+       "vragen": 183,
+       "punten": 344
+      },
+      {
+       "id": "verbranden",
+       "naam": "Verbranden en verwarmen",
+       "code": "NASK1/K/6",
+       "omschrijving": "Verbranding, brandstoffen, warmte, isoleren en verwarmen.",
+       "vragen": 34,
+       "punten": 54
+      },
+      {
+       "id": "geluid",
+       "naam": "Geluid",
+       "code": "NASK1/K/8",
+       "omschrijving": "Trillingen, toonhoogte, frequentie, geluidssterkte, decibel en gehoorbescherming.",
+       "vragen": 101,
+       "punten": 164
+      },
+      {
+       "id": "kracht",
+       "naam": "Kracht en veiligheid",
+       "code": "NASK1/K/9",
+       "omschrijving": "Krachten, hefbomen, druk, beweging en snelheid, veiligheid.",
+       "vragen": 72,
+       "punten": 126
+      },
+      {
+       "id": "verkeer",
+       "naam": "Veiligheid in het verkeer",
+       "code": "NASK1/V/1",
+       "omschrijving": "Snelheid, reactie- en remweg, stopafstand, bewegingsenergie en veiligheidsvoorzieningen.",
+       "vragen": 80,
+       "punten": 157
+      },
+      {
+       "id": "constructies",
+       "naam": "Constructies",
+       "code": "NASK1/V/2",
+       "omschrijving": "Krachten in constructies, momenten, stevigheid en materiaalkeuze.",
+       "vragen": 67,
+       "punten": 128
+      }
+     ]
+    }
+   ]
+  },
+  "biologie-vmbo-gl-tl": {
+   "niveau": "vmbo-gt",
+   "naam": "Biologie",
+   "opmerking": "",
+   "vragen": 835,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "gt-0191-a-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "gt-0191-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "gt-0191-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "gt-0191-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "gt-0191-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "gt-0191-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "gt-0191-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "gt-0191-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "gt-0191-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "gt-0191-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "gt-0191-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "gt-0191-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "gt-0191-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "gt-0191-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "gt-0191-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "gt-0191-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Biologie",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoek doen",
+       "code": "BI/K/3",
+       "omschrijving": "Onderzoeksvraag, hypothese, variabelen, proeven en conclusies.",
+       "vragen": 45,
+       "punten": 64
+      },
+      {
+       "id": "cellen",
+       "naam": "Cellen en organisatie",
+       "code": "BI/K/4",
+       "omschrijving": "Cellen, celdelen, weefsels, organen en organismen; microscoop.",
+       "vragen": 28,
+       "punten": 34
+      },
+      {
+       "id": "ecologie",
+       "naam": "Planten, dieren en hun samenhang",
+       "code": "BI/K/6",
+       "omschrijving": "Voedselketens en -webben, kringlopen, fotosynthese, ecosystemen en indeling van organismen.",
+       "vragen": 99,
+       "punten": 123
+      },
+      {
+       "id": "voeding",
+       "naam": "Voeding, vertering en energie",
+       "code": "BI/K/9",
+       "omschrijving": "Voedingsstoffen, gezonde voeding, verteringsorganen en enzymen, energie.",
+       "vragen": 86,
+       "punten": 107
+      },
+      {
+       "id": "transport",
+       "naam": "Ademhaling, bloedsomloop en uitscheiding",
+       "code": "BI/K/9",
+       "omschrijving": "Longen, hart en bloedvaten, bloed, nieren en huid.",
+       "vragen": 107,
+       "punten": 124
+      },
+      {
+       "id": "prikkels",
+       "naam": "Reageren op prikkels",
+       "code": "BI/K/11",
+       "omschrijving": "Zintuigen, zenuwstelsel, reflexen en hormonen.",
+       "vragen": 87,
+       "punten": 104
+      },
+      {
+       "id": "voortplanting",
+       "naam": "Voortplanting en ontwikkeling",
+       "code": "BI/K/12",
+       "omschrijving": "Puberteit, geslachtsorganen, menstruatiecyclus, zwangerschap, anticonceptie en soa.",
+       "vragen": 126,
+       "punten": 138
+      },
+      {
+       "id": "erfelijkheid",
+       "naam": "Erfelijkheid en evolutie",
+       "code": "BI/K/13",
+       "omschrijving": "Chromosomen, genen, kruisingen, mutaties, natuurlijke selectie en evolutie.",
+       "vragen": 112,
+       "punten": 135
+      },
+      {
+       "id": "afweer",
+       "naam": "Bescherming en antistoffen",
+       "code": "BI/V/1",
+       "omschrijving": "Ziekteverwekkers, afweer, antistoffen, vaccinatie en bloedgroepen.",
+       "vragen": 68,
+       "punten": 80
+      },
+      {
+       "id": "gedrag",
+       "naam": "Gedrag bij mens en dier",
+       "code": "BI/V/2",
+       "omschrijving": "Gedragsvormen, prikkels en reacties, aangeboren en aangeleerd gedrag.",
+       "vragen": 77,
+       "punten": 93
+      }
+     ]
+    }
+   ]
+  },
+  "natuur-scheikunde-ii-vmbo-gl-tl": {
+   "niveau": "vmbo-gt",
+   "naam": "Nask2",
+   "opmerking": "",
+   "vragen": 771,
+   "examens": [
+    {
+     "jaar": 2026,
+     "tijdvak": 2,
+     "code": "gt-0174-i-26-2"
+    },
+    {
+     "jaar": 2026,
+     "tijdvak": 1,
+     "code": "gt-0174-a-26-1"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 2,
+     "code": "gt-0174-a-25-2"
+    },
+    {
+     "jaar": 2025,
+     "tijdvak": 1,
+     "code": "gt-0174-a-25-1"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 2,
+     "code": "gt-0174-a-24-2"
+    },
+    {
+     "jaar": 2024,
+     "tijdvak": 1,
+     "code": "gt-0174-a-24-1"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 2,
+     "code": "gt-0174-a-23-2"
+    },
+    {
+     "jaar": 2023,
+     "tijdvak": 1,
+     "code": "gt-0174-a-23-1"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 2,
+     "code": "gt-0174-a-22-2"
+    },
+    {
+     "jaar": 2022,
+     "tijdvak": 1,
+     "code": "gt-0174-a-22-1"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 2,
+     "code": "gt-0174-a-21-2"
+    },
+    {
+     "jaar": 2021,
+     "tijdvak": 1,
+     "code": "gt-0174-a-21-1"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 2,
+     "code": "gt-0174-a-19-2"
+    },
+    {
+     "jaar": 2019,
+     "tijdvak": 1,
+     "code": "gt-0174-a-19-1"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 2,
+     "code": "gt-0174-a-18-2"
+    },
+    {
+     "jaar": 2018,
+     "tijdvak": 1,
+     "code": "gt-0174-a-18-1"
+    }
+   ],
+   "domeinen": [
+    {
+     "naam": "Scheikunde",
+     "onderwerpen": [
+      {
+       "id": "onderzoek",
+       "naam": "Onderzoeken en practicum",
+       "code": "NASK2/K/3",
+       "omschrijving": "Proeven opzetten, meten, waarnemen en conclusies trekken.",
+       "vragen": 53,
+       "punten": 61
+      },
+      {
+       "id": "materie",
+       "naam": "Bouw van de materie",
+       "code": "NASK2/K/11",
+       "omschrijving": "Atomen, moleculen, ionen, het periodiek systeem en formules.",
+       "vragen": 223,
+       "punten": 273
+      },
+      {
+       "id": "reacties",
+       "naam": "Reacties en reactievergelijkingen",
+       "code": "NASK2/K/10",
+       "omschrijving": "Kenmerken van reacties, reactievergelijkingen kloppend maken, rekenen aan reacties.",
+       "vragen": 204,
+       "punten": 335
+      },
+      {
+       "id": "verbranding",
+       "naam": "Verbranding",
+       "code": "NASK2/K/5",
+       "omschrijving": "Verbrandingsvoorwaarden, verbrandingsproducten, brandblussen en luchtvervuiling.",
+       "vragen": 62,
+       "punten": 86
+      },
+      {
+       "id": "zuren",
+       "naam": "Water, zuren en basen",
+       "code": "NASK2/K/7",
+       "omschrijving": "pH, indicatoren, zure en basische oplossingen, neutraliseren en waterzuivering.",
+       "vragen": 131,
+       "punten": 173
+      },
+      {
+       "id": "productie",
+       "naam": "Productieprocessen en productonderzoek",
+       "code": "NASK2/V/1, V/2",
+       "omschrijving": "Productieprocessen, scheidingsmethoden, stoffen aantonen en productonderzoek.",
+       "vragen": 98,
+       "punten": 120
       }
      ]
     }

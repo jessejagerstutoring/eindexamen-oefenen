@@ -1,0 +1,573 @@
+                                                      Examen VMBO-GL en TL
+
+                                                                           2018
+                                                                                 tijdvak 2
+                                                                          dinsdag 19 juni
+                                                                        13.30 - 15.30 uur
+
+
+                                     natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS informatieboek.
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 43 vragen.
+Voor dit examen zijn maximaal 75 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+
+GT-0173-a-18-2-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Heilawaai
+
+            Om te voorkomen dat gebouwen wegzakken in de grond, zijn ze op palen
+            geplaatst. Een paal wordt in een hei-installatie door een zwaar blok de
+            grond ingeslagen.
+
+
+
+
+1p    1     Op 5 m afstand van de hei-installatie is een geluidsniveau van 120 dB
+            gemeten.
+            In welke zone valt dit geluid?
+            A hinderlijk
+            B zeer hinderlijk
+            C zeer luid
+            D extreem luid
+
+1p    2     De bouwvakkers moeten gehoorbescherming dragen tijdens het werk om
+            gehoorbeschadiging te voorkomen.
+             Noteer nog een maatregel om gehoorbeschadiging te voorkomen.
+
+
+
+
+GT-0173-a-18-2-o                            2 / 16                          lees verder ►►►
+3p    3     Op 5 m afstand is het gemeten geluidsniveau 120 dB.
+            Er geldt de volgende regel:
+
+            Als de afstand tot een geluidsbron verdubbelt, neemt het geluidsniveau
+            met 6 dB af.
+
+            Een bouwvakker gaat op 40 m van de hei-installatie staan.
+             Bereken de tijd in minuten die deze bouwvakker langer aan dit geluid
+               kan worden blootgesteld. Gebruik de tabel ‘Maximale
+               blootstellingsduur’ in BINAS.
+
+1p    4     Je ziet het vereenvoudigde oscilloscoopbeeld van het geluid van het
+            heiblok op de heipaal, gemeten op 5 m afstand.
+
+
+
+
+            Welk oscilloscoopbeeld hoort bij de meting van het geluid op grotere
+            afstand?
+
+
+
+
+                      A                         B                           C
+
+
+            De temperatuur van de buitenlucht tijdens het heien is 288 K.
+
+1p    5     Noteer deze temperatuur in graden Celsius.
+
+3p    6     Een buurtbewoner ziet vanaf een afstand het heiblok de heipaal raken. Hij
+            hoort het geluid 0,30 s later.
+             Bereken de afstand tussen de hei-installatie en de buurtbewoner.
+
+1p    7     In de loop van de dag stijgt de temperatuur. Over het gevolg van deze
+            temperatuurstijging staan op de uitwerkbijlage drie zinnen.
+             Omcirkel in de tweede en derde zin de juiste mogelijkheid. Gebruik de
+                tabel ‘Voortplantingssnelheid van geluid in enkele stoffen’ in BINAS.
+
+
+GT-0173-a-18-2-o                           3 / 16                               lees verder ►►►
+      Seabreacher
+
+            Ashwin heeft een Seabreacher. Dit is een boot die behalve varen ook kan
+            duiken, springen en rollen door en in het water.
+
+
+
+
+            De boot heeft een benzinemotor die zorgt voor de stuwkracht.
+
+2p    8     Je ziet op de uitwerkbijlage een afbeelding van de boot tijdens het varen.
+            In de afbeelding zijn de stuwkracht en de luchtweerstand getekend tijdens
+            het varen met constante snelheid.
+             Teken in de afbeelding de vector van de tegenwerkende kracht van
+                het water langs de stippellijn.
+
+            Ashwin laat zijn boot een sprong maken.
+
+
+
+
+2p    9     Bij de sprong is 9250 J van alle bewegingsenergie omgezet in zwaarte-
+            energie. De massa van de boot met Ashwin is 740 kg.
+             Bereken de maximale afstand die de boot omhoogkomt.
+
+2p    10    De boot duikt na een sprong met een snelheid van 15 m/s in het water.
+            Zijn snelheid neemt in 2,5 s af tot 8,0 m/s.
+             Bereken de vertraging.
+
+
+
+
+GT-0173-a-18-2-o                            4 / 16                           lees verder ►►►
+3p    11    Ashwin vaart de boot terug naar de haven over een afstand van 8,0 km.
+            Hij vaart met een gemiddelde snelheid van 40 km/h.
+             Bereken de tijd in minuten die de boot van Ashwin nodig heeft om bij
+                de haven aan te komen.
+
+            Bij de vaartocht is 50 L benzine verbrand. Bij het verbranden van deze
+            hoeveelheid benzine komt 1,65 · 109 J energie vrij.
+
+3p    12    Toon met een berekening aan dat bij deze verbranding
+            1,65 · 109 J energie is omgezet. Gebruik bij je antwoord de tabel
+            ‘Verbrandingswarmte van enkele stoffen’ in BINAS.
+
+2p    13    Bij de vaartocht is 2,97 · 108 J van de totaal omgezette energie nuttig
+            gebruikt.
+             Bereken het rendement van de boot bij deze tocht.
+
+
+
+
+GT-0173-a-18-2-o                             5 / 16                             lees verder ►►►
+      Dolfijn zwemmen
+
+            Een mono-vin is een rubberen zwemvlies.
+            Met de mono-vin aan je voeten zwem je als
+            een dolfijn.
+
+            Een zwemmer met mono-vin kan een
+            gemiddelde zwemsnelheid van 13 km/h
+            halen. Dit is twee keer zo snel als een
+            zwemmer zonder mono-vin.
+
+1p    14    Je ziet het schema van de energiestroom per seconde bij een zwemmer
+            zonder en met mono-vin.
+
+                            zonder mono-vin                     met mono-vin
+
+
+
+
+                              zwemmer                            zwemmer
+
+
+                   1000 J                              1000 J
+
+
+
+
+            Waarom kan de zwemmer met een mono-vin sneller zwemmen dan
+            zonder mono-vin?
+            Omdat
+            A de totale hoeveelheid energie groter is.
+            B het opgenomen vermogen groter is.
+            C het rendement groter is.
+
+1p    15    Tijdens het zwemmen is er in het lichaam sprake van een
+            energieomzetting.
+            Welke energiesoort wordt er in het lichaam omgezet?
+            A bewegingsenergie
+            B chemische energie
+            C elastische energie
+            D warmte
+
+
+
+
+GT-0173-a-18-2-o                              6 / 16                           lees verder ►►►
+1p    16    Op de uitwerkbijlage staat een zin over de zwemsnelheid en de
+            bewegingsenergie.
+             Omcirkel in die zin de juiste mogelijkheden.
+
+1p    17    De snelheid tijdens het zwemmen is niet constant. Je ziet een
+            vereenvoudigd v,t-diagram van de zwemmer met mono-vin die drie
+            zwemslagen maakt.
+
+            snelheid
+
+
+
+
+                            A   B                                             tijd
+
+
+            Over de beweging en de krachten tussen A en B staan op de
+            uitwerkbijlage twee zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-18-2-o                          7 / 16                            lees verder ►►►
+      Zelfgemaakte trafo
+
+            Aras en Stijn maken een transformator met de oplader van hun
+            elektrische tandenborstel.
+
+
+
+
+            In de oplader zitten een spoel en een weekijzeren kern.
+
+1p    18    Aras en Stijn sluiten de oplader aan op de netspanning. Aras zegt tegen
+            Stijn dat de oplader werkt als een elektromagneet en een stukje ijzer kan
+            aantrekken.
+            Heeft Aras gelijk?
+            A Nee, want een elektromagneet bevat geen weekijzeren kern.
+            B Nee, want een elektromagneet werkt op gelijkspanning.
+            C Ja, want rond de spoel is een permanent magnetisch veld.
+
+            Aras en Stijn maken zelf een spoel door geïsoleerd koperdraad om de
+            basis van de oplader te wikkelen. Deze spoel verbinden ze met twee leds.
+
+
+
+
+1p    19    Je ziet op de uitwerkbijlage twee zinnen over geïsoleerd koperdraad.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-18-2-o                            8 / 16                           lees verder ►►►
+            De spoel in de oplader en de zelfgemaakte spoel vormen samen een
+            transformator.
+
+            De leds branden als Aras de stekker van de oplader in het stopcontact
+            steekt. Stijn meet met een multimeter de secundaire spanning en
+            stroomsterkte. Je ziet een tabel met de gegevens.
+
+
+            netspanning                   230 V
+
+            secundaire spanning           1,2 V
+
+            secundaire stroomsterkte      4,5 mA
+
+
+2p    20    De zelfgemaakte spoel heeft 18 windingen.
+             Bereken het aantal windingen van de primaire spoel in de oplader.
+               Ga er hier van uit dat de transformator ideaal is.
+
+1p    21    Je ziet het deel van de multimeter die Stijn gebruikt met een
+            keuzeschakelaar voor het meetbereik.
+
+
+
+
+            Bij welke stand van de keuzeschakelaar meet Stein het nauwkeurigst een
+            stroomsterkte van 4,5 mA af?
+            A bij stand 1
+            B bij stand 2
+            C bij stand 3
+            D bij stand 4
+
+3p    22    Aras leest op een energiemeter een (primair) vermogen van 0,8 W af.
+             Laat met een berekening zien of hun transformator ideaal is. Noteer je
+               conclusie.
+
+
+
+
+GT-0173-a-18-2-o                            9 / 16                          lees verder ►►►
+      Gelsluis
+
+            Schepen liggen soms uren voor gesloten sluisdeuren te wachten.
+            Voor een ontwerpwedstrijd is een sluis met gel (een stroperige vloeistof)
+            bedacht. De sluisdeuren zijn vervangen door gel. De gel ligt op de bodem
+            van de sluis.
+                                                          locomotieven
+
+               NAP                                                                  NAP
+               0     binnenwater                                         zeewater   0
+                                               gel
+
+
+                                          lengte 3,2 km
+
+
+            Twee locomotieven slepen een schip door de gel. Hiermee kan de
+            wachttijd voor schepen flink korter worden. De weggeduwde gel wordt in
+            het midden van de sluis weer teruggepompt.
+
+
+
+
+1p    23    De gel kent een aantal eigenschappen waardoor hij geschikt is voor deze
+            toepassing.
+            Over de eigenschappen staan op de uitwerkbijlage twee zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+            De gel heeft een dichtheid van 1,1 ton/m3 (1,1 g/cm3).
+
+1p    24    Het volume van de gel in de sluis is 4,5 · 106 m3.
+            Wat is de massa van deze hoeveelheid gel?
+                      6
+            A 4,1 · 10 ton
+                      6
+            B 5,0 · 10 ton
+                      7
+            C 4,1 · 10 ton
+                      7
+            D 5,0 · 10 ton
+
+1p    25    Het schip wordt van binnenwater via de gelsluis naar zeewater gesleept.
+            Waar is de diepgang van het schip het grootst?
+            A in binnenwater
+            B in de gelsluis
+            C in zeewater
+
+
+
+
+GT-0173-a-18-2-o                             10 / 16                                lees verder ►►►
+3p    26    Twee locomotieven op de kade van de sluis trekken het schip door de
+            bovenste laag van de gel.
+            Je ziet op de uitwerkbijlage een schematische afbeelding van een schip
+            met de krachten tijdens het trekken.
+             Construeer in de afbeelding de resulterende kracht. Vul de grootte van
+               de kracht in onder de afbeelding.
+
+1p    27    De spoorlijn van de locomotieven ligt vóór de sluis verder van het schip
+            dan in de sluis.
+            Je ziet een afbeelding van de spoorlijnen, de vaarrichting van het schip en
+            de trekkabels naar de locomotieven.
+
+             spoorlijn          locomotief
+                                                                           locomotief
+
+
+
+
+                                                                              vaarrichting
+
+
+
+
+                                                                           locomotief
+             spoorlijn          locomotief
+
+                           voor de sluis                           in de sluis
+
+            De locomotieven leveren tijdens het slepen steeds een even grote kracht.
+            Wat is juist over de resulterende kracht die de locomotieven leveren op
+            het schip?
+            A Die is in de sluis even groot als voor de sluis.
+            B Die is in de sluis groter dan voor de sluis.
+            C Die is in de sluis kleiner dan voor de sluis.
+
+3p    28    De twee locomotieven werken op een dag 7,5 h. Ze leveren samen een
+            gemiddeld vermogen van 4,2 · 105 W. 1 kWh kost € 0,25.
+             Bereken de energiekosten per dag voor het gebruik van de
+               locomotieven.
+
+1p    29    Bij de gelsluis is er een hoogteverschil tussen het binnenwater en het
+            zeewater. Dit hoogteverschil wordt gebruikt om de benodigde elektrische
+            energie voor de locomotieven op te wekken. Het water gaat door een
+            turbine naast de sluis die een dynamo aandrijft.
+            Op de uitwerkbijlage staan twee zinnen over het opwekken van de
+            elektrische energie.
+             Omcirkel in de eerste zin de juiste mogelijkheid en maak de tweede
+                zin compleet.
+
+
+
+
+GT-0173-a-18-2-o                             11 / 16                             lees verder ►►►
+      Kwaliteit van verf
+
+            In een bouwmarkt staan verschillende soorten verf.
+
+
+
+
+2p    30    Verf is een vloeistof met daarin fijn verdeelde vaste stof. Na het
+            aanbrengen van een verflaag verdampt de vloeistof.
+            Op de uitwerkbijlage staan twee zinnen over het verdampen van de
+            vloeistof.
+             Maak de eerste zin compleet en omcirkel in de tweede zin de juiste
+                mogelijkheid.
+
+            De hoeveelheid vaste stof in verf kan per merk verschillen.
+
+
+
+
+             inhoud: 0,75 dm3 / massa: 975 gram      inhoud: 0,75 dm3 / massa: 885 gram
+
+1p    31    Wat is juist over de dichtheid van het huismerk?
+            De dichtheid van het huismerk is
+            A even groot als die van het A-merk.
+            B groter dan die van het A-merk.
+            C kleiner dan die van het A-merk.
+
+3p    32    Bereken de dichtheid van het huismerk verf in g/cm3.
+
+
+
+
+GT-0173-a-18-2-o                           12 / 16                           lees verder ►►►
+2p    33    De vloeistof in de verf is terpentine. Je ziet een deel van de
+            veiligheidskaart van terpentine.
+
+                   FYSISCHE / CHEMISCHE GEVAREN
+                   Ontvlambaar. Het product kan dampen vrijgeven die gemakkelijk
+                   ontvlambare mengsels vormen.
+                   GEVAREN VOOR DE GEZONDHEID
+                   Schadelijk: kan longschade veroorzaken na verslikken. Dampen
+                   kunnen slaperigheid en duizeligheid veroorzaken. Overmatige
+                   blootstelling kan leiden tot irritatie van ogen, huid en
+                   ademhalingswegen.
+                   Kan op lange termijn schadelijke effecten veroorzaken.
+                   GEVAREN VOOR HET MILIEU
+                   Vergiftig voor in het water levende organismen.
+
+             Zet in de tabel op de uitwerkbijlage een kruisje bij de vier
+              veiligheidspictogrammen die op deze veiligheidskaart van toepassing
+              zijn.
+
+
+
+
+GT-0173-a-18-2-o                             13 / 16                         lees verder ►►►
+      Moment voor de zwaartekracht
+
+            Renske maakt tijdens de natuurkundeles een opstelling met een
+            aluminium buis met aan een uiteinde een gewicht aan een touwtje.
+            De buis van 1,0 m lengte is in evenwicht. D is het draaipunt.
+            Het zwaartepunt van de buis is aangegeven met punt Z.
+
+
+
+
+1p    34    Op de uitwerkbijlage staan twee zinnen over de krachten bij deze
+            opstelling.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+3p    35    Bereken de grootte van de zwaartekracht op de buis. Gebruik de
+            gegevens in de afbeelding.
+
+2p    36    Het totale gewicht van de tafel met opstelling is 135 N. Het
+            contactoppervlak met de grond is 64 cm2.
+             Bereken de druk van de tafel op de grond. Rond je antwoord af
+               op 1 decimaal.
+
+
+
+
+GT-0173-a-18-2-o                          14 / 16                              lees verder ►►►
+      Schakeling doormeten
+
+            Marlou en Luuk onderzoeken het verband tussen de spanning en het
+            vermogen bij een weerstand. Ze sluiten een weerstand aan op een
+            regelbare spanningsbron. Je ziet een afbeelding van een deel van de
+            opstelling en hun materialen.
+
+
+
+
+2p    37    Ze meten de spanning over en de stroomsterkte door de weerstand.
+            Je ziet op de uitwerkbijlage een deel van het schakelschema.
+             Maak het schakelschema compleet met de weerstand en beide
+               meters.
+
+            Luuk verhoogt in stapjes de spanning en Marlou leest bij elke spanning de
+            stroomsterkte af. Ze berekenen bij elke meting het vermogen.
+            Je ziet een tabel met hun resultaten.
+
+
+            U (V)      0       3,0      4,0         6,0   8,0
+
+            I (A)      0       0,15     0,20       0,30   0,40
+
+            P (W)      0       0,45     0,80       1,80   3,20
+
+
+3p    38    Zet in het diagram op de uitwerkbijlage alle resultaten van P en U uit en
+            teken de grafiek.
+
+2p    39    Over het verband tussen het vermogen en de spanning staan op de
+            uitwerkbijlage twee zinnen.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0173-a-18-2-o                              15 / 16                         lees verder ►►►
+      Fierljeppen
+
+            Fierljeppen is een Friese volkssport. Het doel is om met een polsstok zo
+            ver mogelijk (over water) te springen.
+
+
+
+
+            Bij de aanloop (1) rent de springer naar zijn polsstok. Hij springt in de
+            polsstok (2) en klimt (van 3 naar 4) omhoog.
+
+3p    40    Van 3 naar 4 klimt de springer over een afstand van 240 cm omhoog. De
+            springer heeft een massa van 72 kg.
+             Bereken de arbeid die de klimmer dan minimaal verricht.
+
+            Na de afsprong (van 5 naar 6) landt de springer op de grond. De springer
+            buigt daarbij door zijn knieën.
+
+1p    41    Wat is juist over de remtijd mét doorbuigen?
+            De remtijd mét doorbuigen is
+            A even groot als de remtijd zonder doorbuigen.
+            B groter dan de remtijd zonder doorbuigen.
+            C kleiner dan de remtijd zonder doorbuigen.
+
+1p    42    Wat is juist over de remkracht mét doorbuigen?
+            De remkracht mét doorbuigen is
+            A even groot als de remkracht zonder doorbuigen.
+            B groter dan de remkracht zonder doorbuigen.
+            C kleiner dan de remkracht zonder doorbuigen.
+
+1p    43    Met welke veiligheidsvoorziening in een auto komt de functie van de
+            knieën bij het landen overeen?
+            A met de hoofdsteun
+            B met de kooiconstructie
+            C met de kreukelzone
+
+
+
+
+GT-0173-a-18-2-o                             16 / 16                            lees verdereinde
+                                                                                             ►►► 
+

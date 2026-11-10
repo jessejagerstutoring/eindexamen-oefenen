@@ -1,0 +1,2040 @@
+NATUUR- EN
+SCHEIKUNDE I
+VMBO
+
+SYLLABUS CENTRAAL
+EXAMEN 2026
+
+
+
+Versie 2, juli 2024
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+Verantwoording:
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+
+
+                                                                                         Pagina 2 van 39
+       NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+       INHOUD
+
+
+VOORWOORD                                                              4
+
+1      SYLLABUS NATUUR- EN SCHEIKUNDE I BB                             5
+1.1    VERDELING EXAMINERING CE/SE                                     5
+1.2    SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE              6
+NASK1/K/3 LEERVAARDIGHEDEN IN HET VAK NATUURKUNDE                      6
+NASK1/K/4 STOFFEN EN MATERIALEN                                        8
+NASK1/K/5 ELEKTRISCHE ENERGIE                                         10
+NASK1/K/8 GELUID                                                      11
+NASK1/K9 KRACHT EN VEILIGHEID                                         12
+
+2      SYLLABUS NATUUR- EN SCHEIKUNDE I KB                            14
+2.1    VERDELING EXAMINERING CE/SE                                    14
+2.2    SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE             15
+NASK1/K/3 LEERVAARDIGHEDEN IN HET VAK NATUURKUNDE                     15
+NASK1/K/4 STOFFEN EN MATERIALEN                                       17
+NASK1/K/5 ELEKTRISCHE ENERGIE                                         19
+NASK1/K/6 VERBRANDEN EN VERWARMEN                                     21
+NASK1/K/8 GELUID                                                      22
+NASK1/K/9 KRACHT EN VEILIGHEID                                        23
+
+3      SYLLABUS NATUUR- EN SCHEIKUNDE I GT                            25
+3.1    VERDELING EXAMINERING CE/SE                                    25
+3.2    SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE             26
+NASK1/K/3 LEERVAARDIGHEDEN IN HET VAK NATUURKUNDE                     26
+NASK1/K/4 STOFFEN EN MATERIALEN                                       28
+NASK1/K5 ELEKTRISCHE ENERGIE                                          30
+NASK1/K/6 VERBRANDEN EN VERWARMEN                                     32
+NASK1/K/8 GELUID                                                      34
+NASK1/K/9 KRACHT EN VEILIGHEID                                        35
+NASK1/V/1 VEILIGHEID IN HET VERKEER                                   37
+NASK1/V/2 CONSTRUCTIES                                                38
+NASK1/V/4 VAARDIGHEDEN IN SAMENHANG                                   38
+
+
+
+
+                                                                           Pagina 3 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+(www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+In de syllabi 2026 zijn de wijzigingen ten opzichte van de vorige syllabus voor het examenjaar 2025
+duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn diverse vakken waarbij de syllabus
+2026 geen inhoudelijke veranderingen heeft ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H. (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 39
+      NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1     SYLLABUS NATUUR- EN SCHEIKUNDE I BB
+
+1.1   VERDELING EXAMINERING CE/SE
+      Tabel:
+      Verdeling van de examenstof natuur- en scheikunde I BB over centraal examen en schoolexamen
+
+
+       Exameneenheden                                                B   CE   moet    mag op
+                                                                              op SE    SE
+
+       NASK1/K/1           Oriëntatie op leren en werken             X         B
+
+       NASK1/K/2           Basisvaardigheden                         X         B
+
+       NASK1/K/3           Leervaardigheden in het vak natuurkunde   X   B     B
+
+       NASK1/K/4           Stoffen en materialen                     X   B              B
+
+       NASK1/K/5           Elektrische energie                       X   B              B
+
+       NASK1/K/6           Verbranden en verwarmen                   X         B
+
+       NASK1/K/7           Licht en beeld                            X         B
+
+       NASK1/K/8           Geluid                                    X   B              B
+
+       NASK1/K/9           Kracht en veiligheid                      X   B              B
+
+       NASK1/K/10          Bouw van de materie                       X         B
+
+
+
+
+      Basisberoepsgerichte leerweg                                                      Pagina 5 van 39
+      NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+      NASK1/K/3 Leervaardigheden in het vak natuurkunde
+      De kandidaat kan
+
+      1 informatie uit bronnenmateriaal selecteren, verwerken en bewerken:
+        – tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding
+        – tekeningen, schema's, diagrammen en tabellen
+        – gegevensbestanden, cd-rom en internet
+
+      2 basisrekenvaardigheden binnen de natuurkunde toepassen:
+        – zakrekenmachine gebruiken voor optellen, aftrekken, vermenigvuldigen, delen
+        – rekenregels gebruiken
+        – verhoudingstabellen gebruiken
+        – percentages berekenen
+        – gebruik maken van de voorvoegsels:
+              – mega
+              – kilo
+              – milli
+              – micro
+
+      3 natuurkundige grootheden met symbool en de bijbehorende eenheden met afkorting gebruiken:
+        – lengte (weg, afstand)
+        – snelheid
+        – oppervlakte
+        – volume
+        – massa
+        – tijd
+        – toonhoogte (frequentie)
+        – stroomsterkte
+        – spanning
+        – weerstand
+        – vermogen
+        – kracht
+        – druk
+        – energie
+        – rendement
+        – temperatuur
+        – geluidssterkte(geluidsniveau)1
+
+      4 natuurkundige apparatuur herkennen en gebruiken:
+        – krachtmeter/veerunster
+        – stemvork
+        – luidspreker
+        – microfoon
+        – geluidssterktemeter
+        – brander
+        – dompelaar
+        – thermometer
+        – meetlint
+        – maatglas
+        – stopwatch
+        – weegschaal
+        – voedingsapparaat
+        – schuifweerstand
+        – stroommeter
+        – spanningsmeter
+
+      1
+       In lesmethoden wordt vaak geluidssterkte gebruikt, in Binas meestal geluidsniveau. In de examens wordt alleen
+      geluidssterkte gebruikt.
+      Basisberoepsgerichte leerweg                                                                  Pagina 6 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   –   vermogensmeter
+   –   kWh-meter
+   –   multimeter
+   –   transformator
+
+5 resultaten van computermetingen interpreteren
+
+6 berekeningen uitvoeren, gebruikmakend van woordformules:
+  – de eenheid bij een berekende grootheid aangeven
+
+    woordformules:
+         – druk = kracht/ oppervlak
+         – weerstand = spanning/ stroomsterkte
+         – vermogen = spanning x stroomsterkte
+         – gemiddelde snelheid = afstand/ tijd
+         – vermogen = energie/ tijd
+         – zwaartekracht = massa x valversnelling
+         – stopafstand = reactieafstand + remweg
+
+7 veilige en onveilige situaties herkennen bij ontwerpen en onderzoek doen
+
+8 deelstappen van een ontwerpproces uitvoeren:
+  – een werkplan maken voor het uitvoeren van een ontwerp
+  – een ontwerp of een deel ervan bouwen
+  – ontwerpproces en product evalueren, rekening houdende met ontwerpeisen en randvoorwaarden
+  – voorstellen doen voor verbetering
+
+9 deelstappen van een onderzoek uitvoeren:
+  – onderzoek voorbereiden:
+        – een onderzoeksvraag kiezen
+        – benodigdheden selecteren
+        – alternatieven bedenken voor de uitvoering
+  – onderzoek uitvoeren:
+        – een plan opstellen
+        – werken volgens plan
+        – waarnemingen verrichten
+        – gegevens verzamelen
+        – gegevens grafisch presenteren
+        – conclusies trekken
+  – onderzoek afsluiten:
+        – voorstellen voor verbetering doen
+        – aanbevelingen voor verder onderzoek doen
+
+
+
+
+Basisberoepsgerichte leerweg                                                 Pagina 7 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/4 Stoffen en materialen
+De kandidaat kan
+
+1 een verband leggen tussen soorten materialen, hun eigenschappen en praktische toepassingen in het
+  dagelijks leven en bij beroepssituaties:
+
+
+ soorten                 eigenschappen                           praktische toepassingen
+ materialen                                                      bij het ontwerpen, bouwen
+                                                                 en repareren ten minste
+                                                                 van:
+
+     – hout                    – geleiding van warmte               – woningen
+     – kunststof               – geleiding van elektriciteit        – apparaten
+     – textiel                 – geleiding van geluid               – meubels
+     – metaal                  – dichtheid (kwalitatief)            – kleding
+     – steen                   – uitzetting en inkrimping           – voertuigen
+     – beton                   – verspaanbaarheid
+     – glas                    – mogelijkheid tot verbinden en
+                                 samenstellen
+                               – corrosiebestendigheid
+
+
+2 stoffen herkennen aan de hand van ten minste de volgende (stof)eigenschappen:
+  – fase (vast, vloeibaar of gasvormig) bij normale druk en temperatuur
+  – kleur
+  – geur
+  – oplosbaarheid in water
+  – kookpunt
+  – smeltpunt
+  – geleiding van elektriciteit
+  – dichtheid
+
+3 noemen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren
+  worden aangegeven en hoe deze gevaren zijn tegen te gaan:
+  – gebruik van veiligheidskaarten
+  – voorzorgsmaatregelen nemen:
+       – beschermingsbril
+       – labjas
+       – plastic handschoenen
+  – gifwijzer
+  – pictogrammen:
+       – schadelijk
+       – explosief
+       – bijtend
+       – ontvlambaar
+       – giftig
+       – niet mengen
+
+4 uitleggen hoe bij de keuze van stoffen en materialen rekening kan worden gehouden met effecten
+  voor het milieu:
+  – grondstoffen
+  – productie
+  – transport
+  – recycling
+  – afvalverwerking
+
+
+Basisberoepsgerichte leerweg                                                               Pagina 8 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+5 herkennen wat de gevolgen zijn voor het milieu van het gebruik van grondstoffen en de productie van
+  afvalstoffen:
+  – bodem-, lucht- en waterverontreiniging
+  – lozing en verwerking
+  – uitputting van natuurlijke bronnen
+  – duurzaamheid
+
+6 manieren noemen om verantwoord met afval om te gaan:
+  – scheiden en hergebruik:
+       – glas
+       – batterijen
+       – kleding
+       – papier
+       – gft
+       – kca
+  – composteren
+  – storten
+  – verbranden
+
+7 ten minste de volgende processen uit het dagelijkse leven herkennen als onomkeerbare, chemische
+  reacties:
+  – voedselbereiding
+  – roesten
+  – verbranding
+  – uitharden van beton
+  – lijmen
+  – carbid
+
+
+
+
+Basisberoepsgerichte leerweg                                                      Pagina 9 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/5 Elektrische energie
+De kandidaat kan
+
+1 in elektrische schakelingen de onderdelen naar aard en functie onderscheiden en de symbolen ervan
+  herkennen:
+
+
+ schakelingen                              componenten                    meetinstrumenten
+ ten minste de volgende:
+
+     – huisinstallatie                         – weerstand                   – spanningsmeter
+     – elektrisch circuit van                  – ntc, ldr, led en diode      – stroommeter
+       voertuigen                              – schakelaar                  – multimeter
+     – spanningsbron en ‘aarde’
+                                               – drukschakelaar              – kWh-meter
+     – verbindingsdraden                       – reedcontact                 – vermogensmeter
+                                               – relais
+                                               – transistor als
+                                                 schakelaar met basis,
+                                                 emitter en collector
+                                               – actuator, zoals motor
+                                                 of lamp
+                                               – transformator
+
+
+2 het principe van een gesloten stroomkring toepassen in serie- en parallelschakelingen
+
+3 uitleggen hoe een stroomkring beveiligd kan worden:
+  – hoofdzekering
+  – groepzekering
+  – aardlekschakelaar
+  – randaarde
+  – 'dubbele' isolatie
+
+4 het onderscheid noemen tussen geleiders en isolatoren in praktische toepassingen
+
+5 schema’s van schakelingen gebruiken, interpreteren en aanpassen, ten minste:
+  – inbrekersalarm
+  – automatische deurbediening
+  – elektronische temperatuursensor
+  – schemerschakeling
+  – dimmer
+  – discolichten
+
+6 in serieschakelingen en in parallelschakelingen een relatie leggen tussen spanning en stroom en
+  hiermee berekeningen uitvoeren
+
+7 het vermogen van apparaten, het totale vermogen en het energieverbruik berekenen in
+  serieschakelingen en in parallelschakelingen
+
+8 het totale energiegebruik van elektrische apparaten meten met een kWh-meter en energiekosten
+  berekenen
+
+
+
+
+Basisberoepsgerichte leerweg                                                                 Pagina 10 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+9 een beargumenteerde keuze maken uit gelijksoortige elektrische apparaten ten aanzien van
+  energiegebruik, rendement, capaciteit, levensduur en veiligheid, ten minste:
+  – spaarlampen
+  – leds
+  – accu’s
+  – huishoudelijke apparaten
+  – moderne apparaten (bv LCD-schermen, smartphone)
+
+NASK1/K/8 Geluid
+De kandidaat kan
+
+1 de begrippen hanteren die een geluid kenmerken:
+  – toonhoogte (frequentie)
+  – geluidssterkte
+
+2 herkennen dat geluid ontstaat bij een geluidsbron, zich uitbreidt door een tussenstof en waargenomen
+  kan worden door een ontvanger, hiervan toepassingen noemen en berekeningen met de
+  geluidssnelheid uitvoeren:
+
+ geluidsbronnen            tussenstof             geluidsontvanger   toepassingen
+                                                                     ten minste:
+
+     – stemvork                – lucht                – oor             – geluidssnelheid
+     – muziek-                 – water                – microfoon       – echo
+       instrumenten            – andere                                 – echolood
+     – luidspreker
+                                                                        – echoscopie
+     – oortelefoon
+     – machines
+     – verkeer
+
+
+3 de verandering van de toonhoogte (frequentie) van een snaarinstrument in verband brengen met de
+  lengte en de spankracht in de snaar (kwalitatief)
+
+4 metingen van geluidssterkte interpreteren en bronnen van geluidshinder aangeven:
+  – geluidssterktemeter
+  – computermetingen
+  – dB(A)-schaal
+  – gehoorgrenzen (tussen 20 Hz en 20 kHz)
+
+5 de mogelijke gezondheidsschade in verband brengen met de geluidssterkte en tijdsduur en suggesties
+  doen voor maatregelen tegen geluidshinder ten minste:
+  – geluidswal
+  – geluidsscherm
+  – gehoorbeschermers
+  – dubbele beglazing
+
+
+
+
+Basisberoepsgerichte leerweg                                                            Pagina 11 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K9 Kracht en veiligheid
+De kandidaat kan
+
+1 verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven:
+  – spierkracht
+  – veerkracht
+  – spankracht
+  – zwaartekracht
+  – wrijvingskracht
+  – magnetische kracht
+  – elektrische kracht
+  – grootte, richting en aangrijpingspunt
+  – kracht meten met veerunster of krachtsensor
+
+2 bij hefbomen in evenwicht herkennen op welke manier met een kleine kracht een grote kracht wordt
+  uitgeoefend en omgekeerd en hiervan voorbeelden kennen, ten minste:
+  – tang
+  – klauwhamer
+  – breekijzer
+  – steekwagen
+  – steek/ringsleutel
+  – momentsleutel
+
+3 uitleggen hoe bij een katrol de richting van de kracht omgekeerd kan worden en de grootte van de
+  kracht verminderd kan worden:
+  – vaste katrol
+  – losse katrol
+  – takels
+
+4 de gemiddelde snelheid berekenen van een bewegend voorwerp
+
+5 (s, t)- en (v, t)-diagrammen van bewegingen met constante snelheid aflezen en maken
+   (v, t)-diagrammen van andere bewegingen aflezen
+
+6 de krachten herkennen en samenstellen die een rol spelen bij een rijdend voertuig langs een rechte
+  weg:
+  – aandrijfkracht en remkracht
+  – tegenwerkende krachten:
+        – luchtwrijving
+        – rolwrijving
+  – nettokracht
+
+7 constructies herkennen die de nadelige effecten van een botsing verminderen, ten minste:
+  – veiligheidsgordel
+  – veiligheidshelm
+  – kreukelzone
+  – hoofdsteun
+  – kooiconstructie
+  – airbag
+
+8 omstandigheden herkennen die invloed hebben op de veiligheid tijdens het rijden, ten minste:
+  – reactietijd
+  – rijsnelheid
+  – staat van de banden en van het wegdek
+  – weersomstandigheden
+
+
+
+
+Basisberoepsgerichte leerweg                                                       Pagina 12 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+9 de invloed van de kracht en de oppervlakte op de druk van een voorwerp op de ondergrond uitleggen,
+  ten minste:
+  – veiligheidsgordel
+  – veiligheidshelm
+  – rijplaten
+  – rupsband
+  – tractorbanden
+  – mes
+  – punaise
+
+
+
+
+Basisberoepsgerichte leerweg                                                     Pagina 13 van 39
+      NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+2     SYLLABUS NATUUR- EN SCHEIKUNDE I KB
+
+2.1   VERDELING EXAMINERING CE/SE
+      Tabel:
+      Verdeling van de examenstof natuur- en scheikunde I KB over centraal examen en schoolexamen
+
+
+       Exameneenheden                                                K   CE   moet    mag op
+                                                                              op SE    SE
+
+       NASK1/K/1           Oriëntatie op leren en werken             X         K
+
+       NASK1/K/2           Basisvaardigheden                         X         K
+
+       NASK1/K/3           Leervaardigheden in het vak natuurkunde   X   K     K
+
+       NASK1/K/4           Stoffen en materialen                     X   K              K
+
+       NASK1/K/5           Elektrische energie                       X   K              K
+
+       NASK1/K/6           Verbranden en verwarmen                   X   K              K
+
+       NASK1/K/7           Licht en beeld                            X         K
+
+       NASK1/K/8           Geluid                                    X   K              K
+
+       NASK1/K/9           Kracht en veiligheid                      X   K              K
+
+       NASK1/K/10          Bouw van de materie                       X         K
+
+       NASK1/K/11          Straling en stralingsbescherming          X         K
+
+       NASK1/K/12          Het weer                                  X         K
+
+
+
+
+      Kaderberoepsgerichte leerweg                                                             Pagina 14 van 39
+      NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+2.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+      NASK1/K/3 Leervaardigheden in het vak natuurkunde
+      De kandidaat kan
+
+      1 informatie uit bronnenmateriaal selecteren, verwerken en bewerken:
+        – tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding
+        – tekeningen, schema's, diagrammen en tabellen
+        – gegevensbestanden, cd-rom en Internet
+
+      2 rekenvaardigheden binnen natuurkunde toepassen:
+        – vooraf uitkomsten schatten bij het meten en rekenen en achteraf uitkomsten beoordelen
+        – zakrekenmachine gebruiken voor optellen, aftrekken, vermenigvuldigen, delen en de functietoetsen
+           gebruiken voor omgekeerde, kwadraat en wortel
+        – rekenregels gebruiken
+        – werken met positieve en negatieve machten van tien, inclusief het werken met voorvoegsels
+        – verhoudingstabellen gebruiken
+        – percentages berekenen
+        – evenredige, lineaire en omgekeerd evenredige verbanden gebruiken
+
+      3 natuurkundige grootheden met symbool en de bijbehorende eenheden met afkorting gebruiken:
+        – lengte (weg, afstand, arm)
+        – snelheid
+        – versnelling
+        – oppervlakte
+        – volume
+        – massa
+        – dichtheid
+        – tijd (trillingstijd)
+        – toonhoogte (frequentie)
+        – stroomsterkte
+        – spanning
+        – weerstand
+        – vermogen
+        – kracht
+        – druk
+        – rendement
+        – temperatuur
+        – geluidssterkte(geluidsniveau)2
+        – energie
+        – bewegingsenergie
+        – zwaarte-energie
+        – elektrische energie
+        – veer energie of elastische energie
+        – arbeid
+        – moment
+        – capaciteit
+
+
+
+
+      2
+       In lesmethoden wordt vaak geluidssterkte gebruikt, in Binas meestal geluidsniveau. In de examens wordt alleen
+      geluidssterkte gebruikt.
+      Kaderberoepsgerichte leerweg                                                                      Pagina 15 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+4 natuurkundige apparatuur herkennen en gebruiken:
+  – krachtmeter/veerunster
+  – stemvork
+  – luidspreker
+  – microfoon
+  – oscilloscoop
+  – geluidssterktemeter
+  – brander
+  – dompelaar
+  – thermometer
+  – meetlint
+  – maatglas
+  – stopwatch
+  – weegschaal
+  – voedingsapparaat
+  – schuifweerstand
+  – stroommeter
+  – spanningsmeter
+  – vermogensmeter
+  – kWh-meter
+  – multimeter
+  – transformator
+
+5 de computer gebruiken:
+  – gebruik maken van meetprogramma’s op de computer, metingen uitvoeren en resultaten
+     verwerken en interpreteren
+  – gebruik maken van applets en simulatieprogramma’s, deze programma’s bedienen en de resultaten
+     verwerken en interpreteren
+
+6 berekeningen uitvoeren en redeneringen opzetten gebruikmakend van formules:
+  – de eenheid bij een berekende grootheid aangeven
+  – afgeleide eenheden herleiden tot eenheden van het SI-eenhedenstelsel
+
+(De formules staan opgesomd bij de verschillende onderwerpen. Andere formules kunnen in een examen
+geïntroduceerd worden.)
+
+7 veilige en onveilige situaties herkennen bij ontwerpen en onderzoek doen en bij onveilige situaties
+  suggesties doen voor verbetering
+
+8 de deelstappen van een ontwerpproces uitvoeren:
+  – een werkplan maken voor het uitvoeren van een ontwerp
+  – een ontwerp of een deel ervan bouwen
+  – ontwerpproces en product evalueren, rekening houdende met ontwerpeisen en randvoorwaarden
+  – voorstellen doen voor verbetering
+
+9 de deelstappen van een onderzoek uitvoeren:
+  – onderzoek voorbereiden:
+        – een onderzoeksvraag kiezen
+        – benodigdheden selecteren
+        – alternatieven bedenken voor de uitvoering
+  – onderzoek uitvoeren:
+        – een plan opstellen
+        – werken volgens plan
+        – waarnemingen verrichten
+        – gegevens verzamelen
+        – gegevens grafisch presenteren
+        – conclusies trekken
+  – onderzoek afsluiten:
+        – voorstellen voor verbetering doen
+
+Kaderberoepsgerichte leerweg                                                              Pagina 16 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+          –      aanbevelingen voor verder onderzoek doen
+
+NASK1/K/4 Stoffen en materialen
+De kandidaat kan
+
+1 een verband leggen tussen soorten materialen, hun eigenschappen en praktische toepassingen in het
+  dagelijks leven en bij beroepssituaties:
+
+
+ soorten               eigenschappen                           praktische toepassingen
+ materialen                                                    bij het ontwerpen, bouwen
+                                                               en repareren ten minste van:
+
+     – hout                – geleiding van warmte                 – woningen
+     – kunststof           – geleiding van elektriciteit          – apparaten
+     – textiel             – geleiding van geluid                 – meubels
+     – metaal              – dichtheid                            – kleding
+     – steen               – uitzetting en inkrimping             – voertuigen
+     – beton               – verspaanbaarheid
+     – glas                – mogelijkheid tot verbinden en
+                             samenstellen
+                           – corrosiebestendigheid
+                           – vervormen
+
+
+
+2 uitleggen, waarom een voorwerp zinkt, zweeft of drijft:
+  – dichtheid
+
+3 stoffen herkennen en onderscheiden aan de hand van ten minste de volgende (stof)eigenschappen:
+  – fase (vast, vloeibaar of gasvormig) bij normale druk en temperatuur
+  – kleur
+  – geur
+  – oplosbaarheid in water
+  – kookpunt,
+  – smeltpunt
+  – geleiding van elektriciteit
+  – dichtheid
+
+4 uitleggen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren
+  worden aangegeven en hoe deze gevaren zijn tegen te gaan:
+  – gebruik van veiligheidskaarten
+  – voorzorgsmaatregelen nemen:
+         – beschermingsbril
+         – labjas
+         – plastic handschoenen
+  – gifwijzer
+  – pictogrammen:
+         – schadelijk of irriterend
+         – explosief
+         – bijtend
+         – ontvlambaar
+         – giftig
+         – niet mengen
+         – brandbevorderend
+
+5 uitleggen hoe bij de keuze van stoffen en materialen rekening kan worden gehouden met effecten
+  voor het milieu:
+  – grondstoffen
+Kaderberoepsgerichte leerweg                                                                  Pagina 17 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   –    productie
+   –    transport
+   –    recycling
+   –    afvalverwerking
+
+6 uitleggen wat de gevolgen zijn voor het milieu van het gebruik van grondstoffen en de productie van
+  afvalstoffen:
+  – bodem-, lucht- en waterverontreiniging
+  – lozing en verwerking
+  – uitputting van natuurlijke bronnen
+  – duurzaamheid
+
+7 manieren noemen om verantwoord met afval om te gaan:
+  – scheiden en hergebruik:
+       – glas
+       – batterijen
+       – kleding
+       – papier
+       – gft
+       – kca
+  – composteren
+  – storten
+  – verbranden
+
+8 ten minste de volgende processen uit het dagelijkse leven herkennen als een natuurkundig proces of
+  een chemische reactie
+
+
+ natuurkundig proces                       chemische reactie
+
+       – faseovergangen                         – voedselbereiding
+
+                                                – roesten
+
+                                                – verbranding
+
+                                                – uitharden van beton
+
+                                                – lijmen
+
+                                                – carbid
+
+
+formules:
+
+ρ=m/V
+
+
+
+
+Kaderberoepsgerichte leerweg                                                            Pagina 18 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/5 Elektrische energie
+De kandidaat kan
+
+1 in elektrische schakelingen de onderdelen naar aard en functie onderscheiden en de symbolen ervan
+  herkennen:
+
+
+ schakelingen                   componenten                        meetinstrumenten
+ ten minste de volgende:
+
+     – huisinstallatie               – weerstand                      – spanningsmeter
+     – elektrisch circuit van        – NTC, LDR, LED en diode         – stroommeter
+       voertuigen                    – schakelaar                     – multimeter
+     – spanningsbron en
+                                     – drukschakelaar                 – kWh-meter
+       ‘aarde’
+                                     – reedcontact                    – vermogensmeter
+     – verbindingsdraden
+                                     – relais
+                                     – transistor als schakelaar
+                                       met basis, emitter en
+                                       collector
+                                     – condensator
+                                     – actuator, zoals motor of
+                                       lamp
+                                     – transformator
+
+
+2 het principe van een gesloten stroomkring toepassen in serie- en parallelschakelingen
+
+3 uitleggen hoe een stroomkring beveiligd kan worden en op welke principes de beveiliging berust:
+  – hoofdzekering
+  – groepzekering
+  – aardlekschakelaar
+  – randaarde
+  – 'dubbele' isolatie
+
+4 het onderscheid uitleggen tussen geleiders en isolatoren in praktische toepassingen
+
+5 schema’s van schakelingen gebruiken, interpreteren en aanpassen, en de werking van de
+  componenten verklaren, van ten minste:
+  – inbrekersalarm
+  – automatische deurbediening
+  – elektronische temperatuursensor
+  – schemerschakeling
+  – dimmer
+  – discolichten
+
+6 in serieschakelingen en in parallelschakelingen een relatie leggen tussen spanning en stroom en
+  hiermee berekeningen uitvoeren
+
+7 de gebruikstijd van een batterij/accu bepalen aan de hand van de capaciteit
+
+8 het vermogen van apparaten, het totale vermogen en het energieverbruik berekenen in
+  serieschakelingen en parallelschakelingen
+
+9 het totale energiegebruik van elektrische apparaten meten met een kWh-meter en energiekosten
+  berekenen:
+  – kWh
+  – joule
+
+Kaderberoepsgerichte leerweg                                                              Pagina 19 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+10 een beargumenteerde keuze maken uit gelijksoortige elektrische apparaten ten aanzien van
+   energiegebruik, rendement, capaciteit, levensduur en veiligheid, ten minste:
+   – spaarlampen
+   – leds
+   – accu’s
+   – huishoudelijke apparaten
+   – moderne apparaten (bv LCD-schermen, smartphone)
+
+11 basisbegrippen van magnetisme kennen en toepassen bij de dynamo, transformator, luidspreker,
+   relais en reedcontact:
+   – permanente magneet
+   – noord en zuidpool
+   – aantrekking en afstoting tussen polen
+   – veldlijnen
+   – spoel
+   – weekijzeren kern
+   – elektromagneet
+
+12 de onderdelen van een dynamo benoemen en beschrijven hoe hiermee elektrische energie kan worden
+   opgewekt
+
+13 de onderdelen van een transformator benoemen, hiermee de werking van de transformator uitleggen
+   en toepassingen geven:
+   – primaire en secundaire kring
+   – transformatie van spanning
+   – overdracht van vermogen / ideale transformator
+   – toepassingen ten minste:
+         – adapter
+         – halogeenverlichting
+         – elektriciteitstransport
+
+formules:
+
+R=U/I
+P=U·I
+Eel = Pel · t
+Serie: Rv = R1 + R2 +
+Parallel: 1 / Rv = 1 / R1 + 1 / R2 +
+Totale weerstand: Rt = Rv (= vervangingsweerstand)
+n P / n S = UP / US
+C=I.t
+
+
+
+
+Kaderberoepsgerichte leerweg                                                          Pagina 20 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/6 Verbranden en verwarmen
+De kandidaat kan
+
+1 De volgende warmtebronnen en meetinstrumenten herkennen:
+
+
+ warmtebronnen                                  meetinstrumenten
+
+     – kachel, c.v.                                 – thermometer
+     – fornuis                                      – temperatuursensor
+     – vloerverwarming
+     – gasbrander
+     – elektrische kookplaat
+     – elektrische dompelaar
+
+
+2 uitleggen hoe transport van warmte plaatsvindt:
+  – geleiding
+  – stroming
+  – straling
+
+3 temperatuur, tijd en warmte op de volgende manier gebruiken:
+  – het verband tussen temperatuur en tijd en warmte toepassen
+  – absolute nulpunt
+  – omrekenen van waarden tussen temperatuurschalen Kelvin en Celsius
+
+4 de werking van warmte-isolerende maatregelen uitleggen, bij ten minste:
+  – isoleerkan
+  – spouwmuurisolatie
+  – bouwmaterialen
+  – radiatorfolie
+  – handgrepen van pannen
+  – dubbele beglazing
+
+5 de milieu- en gezondheidseffecten noemen die kunnen optreden als gevolg van energiegebruik,
+  tenminste:
+  – luchtverontreiniging
+  – zure regen
+  – broeikaseffect
+  – thermische verontreiniging
+  – irritatie en beschadiging van slijmvliezen, ogen en luchtwegen
+
+6 toelichten dat de ene vorm van energie omgezet kan worden in een andere vorm van energie en
+  hierover berekeningen uitvoeren:
+  – bewegings-, zwaarte-, warmte-, elektrische, chemische, stralings-, kern-,
+  – veer-, of elastische energie
+  – verbrandingswarmte
+  – wet van behoud van energie
+  – rendement
+
+formules:
+T(K) = T(˚C) + 273
+Ebew = ½ m · v2
+Ez = m · g · h
+Eel = Pel · t
+η = Eaf / Eop = Paf / Pop
+
+
+
+
+Kaderberoepsgerichte leerweg                                                         Pagina 21 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/8 Geluid
+De kandidaat kan
+
+1 de begrippen toepassen die een geluid kenmerken:
+  – toonhoogte
+  – frequentie
+  – amplitude
+  – geluidssterkte
+
+2 uitleggen dat geluid ontstaat bij een geluidsbron, zich uitbreidt door een tussenstof en waargenomen
+  kan worden door een ontvanger, hiervan toepassingen herkennen en berekeningen met de
+  geluidssnelheid in verschillende tussenstoffen uitvoeren:
+
+
+ geluidsbronnen                   geluidsontvanger             toepassingen
+                                                               ten minste:
+
+     – stemvork                        – oor                      – echo
+     – muziekinstrumenten              – microfoon                – echolood
+     – luidspreker                     – geluidsensor             – echoscopie
+     – oortelefoon
+     – machines
+     – verkeer
+
+
+3 de verandering van de toonhoogte/frequentie van een snaarinstrument in verband brengen met de
+  lengte en de spankracht in de snaar (kwalitatief)
+
+4 aan de hand van een oscilloscoopbeeld of een beeld gemaakt met de computer de trillingstijd van een
+  toon bepalen en de frequentie berekenen
+
+5 metingen van geluidssterkte interpreteren en bronnen van geluidshinder aangeven:
+  – geluidssterktemeter
+  – computermetingen
+  – dB(A)-schaal
+  – gehoorgrenzen (tussen 20 Hz en 20 kHz)
+
+6 de mogelijke gezondheidsschade in verband brengen met de geluidssterkte en tijdsduur en suggesties
+  doen voor maatregelen tegen geluidshinder, ten minste:
+  – geluidswal
+  – geluidsscherm
+  – gehoorbeschermers
+  – dubbele beglazing
+
+7 de onderdelen van een luidspreker benoemen en hiermee de werking van de luidspreker uitleggen
+
+formules:
+
+s = vgeluid · t
+
+f=1/T
+
+
+
+
+Kaderberoepsgerichte leerweg                                                            Pagina 22 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/9 Kracht en veiligheid
+De kandidaat kan
+
+1 verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven:
+  – spierkracht
+  – veerkracht
+  – spankracht
+  – zwaartekracht
+  – wrijvingskracht
+  – magnetische kracht
+  – elektrische kracht
+  – grootte, richting en aangrijpingspunt
+  – vectorvoorstelling
+  – kracht meten met veerunster of krachtsensor
+
+2 bij hefbomen in evenwicht uitleggen op welke manier met een kleine kracht een grote kracht wordt
+  uitgeoefend en omgekeerd en hiervan voorbeelden kennen, ten minste:
+  – tang
+  – klauwhamer
+  – breekijzer
+  – steekwagen
+  – steek/ringsleutel
+  – momentsleutel
+
+3 uitleggen hoe bij een katrol de richting van de kracht omgekeerd kan worden en de grootte van de
+  kracht verminderd kan worden:
+  – vaste katrol
+  – losse katrol
+  – takels
+
+4 de gemiddelde snelheid berekenen van een bewegend voorwerp
+
+5 (s, t)- en (v, t)-diagrammen van bewegingen maken en in samenhang interpreteren:
+  – bewegingen met constante snelheid
+  – eenparig versnelde bewegingen
+  – eenparig vertraagde bewegingen
+  – andere bewegingen
+
+6 de krachten herkennen en samenstellen die een rol spelen bij een beweging langs een rechte weg:
+  – aandrijfkracht en remkracht
+  – tegenwerkende krachten:
+        – luchtwrijving
+        – rolwrijving
+  – nettokracht
+
+7 verschijnselen van traagheid verklaren, die zich bij snelheidsverandering voordoen
+
+8 de werking van constructies uitleggen die de nadelige effecten van een botsing verminderen, ten
+  minste:
+  – veiligheidsgordel
+  – veiligheidshelm
+  – kreukelzone
+  – hoofdsteun
+  – kooiconstructie
+  – airbag
+
+9 omstandigheden herkennen die invloed hebben op de veiligheid tijdens het rijden, ten minste:
+  – reactietijd
+  – rijsnelheid
+
+Kaderberoepsgerichte leerweg                                                           Pagina 23 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   –   staat van de banden en van het wegdek
+   –   weersomstandigheden
+
+10 de druk van een voorwerp berekenen, bij ten minste:
+   – veiligheidsgordel
+   – veiligheidshelm
+   – rijplaten
+   – rupsband
+   – tractorbanden
+   – mes
+   – punaise
+
+formules:
+
+vgem = s / t
+
+stopafstand = reactieafstand + remweg
+
+p=F/A
+
+Fz = m · g
+
+
+
+
+Kaderberoepsgerichte leerweg                                   Pagina 24 van 39
+      NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+3     SYLLABUS NATUUR- EN SCHEIKUNDE I GT
+
+3.1   VERDELING EXAMINERING CE/SE
+      Tabel:
+      Verdeling van de examenstof natuur en scheikunde I GT over centraal examen en schoolexamen
+
+
+       Exameneenheden                                                GT   CE   moet    mag op
+                                                                               op SE    SE
+
+       NASK1/K/1         Oriëntatie op leren en werken               X          GT
+
+       NASK1/K/2         Basisvaardigheden                           X          GT
+
+       NASK1/K/3         Leervaardigheden in het vak natuurkunde     X    GT    GT
+
+       NASK1/K/4         Stoffen en materialen                       X    GT            GT
+
+       NASK1/K/5         Elektrische energie                         X    GT            GT
+
+       NASK1/K/6         Verbranden en verwarmen                     X    GT            GT
+
+       NASK1/K/7         Licht en beeld                              X          GT
+
+       NASK1/K/8         Geluid                                      X    GT            GT
+
+       NASK1/K/9         Kracht en veiligheid                        X    GT            GT
+
+       NASK1/K/10        Bouw van de materie                         X          GT
+
+       NASK1/K/11        Straling en stralingsbescherming            X          GT
+
+       NASK1/K/12        Het weer                                    X          GT
+
+       NASK1/V/1         Veiligheid in het verkeer                   X    GT            GT
+
+       NASK1/V/2         Constructies                                X    GT            GT
+
+       NASK1/V/3         Verwerven, verwerken en verstrekken van     X          GT
+                         informatie
+
+       NASK1/V/4         Vaardigheden in samenhang                   X    GT            GT
+
+
+
+
+      Gemengde leerweg en theoretische leerweg                                                  Pagina 25 van 39
+      NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+3.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+      NASK1/K/3 Leervaardigheden in het vak natuurkunde
+      De kandidaat kan
+
+      1 informatie uit bronnenmateriaal selecteren, verwerken en bewerken:
+        – tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding
+        – tekeningen, schema's, diagrammen en tabellen
+        – gegevensbestanden, cd-rom en internet
+
+      2 rekenvaardigheden binnen natuurkunde toepassen:
+        – vooraf uitkomsten schatten bij het meten en rekenen en achteraf uitkomsten beoordelen
+        – zakrekenmachine gebruiken voor optellen, aftrekken, vermenigvuldigen, delen en de functietoetsen
+           gebruiken voor omgekeerde, kwadraat en wortel
+        – rekenregels gebruiken
+        – werken met positieve en negatieve machten van tien, inclusief het werken met voorvoegsels
+        – verhoudingstabellen gebruiken
+        – percentages berekenen
+        – evenredige, lineaire en omgekeerd evenredige verbanden gebruiken
+
+      3 natuurkundige grootheden met symbool en de bijbehorende eenheden met afkorting gebruiken:
+        – lengte (weg, afstand, arm)
+        – snelheid
+        – versnelling
+        – oppervlakte
+        – volume
+        – massa
+        – dichtheid
+        – tijd (trillingstijd)
+        – toonhoogte (frequentie)
+        – stroomsterkte
+        – spanning
+        – weerstand
+        – vermogen
+        – kracht
+        – druk
+        – rendement
+        – temperatuur
+        – geluidssterkte(geluidsniveau)3
+        – energie
+        – bewegingsenergie
+        – zwaarte-energie
+        – elektrische energie
+        – veer energie of elastische energie
+        – arbeid
+        – moment
+        – capaciteit
+
+      4 natuurkundige apparatuur herkennen en gebruiken:
+        – krachtmeter/veerunster
+        – stemvork
+        – luidspreker
+        – microfoon
+        – oscilloscoop
+        – geluidssterktemeter
+        – brander
+        – dompelaar
+
+      3
+       In lesmethoden wordt vaak geluidssterkte gebruikt, in Binas meestal geluidsniveau. In de examens wordt alleen
+      geluidssterkte gebruikt.
+      Gemengde leerweg en theoretische leerweg                                                          Pagina 26 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   –   thermometer
+   –   meetlint
+   –   maatglas
+   –   stopwatch
+   –   weegschaal
+   –   voedingsapparaat
+   –   schuifweerstand
+   –   stroommeter
+   –   spanningsmeter
+   –   vermogensmeter
+   –   kWhmeter
+   –   multimeter
+   –   transformator
+
+5 de computer gebruiken:
+  – gebruik maken van meetprogramma’s op de computer, metingen
+  – uitvoeren en resultaten verwerken en interpreteren
+  – gebruik maken van applets en simulatieprogramma’s, deze programma’s bedienen en de resultaten
+     verwerken en interpreteren
+
+6 berekeningen uitvoeren en redeneringen opzetten gebruikmakend van formules:
+  – de eenheid bij een berekende grootheid aangeven
+  – afgeleide eenheden herleiden tot eenheden van het SI-eenhedenstelsel
+
+(De formules staan opgesomd bij de verschillende onderwerpen.
+ Andere formules kunnen in een examen geïntroduceerd worden.)
+
+7 veilige en onveilige situaties herkennen bij ontwerpen en onderzoek doen en bij onveilige situaties
+  suggesties doen voor verbetering
+
+8 de deelstappen van een ontwerpproces uitvoeren:
+  – een werkplan maken voor het uitvoeren van een ontwerp
+  – een ontwerp of een deel ervan bouwen
+  – ontwerpproces en product evalueren, rekening houdende met ontwerpeisen en randvoorwaarden
+  – voorstellen doen voor verbetering
+
+9 de deelstappen van een onderzoek uitvoeren:
+  – onderzoek voorbereiden:
+        – een onderzoeksvraag kiezen
+        – benodigdheden selecteren
+        – alternatieven bedenken voor de uitvoering
+  – onderzoek uitvoeren:
+        – een plan opstellen
+        – werken volgens plan
+        – waarnemingen verrichten
+        – gegevens verzamelen
+        – gegevens grafisch presenteren
+        – conclusies trekken
+  – onderzoek afsluiten:
+        – voorstellen voor verbetering doen
+        – aanbevelingen voor verder onderzoek doen
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                                  Pagina 27 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/4 Stoffen en materialen
+De kandidaat kan:
+
+1 een verband leggen tussen soorten materialen, hun eigenschappen en praktische toepassingen in het
+  dagelijks leven en bij beroepssituaties:
+
+
+ soorten              eigenschappen                            praktische toepassingen
+ materialen                                                    bij het ontwerpen, bouwen en
+                                                               repareren ten minste van:
+
+     – hout               – geleiding van warmte                  – woningen
+     – kunststof          – geleiding van elektriciteit           – apparaten
+     – textiel            – geleiding van geluid                  – meubels
+     – metaal             – dichtheid                             – kleding
+     – steen              – uitzetting en inkrimping              – voertuigen
+     – beton              – verspaanbaarheid
+     – glas               – mogelijkheid tot verbinden en
+                            samenstellen
+                          – corrosiebestendigheid
+                          – vervormen
+
+
+2 uitleggen wanneer een voorwerp zinkt, zweeft of drijft;
+  uitleggen, waarom een voorwerp zinkt, zweeft of drijft:
+  – dichtheid
+
+3 stoffen herkennen en onderscheiden aan de hand van ten minste de volgende (stof)eigenschappen:
+  – fase (vast, vloeibaar of gasvormig) bij normale druk en temperatuur
+  – kleur
+  – geur
+  – oplosbaarheid in water
+  – kookpunt
+  – smeltpunt
+  – geleiding van elektriciteit
+  – dichtheid
+
+4 uitleggen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren
+  worden aangegeven en hoe deze gevaren zijn tegen te gaan:
+  – gebruik van veiligheidskaarten
+  – voorzorgsmaatregelen nemen:
+         – beschermingsbril
+         – labjas
+         – plastic handschoenen
+  – gifwijzer
+  – pictogrammen:
+         – schadelijk of irriterend
+         – explosief
+         – bijtend
+         – ontvlambaar
+         – giftig
+         – niet mengen
+         – brandbevorderend
+
+5 uitleggen hoe bij de keuze van stoffen en materialen rekening kan worden gehouden met effecten
+  voor het milieu:
+  – grondstoffen
+  – productie
+Gemengde leerweg en theoretische leerweg                                                 Pagina 28 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   –    transport
+   –    recycling
+   –    afvalverwerking
+
+6 uitleggen wat de gevolgen zijn voor het milieu van het gebruik van grondstoffen en de productie van
+  afvalstoffen:
+  – bodem, lucht en waterverontreiniging
+  – lozing en verwerking
+  – uitputting van natuurlijke bronnen
+  – duurzaamheid
+
+7 manieren noemen om verantwoord met afval om te gaan:
+  – scheiden en hergebruik:
+       – glas
+       – batterijen
+       – kleding
+       – papier
+       – gft
+       – kca
+  – composteren
+  – storten
+  – verbranden
+
+8 ten minste de volgende processen uit het dagelijkse leven herkennen als een natuurkundig proces of
+  een chemische reactie
+
+ natuurkundig proces                       chemische reactie
+
+       – faseovergangen                         – voedselbereiding
+
+                                                – roesten
+
+                                                – verbranding
+
+                                                – uitharden van beton
+
+                                                – lijmen
+
+                                                – carbid
+
+
+formules:
+
+ρ=m/V
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                                Pagina 29 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K5 Elektrische energie
+De kandidaat kan
+
+1 in elektrische schakelingen de onderdelen naar aard en functie onderscheiden en de symbolen ervan
+  herkennen:
+
+
+ schakelingen                   componenten                        meetinstrumenten
+ ten minste de volgende:
+
+     – huisinstallatie               – weerstand                      – spanningsmeter
+     – elektrisch circuit van        – NTC, LDR, LED en diode         – stroommeter
+       voertuigen                    – schakelaar                     – multimeter
+     – spanningsbron en
+                                     – drukschakelaar                 – kWh-meter
+       ‘aarde’
+                                     – reedcontact                    – vermogensmeter
+     – verbindingsdraden
+                                     – relais
+                                     – transistor als schakelaar
+                                       met basis, emitter en
+                                       collector
+                                     – condensator
+                                     – actuator, zoals motor of
+                                       lamp
+                                     – transformator
+
+
+2 het principe van een gesloten stroomkring toepassen in serie en parallelschakelingen
+
+3 uitleggen hoe een stroomkring beveiligd kan worden en op welke principes de beveiliging berust:
+  – hoofdzekering
+  – groepzekering
+  – aardlekschakelaar
+  – randaarde
+  – 'dubbele' isolatie
+
+4 het onderscheid uitleggen tussen geleiders en isolatoren in praktische toepassingen
+
+5 schema’s van schakelingen gebruiken, interpreteren en aanpassen, en de werking van de
+  componenten verklaren van tenminste:
+  – inbrekersalarm
+  – automatische deurbediening
+  – elektronische temperatuursensor
+  – schemerschakeling
+  – dimmer
+  – discolichten
+
+6 in serieschakelingen en in parallelschakelingen een relatie leggen tussen spanning en stroom en
+  hiermee berekeningen uitvoeren
+
+7 de gebruikstijd van een batterij/accu bepalen aan de hand van de capaciteit
+
+8 het vermogen van apparaten, het totale vermogen en het energieverbruik berekenen in
+  serieschakelingen en parallelschakelingen
+
+9 het totale energiegebruik van elektrische apparaten meten met een kWhmeter en energiekosten
+  berekenen:
+  – kWh
+  – joule
+
+Gemengde leerweg en theoretische leerweg                                                 Pagina 30 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+10 een beargumenteerde keuze maken uit gelijksoortige elektrische apparaten ten aanzien van
+   energiegebruik, rendement, capaciteit, levensduur en veiligheid, ten minste:
+   – spaarlampen
+   – leds
+   – accu’s
+   – huishoudelijke apparaten
+   – moderne apparaten (bv LCD-schermen, smartphone)
+
+11 basisbegrippen van magnetisme kennen en toepassen bij de dynamo, transformator, luidspreker,
+   relais en reedcontact:
+   – permanente magneet
+   – noord en zuidpool
+   – aantrekking en afstoting tussen polen
+   – veldlijnen
+   – spoel
+   – weekijzeren kern
+   – elektromagneet
+
+12 de onderdelen van een dynamo benoemen en beschrijven hoe hiermee elektrische energie kan worden
+   opgewekt
+
+13 de onderdelen van een transformator benoemen, hiermee de werking van de transformator uitleggen
+   en toepassingen geven:
+   – primaire en secundaire kring
+   – transformatie van spanning
+   – overdracht van vermogen / ideale transformator
+   – toepassingen ten minste:
+         – adapter
+         – halogeenverlichting
+         – elektriciteitstransport
+
+formules:
+R=U/I
+
+P=U·I
+
+Eel = Pel · t
+
+Serie:Rv = R1 + R2 +
+
+Parallel:1 / Rv = 1 / R1 + 1 / R2 +
+
+Totale weerstand: Rt = Rv (= vervangingsweerstand)
+
+n P / n S = UP / US
+
+C=I.t
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                              Pagina 31 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/6 Verbranden en verwarmen
+De kandidaat kan
+
+1 de volgende warmtebronnen en meetinstrumenten herkennen:
+
+
+ warmtebronnen                                  meetinstrumenten
+
+     – kachel, c.v.                                 – thermometer
+     – fornuis                                      – temperatuursensor
+     – vloerverwarming
+     – gasbrander
+     – elektrische kookplaat
+     – elektrische dompelaar
+
+
+2 uitleggen hoe transport van warmte plaatsvindt:
+  – geleiding
+  – stroming
+  – straling
+
+3 temperatuur, tijd en warmte op de volgende manieren gebruiken:
+  – het verband tussen temperatuur en tijd en warmte toepassen
+  – absolute nulpunt
+  – omrekenen van waarden tussen temperatuurschalen Kelvin en Celsius
+
+4 de werking van warmte-isolerende maatregelen uitleggen, bij ten minste:
+  – isoleerkan
+  – spouwmuurisolatie
+  – bouwmaterialen
+  – radiatorfolie
+  – handgrepen van pannen
+  – dubbele beglazing
+
+5 de milieu en gezondheidseffecten noemen die kunnen optreden als gevolg van energiegebruik,
+  tenminste:
+  – luchtverontreiniging
+  – zure regen
+  – broeikaseffect
+  – thermische verontreiniging
+  – irritatie en beschadiging van slijmvliezen, ogen en luchtwegen
+
+6 toelichten dat de ene vorm van energie omgezet kan worden in een andere vorm van energie en
+  hierover berekeningen uitvoeren:
+  – bewegings-, zwaarte-, warmte-, elektrische-, chemische-, stralings-, kern-, veer-, of elastische
+     energie
+  – verbrandingswarmte
+  – wet van behoud van energie
+  – rendement
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                                 Pagina 32 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+formules:
+T(K) = T(˚C) + 273
+
+Ebew = ½ m · v2
+
+Ez = m · g · h
+
+Eel = Pel · t
+
+η = Eaf / Eop = Paf / Pop
+
+
+
+
+Gemengde leerweg en theoretische leerweg                       Pagina 33 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/8 Geluid
+De kandidaat kan
+
+1 de begrippen toepassen die een geluid kenmerken:
+  – toonhoogte
+  – frequentie
+  – amplitude
+  – geluidssterkte
+
+2 uitleggen dat geluid ontstaat bij een geluidsbron, zich uitbreidt door een tussenstof en waargenomen
+  kan worden door een ontvanger, hiervan toepassingen herkennen en berekeningen met de
+  geluidssnelheid in verschillende tussenstoffen uitvoeren:
+
+
+ geluidsbronnen                   geluidsontvanger             toepassingen
+                                                               ten minste:
+
+     – stemvork                        – oor                      – echo
+     – muziekinstrumenten              – microfoon                – echolood
+     – luidspreker                     – geluidsensor             – echoscopie
+     – oortelefoon
+     – machines
+     – verkeer
+
+
+3 de verandering van de toonhoogte/frequentie van een snaarinstrument in verband brengen met de
+  lengte en de spankracht in de snaar (kwalitatief)
+
+4 aan de hand van een oscilloscoopbeeld of een beeld gemaakt met de computer de trillingstijd van een
+  toon bepalen en de frequentie berekenen
+
+5 metingen van geluidssterkte interpreteren en bronnen van geluidshinder aangeven:
+  – geluidssterktemeter
+  – computermetingen
+  – dB(A)schaal
+  – gehoorgrenzen (tussen 20 Hz en 20 kHz)
+
+6 de mogelijke gezondheidsschade in verband brengen met de geluidssterkte en tijdsduur en suggesties
+  doen voor maatregelen tegen geluidshinder, ten minste:
+  – geluidswal
+  – geluidsscherm
+  – gehoorbeschermers
+  – dubbele beglazing
+
+7 de onderdelen van een luidspreker benoemen en hiermee de werking van de luidspreker uitleggen
+
+formules:
+s = vgeluid · t
+
+f=1/T
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                                Pagina 34 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/K/9 Kracht en veiligheid
+De kandidaat kan
+
+1 verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven:
+  – spierkracht
+  – veerkracht
+  – spankracht
+  – zwaartekracht
+  – wrijvingskracht
+  – magnetische kracht
+  – elektrische kracht
+  – grootte, richting en aangrijpingspunt
+  – vectorvoorstelling
+  – kracht meten met veerunster of krachtsensor
+
+2 bij hefbomen in evenwicht uitleggen op welke manier met een kleine kracht een grote kracht wordt
+  uitgeoefend en omgekeerd en hiervan voorbeelden kennen, ten minste:
+  – tang
+  – klauwhamer
+  – breekijzer
+  – steekwagen
+  – steek/ringsleutel
+  – momentsleutel
+
+3 uitleggen hoe bij een katrol de richting van de kracht omgekeerd kan worden en de grootte van de
+  kracht verminderd kan worden:
+  – vaste katrol
+  – losse katrol
+  – takels
+
+4 de gemiddelde snelheid berekenen van een bewegend voorwerp
+
+5 (s, t) en (v, t)diagrammen van bewegingen maken en in samenhang interpreteren:
+  – bewegingen met constante snelheid
+  – eenparig versnelde bewegingen
+  – eenparig vertraagde bewegingen
+  – andere bewegingen
+
+6 de krachten herkennen en samenstellen die een rol spelen bij een beweging langs een rechte weg:
+  – aandrijfkracht en remkracht
+  – tegenwerkende krachten:
+        – luchtwrijving
+        – rolwrijving
+  – nettokracht
+
+7 verschijnselen van traagheid verklaren, die zich bij snelheidsverandering voordoen
+
+8 de werking van constructies uitleggen die de nadelige effecten van een botsing verminderen, ten
+  minste:
+  – veiligheidsgordel
+  – veiligheidshelm
+  – kreukelzone
+  – hoofdsteun
+  – kooiconstructie
+  – airbag
+
+9 omstandigheden herkennen die invloed hebben op de veiligheid tijdens het rijden, ten minste:
+  – reactietijd
+  – rijsnelheid
+
+Gemengde leerweg en theoretische leerweg                                               Pagina 35 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+   –   staat van de banden en van het wegdek
+   –   weersomstandigheden
+
+10 de druk van een voorwerp berekenen, bij ten minste:
+   – veiligheidsgordel
+   – veiligheidshelm
+   – rijplaten
+   – rupsband
+   – tractorbanden
+   – mes
+   – punaise
+
+formules:
+vgem = s / t
+
+stopafstand = reactieafstand + remweg
+
+p=F/A
+
+Fz = m · g
+
+
+
+
+Gemengde leerweg en theoretische leerweg                       Pagina 36 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/V/1 Veiligheid in het verkeer
+De kandidaat kan
+
+1 berekeningen maken en redeneringen uitvoeren waarbij natuurkundige begrippen en formules worden
+  toegepast in situaties van verkeer en veiligheid:
+
+
+ begrippen                                         contexten
+                                                   ten minste:
+
+     – snelheid                                        – veiligheidsgordel
+     – vertraging/versnelling                          – airbag
+     – kracht                                          – valhelm
+     – arbeid                                          – kreukelzone
+     – bewegingsenergie                                – kooiconstructie
+     – zwaarte-energie                                 – hoofdsteun
+     – vermogen
+
+
+2 uit bronnen over bewegingen of botsingen, gegevens verzamelen en verwerken:
+
+
+ bronnen                                           verwerkingsactiviteit
+
+     – foto                                            – meten
+     – videoregistratie                                – videometen
+     – computersimulatie                               – ontwerpen
+     – gegevensbestand                                 – berekenen
+     – internetpagina                                  – beredeneren
+     – applet                                          – selecteren
+     – tekening                                        – tekenen
+     – resultaten van proeven                          – uitlezen
+
+
+formules:
+s=v·t
+
+a = Δv / Δt
+
+F=m·a
+
+W =F.s
+
+Ebew = ½ m · v2
+
+Ez = m · g · h
+
+P=E/t
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                           Pagina 37 van 39
+NATUUR- EN SCHEIKUNDE I VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK1/V/2 Constructies
+De kandidaat kan
+
+1 in constructies optredende krachten onderscheiden, hierbij aangeven welke krachten op welk
+  voorwerp worden uitgeoefend en de nettokracht op een voorwerp aangeven of berekenen
+
+2 een kracht weergeven als een vector en hiermee krachten samenstellen en ontbinden in constructies
+
+3 de ligging van het massamiddelpunt bij een homogene balk en staaf bepalen en weten dat in dat punt
+  de resultante van de zwaartekracht aangrijpt
+
+4 berekeningen maken en redeneringen uitvoeren waarbij natuurkundige begrippen en formules worden
+  toegepast in constructies:
+
+
+ begrippen                                       contexten
+                                                 ten minste:
+
+     – veerkracht en zwaartekracht                    – woningbouw
+     – spankracht                                     – voertuigen
+     – trekkracht, duwkracht                          – bruggen
+     – zwaartepunt/massamiddelpunt                    – grote en kleine ophangsystemen
+     – moment van een kracht
+     – momentenwet bij
+     – evenwicht
+
+
+5 uit bronnen over constructies, gegevens verzamelen en verwerken:
+
+
+ bronnen                                         verwerkingsactiviteit
+
+     – foto                                           – meten
+     – videoregistratie                               – videometen
+     – computersimulatie                              – ontwerpen
+     – gegevensbestand                                – berekenen
+     – internetpagina                                 – beredeneren
+     – applet                                         – selecteren
+     – tekening                                       – tekenen
+     – resultaten van proeven                         – uitlezen
+
+
+formules:
+Fz = m · g
+M=F·l
+M linksom = M rechtsom
+
+
+
+
+NASK1/V/4 Vaardigheden in samenhang
+De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.
+
+
+
+
+Gemengde leerweg en theoretische leerweg                                                 Pagina 38 van 39
+

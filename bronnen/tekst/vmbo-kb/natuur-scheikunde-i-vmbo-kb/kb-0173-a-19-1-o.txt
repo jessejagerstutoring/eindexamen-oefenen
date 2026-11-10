@@ -1,0 +1,506 @@
+                                                      Examen VMBO-KB
+
+                                                                 2019
+                                                                        tijdvak 1
+                                                                 dinsdag 14 mei
+                                                               13.30 - 15.30 uur
+
+
+                                           natuur- en scheikunde 1 CSE KB
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS informatieboek.
+
+
+
+
+Dit examen bestaat uit 42 vragen.
+Voor dit examen zijn maximaal 66 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+KB-0173-a-19-1-o
+             Meerkeuzevragen
+             Schrijf alleen de hoofdletter van het goede antwoord op.
+
+             Open vragen
+              Geef niet méér antwoorden dan er worden gevraagd. Als er
+               bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+               méér. Alleen de eerste twee redenen kunnen punten opleveren.
+              Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+               een gedeelte van de berekening goed is, kan dat punten opleveren.
+               Een goede uitkomst zonder berekening levert geen punten op.
+              Vermeld bij een berekening altijd welke grootheid berekend wordt.
+              Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Visvinder
+
+             Vissen zijn te vinden met een Fishfinder. Het uiteinde van de Fishfinder
+             hangt in het water.
+                                                         de Fishfinder
+
+
+
+
+             De Fishfinder zendt geluid uit. Dit geluid wordt teruggekaatst door de
+             vissen en weer opgevangen door de Fishfinder.
+
+1p    1      Hoe noem je teruggekaatst geluid?
+
+1p    2      Op de uitwerkbijlage staan twee zinnen over de werking van de
+             Fishfinder.
+              Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+KB-0173-a-19-1-o                             2 / 14                            lees verder ►►►
+             Het uitgezonden signaal van de Fishfinder wordt op het beeldscherm van
+             een ander apparaat zichtbaar gemaakt. Je ziet een afbeelding van het
+             beeldscherm.
+
+
+
+
+                             10 µs
+
+
+1p    3      Dit geluidssignaal kan zichtbaar worden gemaakt met een
+             A   decibelmeter
+             B   oscilloscoop
+             C   toongenerator
+
+1p    4      Het ontvangen signaal van de Fishfinder is ook op een beeldscherm
+             weergegeven.
+             Welke afbeelding geeft het ontvangen geluid weer?
+
+
+
+
+                             10 µs                     10 µs                     10 µs
+
+                        A                         B                        C
+
+
+3p    5      Met het signaal op het beeldscherm is bepaald dat de trillingstijd van het
+             ontvangen geluid 2,0 · 10–5 s is.
+              Bereken de frequentie en noteer of dit geluid hoorbaar is voor de
+                mens. Gebruik de gehoorgrenzen van de mens bij je conclusie.
+
+
+
+
+KB-0173-a-19-1-o                             3 / 14                            lees verder ►►►
+      Transformeren
+
+             Menne onderzoekt het rendement van een transformator.
+             Hij sluit de primaire spoel via een kWh-meter aan op netspanning.
+             Op de secundaire spoel sluit hij een gloeilamp aan.
+
+                   kWh-meter   transformator
+
+
+
+
+2p    6      In de transformator wordt energie omgezet.
+             Op de uitwerkbijlage staat een schema van de energie-omzettingen.
+              Noteer in het schema de juiste energiesoorten.
+
+
+
+
+4p    7      Op de kWh-meter is de meterstand af te lezen. Als er energie wordt
+             gebruikt, dan draait er ook een schijf rond.
+             Op de kWh-meter staat 375 U/kWh. Dit betekent:
+
+
+             als de schijf 375 keer is rondgedraaid, is er 1,0 kWh energie omgezet.
+
+
+             Menne meet dat de schijf een tijd van 2,5 minuut nodig heeft om één keer
+             rond te draaien.
+              Toon met een berekening aan dat het opgenomen vermogen van de
+                transformator 64 W is. Bereken daarvoor eerst de energie in kWh die
+                er in één rondje is omgezet.
+
+
+
+KB-0173-a-19-1-o                             4 / 14                           lees verder ►►►
+2p    8      Menne heeft bij de gloeilamp aan de secundaire kant een ampèremeter
+             en een voltmeter aangesloten.
+             Op de uitwerkbijlage staat een deel van het schakelschema.
+              Maak het schema compleet met de lamp en beide meters op de juiste
+                plaats.
+
+             De primaire spoel (n = 500) is aangesloten op netspanning (230 V). De
+             spanning aan de secundaire kant is 21 V.
+
+2p    9      Bereken het aantal windingen van de secundaire spoel. Neem aan dat de
+             transformator ideaal is.
+
+3p    10     Je ziet een afbeelding van de ampèremeter bij een meting.
+
+
+
+
+              Toon met een berekening aan dat de secundaire spoel van de
+               transformator een vermogen van 27,3 W levert. Noteer eerst de
+               aanwijzing van de stroommeter.
+
+2p    11     Het opgenomen vermogen van de primaire spoel is 64 W.
+              Bereken het rendement van deze transformator.
+
+
+
+
+KB-0173-a-19-1-o                            5 / 14                          lees verder ►►►
+      Warm mes
+
+             Voor het smeren van koude boter is er een speciaal mes met een
+             verwarmd snijblad.
+
+                                                                 led en weerstand
+
+
+
+
+                                                  verwarmings-
+                                                                    drukknop        batterijen
+                                                    element
+
+
+
+
+             In het handvat van het mes zitten twee batterijen. In het snijblad zit een
+             verwarmingselement.
+
+1p    12     Je ziet vier afbeeldingen van een deel van het schakelschema.
+             In welke afbeelding zijn de batterijen juist aangesloten?
+
+
+             A                       + - + -
+
+
+             B                       - + - +
+
+             C                       + - - +
+
+
+             D                       - + + -
+
+
+1p    13     Wat is de belangrijkste vorm van warmtetransport die voor het verwarmen
+             van het snijblad zorgt?
+             A geleiding
+             B straling
+             C stroming
+
+1p    14     Het snijblad van het mes wordt verwarmd tot een temperatuur van 315 K.
+              Noteer deze temperatuur in graden Celsius.
+
+
+
+
+KB-0173-a-19-1-o                               6 / 14                                     lees verder ►►►
+             Op het handvat zit een led. De led brandt als de stroomkring gesloten is.
+             Om de led op de juiste spanning te laten branden is er een weerstand R1
+             in serie geschakeld.
+             Je ziet een vereenvoudigd schakelschema van het mes.
+
+                       Utotaal = 3,0 V
+                             - +
+
+
+
+
+                     1,8 V
+                                   R1
+
+                               16 mA
+
+
+
+
+                   verwarmingselement
+
+
+1p    15     Op de uitwerkbijlage staan twee zinnen over de led en R1.
+              Omcirkel in elke zin de juiste mogelijkheid.
+
+             Als je de stroomkring sluit, dan is de totale stroomsterkte 0,12 A.
+
+2p    16     Bereken de totale weerstand van de schakeling.
+
+2p    17     De totale capaciteit van de volle batterijen is 1800 mAh.
+              Bereken de tijd die de batterijen bij deze stroomsterkte energie
+                kunnen leveren.
+
+
+
+
+KB-0173-a-19-1-o                              7 / 14                               lees verder ►►►
+      Magneten
+
+             Arend heeft schijfmagneetjes gekocht.
+
+
+
+
+             Op de verpakking staat een tabel met een aantal gegevens.
+
+             tabel
+
+
+             maximale gebruikstemperatuur     353 K
+
+             dichtheid                        7,6 g/cm3
+
+             samenstelling                    ijzer, neodymium, boor
+
+             coating                          nikkel
+
+
+             Arend wil het volume van één magneetje meten. Hij vult een maatcilinder
+             met een volume van 10,0 mL water. Dan laat hij tien magneetjes in de
+             maatcilinder zakken.
+
+1p    18     Waarom is het beter tien magneetjes in de maatcilinder te doen dan één
+             magneetje?
+
+3p    19     Arend bepaalt met een weegschaal dat de massa van één magneetje
+             5,17 g is.
+              Bereken op de uitwerkbijlage het volume van tien magneetjes en geef
+                het eindniveau van de maatcilinder aan.
+
+1p    20     Als Arend een magneetje bij een paperclip houdt, beweegt de paperclip
+             naar het magneetje toe.
+             Wat is juist?
+             A Dit is een chemische reactie.
+             B Dit is een natuurkundig proces.
+             C Dit is zowel een natuurkundig proces als een chemische reactie.
+
+
+
+
+KB-0173-a-19-1-o                            8 / 14                          lees verder ►►►
+1p    21     De coating van nikkel beschermt een magneetje tegen corrosie.
+             Wat is corrosie?
+             A de reactie van een magneetje met zuurstof
+             B het indeuken van een magneetje bij stoten of vallen
+             C het smelten van een magneetje bij hoge temperaturen
+             D het uitzetten van een magneetje bij hoge temperaturen
+
+             Op de verpakking van de magneetjes staat de verdeling van de noord- en
+             de zuidpool in een magneetje.
+
+                   N
+                           Z
+
+
+
+
+1p    22     Arend stapelt vier magneetjes op elkaar.
+             In welke afbeelding is de verdeling van de noord- en zuidpolen over de
+             vier magneetjes juist weergegeven?
+
+
+
+
+                       A               B                  C                  D
+
+             Op de verpakking staat ook een waarschuwing:
+
+             Let op: Houd magneten uit de buurt van alle apparaten en voorwerpen
+             die door sterke magnetische velden kunnen worden beschadigd.
+
+1p    23     Arend maakt zich zorgen over zijn horloge.
+             Welke metalen in het horloge zijn gevoelig voor magnetische velden?
+             A aluminium en nikkel
+             B ijzer en magnesium
+             C ijzer en nikkel
+             D magnesium en aluminium
+
+
+
+
+KB-0173-a-19-1-o                            9 / 14                           lees verder ►►►
+      Rekstokfinale
+
+             Epke Zonderland won goud aan de rekstok bij de Olympische
+             Zomerspelen in Londen. Aan het begin van zijn oefening zet Epke zich af
+             om aan de rekstok te gaan hangen.
+
+2p    24     Op de uitwerkbijlage staan drie zinnen over de afzet.
+              Omcirkel in elke zin de juiste mogelijkheid.
+
+             Je ziet twee schematische afbeeldingen van Epke tijdens zijn oefening.
+
+
+
+
+                   laagste stand    hoogste stand
+
+
+2p    25     De zwaarte-energie van de laagste stand naar de hoogste stand neemt
+             toe met 1530 J.
+              Bereken de afstand in meter die Epke (massa 68 kg) omhoog
+                 beweegt.
+
+1p    26     Om een blessure te voorkomen, buigt Epke bij de landing door zijn
+             knieën. Op de uitwerkbijlage staan twee zinnen over de landing.
+              Omcirkel in elke zin de juiste mogelijkheid.
+
+2p    27     Het door de knieën buigen is te vergelijken met veiligheidsvoorzieningen
+             in een auto.
+             Op de uitwerkbijlage staat een tabel met veiligheidsvoorzieningen in een
+             auto.
+              Zet in de tabel een kruisje achter elke veiligheidsvoorziening in een
+                 auto die te vergelijken is met het door de knieën buigen.
+
+
+
+
+KB-0173-a-19-1-o                              10 / 14                         lees verder ►►►
+      Zeilrecord
+
+             Paul Larsen heeft het snelheidsrecord zeilen behaald.
+
+
+
+
+2p    28     Paul zeilde een afstand van 500 m met een gemiddelde snelheid van
+             33,7 m/s.
+              Bereken de tijd die hij voor die afstand nodig had.
+
+             De topsnelheid tijdens dit record was 35,0 m/s.
+
+1p    29     Noteer deze snelheid in km/h.
+
+2p    30     De totale massa van Paul met zijn zeilboot is 360 kg.
+              Bereken de bewegingsenergie van de boot op topsnelheid.
+
+             Op de boot werken voortstuwende en tegenwerkende krachten.
+
+1p    31     Noteer in de zin op de uitwerkbijlage de oorzaken van de tegenwerkende
+             krachten op de boot.
+
+1p    32     De boot vaart met een constante snelheid.
+             In welke afbeelding zijn de voortstuwende en tegenwerkende krachten
+             juist weergegeven?
+
+             Ftegen          Fstuw     Ftegen                 Fstuw   Ftegen            Fstuw
+                      A                                   B                    C
+
+
+
+
+KB-0173-a-19-1-o                                11 / 14                            lees verder ►►►
+      Wiebelstep
+
+             Ties heeft een speciale step. Deze step wordt aangedreven door de
+             voetenplank op en neer te bewegen.
+
+
+
+
+1p    33     De kracht op de voetenplank wordt op het aandrijfwiel overgebracht via
+             een kabel die over twee katrollen loopt.
+
+
+
+
+             Over katrol 2 staan op de uitwerkbijlage twee zinnen.
+              Maak elke zin compleet.
+
+1p    34     Het op gang komen vanuit stilstand kost veel meer kracht dan het rijden
+             met constante snelheid.
+              Door welk natuurkundig begrip komt dit?
+
+
+
+
+KB-0173-a-19-1-o                            12 / 14                          lees verder ►►►
+             Ties test de handremmen. Hij doet dit door bij verschillende snelheden de
+             remweg te meten. Je ziet een tabel met de meetresultaten.
+
+
+              snelheid (km/h)      remweg (m)
+
+                     4                  0,8
+
+                     8                  3,5
+
+                    10                  5,3
+
+                    14                 10,3
+
+                    16                 13,5
+
+
+3p    35     Zet in het diagram op de uitwerkbijlage alle meetresultaten uit en teken de
+             grafiek.
+
+1p    36     Uit de tabel en de grafiek volgt een verband tussen de snelheid en de
+             remweg. Op de uitwerkbijlage staat een zin over dit verband.
+              Omcirkel in de zin de juiste mogelijkheid.
+
+2p    37     Goede remmen hebben invloed op de remweg.
+              Noteer nog twee factoren die invloed hebben op de remweg.
+
+1p    38     De stopafstand hangt af van de reactietijd.
+              Noteer een factor die invloed heeft op de reactietijd.
+
+
+             Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+KB-0173-a-19-1-o                              13 / 14                          lees verder ►►►
+      Wensballon
+
+             Tijdens feestelijkheden kun je een papieren wensballon laten opstijgen.
+
+
+
+
+2p    39     De papieren wensballon heeft een ijzeren constructie. IJzer en papier zijn
+             recyclebaar.
+              Noteer op de uitwerkbijlage van elk materiaal nog een
+                 materiaaleigenschap die het geschikt maakt voor deze toepassing.
+
+             Onderin de wensballon hangt een ijzeren bakje met brandstof. De
+             brandstof wordt aangestoken.
+
+1p    40     De brandstof van de wensballon heeft dezelfde verbrandingsproducten als
+             aardgas.
+              Noteer het verbrandingsproduct dat verantwoordelijk is voor het
+                versterkte broeikaseffect.
+
+             Als de lucht in de wensballon warm genoeg is, wordt hij losgelaten. De
+             wensballon gaat na enige tijd met constante snelheid omhoog.
+
+1p    41     Wat is juist over de dichtheid van de ballon en van de buitenlucht bij het
+             stijgen?
+             De dichtheid van de ballon is
+             A kleiner dan de dichtheid van de buitenlucht.
+             B even groot als de dichtheid van de buitenlucht.
+             C groter dan de dichtheid van de buitenlucht.
+
+1p    42     Wat is juist over de nettokracht bij het stijgen met constante snelheid?
+             A De nettokracht is nul.
+             B De nettokracht is omhoog gericht.
+             C De nettokracht is omlaag gericht.
+
+
+
+
+KB-0173-a-19-1-o                             14 / 14                            lees verdereinde
+                                                                                             ►►► 
+

@@ -139,7 +139,7 @@
     toon(`
       <div class="titelblok">
         <div>
-          <p class="bovenkop">Centraal examen · havo en vwo</p>
+          <p class="bovenkop">Centraal examen · vmbo, havo en vwo</p>
           <h1>Echte examenvragen, per onderwerp</h1>
           <p class="inleiding">Alle ${totaal.toLocaleString('nl-NL')} vragen uit de centrale examens wiskunde, natuurkunde, scheikunde en biologie sinds 2018, met het officiële correctievoorschrift. Gratis, zonder account en zonder reclame.</p>
         </div>
@@ -458,7 +458,7 @@
     const vakken = [...new Set(vk.map(v => v.naam.replace(/ [ABC]$/, '')))];
     const delen = [
       ['wat', 'Wat is Eindexamen Oefenen?', `
-        <ul class="cijfers"><li><b>${vragen.toLocaleString('nl-NL')}</b>examenvragen</li><li><b>${vk.length}</b>vakken op havo en vwo</li><li><b>${Math.min(...jaren)}–${Math.max(...jaren)}</b>centrale examens</li></ul>
+        <ul class="cijfers"><li><b>${vragen.toLocaleString('nl-NL')}</b>examenvragen</li><li><b>${vk.length}</b>vakken op vmbo, havo en vwo</li><li><b>${Math.min(...jaren)}–${Math.max(...jaren)}</b>centrale examens</li></ul>
         <p>Eindexamen Oefenen zet alle vragen uit de centrale examens van ${vakken.slice(0, -1).join(', ').toLowerCase()} en ${vakken[vakken.length - 1].toLowerCase()} op een rij, geordend per onderwerp, zoals in een examenbundel. Zo oefen je gericht met de onderwerpen waar je nog punten kunt halen.</p>
         <p>Je maakt elke vraag zoals hij op het examen stond, kijkt hem na met het officiële antwoordmodel en geeft jezelf punten. Bij <b>Mijn voortgang</b> zie je per onderwerp hoe het gaat en waar je het beste verder kunt oefenen.</p>`],
       ['werkwijze', 'Hoe is het gemaakt?', `
@@ -516,7 +516,7 @@
         <p class="inleiding">Eindexamen Oefenen is gemaakt voor leerlingen, maar werkt ook goed in de klas. Alles is gratis, er is geen account nodig en er is geen reclame, dus u kunt er leerlingen zonder bezwaar naar verwijzen.</p></header>
       <div class="over"><div class="over-tekst">
         <section><h2>Wat er op staat</h2>
-          <p>Alle ${vragen.toLocaleString('nl-NL')} vragen uit de centrale examens wiskunde A, B en C, natuurkunde, scheikunde en biologie voor havo en vwo sinds 2018. Elke vraag staat bij één onderwerp uit de syllabus (met de syllabuscode), samen met de inleiding en figuren van de opgave en het officiële correctievoorschrift.</p></section>
+          <p>Alle ${vragen.toLocaleString('nl-NL')} vragen uit de centrale examens wiskunde, natuurkunde, scheikunde, nask en biologie voor vmbo, havo en vwo sinds 2018. Elke vraag staat bij één onderwerp uit de syllabus (met de syllabuscode), samen met de inleiding en figuren van de opgave en het officiële correctievoorschrift.</p></section>
         <section><h2>Zo gebruiken docenten het</h2>
           <ul>
             <li><b>Na een hoofdstuk:</b> geef de link naar het onderwerp mee. Leerlingen zien dan meteen hoe de stof op het examen terugkomt, van het nieuwste examen naar het oudste.</li>

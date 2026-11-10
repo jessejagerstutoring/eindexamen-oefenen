@@ -1,0 +1,1855 @@
+BIOLOGIE VMBO
+
+
+
+SYLLABUS CENTRAAL
+EXAMEN 2026
+
+
+
+Versie 2, juli 2024
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+
+
+
+
+                                                                                         Pagina 2 van 29
+       BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+       INHOUD
+
+
+VOORWOORD                                                       4
+
+1       INLEIDING                                               5
+LEESWIJZER                                                      5
+
+2      VERDELING EXAMINERING CE/SE                              6
+
+3      SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE       7
+BI/K/3 LEERVAARDIGHEDEN IN HET VAK BIOLOGIE                     7
+BI/K/4 CELLEN STAAN AAN DE BASIS                                9
+BI/K/6 PLANTEN EN DIEREN EN HUN SAMENHANG: DE EIGEN OMGEVING
+       VERKEND                                                  11
+BI/K/9 HET LICHAAM IN STAND HOUDEN: VOEDING EN GENOTMIDDELEN,
+       ENERGIE, TRANSPORT EN UITSCHEIDING                       15
+BI/K/11 REAGEREN OP PRIKKELS                                    20
+BI/K/12 VAN GENERATIE OP GENERATIE                              24
+BI/K/13 ERFELIJKHEID EN EVOLUTIE                                26
+BI/V/1 BESCHERMING EN ANTISTOFFEN                               27
+BI/V/2 GEDRAG BIJ MENS EN DIER                                  28
+BI/V/4 VAARDIGHEDEN IN SAMENHANG                                28
+
+
+
+
+                                                                     Pagina 3 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+(www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+In de syllabi 2026 zijn de wijzigingen ten opzichte van de vorige syllabus voor het examenjaar 2025
+duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn diverse vakken waarbij de syllabus
+2026 geen inhoudelijke veranderingen heeft ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H. (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 29
+    BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+    Versie 2
+
+
+
+
+1   INLEIDING
+
+    LEESWIJZER
+    Hoofdstuk 2 bevat een overzicht van de verdeling van de examenstof over het centraal examen en het
+    schoolexamen. Hoofstuk 3 beschrijft de examenstof voor de leerwegen BB, KB en GL/TL.
+
+    De examenstof is beschreven in tabellen. Deze tabellen hebben de volgende soorten regels: de naam van
+    de exameneenheid, de beschrijving uit het examenprogramma en de specificering van de examenstof. De
+    kruisjes in de drie rechter kolommen geven aan voor welke leerweg de beschrijving of specificering
+    bedoeld is.
+
+
+     naam exameneenheid                                                                        BB    KB   GT
+
+
+     beschrijving uit het examenprogramma                                                      x     x    x
+
+
+     specificering examenstof                                                                  x
+
+
+     De kruisjes in de drie rechter kolommen geven aan voor welke leerweg de beschrijving of
+                                                                                                     x    x
+     verdere specificering bedoeld is.
+
+
+
+
+                                                                                                    Pagina 5 van 29
+    BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+    Versie 2
+
+
+
+
+2   VERDELING EXAMINERING CE/SE
+
+    Tabel:
+    Verdeling van de examenstof biologie BB/KB/GT over centraal examen en schoolexamen
+
+
+     Exameneenheden                                      B   K   GT     CE     moet op     mag op
+                                                                                  SE         SE
+
+     BI/K/1    Oriëntatie op leren en werken             X   X   X             B/K/GT
+
+     BI/K/2    Basisvaardigheden                         X   X   X             B/K/GT
+
+     BI/K/3    Leervaardigheden in het vak biologie      X   X   X    B/K/GT   B/K/GT
+
+     BI/K/4    Cellen staan aan de basis                 X   X   X    B/K/GT              B/K/GT
+
+     BI/K/5    Schimmels en bacteriën: nuttig en soms    X   X   X             B/K/GT
+               schadelijk
+
+     BI/K/6    Planten en dieren en hun samenhang: de    X   X   X    B/K/GT              B/K/GT
+               eigen omgeving verkend
+
+     BI/K/7    Mensen beïnvloeden hun omgeving           X   X   X             B/K/GT
+
+     BI/K/8    Houding, beweging en conditie             X   X   X             B/K/GT
+
+     BI/K/9    Het lichaam in stand houden: voeding en   X   X   X    B/K/GT              B/K/GT
+               genotmiddelen, energie, transport en
+               uitscheiding
+
+     BI/K/10   Bescherming                               X   X   X             B/K/GT
+
+     BI/K/11   Reageren op prikkels                      X   X   X    B/K/GT              B/K/GT
+
+     BI/K/12   Van generatie op generatie                X   X   X    B/K/GT              B/K/GT
+
+     BI/K/13   Erfelijkheid en evolutie                      X   X     GT         K          GT
+
+     BI/V/1    Bescherming en antistoffen                        X     GT                    GT
+
+     BI/V/2    Gedrag bij mens en dier                           X     GT                    GT
+
+     BI/V/3    Verwerven, verwerken en verstrekken               X                GT
+               van informatie
+
+     BI/V/4    Vaardigheden in samenhang                         X     GT                    GT
+
+
+
+
+                                                                                         Pagina 6 van 29
+    BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+    Versie 2
+
+
+
+
+3   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+                                                                                                     BB    KB   GT
+     BI/K/3 LEERVAARDIGHEDEN IN HET VAK BIOLOGIE
+
+     3. De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:                      x      x    x
+
+        –   De ontwikkeling van het eigen leervermogen
+        –   Het vermogen met biologische vaktaal en methodieken te communiceren en
+            onderzoek te doen.
+     In dit verband kan de kandidaat
+
+    1 biologisch bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden in:   x      x    x
+        –   foldermateriaal
+        –   studieboeken
+        –   naslagwerken
+        –   cd-rom/internet
+        –   bijsluiters
+        –   kranten/tijdschriften
+
+    2 informatie uit biologisch bronnenmateriaal verwerven, selecteren, verwerken en bewerken:       x      x    x
+
+        –   tabellenboek, gegevensbank, gebruiksaanwijzing
+        –   tekeningen, schema's, diagrammen, tabellen, beeldmateriaal
+
+    3 eigen gedachten mondeling en schriftelijk formuleren over biologische onderwerpen:             x      x    x
+
+        –   vaktaal functioneel gebruiken
+        –   relaties leggen tussen vakinhoudelijke begrippen en contexten waarin deze
+            begrippen functioneel zijn
+
+    4 basisrekenvaardigheden binnen biologie toepassen:                                              x
+
+        –   schatten en afronden
+        –   efficiënt rekenen
+        –   rekenregels gebruiken:
+            -   verhoudingstabellen
+
+    4   basisrekenvaardigheden binnen biologie toepassen:                                                   x    x
+
+        –   schatten en afronden
+        –   efficiënt rekenen
+        –   rekenregels gebruiken:
+            -   decimale getallen
+
+            -   verhoudingstabellen
+
+            -   eenvoudige breuken en percentages
+
+    5 rekenen met grootheden en eenheden:                                                            x      x    x
+
+        –   eenheid bij gemeten of berekende grootheid aangeven
+
+    6 veilig, zinvol en doelmatig gebruikmaken van stoffen, materialen, organismen,                  x      x    x
+       (meet)instrumenten, apparaten en software, zonder schade te berokkenen aan organismen
+       en milieu
+
+    7 biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden:                       x
+
+    BI/K/3 Leervaardigheden in het vak biologie                                                          Pagina 7 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    –   onjuiste denkbeelden bijstellen of vervangen
+
+    –   verbanden leggen tussen begrippen
+
+    –   leren door te doen
+
+    –   leren door te ontdekken
+
+    –   verschillende organisatieniveaus:
+
+        -   cel
+
+        -   weefsel
+
+        -   orgaan
+
+        -   orgaanstelsel
+
+        -   organisme
+
+        -   ecosysteem
+
+7   biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden:                           x    x
+
+    –   onjuiste denkbeelden bijstellen of vervangen
+
+    –   verbanden leggen tussen begrippen
+
+    –   leren door te doen
+
+    –   leren door te ontdekken
+
+    –   multicausale verbanden herkennen
+
+    –   verschillende organisatieniveaus:
+
+        -   cel
+
+        -   weefsel
+
+        -   orgaan
+
+        -   orgaanstelsel
+
+        -   organisme
+
+        -   ecosysteem
+
+    –   een eenvoudige product- en procesevaluatie maken en hieruit conclusies trekken
+
+8 specifieke hulpmiddelen gebruiken zoals loep, microscoop, indicatoren (jodium en kalkwater)   x      x    x
+   en determineertabel en determineerkaart
+
+9 eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische                  x      x    x
+   zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten
+   vastleggen en evalueren:
+
+    –   bij een biologisch schoolpracticum en/of veldpracticum
+
+    –   een biologische probleemstelling herkennen en specificeren
+
+    –   een biologisch probleem herleiden tot een onderzoeksvraag
+
+    –   verwachtingen formuleren
+
+    –   relevante waarnemingen verrichten en gegevens verzamelen
+
+    –   conclusies trekken op grond van verzamelde gegevens
+
+    –   oplossing, onderzoek en conclusies evalueren
+
+10 gegevens verwerken in een verslaggeving naar aanleiding van een bezoek aan een instelling    x      x    x
+    waar levensprocessen een belangrijke rol spelen
+
+11 een studie van een zelf gekozen biologisch onderwerp uitvoeren en in een verslaggeving       x      x    x
+    verwerken
+
+12 ICT-hulpmiddelen en gangbare software gebruiken om te schrijven, te rekenen, informatie te   x      x    x
+   verzamelen, te bewerken en te presenteren en toetsen te maken
+
+
+BI/K/3 Leervaardigheden in het vak biologie                                                         Pagina 8 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                  BB    KB   GT
+ BI/K/4 CELLEN STAAN AAN DE BASIS
+
+ 4. De kandidaat kan:                                                                             x
+
+    –   kenmerkende eigenschappen van cellen noemen, de samenstellende delen daarvan
+        noemen, en de meest voorkomende organisatieniveaus binnen organismen noemen
+
+    –   beschrijven dat een organisme als een geheel beschouwd kan worden waarbij voor
+        instandhouding en gezondheid van het organisme processen in onderlinge samenhang
+        plaatsvinden.
+
+ In dit verband kan de kandidaat
+
+ 5. De kandidaat kan:                                                                                    x    x
+
+    –   kenmerkende eigenschappen van cellen noemen, de samenstellende delen daarvan
+        beschrijven, en de meest voorkomende organisatieniveaus binnen organismen noemen
+        en beschrijven
+
+    –   toelichten dat een organisme als een geheel beschouwd kan worden waarbij voor
+        instandhouding en gezondheid van het organisme processen in onderlinge samenhang
+        plaatsvinden.
+
+ In dit verband kan de kandidaat:
+
+1   levenskenmerken noemen:                                                                       x
+
+    –   stofwisseling (ademhaling, voeding, uitscheiding), groei (ontwikkeling), voortplanting,
+        reageren op prikkels (beweging)
+
+1   levenskenmerken noemen en toelichten:                                                                x    x
+
+    –   stofwisseling (ademhaling, voeding, uitscheiding), groei (ontwikkeling), voortplanting,
+        reageren op prikkels (beweging)
+
+2   delen waaruit een cel is opgebouwd en delen waardoor een cel kan zijn omgeven,                x
+    benoemen en in afbeeldingen of in modellen aanwijzen en van deze delen de functie(s)
+    beschrijven:
+
+    –   celkern, cytoplasma, celmembraan, vacuole, bladgroenkorrels, celwand
+
+2   delen waaruit een cel is opgebouwd en delen waardoor een cel kan zijn omgeven,                       x    x
+    benoemen en in afbeeldingen of in modellen aanwijzen en van deze delen de functie(s)
+    beschrijven:
+
+    –   celkern, cytoplasma, celmembraan, vacuole, bladgroenkorrels, zetmeelkorrels,
+        kleurstofkorrels, celwand
+
+3   kenmerkende eigenschappen van cellen van dieren, planten, schimmels en bacteriën              x
+    noemen:
+
+    –   verschillen in bouw met betrekking tot:
+
+        -   de aanwezigheid van een kern
+
+        -   de aanwezigheid van bladgroenkorrels
+
+        -   de aanwezigheid van een celwand
+
+    –   overeenkomsten in de bouw met betrekking tot:
+
+        -   celmembraan
+
+        -   cytoplasma
+
+3   kenmerkende eigenschappen van cellen van dieren, planten, schimmels en bacteriën                     x    x
+    noemen:
+
+    –   verschillen in bouw met betrekking tot:
+
+        -   de aanwezigheid van een kern
+
+BI/K/4 Cellen staan aan de basis                                                                       Pagina 9 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+        -   de aanwezigheid van bladgroenkorrels
+
+        -   de aanwezigheid van een celwand
+
+        -   relatieve grootte
+
+    –   overeenkomsten in de bouw met betrekking tot:
+
+        -   celmembraan
+
+        -   cytoplasma
+
+4   beschrijven wat de stofwisselingsprocessen, verbranding en fotosynthese voor betekenis        x      x    x
+    hebben voor de instandhouding van een organisme en wat de correlatie ervan is met de
+    stoffen die een organisme in- en uitgaan
+
+5   delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in                x      x    x
+    afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven:
+
+    –   de aanwezigheid van weefsels en organen bij meercellige organismen
+
+    –   weefsel: een aantal aaneengesloten cellen met gelijke vorm en functie; in veel gevallen
+        is er tussencelstof
+
+    –   orgaan: een uit een aantal typen weefsel opgebouwd deel van een organisme met één of
+        meer functies
+
+    –   orgaanstelsel: een uit een aantal organen opgebouwd deel van een organisme met één
+        of meer functies (verteringsstelsel, bloedvatenstelsel, geraamte/bottenstelsel,
+        zenuwstelsel, zintuigstelsel, voortplantingsstelsel, ademhalingsstelsel, spierstelsel,
+        hormoonstelsel, uitscheidingsstelsel)
+
+6   toelichten dat een organisme als een geheel beschouwd kan worden waarbij voor                 x      x    x
+    instandhouding en gezondheid van het organisme processen in onderlinge samenhang
+    plaatsvinden:
+
+    –   voedselopname, gaswisseling, transport, uitscheiding, stofwisseling in relatie tot
+
+        energiegebruik, groei en vervanging
+
+
+
+
+BI/K/4 Cellen staan aan de basis                                                                      Pagina 10 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                   BB    KB   GT
+ BI/K/6 PLANTEN EN DIEREN EN HUN SAMENHANG: DE EIGEN OMGEVING
+ VERKEND
+
+8. De kandidaat kan:                                                                               x
+
+    –   de namen van organismen opzoeken en de delen waaruit ze zijn samengesteld
+
+    –   de relaties noemen die ze onderling en met hun omgeving hebben.
+
+ In dit verband kan de kandidaat
+
+9. De kandidaat kan:                                                                                      x    x
+
+    –   de namen van organismen opzoeken en de delen waaruit ze zijn samengesteld
+
+    –   de relaties noemen en toelichten die ze onderling en met hun omgeving hebben
+
+ In dit verband kan de kandidaat
+
+1 via determineren de naam opzoeken van organismen                                                 x
+
+1   via determineren de naam opzoeken van organismen en verwoorden dat aan het onderling                  x    x
+    verschillen van soorten erfelijke factoren ten grondslag liggen
+
+2 verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving                  x
+   waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun
+   leefomgeving:
+
+    –   aanpassing aan droge, natte, hete en koude omstandigheden
+
+    –   kenmerken van bloemen met windbestuiving en van bloemen met insectenbestuiving,
+        met name:
+
+        -   verschillen in vorm en kleur, geur, aanwezigheid van nectar en de aanwezigheid en
+            plakkerigheid van stuifmeel
+
+        -   vorm van de meeldraden en stampers
+
+    –   de organen via welke zuurstof wordt opgenomen en koolstofdioxide wordt afgegeven bij
+        dieren, met name:
+
+        -   tracheeën bij insecten
+
+        -   kieuwen bij vissen
+
+        -   longen, kieuwen en huid bij amfibieën
+
+        -   longen bij reptielen, vogels en zoogdieren
+
+    –   de poten van teengangers, hoefgangers en zoolgangers
+
+    –   de functie van zwemvliezen bij watervogels, de functie van lange poten en gedeeltelijke
+        zwemvliezen bij steltlopers en de functie van klauwen bij roofvogels
+
+    –   bij zoogdieren de vorm en de functie van plooikiezen (bij planteneters), knipkiezen (bij
+        vleeseters) en knobbelkiezen (bij alleseters)
+
+    –   bij planten- en vleeseters de relatie tussen het soort voedsel en de lengte van het
+        darmkanaal
+
+    –   de functie van bepaalde snavelvormen, met name:
+
+        -   een puntige snavel bij insectenetende vogels
+
+        -   een kegelvormige snavel bij zaadetende vogels
+
+        -   een haakvormige snavel bij roofvogels
+
+2   verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving                       x    x
+    waarin deze organismen leven, en aangeven/uitleggen hoe planten en dieren zijn
+    aangepast aan hun leefomgeving:
+
+    –   aanpassing aan droge, natte, hete en koude omstandigheden
+
+    –   kenmerken van bloemen met windbestuiving en van bloemen met insectenbestuiving,
+        met name:
+BI/K/6 Planten en dieren en hun samenhang: de eigen omgeving verkend                                    Pagina 11 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+        -   verschillen in vorm en kleur, geur, aanwezigheid van nectar en de aanwezigheid en
+            plakkerigheid van stuifmeel
+
+        -   vorm van de meeldraden en stampers
+
+    –   klimplanten, voorjaarsbloeiers, rozetvormende planten, waterplanten met drijvende
+        bladeren
+
+    –   de organen via welke zuurstof wordt opgenomen en koolstofdioxide wordt afgegeven bij
+        dieren, met name:
+
+        -   tracheeën bij insecten
+
+        -   kieuwen bij vissen
+
+        -   longen, kieuwen en huid bij amfibieën
+
+        -   longen bij reptielen, vogels en zoogdieren
+
+    –   de poten van teengangers, hoefgangers en zoolgangers
+
+    –   de functie van zwemvliezen bij watervogels, de functie van lange poten en gedeeltelijke
+        zwemvliezen bij steltlopers en de functie van klauwen bij roofvogels
+
+    –   bij zoogdieren de vorm en de functie van plooikiezen (bij planteneters), knipkiezen (bij
+        vleeseters) en knobbelkiezen (bij alleseters)
+
+    –   bij planten- en vleeseters de relatie tussen het soort voedsel en de lengte van het
+        darmkanaal
+
+    –   de functie van bepaalde snavelvormen, met name:
+
+        -   een puntige snavel bij insectenetende vogels
+
+        -   een kegelvormige snavel bij zaadetende vogels
+
+        -   een haakvormige snavel bij roofvogels
+
+    –   verschillen tussen individuen van een soort kunnen het gevolg zijn van verschillen in
+        erfelijke aanleg en/ of verschillen in milieufactoren waaraan die individuen hebben
+        blootgestaan
+
+3 delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en                 x
+   aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de
+   mens:
+
+    –   stengels: transport via houtvaten en bastvaten en stevigheid
+
+    –   bladeren met huidmondjes: fotosynthese
+
+    –   opname en afgifte van koolstofdioxide en zuurstof, verdamping van water
+
+    –   wortels: bevestiging in de bodem, opname van water en mineralen (voedingszouten)
+        met behulp van wortelharen, opslag van vooral zetmeel als reservestof
+
+    –   bloemen met kelkbladeren, kroonbladeren, meeldraden, stamper(s) (met
+        vruchtbeginsel): voortplanting
+
+    –   vrucht met een of meer zaden: geslachtelijke voortplanting
+
+    –   een zaad bestaat uit een zaadhuid, kiempje en reservestoffen
+
+    –   bollen met rokken: ongeslachtelijke voortplanting en opslag van reservestoffen
+
+    –   knollen: ongeslachtelijke voortplanting en opslag van reservestoffen
+
+    –   alle genoemde delen kunnen voedingsmiddelen voor de mens leveren
+
+3   delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en                     x    x
+    aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de
+    mens:
+
+    –   stengels: transport via houtvaten en bastvaten, opslag en stevigheid
+
+    –   bladeren met huidmondjes: fotosynthese
+
+    –   opname en afgifte van koolstofdioxide en zuurstof, verdamping van water
+
+
+
+BI/K/6 Planten en dieren en hun samenhang: de eigen omgeving verkend                                   Pagina 12 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    –   wortels: bevestiging in de bodem, opname van water en mineralen (voedingszouten)
+        met behulp van wortelharen, opslag van vooral zetmeel als reservestof
+
+    –   bloemen met kelkbladeren, kroonbladeren, meeldraden (met helmdraden en
+        helmknoppen), stamper(s) (met stempel(s), stijl, vruchtbeginsel en zaadbeginsel(s)):
+        voortplanting
+
+    –   vrucht met een of meer zaden: geslachtelijke voortplanting
+
+    –   een zaad bestaat uit een zaadhuid, kiempje en reservestoffen vooral eiwitten, vetten en
+        zetmeel, en manieren van zaadverspreiding (m.b.v. wind, dieren, "wegschieten")
+
+    –   bollen met rokken: ongeslachtelijke voortplanting en opslag van reservestoffen
+
+    –   knollen: ongeslachtelijke voortplanting en opslag van reservestoffen
+
+    –   alle genoemde delen kunnen voedingsmiddelen voor de mens leveren
+
+4 enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:                               x    x
+
+    –   weefsels met onder andere fotosynthese en opslag
+
+    –   vaatbundels met houtvaten (transport van water en mineralen/voedingszouten) en met
+        bastvaten (transport van water en energierijke stoffen)
+
+    –   opperhuid van stengels en bladeren met huidmondjes voor opname en afgifte van
+        gassen en een waslaagje voor bescherming tegen uitdroging en beschadiging
+
+    –   openen van huidmondjes in het licht en sluiten in het donker
+
+    –   openen en sluiten van huidmondjes in relatie tot opname en afgifte van water door
+        planten
+
+    –   opperhuid van wortels met wortelharen: opname van water en mineralen
+        (voedingszouten)
+
+5 noemen welke relaties er zijn tussen organismen bij de energiestromen in een ecosysteem:        x
+
+    –   planten- en diersoorten noemen die een voedselketen vormen
+
+    –   in een beschreven ecosysteem producenten, consumenten en reducenten
+        onderscheiden:
+
+        -   planten zijn producenten die zelf energierijke stoffen maken d.m.v. fotosynthese
+
+        -   dieren zijn consumenten die voor hun voedsel afhankelijk zijn van andere
+            organismen
+
+        -   dood materiaal in de natuur, wordt door reducenten (zoals schimmels en bacteriën)
+            opgeruimd
+
+        -   consumenten en reducenten gebruiken de energierijke stoffen uit hun voedsel voor
+            de verbranding en voor de opbouw van het eigen lichaam
+
+5   uitleggen wat een ecosysteem is en uitleggen/noemen welke relaties er zijn tussen                   x
+    organismen bij de energiestromen in een ecosysteem:
+
+    –   planten- en diersoorten noemen die een voedselketen/voedselweb of een piramide van
+        biomassa/aantallen vormen
+
+    –   in een beschreven ecosysteem producenten, consumenten en reducenten
+        onderscheiden:
+
+        -   planten zijn producenten die zelf energierijke stoffen maken d.m.v. fotosynthese
+
+        -   dieren zijn consumenten die voor hun voedsel afhankelijk zijn van andere
+            organismen
+
+        -   dood materiaal in de natuur, onverteerde delen, afvalstoffen en restanten van
+            planten en dieren, wordt door reducenten (zoals schimmels en bacteriën)
+            opgeruimd /omgezet in koolstofdioxide, water en zouten, die planten kunnen
+            opnemen;
+
+        -   de koolstofkringloop
+
+
+
+BI/K/6 Planten en dieren en hun samenhang: de eigen omgeving verkend                                  Pagina 13 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+        -   consumenten en reducenten gebruiken de energierijke stoffen uit hun voedsel voor
+            de verbranding en voor de opbouw van het eigen lichaam
+
+        -   bij het in stand houden van een organisme gaat energie verloren in afvalproducten
+            en door verlies van warmte
+
+5   uitleggen wat een ecosysteem is en uitleggen/noemen welke relaties er zijn tussen                  x
+    organismen bij de energiestromen in een ecosysteem:
+
+    –   planten- en diersoorten noemen die een voedselketen/voedselweb of een piramide van
+        biomassa/aantallen vormen
+
+    –   in een beschreven ecosysteem producenten, consumenten en reducenten
+        onderscheiden:
+
+        -   planten zijn producenten die zelf energierijke stoffen maken d.m.v. fotosynthese
+
+        -   dieren zijn consumenten die voor hun voedsel afhankelijk zijn van andere
+            organismen
+
+        -   dood materiaal in de natuur, onverteerde delen, afvalstoffen en restanten van
+            planten en dieren, wordt door reducenten (zoals schimmels en bacteriën)
+            opgeruimd /omgezet in koolstofdioxide, water en zouten, die planten kunnen
+            opnemen;
+
+        -   de koolstofkringloop
+
+        -   de stikstofkringloop
+
+        -   consumenten en reducenten gebruiken de energierijke stoffen uit hun voedsel voor
+            de verbranding en voor de opbouw van het eigen lichaam
+
+        -   bij het in stand houden van een organisme gaat energie verloren in afvalproducten
+            en door verlies van warmte
+
+6   in een beschreven ecosysteem biotische en abiotische milieufactoren noemen en toelichten      x    x
+    dat individuen en populaties in een ecosysteem afhankelijk zijn van en beïnvloed worden
+    door biotische en abiotische factoren
+
+
+
+
+BI/K/6 Planten en dieren en hun samenhang: de eigen omgeving verkend                            Pagina 14 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                    BB    KB   GT
+  BI/K/9 HET LICHAAM IN STAND HOUDEN: VOEDING EN GENOTMIDDELEN,
+  ENERGIE, TRANSPORT EN UITSCHEIDING
+
+13. De kandidaat kan:                                                                                 x    x    x
+
+    –   vorm, werking en functie van het verteringsstelsel, bloedvatenstelsel,
+        ademhalingsstelsel en uitscheidingsstelsel beschrijven
+
+    –   hun onderlinge verband toelichten
+
+ In dit verband kan de kandidaat
+
+1 de functie van het verteringsstelsel beschrijven:                                                   x
+
+    –   eiwitten, koolhydraten en vetten worden verteerd; stoffen uit het verteringskanaal
+        worden opgenomen in het bloed
+
+1   de functie van het verteringsstelsel beschrijven:                                                      x    x
+
+    –   voedingsmiddelen worden bewerkt zodat eiwitten, koolhydraten en vetten bereikbaar
+        worden voor enzymen en worden verteerd; stoffen uit het verteringskanaal worden
+        opgenomen in het bloed
+
+2 de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en               x
+    werking ervan beschrijven:
+
+    –   ligging en functie(s) van:
+
+        -   mond met tong, speekselklieren, tanden en kiezen
+
+        -   slokdarm
+
+        -    maag
+
+        -   twaalfvingerige darm
+
+        -   dunne darm
+
+        -   dikke darm
+
+        -   endeldarm met anus
+
+    –   ligging en functies alvleesklier
+
+    –   productie van verteringssappen in speekselklieren, maagsapklieren, alvleesklier en
+        dunne darm
+
+    –   speeksel en maagzuur beschermen tegen infecties via het voedsel
+
+    –   functie van darmperistaltiek
+
+    –   ligging en functies lever, met name:
+
+        -   afbraak van afval- en gifstoffen
+
+        -   productie van gal
+
+    –   ligging en functie galblaas: opslag van gal
+
+    –   de bouw van tanden en kiezen met glazuur, tandbeen, wortel, cement, zenuw, en
+        bloedvaten
+
+    –   tegengaan tandbederf, met name de rol van:
+
+        -   speeksel
+
+        -   tandenpoetsen
+
+        -   fluorbehandeling
+
+2   de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en                  x    x
+    werking ervan beschrijven:
+
+    –   ligging en functie(s) van:
+
+        -   mond met tong, speekselklieren, tanden en kiezen
+
+BI/K/9 Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding   Pagina 15 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+        -   slokdarm
+
+        -   maag
+
+        -   twaalfvingerige darm
+
+        -   dunne darm
+
+        -   dikke darm
+
+        -   endeldarm met anus
+
+    –   ligging en functies alvleesklier
+
+    –   productie en functies van verteringssappen met verteringsenzymen in speekselklieren,
+        maagsapklieren, alvleesklier en dunne darm
+
+    –   algemene functie verteringsenzymen
+
+    –   speeksel en maagzuur beschermen tegen infecties via het voedsel
+
+    –   functie van darmperistaltiek
+
+    –   ligging en functies lever, met name:
+
+        -   afbraak van afval- en gifstoffen
+
+        -   bewerking van voedingsstoffen
+
+        -   opslag van glycogeen gevormd uit glucose
+
+        -   omzetting van glycogeen in glucose
+
+        -   productie van gal
+
+    –   ligging en functie galblaas: opslag van gal
+
+    –   functie gal: met name emulgeren van vetten
+
+    –   afvoer van bloed met voedingsstoffen via de poortader naar de lever
+
+    –   de bouw van tanden en kiezen met glazuur, tandbeen, wortel, cement, zenuw, en
+        bloedvaten
+
+    –   tegengaan tandbederf, met name de rol van:
+
+        -   speeksel
+
+        -   tandenpoetsen
+
+        -   fluorbehandeling
+
+3 voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met                   x
+   voedingsadviezen toelichten:
+
+    –   op te nemen (groepen van) stoffen: water, eiwitten, vetten, koolhydraten (zetmeel en
+        suikers), mineralen (zouten, met name kalkzouten en ijzerzouten) en vitamines
+
+    –   groepen voedingsstoffen worden gebruikt als bouwstoffen, als brandstoffen, als
+        beschermende stoffen en/of als reservestoffen
+
+    –   met behulp van de schijf van vijf of een voedingsmiddelentabel de
+        kwaliteit/voedingswaarde van verschillende maaltijden vergelijken
+
+    –   invloed van vezels in het voedsel op de darmperistaltiek
+
+3   voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met                      x    x
+    voedingsadviezen toelichten inclusief evenwicht tussen opname en gebruik, verbruik en
+    verlies van stoffen bij een constante lichaamsmassa:
+
+    –   op te nemen (groepen van) stoffen: water, eiwitten, vetten, koolhydraten (zetmeel en
+        suikers), mineralen (zouten, met name kalkzouten en ijzerzouten) en vitamines
+
+    –   groepen voedingsstoffen worden gebruikt als bouwstoffen (voor de opbouw van het
+        lichaam), als brandstoffen (voor het vrijmaken van energie), als beschermende stoffen
+        en/of als reservestoffen
+
+    –   met behulp van de schijf van vijf of een voedingsmiddelentabel de
+        kwaliteit/voedingswaarde van verschillende maaltijden vergelijken
+
+
+BI/K/9 Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding   Pagina 16 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    –   invloed van vezels in het voedsel op de darmperistaltiek
+
+4 uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel, alcohol          x
+   en medicijnen, en bij gebruik van tabak en drugs:
+
+    –   overgewicht en vermagering als gevolg van over- en ondervoeding
+
+    –   energieverbruik hangt af van factoren als activiteit en omgevingstemperatuur
+
+4   uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel,                     x    x
+    alcohol en medicijnen, en bij gebruik van tabak en drugs en hierbij abstracte relaties
+    leggen:
+
+    –   overgewicht en vermagering als gevolg van over- en ondervoeding
+
+    –   energieverbruik en opslag of verbruik van reservestoffen hangt eveneens af van
+        factoren als activiteit en omgevingstemperatuur
+
+    –   grondstofwisseling
+
+5 bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en                 x
+    werking beschrijven, met inbegrip van problemen met de bloedsomloop:
+
+    –   aan- en afvoer van stoffen en warmte door bloed
+
+    –   van slagaders, aders en haarvaten: functies; onderscheid naar ligging, bloeddruk, bouw
+        van de wand, aan- of afwezigheid van kleppen en samenstelling van het bloed in deze
+        vaten
+
+    –   naamgeving van aders en slagaders naar of bij bepaalde delen van het lichaam met
+        daarnaast de aorta, holle aders, kransslagaders en kransaders
+
+    –   grote en kleine bloedsomloop
+
+    –   de bouw, ligging, functie en werking van het hart met kamers, boezems en kleppen
+
+    –   veel voorkomende oorzaken van hartinfarct en hartritmestoornissen, met name:
+
+        -   stress
+
+        -   overgewicht
+
+        -   roken
+
+        -   te grote inspanning
+
+        -   erfelijke aanleg
+
+5   lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en                      x    x
+    functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en
+    problemen met de bloedsomloop:
+
+    –   ligging en functies van lymfevaten, functie van kleppen
+
+    –   aan- en afvoer van stoffen en warmte door bloed
+
+    –   van slagaders, aders en haarvaten: functies; onderscheid naar ligging, bloeddruk, bouw
+        van de wand, aan- of afwezigheid van kleppen en samenstelling van het bloed in deze
+        vaten
+
+    –   naamgeving van aders en slagaders naar of bij bepaalde delen van het lichaam met
+        daarnaast de aorta, poortader, holle aders, kransslagaders en kransaders
+
+    –   grote en kleine bloedsomloop
+
+    –   de bouw, ligging, functie en werking van het hart met kamers, boezems , hartkleppen
+        en halvemaanvormige (hart)kleppen
+    –   dikte van de wanden van de kamers in relatie tot hun functie
+
+    –   dikte van de wanden van boezems ten opzichte van de wanden van kamers in relatie tot
+        hun functie
+
+    –   principe van verandering van druk in de kamers en slagaders tijdens de hartwerking
+
+    –   veel voorkomende oorzaken van hartinfarct en hartritmestoornissen, met name:
+
+
+BI/K/9 Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding   Pagina 17 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+        -   stress
+
+        -   overgewicht
+
+        -   roken
+
+        -   te grote inspanning
+
+        -   erfelijke aanleg
+
+    –   gevolgen van een te hoge en een te lage bloeddruk
+
+6 van bloed van de mens de samenstellende delen noemen en de functie van de delen                     x
+    beschrijven:
+
+    –   vorm, functies en voorkomen van bloedplasma met onder andere: zuurstof,
+        koolstofdioxide, water, voedingsstoffen en hormonen
+
+    –   vorm, functies en plaats van vorming van rode bloedcellen, witte bloedcellen en
+        bloedplaatjes
+
+    –   transport van stoffen tussen bloed en cellen
+
+6   van bloed, lymfe en weefselvloeistof van de mens de samenstellende delen noemen en de                  x    x
+    functie van de delen beschrijven:
+
+    –   vorm, functies en voorkomen van bloedplasma met onder andere: zuurstof,
+        koolstofdioxide, water, voedingsstoffen en eiwitten zoals antistoffen en hormonen
+
+    –   vorm, functies en plaats van vorming van rode bloedcellen (met hemoglobine), witte
+        bloedcellen en bloedplaatjes
+
+    –   transport van stoffen tussen bloed, weefselvloeistof en cellen
+
+    –   weefselvloeistof stroomt als lymfe in de lymfevaten
+
+7 delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s)                    x
+   beschrijven:
+
+    –   naam, ligging, bouw en functie van delen van het ademhalingsstelsel, met name:
+
+        -   mondholte, neusholte en keelholte (met huig en strotklepje)
+
+        -   luchtpijp met kraakbeenringen, slijmvlies met trilharen
+
+        -   bronchiën
+
+        -   longblaasjes
+
+    –   verschillen tussen borst- en buikademhaling
+
+    –   functie van hoesten
+
+    –   voordelen van ademhalen via de neus in vergelijking met ademhalen via de mond
+
+    –   kwaliteit van ingeademde lucht i.v.m. astma, bronchitis, longemfyseem en hooikoorts
+
+7   delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en                    x    x
+    werking beschrijven:
+
+    –   naam, ligging, bouw, werking en functie van delen van het ademhalingsstelsel, met
+        name:
+
+        -   mondholte, neusholte en keelholte (met huig en strotklepje)
+
+        -   luchtpijp met kraakbeenringen, slijmvlies met trilharen
+
+        -   bronchiën
+
+        -   longblaasjes
+
+    –   verschillen tussen borst- en buikademhaling/ventilatiebewegingen door veranderingen
+        van borstkas, middenrifspieren, buikspieren en tussenribspieren
+
+    –   functie van hoesten
+
+    –   voordelen van ademhalen via de neus in vergelijking met ademhalen via de mond
+
+    –   kwaliteit van ingeademde lucht i.v.m. astma, bronchitis, longemfyseem en hooikoorts
+
+
+BI/K/9 Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding   Pagina 18 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+8 lever en nieren met urineleiders, urineblaas en urinebuis noemen, in afbeeldingen                   x
+    aanwijzen en de functie ervan noemen:
+
+    –   nierschors, niermerg, nierbekken
+
+8   lever en nieren met urineleiders, urineblaas en urinebuis noemen, in afbeeldingen                      x    x
+    aanwijzen en de functie ervan noemen, de bouw en werking van de nier beschrijven en
+    beschrijven dat omzetting van afvalstoffen en niet-bruikbare stoffen in de lever plaatsvindt
+    en dat deze daarna uitgescheiden worden:
+
+    –   wisselende gehaltes aan water en afvalstoffen (zoals ureum) in urine
+
+    –   nierschors, niermerg, nierbekken
+
+
+
+
+BI/K/9 Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding   Pagina 19 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                  BB    KB   GT
+  BI/K/11 REAGEREN OP PRIKKELS
+
+15. De kandidaat kan de rol en de werking van zenuwstelsel, zintuigstelsel en                       x
+    hormoonstelsel toelichten.
+
+ In dit verband kan de kandidaat
+
+16. De kandidaat kan:                                                                                    x    x
+
+    –   de rol en de werking van het zenuwstelsel, zintuigstelsel en hormoonstelsel toelichten
+
+    –   beschrijven welke relatie er is tussen gedrag en inwendige en uitwendig prikkels
+
+ In dit verband kan de kandidaat
+
+1 toelichten dat gedrag bij dieren uit een reeks samenhangende handelingen bestaat, en kan               x    x
+    aan de hand van concrete voorbeelden uitleggen dat gedrag afhankelijk is van inwendige
+    en uitwendige prikkels
+
+2   delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking          x
+    beschrijven:
+
+    –   ligging en functie van delen van het centraal zenuwstelsel, met name:
+
+        -   grote hersenen: bewustzijn, zintuiglijke waarneming en bewuste beweging
+
+        -   kleine hersenen: coördinatie van bewegingen
+
+        -   hersenstam: verbinding tussen grote hersenen en ruggenmerg en een rol bij
+            reflexen in hoofd- en halsgebied
+
+        -   ruggenmerg: verbinding van organen met hersenen en een rol bij reflexen van
+            romp en ledematen
+
+    –   bouw van een zenuwcel met cellichaam en uitlopers
+
+    –   reflex is een vaste, onbewuste reactie op een bepaalde prikkel
+
+    –   functie van een reflex: snel reageren bij kans op onverwachte beschadiging van het
+        lichaam
+
+2 delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking                 x    x
+   beschrijven; soorten zenuwcellen benoemen en onderverdelen:
+
+    –   bouw, ligging en functie van delen van het centraal zenuwstelsel, met name:
+
+        -   grote hersenen: bewustzijn, zintuiglijke waarneming en bewuste beweging
+
+        -   kleine hersenen: coördinatie van bewegingen
+
+        -   hersenstam: verbinding tussen grote hersenen en ruggenmerg en een rol bij
+            reflexen in hoofd- en halsgebied
+
+        -   ruggenmerg: verbinding van organen met hersenen en een rol bij reflexen van
+            romp en ledematen
+
+    –   bouw van een zenuwcel met cellichaam en uitlopers
+
+    –   ligging en functies van typen zenuwcellen:
+
+        -   schakelcel
+
+        -   gevoelszenuwcel
+
+        -   bewegingszenuwcel
+
+    –   gevoelszenuw, bewegingszenuw, gemengde zenuw
+
+    –   reflex is een vaste, onbewuste reactie op een bepaalde prikkel:
+
+        -   terugtrekreflex
+
+        -   strekreflex
+
+        -   kniepeesreflex
+
+        -   pupilreflex
+
+BI/K/11 Reageren op prikkels                                                                     Pagina 20 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    –   functies van een reflex: onbewust regelen van motoriek, snel reageren bij kans op
+        onverwachte beschadiging van het lichaam
+
+3 ervaringen/waarnemingen van zintuig-practicumproeven in biologische termen weergeven            x    x    x
+
+4   delen en omringende delen van de gehoororganen, van de ogen en van zintuigelementen           x
+    in huid, neus en tong in afbeeldingen aanwijzen en functie en werking ervan beschrijven:
+
+    –   van het gehoororgaan, met name:
+
+        -   oorschelp
+
+        -   gehoorgang
+
+        -   trommelvlies
+
+        -   gehoorbeentjes
+
+        -   slakkenhuis met zintuigcellen
+
+        -   gehoorzenuw
+
+        -   evenwichtsorgaan
+
+    –   van de ogen, met name:
+
+        -   wenkbrauw
+        -   wimper
+
+        -   traanklier
+
+        -   traanbuis
+
+        -   oogspier
+
+        -   harde oogvlies
+
+        -   hoornvlies
+
+        -   vaatvlies
+
+        -   iris
+
+        -   pupil: de opening in de iris
+
+        -   lens
+
+        -   glasachtig lichaam
+
+        -   netvlies
+
+        -   oogzenuw
+
+4   delen en omringende delen van de gehoororganen, van de ogen en van zintuigelementen                x    x
+    in huid, neus en tong in afbeeldingen aanwijzen en functie en werking ervan beschrijven:
+
+    –   van het gehoororgaan, met name:
+
+        -   oorschelp
+
+        -   gehoorgang
+
+        -   trommelvlies
+
+        -   trommelholte/middenoor
+
+        -   buis van Eustachius
+
+        -   gehoorbeentjes: hamer, aambeeld, stijgbeugel
+
+        -   slakkenhuis met zintuigcellen
+
+        -   gehoorzenuw
+
+        -   evenwichtsorgaan
+
+    –   van de ogen, met name:
+
+        -   wenkbrauw
+
+        -   wimper
+
+        -   traanklier
+BI/K/11 Reageren op prikkels                                                                   Pagina 21 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+        -   traanbuis
+
+        -   oogspier
+
+        -   harde oogvlies
+
+        -   hoornvlies
+
+        -   vaatvlies
+
+        -   iris met kringspieren en lengtespieren
+
+        -   pupil: de opening in de iris
+
+        -   lens: accommoderen
+
+        -   glasachtig lichaam
+
+        -   netvlies met gele vlek en blinde vlek
+
+        -   oogzenuw
+
+        -   ligging en functie van staafjes en kegeltjes
+
+5   uitleggen dat prikkels uit de omgeving door zintuigen omgezet worden in impulsen die         x
+    naar het centraal zenuwstelsel geleid worden, waardoor waarneming kan plaatsvinden
+
+5   op abstracte wijze uitleggen dat prikkels uit de omgeving door zintuigen omgezet worden           x    x
+    in impulsen die naar het centraal zenuwstelsel geleid worden, waardoor waarneming kan
+    plaatsvinden:
+
+    –   drempelwaarde, adequate prikkel, gewenning, motivatie
+
+6   beschrijven dat bewust gedrag vanuit de hersenen gestuurd wordt                                   x    x
+
+7   de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in                 x
+    afbeeldingen aanwijzen en functie(s) beschrijven:
+
+    –   bouw, ligging en functies van de delen van de huid, met name:
+
+        -   opperhuid met hoornlaag met dode cellen en kiemlaag met delende cellen
+
+        -   lederhuid met bloedvaten, haarzakjes, talgklieren, haarspieren, zweetklieren en
+            zintuigen
+
+        -   haren
+
+    –   onderhuids bindweefsel met vetcellen
+
+    –   de rol van de doorbloeding, vet en de mate van zweten bij de temperatuurregeling
+
+    –   de rol van de hoornlaag bij de bescherming tegen infecties, uitdroging en
+        beschadigingen
+
+    –   de rol van pigment (in de kiemlaag) bij de bescherming tegen ultraviolette straling
+
+7   de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in                      x    x
+    afbeeldingen aanwijzen en functie(s) beschrijven:
+
+    –   bouw, ligging en functies van de delen van de huid, met name:
+
+        -   opperhuid met hoornlaag met dode cellen en kiemlaag met delende cellen en
+            zenuwuiteinden van de ‘pijnzintuigen’
+
+        -   lederhuid met bloedvaten, haarzakjes, talgklieren, haarspieren, zweetklieren en
+            zintuigen
+
+        -   haren
+
+    –   onderhuids bindweefsel met vetcellen
+
+    –   de rol van de doorbloeding, vet en de mate van zweten bij de temperatuurregeling
+
+    –   de rol van de hoornlaag bij de bescherming tegen infecties, uitdroging en
+        beschadigingen
+
+    –   de rol van pigment (in de kiemlaag) bij de bescherming tegen ultraviolette straling
+
+8   het principe van de werking van hormonen beschrijven                                              x    x
+BI/K/11 Reageren op prikkels                                                                  Pagina 22 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    –   beïnvloeding van groei, ontwikkeling en stofwisseling
+
+9   hormoonklieren noemen, in afbeeldingen aanwijzen en functies beschrijven, met name               x
+    van:
+
+    –   eilandjes van Langerhans (in de alvleesklier): productie van hormonen die het
+        suikergehalte in het bloed regelen
+
+    –   bijnieren: productie van het hormoon dat de activiteit van spieren, de ademhaling en de
+        bloedsomloop versnelt en het glucosegehalte van het bloed verhoogt
+
+    –   eierstokken en teelballen: productie van geslachtshormoon voor het ontstaan van
+        secundaire geslachtskenmerken; productie van geslachtscellen
+
+9   hormoonklieren noemen, in afbeeldingen aanwijzen en functies en werking met de nodige                 x    x
+    detaillering beschrijven, met name van:
+
+    –   hypofyse: productie van hormonen voor regeling groei, beïnvloeden van andere
+        hormoonklieren
+
+    –   schildklier: stimulering van verbranding in cellen
+
+    –   eilandjes van Langerhans (in de alvleesklier): productie van de hormonen insuline en
+        glucagon die het suikergehalte in het bloed regelen; diabetes
+
+    –   bijnieren: productie van het hormoon adrenaline dat de activiteit van spieren, de
+        ademhaling en de bloedsomloop versnelt en het glucosegehalte van het bloed verhoogt
+
+    –   eierstokken en teelballen: productie van geslachtshormoon voor het ontstaan van
+        secundaire geslachtskenmerken; productie van geslachtscellen
+
+
+
+
+BI/K/11 Reageren op prikkels                                                                      Pagina 23 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                       BB    KB   GT
+  BI/K/12 VAN GENERATIE OP GENERATIE
+
+17. De kandidaat kan voortplanting en groei bij organismen beschrijven, evenals de vorm en               x
+    functie van seksueel gedrag daarbij.
+
+In dit verband kan de kandidaat
+
+18. De kandidaat kan voortplanting en groei bij organismen toelichten, evenals de vorm en                     x    x
+    functie van seksueel gedrag daarbij.
+
+In dit verband kan de kandidaat
+
+1   fasen in de lichamelijke en geestelijke groei en ontwikkeling van mensen noemen                      x    x    x
+
+2   delen van de voortplantingsstelsels noemen, in afbeeldingen aanwijzen en functie(s) en               x
+    werking beschrijven:
+
+    –   ligging en functie van eierstokken, eileiders, baarmoeder, schede (= vagina), grote en
+        kleine schaamlippen, kittelaar (= clitoris)
+
+    –   ligging en functie van balzak, teelballen/zaadballen, bijballen, zaadblaasjes, zaadleiders,
+        prostaat, penis, zwellichamen, urinebuis, voorhuid, eikel
+
+2   delen van de voortplantingsstelsels noemen, in afbeeldingen aanwijzen en functie(s) en                    x    x
+    werking beschrijven:
+
+    –   ligging, bouw en functie van eierstokken, eileiders, baarmoeder, schede (= vagina),
+        grote en kleine schaamlippen, kittelaar (= clitoris)
+
+    –   ligging, bouw en functie van balzak, teelballen/zaadballen, bijballen, zaadblaasjes,
+        zaadleiders, prostaat, penis, zwellichamen, urinebuis, voorhuid, eikel
+
+3   functies van seksualiteit verwoorden en verschillen in opvattingen, normen en waarden                x    x    x
+    daarover formuleren
+
+4   beschrijven hoe de voortplanting van mensen verloopt:                                                x
+
+    –   primaire en secundaire geslachtskenmerken bij de vrouw en de man
+
+    –   verloop van de menstruatiecyclus, met name:
+
+        -   ontwikkeling van eicel in eierstok
+
+        -   ovulatie
+
+        -   opbouw baarmoederslijmvlies
+
+        -   menstruatie (verval baarmoederslijmvlies)
+
+    –   bouw en functie van een eicel en een zaadcel
+
+    –   processen tijdens de zwangerschap, met name:
+
+        -   bevruchting in de eileider
+
+        -   delingen in de eileider
+
+        -   innesteling in baarmoederslijmvlies
+
+        -   ontwikkeling embryo/foetus
+
+    –   ligging en functies van vruchtvliezen, vruchtwater, navelstreng en placenta
+        (moederkoek)
+
+    –   het verloop van zwangerschap en geboorte met indalen, ontsluiting met weeën,
+        uitdrijving met persweeën en nageboorte
+
+    –   vormen en functie van prenataal onderzoek met name echoscopie, vruchtwaterpunctie
+        en vlokkentest
+
+4   beschrijven hoe de voortplanting van mensen verloopt:                                                     x    x
+
+    –   primaire en secundaire geslachtskenmerken bij de vrouw en de man
+
+
+BI/K/12 Van generatie op generatie                                                                    Pagina 24 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+    –   verloop van de menstruatiecyclus, met name:
+
+        -   ontwikkeling van eicel in eierstok
+
+        -   ovulatie
+
+        -   opbouw baarmoederslijmvlies
+
+        -   menstruatie (verval baarmoederslijmvlies)
+
+    –   bouw en functie van een eicel en een zaadcel
+
+    –   processen tijdens de zwangerschap, met name:
+
+        -   bevruchting in de eileider
+
+        -   delingen in de eileider
+
+        -   innesteling in baarmoederslijmvlies
+
+        -   ontwikkeling embryo/foetus
+
+    –   ligging en functies van vruchtvliezen, vruchtwater, navelstreng en placenta
+        (moederkoek)
+
+    –   het verloop van zwangerschap en geboorte met indalen, ontsluiting met weeën,
+        uitdrijving met persweeën en nageboorte
+
+    –   eeneiige tweelingen, twee-eiige tweelingen
+
+    –   vormen en functie van prenataal onderzoek met name echoscopie, vruchtwaterpunctie
+        en vlokkentest
+
+5   de werking van voorbehoedmiddelen beschrijven:                                                  x    x    x
+
+    –   condoom, spiraaltje, sterilisatie, pessarium, invloed van de "pil" als ovulatieremmer
+
+6   stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen:              x
+
+    –   ontkieming, groei en bloei
+
+    –   bestuiving en bevruchting
+
+    –   ontwikkeling van een kiempje uit een bevruchte eicel en een vrucht met zaden uit een
+        vruchtbeginsel
+
+6   stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen,                   x    x
+    inclusief aspecten van het overwinteren van een plant:
+
+    –   ontkieming, groei en bloei
+
+    –   bestuiving en bevruchting
+
+    –   ontwikkeling van een kiempje uit een bevruchte eicel, een zaad uit een zaadbeginsel en
+        een vrucht met zaden uit een vruchtbeginsel
+
+    –   aspecten van het overwinteren van een plant:
+
+        -   als zaad
+
+        -   alleen afsterven van de bovengrondse delen
+
+        -   opslag van reservestoffen in de wortels
+
+        -   met blijvende bovengrondse delen met of zonder bladeren
+
+7   aan de hand van voorbeelden geslachtelijke en ongeslachtelijke voortplanting bij                x
+    zaadplanten herkennen
+
+7   aan de hand van voorbeelden geslachtelijke en ongeslachtelijke voortplanting bij                     x    x
+    zaadplanten herkennen en toelichten
+
+
+
+
+BI/K/12 Van generatie op generatie                                                               Pagina 25 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                   BB    KB   GT
+  BI/K/13 ERFELIJKHEID EN EVOLUTIE
+
+19. De kandidaat kan beschrijven hoe erfelijke eigenschappen van generatie op generatie                        x
+    worden doorgegeven en toelichten hoe die erfelijke eigenschappen in de tijd kunnen
+    veranderen.
+
+In dit verband kan de kandidaat
+
+1    enkele situaties noemen waarin het relevant is enige kennis te hebben van de                              x
+     erfelijkheidsleer en situaties noemen waarin het relevant is om genetisch advies in te
+     winnen en in dit verband vormen van prenataal onderzoek beschrijven
+
+2    toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun                      x
+     nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen:
+
+    –   chromosomen bestaan o.a. uit DNA
+
+    –   chromosomen bevatten genen, een gen is een stukje chromosoom dat de informatie
+        voor één erfelijke eigenschap bevat
+
+    –   erfelijke informatie voor kenmerken is in enkelvoud aanwezig in geslachtscellen met een
+        enkelvoudige set chromosomen
+
+    –   overige lichaamscellen met paren chromosomen
+
+    –   overdracht van erfelijke informatie via geslachtscellen
+
+    –   vorming paren chromosomen bij bevruchting
+
+    –   X- en Y-chromosoom als geslachtschromosomen; vrouw XX, man XY
+
+    –   dominant gen, recessief gen, genotype, fenotype, homozygoot, heterozygoot
+
+    –   mutaties
+
+    –   intermediaire erfelijkheid
+
+3    het proces en de betekenis van de gewone celdeling (mitose) en de reductiedeling                          x
+     (meiose) beschrijven:
+
+    –   gevolgen van mitose en meiose voor het aantal chromosomen en de erfelijke informatie
+
+4    conclusies trekken uit gegevens bij monohybride kruisingen over het genotype en fenotype                  x
+     van ouders en/of hun directe nakomelingen:
+
+    –   berekenen van kans op een bepaalde eigenschap (bij een kruising met één eigenschap
+        en met twee generaties)
+
+    –   stamboom
+
+5    toelichten dat onder andere bepaalde stoffen en straling invloed kunnen hebben op de                      x
+     frequentie waarmee mutaties plaatsvinden
+
+6    toelichten dat volgens de evolutietheorie in de loop van de tijd nieuwe rassen en soorten                 x
+     zijn ontstaan, mede onder invloed van mutatie en selectie:
+
+    –   natuurlijke en kunstmatige selectie
+
+    –   stambomen
+
+
+
+
+BI/K/13 Erfelijkheid en evolutie                                                                  Pagina 26 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                              BB    KB    GT
+  BI/V/1 BESCHERMING EN ANTISTOFFEN
+
+20. De kandidaat kan de manier waarop het lichaam zich beschermt tegen antigenen door                       x
+     middel van antistoffen beschrijven en toelichten hoe deze bescherming kunstmatig kan
+     worden verhoogd.
+
+In dit verband kan de kandidaat
+
+1   antigenen onderscheiden die de vorming van antistoffen tot gevolg hebben:                               x
+
+    –   virussen
+
+    –   bacteriën
+
+    –   schimmels
+
+    –   lichaamsvreemde cellen en stoffen
+
+    –   bloedgroepantigenen (ABO-systeem en resus)
+
+2   de aanwezigheid van antistoffen in verband brengen met een besmetting van mens of                       x
+    (landbouwhuis)dier
+
+3   antistoffen als diagnostisch middel toepassen bij een op schrift aangeboden biologische                 x
+    probleemstelling en hierbij relevante gegevens verwerken en presenteren:
+
+    –   bloedgroepbepaling en bloedtransfusie (ABO-systeem en resus)
+
+    –   verwantschapsstudies
+
+    –   identificatie en karakterisering van onbekende antigenen
+
+4   aangeven hoe de bescherming van het lichaam kunstmatig kan worden verhoogd:                             x
+
+    –   actieve en passieve immunisatie
+
+    –   toepassing van vaccins en sera bij mensen en (landbouwhuis)dieren
+
+    –   gebruik van antibiotica
+
+    aangeven hoe de bescherming van het lichaam op natuurlijke wijze wordt verhoogd:
+
+    –   besmetting met een ziekteverwekker
+
+    –   moedermelk
+
+5   binnen de context van bescherming en antistoffen uitleg geven bij allergieën,                           x
+    transplantaties en auto-immuunziekten
+
+
+
+
+BI/V/1 Bescherming en antistoffen                                                             Pagina 27 van 29
+BIOLOGIE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                                                                                                BB    KB    GT
+ BI/V/2 GEDRAG BIJ MENS EN DIER
+
+21. De kandidaat kan gedrag van mens en dier op een gestandaardiseerde wijze                                  x
+    beschrijven en dat beschreven gedrag verklaren.
+
+In dit verband kan de kandidaat
+
+1   aangeboden problemen oplossen binnen de context van gedrag, gebruikmakend van                             x
+    biologische begrippen:
+
+    –   begrippen:
+
+        -   uitwendige prikkel zoals temperatuur, licht geluid
+
+        -   inwendige prikkel zoals hormonen, honger, dorst
+
+        -   sleutelprikkel
+
+        -   supranormale prikkel
+
+        -   respons
+
+    –   contexten:
+
+        -   consumentengedrag
+
+        -   (verantwoorde) behuizing voor (landbouw)huisdieren
+
+2   ethogrammen en protocollen van gedrag van dieren of mensen maken en/of                                    x
+    interpreteren, gebruikmakend van:
+
+    –   veldwaarnemingen
+
+    –   practicum
+
+    –   visueel materiaal
+
+3   aan de hand van concrete voorbeelden verschillende vormen van leren, sociaal gedrag                       x
+    en communicatie noemen en de functie(s) daarvan aangeven
+
+4   in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en                         x
+    communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij:
+
+    –   inprenten, trial & error, conditionering
+
+    –   erfelijk / aangeleerd gedrag
+
+    –   dreig- en imponeergedrag
+
+    –   taakverdeling binnen groepen
+
+    –   balts, paringsgedrag, broedzorg
+
+    –   territoriumgedrag
+
+    –   rolpatronen, normen en waarden
+
+    –   rangorde
+
+    –   voedingsgedrag
+
+    –   verzorgingsgedrag
+
+5   een standpunt over de vergelijking van het gedrag van mensen en dieren bediscussiëren                     x
+    en beargumenteren
+
+
+
+                                                                                                BB    KB    GT
+ BI/V/4 VAARDIGHEDEN IN SAMENHANG
+
+23. De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.                                x
+
+
+
+
+BI/V/2 Gedrag bij mens en dier en BI/V/4 Vaardigheden in samenhang                              Pagina 28 van 29
+

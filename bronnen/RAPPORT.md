@@ -12,12 +12,19 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 | Wiskunde A vwo | 16 | 2018–2026 | 343 | 79 | 26 |
 | Wiskunde B vwo | 16 | 2018–2026 | 268 | 76 | 2 |
 | Wiskunde C vwo | 16 | 2018–2026 | 364 | 76 | 67 |
-| scheikunde-vwo | 16 | 2018–2026 | 405 | 65 | 405 |
 | biologie-havo | 16 | 2018–2026 | 723 | 73 | 723 |
-| natuurkunde-havo | 16 | 2018–2026 | 414 | 76 | 414 |
+| biologie-vmbo-bb | 6 | 2018–2024 | 227 | 42 | 227 |
 | natuurkunde-vwo | 16 | 2018–2026 | 405 | 75 | 405 |
+| natuur-scheikunde-i-vmbo-kb | 6 | 2018–2024 | 231 | 66 | 231 |
+| natuurkunde-havo | 16 | 2018–2026 | 414 | 76 | 414 |
+| natuur-scheikunde-i-vmbo-bb | 4 | 2018–2024 | 134 | 48 | 134 |
 | scheikunde-havo | 16 | 2018–2026 | 563 | 77 | 563 |
+| biologie-vmbo-gl-tl | 16 | 2018–2026 | 835 | 63 | 835 |
+| natuur-scheikunde-i-vmbo-gl-tl | 16 | 2018–2026 | 658 | 74 | 658 |
+| scheikunde-vwo | 16 | 2018–2026 | 405 | 65 | 405 |
+| biologie-vmbo-kb | 7 | 2018–2024 | 351 | 58 | 351 |
 | biologie-vwo | 16 | 2018–2026 | 636 | 69 | 636 |
+| natuur-scheikunde-ii-vmbo-gl-tl | 16 | 2018–2026 | 771 | 66 | 771 |
 | Wiskunde A vwo (bezemexamen, oud programma) | 2 | 2018–2018 | 42 | 82 | 4 |
 | Wiskunde B vwo (bezemexamen, oud programma) | 2 | 2018–2018 | 31 | 76 | 0 |
 | Wiskunde C vwo (bezemexamen, oud programma) | 2 | 2018–2018 | 42 | 78 | 5 |
@@ -567,23 +574,6 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 
 </details>
 
-## scheikunde-vwo
-
-16 examens, 405 vragen, 1045 punten.
-
-| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
-|---|---|---|---|---|
-| (geen) | 405 | 16/16 | 1045 | 100% |
-
-<details><summary>Voorbeelden per onderwerp</summary>
-
-**(geen)**
-- 2018-1 vraag 1 (2p, De PEF-fles): Laat dit zien aan de hand van het schema.
-- 2018-1 vraag 2 (3p, De PEF-fles): Bereken de atoomeconomie van de productie van ethanol uit glucose en de atoomeconomie van de productie van HMF uit glucose. Gebruik Binas-tabel 37H of
-- 2018-1 vraag 3 (3p, De PEF-fles): Geef een gedeelte van een molecuul PEF in structuurformule weer. Dit gedeelte moet komen uit het midden van het molecuul en moet bestaan uit twee eenh
-
-</details>
-
 ## biologie-havo
 
 16 examens, 723 vragen, 1164 punten.
@@ -601,20 +591,20 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 
 </details>
 
-## natuurkunde-havo
+## biologie-vmbo-bb
 
-16 examens, 414 vragen, 1216 punten.
+6 examens, 227 vragen, 253 punten.
 
 | Onderwerp | Vragen | In examens | Punten | Aandeel punten |
 |---|---|---|---|---|
-| (geen) | 414 | 16/16 | 1216 | 100% |
+| (geen) | 227 | 6/6 | 253 | 100% |
 
 <details><summary>Voorbeelden per onderwerp</summary>
 
 **(geen)**
-- 2018-1 vraag 1 (3p, Scheepsradar): Bereken de afstand tot het voorwerp.
-- 2018-1 vraag 2 (2p, Scheepsradar): Bereken uit hoeveel golven één puls bestaat.
-- 2018-1 vraag 3 (3p, Scheepsradar): Bereken de minimale afmeting van een voorwerp dat met deze pulsradar waar te nemen is.
+- 2018-1 vraag 1 (1p, Oma op de hometrainer): De hartslag van oma gaat omhoog.  Leg uit waarvoor het nodig is dat de hartslag omhoog gaat tijdens het fietsen.
+- 2018-1 vraag 2 (2p, Oma op de hometrainer): Wat is de maximale hartslag van oma en wat is haar leeftijd?
+- 2018-1 vraag 3 (1p, Oma op de hometrainer): Na ongeveer 360 seconden na het begin van het onderzoek begint oma te zweten.  Welke functie van zweten is in de diagrammen te zien?
 
 </details>
 
@@ -635,6 +625,57 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 
 </details>
 
+## natuur-scheikunde-i-vmbo-kb
+
+6 examens, 231 vragen, 396 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 231 | 6/6 | 396 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (1p, MRI-scanner): Wat is de maximale blootstellingsduur in de MRI-scanner zonder gevaar op gehoorbeschadiging bij een patiënt? Gebruik BINAS.
+- 2018-1 vraag 2 (1p, MRI-scanner): In welke zone van gehoorgevoeligheid ligt het geluid van de MRI- scanner?
+- 2018-1 vraag 3 (3p, Stemvork): Bereken de frequentie van deze stemvork.
+
+</details>
+
+## natuurkunde-havo
+
+16 examens, 414 vragen, 1216 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 414 | 16/16 | 1216 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (3p, Scheepsradar): Bereken de afstand tot het voorwerp.
+- 2018-1 vraag 2 (2p, Scheepsradar): Bereken uit hoeveel golven één puls bestaat.
+- 2018-1 vraag 3 (3p, Scheepsradar): Bereken de minimale afmeting van een voorwerp dat met deze pulsradar waar te nemen is.
+
+</details>
+
+## natuur-scheikunde-i-vmbo-bb
+
+4 examens, 134 vragen, 193 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 134 | 4/4 | 193 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (2p, Geluid in het technieklokaal): Een leerling gebruikt een afkortzaag. De afkortzaag maakt een geluid van 100 dB. Over het geluid van de afkortzaag staan twee zinnen.  Maak elke zin 
+- 2018-1 vraag 2 (1p, Geluid in het technieklokaal): De wanden van het lokaal zijn bekleed met materiaal dat machinegeluid goed absorbeert. Welk materiaal is hiervoor het meest geschikt?
+- 2018-1 vraag 3 (1p, De tram): Als er veel blad op de rails ligt, strooit men zand op de rails. De tram komt hierdoor eerder tot stilstand.  Noteer de naam van de kracht die wordt 
+
+</details>
+
 ## scheikunde-havo
 
 16 examens, 563 vragen, 1231 punten.
@@ -652,6 +693,74 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 
 </details>
 
+## biologie-vmbo-gl-tl
+
+16 examens, 835 vragen, 1002 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 835 | 16/16 | 1002 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (1p, Menstruatie): Veel vrouwen gebruiken tijdens de menstruatie maandverband of tampons om bloed en slijmvlies uit de baarmoeder op te vangen. Een tampon wordt in de va
+- 2018-1 vraag 2 (1p, Menstruatie): Frederike heeft op 20 juni de eerste dag van haar menstruatie. Ze heeft een regelmatige menstruatiecyclus van 28 dagen. Op 9 juli gaat ze twee weken o
+- 2018-1 vraag 3 (2p, Een hartkamer van kunststof): De hartkamer van kunststof moet, net als de echte linkerkamer, bloed kunnen opvangen uit een ander deel van het hart en dit bloed vervolgens een bloed
+
+</details>
+
+## natuur-scheikunde-i-vmbo-gl-tl
+
+16 examens, 658 vragen, 1187 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 658 | 16/16 | 1187 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (1p, Elektrische motor): Carbonfiber heeft een kleinere dichtheid dan staal. Hierdoor is de massa van het frame kleiner.  Noteer nog een materiaaleigenschap van carbonfiber d
+- 2018-1 vraag 2 (3p, Elektrische motor): Het volume van het frame van carbonfiber is 6,0 dm3. De dichtheid van carbonfiber is 1,78 kg/dm3. De massa van een stalen frame is 46,8 kg.  Bereken 
+- 2018-1 vraag 3 (1p, Elektrische motor): Het accupakket van de motor bestaat uit 10 accu’s. Je ziet het vereenvoudigde schakelschema.
+
+</details>
+
+## scheikunde-vwo
+
+16 examens, 405 vragen, 1045 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 405 | 16/16 | 1045 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (2p, De PEF-fles): Laat dit zien aan de hand van het schema.
+- 2018-1 vraag 2 (3p, De PEF-fles): Bereken de atoomeconomie van de productie van ethanol uit glucose en de atoomeconomie van de productie van HMF uit glucose. Gebruik Binas-tabel 37H of
+- 2018-1 vraag 3 (3p, De PEF-fles): Geef een gedeelte van een molecuul PEF in structuurformule weer. Dit gedeelte moet komen uit het midden van het molecuul en moet bestaan uit twee eenh
+
+</details>
+
+## biologie-vmbo-kb
+
+7 examens, 351 vragen, 404 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 351 | 7/7 | 404 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (1p, Eilandjes-transplantatie): De getransplanteerde eilandjes blijven steken in de poortader. Daar produceren ze hormonen, die met het bloed worden meegevoerd. Door welk orgaan stro
+- 2018-1 vraag 2 (1p, Eilandjes-transplantatie): Als het glucosegehalte van het bloed stijgt, maken de eilandjes van Langerhans meer van een bepaald hormoon. Onder invloed van dit hormoon daalt het g
+- 2018-1 vraag 3 (1p, Eilandjes-transplantatie): Noem een orgaan waarin veel glycogeen kan worden opgeslagen.
+
+</details>
+
 ## biologie-vwo
 
 16 examens, 636 vragen, 1097 punten.
@@ -666,6 +775,23 @@ Gemaakt door `bronnen/bouw_databank.py`. Bron: examenblad.nl (© Staat der Neder
 - 2018-1 vraag 1 (2p, Hoogteziekte): Welke verandering in de pO2 of de pCO2 is mogelijk de oorzaak van het zo nu en dan stoppen van de ademhaling op grote hoogte? A een hoge pCO 2 van het
 - 2018-1 vraag 2 (3p, Hoogteziekte): Maak de regelkring af zodat duidelijk wordt hoe deze leidt tot een betere zuurstofopname na een lang verblijf op grote hoogte. Doe het als volgt:  Vu
 - 2018-1 vraag 3 (2p, Hoogteziekte): Welk diagram (in afbeelding 3) laat op een juiste manier zien wat de zuurstofspanning van het aderlijk bloed van deze klimmer zou zijn? A diagram A B 
+
+</details>
+
+## natuur-scheikunde-ii-vmbo-gl-tl
+
+16 examens, 771 vragen, 1048 punten.
+
+| Onderwerp | Vragen | In examens | Punten | Aandeel punten |
+|---|---|---|---|---|
+| (geen) | 771 | 16/16 | 1048 | 100% |
+
+<details><summary>Voorbeelden per onderwerp</summary>
+
+**(geen)**
+- 2018-1 vraag 1 (1p, Brandmelders): Op welk van onderstaande verbrandingsproducten zal de rookmelder reageren? A koolstofdioxide B roet C waterdamp D zwaveldioxide
+- 2018-1 vraag 2 (1p, Brandmelders): Americiumoxide bestaat uit ionen. Wat is de lading van het americiumion in AmO2? A 1+ B 2+ C 3+ D 4+
+- 2018-1 vraag 3 (2p, Brandmelders): De relatieve atoommassa van americium in deze rookmelder is 241.  Bereken hoeveel milligram AmO2 in de rookmelder aanwezig is.
 
 </details>
 

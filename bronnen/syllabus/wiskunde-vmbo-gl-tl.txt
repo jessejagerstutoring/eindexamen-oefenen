@@ -1,0 +1,1735 @@
+WISKUNDE
+VMBO
+
+
+SYLLABUS CENTRAAL
+EXAMEN 2026
+
+
+
+Versie 2, juli 2024
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+
+
+
+                                                                                         Pagina 2 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+      INHOUD
+
+
+VOORWOORD                                                   4
+
+1     SYLLABUS WISKUNDE BB                                  5
+1.1   VERDELING EXAMINERING CE/SE                           5
+1.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE    6
+1.3   TOELICHTING EN VOORBEELDEN                           10
+
+2     SYLLABUS WISKUNDE KB                                 13
+2.1   VERDELING EXAMINERING CE/SE                          13
+2.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE   14
+2.3   TOELICHTING & VOORBEELDEN                            19
+
+3     SYLLABUS WISKUNDE GT                                 23
+3.1   VERDELING EXAMINERING CE/SE                          23
+3.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE   24
+3.3   TOELICHTING & VOORBEELDEN                            30
+
+
+
+
+                                                                Pagina 3 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+(www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+In de syllabi 2026 zijn de wijzigingen ten opzichte van de vorige syllabus voor het examenjaar 2025
+duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn diverse vakken waarbij de syllabus
+2026 geen inhoudelijke veranderingen heeft ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H. (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1     SYLLABUS WISKUNDE BB
+
+1.1   VERDELING EXAMINERING CE/SE
+
+      Tabel:
+      Verdeling van de examenstof wiskunde BB over centraal examen en schoolexamen
+
+
+       Exameneenheden                                         B    CE    moet    mag op
+                                                                         op SE       SE
+
+       WI/K/1         Oriëntatie op leren en werken           X            B
+
+       WI/K/2         Basisvaardigheden                       X            B
+
+       WI/K/3         Leervaardigheden in het vak wiskunde    X     B      B
+
+       WI/K/4         Algebraïsche verbanden                  X     B                B
+
+       WI/K/5         Rekenen, meten en schatten              X     B                B
+
+       WI/K/6         Meetkunde                               X     B                B
+
+       WI/K/7         Informatieverwerking, statistiek        X            B
+
+       WI/K/8         Geïntegreerde wiskundige activiteiten   X            B
+
+
+
+
+                                                                                          Pagina 5 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+       WI/K/3       Leervaardigheden in het vak wiskunde
+
+                    De volgende vaardigheden worden getoetst in relatie tot de eindtermen.
+
+                    De kandidaat kan
+
+                   1 relevante gegevens uit een situatie weergeven in een geschikte wiskundige
+                     representatie (model)
+
+                   2 wiskundige informatie identificeren, beoordelen en gebruiken om een
+                     probleem op te lossen
+
+                   3 zich bedienen van adequate onderzoeks- en redeneerstrategieën
+
+                   4 bij berekeningen een bij de situatie passend rekenmodel kiezen
+
+                   5 efficiënt rekenen en cijfermatige uitkomsten kritisch beoordelen
+
+                   6 op basis van verwerkte informatie verwachtingen uitspreken en conclusies
+                     trekken
+
+                   7 adequate (wiskunde)taal gebruiken als communicatiemiddel
+
+                   8 situaties waarin wiskundige presentaties, redeneringen of berekeningen
+                     voorkomen kritisch beschouwen en beoordelen
+
+                    De kandidaat kan de vaardigheden uit de hierna genoemde exameneenheden in
+                    samenhang toepassen.
+
+
+
+
+                                                                                                 Pagina 6 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/4       Algebraïsche verbanden
+              De variabelen bij algebraïsche verbanden worden met een woord aangeduid.
+
+              De kandidaat kan
+
+             1 lineaire verbanden kennen, herkennen en gebruiken:
+                   - een bijbehorende tabel herkennen, opstellen en gebruiken
+                   - in een gegeven assenstelsel een bijbehorende grafiek tekenen en
+                      interpreteren
+                   - in een gegeven situatie een woordformule opstellen
+                   - in een woordformule een variabele vervangen door een getal en de
+                      waarde van de andere variabele berekenen
+
+             2 tabellen maken, aflezen, vergelijken en interpreteren:
+                  - een tabel maken van het verband tussen variabelen in een gegeven
+                      situatie
+                  - regelmatigheden in een tabel vaststellen
+                  - grootste of kleinste waarde vaststellen in een tabel
+                  - controleren of een gegeven verband bij een gegeven tabel hoort
+                  - bij een gegeven tabel conclusies trekken over de bijbehorende situatie
+                  - bij een gegeven tabel vaststellen welke waarden bij de context zinvol
+                      zijn
+
+             3 grafieken tekenen, aflezen, interpreteren en vergelijken:
+                  - in een gegeven assenstelsel een grafiek tekenen van het verband
+                     tussen variabelen in een gegeven situatie
+                  - bij een gegeven grafiek vaststellen welke waarden van de variabelen bij
+                     de context zinvol zijn
+                  - het verloop van een grafiek of interval beschrijven met de termen
+                     constant, stijgend of dalend
+                  - controleren of een gegeven verband bij een gegeven grafiek hoort
+                  - aflezen welke minima en maxima er op een gegeven interval zijn
+                  - uit het verloop, de vorm en de plaats van punten van een grafiek
+                     conclusies trekken over de bijbehorende situatie
+                  - twee grafieken vergelijken en de verschillen interpreteren
+                  - bij twee grafieken die elkaar snijden de coördinaten van dat snijpunt
+                     vaststellen en het snijpunt interpreteren
+                  - coördinaten van punten van een grafiek aflezen, berekenen of
+                     benaderen
+
+             4 werken met woordformules:
+                 - bij een gegeven woordformule vaststellen, of daarmee in een gegeven
+                    situatie het verband tussen de variabelen beschreven is
+                 - in een gegeven situatie vaststellen welke variabelen met elkaar in
+                    verband staan
+
+             5 rekenen met woordformules:
+                  - in een woordformule de invoervariabele vervangen door een getal en de
+                     waarde van de uitvoervariabele berekenen
+                  - onderzoeken of twee woordformules hetzelfde verband beschrijven
+
+             6 in een gegeven situatie de voorstellingsvormen tabel, grafiek, woordformule of
+               verwoording met elkaar in verband brengen:
+                   - bij twee verschillende voorstellingsvormen vaststellen of zij hetzelfde
+                     verband beschrijven
+                   - vaststellen of bepaalde waarden van variabelen zinvol zijn voor de
+                     gegeven situatie
+                   - vaststellen of bepaalde waarden in een voorstellingsvorm zinvol blijven
+                     in een andere
+
+                                                                                          Pagina 7 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                    -   vaststellen in welk opzicht een verandering in één voorstellingsvorm
+                        invloed heeft op een andere
+
+ WI/K/5       Rekenen, meten en schatten
+
+              De kandidaat kan
+
+              1     handig rekenen in alledaagse situaties:
+                    - schattingen maken over afmetingen en hoeveelheden
+                    - rekenen met gangbare maten voor lengte, oppervlakte, inhoud,
+                       gewicht, tijd, temperatuur, geld en snelheid
+                    - bij het rekenen en vermelden van resultaten gebruik maken van
+                       gangbare begrippen en voorvoegsels zoals miljoen, miljard en milli-,
+                       centi-, kilo-
+                    - het resultaat van een berekening afronden in overeenstemming met de
+                       gegeven situatie
+                    - bij het oplossen van problemen, enkelvoudige en eenvoudig
+                       samengestelde grootheden herkennen en gebruiken, in elk geval
+                       grootheden die te maken hebben met lengte, oppervlakte, inhoud,
+                       gewicht, tijd, temperatuur, geld en snelheid
+
+              2     een rekenmachine gebruiken:
+                    - met een rekenmachine optellen, aftrekken, vermenigvuldigen en delen
+                    - met een rekenmachine breuken, procenten, machten en wortels
+                       berekenen of benaderen als eindige decimale getallen
+
+              3     meten en schatten:
+                    - gangbare maten en referentiematen hanteren
+                    - vooraf uitkomsten schatten van berekeningen en meetresultaten
+                    - schalen aflezen
+                    - uitspraken doen over de orde van grootte en de nauwkeurigheid
+
+              4     basistechnieken gebruiken:
+                    - in betekenisvolle situaties gelijknamige breuken optellen en aftrekken
+                    - in betekenisvolle situaties eenvoudige breuken vermenigvuldigen met
+                       een geheel getal
+                    - verhoudingen vergelijken
+                    - een verhouding omzetten in een breuk, decimaal getal of percentage
+                    - bij berekeningen een verhoudingstabel gebruiken
+                    - in betekenisvolle situaties negatieve getallen ordenen, optellen en
+                       aftrekken
+                    - hoofdbewerkingen in de afgesproken volgorde toepassen
+
+
+
+
+                                                                                               Pagina 8 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/6       Meetkunde
+
+              De kandidaat kan
+
+             1      voorstellingen van objecten en van hun plaats in de ruimte of het platte
+                    vlak maken en interpreteren:
+                    - vlakke tekeningen van ruimtelijke situaties interpreteren en bewerken,
+                       zoals foto’s, plattegronden, patroontekeningen, landkaarten,
+                       bouwtekeningen. Daarbij kan de kandidaat onder andere gebruik
+                       maken van kijklijnen, aanzichten, uitslagen, doorsneden, projecties,
+                       plattegronden
+                    - situaties beschrijven:
+                       - met woorden
+                       - door middel van figuren waaronder driehoek, parallellogram,
+                          vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide,
+                          cilinder, kegel en bol
+                       - met coördinaten; alleen in het platte vlak
+                       - met behulp van richting of hoek en afstand
+                    - ruimtelijke voorstellingen, al dan niet op schaal, weergeven al dan niet
+                       met concreet materiaal
+                    - uit de hierboven genoemde voorstellingen en beschrijvingen conclusies
+                       trekken over de bijbehorende objecten en hun plaats in de ruimte
+
+              2     schatten, meten en berekenen:
+                    - schattingen en metingen doen van hoeken, lengten en oppervlakten
+                       van objecten in de ruimte
+                    - lengten in vlakke en ruimtelijke figuren berekenen met behulp van
+                       schaal
+                    - oppervlakte en omtrek berekenen van driehoek, rechthoek en figuren
+                       die daaruit samengesteld zijn, zoals een parallellogram
+                    - omtrek en oppervlakte van een cirkel berekenen met behulp van
+                       gegeven woordformules
+                    - inhoud van kubus en balk berekenen
+                    - inhoud van ruimtelijke figuren berekenen met behulp van gegeven,
+                       simpele, woordformules
+
+              3     redeneren en tekenen:
+                    - bij redeneren, tekenen en berekenen van hoeken, afstanden en
+                       patronen, gebruik maken van meetkundige begrippen en
+                       eigenschappen, in het bijzonder:
+                       - evenwijdigheid
+                       - gelijke verhoudingen, waaronder rekenen met vergrotingen en
+                          verkleiningen; alleen in het platte vlak
+                       - lijnsymmetrie
+                       - regelmatige patronen
+                       - eigenschappen van hoeken
+                    - gebruik maken van instrumenten en apparaten, in het bijzonder: liniaal,
+                       gradenboog, rechthoekige driehoek, passer, zelfgemaakt gereedschap,
+                       rekenmachine en computer
+
+
+
+
+                                                                                             Pagina 9 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1.3   TOELICHTING EN VOORBEELDEN
+
+       Toelichting      2     Een voorbeeld van ‘wiskundige informatie identificeren’ wordt gevormd
+       bij                    door de volgende vraag:
+       WI/K/3                 Sinds 1980 is de gemiddelde lengte van 20-jarige meisjes met 2,3 cm
+                              toegenomen tot 170,6 cm. Wat was de gemiddelde lengte van 20-jarige
+                              meisjes in 1980?
+                              Het juist interpreteren van deze vraag levert een vertaling op naar de
+                              berekening 170,6 – 2,3 = 168,3
+
+                        5     Bij efficiënt rekenen hoort het kunnen maken van de keuze tussen
+                              hoofdrekenen, een rekenmachine gebruiken, schattend rekenen of
+                              cijferen.
+                              ‘Cijfermatige uitkomsten kritisch beoordelen’ omvat het beoordelen of de
+                              uitkomst binnen de gegeven situatie mogelijk is.
+       Toelichting      1     Lineaire verbanden, hun tabellen, woordformules en grafieken, horen tot
+       bij                    de standaardkennis van de kandidaat. Kandidaten kennen ook de naam
+       WI/K/4                 lineair verband.
+                              Bij de eindtermen 2 t/m 6 zijn de onderdelen opgenomen die
+                              onafhankelijk van het type verband getoetst kunnen worden. De
+                              complexiteit van de opgave wordt aangepast aan het niveau dat past bij
+                              de basisberoepsgerichte leerweg. Zo kan een woordformule bij een
+                              kwadratisch verband geformuleerd worden als:
+                              oppervlakte = zijde × zijde
+
+                        2     Het maken van een tabel van het verband tussen variabelen in een
+                              gegeven situatie omvat ook het uitbreiden van een gegeven tabel.
+                              ‘Regelmatigheden in een tabel vaststellen’ kan naar keuze van de
+                              kandidaat gebeuren door middel van een beschrijving in woorden,
+                              met behulp van een grafiek, of door een woordformule of vuistregel. De
+                              regelmatigheden kunnen betrekking hebben op een regelmatig verloop in
+                              de uitkomsten, of op een regelmaat in de manier waarop de uitkomsten
+                              berekend worden. Zo kan een leerling bijvoorbeeld aan de hand van de
+                              volgende tabel:
+
+                                 rijnummer            1      2       3      4       ....... 10
+                                                                                    .
+                                  aantal zitplaatsen   18      21    24     27      ....... 45
+                                                                                    .
+                              beschrijven dat als het nummer van de rij met één toeneemt, het aantal
+                              zitplaatsen in de rij met drie toeneemt. Maar ook dat als het nummer van
+                              de rij bijvoorbeeld vijfmaal zo groot wordt, het aantal zitplaatsen niet
+                              eveneens vijfmaal zo groot wordt.
+
+                        3     ‘Coördinaten van punten van een grafiek berekenen’ kan met behulp van
+                              de gegeven schaal op de assen van het coördinatenstelsel of door het
+                              gebruiken van de gegeven woordformule of tabel.
+
+                        5     Het gebruik van de termen ‘invoervariabele’ en ‘uitvoervariabele’ is
+                              afgeleid van de ‘machientjestaal’ die in veel methodes gebruikelijk is.
+                              Kandidaten kunnen bij woordformules van lineaire verbanden zowel
+                              uitgaan van de invoervariabele als van de uitvoervariabele om de
+                              ontbrekende variabele te berekenen. Bij de overige verbanden is hierin
+                              een beperking aangebracht.
+
+                        6     Twee woordformules die hetzelfde verband beschrijven zijn:
+                              totale prijs = aantal personen × prijskoffie + aantal personen × prijsgebak
+                              totale prijs = aantal personen × (prijskoffie + prijsgebak)
+                              ‘Vaststellen of bepaalde waarden van variabelen zinvol zijn voor de
+                              gegeven situatie’ heeft betrekking op de begrippen ‘domein’ en ‘bereik’.
+                                                                                                     Pagina 10 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                        Deze begrippen worden in de taal van de context omschreven.
+                        Voorbeeld:
+                        de volgende vuistregel geeft aan hoeveel bloed iemand ongeveer
+                        heeft
+                                                1
+                        hoeveelheid bloed = 13 × gewicht (hoeveelheid bloed in liters en
+                        gewicht in kg)
+                        Geef een voorbeeld van iemand voor wie de vuistregel waarschijnlijk
+                        niet klopt.
+
+                        N.B. De begrippen domein en bereik hoeven niet gekend te worden.
+ Toelichting      1     Kandidaten kunnen een afronding kiezen die bij de situatie past.
+ bij                    Bijvoorbeeld: Volgens de berekening zijn 15,4 blikken verf nodig,
+ WI/K/5                 het antwoord op de vraag: “Hoeveel blikken verf koopt hij?” zal
+                        dan 16 zijn. Ook zijn er allerlei artikelen die je niet in elke maat
+                        kunt kopen, bijvoorbeeld behang per rol, sierband per meter,
+                        gordijnstof per 10 cm, 25 cm, … Zonodig wordt informatie in de
+                        opgave vermeld.
+                        Ook het kiezen van een bij de situatie passende maateenheid valt
+                        hieronder.
+                        Uit de context en de vraagstelling moeten kandidaten in principe
+                        kunnen afleiden met welke nauwkeurigheid ze uitkomsten moeten
+                        geven.
+                        Kandidaten moeten weten dat voortijdig afronden (of afkappen)
+                        ongewenste gevolgen kan hebben voor een gewenste nauwkeurigheid.
+
+                  3     Kandidaten beschikken over twee soorten referentiekaders.
+                        Enerzijds is er de algemene kennis, zoals: Nederland heeft 17 miljoen
+                        inwoners, een volwassene is circa 1,80 m lang, 1 hectare is de
+                        oppervlakte van een veld van 100 bij 100 m.
+                        Anderzijds is er een subjectieve maatkennis. Hiermee wordt bedoeld dat
+                        iemand zich bij allerlei grootheden iets kan voorstellen. Behalve de hier
+                        genoemde referentiematen kunnen ook andere referentiematen ter
+                        sprake komen voor zover die duidelijk passen in de algemene kennis van
+                        kandidaten.
+
+                  4     Met betrekking tot de volgorde van rekenkundige bewerkingen worden
+                        de volgende regels gehanteerd.
+                        Machtsverheffen gaat voor. Vervolgens worden vermenigvuldigen en
+                        delen uitgevoerd in de volgorde waarin ze vermeld staan (van links naar
+                        rechts gelezen). Tenslotte worden optellen en aftrekken uitgevoerd in de
+                        volgorde waarin ze in de rekenkundige vorm vermeld staan (van links
+                        naar rechts gelezen).
+                        In geval van mogelijk misverstand, worden de horizontale
+                        breukstreep en/of haakjes gebruikt.
+ Toelichting      1     Bij ‘landkaarten’ moet ook gedacht worden aan het interpreteren van
+ bij                    hoogtelijnkaarten. De kandidaat moet bijvoorbeeld kunnen aangeven wat
+ WI/K/6                 de aanduiding -7 bij een hoogtelijn op de kaart betekent of aan de hand
+                        van een wandeling die in een gebied is ingetekend aangeven waar de
+                        hellingen het steilst zijn. Bij het gebruik van kaarten kan het begrip
+                        koershoek voorkomen. Deze wordt gemeten vanaf de windrichting noord
+                        (0 º) en met de klokrichting mee.
+                        Op het centraal examen zijn de mogelijkheden tot het gebruik van
+                        concreet materiaal heel beperkt. Er wordt gebruik gemaakt van
+                        tekeningen en foto’s en eventueel ook van video en geluidsmateriaal.
+
+                  2.    Formules die de leerling niet uit het hoofd hoeft te kennen worden bij de
+                        betreffende opgave vermeld. Bijvoorbeeld (2009-1): De oppervlakte van
+                        dit tafelblad is met de volgende woordformule te berekenen:
+
+                                                                                            Pagina 11 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                        Oppervlakte = 3,14 x straal x straal
+
+                  3     Een voorbeeld van een simpele formule voor het berekenen van de
+                        hoeveelheid kaarsvet, nodig voor kaarsen met een vaste diameter en
+                        variabele hoogte is:
+                        inhoud = 50 × hoogte (met inhoud in cm3 en hoogte in cm)
+
+                        N.B. De factor 50 staat dan voor de oppervlakte van het grondvlak.
+
+                  4     Onder eigenschappen van hoeken vallen de stelling over de som van de
+                        hoeken in een driehoek en de eigenschappen van hoeken bij evenwijdige
+                        lijnen die door andere lijnen worden gesneden.
+                        Bij symmetrie zijn onder andere van belang de middelloodlijn van een
+                        lijnstuk en de deellijn van een hoek.
+                        De leerlingen hoeven de begrippen middelloodlijn en deellijn van een
+                        hoek niet te kennen.
+
+
+
+
+                                                                                             Pagina 12 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+2     SYLLABUS WISKUNDE KB
+
+2.1   VERDELING EXAMINERING CE/SE
+
+      Tabel:
+      Verdeling van de examenstof wiskunde KB over centraal examen en schoolexamen
+
+
+       Exameneenheden                                        K   CE    moet    mag op
+                                                                       op SE         SE
+
+       WI/K/1       Oriëntatie op leren en werken            X           K
+
+       WI/K/2       Basisvaardigheden                        X           K
+
+       WI/K/3       Leervaardigheden in het vak wiskunde     X    K      K
+
+       WI/K/4       Algebraïsche verbanden                   X    K                  K
+
+       WI/K/5       Rekenen, meten en schatten               X    K                  K
+
+       WI/K/6       Meetkunde                                X    K                  K
+
+       WI/K/7       Informatieverwerking, statistiek         X           K
+
+       WI/K/8       Geïntegreerde wiskundige activiteiten    X           K
+
+
+
+
+                                                                                          Pagina 13 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+2.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+       WI/K/3       Leervaardigheden in het vak wiskunde
+
+                    De volgende vaardigheden worden getoetst in relatie tot de eindtermen.
+
+                    De kandidaat kan
+
+                    1     relevante gegevens uit een situatie weergeven in een geschikte wiskundige
+                          representatie (model)
+
+                    2     wiskundige informatie identificeren, beoordelen en gebruiken om een
+                          probleem op te lossen
+
+                    3     zich bedienen van adequate onderzoeks- en redeneerstrategieën
+
+                    4     bij berekeningen een bij de situatie passend rekenmodel kiezen
+
+                    5     efficiënt rekenen en cijfermatige uitkomsten kritisch beoordelen
+
+                    6     op basis van verwerkte informatie verwachtingen uitspreken en conclusies
+                          trekken
+
+                    7     adequate (wiskunde)taal gebruiken als communicatiemiddel
+
+                    8     situaties waarin wiskundige presentaties, redeneringen of berekeningen
+                          voorkomen kritisch beschouwen en beoordelen
+
+                    De kandidaat kan de vaardigheden uit de hierna genoemde exameneenheden in
+                    samenhang toepassen.
+
+
+
+
+                                                                                                   Pagina 14 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/4       Algebraïsche verbanden
+
+              De variabelen bij algebraïsche verbanden kunnen met een woord of met één of
+              meer letters worden aangeduid.
+
+              De kandidaat kan
+
+              1     de volgende verbanden kennen, herkennen en gebruiken:
+                    - lineair verband en de algebraïsche weergave voor de horizontale
+                       lijn y = a en de verticale lijn x = a
+                       - een bijbehorende tabel herkennen, opstellen en interpreteren
+                       - regelmatigheden in een bijbehorende tabel vaststellen en
+                           beschrijven met een (woord)formule
+                       - een bijbehorende grafiek tekenen en interpreteren
+                       - bij een gegeven (woord)formule vaststellen of hiermee een
+                           lineair verband tussen de variabelen beschreven is
+                       - in een gegeven situatie een (woord)formule opstellen
+                       - in een (woord)formule een variabele vervangen door een
+                           getal en de waarde van de andere variabele berekenen
+                    - exponentiële verbanden herkennen en gebruiken:
+                       - een bijbehorende tabel opstellen en interpreteren
+                       - regelmatigheden in een bijbehorende tabel vaststellen en
+                           beschrijven in woorden
+                       - een bijbehorende grafiek tekenen en interpreteren
+                       - termen als groeifactor, respectievelijk beginwaarde hanteren
+                    - wortelverbanden herkennen en gebruiken:
+
+                        -   een formule van de vorm y =     x herkennen en gebruiken
+                        - een bijbehorende tabel opstellen en interpreteren
+                        - een bijbehorende grafiek tekenen en interpreteren
+                    -   eenvoudige machtsverbanden met exponent 2 of 3 herkennen
+                        en gebruiken:
+                        - een bijbehorende tabel opstellen
+                        - in een gegeven assenstelsel een bijbehorende grafiek tekenen
+                           en interpreteren
+                                                     a
+                    -   verbanden van de vorm y =      herkennen en gebruiken
+                                                     x
+                        -  een bijbehorende tabel opstellen
+                        -  in een gegeven assenstelsel een bijbehorende grafiek tekenen
+                           en interpreteren
+                    -   periodieke verbanden herkennen en beschrijven in termen als
+                        “een regelmatig terugkerende gebeurtenis”
+
+              2     tabellen maken, aflezen, vergelijken en interpreteren:
+                    - een tabel maken van het verband tussen variabelen in een
+                       gegeven situatie
+                    - regelmatigheden in een tabel vaststellen en beschrijven
+                    - grootste of kleinste waarde vaststellen in een tabel
+                    - controleren of een gegeven verband bij een gegeven tabel hoort
+                    - bij een gegeven tabel conclusies trekken over de bijbehorende
+                       situatie
+                    - bij een gegeven tabel vaststellen welke waarden bij de context
+                       zinvol zijn
+                    - bij een gegeven tabel beschrijven of het globale verloop van het
+                       bijbehorende verband stijgt, daalt, dan wel periodiek lijkt te zijn
+                    - het globale verloop van een verband uit een bijbehorende tabel
+                       beschrijven
+
+
+
+                                                                                             Pagina 15 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                    -   twee verbanden met behulp van de bijbehorende tabellen
+                        vergelijken en bepalen of benaderen waar de variabelen een gelijke
+                        waarde hebben
+
+              3     grafieken tekenen, aflezen, interpreteren en vergelijken:
+                    - een grafiek tekenen van het verband tussen variabelen in een gegeven
+                       situatie
+                    - bij een gegeven grafiek vaststellen welke waarden van de variabelen bij
+                       de context zinvol zijn
+                    - het verloop van een grafiek of interval beschrijven met de termen
+                       constant, stijgend, dalend of periodiek
+                    - controleren of een gegeven verband bij een gegeven grafiek hoort
+                    - aflezen welke minima en maxima er op een gegeven interval zijn
+                    - uit het verloop, de vorm en de plaats van punten van een grafiek
+                       conclusies trekken over de bijbehorende situatie
+                    - twee grafieken vergelijken en de verschillen interpreteren
+                    - bij twee grafieken die elkaar snijden de coördinaten van dat snijpunt
+                       aflezen, benaderen of berekenen en het snijpunt interpreteren
+                    - coördinaten van punten van een grafiek aflezen, berekenen of
+                       benaderen
+                    - een grafiek tekenen en analyseren; in het bijzonder hierbij een
+                       passende schaalverdeling kiezen en coördinaten van punten bepalen
+                    - vaststellen hoe een verandering in de situatie doorwerkt in de grafiek,
+                       gewoonlijk in samenhang met tabel en/ of (woord)formule
+
+              4     werken met (woord)formules:
+                    - bij een gegeven (woord)formule vaststellen, of daarmee in een gegeven
+                      situatie het verband tussen de variabelen beschreven is
+                    - in een gegeven situatie vaststellen welke variabelen met elkaar in
+                      verband staan
+                    - bij een verandering in een variabele het effect aangeven op de andere
+                      variabele
+                    - bij twee functionele verbanden aangeven, eventueel in benadering,
+                      waar functiewaarden gelijk zijn en op welke intervallen de ene groter is
+                      dan de andere
+                    - vaststellen hoe een verandering in de situatie doorwerkt in de formule
+                      en omgekeerd
+                    - uit een formule conclusies trekken over de bijbehorende situatie
+
+              5     rekenen met (woord)formules:
+                    - in een (woord)formule een variabele vervangen door een getal en de
+                       waarde van de andere variabele berekenen
+                    - onderzoeken of twee (woord)formules hetzelfde verband beschrijven
+                    - woordformules omzetten in formules waarin variabelen door één letter
+                       worden weergegeven
+                    - een (woord)formule vervangen door een gelijkwaardige (woord)formule
+                    - een schakeling van elementaire rekenacties omzetten in een
+                       (woord)formule en omgekeerd
+
+              6     in een gegeven situatie de voorstellingsvormen tabel, grafiek,
+                    (woord)formule of verwoording met elkaar in verband brengen:
+                    - bij twee verschillende voorstellingsvormen vaststellen of zij hetzelfde
+                        verband beschrijven
+                    - een voorstellingsvorm vervangen door een andere voorstellingsvorm die
+                        hetzelfde verband beschrijft
+                    - formuleringen bij de ene voorstellingsvorm vervangen door
+                        formuleringen bij een andere voorstellingsvorm
+                    - vaststellen of bepaalde waarden van variabelen zinvol zijn voor de
+                        gegeven situatie
+
+                                                                                             Pagina 16 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                    -   vaststellen of bepaalde waarden in een voorstellingsvorm zinvol blijven
+                        in een andere
+                    -   vaststellen in welk opzicht een verandering in één voorstellingsvorm
+                        invloed heeft op een andere
+                    -   bij twee functionele verbanden hun som en hun verschil beschrijven
+                        met één of meer voorstellingsvormen, mits dat in de gegeven situatie
+                        zinvol is
+                    -   als bij een functioneel verband een uitgangsvariabele gegeven is, de
+                        bijbehorende ingangsvariabele vinden of berekenen
+
+ WI/K/5       Rekenen, meten en schatten
+
+              De kandidaat kan
+
+              1     handig rekenen in alledaagse situaties:
+                    - schattingen maken over afmetingen en hoeveelheden
+                    - rekenen met gangbare maten voor lengte, oppervlakte, inhoud,
+                       gewicht, tijd, temperatuur, geld en snelheid
+                    - bij het rekenen en vermelden van resultaten gebruik maken van
+                       gangbare begrippen en voorvoegsels zoals miljoen, miljard en milli-,
+                       centi-, kilo-
+                    - het resultaat van een berekening afronden in overeenstemming met de
+                       gegeven situatie
+                    - bij het oplossen van problemen, enkelvoudige en eenvoudig
+                       samengestelde grootheden herkennen en gebruiken, in elk geval
+                       grootheden die te maken hebben met lengte, oppervlakte, inhoud,
+                       gewicht, tijd, temperatuur, geld en snelheid
+
+              2     een rekenmachine gebruiken:
+                    - met een rekenmachine optellen, aftrekken, vermenigvuldigen en delen
+                    - met een rekenmachine breuken, procenten, machten en wortels
+                       berekenen of benaderen als eindige decimale getallen
+                    - gebruik maken van de functietoetsen voor omgekeerde, kwadraat,
+                       wortel, yx en van de +/- toets
+
+              3     meten en schatten:
+                    - gangbare maten en referentiematen hanteren
+                    - vooraf uitkomsten schatten van berekeningen en meetresultaten
+                    - schalen aflezen
+                    - uitspraken doen over de orde van grootte en de nauwkeurigheid
+
+              4     basistechnieken gebruiken:
+                    - in betekenisvolle situaties gelijknamige breuken optellen en aftrekken;
+                       eenvoudige breuken vermenigvuldigen en delen
+                    - in betekenisvolle situaties eenvoudige en samengestelde breuken
+                       vermenigvuldigen met een geheel getal
+                    - verhoudingen vergelijken
+                    - een verhouding omzetten in een breuk, decimaal getal of percentage
+                    - bij berekeningen een verhoudingstabel gebruiken
+                    - in betekenisvolle situaties negatieve getallen ordenen, optellen,
+                       aftrekken, vermenigvuldigen en delen
+                    - hoofdbewerkingen in de afgesproken volgorde toepassen
+                    - bij het berekenen en bij het vermelden van resultaten gebruik maken
+                       van de wetenschappelijke notatie
+
+
+
+
+                                                                                             Pagina 17 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/6       Meetkunde
+
+              De kandidaat kan
+
+              1     voorstellingen van objecten en van hun plaats in de ruimte of het platte
+                    vlak maken en interpreteren:
+                    - vlakke tekeningen van ruimtelijke situaties interpreteren en bewerken,
+                       zoals foto’s, plattegronden, patroontekeningen, landkaarten,
+                       bouwtekeningen. Daarbij kan de kandidaat onder andere gebruik
+                       maken van kijklijnen, aanzichten, uitslagen, doorsneden, projecties,
+                       plattegronden
+                    - situaties beschrijven:
+                       - met woorden
+                       - door middel van figuren waaronder driehoek, parallellogram,
+                          vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide,
+                          cilinder, kegel en bol
+                       - met coördinaten, zowel in het platte vlak als in de ruimte
+                       - met behulp van richting of hoek en afstand
+                    - ruimtelijke voorstellingen, al dan niet op schaal, weergeven al dan niet
+                       met concreet materiaal
+                    - uit de hierboven genoemde voorstellingen en beschrijvingen conclusies
+                       trekken over de bijbehorende objecten en hun plaats in de ruimte
+
+              2     schatten, meten en berekenen:
+                    - schattingen en metingen doen van hoeken, lengten, oppervlakten en
+                       inhouden van objecten in de ruimte
+                    - lengten in vlakke en ruimtelijke figuren berekenen met behulp van
+                       schaal
+                    - oppervlakte en omtrek berekenen van driehoek, rechthoek en figuren
+                       die daaruit samengesteld zijn, zoals een parallellogram
+                    - omtrek en oppervlakte van een cirkel berekenen met behulp van
+                       gegeven (woord)formules
+                    - inhoud van kubus en balk berekenen
+                    - inhoud van prisma, kegel, piramide, bol en cilinder berekenen met
+                       behulp van gegeven (woord)formules
+
+              3     redeneren en tekenen:
+                    - bij redeneren, tekenen en berekenen van hoeken, afstanden en
+                       patronen, gebruik maken van meetkundige begrippen en
+                       eigenschappen, in het bijzonder:
+                       - evenwijdigheid
+                       - gelijke verhoudingen, waaronder rekenen met vergrotingen en
+                          verkleiningen; alleen in het platte vlak
+                       - lijnsymmetrie
+                       - draaisymmetrie
+                       - regelmatige patronen
+                       - eigenschappen van hoeken
+                       - goniometrische verhoudingen sinus, cosinus en tangens, in
+                          rechthoekige driehoeken
+                       - de stelling van Pythagoras
+                    - gebruik maken van instrumenten en apparaten, in het bijzonder: liniaal,
+                       gradenboog, rechthoekige driehoek, passer, zelfgemaakt gereedschap,
+                       rekenmachine en computer
+
+
+
+
+                                                                                            Pagina 18 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+2.3   TOELICHTING & VOORBEELDEN
+
+       Toelichting    2     Een voorbeeld van ‘wiskundige informatie identificeren’ wordt gevormd
+       bij                  door de volgende vraag:
+       WI/K/3               Sinds 1980 is de gemiddelde lengte van 20-jarige meisjes met 2,3 cm
+                            toegenomen tot 170,6 cm. Wat was de gemiddelde lengte van 20-jarige
+                            meisjes in 1980?
+                            Het juist interpreteren van deze vraag levert een vertaling op naar de
+                            berekening 170,6 – 2,3 = 168,3
+
+                      5    Bij efficiënt rekenen hoort het kunnen maken van de keuze tussen
+                           hoofdrekenen, een rekenmachine gebruiken, schattend rekenen of
+                           cijferen.
+                           ‘Cijfermatige uitkomsten kritisch beoordelen’ omvat het beoordelen of de
+                           uitkomst binnen de gegeven situatie mogelijk is.
+       Toelichting    Een formule zal regelmatig de vorm hebben van een woordformule, maar ook
+       bij            formules waarbij de variabele een afkorting is komen voor.
+       WI/K/4         Bijvoorbeeld: hoogte = 2 × tijd – 9 (waarin bijvoorbeeld hoogte de hoogte van
+                      het water in dm is en tijd gemeten is in minuten); of h = 2t – 9 (waarin
+                      bijvoorbeeld h de hoogte van het water in dm is en t de tijd, gemeten in
+                      minuten)
+
+                      1     De onder dit punt genoemde verbanden horen tot de standaardkennis van
+                            de kandidaat. Kandidaten kennen ook de naam van deze verbanden.
+                            Binnen een context moeten kandidaten in een assenstelsel of in een
+                            grafiek vlakdelen zoals x ≤ 2 en y ≥ 5 kunnen aangeven. Zulke vlakdelen
+                            worden gewoonlijk beschreven in de taal van de context.
+                            Bij het beschrijven van regelmatigheden in een tabel bij een exponentieel
+                            verband tussen bijvoorbeeld het aantal bacteriën per gram in voedsel en
+                            de tijd (in uren) zou een leerling kunnen noteren: “Wanneer de tijd met
+                            een uur toeneemt, wordt het aantal bacteriën steeds 2,5 maal zo groot”.
+                            Voor het tekenen van de grafiek van een exponentieel verband zal in het
+                            algemeen een assenstelsel gegeven worden.
+                            Het begrip asymptoot hoeft niet gekend te worden. Kandidaten moeten
+                                                              1500
+                            bijvoorbeeld bij de formule y =        wel kunnen beredeneren dat de ene
+                                                                x
+                            variabele heel dicht in de buurt van 0 komt als de andere variabele heel
+                            erg groot wordt. Dit is dan altijd gebonden aan de gegeven
+                            probleemsituatie.
+
+                      Bij de eindtermen 2 t/m 6 zijn de onderdelen opgenomen die onafhankelijk van
+                      het type verband getoetst kunnen worden. De complexiteit van de opgave wordt
+                      aangepast aan het niveau dat past bij de kaderberoepsgerichte leerweg.
+
+                      2     Het maken van een tabel van het verband tussen variabelen in een
+                            gegeven situatie omvat ook het uitbreiden van een gegeven tabel.
+                            ‘Regelmatigheden in een tabel vaststellen’ kan naar keuze van de
+                            kandidaat gebeuren door middel van een beschrijving in woorden, met
+                            behulp van een grafiek, of door een (woord)formule of vuistregel. De
+                            regelmatigheden kunnen betrekking hebben op een regelmatig verloop in
+                            de uitkomsten, of op een regelmaat in de manier waarop de uitkomsten
+                            berekend worden.
+
+
+
+
+                                                                                                  Pagina 19 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                      Wanneer bijvoorbeeld het verband tussen de prijs in euro van een taxirit en
+                      de gereden afstand in km gegeven is in de volgende tabel:
+                       Afstand     1         2       5         10       20       ...
+                       (in km)
+                       Prijs       9,10      10,20   13,50     19       .....    .....
+                       (in
+                       euro’s)
+
+                      moeten leerlingen kunnen beschrijven dat de voorrijkosten 8 euro zijn, dat
+                      het hier, als de waarden in de tabel op dezelfde manier worden voortgezet,
+                      om een lineair verband gaat, dat de kilometerprijs gelijk is aan 1,10 euro
+                      en dat een bijbehorende formule kan worden geschreven als P = 8 + 1,1 x
+                      a (P in euro en a in km).
+
+                3     Leerlingen zullen regelmatig een al gegeven assenstelsel beschikbaar
+                      hebben. Ze moeten in voorkomende gevallen echter wel in staat zijn om
+                      een geschikte indeling van de coördinaatassen te kiezen.
+                      ‘Coördinaten van punten van een grafiek berekenen’ kan met behulp van
+                      de gegeven schaal op de assen van het coördinatenstelsel of door het
+                      gebruiken van de gegeven (woord)formule of tabel.
+
+                4     ‘Bij een verandering in een variabele het effect aangeven op de andere
+                      variabele’ gebeurt in het bijzonder bij lineaire, evenredige en omgekeerd
+                      evenredige verbanden.
+                      Met het begrip ‘functioneel verband’, kortweg ‘functie’ worden die
+                      verbanden beschreven waarbij bij iedere waarde voor de
+                      invoervariabele hooguit een waarde voor de uitvoervariabele kan
+                      worden gevonden.
+                      De leerlingen hoeven de begrippen functioneel verband en functie
+                      niet te kennen.
+
+                5     Het gebruik van de termen ‘invoervariabele’ en ‘uitvoervariabele’ is
+                      afgeleid van de ‘machientjestaal’ die in veel methodes gebruikelijk
+                      is.
+
+                6     Twee (woord)formules die hetzelfde verband beschrijven zijn bijvoorbeeld:
+                                       1
+                      inhoud kegel =     × opp grondvlak × hoogte
+                                       3
+                                       oppervlakte grondvlak  hoogte
+                      inhoud kegel   =
+                                                      3
+                      ‘Vaststellen of bepaalde waarden van variabelen zinvol zijn voor de
+                      gegeven situatie’ heeft betrekking op de begrippen ‘domein’ en ‘bereik’.
+                      Deze begrippen worden in de taal van de context omschreven. Voorbeeld:
+                      Kleur het deel van de grafiek waarbij de waterstand lager is dan –1 m
+                      NAP.
+                      Geef aan tussen welke tijdstippen dat het geval was.
+                      De leerlingen hoeven de begrippen domein en bereik niet te kennen.
+                      Bestaat het domein bijvoorbeeld uit natuurlijke getallen zodat een
+                      stippengrafiek ontstaat dan mag niet zonder meer een doorgetrokken lijn
+                      worden getekend. In dat geval dienen de kandidaten losse punten te
+                      tekenen of op andere wijze aan te geven wat voor grafiek er bedoeld is,
+                      bijvoorbeeld met duidelijke stippen op een doorgetrokken grafiek of met
+                      woorden.
+
+
+
+
+                                                                                           Pagina 20 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ Toelichting    1     Kandidaten kunnen een afronding kiezen die bij de situatie past.
+ bij                  Bijvoorbeeld: Volgens de berekening zijn 15,4 blikken verf nodig, het
+ WI/K/5               antwoord op de vraag: “Hoeveel blikken verf koopt hij?” zal dan 16 zijn.
+                      Ook zijn er allerlei artikelen die je niet in elke maat kunt kopen,
+                      bijvoorbeeld behang per rol, sierband per meter, gordijnstof per 10 cm,
+                      25 cm. Zonodig wordt informatie in de opgave vermeld.
+                      Ook het kiezen van een bij de situatie passende maateenheid valt
+                      hieronder.
+                      Uit de context en de vraagstelling moeten kandidaten in principe kunnen
+                      afleiden met welke nauwkeurigheid ze uitkomsten moeten geven.
+                      Kandidaten moeten weten dat voortijdig afronden (of afkappen)
+                      ongewenste gevolgen kan hebben voor een gewenste nauwkeurigheid.
+
+                3     Kandidaten beschikken over twee soorten referentiekaders.
+                      Enerzijds is er de algemene kennis, zoals: Nederland heeft 17 miljoen
+                      inwoners, een volwassene is circa 1,80 m lang, 1 hectare is de oppervlakte
+                      van een veld van 100 bij 100 m.
+                      Anderzijds is er een subjectieve maatkennis. Hiermee wordt bedoeld dat
+                      iemand zich bij allerlei grootheden iets kan voorstellen. Behalve de hier
+                      genoemde referentiematen kunnen ook andere referentiematen ter
+                      sprake komen voor zover die duidelijk passen in de algemene kennis van
+                      kandidaten.
+
+                4     Met betrekking tot de volgorde van rekenkundige bewerkingen worden de
+                      volgende regels gehanteerd.
+                      Machtsverheffen gaat voor. Vervolgens worden vermenigvuldigen en
+                      delen uitgevoerd in de volgorde waarin ze vermeld staan (van links naar
+                      rechts gelezen). Tenslotte worden optellen en aftrekken uitgevoerd in de
+                      volgorde waarin ze in de rekenkundige vorm vermeld staan (van links
+                      naar rechts gelezen).
+                      In geval van mogelijk misverstand, worden de horizontale breukstreep
+                      en/of haakjes gebruikt.
+                      ‘In betekenisvolle situaties negatieve getallen vermenigvuldigen en delen’
+                      zal meestal betekenen dat een negatief getal vermenigvuldigd wordt met
+                      of gedeeld wordt door een positief getal.
+
+
+
+
+                                                                                            Pagina 21 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ Toelichting    1     Bij ‘landkaarten’ moet ook gedacht worden aan het interpreteren van
+ bij                  hoogtelijnkaarten. De kandidaat moet bijvoorbeeld aan de hand van een
+ WI/K/6               wandeling die in een gebied is ingetekend aangeven waar de hellingen
+                      het steilst zijn en zelf een route kunnen intekenen die aan bepaalde
+                      voorwaarden voldoet. Ook moet hij in een gegeven context een
+                      hellingshoek kunnen berekenen. Bij het gebruik van kaarten kan het
+                      begrip koershoek voorkomen. Deze wordt gemeten vanaf de windrichting
+                      noord (0 º) en met de klokrichting mee.
+                      Op het centraal examen zijn de mogelijkheden tot het gebruik van
+                      concreet materiaal heel beperkt. Er wordt gebruik gemaakt van
+                      tekeningen en foto’s en eventueel ook van video en geluidsmateriaal.
+                      Bij centrale projectie kunnen de volgende punten aan de orde komen:
+                         –   van eenvoudige objecten kan van een kandidaat gevraagd worden
+                             een begin van een perspectief tekening af te maken of nadere
+                             informatie in de tekening aan te brengen. Hieronder valt ook het
+                             tekenen van schaduwen.
+                         –   het interpreteren van afbeeldingen die een centrale projectie
+                             weergeven. Te denken valt aan: de stand van de zon, tijd van de
+                             dag, plaats van de fotograaf e.d.
+                      Bij parallelprojectie kunnen de volgende punten aan de orde komen:
+                         –   van eenvoudige objecten kan van een kandidaat gevraagd worden
+                             een projectietekening (af) te maken of nadere informatie in de
+                             tekening aan te brengen. Hieronder valt ook het tekenen van
+                             schaduwen.
+                      Tekeningen kunnen ook in andere projectievormen voorkomen
+                      (bijvoorbeeld ingenieursprojectie), maar de kandidaten hoeven dan niet
+                      te weten welke projectie dat is.
+                      De kandidaat hoeft de termen ‘centrale projectie’ en ‘parallelprojectie’
+                      niet te kennen.
+
+                 2   Formules die de leerling niet uit het hoofd hoeft te kennen worden aan
+                     het begin van het examen vermeld. Voorbeelden van formules die aan
+                     het begin van het examen vermeld worden zijn:
+                     omtrek cirkel = π x diameter
+                     oppervlakte cirkel = π x straal 2
+                     inhoud prisma = oppervlakte grondvlak x hoogte
+                     inhoud cilinder = oppervlakte grondvlak x hoogte
+                                      1
+                     inhoud kegel = 3 x oppervlakte grondvlak x hoogte
+                                         1
+                     inhoud piramide = 3 x oppervlakte grondvlak x hoogte
+                                   4
+                     inhoud bol = 3 x π x straal ³
+
+
+                3     De inhoud van andere dan de genoemde ruimtelijke figuren kan ook
+                      gevraagd worden. In dat geval wordt de (woord)formule altijd gegeven.
+                      De complexiteit van de (woord)formule wordt aangepast aan het niveau
+                      van deze leerweg.
+
+                4     Onder eigenschappen van hoeken vallen de stelling over de som van de
+                      hoeken in een driehoek en de eigenschappen van hoeken bij evenwijdige
+                      lijnen die door andere lijnen worden gesneden.
+                      Bij symmetrie zijn onder andere van belang de middelloodlijn van een
+                      lijnstuk en de deellijn van een hoek. De kandidaten kennen met
+                      betrekking tot een driehoek de begrippen ‘middelloodlijn’ van een zijde,
+                      ‘deellijn’ van een hoek, ‘hoogte(lijn)’ en ‘zwaartelijn’.
+
+
+
+                                                                                            Pagina 22 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+3     SYLLABUS WISKUNDE GT
+
+3.1   VERDELING EXAMINERING CE/SE
+
+      Tabel:
+      Verdeling van de examenstof wiskunde GT over centraal examen en schoolexamen
+
+
+       Exameneenheden                                         GT    CE     moet      mag op
+                                                                           op SE      SE
+
+       WI/K/1       Oriëntatie op leren en werken             X             GT
+
+       WI/K/2       Basisvaardigheden                         X             GT
+
+       WI/K/3       Leervaardigheden in het vak wiskunde      X     GT      GT
+
+       WI/K/4       Algebraïsche verbanden                    X     GT                GT
+
+       WI/K/5       Rekenen, meten en schatten                X     GT                GT
+
+       WI/K/6       Meetkunde                                 X     GT                GT
+
+       WI/K/7       Informatieverwerking, statistiek          X             GT
+
+       WI/K/8       Geïntegreerde wiskundige activiteiten     X             GT
+
+       WI/V/1       Aanvullende eisen                         X     GT
+
+       WI/V/2       Verrijkingsopdrachten                     X             GT
+
+       WI/V/3       Verwerven, verwerken en verstrekken van   X             GT
+                    informatie
+
+       WI/V/4       Vaardigheden in samenhang                 X     GT
+
+
+
+
+                                                                                           Pagina 23 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+3.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+       WI/K/3         Vaardigheden in het vak wiskunde
+
+                      De volgende vaardigheden worden getoetst in relatie tot de eindtermen.
+
+                      De kandidaat kan
+
+                      1     relevante gegevens uit een situatie weergeven in een geschikte wiskundige
+                            representatie (model)
+
+                      2     wiskundige informatie identificeren, beoordelen en gebruiken om een
+                            probleem op te lossen
+
+                      3     zich bedienen van adequate onderzoeks- en redeneerstrategieën
+
+                      4     bij berekeningen een bij de situatie passend rekenmodel kiezen
+
+                      5     efficiënt rekenen en cijfermatige uitkomsten kritisch beoordelen
+
+                      6     op basis van verwerkte informatie verwachtingen uitspreken en conclusies
+                            trekken
+
+                      7     adequate (wiskunde)taal gebruiken als communicatiemiddel
+
+                      8     situaties waarin wiskundige presentaties, redeneringen of berekeningen
+                            voorkomen kritisch beschouwen en beoordelen
+
+                      De kandidaat kan de vaardigheden uit de hierna genoemde exameneenheden in
+                      samenhang toepassen.
+
+
+
+
+                                                                                                  Pagina 24 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/4         Algebraïsche verbanden
+ WI/V/1         (de vetgedrukte omschrijvingen behoren bij het verrijkingsdeel)
+
+                De variabelen bij algebraïsche verbanden kunnen met een woord of met één of
+                meer letters worden aangeduid.
+
+                De kandidaat kan
+
+                1     de volgende verbanden kennen, herkennen en gebruiken:
+                      - lineair verband en de algebraïsche weergave voor de horizontale
+                         lijn y = a en de verticale lijn x = a
+                         - een formule van de vorm y = ax + b herkennen, opstellen en
+                             gebruiken
+                         - een bijbehorende tabel herkennen, opstellen en interpreteren
+                         - regelmatigheden in een bijbehorende tabel vaststellen en
+                             beschrijven met een (woord)formule
+                         - een bijbehorende grafiek tekenen en interpreteren
+                         - de parameters a en b herkennen als steilheid, respectievelijk
+                             verticale verschuiving
+                      - exponentiële verbanden herkennen en gebruiken:
+                         - een formule van de vorm y = b gt herkennen en gebruiken
+                         - een bijbehorende tabel herkennen, opstellen en interpreteren
+                         - een bijbehorende grafiek tekenen en interpreteren
+                         - de parameters g en b herkennen als groeifactor,
+                             respectievelijk beginwaarde
+                         - de begrippen verdubbelingstijd en halveringstijd gebruiken
+                         - een rente op rente berekening maken
+                      - wortelverbanden herkennen en gebruiken:
+                         - een formule van de vorm y =         x herkennen en gebruiken
+                         - een bijbehorende tabel opstellen en interpreteren
+                         - een bijbehorende grafiek tekenen en interpreteren
+                      - eenvoudige machtsverbanden met exponent 2 of 3 herkennen en
+                         gebruiken:
+                         - een bijbehorende tabel opstellen en interpreteren
+                         - een bijbehorende grafiek tekenen en interpreteren
+                      - eenvoudige machtsverbanden van de vorm y = a xn waarbij n
+                         een positief en geheel getal is herkennen en gebruiken:
+                         - een bijbehorende tabel opstellen
+                         - som en verschilverbanden interpreteren
+                         - een grafiek van de vorm y = a xn + b tekenen
+                                                         a
+                      - verbanden van de vorm y =           herkennen en gebruiken:
+                                                          x
+                         - een bijbehorende tabel opstellen
+                         - een bijbehorende grafiek tekenen en interpreteren
+                      - periodieke verband herkennen en gebruiken:
+                         - de begrippen amplitude, periode en frequentie herkennen en
+                             gebruiken
+
+                2     tabellen maken, aflezen, vergelijken en interpreteren:
+                      - een tabel maken van het verband tussen variabelen in een gegeven
+                         situatie
+                      - regelmatigheden in een tabel vaststellen en beschrijven
+                      - grootste of kleinste waarde vaststellen in een tabel
+                      - controleren of een gegeven verband bij een gegeven tabel hoort
+                      - bij een gegeven tabel conclusies trekken over de bijbehorende situatie
+                      - bij een gegeven tabel vaststellen welke waarden bij de context zinvol
+                         zijn
+                      - bij een gegeven tabel beschrijven of het globale verloop van het
+                         bijbehorende verband stijgt, daalt, dan wel periodiek lijkt te zijn
+                                                                                          Pagina 25 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                      -   het globale verloop van een verband uit een bijbehorende tabel
+                          beschrijven
+                      -   twee verbanden met behulp van de bijbehorende tabellen vergelijken en
+                          bepalen of benaderen waar de variabelen een gelijke waarde hebben
+
+                3     grafieken tekenen, aflezen, interpreteren en vergelijken:
+                      - een grafiek tekenen van het verband tussen variabelen in een gegeven
+                         situatie
+                      - bij een gegeven grafiek vaststellen welke waarden van de variabelen bij
+                         de context zinvol zijn
+                      - het verloop van een grafiek of interval beschrijven met de termen
+                         constant, stijgend, dalend of periodiek
+                      - controleren of een gegeven verband bij een gegeven grafiek hoort
+                      - aflezen welke minima en maxima er op een gegeven interval zijn
+                      - uit het verloop, de vorm en de plaats van punten van een grafiek
+                         conclusies trekken over de bijbehorende situatie
+                      - twee grafieken vergelijken en de verschillen interpreteren
+                      - bij twee grafieken die elkaar snijden de coördinaten van dat snijpunt
+                         aflezen, benaderen of berekenen en het snijpunt interpreteren
+                      - coördinaten van punten van een grafiek aflezen, berekenen of
+                         benaderen
+                      - een grafiek tekenen en analyseren; in het bijzonder hierbij een
+                         passende schaalverdeling kiezen en coördinaten van punten bepalen
+                      - vaststellen hoe een verandering in de situatie doorwerkt in de grafiek,
+                         gewoonlijk in samenhang met tabel en/ of formule
+
+                4     werken met formules:
+                      - bij een gegeven formule vaststellen, of daarmee in een gegeven situatie
+                        het verband tussen de variabelen beschreven is
+                      - in een gegeven situatie vaststellen welke variabelen met elkaar in
+                        verband staan
+                      - bij een verandering in een variabele het effect aangeven op de andere
+                        variabele
+                      - bij twee functionele verbanden aangeven, eventueel in benadering,
+                        waar functiewaarden gelijk zijn en op welke intervallen de ene groter is
+                        dan de andere
+                      - vaststellen hoe een verandering in de situatie doorwerkt in de formule
+                        en omgekeerd
+                      - uit een formule conclusies trekken over de bijbehorende situatie
+
+                5     rekenen met formules:
+                      - in een formule een variabele vervangen door een getal en de waarde
+                         van de andere variabele berekenen
+                      - in een formule of vuistregel een variabele vervangen door een
+                         expressie
+                      - in een formule of vuistregel een expressie vervangen door een
+                         variabele
+                      - onderzoeken of twee formules hetzelfde verband beschrijven
+                      - woordformules omzetten in formules waarin variabelen door één letter
+                         worden weergegeven
+                      - een formule vervangen door een gelijkwaardige formule
+                      - een schakeling van elementaire rekenacties omzetten in een formule en
+                         omgekeerd
+
+                6     in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of
+                      verwoording met elkaar in verband brengen:
+                      - bij twee verschillende voorstellingsvormen vaststellen of zij hetzelfde
+                          verband beschrijven
+
+
+                                                                                            Pagina 26 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                      -   een voorstellingsvorm vervangen door een andere voorstellingsvorm die
+                          hetzelfde verband beschrijft
+                      -   formuleringen bij de ene voorstellingsvorm vervangen door
+                          formuleringen bij een andere voorstellingsvorm
+                      -   vaststellen of bepaalde waarden van variabelen zinvol zijn voor de
+                          gegeven situatie
+                      -   vaststellen of bepaalde waarden in een voorstellingsvorm zinvol blijven
+                          in een andere
+                      -   vaststellen in welk opzicht een verandering in één voorstellingsvorm
+                          invloed heeft op een andere
+                      -   bij twee functionele verbanden hun som en hun verschil beschrijven met
+                          één of meer voorstellingsvormen, mits dat in de gegeven situatie zinvol
+                          is
+                      -   als bij een functioneel verband een uitgangsvariabele gegeven is, de
+                          bijbehorende ingangsvariabele vinden of berekenen
+
+
+
+
+                                                                                           Pagina 27 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/5         Rekenen, meten en schatten
+ WI/ V/1        (de vetgedrukte omschrijvingen behoren bij het verrijkingsdeel)
+
+                De kandidaat kan
+
+                1     handig rekenen in alledaagse situaties:
+                      - schattingen maken over afmetingen en hoeveelheden
+                      - rekenen met gangbare maten voor lengte, oppervlakte, inhoud,
+                         gewicht, tijd, temperatuur, geld en snelheid
+                      - bij het rekenen en vermelden van resultaten gebruik maken van
+                         gangbare begrippen en voorvoegsels zoals miljoen, miljard en milli-,
+                         centi-, kilo-
+                      - het resultaat van een berekening afronden in overeenstemming met de
+                         gegeven situatie
+                      - bij het oplossen van problemen, enkelvoudige en eenvoudig
+                         samengestelde grootheden herkennen en gebruiken, in elk geval
+                         grootheden die te maken hebben met lengte, oppervlakte, inhoud,
+                         gewicht, tijd, temperatuur, geld en snelheid
+
+                2     een rekenmachine gebruiken:
+                      - met een rekenmachine optellen, aftrekken, vermenigvuldigen en delen
+                      - met een rekenmachine breuken, procenten, machten en wortels
+                         berekenen of benaderen als eindige decimale getallen
+                      - berekeningen met een groeifactor of –percentage uitvoeren
+                      - gebruik maken van de functietoetsen voor omgekeerde, kwadraat,
+                         wortel, yx en INV- yx , en van de +/- toets
+                      - wetenschappelijke notatie kennen en gebruiken bij
+                         vermenigvuldigen met en delen door machten van 10
+
+                3     meten en schatten:
+                      - gangbare maten en referentiematen hanteren
+                      - vooraf uitkomsten schatten van berekeningen en meetresultaten
+                      - schalen aflezen
+                      - uitspraken doen over de orde van grootte en de nauwkeurigheid
+
+                4     basistechnieken gebruiken:
+                      - in betekenisvolle situaties gelijknamige breuken optellen en aftrekken,
+                         eenvoudige breuken vermenigvuldigen en delen
+                      - in betekenisvolle situaties eenvoudige en samengestelde breuken
+                         vermenigvuldigen met een geheel getal
+                      - verhoudingen vergelijken
+                      - een verhouding omzetten in een breuk, decimaal getal of percentage
+                      - bij berekeningen een verhoudingstabel gebruiken
+                      - negatieve getallen ordenen, optellen, aftrekken, vermenigvuldigen en
+                         delen
+                      - hoofdbewerkingen in de afgesproken volgorde toepassen
+                      - bij het berekenen en bij het vermelden van resultaten gebruik maken
+                         van de wetenschappelijke notatie.
+
+
+
+
+                                                                                           Pagina 28 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ WI/K/6         Meetkunde
+ WI/ V/1        (de vetgedrukte omschrijvingen behoren bij het verrijkingsdeel)
+
+                De kandidaat kan
+
+                1     voorstellingen van objecten en van hun plaats in de ruimte of het platte
+                      vlak maken en interpreteren:
+                      - vlakke tekeningen van ruimtelijke situaties interpreteren en bewerken,
+                         zoals foto’s, plattegronden, patroontekeningen, landkaarten,
+                         bouwtekeningen. Daarbij kan de kandidaat onder andere gebruik
+                         maken van kijklijnen, aanzichten, uitslagen, doorsneden, projecties,
+                         plattegronden
+                      - situaties beschrijven:
+                         - met woorden
+                         - door middel van figuren waaronder driehoek, parallellogram,
+                            vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide,
+                            cilinder, kegel en bol
+                         - met coördinaten, zowel in het platte vlak als in de ruimte
+                         - met behulp van richting of hoek en afstand
+                      - ruimtelijke voorstellingen, al dan niet op schaal, weergeven al dan niet
+                         met concreet materiaal
+                      - uit de hierboven genoemde voorstellingen en beschrijvingen conclusies
+                         trekken over de bijbehorende objecten en hun plaats in de ruimte
+
+                2     schatten, meten en berekenen:
+                      - schattingen en metingen doen van hoeken, lengten, oppervlakten en
+                         inhouden van objecten in de ruimte
+                      - grootte van hoeken en afstanden in 2- en 3-dimensionale
+                         figuren berekenen
+                      - oppervlakte en omtrek berekenen van driehoek, rechthoek en figuren
+                         die daaruit samengesteld zijn, zoals een parallellogram
+                      - omtrek en oppervlakte van een cirkel berekenen met behulp van
+                         gegeven formules
+                      - inhoud van kubus en balk berekenen
+                      - inhoud van prisma, kegel, piramide, bol en cilinder berekenen met
+                         behulp van gegeven formules
+
+                3     redeneren en tekenen:
+                      - bij redeneren, tekenen en berekenen van hoeken en afstanden en
+                         patronen, gebruik maken van meetkundige begrippen en
+                         eigenschappen, in het bijzonder:
+                         - evenwijdigheid
+                         - gelijke verhoudingen, waaronder rekenen met vergrotingen en
+                            verkleiningen; ook in ruimtelijke situaties
+                         - lijnsymmetrie
+                         - draaisymmetrie
+                         - regelmatige patronen
+                         - eigenschappen van hoeken
+                         - goniometrische verhoudingen sinus, cosinus en tangens
+                         - de stelling van Pythagoras
+                      - gebruik maken van instrumenten en apparaten, in het bijzonder: liniaal,
+                         gradenboog, rechthoekige driehoek, passer, zelfgemaakt gereedschap,
+                         rekenmachine en computer
+
+ WI/V/4         Vaardigheden in samenhang
+
+                De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.
+
+
+
+                                                                                            Pagina 29 van 34
+      WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+3.3   TOELICHTING & VOORBEELDEN
+
+       Toelichting    2     Een voorbeeld van ‘wiskundige informatie identificeren’ wordt gevormd
+       bij                  door de volgende vraag:
+       WI/K/3               Sinds 1980 is de gemiddelde lengte van 20-jarige meisjes met 2,3 cm
+                            toegenomen tot 170,6 cm. Wat was de gemiddelde lengte van 20-jarige
+                            meisjes in 1980?
+                            Het juist interpreteren van deze vraag levert een vertaling op naar de
+                            berekening 170,6 – 2,3 = 168,3
+
+                      5    Bij efficiënt rekenen hoort het kunnen maken van de keuze tussen
+                           hoofdrekenen, een rekenmachine gebruiken, schattend rekenen of cijferen.
+                           ‘Cijfermatige uitkomsten kritisch beoordelen’ omvat het beoordelen of de
+                           uitkomst binnen de gegeven situatie mogelijk is.
+       Toelichting    Regelmatig zal een formule bij deze leerweg de vorm hebben van een formule
+       bij            waarbij de variabele een afkorting is of een abstracte vorm met y en x.
+       WI/K/4         Bijvoorbeeld:
+                      h = 2t – 9 (waarin bijvoorbeeld h de hoogte van het water in dm is en t de tijd,
+                      gemeten in minuten); of y = 2x – 9
+
+                      1     De onder dit punt genoemde verbanden horen tot de standaardkennis van
+                            de kandidaat. Kandidaten kennen ook de naam van deze verbanden.
+                            Binnen een context moeten kandidaten in een assenstelsel of in een
+                            grafiek vlakdelen zoals x ≤ 2 en y ≥ 5 kunnen aangeven. Zulke vlakdelen
+                            worden gewoonlijk beschreven in de taal van de context.
+
+                            Een formule als y =       x + 4 is te herleiden als keten van
+                            standaardbewerkingen. Leerlingen moeten kunnen aangeven welke
+                            waarden voor x in dit geval mogen worden gebruikt.
+                            Het begrip asymptoot hoeft niet gekend te worden. Kandidaten moeten
+                                                               1500
+                            bijvoorbeeld bij de formule y =         wel kunnen beredeneren dat de ene
+                                                                 x
+                            variabele heel dicht in de buurt van 0 komt als de andere variabele heel
+                            erg groot wordt. Dit is dan altijd gebonden aan de gegeven
+                            probleemsituatie.
+
+                      Bij de eindtermen 2 t/m 6 zijn de onderdelen opgenomen die onafhankelijk van
+                      het type verband getoetst kunnen worden. De complexiteit van de opgave wordt
+                      aangepast aan het niveau dat past bij de gemengde en theoretische leerweg.
+
+                      2     Het maken van een tabel van het verband tussen variabelen in een
+                            gegeven situatie omvat ook het uitbreiden van een gegeven tabel.
+                            ‘Regelmatigheden in een tabel vaststellen’ kan naar keuze van de
+                            kandidaat gebeuren door middel van een beschrijving in woorden, met
+                            behulp van een grafiek, of door een (woord)formule of vuistregel. De
+                            regelmatigheden kunnen betrekking hebben op een regelmatig verloop in
+                            de uitkomsten, of op een regelmaat in de manier waarop de uitkomsten
+                            berekend worden. Wanneer bijvoorbeeld het volgende verband tussen het
+                            aantal bacteriën per gram voedsel en de tijd (in uren) gegeven is in de
+                            volgende tabel:
+
+                             Tijdstip     10 uur 11 uur 12 uur 1 uur            2 uur    ...
+                             aantal       1000      2000      4000    8000      .....    .....
+                             bacteriën
+                            moeten leerlingen kunnen beschrijven dat de beginwaarde, gemeten om
+                            10 uur 1000 is, dat het hier, als de waarden in de tabel op dezelfde manier
+                            worden voortgezet, om een exponentieel verband gaat, dat de groeifactor
+
+                            gelijk is aan 2 en dat een bijbehorende formule kan worden geschreven als
+                                                                                                  Pagina 30 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+                      a = 1000 × 2t (met t in uren en t=0 om 10 uur).
+
+                3     ‘Coördinaten van punten van een grafiek berekenen’ kan met behulp van
+                      de gegeven schaal op de assen van het coördinatenstelsel of door het
+                      gebruiken van de gegeven (woord)formule of tabel.
+
+                4     ‘Bij een verandering in een variabele het effect aangeven op de andere
+                      variabele’ gebeurt in het bijzonder bij lineaire, evenredige en omgekeerd
+                      evenredige verbanden.
+                      Met het begrip ‘functioneel verband’, kortweg ‘functie’ worden die
+                      verbanden beschreven waarbij bij iedere waarde voor de
+                      invoervariabele hooguit een waarde voor de uitvoervariabele kan
+                      worden gevonden.
+                      De leerlingen hoeven de begrippen functioneel verband en functie
+                      niet te kennen.
+
+                5      Het gebruik van de termen ‘invoervariabele’ en ‘uitvoervariabele’
+                       is afgeleid van de ‘machientjestaal’ die in veel methodes
+                       gebruikelijk is.
+
+                6     Formules die hetzelfde verband beschrijven zijn:
+                      h = n × (n – 1) + (n – 1) × n
+                      h = (n2 – n) + (n2 – n)
+                      h = 2n2 – 2n
+
+                      ‘Vaststellen of bepaalde waarden van variabelen zinvol zijn voor de
+                      gegeven situatie’ heeft betrekking op de begrippen ‘domein’ en ‘bereik’.
+                      Deze begrippen worden in de taal van de context omschreven. Voorbeeld:
+                      Kleur het deel van de grafiek waarbij de waterstand lager is dan –1 m
+                      NAP.
+                      Geef aan tussen welke tijdstippen dat het geval was.
+                      De leerlingen hoeven de begrippen domein en bereik niet te kennen.
+                      Bestaat het domein bijvoorbeeld uit natuurlijke getallen zodat een
+                      stippengrafiek ontstaat dan mag niet zonder meer een doorgetrokken lijn
+                      worden getekend. In dat geval dienen de kandidaten losse punten te
+                      tekenen of op andere wijze aan te geven wat voor grafiek er bedoeld is,
+                      bijvoorbeeld met duidelijke stippen op een doorgetrokken grafiek of met
+                      woorden.
+                      Bij het volgende voorbeeld is het zinvol om het som- of verschilverband te
+                      beschrijven:
+                      Als je staat op een loopband zoals je die op een vliegveld soms ziet, kun je
+                      het verband tussen afstand (in meters) en tijd (in seconden) aangeven
+                                                  2
+                      met       afstandloopband = 1 × tijd
+                                                  3
+                      Als je rustig loopt naast een loopband zoals je die op een vliegveld soms
+                      ziet, kun je het verband tussen afstand (in meters) en tijd (in seconden)
+                                                       1
+                      aangeven met afstandlopend = 1 × tijd
+                                                       9
+                      Wat stelt het verband afstand = afstand loopband + afstandlopend = ..... voor?
+                      Het verband tussen afstand (in meters) en tijd (in seconden) van iemand
+                      die loopt op de loopband.
+
+
+
+
+                                                                                               Pagina 31 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ Toelichting    1     Kandidaten kunnen een afronding kiezen die bij de situatie past.
+ bij                  Bijvoorbeeld: Volgens de berekening zijn 15,4 blikken verf nodig, het
+ WI/K/5               antwoord op de vraag: “Hoeveel blikken verf koopt hij?” zal dan 16 zijn.
+                      Ook zijn er allerlei artikelen die je niet in elke maat kunt kopen,
+                      bijvoorbeeld behang per rol, sierband per meter, gordijnstof per 10 cm, 25
+                      cm, … Zonodig wordt informatie in de opgave vermeld.
+                      Ook het kiezen van een bij de situatie passende maateenheid valt
+                      hieronder.
+                      Uit de context en de vraagstelling moeten kandidaten in principe kunnen
+                      afleiden met welke nauwkeurigheid ze uitkomsten moeten geven.
+                      Kandidaten moeten weten dat voortijdig afronden (of afkappen)
+                      ongewenste gevolgen kan hebben voor een gewenste nauwkeurigheid.
+
+                3     Kandidaten beschikken over twee soorten referentiekaders.
+                      Enerzijds is er de algemene kennis, zoals: Nederland heeft 17 miljoen
+                      inwoners, een volwassene is circa 1,80 m lang, 1 hectare is de oppervlakte
+                      van een veld van 100 bij 100 m.
+                      Anderzijds is er een subjectieve maatkennis. Hiermee wordt bedoeld dat
+                      iemand zich bij allerlei grootheden iets kan voorstellen. Behalve de hier
+                      genoemde referentiematen kunnen ook andere referentiematen ter sprake
+                      komen voor zover die duidelijk passen in de algemene kennis van
+                      kandidaten.
+
+                4     Met betrekking tot de volgorde van rekenkundige bewerkingen worden de
+                      volgende regels gehanteerd.
+                      Machtsverheffen gaat voor. Vervolgens worden vermenigvuldigen en delen
+                      uitgevoerd in de volgorde waarin ze vermeld staan (van links naar rechts
+                      gelezen). Tenslotte worden optellen en aftrekken uitgevoerd in de volgorde
+                      waarin ze in de rekenkundige vorm vermeld staan (van links naar rechts
+                      gelezen).
+                      In geval van mogelijk misverstand, worden de horizontale breukstreep en/
+                      of haakjes gebruikt.
+
+
+
+
+                                                                                           Pagina 32 van 34
+WISKUNDE VMBO | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+ Toelichting    1     Bij ‘landkaarten’ moet ook gedacht worden aan het interpreteren van
+ bij                  hoogtelijnkaarten. De kandidaat moet bijvoorbeeld aan de hand van een
+ WI/K/6               wandeling die in een gebied is ingetekend aangeven waar de hellingen het
+                      steilst zijn en zelf een route kunnen intekenen die aan bepaalde
+                      voorwaarden voldoet. Ook moet hij in een gegeven context een
+                      hellingshoek kunnen berekenen en een schets van een doorsnede kunnen
+                      maken. Bij het gebruik van kaarten kan het begrip koershoek voorkomen.
+                      Deze wordt gemeten vanaf de windrichting noord (0 º) en met de
+                      klokrichting mee.
+                      Op het centraal examen zijn de mogelijkheden tot het gebruik van concreet
+                      materiaal heel beperkt. Er wordt gebruik gemaakt van tekeningen en foto’s
+                      en eventueel ook van video en geluidsmateriaal.
+                      Bij centrale projectie kunnen de volgende punten aan de orde komen:
+                      * van eenvoudige objecten kan van een kandidaat gevraagd worden een
+                      begin van een perspectief tekening af te maken of nadere informatie in
+                      de tekening aan te brengen. Hieronder valt ook het tekenen van
+                      schaduwen.
+                      * het interpreteren van afbeeldingen die een centrale projectie
+                      weergeven. Te denken valt aan: de stand van de zon, tijd van de dag,
+                      plaats van de fotograaf e.d.
+                      Bij parallelprojectie kunnen de volgende punten aan de orde komen:
+                      * van eenvoudige objecten kan van een kandidaat gevraagd worden een
+                      projectietekening (af) te maken of nadere informatie in de tekening aan
+                      te brengen. Hieronder valt ook het tekenen van schaduwen.
+                      Tekeningen kunnen ook in andere projectievormen voorkomen
+                      (bijvoorbeeld ingenieursprojectie), maar de kandidaten behoeven dan niet
+                      te weten welke projectie dat is.
+                      De kandidaat hoeft de termen ‘centrale projectie’ en ‘parallelprojectie’ niet
+                      te kennen.
+
+                2     Formules die de leerling niet uit het hoofd hoeft te kennen worden aan
+                      het begin van het examen vermeld. Voorbeelden van formules die aan het
+                      begin van het examen vermeld worden zijn:
+                      omtrek cirkel = π x diameter
+                      oppervlakte cirkel = π x straal 2
+                      inhoud prisma = oppervlakte grondvlak x hoogte
+                      inhoud cilinder = oppervlakte grondvlak x hoogte
+                                       1
+                      inhoud kegel = 3 x oppervlakte grondvlak x hoogte
+                                          1
+                      inhoud piramide = 3 x oppervlakte grondvlak x hoogte
+                                    4
+                      inhoud bol = 3 x π x straal ³
+                3     De inhoud van andere dan de genoemde ruimtelijke figuren kan ook
+                      gevraagd worden. In dat geval wordt de formule altijd gegeven. De
+                      complexiteit van de formule wordt aangepast aan het niveau van deze leerweg.
+
+                4     Onder eigenschappen van hoeken vallen de stelling over de som van de hoeken
+                      in een driehoek en de eigenschappen van hoeken bij evenwijdige lijnen die door
+                      andere lijnen worden gesneden.
+                      Bij symmetrie zijn onder andere van belang de middelloodlijn van een lijnstuk
+                      en de deellijn van een hoek.
+                      De kandidaten kennen met betrekking tot een driehoek de begrippen
+                      ‘middelloodlijn’ van een zijde, ‘deellijn’ van een hoek, ‘hoogte(lijn)’ en
+                      ‘zwaartelijn’.
+                      Van kandidaten wordt verwacht dat ze de goniometrische verhoudingen
+                      kunnen toepassen in ruimtelijke figuren. Verder zullen ze soms zelf een
+                      hoogtelijn als hulplijn voor de berekening in een gegeven driehoek moeten
+                      tekenen.
+
+                                                                                             Pagina 33 van 34
+

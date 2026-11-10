@@ -1,0 +1,542 @@
+                                                      Examen VMBO-KB
+
+                                                                 2018
+                                                                        tijdvak 1
+                                                              donderdag 24 mei
+                                                               13.30 - 15.30 uur
+
+
+                                           natuur- en scheikunde 1 CSE KB
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS informatieboek.
+
+
+
+
+Dit examen bestaat uit 39 vragen.
+Voor dit examen zijn maximaal 67 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+KB-0173-a-18-1-o
+             Meerkeuzevragen
+             Schrijf alleen de hoofdletter van het goede antwoord op.
+
+             Open vragen
+              Geef niet méér antwoorden dan er worden gevraagd. Als er
+               bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+               méér. Alleen de eerste twee redenen kunnen punten opleveren.
+              Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+               een gedeelte van de berekening goed is, kan dat punten opleveren.
+               Een goede uitkomst zonder berekening levert geen punten op.
+              Vermeld bij een berekening altijd welke grootheid berekend wordt.
+              Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      MRI-scanner
+
+             Een MRI-scanner is een medisch apparaat dat een beeld maakt van het
+             binnenste van het lichaam.
+
+
+
+
+             Het MRI-apparaat maakt tijdens het onderzoek een geluid van 105 dB.
+
+1p    1      Wat is de maximale blootstellingsduur in de MRI-scanner zonder gevaar
+             op gehoorbeschadiging bij een patiënt? Gebruik BINAS.
+
+1p    2      In welke zone van gehoorgevoeligheid ligt het geluid van de MRI-
+             scanner?
+
+
+
+
+KB-0173-a-18-1-o                             2 / 15                             lees verder ►►►
+      Stemvork
+
+             Een stemvork staat voor een
+             geluidssensor die verbonden is
+             met een computer.
+
+
+
+
+             Tijdens een proef wordt de stemvork hard aangeslagen. Je ziet een
+             afbeelding van het signaal op het beeldscherm.
+
+
+
+
+                                                        1 ms
+
+
+3p    3      Bereken de frequentie van deze stemvork.
+
+1p    4      Met welk apparaat kun je een toon zichtbaar maken op een beeldscherm?
+             A met een dB-meter
+             B met een luidspreker
+             C met een oscilloscoop
+             D met een toongenerator
+
+1p    5      De proef wordt herhaald, maar nu met de geluidssensor op een grotere
+             afstand tot de stemvork.
+             Over het signaal op het beeldscherm staat op de uitwerkbijlage een zin.
+              Omcirkel in de zin de juiste mogelijkheden.
+
+
+
+
+KB-0173-a-18-1-o                              3 / 15                         lees verder ►►►
+      Opbeurend
+
+             Herman heeft een steekwagen met een
+             elektromotor. Daarmee kan Herman pakketten
+             optillen en verplaatsen.
+
+
+
+
+             Voordat hij de steekwagen gebruikt, laadt Herman de accu volledig op.
+             In de acculader zit ook een transformator.
+             Je ziet de gegevens van de transformator in de acculader.
+
+             primair     230 V    25 W
+             secundair   24 V     0,9 A
+
+2p    6      Toon met een berekening aan dat het secundair vermogen van de
+             transformator 21,6 W is.
+
+2p    7      Leg met de gegevens van de transformator uit dat deze transformator niet
+             ideaal is.
+
+1p    8      De wisselspanning die de transformator levert, is niet geschikt om de accu
+             op te laden.
+             Welk onderdeel is nodig om de wisselspanning van de transformator om
+             te zetten in gelijkspanning?
+             A condensator
+             B diode
+             C transistor
+             D weerstand
+
+
+
+
+KB-0173-a-18-1-o                            4 / 15                            lees verder ►►►
+             Als Herman op een schakelaar drukt, brengt de elektromotor het pakket
+             op de gewenste hoogte.
+
+
+
+
+1p    9      Bij het omhoogbrengen wordt energie omgezet.
+             Je ziet een stroomschema van de energieomzetting met de nuttige
+             energiesoorten die ontstaan.
+
+                                                                  bewegingsenergie
+
+                                        elektrische    elektro-     +
+                                                                  zwaarte-energie
+                   1         accu       energie        motor
+
+
+
+
+             Welke energiesoort hoort op plaats 1?
+             A bewegingsenergie
+             B chemische energie
+             C magnetische energie
+
+2p    10     Herman houdt de schakelaar 7,5 seconden ingedrukt. Het pakket beweegt
+             met een constante snelheid van 0,12 m/s omhoog.
+              Bereken de afstand die het pakket omhooggaat.
+
+2p    11     Na werktijd wordt de lege accu weer opgeladen. De laadstroom is 0,75 A.
+             De accu heeft een capaciteit van 9,0 Ah.
+              Bereken de tijd in uur die nodig is om de accu volledig op te laden.
+
+
+
+
+KB-0173-a-18-1-o                            5 / 15                             lees verder ►►►
+      Zo’n paneel
+
+             Met een draagbare acculader kun je een accu opladen op plaatsen waar
+             geen lichtnet is. De acculader bestaat onder andere uit twee
+             zonnepanelen.
+
+
+
+
+             Elk zonnepaneel zit achter een glazen afdekplaat in een aluminium frame.
+
+2p    12     Op de uitwerkbijlage staat een tabel met de onderdelen van het
+             zonnepaneel.
+              Noteer achter elk onderdeel een eigenschap die het gebruikte
+                materiaal geschikt maakt voor deze toepassing.
+
+1p    13     Welke energie absorbeert een zonnepaneel?
+             Het zonnepaneel absorbeert
+             A chemische energie.
+             B elektrische energie.
+             C stralingsenergie.
+
+3p    14     Het opgenomen vermogen per m2 van het zonnepaneel is 1000 W.
+             Het afgestane vermogen van het zonnepaneel is 120 W.
+             Het uitgeklapte zonnepaneel heeft als afmeting 0,80 x 0,50 m.
+              Bereken het rendement van het uitgeklapte zonnepaneel.
+
+
+
+
+KB-0173-a-18-1-o                            6 / 15                            lees verder ►►►
+      Warm mes
+
+             Voor het smeren van harde boter is er een speciaal mes met een
+             verwarmd snijblad.
+
+                                                                 led en weerstand
+
+
+
+
+                                                  verwamings-
+                                                                 drukschakelaar     batterijen
+                                                    element
+
+
+
+
+             In het handvat van het mes zitten twee batterijen en een led in serie met
+             een weerstand.
+             Als je de schakelaar indrukt, dan brandt de led en loopt er door het
+             verwarmingselement een stroom. Het snijblad wordt warm.
+
+3p    15     Op de uitwerkbijlage staat een deel van het schakelschema van het mes.
+              Maak het schakelschema compleet met led, weerstand en
+                drukschakelaar.
+
+3p    16     De batterijen leveren samen een spanning van 3,0 V. De led werkt op een
+             spanning van 1,8 V. Naast de led zit een weerstand van 75 Ω.
+              Bereken de stroomsterkte door die weerstand.
+
+             Karin plaatst het snijblad van het warme mes in een bakje met olie.
+             Ze bepaalt het verband van de temperatuur van de olie tegen de tijd.
+             Je ziet een tabel van de tijd en de gemeten temperatuur van de olie.
+
+
+             tijd (min)            0       2             4       6          8       10           12
+
+             temperatuur (°C)     20,2    20,8          21,4    22,2      22,8      23,4         24,0
+
+
+3p    17     Zet in het diagram op de uitwerkbijlage alle meetpunten uit en teken de
+             grafiek.
+
+
+
+
+KB-0173-a-18-1-o                               7 / 15                                      lees verder ►►►
+      Meeslepend
+
+             Een sleeplift sleept een snowboarder naar de top van een indoor
+             skihelling.
+
+
+
+
+             Op de snowboarder werken voortstuwende en tegenwerkende krachten
+             langs de helling. Je ziet een afbeelding met de krachten op de
+             snowboarder tijdens het slepen.
+
+                                             Fsleep
+
+
+                         Ftegen
+
+
+
+
+1p    18     Noteer de naam van een tegenwerkende kracht.
+
+1p    19     Welke beweging heeft de snowboarder tijdens het slepen?
+             A eenparig
+             B stilstaand
+             C versneld
+             D vertraagd
+
+2p    20     Op de uitwerkbijlage zie je twee krachten die op de snowboarder werken.
+              Vul de gegevens in naast de afbeelding.
+
+2p    21     De top van de helling ligt 72 m boven het vertrekpunt.
+             De massa van de snowboarder met snowboard is 90 kg.
+              Bereken de toename van de zwaarte-energie van de snowboarder met
+                snowboard.
+
+
+
+
+KB-0173-a-18-1-o                            8 / 15                             lees verder ►►►
+      Sonderen
+
+             Sonderen is een techniek waarbij men met een boring de samenstelling
+             van de bodem onderzoekt. Daarvoor is een speciaal voertuig ontworpen.
+
+
+
+
+2p    22     Met rupsbanden kan het voertuig ook over drassig land rijden.
+             Vergelijk het rijden op rupsbanden met het rijden op banden.
+              Omcirkel in elke zin op de uitwerkbijlage de juiste mogelijkheid.
+
+             Vóór het uitvoeren van een boring schuift het voertuig vier palen uit.
+
+
+
+
+3p    23     Onder elke paal zit een grondplaat. De grondplaten hebben een totaal
+             contactoppervlak van 1100 cm2.
+             Het voertuig heeft een massa van 2575 kg.
+              Bereken de druk onder de grondplaten.
+
+
+
+
+KB-0173-a-18-1-o                              9 / 15                            lees verder ►►►
+             Het voertuig perst een boorbuis door de bodem. Aan het uiteinde van de
+             buis zit een sonde (druksensor).
+
+1p    24     Bij het sonderen meet men de druk die de kop van de sonde ondervindt
+             bij het door de bodem persen.
+             Je ziet het resultaat van zo’n meting.
+
+                                                                   druk (hPa)
+                          0           10                    20                   30
+                      0
+
+
+
+
+                      5
+
+
+
+
+             diepte
+              (m)
+                   10
+
+
+             Op welke diepte is de grootste druk gemeten?
+             A 1,2 m
+             B 3,1 m
+             C 6,2 m
+             D 8,3 m
+
+
+
+
+KB-0173-a-18-1-o                           10 / 15                              lees verder ►►►
+      Niveaumeter lpg-tank
+
+             Lpg is een brandstof voor auto’s. Lpg wordt in vloeibare vorm in tanks
+             opgeslagen.
+
+
+
+
+1p    25     In een auto wordt het lpg in de motor verbrand. Er ontstaat dan
+             waterdamp en koolstofdioxide.
+             Wat is juist?
+             A Dit is een chemische reactie.
+             B Dit is een natuurkundig proces.
+             C Dit is zowel een natuurkundig proces als een chemische reactie.
+
+1p    26     Op een tank met lpg hoort een verbodsbord.
+             Welk bord is dat?
+
+
+
+
+                       A                         B                        C
+
+
+
+
+                       D                         E                        F
+
+
+
+
+KB-0173-a-18-1-o                            11 / 15                           lees verder ►►►
+             Om te weten hoe vol een tank met lpg is, wordt een niveaumeter gebruikt.
+             De niveaumeter gebruikt onder andere een elektrische schakeling met
+             meerdere reedcontacten. Je ziet een afbeelding van een deel van de tank
+             met de elektrische schakeling.
+
+
+
+
+                                         330 Ω
+
+
+
+                                         330 Ω
+                                  P
+             drijver
+
+                                         330 Ω
+
+                                                           LPG
+
+                                         330 Ω
+
+
+
+
+1p    27     In de drijver zit een onderdeel dat een reedcontact bedient.
+              Welk onderdeel is dat?
+
+2p    28     De drijver drijft op een hoogte waarbij het reedcontact P gesloten is.
+              Bereken de totale weerstand van de schakeling in deze situatie.
+
+1p    29     De schakeling in de tank is aangesloten op een spanningsbron.
+             In de niveaumeter zit een meter. De meter geeft een laag getal aan als de
+             tank leeg is.
+             Deze meter is een:
+             A A-meter in serie met de spanningsbron
+             B V-meter in serie met de spanningsbron
+             C V- óf A-meter parallel over de spanningsbron
+
+
+
+
+KB-0173-a-18-1-o                             12 / 15                            lees verder ►►►
+      Hefboompracticum
+
+             Arjen doet een practicum met een veer en een hefboom.
+
+1p    30     Arjen gebruikt twee gelijke blokjes. De zwaartekracht op deze twee
+             blokjes is in totaal 1,0 N.
+             Hoe groot is de massa van één blokje?
+             A 50 g
+             B 200 g
+             C 0,50 kg
+             D 1,0 kg
+
+             Je ziet een afbeelding van de opstelling die Arjen gebruikt.
+
+
+
+
+3p    31     De opstelling is in evenwicht. In evenwicht geldt de volgende
+             woordformule:
+
+                   veerkracht x armveerkracht = zwaartekrachtblokjes x armzwaartekracht
+
+
+             De afstand tussen het draaipunt D en de twee blokjes (1,0 N) is 7 gaatjes
+             (7,0 cm).
+              Bereken de grootte van de veerkracht in deze situatie.
+
+2p    32     De veer wordt een gaatje naar rechts verplaatst. De hefboom wordt weer
+             horizontaal in evenwicht gebracht door de lengte van de veer aan te
+             passen.
+              Leg uit of hiervoor de lengte van de veer groter of kleiner moet worden
+                 gemaakt.
+
+
+
+
+KB-0173-a-18-1-o                                   13 / 15                                lees verder ►►►
+      IJsthee
+
+             Tim schenkt ijsthee in een theeglas. Hij doet er een ijsblokje bij.
+
+
+
+
+1p    33     Tim ziet dat het ijsblokje drijft.
+              Noteer de reden dat het ijsblokje in de ijsthee drijft.
+
+3p    34     Het ijsblokje heeft een volume van 18 cm3.
+              Bereken de massa van het ijsblokje. Gebruik bij je antwoord de tabel
+                ‘Gegevens van enkele vaste stoffen’ in BINAS.
+
+1p    35     De ijsthee zit in een dubbelwandig theeglas. Tussen de wanden zit
+             stilstaande lucht.
+             Op de uitwerkbijlage staat een zin over de lucht tussen de wanden.
+              Omcirkel in de zin de juiste mogelijkheden.
+
+1p    36     Het ijsblokje is na 10 minuten verdwenen.
+              Noteer de naam van de faseovergang die plaats heeft gevonden.
+
+2p    37     Als het ijsblokje is verdwenen (t = 0), is de temperatuur van de
+             ijsthee 0 oC.
+             Na 30 minuten is de ijsthee opgewarmd tot kamertemperatuur (T = 20 oC).
+              Schets in het diagram op de uitwerkbijlage de grafiek van het verloop
+                  van de temperatuur van t = 0 tot t = 50 minuten.
+
+
+
+
+KB-0173-a-18-1-o                              14 / 15                              lees verder ►►►
+      Remtest
+
+             Wendy en Ypke doen een remtest met de motor van Ypke. Ypke komt met
+             een constante snelheid aanrijden.
+             Als Wendy haar hand omhoogdoet, brengt Ypke zijn motor zo snel
+             mogelijk tot stilstand.
+
+
+
+
+2p    38     Ypke remt bij een snelheid van 12 m/s.
+              Noteer twee omstandigheden die invloed hebben op de remafstand bij
+                die snelheid.
+
+             Je ziet een v,t-diagram van de remtest.
+
+                    14
+             snelheid
+              (m/s) 12
+
+
+                    10
+
+
+                     8
+
+
+                     6
+
+
+                     4
+
+
+                     2
+
+
+                     0
+                      0,0   0,2   0,4   0,6   0,8     1,0     1,2        1,4
+                                                              tijd (s)
+
+
+1p    39     Hoe groot is de reactieafstand bij deze remtest?
+             A   7,2 m
+             B   8,4 m
+             C   9,6 m
+             D 16,8 m
+
+
+
+
+KB-0173-a-18-1-o                                    15 / 15                    lees verdereinde
+                                                                                            ►►► 
+

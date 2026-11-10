@@ -1,0 +1,461 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2025
+                                                                        tijdvak 2
+                                                                 dinsdag 17 juni
+                                                               13.30 - 15.30 uur
+
+
+                                   natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS-informatieboek.
+
+
+
+
+Dit examen bestaat uit 39 vragen.
+Voor dit examen zijn maximaal 71 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0173-a-25-2-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+      Snurkgeluid
+
+
+            Merel snurkt. De partner van Merel heeft 's nachts oordoppen in om het
+            snurkgeluid te dempen.
+
+
+
+
+                   oordoppen           de partner van Merel met oordoppen
+
+
+            Over de geluiddemping van de oordoppen staat in de handleiding een
+            diagram.
+
+
+
+
+GT-0173-a-25-2-o                            2 / 14                          lees verder ►►►
+            Het snurkgeluid van Merel heeft een frequentie van 300 Hz.
+            De geluidssterkte van het snurkgeluid is 86 dB.
+
+2p    1     Bereken de trillingstijd van het snurkgeluid van Merel.
+
+            De oordoppen dempen de geluidssterkte van het snurkgeluid met een
+            frequentie van 300 Hz met 27 dB.
+
+1p    2     Bij twee andere geluidsfrequenties is de demping ook 27 dB.
+            Op de uitwerkbijlage staat het diagram van de geluiddemping van de
+            oordoppen.
+             Geef in het diagram met drie kruisjes aan waar de geluiddemping
+                 27 dB is.
+
+1p    3     Het diagram begint bij een frequentie van 20 Hz en eindigt bij een
+            frequentie van 20 000 Hz.
+             Waarom is het niet nodig om de demping van de oordoppen bij grotere
+                of kleinere frequenties weer te geven?
+
+            De partner van Merel heeft de oordoppen in. Hierdoor is het snurkgeluid
+            gedempt.
+
+2p    4     Vergelijk het gedempte snurkgeluid met het oorspronkelijke snurkgeluid
+            van Merel.
+            Op de uitwerkbijlage staat een tabel.
+             Zet in de tabel in elke rij één kruisje in de juiste kolom.
+
+2p    5     Voor de geluidssterkte geldt:
+
+            Bij elke halvering van het geluidsvermogen neemt de geluidssterkte
+            met 3 dB af.
+
+            De oordoppen dempen de geluidssterkte van het snurkgeluid met 27 dB.
+            Op de uitwerkbijlage staan twee zinnen over het geluid bij het gebruik van
+            de oordopjes.
+             Maak elke zin compleet met het juiste getal.
+
+
+
+
+GT-0173-a-25-2-o                            3 / 14                           lees verder ►►►
+      Remmen met de lichtsnelheid
+
+            Een auto rijdt met een snelheid van 25 m/s.
+
+1p    6     Noteer deze snelheid in km/h.
+
+2p    7     De bestuurder van de auto moet plotseling remmen.
+            Zijn reactieafstand is 20 m.
+             Bereken de reactietijd.
+
+            Sommige moderne auto’s zijn voorzien van een noodremsysteem. Dit
+            systeem vertraagt de auto automatisch zonder reactietijd als de
+            bestuurder zelf niet remt.
+
+
+
+
+            Een auto met een noodremsysteem rijdt met een snelheid van 25 m/s.
+            Deze auto nadert een stilstaande file. De bestuurder reageert niet op deze
+            situatie. Het noodremsysteem grijpt in en vertraagt de auto in een
+            tijd van 2,6 s tot stilstand. De vertraging is hierbij 9,6 m/s2.
+
+3p    8     Bereken de remweg van deze auto.
+
+2p    9     Toon deze vertraging van de auto met een berekening aan.
+
+2p    10    De auto met bestuurder heeft een massa van 1250 kg.
+             Bereken de nettokracht die voor de vertraging nodig is.
+
+
+
+
+GT-0173-a-25-2-o                            4 / 14                           lees verder ►►►
+1p    11    Tijdens het vertragen van de auto blijft de bestuurder even bewegen met
+            een constante snelheid, tot hij door de veiligheidsgordel wordt
+            tegengehouden.
+            Wat is de naam van het natuurkundig verschijnsel waardoor de
+            bestuurder nog even met constante snelheid blijft bewegen?
+            A duwkracht
+            B snelheid
+            C traagheid
+            D vermogen
+
+2p    12    Een noodremsysteem bepaalt de afstand tot de voorliggende auto met
+            behulp van licht. Een ander noodremsysteem kan deze afstand met
+            behulp van geluid bepalen.
+            Op de uitwerkbijlage staan twee zinnen over de snelheid van licht en
+            geluid.
+             Noteer in de eerste zin de juiste waarde en omcirkel in de tweede zin
+               de juiste mogelijkheden. Gebruik de tabel ‘Veel gebruikte waarden’ in
+               BINAS.
+
+
+
+
+GT-0173-a-25-2-o                           5 / 14                           lees verder ►►►
+      Practicum met een LDR
+
+            Bram bouwt een schakeling met een LDR.
+
+
+
+
+            Bram sluit de LDR en twee multimeters aan op een batterij. Met de ene
+            multimeter meet hij de spanning over de LDR en met de andere meet hij
+            de stroomsterkte door de LDR. Met deze gegevens berekent hij de
+            weerstand van de LDR.
+
+2p    13    Op de uitwerkbijlage staat een deel van het schakelschema.
+             Maak het schakelschema compleet met de stroommeter en
+               spanningsmeter.
+
+            De LDR staat in het licht.
+
+3p    14    In het licht meet Bram een spanning van 1,3 V en een stroomsterkte van
+            11 mA door de LDR.
+             Bereken de weerstand van de LDR bij deze lichthoeveelheid.
+
+            Bram zet de LDR in het donker.
+
+2p    15    Op de uitwerkbijlage staan twee zinnen over de LDR.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-25-2-o                             6 / 14                        lees verder ►►►
+            Bram ontwerpt een schakeling met een LDR. Hij wil dat er een lamp
+            automatisch gaat branden als het donker wordt. Bij licht gaat de lamp weer
+            uit.
+
+            Je ziet het schakelschema dat Bram heeft ontworpen. De lamp ontbreekt
+            nog, die komt op plaats I of II.
+
+
+
+
+2p    16    Als het donker is loopt er bijna geen stroom door de LDR. Daardoor is de
+            transistor niet ingeschakeld.
+            Op de uitwerkbijlage staan drie zinnen over de werking van deze
+            schakeling in het donker.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+1p    17    Wat is juist over de stroomsterkte door de LDR?
+            De stroomsterkte door de LDR is
+            A groter dan de stroomsterkte door R1.
+            B gelijk aan de stroomsterkte door R1.
+            C kleiner dan de stroomsterkte door R1.
+
+
+
+
+GT-0173-a-25-2-o                           7 / 14                           lees verder ►►►
+      Stoomreiniger
+
+2p    18    Water op kamertemperatuur wordt opgewarmd tot het kookt.
+            Op de uitwerkbijlage staan twee zinnen over het opwarmen en koken van
+            dit water.
+             Omcirkel in elke zin de juiste mogelijkheden.
+
+            Een vervuild tapijt kun je goed reinigen met een stoomreiniger.
+
+
+
+
+            In de stoomreiniger zit een afgesloten vat dat gevuld is met water en
+            lucht. Het vat wordt verwarmd met een verwarmingselement op
+            netspanning. Als de temperatuur in het vat stijgt, neemt de druk in het vat
+            toe.
+            Onder normale omstandigheden kookt water bij een temperatuur
+            van 100 °C. Bij hogere druk stijgt het kookpunt van het water.
+            Het vloeibare water in het vat kan daarom een temperatuur van meer dan
+            100 °C hebben.
+
+            Je ziet een tabel met gegevens van het kookpunt van water bij
+            verschillende druk.
+
+               druk (kPa)    kookpunt (°C)
+                   100             100
+                   250             128
+                   300             134
+                   420             146
+                   500             152
+
+3p    19    Deel in het diagram op de uitwerkbijlage de verticale as in. Zet daarna alle
+            gegevens uit de tabel uit en teken de grafiek.
+
+
+
+
+GT-0173-a-25-2-o                            8 / 14                            lees verder ►►►
+2p    20    De druk in het vat van de stoomreiniger is 350 kPa.
+            Op de uitwerkbijlage staan twee zinnen over het kookpunt van water bij
+            een druk van 350 kPa.
+             Noteer dit kookpunt in °C en in K. Gebruik hiervoor de gegevens uit de
+               tabel of het diagram.
+
+1p    21    Het tapijt wordt gereinigd met zeer hete stoom. Dit gasvormige water koelt
+            af tot kamertemperatuur. Dit gaat gepaard met een faseovergang.
+            Wat is juist?
+            Het gasvormige water gaat
+            A condenseren.
+            B rijpen.
+            C smelten.
+            D stollen.
+            E sublimeren.
+            F verdampen.
+
+            Het opgenomen vermogen van de stoomreiniger is 2300 W.
+
+4p    22    De stoomreiniger wordt per maand 6,0 h gebruikt.
+            1 kWh kost € 0,45.
+             Bereken de omgezette energie per maand en noteer de energiekosten
+               per maand in euro.
+
+2p    23    De stoomreiniger heeft een rendement van 75%.
+             Bereken het afgestane vermogen van de stoomreiniger.
+
+
+
+
+GT-0173-a-25-2-o                           9 / 14                            lees verder ►►►
+      Schoonspringen
+
+                                                Nuray doet aan schoonspringen.
+                                                Om een sprong te maken loopt Nuray
+                                                op blote voeten op een metalen trap
+                                                en daarna op een kunststof
+                                                duikplank.
+                                                De temperatuur van de trap en de
+                                                duikplank zijn gelijk aan de
+                                                buitentemperatuur van 20 °C.
+
+
+
+
+1p    24    Op de uitwerkbijlage staan twee zinnen over deze situatie.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+            Je ziet een schematische afbeelding van Nuray op de duikplank.
+
+
+
+
+            De duikplank werkt als een hefboom: S is het steunpunt en D is het
+            draaipunt.
+
+            Nuray heeft een massa van 70 kg.
+
+3p    25    Bereken de kracht die Nuray veroorzaakt op punt S. Gebruik ook de
+            gegevens uit de afbeelding.
+
+1p    26    Als Nuray op de duikplank staat buigt de duikplank door. Bij het
+            doorbuigen van de duikplank is zwaarte-energie omgezet in een energie
+            die in de doorgebogen duikplank opgeslagen is.
+             Noteer de naam van de energiesoort die in de doorgebogen duikplank
+                is opgeslagen.
+
+
+
+
+GT-0173-a-25-2-o                           10 / 14                           lees verder ►►►
+            Nuray maakt haar sprong.
+
+
+
+
+            Op het hoogste punt heeft het massamiddelpunt van Nuray een zwaarte-
+            energie van 5200 J ten opzichte van het wateroppervlak.
+
+2p    27    Bereken de hoogte van het massamiddelpunt van Nuray ten opzichte van
+            het wateroppervlak.
+
+2p    28    Nadat Nuray na de sprong het hoogste punt heeft bereikt, valt zij in het
+            zwembad. Zij wordt afgeremd door het water. Haar remweg is 2,3 m.
+            De totale arbeid die het water verricht is 6200 J.
+             Bereken de gemiddelde kracht van het water op Nuray.
+
+
+
+
+GT-0173-a-25-2-o                            11 / 14                           lees verder ►►►
+      Heggenschaar
+
+            Nevzat heeft een dubbel geïsoleerde heggenschaar op netspanning
+            waarmee hij de heg knipt.
+
+
+
+
+1p    29    Tijdens het werk knipt Nevzat per ongeluk het snoer door. Er ontstaat
+            kortsluiting en de stroomaanvoer stopt onmiddellijk.
+            Waardoor stopt de stroomaanvoer?
+            A De aardlekschakelaar schakelt de stroom uit.
+            B De dubbele isolatie schakelt de stroom uit.
+            C De groepszekering schakelt de stroom uit.
+
+            Nevzat koopt een nieuwe
+            elektrische heggenschaar met
+            accu. Een elektromotor drijft
+            de scharen van de
+            heggenschaar aan.
+            De heggenschaar heeft twee
+            schakelaars. Alleen als
+            schakelaar S1 én schakelaar S2
+            gelijktijdig zijn ingedrukt
+            worden de scharen
+            aangedreven.
+
+1p    30    Waarom is het veiliger dat de scharen van de heggenschaar alléén
+            aangedreven worden als beide schakelaars zijn ingedrukt?
+
+2p    31    Op de uitwerkbijlage staat een schema van de energie-omzettingen bij de
+            werkende heggenschaar.
+             Noteer in het schema de juiste nuttige energiesoorten op de juiste
+               plaatsen.
+
+
+
+
+GT-0173-a-25-2-o                             12 / 14                         lees verder ►►►
+1p    32    Je ziet vier schakelschema’s.
+            Welk schakelschema is van de heggenschaar?
+
+
+
+
+                             A                                       B
+
+
+
+
+                              C                                          D
+
+            Je ziet een tabel met de gegevens van de heggenschaar en de accu.
+            heggenschaar                       accu
+            stroomsterkte          2,0 A       spanning                      20 V
+            geluidssterkte         92 dB       maximale capaciteit           1,5 Ah
+
+2p    33    Bereken de maximale tijd die de heggenschaar bij een opgeladen accu
+            kan werken.
+
+2p    34    Bereken het vermogen van de heggenschaar.
+
+1p    35    In welke zone van gehoorgevoeligheid valt het geluid van de werkende
+            heggenschaar? Gebruik BINAS.
+            A rustig
+            B indringend
+            C storend bij telefoneren
+            D zeer hinderlijk
+
+1p    36    Noteer de maximale blootstellingsduur aan het geluid van 92 dB. Gebruik
+            de tabel ‘Maximale blootstellingsduur’ in BINAS.
+
+1p    37    Noteer een oplossing om zonder gehoorbeschadiging langere tijd met de
+            heggenschaar te werken.
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+GT-0173-a-25-2-o                           13 / 14                                lees verder ►►►
+      Koepeltent
+
+            In de winter is het te koud om buiten te hockeyen. Een opgeblazen
+            kunststof koepeltent biedt uitkomst. De koepeltent is gemaakt van stalen
+            kabels en kunststof doek. Een deel van het doek is bekleed met
+            noppenfolie.
+
+
+
+
+4p    38    Er worden stalen kabels gebruikt om de koepeltent op zijn plaats te
+            houden. Deze kabels hebben een totale lengte van 7500 m en een
+            oppervlakte van de doorsnede van 0,60 cm 2.
+             Bereken de massa van de stalen kabels. Bereken eerst het volume
+               van de kabels.
+
+1p    39    De stilstaande lucht in het noppenfolie voorkomt warmteverlies.
+            Wat is juist?
+                                                           Het stilstaan van lucht
+                        Stilstaande lucht
+                                                                  voorkomt
+                          is een goede
+                                                           warmtetransport door
+            A             warmtegeleider.                             straling.
+
+            B             warmtegeleider.                            stroming.
+
+            C             warmte-isolator.                            straling.
+
+            D             warmte-isolator.                           stroming.
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0173-a-25-2-o                                         14 / 14                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,476 @@
+                                              Examen VMBO-GL en TL
+
+                                                                 2024
+                                                                        tijdvak 1
+                                                                  vrijdag 17 mei
+                                                               13.30 - 15.30 uur
+
+
+                                   natuur- en scheikunde 1 CSE GL en TL
+
+
+
+
+Bij dit examen hoort een uitwerkbijlage.
+
+Gebruik het BINAS-informatieboek.
+
+
+
+
+Dit examen bestaat uit 40 vragen.
+Voor dit examen zijn maximaal 72 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+
+GT-0173-a-24-1-o
+            Meerkeuzevragen
+            Schrijf alleen de hoofdletter van het goede antwoord op.
+
+            Open vragen
+             Geef niet méér antwoorden dan er worden gevraagd. Als er
+              bijvoorbeeld twee redenen worden gevraagd, geef er dan twee en niet
+              méér. Alleen de eerste twee redenen kunnen punten opleveren.
+             Vermeld altijd de berekening, als een berekening gevraagd wordt. Als
+              een gedeelte van de berekening goed is, kan dat punten opleveren.
+              Een goede uitkomst zonder berekening levert geen punten op.
+             Vermeld bij een berekening altijd welke grootheid berekend wordt.
+             Geef de uitkomst van een berekening ook altijd met de juiste eenheid.
+
+
+      Latte macchiato
+
+            Karin maakt latte macchiato. Dit kopje koffie bestaat uit drie lagen: warme
+            melk, warme koffie en melkschuim (melk met luchtbelletjes). Karin maakt
+            de warme melk en het melkschuim met een melkopschuimer.
+
+
+
+
+                      latte macchiato                  de melkopschuimer
+
+1p    1     Als de melk met melkschuim in een glas wordt gegoten en daarna de
+            koffie, ontstaan de drie lagen.
+            Op de uitwerkbijlage staan twee zinnen over de lagen van de latte
+            macchiato.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+            In de melkopschuimer zitten een verwarmingselement en een
+            elektromotor. Het verwarmingselement warmt de melk op. De
+            elektromotor laat de melk draaien om de melk op te schuimen. Als de
+            melk voldoende is opgewarmd schakelt de melkopschuimer automatisch
+            uit.
+
+
+
+
+GT-0173-a-24-1-o                            2 / 15                            lees verder ►►►
+2p    2     Je ziet op de uitwerkbijlage het energiestroomdiagram van de
+            melkopschuimer bij het inschakelen.
+             Noteer de juiste energiesoorten bij 1 en bij 2.
+
+            Het opgenomen vermogen van de melkopschuimer is 450 W.
+
+3p    3     De melkopschuimer is 2,5 minuut ingeschakeld.
+             Bereken de opgenomen energie.
+
+3p    4     Bereken het nuttig vermogen van de melkopschuimer. Gebruik de
+            gegevens in het energiestroomdiagram op de uitwerkbijlage bij opgave 2.
+
+            Je ziet een deel van het vereenvoudigde schakelschema van de
+            melkopschuimer. Het linker gedeelte van de schakeling regelt het
+            uitschakelen van de motor en van het verwarmingselement als de melk
+            warm genoeg is.
+
+
+
+
+2p    5     In het rechter gedeelte zijn een elektromotor en een verwarmingselement
+            aangesloten op netspanning. De spanning over de elektromotor is 230 V.
+            De spanning over het verwarmingselement is ook 230 V.
+             Maak op de uitwerkbijlage het rechter gedeelte van het
+                schakelschema compleet met een elektromotor.
+
+2p    6     Als de melk warm genoeg is, schakelt de melkopschuimer automatisch
+            uit. Op de uitwerkbijlage staan drie zinnen over het automatisch
+            uitschakelen van de melkopschuimer.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+1p    7     Het glas met de warme latte macchiato is enkelwandig. De buitenkant van
+            het glas wordt daardoor ook warm.
+            Wat is de belangrijkste vorm van warmtetransport van de binnenkant naar
+            de buitenkant van het glas?
+            A geleiding
+            B straling
+            C stroming
+
+
+
+
+GT-0173-a-24-1-o                           3 / 15                          lees verder ►►►
+      Led practicum
+
+            Tijdens de natuurkundeles maakt Ayoup een schakeling met leds.
+            Je ziet een afbeelding van zijn opstelling en het schakelschema.
+
+
+
+
+            De spanning over elke led is 2,7 V. De spanning over de weerstand
+            is 1,8 V.
+
+1p    8     Wat is de spanning van één batterij?
+            A 0,6 V
+            B 0,9 V
+            C 1,5 V
+            D 1,8 V
+            E 2,4 V
+            F 2,7 V
+
+
+
+
+GT-0173-a-24-1-o                           4 / 15                          lees verder ►►►
+1p    9     Ayoup wil de stroomsterkte door en de spanning over de weerstand
+            meten.
+            Welk schakelschema is juist voor deze meting?
+
+
+
+
+                             A                                    B
+
+
+
+
+                             C                                    D
+
+
+            De stroomsterkte door de weerstand is 50 mA.
+
+3p    10    De spanning over de weerstand is 1,8 V.
+             Bereken de grootte van deze weerstand.
+
+2p    11    De leds kunnen een tijd van 48 uur branden op deze batterijen.
+             Bereken de totale capaciteit die daarvoor nodig is. Ga ervan uit dat
+               hierbij geen energieverlies optreedt.
+
+1p    12    Ayoup vervangt de weerstand door een weerstand met een grotere
+            waarde.
+            Wat is dan juist over de spanning over de leds?
+            A die blijft gelijk
+            B die neemt af
+            C die neemt toe
+
+
+
+
+GT-0173-a-24-1-o                           5 / 15                           lees verder ►►►
+      Autosnelweg
+
+            Het profielwerkstuk van Sophie gaat over verkeersgeluid.
+
+
+
+
+            Ze meet op verschillende afstanden van een autosnelweg de
+            geluidssterkte met een decibelmeter.
+            Je ziet een tabel met haar meetresultaten.
+
+       afstand (m)              20      30         40   60     80       100      120
+       geluidssterkte (dB)     75,0    71,5      69,0   65,5   63,0     70,0*    60,0
+            * Bij de meting op 100 m afstand kwam er net een groep motoren langs
+              waardoor de gemeten geluidssterkte veel hoger was dan verwacht.
+
+            Er is een verband tussen de afstand en de geluidssterkte.
+
+1p    13    Welk verband tussen de afstand en de geluidssterkte past het best bij de
+            meetresultaten?
+            Bij verdubbeling van de afstand neemt de geluidssterkte
+            A met 3 dB af.
+            B met 3 dB toe.
+            C met 4,5 dB af.
+            D met 4,5 dB toe.
+            E met 6 dB af.
+            F met 6 dB toe.
+
+4p    14    Zet in het diagram op de uitwerkbijlage alle meetpunten uit en teken de
+            grafiek die bij dit verband hoort.
+
+
+
+
+GT-0173-a-24-1-o                              6 / 15                            lees verder ►►►
+2p    15    Je ziet een afbeelding van de decibelmeter van Sophie tijdens een
+            meting. De decibelmeter is met de keuzeschakelaar ingesteld op
+            medium (‘Med’).
+
+
+
+
+            Op de uitwerkbijlage staat een tabel over deze geluidssterkte.
+             Noteer in beide kolommen het juiste antwoord.
+
+2p    16    Bij de meting op een afstand van 120 m is het geluid een tijd van 0,353 s
+            onderweg.
+             Bereken de geluidssnelheid.
+
+1p    17    Een maatregel om de geluidsoverlast voor de bewoners langs de snelweg
+            te verminderen, is het verlagen van de maximumsnelheid van de
+            voertuigen op de snelweg.
+            Op welke plaats wordt de geluidssterkte door deze maatregel verlaagd?
+            A bij de bron
+            B bij de tussenstof
+            C bij de ontvanger
+
+
+
+
+GT-0173-a-24-1-o                             7 / 15                              lees verder ►►►
+      Op vakantie
+
+            Marja gaat op vakantie.
+            Zij heeft op haar auto
+            een dakkoffer geplaatst
+            om extra bagage mee te
+            kunnen nemen. De
+            dakkoffer is vastgemaakt
+            aan de dakdragers van
+            de auto.
+
+
+
+
+            De zwaartekracht op de
+            dakdragers en de dakkoffer met inhoud is 750 N.
+
+2p    18    Het totale contactoppervlak van de dakdragers met de auto is 84 cm2.
+             Bereken de druk op het contactoppervlak.
+
+            Je ziet een schematische afbeelding van de auto zonder dakkoffer.
+            Punt Z is het zwaartepunt.
+
+
+
+
+1p    19    Het plaatsen van de dakkoffer met bagage heeft invloed op de ligging van
+            het zwaartepunt.
+            In welke afbeelding is het zwaartepunt van de auto met gevulde dakkoffer
+            het best weergegeven?
+
+
+
+
+                        A                            B                     C
+
+1p    20    Vergelijk het rijden met en zonder dakkoffer bij dezelfde snelheid.
+            Door het rijden met dakkoffer
+            A neemt alleen de luchtweerstand toe.
+            B neemt alleen de rolweerstand toe.
+            C nemen de luchtweerstand en de rolweerstand toe.
+
+
+
+GT-0173-a-24-1-o                            8 / 15                             lees verder ►►►
+      Practicum telefoon
+
+            Milan bepaalt tijdens een practicum de massa van zijn telefoon.
+            Hij doet dit met massablokjes van 50,0 gram en een hefboom.
+
+3p    21    Het volume van een massablokje is 5,9 cm3.
+             Bereken de dichtheid en noteer van welk materiaal het massablokje
+               gemaakt kan zijn.
+
+            Milan hangt de hefboom in een statief. Je ziet een afbeelding van de
+            hefboom met rechts de telefoon en links de massablokjes.
+            Punt D is het draaipunt. De hefboom is in evenwicht.
+
+
+
+
+            Het moment van de massablokjes is 0,40 Nm.
+
+3p    22    Toon dit moment met een berekening aan.
+
+2p    23    Bereken de massa van de telefoon van Milan.
+
+2p    24    Milan verplaatst de massablokjes in de richting van draaipunt D.
+            Het verplaatsen van de massablokjes kan invloed hebben op het
+            evenwicht.
+            Op de uitwerkbijlage staan drie zinnen over het gevolg van de
+            verplaatsing.
+             Omcirkel in elke zin de juiste mogelijkheid.
+
+
+
+
+GT-0173-a-24-1-o                           9 / 15                              lees verder ►►►
+      Citroenaccu
+
+            Een monteur probeert met 1000 halve citroenen de motor van een auto te
+            starten.
+            Door citroenen met metalen plaatjes en draden te verbinden ontstaat er
+            een citroenaccu als spanningsbron.
+
+
+
+
+1p    25    De citroenaccu is te vergelijken met een accu van een auto.
+             Noteer de energiesoort die is opgeslagen in een accu.
+
+            Je ziet een schematische afbeelding van de schakeling met citroenen.
+            Er zijn in totaal 50 rijen met 20 halve citroenen.
+
+
+
+
+1p    26    Wat is juist over de citroenen in de schakeling?
+
+                   De citroenen in één rij zijn         De rijen met citroenen zijn
+
+             A     in serie geschakeld.                 in serie geschakeld.
+
+             B     in serie geschakeld.                 parallel geschakeld.
+
+             C     parallel geschakeld.                 in serie geschakeld.
+
+             D     parallel geschakeld.                 parallel geschakeld.
+
+
+
+
+GT-0173-a-24-1-o                                  10 / 15                             lees verder ►►►
+            De stroomsterkte die de citroenaccu met 50 rijen halve citroenen levert
+            is 1,50 A.
+
+2p    27    De monteur meet de spanning over de citroenaccu.
+            Je ziet een afbeelding van de spanningsmeter met de gemeten spanning.
+
+
+
+
+             Bereken het vermogen dat de citroenaccu levert.
+
+1p    28    Om de motor op te kunnen starten is een stroomsterkte van 90 A nodig.
+             Noteer het aantal rijen met halve citroenen dat daarvoor nodig is. Het
+              aantal halve citroenen in elke rij blijft gelijk.
+
+1p    29    De monteur ruimt na afloop de citroenen op.
+             Noteer bij welk soort afval de citroenen horen. Gebruik de tabel ‘Klein
+               chemisch afval, groente-, fruit- en tuinafval en recycling’ in BINAS.
+
+
+
+
+GT-0173-a-24-1-o                           11 / 15                           lees verder ►►►
+      Drone
+
+            Een drone is een onbemand luchtvaartuig dat op afstand bestuurbaar is.
+
+
+
+
+            Er staat een drone stil op de grond. De motoren worden gestart en de
+            drone stijgt op. De drone versnelt eenparig met 8,0 m/s2.
+
+2p    30    De snelheid van de drone neemt toe van 0 m/s naar 6,0 m/s.
+             Bereken de tijd die de drone versnelt.
+
+            De massa van de drone is 1,6 kg.
+
+2p    31    Bereken de nettokracht die voor deze versnelling nodig is.
+
+1p    32    Na het versnellen stijgt de drone verder met een constante snelheid
+            van 6,0 m/s. Je ziet drie afbeeldingen met de krachten op de drone.
+            Welke afbeelding hoort bij het stijgen met een constante snelheid?
+
+
+
+
+            A             B                C
+
+
+
+
+GT-0173-a-24-1-o                           12 / 15                          lees verder ►►►
+3p    33    Op een bepaalde hoogte heeft de drone een zwaarte-energie van 1,40 kJ.
+             Bereken deze hoogte.
+
+            De bestuurder verandert de vliegrichting van de drone.
+            Op de uitwerkbijlage zie je een afbeelding van de krachten op de drone
+            in punt Z tijdens een bepaald moment van de vlucht.
+            De zwaartekracht op de drone is 16 N.
+            De krachtenschaal is 1 cm ≙ 4,0 N.
+
+1p    34    Toon deze krachtenschaal met een berekening aan.
+
+3p    35    Construeer op de uitwerkbijlage de resulterende kracht van Fz en Fdrone.
+            Noteer de grootte van deze kracht naast de afbeelding.
+
+
+
+
+GT-0173-a-24-1-o                           13 / 15                           lees verder ►►►
+      Petroleum
+
+            Daan vult een petroleumlamp met petroleum.
+
+
+
+
+                             petroleumlamp                        petroleum
+
+1p    36    Voordat Daan de lamp met petroleum vult, leest hij de veiligheidskaart.
+            Op de veiligheidskaart staat dat petroleum irritatie veroorzaakt.
+            Welk veiligheidspictogram hoort bij deze beschrijving?
+
+
+
+
+                   A          B              C               D              E
+
+
+            Daan schenkt een volume van 350 cm3 petroleum in de petroleumlamp.
+
+2p    37    Bereken de energie die vrijkomt bij verbranding van deze hoeveelheid
+            petroleum. Gebruik de tabel ‘Verbrandingswarmte van enkele stoffen’ in
+            BINAS.
+
+
+
+
+GT-0173-a-24-1-o                           14 / 15                              lees verder ►►►
+            Daan steekt de lont van de lamp aan.
+            De petroleum verdampt voordat het verbrandt.
+
+1p    38    Wat is juist over verdampen en verbranden?
+
+
+                   verdampen is een                  verbranden is een
+
+             A     chemische reactie                 natuurkundig proces
+
+             B     chemische reactie                 chemische reactie
+
+             C     natuurkundig proces               natuurkundig proces
+
+             D     natuurkundig proces               chemische reactie
+
+
+2p    39    Op de uitwerkbijlage staat een zin over het verdampen van petroleum.
+             Maak deze zin compleet.
+
+2p    40    Op de uitwerkbijlage staat een zin over petroleum.
+             Noteer in deze zin het kookpunt van petroleum in K en in °C.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+GT-0173-a-24-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

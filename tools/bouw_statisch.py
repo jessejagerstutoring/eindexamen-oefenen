@@ -167,7 +167,7 @@ def main():
       <p class="inleiding">Elk onderwerp uit de syllabus met het aantal centrale examenvragen dat erover ging.</p></header>
     {''.join(blokken)}'''
     schrijf('onderwerpen/', pagina('Alle onderwerpen | Eindexamen Oefenen',
-                                   'Alle onderwerpen van wiskunde, natuurkunde, scheikunde en biologie havo en vwo, met de centrale examenvragen per onderwerp.',
+                                   'Alle onderwerpen van wiskunde, natuurkunde, scheikunde, nask en biologie vmbo, havo en vwo, met de centrale examenvragen per onderwerp.',
                                    'onderwerpen/', inhoud, 1))
     vandaag = date.today().isoformat()
     (DOCS / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'

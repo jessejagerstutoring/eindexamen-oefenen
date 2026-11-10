@@ -1,0 +1,786 @@
+NATUUR- EN
+SCHEIKUNDE II
+VMBO GT
+
+SYLLABUS CENTRAAL
+EXAMEN 2026
+
+
+
+Versie 2, juli 2024
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+© 2024 College voor Toetsen en Examens, Utrecht
+
+Alle rechten voorbehouden. Alles uit deze uitgave mag mits voorzien van een bronvermelding en zonder
+enige wijziging worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of
+openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, door fotokopieën, opnamen, of
+enige andere manier zonder voorafgaande toestemming van het College. Het hergebruik van eventueel
+auteursrechtelijk beschermd werk van derden in dit werk is niet nader geregeld door het CvTE.
+
+
+
+
+                                                                                         Pagina 2 van 19
+       NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+       Versie 2
+
+
+
+
+       INHOUD
+
+
+VOORWOORD                                                                 4
+
+1      SYLLABUS NATUUR- EN SCHEIKUNDE II GT                                5
+1.1    VERDELING EXAMINERING CE/SE                                         5
+1.2    SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE                  6
+NASK2/K/3 LEERVAARDIGHEDEN IN HET VAK SCHEIKUNDE                           6
+NASK2/K/5 MENS EN OMGEVING: VERBRANDING                                    9
+NASK2/K/7 WATER, ZUREN EN BASEN                                           11
+NASK2/K/10 BASISCHEMIE VOOR VERVOLGOPLEIDING EN BEROEP                    13
+NASK2/K/11 BOUW VAN DE MATERIE                                            15
+NASK2/V/1 PRODUCTIEPROCESSEN                                              16
+NASK2/V/2 PRODUCTONDERZOEK                                                17
+NASK2/V/4 VAARDIGHEDEN IN SAMENHANG                                       18
+
+
+
+
+                                                                               Pagina 3 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+VOORWOORD
+De minister heeft de examenprogramma's op hoofdlijnen vastgesteld. In het examenprogramma zijn de
+exameneenheden aangewezen waarover het centraal examen (CE) zich uitstrekt: het CE-deel van het
+examenprogramma.
+
+Het College voor Toetsen en Examens (CvTE) geeft in een syllabus, die jaarlijks verschijnt, een
+toelichting op het CE-deel van het examenprogramma. Behalve een beschrijving van de exameneisen
+voor een centraal examen kan een syllabus verdere informatie over het centraal examen bevatten.
+Bijvoorbeeld over een of meer van de volgende onderwerpen: specificaties van examenstof,
+begrippenlijsten, bekend veronderstelde onderdelen van domeinen of exameneenheden die verplicht zijn
+op het schoolexamen, bekend veronderstelde voorkennis uit de onderbouw, bijzondere vormen van
+examinering (zoals computerexamens), voorbeeldopgaven, toelichting op de vraagstelling, toegestane
+hulpmiddelen.
+
+De functie van een syllabus is een leraar in staat te stellen zich een goed beeld te vormen van wat in het
+centraal examen wel en niet gevraagd kan worden. Naar zijn aard is een syllabus dus niet een volledig
+gesloten en afgebakende beschrijving van alles wat op een examen zou kunnen voorkomen. Het is
+mogelijk, al zal dat maar in beperkte mate voorkomen, dat op een CE ook iets aan de orde komt dat niet
+met zo veel woorden in deze syllabus staat, maar dat naar het algemeen gevoelen in het verlengde
+daarvan ligt.
+
+Een syllabus is ook een hulpmiddel voor degenen die zichzelf op een centraal examen voorbereiden. Een
+syllabus kan ook behulpzaam zijn voor de producenten van leermiddelen en voor nascholingsinstanties.
+De syllabus is niet van belang voor het schoolexamen. Daarvoor zijn door de SLO handreikingen
+geproduceerd die niet in deze uitgave zijn opgenomen.
+
+Deze syllabus geldt voor het examenjaar 2026. Syllabi van eerdere jaren zijn niet meer geldig en kunnen
+van deze versie afwijken. Voor het examenjaar 2027 wordt een nieuwe syllabus vastgesteld.
+Het CvTE publiceert uitsluitend digitale versies van de syllabi. Dit gebeurt via Examenblad.nl
+(www.examenblad.nl), de officiële website voor de examens in het voortgezet onderwijs.
+In de syllabi 2026 zijn de wijzigingen ten opzichte van de vorige syllabus voor het examenjaar 2025
+duidelijk zichtbaar. De veranderingen zijn geel gemarkeerd. Er zijn diverse vakken waarbij de syllabus
+2026 geen inhoudelijke veranderingen heeft ondergaan.
+
+Een syllabus kan ook tussentijds worden aangepast, bijvoorbeeld als een in de syllabus beschreven
+situatie feitelijk veranderd is. De aan een centraal examen voorafgaande Septembermededeling is dan
+het moment waarop dergelijke veranderingen bekendgemaakt worden. Kijkt u voor alle zekerheid
+jaarlijks in september op Examenblad.nl.
+
+Het CvTE stelt het aantal en de tijdsduur van de toetsen van het centraal examen vast en de wijze
+waarop het centraal examen wordt afgenomen. Deze vaststelling wordt gepubliceerd in het rooster voor
+de centrale examens en in de Septembermededeling.
+
+Voor opmerkingen over syllabi houdt het CvTE zich steeds aanbevolen. U kunt die zenden aan
+info@cvte.nl of aan CvTE, Postbus 315, 3500 AH Utrecht.
+
+De voorzitter van het College voor Toetsen en Examens,
+Drs. J.H. (John) van der Vegt MPM
+
+
+
+
+                                                                                            Pagina 4 van 19
+      NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1     SYLLABUS NATUUR- EN SCHEIKUNDE II GT
+
+1.1   VERDELING EXAMINERING CE/SE
+      Tabel:
+      Verdeling van de examenstof Natuur- en scheikunde II GT over centraal examen en schoolexamen
+
+
+       Exameneenheden                                                    GT   CE   moet op    mag
+                                                                                     SE      op SE
+
+       NASK2/K/1        Oriëntatie op leren en werken                    X           GT
+
+       NASK2/K/2        Basisvaardigheden                                X           GT
+
+       NASK2/K/3        Leervaardigheden in het vak scheikunde           X    GT     GT
+
+       NASK2/K/4        Mens en omgeving: gebruik van stoffen            X           GT
+
+       NASK2/K/5        Mens en omgeving: verbranding                    X    GT              GT
+
+       NASK2/K/6        Mens en omgeving: werken bij practicum en in     X           GT
+                        beroepssituaties
+
+       NASK2/K/7        Water, zuren en basen                            X    GT              GT
+
+       NASK2/K/8        Reinigingsmiddelen en cosmetica                  X           GT
+
+       NASK2/K/9        Chemie en industrie                              X           GT
+
+       NASK2/K/10       Basischemie voor vervolgopleiding en beroep      X    GT              GT
+
+       NASK2/K/11       Bouw van de materie                              X    GT              GT
+
+
+
+       NASK2/V/1        Productieprocessen                               X    GT              GT
+
+       NASK2/V/2        Productonderzoek                                 X    GT              GT
+
+       NASK2/V/3        Verwerven, verwerken en verstrekken van          X           GT
+                        informatie
+
+       NASK2/V/4        Vaardigheden in samenhang                        X    GT              GT
+
+
+
+
+                                                                                             Pagina 5 van 19
+      NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+      Versie 2
+
+
+
+
+1.2   SPECIFICATIE VAN DE GLOBALE EINDTERMEN VOOR HET CE
+
+      NASK2/K/3 Leervaardigheden in het vak scheikunde
+      De kandidaat beheerst de kerndoelen van het leergebied ‘Mens en natuur’ uit de onderbouw VO.
+
+      De kandidaat kan
+
+      1   natuur- en scheikundige begripskennis opbouwen:
+      –   reflecteren op aanwezige denkbeelden
+      –   onjuiste denkbeelden bijstellen of vervangen
+      –   verbanden leggen tussen begrippen en regels
+      –   leren door te doen
+      –   leren door te ontdekken
+
+      2 natuur- en scheikundig bronnenmateriaal begrijpend lezen en hierbij feiten en meningen
+        onderscheiden:
+      – studieboeken
+      – naslagwerken
+      – gegevensbestanden
+      – technische handleidingen
+      – cd-rom en internet
+
+      3 informatie uit natuur- en scheikundig bronnenmateriaal verwerven, selecteren, verwerken en
+        bewerken:
+      – tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding
+      – tekeningen, schema's, diagrammen en tabellen
+
+      4 eigen gedachten mondeling en schriftelijk formuleren over natuur- en scheikundige onderwerpen:
+      – vaktaal functioneel gebruiken
+      – verband leggen tussen vakinhoudelijke begrippen en contexten waarin deze begrippen functioneel zijn
+
+      5 basisrekenvaardigheden binnen natuur- en scheikunde toepassen:
+      – vooraf uitkomsten schatten bij het meten en rekenen en achteraf uitkomsten beoordelen
+      – zakrekenmachine gebruiken voor:
+               – optellen
+               – aftrekken
+               – vermenigvuldigen
+               – delen
+      – functietoetsen van de zakrekenmachine gebruiken voor:
+               – omgekeerde
+               – kwadraat
+               – wortel
+      – rekenregels gebruiken:
+               – positieve machten van tien
+               – negatieve machten van tien
+               – decimale getallen
+               – verhoudingstabellen
+               – eenvoudige breuken
+               – percentages
+               – promillages
+
+      6 rekenen met grootheden en eenheden:
+      – het resultaat van een berekening afronden in overeenstemming met de gegeven situatie
+      – berekeningen uitvoeren met bekende grootheden en relaties:
+              – woordformules
+              – formules
+      – evenredige, lineaire en omgekeerd evenredige verbanden aangeven
+      – de eenheid bij een gemeten of berekende grootheid aangeven
+      – afgeleide eenheden herleiden tot eenheden van het SI-eenhedenstelsel
+
+                                                                                                 Pagina 6 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+–   gebruik maken van gangbare begrippen en voorvoegsels:
+          – mega
+          – kilo
+          – milli
+          – micro
+
+7 veilig, zinvol en doelmatig gebruik maken van stoffen, materialen, (meet)instrumenten, apparaten en
+  software, zonder schade te berokkenen aan mensen, dieren en milieu
+
+8 een technisch probleem herkennen en specificeren
+
+9   een ontwerpproces uitvoeren:
+–   een werkplan maken voor het uitvoeren van een ontwerp
+–   een ontwerp of een deel ervan bouwen
+–   ontwerpproces en product evalueren, rekening houdende met ontwerpeisen en randvoorwaarden
+–   voorstellen doen voor verbetering
+
+10 een onderzoekende houding en adequate onderzoeksvaardigheden tonen:
+– onderzoek voorbereiden:
+         – een onderzoeksvraag formuleren
+         – benodigdheden verzamelen
+         – alternatieven bedenken voor de uitvoering
+– onderzoek uitvoeren:
+         – een verwachting formuleren
+         – werken volgens plan
+         – waarnemingen verrichten
+         – gegevens verzamelen
+         – conclusies trekken
+         – uitspraken over de geldigheid van het onderzoek doen
+– onderzoek afsluiten:
+         – onderzoek evalueren
+         – voorstellen voor verbetering doen
+         – aanbevelingen voor verder onderzoek doen
+         – de resultaten presenteren
+         – opruimen
+
+11 natuur- en scheikundige grootheden, eenheden en relaties gebruiken:
+– lengte, massa, tijd
+– stroomsterkte, spanning
+– energie, vermogen
+– temperatuur (in graden Celsius en Kelvin, inclusief het omrekenen tussen beide temperatuurschalen)
+– druk
+– dichtheid
+– concentratie
+– gehalte
+
+12 natuur- en scheikundige meetapparaten gebruiken in praktijksituaties:
+– liniaal, weegtoestel, klok, stroommeter, spanningsmeter, thermometer, barometer,
+– maatcilinder, pipet, buret, injectiespuit als volumemeter
+– meten met behulp van de computer
+
+13 op de juiste wijze omgaan met stoffen, materialen en hulpmiddelen in het laboratorium:
+– kwispelen bij schudden
+– ruiken met wuiven
+– vlamsoort kiezen
+– brander gebruiken
+– gebruik van scheikundig glaswerk (zoals reageerbuis, bekerglas, trechter, erlenmeyer)
+– zuinig met grondstoffen omgaan
+– verantwoord met afval(stoffen) omgaan
+
+                                                                                            Pagina 7 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+–   proper en veilig werken
+
+
+
+
+                                                                   Pagina 8 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK2/K/5 Mens en omgeving: verbranding
+De kandidaat kan
+
+1   de verschijnselen beschrijven, die zich bij verbranding kunnen voordoen:
+–   rook, roet
+–   vlam, vonk, warmteontwikkeling
+–   verontreiniging van de lucht
+
+2 voorwaarden noemen voor het ontstaan van brand en toelichten dat het blussen of het voorkomen
+  van brand berust op beïnvloeding van deze voorwaarden:
+– aanwezigheid van brandstof en zuurstof
+– ontbrandingstemperatuur
+– blusmiddelen:
+        – water
+        – zand
+        – schuim
+        – koolstofdioxide
+        – blusdeken
+
+3 de milieu- en gezondheidseffecten kunnen noemen die kunnen optreden als gevolg van de uitstoot
+  van de volgende schadelijke gassen:
+
+
+ MILIEUEFFECTEN
+
+ - SO2: zure regen
+ - NOx: zure regen
+ - CO2: broeikaseffect
+ - CFK's: aantasting ozonlaag
+
+ GEZONDHEIDSEFFECTEN
+
+ - aantasting van luchtwegen
+
+
+4 het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van
+  voldoende luchttoevoer in verband met veiligheid en milieu:
+– (fossiele) brandstoffen:
+         – steenkool
+         – cokes
+         – koolwaterstoffen:
+            – aardgas (met als belangrijkste deel methaan)
+            – benzine
+– onvolledige verbranding:
+         – reactieproducten, o.a. koolstofmono-oxide (giftig) en koolstof
+– volledige verbranding:
+         – reactieproducten, o.a. koolstofdioxide en water
+
+
+
+
+                                                                                         Pagina 9 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+5 uitleggen dat aardolie in raffinaderijen bewerkt wordt tot allerlei soorten brandstoffen en andere
+  producten:
+– destillatie
+– kraken
+– brandstoffen:
+         – LPG
+         – benzine
+         – kerosine
+         – diesel
+         – stookolie
+– andere producten:
+         – asfaltbeton
+         – kunststoffen (polymerisatie van monomeren tot polymeren, thermoharders en
+             thermoplasten)
+         – smeermiddelen
+         – medicijnen
+
+
+
+
+                                                                                           Pagina 10 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK2/K/7 Water, zuren en basen
+De kandidaat kan
+
+1 verschillen en overeenkomsten tussen drinkwater, zeewater, regenwater, oppervlaktewater en
+  grondwater aangeven
+
+2 uitleggen waarom de concentratie waarin stoffen in drinkwater mogen voorkomen, per stof verschilt
+
+3 de betekenis en functie van het gebruik van water als oplosmiddel, als spoelmiddel en als middel bij
+  de bereiding van voedsel beschrijven:
+– oplosbaarheid van krijt, suiker, keukenzout, olie, vet, alcohol, zuurstof en ammoniak
+– spoelmiddel bij gebruik van zeep en wasmiddelen
+
+4 uitleggen wat het verschil is tussen hard en zacht water, nadelen van het gebruik van hard water
+  noemen en mogelijkheden noemen om water te ontharden:
+– ketelsteen, gebruik van wasmiddelen, vorming van kalkzeep
+– ontharden door: koken van water, ionenwisselaar, waterontharder, neerslagreactie
+
+5 verwoorden dat zure stoffen (opgelost in water) H+ ionen kunnen afstaan en basische stoffen
+  (opgelost in water) H+ ionen kunnen opnemen:
+
+
+ ZUREN                         BASEN
+
+ -   HCl(g)                    -   ammoniak: NH3(g)
+ -   HNO3(l)                   -   zouten met OH-
+ -   H2SO4(l)                  -   zouten met O2-
+ -   HAc(l)                    -   zouten met CO32-
+
+
+6 de naam van een aantal zure en basische oplossingen en de formules van de deeltjes die daarin
+  voorkomen, geven:
+– zoutzuur: H+(aq) en Cl-(aq)
+– verdund salpeterzuur: H+(aq) en NO3- (aq)
+– verdund zwavelzuur (accuzuur): H+(aq) en SO42- (aq)
+– koolzuurhoudend water: H+(aq) en CO32-(aq)
+– azijn: H+(aq) en Ac- (aq)
+– natronloog: Na+(aq) en OH-(aq)
+– kalkwater: Ca2+(aq) en OH-(aq)
+– ammonia: NH3(aq)
+
+7 eigenschappen en toepassingen van zure en basische oplossingen noemen:
+– zure oplossingen: stroomgeleiding; vorming van waterstof aan de negatieve elektrode; etsende
+  werking; kleuring van indicatoren; aantasting van kalksteen
+– basische oplossingen: stroomgeleiding; ontvettende werking; irriterend voor de huid; kleuring van
+  indicatoren
+
+8 een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan
+  of een oplossing zuur, basisch of neutraal is:
+– lakmoespapier bevochtigen met vloeistof;
+         – zuur: blauw wordt rood;
+         – basisch: rood wordt blauw;
+         – neutraal: rood en blauw verkleuren niet
+– fenolftaleïne in vloeistof doen:
+         – zuur: verkleurt niet;
+         – basisch wordt paars;
+         – neutraal: verkleurt niet
+– rode koolsap
+– universeel indicatorpapier
+
+
+                                                                                         Pagina 11 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+9 de pH-schaal gebruiken om de mate van zuur of basisch zijn van een oplossing uit te drukken en het
+  kwalitatief verband aangeven tussen de concentratie van H+ c.q. OH- ionen en de pH van een waterige
+  oplossing
+
+
+
+
+                                                                                      Pagina 12 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK2/K/10 Basischemie voor vervolgopleiding en beroep
+De kandidaat kan
+
+1 eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen
+  toepassen in practicumsituaties:
+– fase bij normale druk en kamertemperatuur
+– kleur
+– geur
+– oplosbaarheid in water
+– kookpunt, smeltpunt
+– elektrische geleiding
+– van enkele stoffen / oplossingen de kleur en/of geur noemen:
+         – koolstofdioxide: kleurloos en reukloos
+         – koolstofmono-oxide: kleurloos en reukloos
+         – oplossing van koper(II)zout: blauw
+
+2 chemische reacties beschrijven als processen waarbij een of meer stoffen verdwijnen en een of meer
+  stoffen ontstaan:
+– beginstoffen
+– reactieproducten
+
+3 onderzoeken of een stof een zuivere stof is of een mengsel:
+– smelt- cq stol- en kookpunt
+– smelt- cq stol- en kooktraject
+
+4 van een aantal stoffen uitleggen of het zuivere stoffen of mengsels zijn en van de mengsels de
+  hoofdbestanddelen noemen:
+– suiker, keukenzout, gedestilleerd water
+– drinkwater, melk, limonade, wijn, bier, jenever, spiritus, azijn, reinigingscrème, tandpasta, shampoo
+  en lucht
+– legeringen:
+         – amalgaam
+         – brons
+         – messing
+         – soldeer
+
+5 enkele soorten mengsels uit het dagelijks leven onderscheiden:
+– emulsie:
+         – boter
+         – melk
+         – crème
+– suspensie:
+         – modder
+         – verf
+– schuim
+– rook
+– nevel
+– legering
+– oplossing
+
+
+
+
+                                                                                         Pagina 13 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+6       processen uit het dagelijks leven herkennen als chemische reactie:
+–       chemische processen bij de voedselbereiding
+–       verteren van voedsel
+–       rotten, bederven
+–       verkleuren
+–       haar permanenten, haar verven
+–       ontsmetten
+–       harden van cement
+
+7 van een reactie waarvan de formules van de beginstoffen en de formules van de reactieproducten
+  gegeven zijn, de reactievergelijking opschrijven
+
+8 van een reactie waarvan de triviale en/of rationele namen en formules van de beginstoffen en de
+  reactieproducten gekend moeten worden, de reactievergelijking opschrijven:
+– water, waterstofperoxide, ammoniak, koolstofmono-oxide, koolstofdioxide, zwaveldioxide,
+  zwaveltrioxide, zuurstof, waterstof, halogenen, soda, keukenzout, alcohol, glucose en elders in de
+  syllabus genoemde stoffen
+
+9 toepassingen noemen van zuurbase reacties en hiervan de reactievergelijking opschrijven:
+– neutraliseren
+– ontkalken
+
+10 de massa van één van de stoffen die bij een reactie betrokken zijn, berekenen als de massa's van de
+   andere stoffen gegeven zijn, in relatie met het doelmatig gebruik van stoffen
+
+11 de factoren noemen die invloed hebben op de snelheid van een reactie en uitleggen wat de invloed
+   van die factoren is:
+– soort stof
+– temperatuur
+– verdelingsgraad
+– katalysator
+– concentratie
+
+12 met behulp van moleculen, atomen en ionen een aantal begrippen en processen beschrijven:
+
+
+ begrippen                                     processen
+
+    –    toestand van een stof (s, l, g, aq)   –   scheiden van mengsels
+    –    zuivere stof                          –   elektrische geleiding
+    –    mengsel                               –   oplossen
+    –    niet-ontleedbare stof                 –   smelten
+    –    ontleedbare stof (verbinding)         –   chemische reactie
+    –    zouten                                –   ontleden, verbranden,
+    –    moleculaire stoffen                   –   neerslaan en neutraliseren
+    –    atomaire stoffen
+    –    metalen
+
+
+13 uitleggen wat neerslagreacties zijn en hiervan toepassingen noemen
+
+14 met behulp van een gegeven oplosbaarheidstabel nagaan of een neerslag ontstaat bij het mengen van
+   twee zoutoplossingen
+
+15 met behulp van een gegeven oplosbaarheidstabel uitleggen hoe een slecht oplosbaar zout gemaakt
+   kan worden of hoe een gegeven ionsoort uit een oplossing verwijderd kan worden
+
+
+
+
+                                                                                         Pagina 14 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK2/K/11 Bouw van de materie
+De kandidaat kan
+
+1 uitleggen dat stoffen uit moleculen, atomen of ionen zijn opgebouwd
+
+2 uitleggen dat moleculen zijn opgebouwd uit atomen
+
+3 uitleggen wat de formule van een moleculaire stof aangeeft en de aanduidingen mono, di, tri , tetra en
+  penta gebruiken bij de naamgeving en het opstellen van molecuulformules
+
+4 de naam en formule van een zout opschrijven als de namen of formules van de ionen gegeven zijn:
+– zo nodig gebruik van een Romeins cijfer in de naam
+
+5 de formules van de ionen waaruit een zout bestaat, opschrijven als de naam of formule van het zout
+  gegeven is
+
+6 scheikundige reacties beschrijven als hergroepering van atomen of ionen
+
+7 de notatie en namen van een aantal scheikundige symbolen geven:
+– Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg, N, Na, Ne, Ni, O, P, Pb, Pt, S,
+  Si, Sn, Zn
+
+8   uitleggen hoe in het Periodiek Systeem de atoomsoorten gerangschikt zijn:
+–   groepen, perioden
+–   metalen en niet metalen
+–   namen groep 17 en 18
+–   elementen in dezelfde groep hebben overeenkomstige chemische eigenschappen
+
+9 de notaties en namen van een aantal ionen geven:
+– Ag+, Al3+, Ba2+, Br-, Ca2+, Cl-, CO32-, Cu2+, F-, Fe2+, Fe3+, H+, I-, K+, Mg2+, Na+, NH4+, NO3-, O2-,
+  OH-, Pb2+, PO43-, S2-, Sn2+, SO42-, Zn2+
+
+
+
+
+                                                                                              Pagina 15 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK2/V/1 Productieprocessen
+De kandidaat kan
+
+1 in de voorbereidingsfase:
+– berekeningen uitvoeren bij een reactievergelijking die betrekking heeft op een productieproces
+
+2 in de uitvoeringsfase:
+– een productieproces, een deel van een productieproces of een variatie op een productieproces uit de
+  chemische industrie beschrijven
+– productketen schematisch weergeven, bijvoorbeeld in een blokschema
+– een productieproces op kleine schaal uitvoeren en op basis van een onderzoeksvraag experimenteren
+
+3 in de afsluitingsfase:
+– de resultaten mondeling of schriftelijk op samenhangende wijze presenteren volgens tevoren gestelde
+  criteria
+
+4 in de evaluatiefase:
+– de eigen resultaten en de resultaten van anderen beoordelen aan de hand van tevoren gestelde
+  criteria
+
+Aan een onderzoek worden de volgende inhoudelijke eisen gesteld:
+A. In het onderzoek worden scheikundige begrippen, symbolen en formules kwalitatief en kwantitatief
+   gebruikt in relatie tot een of meer productieprocessen.
+   Hierbij gaat het om:
+        – de vaste massaverhouding waarin stoffen bij een reactie betrokken zijn
+        – berekeningen bij een reactievergelijking op basis van de massaverhouding waarin de stoffen
+            bij de reactie betrokken zijn
+        – het gebruik van diagram of tabel om de massaverhouding waarin twee stoffen bij een reactie
+            betrokken zijn, af te leiden
+        – op basis van een gegeven massaverhouding en gegeven massa's van twee beginstoffen te
+            berekenen welke beginstof in overmaat aanwezig is
+        – verspilling van grondstoffen als ze niet in de goede verhouding zijn gemengd
+        – atoommassa
+        – molecuulmassa
+        – massapercentage
+        – volumeprocenten
+        – overmaat
+
+B. In het onderzoek worden de vaardigheden uit NASK2/K/3 getoond. Hierbij ligt een nadruk op de
+   strategische vaardigheden met betrekking tot onderzoeken en ontwerpen.
+
+
+
+
+                                                                                        Pagina 16 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+NASK2/V/2 Productonderzoek
+De kandidaat kan
+
+1 in de voorbereidingsfase:
+– uit het resultaat van een titratie het zuur- of basegehalte van een oplossing berekenen aan de hand
+  van een ijkgegeven
+– verwoorden wat ontledingsreacties zijn, dat ontledingsreacties kunnen plaatsvinden onder invloed van
+  elektriciteit, warmte en licht. Hij/ zij kan enkele toepassingen noemen.
+– met behulp van een gegeven oplosbaarheidstabel en waarnemingen uit een experiment uitspraken
+  doen over de mogelijke aanwezigheid van ionen in een oplossing
+
+2 in de uitvoeringsfase:
+– de samenstelling van een product beschrijven aan de hand van gegevens op etiket of bijsluiter
+– door middel van een experiment de aanwezigheid van op een etiket of bijsluiter genoemde stoffen
+  aantonen en de resultaten presenteren
+
+3 in de afsluitingsfase:
+– rapporteren naar aanleiding van een onderzoek over een product door middel van een verslag en/of
+  presentatie
+
+4 in de evaluatiefase:
+– de eigen resultaten en de resultaten van anderen beoordelen aan de hand van tevoren gestelde
+  criteria
+
+Aan een onderzoek worden de volgende inhoudelijke eisen gesteld:
+A. In het onderzoek worden scheikundige begrippen, technieken, symbolen en formules kwalitatief en
+   kwantitatief gebruikt in relatie tot een of meer producten.
+   Hierbij gaat het om:
+        – scheidingsmethoden uitvoeren:
+            – filtreren
+            – bezinken
+            – extraheren
+            – adsorptie
+            – destilleren
+            – indampen
+        – ontledingsreacties uitvoeren:
+            – elektrolyse
+            – thermolyse
+            – fotolyse
+        – titreren:
+            – eindpunt
+            – kleuromslag
+        – pH meten en pH-schaal gebruiken
+        – indicatoren gebruiken:
+            – lakmoes
+            – fenolftaleïne
+            – rodekoolsap
+            – universeel indicator
+        – indicatoren gebruiken met behulp van verstrekte gegevens:
+            – omslagtraject
+            – kleur bij bepaalde pH
+        – aantonen van de aanwezigheid van zuurstof, waterstof, water en koolstofdioxide
+        – neerslagreacties
+        – verdunnen
+        – vlamkleuring toepassen
+        – hulpstoffen herkennen:
+            – E-nummers opzoeken
+
+
+
+
+                                                                                       Pagina 17 van 19
+NATUUR- EN SCHEIKUNDE II VMBO GT | SYLLABUS CENTRAAL EXAMEN 2026
+Versie 2
+
+
+
+
+B. In het onderzoek worden de vaardigheden uit NASK2/K/3 getoond. Hierbij ligt een nadruk op de
+   strategische vaardigheden met betrekking tot onderzoeken en ontwerpen.
+
+NASK2/V/4 Vaardigheden in samenhang
+De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen
+
+
+
+
+                                                                                     Pagina 18 van 19
+
